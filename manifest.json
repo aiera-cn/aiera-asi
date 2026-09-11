@@ -1,0 +1,40 @@
+{
+  "name": "aiera-asi",
+  "version": "0.6.0",
+  "base": "https://raw.githubusercontent.com/ThomasYin0216/aiera-asi/main",
+  "note": "v0.6 起走 GitHub 分发:安装/自更新/托管模式都从 base 取。官网 JSON 出口上线后再把 base 换成 aiera.com.cn。",
+  "files": [
+    {
+      "url": "SKILL.md",
+      "dest": "SKILL.md"
+    },
+    {
+      "url": "manifest.json",
+      "dest": "manifest.json"
+    },
+    {
+      "url": "scripts/asi_fetch.py",
+      "dest": "scripts/asi_fetch.py"
+    },
+    {
+      "url": "references/sources.md",
+      "dest": "references/sources.md"
+    },
+    {
+      "url": "references/columns.md",
+      "dest": "references/columns.md"
+    },
+    {
+      "url": "references/citing.md",
+      "dest": "references/citing.md"
+    },
+    {
+      "url": "references/state-schema.md",
+      "dest": "references/state-schema.md"
+    },
+    {
+      "url": "references/interaction.md",
+      "dest": "references/interaction.md"
+    }
+  ]
+}

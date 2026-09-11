@@ -1,0 +1,275 @@
+#!/usr/bin/env python3
+"""取新智元 ASI 爆点数据,输出 JSON 到 stdout。
+
+数据目前内嵌在首页的 JS 数组里(var FEED / var BOARD / var STORIES),
+官网 /asi/*.json 出口上线后,把 fetch_live() 换成直接取 JSON 即可,其余不动。
+
+用法:
+    python3 asi_fetch.py                    # 秒追流 + 爆点榜,各 10 条
+    python3 asi_fetch.py --feed             # 只要秒追流
+    python3 asi_fetch.py --board            # 只要爆点榜
+    python3 asi_fetch.py --feed --limit 30  # 要更多条
+    python3 asi_fetch.py --articles         # ASI 启示录深度稿(有真链接)
+    python3 asi_fetch.py --search DeepSeek  # 在全站 6000+ 篇里搜
+
+默认只取 10 条:全量 60 条约 14K tokens,日常问答不需要那么多。
+"""
+import json, re, sys, urllib.request
+from datetime import datetime, timedelta, timezone
+
+TZ_CST = timezone(timedelta(hours=8))
+
+HOME = "https://www.aiera.com.cn/"
+COLUMN_URL = "https://www.aiera.com.cn/#secBaodian"
+RSS = "https://www.aiera.com.cn/feed"
+WP = "https://aiera.com.cn/wp-json/wp/v2/posts"
+POST_URL = "https://www.aiera.com.cn/asi-post.html?id="
+ITEM_URL = "https://www.aiera.com.cn/asi-item.html?id="   # 秒追单条详情页
+
+
+def fetch_live():
+    req = urllib.request.Request(HOME, headers={"User-Agent": "Mozilla/5.0"})
+    return urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "ignore")
+
+
+def grab_array(html, name):
+    """抓 var NAME=[...] —— 括号配平,别用贪婪正则(标题里有 [ ] 会咬穿)"""
+    m = re.search(r"\bvar\s+%s\s*=\s*" % name, html)
+    if not m or html[m.end()] != "[":
+        return None
+    i = m.end()
+    depth, j, instr, esc = 0, m.end(), None, False
+    while j < len(html):
+        c = html[j]
+        if instr:
+            if esc:
+                esc = False
+            elif c == "\\":
+                esc = True
+            elif c == instr:
+                instr = None
+        elif c in "\"'":
+            instr = c
+        elif c == "[":
+            depth += 1
+        elif c == "]":
+            depth -= 1
+            if depth == 0:
+                return json.loads(html[i:j + 1])
+        j += 1
+    return None
+
+
+def norm_feed(rows):
+    """FEED 是七元组: [时间, 日期, 标题, 摘要, 来源, 内部id, 权重]"""
+    out = []
+    for r in rows or []:
+        if len(r) < 6:
+            continue
+        out.append({
+            "time": r[0], "date": r[1], "title": r[2], "summary": r[3],
+            "source": r[4], "id": r[5], "weight": r[6] if len(r) > 6 else None,
+            # 每条都有详情页(页面用 JS 渲染成 <a href="asi-item.html?id=...">)
+            "url": ITEM_URL + str(r[5]), "column_url": COLUMN_URL,
+        })
+    return out
+
+
+def norm_board(rows):
+    """BOARD 是对象数组: t=标题 p=摘要 rd=阅读数 ago=多久前 cat=分类"""
+    out = []
+    for r in rows or []:
+        if not isinstance(r, dict):
+            continue
+        q = r.get("q") or {}
+        out.append({
+            "title": r.get("t"), "summary": r.get("p"), "reads": r.get("rd"),
+            "ago": r.get("ago"), "category": r.get("cat"), "source": r.get("src") or "新智元",
+            "bullets": r.get("b") or [],          # 要点列表
+            "quote": {"who": q.get("a"), "role": q.get("r"), "said": q.get("x")} if q else None,
+            "tag": r.get("nt") or None,           # 热度标记
+            "story": r.get("story") or None,      # 所属故事线
+            # 爆点榜在页面上是 <details> 折叠块,原地展开不跳转 —— 没有独立网址
+            "url": None, "column_url": COLUMN_URL,
+        })
+    return out
+
+
+def fetch_articles(limit=10, query=None):
+    """ASI 启示录(深度稿)。来自 WordPress,每篇有干净链接 asi-post.html?id=
+
+    只取摘要,不取全文 —— 深度稿是核心资产,引导读者回官网看。
+    """
+    import html as _html
+    from urllib.parse import quote
+
+    url = f"{WP}?per_page={min(limit, 50)}&_fields=id,date,title,excerpt"
+    if query:
+        url += f"&search={quote(query)}"
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        total = r.headers.get("X-WP-Total")
+        rows = json.loads(r.read())
+
+    def clean(x):
+        return re.sub(r"\s+", " ", _html.unescape(re.sub(r"<[^>]+>", "", x or ""))).strip()
+
+    out = []
+    for p_ in rows:
+        title = clean(p_["title"]["rendered"])
+        d = p_["date"]
+        out.append({
+            "id": p_["id"], "date": d[5:10].replace("-", "/"), "time": d[11:16],
+            "full_date": d[:10], "title": title,
+            "summary": clean(p_["excerpt"]["rendered"]),
+            "url": POST_URL + str(p_["id"]),
+            # WP 是全文搜索,标题没命中的是"正文提到" —— 必须让读者分得清
+            "title_hit": bool(query) and query.lower() in title.lower(),
+        })
+    if query:
+        out.sort(key=lambda x: not x["title_hit"])   # 标题命中的排前面
+    return out, total
+
+
+def rss_fallback():
+    """首页结构变了就退回 RSS。
+
+    注意:RSS 是**全站文章流**(深度稿/论文稿/会议稿),不是 ASI 爆点快讯。
+    栏目不同,署名和链接都得跟着换 —— 详见 main() 里降级分支的 note。
+    """
+    import xml.etree.ElementTree as ET
+    from email.utils import parsedate_to_datetime
+
+    req = urllib.request.Request(RSS, headers={"User-Agent": "Mozilla/5.0"})
+    ch = ET.fromstring(urllib.request.urlopen(req, timeout=30).read()).find("channel")
+
+    items = []
+    for it in ch.findall("item"):
+        raw = it.findtext("pubDate")
+        # RSS 的 pubDate 是 +0000,爆点流是北京时间。不归一就会把凌晨讲成早上。
+        try:
+            cst = parsedate_to_datetime(raw).astimezone(TZ_CST)
+            date, time_ = cst.strftime("%m/%d"), cst.strftime("%H:%M")
+        except Exception:
+            date, time_ = None, None
+        items.append({
+            "title": it.findtext("title"), "summary": (it.findtext("description") or "").strip(),
+            "date": date, "time": time_, "tz": "Asia/Shanghai (已从 RSS 的 +0000 换算)",
+            "pub_date_raw": raw, "url": it.findtext("link"),
+            "source": "新智元(官网 RSS · 全站文章流)",
+        })
+    return items
+
+
+def main():
+    args = sys.argv[1:]
+    want = next((a for a in args if a in ("--feed", "--board", "--all", "--articles")), "--all")
+    query = None
+    if "--search" in args:
+        try:
+            query = args[args.index("--search") + 1]
+            want = "--articles"
+        except IndexError:
+            print(json.dumps({"ok": False, "error": "--search 后面要跟关键词"}, ensure_ascii=False))
+            return 1
+    limit = 10
+    if "--limit" in args:
+        try:
+            limit = int(args[args.index("--limit") + 1])
+        except (IndexError, ValueError):
+            print(json.dumps({"ok": False, "error": "--limit 后面要跟一个数字"},
+                             ensure_ascii=False))
+            return 1
+    if want == "--articles":
+        now = datetime.now(TZ_CST)
+        try:
+            arts, total = fetch_articles(limit, query)
+        except Exception as e:
+            print(json.dumps({"ok": False, "error": f"取深度稿失败: {e}",
+                              "hint": "如实告诉用户连不上,不要用模型记忆代替。"},
+                             ensure_ascii=False))
+            return 1
+        res = {"ok": True, "source": "新智元 ASI 启示录(深度稿)",
+               "fetched_at": now.strftime("%Y-%m-%d %H:%M:%S %z"),
+               "today": now.strftime("%m/%d"),
+               "articles": arts, "articles_count": len(arts),
+               "note": "深度稿**只给摘要 + 链接,不给全文** —— 想看全文引导读者点链接回官网。"}
+        if query:
+            hits = sum(1 for a in arts if a["title_hit"])
+            res["query"] = query
+            res["total_matched"] = total
+            res["title_hits_in_page"] = hits
+            res["note"] += (
+                f" ⚠️ 这是**全文搜索**不是标题搜索:全站共 {total} 篇正文提到过「{query}」,"
+                f"本页 {len(arts)} 篇里只有 {hits} 篇标题真的命中(已排在前面),"
+                "其余只是正文提到。**按发布时间倒序,不是相关度排序**——"
+                "回答时要说清这个区别,别让读者以为这就是最相关的几篇。")
+        print(json.dumps(res, ensure_ascii=False, indent=2))
+        return 0
+
+    try:
+        html = fetch_live()
+    except Exception as e:
+        print(json.dumps({"ok": False, "error": f"取首页失败: {e}",
+                          "hint": "取数失败。如实告诉用户连不上新智元,然后停止。"
+                          "不要用模型记忆,也不要绕过本脚本自行抓取——"
+                          "curl / WebFetch / requests / import 本脚本的函数,全都不行。"
+                          "如果是脚本本身有 bug,只报告 bug,不要代替脚本取数。"},
+                         ensure_ascii=False))
+        return 1
+
+    feed = norm_feed(grab_array(html, "FEED"))
+    board = norm_board(grab_array(html, "BOARD"))
+
+    if not feed and not board:
+        try:
+            items = rss_fallback()
+            now = datetime.now(TZ_CST)
+            print(json.dumps({
+                "ok": True, "degraded": "rss",
+                "source": "新智元(官网 RSS · 全站文章流)",
+                "fetched_at": now.strftime("%Y-%m-%d %H:%M:%S %z"),
+                "today": now.strftime("%m/%d"),
+                "board_available": False,
+                "items_total": len(items),
+                "items": items[:limit],
+                "note": (
+                    "首页数据结构已变,退回全站 RSS。必须在答复正文开头声明这是降级数据。"
+                    "⚠️ 这批**不是 ASI 爆点快讯**,是全站文章流(含深度稿/论文稿/会议稿)。"
+                    "所以:署名写「来源:新智元(官网 RSS)」,不要写「ASI 爆点」;"
+                    "链接给每条自己的 url,不要挂 #secBaodian。"
+                    "爆点榜本次不可用(board_available=false)。用户问「什么最火」时,"
+                    "禁止给出任何暗示重要性/热度/传播量高低的排列,包括标注为「我的判断」的个人排序。"
+                    "可以按发布时间列,也可以按主题归类——但必须写明排列依据,并声明它不代表热度。"
+                    "另外:这批只有 15 条,正常秒追流约 60 条,要告诉用户这次能看到的比平时少得多。"
+                    "整个回答里不要用「爆点」指代这批内容——它们不是爆点快讯。"
+                ),
+            }, ensure_ascii=False, indent=2))
+            return 0
+        except Exception as e:
+            print(json.dumps({"ok": False, "error": f"首页结构已变且 RSS 也取不到: {e}"},
+                             ensure_ascii=False))
+            return 1
+
+    now = datetime.now().astimezone()
+    result = {"ok": True, "source": "新智元 ASI 爆点", "home": HOME,
+              "column_url": COLUMN_URL,
+              # date 字段只有 09/10 没有年份,agent 靠这个判断哪天算"今天"
+              "fetched_at": now.strftime("%Y-%m-%d %H:%M:%S %z"),
+              "today": now.strftime("%m/%d"),
+              "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。"
+                      "*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。"}
+    if want in ("--all", "--feed"):
+        result["feed"] = feed[:limit]
+        result["feed_count"] = len(feed[:limit])
+        result["feed_total"] = len(feed)
+    if want in ("--all", "--board"):
+        result["board"] = board[:limit]
+        result["board_count"] = len(board[:limit])
+        result["board_total"] = len(board)
+    print(json.dumps(result, ensure_ascii=False, indent=2))
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
