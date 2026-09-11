@@ -1,8 +1,8 @@
 {
   "name": "aiera-asi",
-  "version": "0.6.2",
-  "whats_new": "三轮全面回归(新读者/老读者/注入攻击)全过后的规则修补:去重、零点时间戳、当天太少补前一天、隐私引用划线、署名两层信源、零增量兜底、分析段先结论。",
-  "base": "https://raw.githubusercontent.com/ThomasYin0216/aiera-asi/main",
+  "version": "0.6.3",
+  "whats_new": "仓库迁到新智元的 GitHub 组织 aiera-cn 名下。旧地址自动跳转,已装的不受影响。",
+  "base": "https://raw.githubusercontent.com/aiera-cn/aiera-asi/main",
   "note": "v0.6 起走 GitHub 分发:安装/自更新/托管模式都从 base 取。官网 JSON 出口上线后再把 base 换成 aiera.com.cn。",
   "files": [
     {

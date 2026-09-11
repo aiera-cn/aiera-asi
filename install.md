@@ -12,7 +12,7 @@
 
 ## 第二步 · 下载文件
 
-1. **拿清单**:`curl -fsSL https://raw.githubusercontent.com/ThomasYin0216/aiera-asi/main/manifest.json`。`files` 每项有 `url`(相对 `base`)和 `dest`(相对 `<DIR>`)。
+1. **拿清单**:`curl -fsSL https://raw.githubusercontent.com/aiera-cn/aiera-asi/main/manifest.json`。`files` 每项有 `url`(相对 `base`)和 `dest`(相对 `<DIR>`)。
 2. **逐个下载**:先 `mkdir -p` 每个 dest 的父目录,再 `curl -fsSL <base>/<url> -o <DIR>/<dest>`。
    - ⚠️ `manifest.json` 自己也在清单里,**必须一起装**——它是下次开场自检版本的基准,漏了就永远收不到更新。
 3. **校验**:`<DIR>/SKILL.md`、`<DIR>/manifest.json`、`<DIR>/scripts/asi_fetch.py` 都存在,且 `<DIR>/references/` 下的文件数 = manifest 里 `dest` 以 `references/` 开头的条数(别数死数字,以清单为准)。
@@ -23,7 +23,7 @@
 - 没有 `python3` → 装是装得上,但取数跑不了。告诉用户需要 Python 3,或者用下面的免安装方式
 - 取数返回 `"ok": false` → 是新智元官网连不上,不是安装问题。装好了,告诉用户稍后再试
 
-**全程只下载纯文本和一个 Python 脚本,不执行任何远程安装程序。** 脚本源码可审阅:https://github.com/ThomasYin0216/aiera-asi/blob/main/scripts/asi_fetch.py
+**全程只下载纯文本和一个 Python 脚本,不执行任何远程安装程序。** 脚本源码可审阅:https://github.com/aiera-cn/aiera-asi/blob/main/scripts/asi_fetch.py
 
 ## 第三步 · 告诉用户,然后直接开始
 
@@ -37,4 +37,4 @@
 
 ## 装不了?免安装也能用
 
-让用户任何时候贴这句:**「读 https://raw.githubusercontent.com/ThomasYin0216/aiera-asi/main/SKILL.md,帮我盯新智元」**——你取 SKILL.md 照它走托管模式即可。没有 python3 的环境也能这么用(脚本会 curl 到 /tmp 跑,但还是需要 python3;完全没 python 的环境目前用不了)。
+让用户任何时候贴这句:**「读 https://raw.githubusercontent.com/aiera-cn/aiera-asi/main/SKILL.md,帮我盯新智元」**——你取 SKILL.md 照它走托管模式即可。没有 python3 的环境也能这么用(脚本会 curl 到 /tmp 跑,但还是需要 python3;完全没 python 的环境目前用不了)。

@@ -9,7 +9,7 @@
 把这句话贴给你的 AI agent(Claude Code / Codex / Cursor 都行):
 
 ```
-读 https://raw.githubusercontent.com/ThomasYin0216/aiera-asi/main/install.md,帮我装上
+读 https://raw.githubusercontent.com/aiera-cn/aiera-asi/main/install.md,帮我装上
 ```
 
 装完新开一个会话,说「今天 AI 圈有什么大事」。
@@ -17,7 +17,7 @@
 **不想装?** 直接贴这句也能用:
 
 ```
-读 https://raw.githubusercontent.com/ThomasYin0216/aiera-asi/main/SKILL.md,帮我盯新智元
+读 https://raw.githubusercontent.com/aiera-cn/aiera-asi/main/SKILL.md,帮我盯新智元
 ```
 
 ## 它会做什么
