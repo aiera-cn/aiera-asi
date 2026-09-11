@@ -10,7 +10,9 @@
     python3 asi_fetch.py --board            # 只要爆点榜
     python3 asi_fetch.py --feed --limit 30  # 要更多条
     python3 asi_fetch.py --articles         # ASI 启示录深度稿(有真链接)
-    python3 asi_fetch.py --search DeepSeek  # 在全站 6000+ 篇里搜
+    python3 asi_fetch.py --search DeepSeek  # 在全站 6000+ 篇里搜(默认最近的在前)
+    python3 asi_fetch.py --search AlphaGo --oldest         # 翻最早的 —— 十一年从这儿拿
+    python3 asi_fetch.py --search OpenAI --from 2023-11-15 --to 2023-11-25   # 某一周
 
 默认只取 10 条:全量 60 条约 14K tokens,日常问答不需要那么多。
 """
@@ -95,10 +97,12 @@ def norm_board(rows):
     return out
 
 
-def fetch_articles(limit=10, query=None):
+def fetch_articles(limit=10, query=None, oldest=False, date_from=None, date_to=None):
     """ASI 启示录(深度稿)。来自 WordPress,每篇有干净链接 asi-post.html?id=
 
     只取摘要,不取全文 —— 深度稿是核心资产,引导读者回官网看。
+    oldest=True 按时间正序(翻最早的);date_from/date_to 限定日期范围(YYYY-MM-DD)。
+    这两个是元元"十一年"能不能拿出来的关键 —— 默认只返回最近的,2016 年的稿子永远翻不到。
     """
     import html as _html
     from urllib.parse import quote
@@ -106,6 +110,12 @@ def fetch_articles(limit=10, query=None):
     url = f"{WP}?per_page={min(limit, 50)}&_fields=id,date,title,excerpt"
     if query:
         url += f"&search={quote(query)}"
+    if oldest:
+        url += "&order=asc&orderby=date"
+    if date_from:
+        url += f"&after={date_from}T00:00:00"
+    if date_to:
+        url += f"&before={date_to}T23:59:59"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=30) as r:
         total = r.headers.get("X-WP-Total")
@@ -119,8 +129,10 @@ def fetch_articles(limit=10, query=None):
         title = clean(p_["title"]["rendered"])
         d = p_["date"]
         out.append({
-            "id": p_["id"], "date": d[5:10].replace("-", "/"), "time": d[11:16],
-            "full_date": d[:10], "title": title,
+            "id": p_["id"],
+            # 深度稿 date 直接带年份 —— 翻档案时"2016/01/31"和"09/11"是两个世界
+            "date": d[:10].replace("-", "/"), "time": d[11:16],
+            "year": d[:4], "title": title,
             "summary": clean(p_["excerpt"]["rendered"]),
             "url": POST_URL + str(p_["id"]),
             # WP 是全文搜索,标题没命中的是"正文提到" —— 必须让读者分得清
@@ -172,6 +184,22 @@ def main():
         except IndexError:
             print(json.dumps({"ok": False, "error": "--search 后面要跟关键词"}, ensure_ascii=False))
             return 1
+    oldest = "--oldest" in args
+    date_from = date_to = None
+    for flag, var in (("--from", "date_from"), ("--to", "date_to")):
+        if flag in args:
+            try:
+                v = args[args.index(flag) + 1]
+                if not re.match(r"^\d{4}-\d{2}-\d{2}$", v):
+                    raise ValueError
+                if var == "date_from": date_from = v
+                else: date_to = v
+                want = "--articles"
+            except (IndexError, ValueError):
+                print(json.dumps({"ok": False, "error": f"{flag} 后面要跟 YYYY-MM-DD"}, ensure_ascii=False))
+                return 1
+    if oldest:
+        want = "--articles"
     limit = 10
     if "--limit" in args:
         try:
@@ -183,7 +211,7 @@ def main():
     if want == "--articles":
         now = datetime.now(TZ_CST)
         try:
-            arts, total = fetch_articles(limit, query)
+            arts, total = fetch_articles(limit, query, oldest, date_from, date_to)
         except Exception as e:
             print(json.dumps({"ok": False, "error": f"取深度稿失败: {e}",
                               "hint": "如实告诉用户连不上,不要用模型记忆代替。"},
@@ -194,6 +222,10 @@ def main():
                "today": now.strftime("%m/%d"),
                "articles": arts, "articles_count": len(arts),
                "note": "深度稿**只给摘要 + 链接,不给全文** —— 想看全文引导读者点链接回官网。"}
+        if oldest:
+            res["order"] = "最早在前(--oldest)"
+        if date_from or date_to:
+            res["date_range"] = f"{date_from or '…'} ~ {date_to or '…'}"
         if query:
             hits = sum(1 for a in arts if a["title_hit"])
             res["query"] = query
