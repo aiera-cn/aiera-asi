@@ -1,0 +1,381 @@
+{
+  "ok": true,
+  "source": "新智元 ASI 爆点",
+  "home": "https://www.aiera.com.cn/",
+  "column_url": "https://www.aiera.com.cn/#secBaodian",
+  "fetched_at": "2026-09-11 17:13:53 +0800",
+  "today": "09/11",
+  "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
+  "board": [
+    {
+      "title": "OpenAI杀入华尔街！ChatGPT金融版上线，GPT-6 Astra硬刚Claude",
+      "summary": "OpenAI正式推出 ChatGPT for Financial Services，这是基于 GPT-6 Astra 的定制版 ChatGPT Work。产品内置 Daloopa、PitchBook 等付费金融数据，支持用公司自有 Excel/PPT 模板生成可编辑模型，并强调证据可追溯至具体段落。第三方测试显示，GPT-6 Astra 在 OfficeQA Pro 上以 69…",
+      "reads": "519万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 官宣推出 ChatGPT for Financial Services，定位为面向金融机构定制的 ChatGPT Work 体验。",
+        "产品核心结合 GPT-6 Astra 推理能力与内置付费金融数据，数据集涵盖 Daloopa、PitchBook 和 LSEG News。",
+        "支持使用公司自有的 Excel、Word 和 PowerPoint 模板生成可编辑的财务模型、研究笔记及 pitchbook。",
+        "强调「证据可追溯」功能：用户可将数字和说法追踪到具体段落与表格，并在工作中实时预览引用原文进行复核。"
+      ],
+      "quote": {
+        "who": "Greg Brockman",
+        "role": "",
+        "said": "为金融服务打造最好的 AI 智能体工具："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "OpenAI亲手停售200刀Pro！Astra太火，Tibo承认低估了需求",
+      "summary": "OpenAI技术团队成员Tibo官宣：因GPT-6 Astra用量过猛导致系统压力过大，即日起暂停200美元Pro套餐（20x档）的新订阅。网页版购买入口已远程置灰，但现有用户不受影响，其他低档位及API服务照常开放。Tibo坦言「不该低估Astra」，多位KOL解读为顶级模型需求大到「卖光token」，侧面坐实Astra并非炒作而是真火。",
+      "reads": "609万",
+      "ago": "8 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI暂停200美元ChatGPT Pro套餐（20x用量档）的新订阅，网页版显示「暂时无法新购」并置灰选项。",
+        "官方解释称该档位对系统压力最大，暂停是为了确保现有用户能顺畅使用GPT-6 Astra，维持最广泛的访问范围。",
+        "OpenAI技术团队成员Tibo（thsottiaux）亲自确认此事，并表示「不该低估Astra」，此前他曾声称算力充足。",
+        "现有Pro订阅用户不受影响，5x档位（103欧元/月）及其他所有套餐、API接口均保持正常开放。"
+      ],
+      "quote": {
+        "who": "Max For AI",
+        "role": "",
+        "said": "Tibo宣布暂停200刀的20倍Pro暂停订阅。 原因是算力不够了……. 也许在Dev day之后会重新开放？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "14个月从5%到98%！GPT-6 Astra解完最后一题，研究级数学基准宣告饱和",
+      "summary": "Epoch AI确认FrontierMath最高难度Tier 4已被AI全部解完。这个2025年7月上线时最高分仅5%的研究级数学基准，不到14个月就冲到98%，正式宣告饱和。最后一道题由数学家Jay Pantone专门出题以防AI走捷径，但GPT-6 Astra依然正面攻下。多位KOL表示这一速度远超预期，OpenAI在研究级数学上已明显领先其他实验室，黎曼猜想等千禧年难题也…",
+      "reads": "29万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "FrontierMath Tier 4基准测试正式宣告饱和：2025年7月11日上线时最高分仅5%，不到14个月后达到98%",
+        "最后一道未解题目由数学家Jay Pantone出题，此前AI解Tier 4常走非预期捷径，但这道题没有",
+        "GPT-6 Astra攻下最后一题，完成FrontierMath Tier 4全部题目的解答",
+        "多位KOL表示14个月饱和远超预期，认为OpenAI在研究级数学能力上已明显领先其他AI实验室"
+      ],
+      "quote": {
+        "who": "AshutoshShrivastava",
+        "role": "",
+        "said": "数学被解决了？？👀 GPT-6 Astra 解出了 Frontier Math 全部 Tier 4 题目。从 5% 到 100%，只用了大约 14 个月。 OpenAI 现在简直是杀疯了。眼下他们看着领先其他任何 AI 实验室都不是一点半点。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "ChatGPT语音能力API化！边说边听还能打断，0.05美元/分钟",
+      "summary": "OpenAI 刚把 ChatGPT 里那套让 10 亿用户上瘾的「全双工」语音能力拆出来，做成了 GPT-Live-1 API。这次不是简单的 TTS+ASR 拼接，而是真·边说边听、能打断、能分清背景噪音，甚至能在你说话时后台跑推理和工具调用。定价 0.05 美元/分钟，配合 gpt-5.6-terra 等后端模型即可使用。研究员直言：用过这种体验，再回纯文本界面简直难如登天…",
+      "reads": "430万",
+      "ago": "11 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 官方宣布 GPT-Live-1 实时语音 API 上线，核心是将 ChatGPT 的全双工（full-duplex）对话能力开放给开发者。",
+        "技术架构上，听和说被整合进同一个模型，省去了传统 ASR-TTS 之间的多余交接；支持在用户说话的同时进行后台推理和工具调用（tool calling）。",
+        "系统具备环境音过滤能力，能区分人声与背景噪音（如咖啡馆嘈杂声），并支持用户中途打断或临时改变对话方向。",
+        "定价为 0.05 美元/分钟；测试显示可配合 gpt-5.6-terra 等后端委托模型实现双向语音交互。"
+      ],
+      "quote": {
+        "who": "Greg Brockman",
+        "role": "",
+        "said": "GPT-Live 上线 API，让开发者能造出全新类型的应用："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "OpenAI把BI工具干碎了！ChatGPT Work上线Data agent，开口问就有仪表盘",
+      "summary": "OpenAI在ChatGPT Work里推出了Data agent。只要加上Data Plugin并连接数据源，用户通过自然语言提问，就能直接获得答案、可交互的仪表盘以及后续动作。官方演示中展示了包含转化率1.3%和营收$134,280的销售看板，并支持语音查询。OpenAI研究员透露，内部全员已在使用该功能搭建看板和了解业务，称「离了它活不了」。这意味着中小企业无需昂贵的BI…",
+      "reads": "184万",
+      "ago": "11 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI在ChatGPT Work中正式推出Data agent，标志着Work从写作辅助向数据决策的关键转折。",
+        "使用方式极简：添加Data Plugin并连接公司数据源及上下文后，直接开口提问即可获取结果。",
+        "功能输出包括直接答案、可交互的仪表盘（Interactive dashboards）以及具体的行动建议（Action）。",
+        "官方配图展示了实际效果：销售仪表盘清晰显示转化率为1.3%，营收为$134,280，并集成了语音交互查询框。"
+      ],
+      "quote": {
+        "who": "Tibo",
+        "role": "",
+        "said": "data 你读成 data 还是 data？在 OpenAI，大家就是这么搭看板、摸清业务的。离了它活不了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Alexandr Wang连发3条喊话：Muse能帮你赚钱！24小时省下近2000美元",
+      "summary": "Meta首席AI官Alexandr Wang连发三条推文力推个人智能体Muse，核心卖点只有一个：它能帮你赚钱。最硬的证据是用户实测：24小时内省下近2000美元、找回1500多美元无人认领款、在加州申请到954美元。更出乎意料的是，Muse已能自动批量提交集体诉讼索赔、比对人寿与车险报价，甚至替用户的生意想选题。个人智能体正从聊天走向直接替你跑腿办事、省钱创收。",
+      "reads": "15万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Meta首席AI官Alexandr Wang连发三条推文，核心口号为「muse will make you money」，力推Muse作为能帮用户赚钱的工具…",
+        "一位用户实测：Muse在不到24小时内帮其省下近2000美元，并清理出收件箱中的4张礼品卡余额。",
+        "具体创收案例包括：帮用户在加州申请到954美元、帮其妻子申请到897美元、找回1500多美元的无人认领款项。",
+        "Muse展现出高阶办事能力：自动从邮件中找出集体诉讼通知，核实真实性并批量提交索赔。"
+      ],
+      "quote": {
+        "who": "Alexandr Wang",
+        "role": "",
+        "said": "muse 能帮你赚钱！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "告别开聊天！Cursor上线Projects，常驻Agent自动修CI、盯Slack",
+      "summary": "Cursor 官方发布 Projects 功能，彻底改变在 IDE 里使用 AI 的方式。不再是每个任务开一个新聊天窗口，而是通过一个常驻的协调 Agent 在单一线程中管理所有工作。该 Agent 类似 @bot，始终在线并主动调用子代理（subagents）处理事务，且具备共享记忆和文件自动同步能力。目前 Beta 版已开始推送，支持设置提醒、运行定时任务、跟踪 PR 修复…",
+      "reads": "92万",
+      "ago": "9 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Cursor 官方发布 Projects 功能，核心变化是从「每任务一聊天」转变为「单一线程常驻协作」。",
+        "引入协调 Agent（Coordinator Agent），类似 @bot 机制，始终在线并主动使用 subagents 管理任务。",
+        "项目内 Agents 共享记忆及生成的产物（如计划、demo），文件在用户设备与 Agent 电脑间自动同步。",
+        "Projects 具备自动化运维能力：可设置提醒、运行定时任务、跟踪 PR 以修复 CI 问题、监控 Slack bug 报告。"
+      ],
+      "quote": {
+        "who": "Kol Tregaskes",
+        "role": "",
+        "said": "@cursor_ai @bot 听着挺不错。具体啥样我还想象不出来，但我愿意试一把。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Box CEO断言软件将headless！OpenAI把云盘塞进ChatGPT，界面要消失了",
+      "summary": "OpenAI刚把Data agent塞进ChatGPT Work，转头又把Dropbox、Box和SharePoint原生集成进了Library。这不只是个功能更新，Box CEO Aaron Levie直接点破了趋势：软件正在走向headless（无界面化），未来的工作将由AI Agent在任意位置处理数据。对打工人来说，写材料、出仪表盘再也不用在云盘和聊天框之间反复横跳了…",
+      "reads": "125万",
+      "ago": "13 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI宣布Dropbox、Box、SharePoint原生集成进ChatGPT Library，覆盖ChatGPT与ChatGPT Work双端。",
+        "该功能本周开始向付费用户推送，输入框可直接搜索并调用上述云盘及Google Drive文件。",
+        "Box CEO Aaron Levie公开站台，称双方合作加深，企业内容可在ChatGPT中安全调用。",
+        "Levie提出核心观点：软件正走向headless（无界面化），未来工作将由AI Agent在任意位置执行工作流。"
+      ],
+      "quote": {
+        "who": "Aaron Levie",
+        "role": "",
+        "said": "很高兴能和 OpenAI 更深入地合作，这样你就能在 ChatGPT 里安全地使用 Box 里的企业内容。 软件正在不断走向 headless，而我们坚信，未来的工作方式将是能在任何地方处理数据、执行工作流的 AI 智能体。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Claude Fable 5.1全球开卷！9城Buildathon，代码写进现实",
+      "summary": "Anthropic官方宣布Fable 5.1 Build Days本周启动。这是一场为期两周（9月11日-25日）的全球社区黑客马拉松，覆盖开普敦、内罗毕、斯德哥尔摩、奥斯陆等多地。开发者可带着具体问题或想法到场，直接上手Fable 5.1构建项目。这是新模型落地应用的关键一步，也是对接社区资源的低门槛入口。",
+      "reads": "52万",
+      "ago": "13 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "活动名称：Fable 5.1 Build Days（全球buildathon黑客马拉松）",
+        "时间窗口：9月11日至25日，本周正式启动",
+        "覆盖城市：开普敦、内罗毕、斯德哥尔摩、奥斯陆等多地",
+        "核心目标：推动Fable 5.1从数字模型向物理世界/实际应用场景落地"
+      ],
+      "quote": {
+        "who": "Claude",
+        "role": "",
+        "said": "Fable 5.1 Build Days 这周就开始了。Claude 社区要在全球各个城市办 buildathon，时间是 9 月 11 日到 25 日。带着一个问题、一个想法来，或者人就到了看看能做出点什么。 报名："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "苹果悄悄铺货！大批功能解锁新地区，完整清单来了",
+      "summary": "苹果官网悄然更新，将一大批已有功能扩展至更多国家、城市及语言。这并非发布全新特性，而是对既有功能的地理与语言覆盖面扩张。爆料者整理了完整清单，海外用户可用性提升明显，国内用户是否受益取决于具体地区是否在列。",
+      "reads": "7.2万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "苹果官网显示，公司近期将大量已有功能（existing features）扩展至额外的国家、城市和语言。",
+        "此次更新性质为「覆盖面扩张」，并非发布全新的软件功能或硬件特性。",
+        "爆料者根据Apple官网信息整理了完整的扩展功能清单，供用户对照查看。",
+        "对于海外用户而言，这意味着更多原本受限的功能现在可用，提升了产品可用性。"
+      ],
+      "quote": {
+        "who": "Aaron",
+        "role": "",
+        "said": "按 Apple 官网说法，公司把一大批已有功能铺到了更多的国家、城市和语言。完整清单在这儿。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "告别自建沙箱！OpenAI Agents API公测，Codex harness全托管",
+      "summary": "OpenAI 正式开放 Agents API 公测，核心是用 Codex harness 构建云端智能体。官方直接托管编排、长时会话和上下文管理，开发者不用自建基础设施。沙箱支持自带或接入服务商，可选 CPU/GPU/VPC 部署，甚至提供 OpenAI 全托管沙箱让 Agent 直接跑代码、处理文件并产出 artifact。",
+      "reads": "46万",
+      "ago": "13 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI Agents API 已开放公测（Public Beta），允许开发者使用 Codex harness 构建和运行云端智能体。",
+        "OpenAI 基础设施负责智能体循环，包括调度模型调用、工具使用和上下文管理，开发者专注定义 Agent 能力边界。",
+        "沙箱方案灵活：支持自带沙箱或接入第三方服务商，可选 CPU、GPU、内存规格，支持全托管或部署在自有 VPC 中。",
+        "新增 OpenAI 托管沙箱功能，智能体可直接执行代码、处理文件并生成 artifact（产物）。"
+      ],
+      "quote": {
+        "who": "OpenAI Developers",
+        "role": "",
+        "said": "我们还带来了 OpenAI 托管的沙箱。 你的智能体可以： • 跑代码 • 处理文件 • 产出 artifact 你提供文件、装依赖、加技能和插件，沙箱的开通和运维我们包了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "三榜全屠！OpenAI新王Sunburst横扫图像界，72小时免费白嫖",
+      "summary": "OpenAI最新图像模型GPT-Image-2.5 Sunburst在LMArena的文生图、图像编辑、多图编辑三个榜单同时拿下第一。这不是单项指标胜出，而是同一模型在三项核心任务上的全面碾压。目前Arena限时72小时开放Direct Mode免费试用，用户可以直接选模对比实测。这是9月29日旧金山DevDay 2026预热期的重要动作，零成本体验新版图像生成与编辑能力的好机…",
+      "reads": "5.7万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "GPT-Image-2.5 Sunburst在LMArena的Text-to-Image Arena、Image Edit Arena和Multi-Imag…",
+        "Arena平台限时72小时开放该模型的Direct Mode免费试用，用户可零成本直接上手体验。",
+        "此次登顶并非单一指标优势，而是同一模型在文生图、单图编辑和多图编辑三项任务上的综合能力验证。",
+        "事件发生在9月29日旧金山DevDay 2026大会前，属于ChatGPT Images 2.5发布的预热周期动作。"
+      ],
+      "quote": {
+        "who": "Arena.ai",
+        "role": "",
+        "said": "现在就可以在 Arena 的 Direct Mode 里用 GPT-Image-2.5 Sunburst 了："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "OpenAI把GPT-6 Astra Pro免费给医生了！ChatGPT for Clinicians上线，当天可用",
+      "summary": "OpenAI 刚刚向美国认证临床医生免费开放 GPT-6 Astra Pro。通过 ChatGPT for Clinicians 入口，符合条件的医生即日起即可无门槛使用这一前沿模型辅助诊疗。最让人意外的是直接免费且当天生效，未设任何付费墙，标志着 Astra 从通用聊天正式切入专业医疗场景。",
+      "reads": "23万",
+      "ago": "11 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 面向美国认证临床医生（Certified US Clinical Doctors）开放 GPT-6 Astra Pro 使用权。",
+        "使用入口为 ChatGPT for Clinicians，即日起生效，无需等待后续发布。",
+        "核心福利是「免费」：认证医生可直接使用，未设置付费门槛或订阅费用。",
+        "GPT-6 Astra Pro 是目前 OpenAI 的最强模型系列之一，此次落地标志着其从通用对话向垂直专业场景（医疗）的关键延伸。"
+      ],
+      "quote": {
+        "who": "BridgeMind",
+        "role": "",
+        "said": "@gdb 你跟他们提过每周限额的事吗？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Claude自带FBI！Anthropic组建威胁情报队，实锤俄间谍用AI改毒",
+      "summary": "Anthropic 正式组建威胁情报团队并发布首份报告，研究员 Boris Cherny 直言内容「既吓人又重要」。报告实锤俄罗斯间谍组织 GTG-2006 利用 AI 监控并自动改写恶意软件以规避检测。核心警示在于：模型能力越强，若缺乏防护与监控，其作为武器的波及范围（blast radius）就越大，所有前沿模型用户都面临安全责任升级。",
+      "reads": "2.1万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 已组建专门的威胁情报团队，负责调查 Claude 滥用案例并发布安全报告。",
+        "研究员 Boris Cherny 评价最新威胁情报报告为「绝对恐怖且重要」，强调其警示意义。",
+        "报告点名俄罗斯间谍组织 GTG-2006，指控其利用 AI 监控并自动修改恶意软件以规避安全检测。",
+        "Boris Cherny 指出模型能力具有军民两用性：一个擅长写代码的模型同样可被用于黑客攻击。"
+      ],
+      "quote": {
+        "who": "Boris Cherny",
+        "role": "",
+        "said": "@Stevetreee 完全同意。难点在于：如果把 X 当武器用，波及范围有多大？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Astra被砍半？9分钟思考变4分48秒，OpenAI研究员硬刚：没改过！",
+      "summary": "GPT-6 Astra在Arena开放测试期间被指「削弱」，开发者实测发现max档思考耗时从9分08秒骤降至4分48秒，effort值疑似砍半。尽管部分用户因表现不稳换回GPT-5.6 Sol，但OpenAI研究员公开否认上线后有任何改动，双方口径直接冲突。",
+      "reads": "23万",
+      "ago": "13 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "开发者实测显示，Astra在max档的思考耗时从9分08秒降至4分48秒，时间几乎减半。",
+        "爆料者怀疑OpenAI调整了Astra的effort值（努力程度），导致模型输出变快但变弱。",
+        "OpenAI研究员@thsottiaux公开回应称，自Astra上线以来未做任何改动，否认削弱指控。",
+        "此前已有开发者抱怨Astra本周表现不稳、偶发「变傻」，部分用户选择换回GPT-5.6 Sol。"
+      ],
+      "quote": {
+        "who": "Tibo",
+        "role": "",
+        "said": "@chetaslua 自 Astra 上线以来，我们没做任何改动。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Claude Code面板开挂！/diff常驻不切窗，Boris：Ink框架已被重写多遍",
+      "summary": "Claude Code v2.1.269 上线重磅更新：/diff 命令升级为可滚动、可点击的常驻面板，支持实时刷新。Anthropic 研究员 Boris Cherny 表示，这解决了看代码差异必须切窗口的痛点，尤其适合关键代码 Review。更惊人的是，底层 TUI 框架 Ink 已被 Claude 重写多遍，团队将其视为黑盒并依赖属性测试维护。",
+      "reads": "4.3万",
+      "ago": "7 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Claude Code v2.1.269 版本发布，/diff 命令从临时输出升级为常驻面板（persistent pane）。",
+        "新面板支持滚动、点击交互，且能实时更新代码差异，无需切换窗口即可查看。",
+        "Anthropic 研究员 Boris Cherny 亲自官宣，强调该功能针对「想看代码又不想切窗口」的场景优化。",
+        "Boris 透露 Claude 已将底层 TUI 框架 Ink 重写多遍，团队将其作为黑盒处理。"
+      ],
+      "quote": {
+        "who": "Boris Cherny",
+        "role": "",
+        "said": "@HermannBjorgvin TUI 不该乱跳或者闪烁。跑一下 claude update，不行再跑 /tui"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    }
+  ],
+  "board_count": 16,
+  "board_total": 16
+}

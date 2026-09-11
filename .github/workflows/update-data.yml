@@ -1,0 +1,50 @@
+name: 更新数据(影子出口)
+
+# 网页版 AI 只能读 URL,读不了首页里的 JS 变量。
+# 所以每小时跑一次取数脚本,把结果存成 JSON 提交进仓库,
+# 网页版元元读 raw.githubusercontent.com/aiera-cn/aiera-asi/main/data/*.json
+# 官网自己的 JSON 出口上线后,这个 workflow 就可以关了。
+
+on:
+  schedule:
+    - cron: '7 * * * *'      # 每小时第 7 分钟(错开整点高峰)
+  workflow_dispatch:         # 也能手动点
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 取数
+        run: |
+          set -e
+          mkdir -p data
+          python3 scripts/asi_fetch.py --feed --limit 60     > data/feed.json
+          python3 scripts/asi_fetch.py --board --limit 20    > data/board.json
+          python3 scripts/asi_fetch.py --articles --limit 20 > data/articles.json
+          python3 - <<'PY'
+          import json, datetime
+          ok = all(json.load(open(f"data/{n}.json")).get("ok") for n in ("feed","board","articles"))
+          tz = datetime.timezone(datetime.timedelta(hours=8))
+          json.dump({"updated_at": datetime.datetime.now(tz).strftime("%Y-%m-%d %H:%M:%S +0800"),
+                     "ok": ok,
+                     "note": "影子出口:GitHub Actions 每小时从 aiera.com.cn 抓一次。官网 JSON 出口上线后停用。"},
+                    open("data/meta.json","w"), ensure_ascii=False, indent=2)
+          print("ok =", ok)
+          PY
+
+      - name: 提交
+        run: |
+          git config user.name  "aiera-data-bot"
+          git config user.email "data-bot@aiera.com.cn"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "数据没变,不提交"
+          else
+            git commit -m "data: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
