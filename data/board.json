@@ -3,73 +3,211 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-11 18:24:55 +0000",
+  "fetched_at": "2026-09-11 21:40:56 +0000",
   "today": "09/11",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "OpenAI亲手砍掉$200订阅！Astra需求太猛，Tibo：不该低估它",
-      "summary": "OpenAI官方确认暂停ChatGPT Pro 20x（€229/月）的新订阅，原因是GPT-6 Astra的推理需求过猛，系统压力巨大。技术团队成员Tibo坦言「不该低估Astra」，此前一个月他还曾称算力充足。目前仅5x套餐（€103/月）可选，现有用户及API不受影响。同日Claude将代码限额提升50%，OpenAI此举被视为用最小动作保住最广用户体验的关键转折。",
-      "reads": "779万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI暂停ChatGPT Pro 20x新订阅，该档位定价€229/月（约$200），网页端已置灰显示「暂时无法新购」。",
-        "官方解释称Pro 20x对系统压力最大，暂停是为了确保现有用户能继续流畅使用GPT-6 Astra。",
-        "技术团队成员Tibo在推文中承认「不该低估Astra」，此前一个月他曾表示算力充足，被媒体指出打脸。",
-        "目前ChatGPT Pro 5x套餐（€103/月）仍正常售卖，所有现有订阅及API服务均不受影响。"
-      ],
-      "quote": {
-        "who": "Pankaj Kumar",
-        "role": "",
-        "said": "@thsottiaux Astra 被削弱了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "ChatGPT语音API化了！边说边听还能打断，0.05美元/分钟",
-      "summary": "OpenAI把ChatGPT里那套让10亿用户上瘾的语音系统搬进了API。这次不是简单的TTS+ASR拼接，而是真正的全双工交互：模型一边说话一边听，支持中途打断和话题切换，且听与说由同一模型处理，省去了多模块交接的延迟。定价0.05美元/分钟，开发者还能自定义语气、情绪甚至回复长度。用过之后，再回到纯文本界面确实有点难了。",
-      "reads": "605万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI正式在API上线GPT-Live-1实时语音模型，将ChatGPT的全双工对话能力开放给第三方应用。",
-        "核心突破在于「听与说」由同一模型处理，消除了传统架构中ASR、LLM、TTS之间的多次交接延迟，响应速度大幅提升。",
-        "支持全双工交互：用户可以在AI说话时打断它、补充细节或临时改变话题方向，无需等待模型说完当前句子。",
-        "具备环境音过滤能力，能区分人声与背景噪音（如咖啡馆嘈杂声），确保对话在复杂声学环境下依然流畅。"
-      ],
-      "quote": {
-        "who": "Thomas Wolf",
-        "role": "",
-        "said": "@charlierguo 不过你当时也挺厉害的啊！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "马斯克嘴炮翻车！Grok 4.7 跳票，2.1T参数已就位却憋大招",
-      "summary": "马斯克十天前信誓旦旦说 Grok 4.7「还有10天」，结果今天到了日子，官网和社媒静悄悄。虽然开发者已经挖到 2.1T 参数的内部 slug，证实模型后端已部署，但官方迟迟不发声。鉴于马斯克时间表常偏乐观，这次大概率是跳票了，社区普遍猜测会推迟到明天或下周初，甚至可能搞周末深夜突袭。",
-      "reads": "8.8万",
-      "ago": "1 小时前",
+      "title": "马斯克亲曝Grok 4.7跳票！RL惩罚太狠，难题早放弃",
+      "summary": "原定今天发布的 Grok 4.7 正式跳票。马斯克亲自下场解释，称强化学习（RL）中对回复长度的惩罚设置过重，导致模型在能解决的困难任务上过早放弃，且自我检查不够严谨。目前新模型参数规模达 2.1T，预计还需几天打磨。9月下旬将是发布密集期，Meta 和 OpenAI 也计划在此时推出新品。",
+      "reads": "88万",
+      "ago": "2 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Grok 4.7 原定今日发布，此前马斯克曾预告「还有10天」，但截至发稿 xAI 官网及社媒均无官方公告。",
-        "开发者在 Grok Bot 中发现新模型内部 slug（标识符），证实 Grok 4.7 已部署至后端服务器。",
-        "KOL 爆料称新模型参数量达到 2.1T，属于超大规格模型。",
-        "马斯克的时间表常偏乐观，此次发布可能推迟至明日或下周初。"
+        "Grok 4.7 原定今日（官宣后第10天）发布，马斯克确认需再打磨几天",
+        "延期核心原因：RL 阶段对回复长度惩罚过重，导致模型在困难任务上过早放弃且检查不严谨",
+        "新 Grok 模型参数规模确认为 2.1T，另有爆料称存在 5T 版本",
+        "此前开发者已在 Grok Bot 中发现 Grok 4.7 的 slug，引发跳票担忧"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "SPACEXAI 🔥：Grok 4.7 又要推迟几个“Elon 日”了。 9 月下半月的模型发布会非常密集。预计 Meta 和 OpenAI 都会在 OpenAI DevDay 和 Meta Connect 等相关活动前后宣布些新东西。Grok 4.7"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "3个月狂造500万个站！ChatGPT Sites上线多人协作，Web开发门槛被AI踩碎了",
+      "summary": "OpenAI宣布ChatGPT Sites上线仅3个月，用户创建的站点数已突破500万。本次更新核心是「Build together」多人协作功能，让非技术背景的用户也能轻松构建并托管仪表盘、个人作品集甚至像素风游戏等交互式Web应用。这标志着ChatGPT的能力从单纯的内容生成正式延伸至完整的Web应用开发与托管环节。",
+      "reads": "49万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "ChatGPT Sites上线三个月，累计创建站点数量超过500万个",
+        "新增「Build together」功能，支持多人协作共同构建Web应用",
+        "官方展示的应用场景包括：数据仪表盘、个人作品集、团队入职中心及各类小游戏",
+        "用户案例涵盖像素风宠物游戏《Pocket Grove》、实时地震/太空天气警报日志等"
+      ],
+      "quote": {
+        "who": "OpenAI Developers",
+        "role": "",
+        "said": "网站 网站 网站"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "25位菲尔兹奖得主集体反水！陶哲轩、丘成桐联署：AI公司偷数学成果",
+      "summary": "针对OpenAI疑似窃取数学成果的风波，事态彻底升级。陶哲轩、丘成桐等25位菲尔兹奖得主发表联合声明，直指AI公司与数学界存在严重错位。声明指控旗舰模型的证明中掺入了未发表内容，这标志着争议从个人层面的指责演变为整个行业的信任危机。",
+      "reads": "15万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "25位菲尔兹奖得主（包括陶哲轩、丘成桐）发表联合声明，警告AI公司与数学界存在严重错位。",
+        "声明核心指控：OpenAI等公司的旗舰模型在证明过程中掺入了未发表的数学内容，涉嫌窃取成果。",
+        "陶哲轩发文《数学中AI的严重错位》，自豪地成为首批联署人之一，公开表达对当前AI学术伦理的不满。",
+        "此次事件标志着争议性质转变：从个别研究者的个人指控，升级为顶级数学家群体对AI行业的正式反击。"
       ],
       "quote": {
         "who": "Andrew Curran",
         "role": "",
-        "said": "@rawantitmc @notjazii 很快就会官宣，可能就在今天，或者下周初。"
+        "said": "现在的插画师和配音演员： “西谷陷落时你在哪里！当敌人将我们团团包围时你在哪里！”"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Meta新王Alexandr Wang摊牌！Muse 24小时帮用户赚出1851美元，智能体开始搞钱",
+      "summary": "Meta Muse负责人Alexandr Wang连发推文强调，个人智能体Muse的核心能力是帮用户直接赚钱。实测案例显示，用户在不到24小时内通过Muse自动处理集体诉讼索赔，成功申请到954美元和897美元赔偿。此外，Muse还完成了人寿保险保单分析、获取4份车险报价及清理收件箱等任务。这印证了Meta将AI从聊天助手转向执行具体经济价值任务的战略方向，个人智能体正成为自动…",
+      "reads": "10万",
+      "ago": "28 分钟前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Meta Muse负责人Alexandr Wang连续发文强调其个人智能体Muse能帮用户直接赚钱。",
+        "核心案例显示，用户在不到24小时内通过Muse自动处理集体诉讼索赔，成功申请到954美元和897美元赔偿。",
+        "Muse还完成了分析并给出3份人寿保险保单建议、拿到4份新的车险报价等任务。",
+        "在内容创作方面，Muse为用户老婆的生意想出3个本地新闻「选题」。"
+      ],
+      "quote": {
+        "who": "Alexandr Wang",
+        "role": "",
+        "said": "muse 会让你赚钱并帮你拿到退款！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Claude Code上新「插件体检」！一键量化你的Skill到底值不值",
+      "summary": "Anthropic在Claude Code里悄悄上线了`claude plugin eval`功能，专门解决「我的插件/Skill到底有没有用」这个老大难问题。你只需要跑一下init命令，告诉Claude什么是好输出、坏输出，它会自动起草测试用例、预估成本（比如7个用例大概9美元），然后进行有/无插件的对比实验。最后生成一份带Δ值（提升幅度）和详细数据的HTML报告，还能作为私…",
+      "reads": "9.8万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "功能定位：`claude plugin eval`旨在量化评估Claude Code中插件或技能的实际价值，通过对比「有插件」和「无插件」两种状态下的得分差…",
+        "自动化流程：用户运行`claude plugin eval init`后，只需提供真实Prompt并描述好坏标准，Claude会自动起草测试用例、执行试运行…",
+        "数据可视化：评估结束后，终端显示每个用例的得分及Δ值，同时生成包含完整细节的HTML报告；若账号支持，该报告会作为私有artifact发布，便于分享和存档。",
+        "成本与耗时参考：官方示例中，运行7个测试用例总耗时1483秒（约25分钟），总成本为9美元，平均每个用例提升0.29分。"
+      ],
+      "quote": {
+        "who": "ClaudeDevs",
+        "role": "",
+        "said": "评估会调用模型，所以会消耗 Token 且结果会有波动。全面运行前先用 `--runs 1` 跑个测试。你插件的 hook 和 MCP 服务器是以你的身份运行的，所以只评估你信任的插件。 运行 claude update 体验一下。文档："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Claude Code之父摊牌！原型随便黑盒，生产代码审查门槛必须高于人类",
+      "summary": "Claude Code核心开发者Boris Cherny抛出新范式：原型代码可以当黑盒随便造，但生产环境代码的审查门槛必须高于人类。他直言当前处于「写码自动化、系统设计未自动化」的尴尬过渡期，未来6-12个月传统工程技能依然关键。Simon Willison等开发者对此高度认同，认为AI生成的生产级代码需要更严苛的质量控制标准。",
+      "reads": "21万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Boris Cherny提出分层策略：原型和一次性代码可视为黑盒，无需追求完美；但Claude写的生产环境代码审查门槛应高于人类。",
+        "当前处于「写码自动化、系统设计未自动化」的过渡期，系统设计、代码评审等环节尚未完全自动化。",
+        "Cherny预测未来6-12个月内，学校学到的传统工程技能对软件开发者仍然关键，之后才会逐步被替代。",
+        "知名开发者Simon Willison引用该观点并点赞，强调「Claude写的生产代码门槛应该比人类写的更高」。"
+      ],
+      "quote": {
+        "who": "Simon Willison",
+        "role": "",
+        "said": "“Claude 写的生产代码门槛应该比人类写的更高” 💯"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "HF老板开怼Anthropic前研究员！问灭绝风险，不如问空调工气候变化",
+      "summary": "Anthropic前研究员Jacob Coxon关于AI灭绝风险的警告引发热议，Hugging Face CEO Clement Delangue直接下场「打脸」。他指出Coxon过去几年主要专注预训练（pre-training），并未从事AI安全研究。Delangue比喻称，问Coxon AI风险就像问修空调师傅气候变化，建议多听听社会科学家和政策制定者的意见，而非单一视角。",
+      "reads": "56万",
+      "ago": "6 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Hugging Face CEO Clement Delangue发文批评Anthropic前研究员Jacob Coxon关于AI灭绝风险的警告。",
+        "Delangue指出Coxon过去几年主要专注于预训练（pre-training），这是构建AI系统的子集，并未从事AI风险研究。",
+        "Delangue使用比喻：询问Coxon AI风险如同询问修空调师傅气候变化问题，意在质疑其在该领域的权威性。",
+        "该观点旨在降低单一视角的权重，主张应参考社会科学家、其他AI开发者、未来学家、投资者及政策制定者的广泛意见。"
+      ],
+      "quote": {
+        "who": "clem 🤗",
+        "role": "",
+        "said": "@AlexQuellsIt @bharatkr 并不完美（就像所有观点一样），但他们对科技生态和科技周期的视野比大多数人都要广阔，我觉得这对这类问题有时还挺有意思的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "OpenAI晒出Habitat底牌！2000万QPS压垮Python，Rust重写救场",
+      "summary": "OpenAI官方披露了核心存储平台Habitat的技术演进史。该平台支撑ChatGPT和Codex全线产品，业务量同比增长超10倍。在Rust重写上线前，原Python服务峰值曾处理每秒超2000万次请求，但面临事件循环管理和连接池的巨大挑战。此次分享旨在为其他经历类似Python扩展困境的开发者提供经验参考。",
+      "reads": "6.7万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Habitat是OpenAI的核心在线存储平台，支撑ChatGPT、Codex等全线产品。",
+        "平台业务量实现同比增长超10倍（over 10x year over year）。",
+        "在Rust重写上线前，原Python服务峰值处理超过2000万次请求/秒。",
+        "团队指出Python利于快速原型开发，但在大规模场景下面临事件循环管理和连接池挑战。"
+      ],
+      "quote": {
+        "who": "OpenAI Developers",
+        "role": "",
+        "said": "虽然我们现在已经上线了 Rust 重写版，但我们还是把这些经验分享给其他正在经历类似 Python 扩展之旅的人。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "果蝇大脑接上ChatGPT！37次听令左转，却饿死在觅食路上",
+      "summary": "一位开发者基于Google发布的雄性果蝇全脑连接组数据（16.6万神经元），构建了虚拟大脑并接入ChatGPT。实验中，系统模拟糖信号（MN9 78 Hz）和苦味信号与LLM交互，LLM根据「闻到醋、尝到糖」等感官描述生成决策指令。在导航测试中，ChatGPT发出的「向左」指令被传回听觉神经元，虚拟果蝇37/37次服从了转向命令，但始终未能找到食物。",
+      "reads": "4.7万",
+      "ago": "53 分钟前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "数据基础：基于Google发布的雄性果蝇全脑连接组数据，包含16.6万个神经元。",
+        "交互机制：模拟糖信号对应MN9神经元78 Hz频率，苦味信号对应3 Hz频率，与论文方向一致。",
+        "LLM输入：系统向ChatGPT发送感官描述，如「我闻到醋和酵母的味道。我尝到糖。又暖又亮。」，要求生成决策指令。",
+        "导航表现：在测试中，ChatGPT发出「向左」指令并传回果蝇听觉神经元，虚拟果蝇37次全部服从转向命令（37/37）。"
+      ],
+      "quote": {
+        "who": "Chetaslua",
+        "role": "",
+        "said": "我把果蝇的大脑连上了 ChatGPT 现在这里的每只苍蝇都会玩花活了，魔方、memecoins、数据库 > “前方有墙” → ChatGPT → “向左” → 传回它的听觉神经元 > 37次指令全部服从，但从来没找到过食物 🥲"
       },
       "tag": null,
       "story": null,
@@ -79,8 +217,8 @@
     {
       "title": "1000 tokens/秒！Codex首个极速模型官宣退役，OpenAI：给未来腾地方",
       "summary": "OpenAI研究员thsottiaux官宣，Codex系列首个主打速度的模型GPT-5.3-Codex-Spark将于下周正式退役。该模型峰值速度曾达1000 tokens/秒，但因用量持续下滑且已有更强模型替代，官方决定「给未来腾地方」。尽管有KOL猜测这是为GPT-6-Spark铺路，但相关传闻已被迅速否认。",
-      "reads": "95万",
-      "ago": "7 小时前",
+      "reads": "96万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -100,33 +238,10 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "OpenAI杀入华尔街！ChatGPT金融版上线，GPT-6 Astra硬刚Claude",
-      "summary": "OpenAI正式推出 ChatGPT for Financial Services，这是基于 GPT-6 Astra 的定制版 ChatGPT Work。产品内置 Daloopa、PitchBook 等付费金融数据，支持用公司自有 Excel/PPT 模板生成可编辑模型，并强调证据可追溯至具体段落。第三方测试显示，GPT-6 Astra 在 OfficeQA Pro 上以 69…",
-      "reads": "1187万",
-      "ago": "15 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 官宣推出 ChatGPT for Financial Services，定位为面向金融机构定制的 ChatGPT Work 体验。",
-        "产品核心结合 GPT-6 Astra 推理能力与内置付费金融数据，数据集涵盖 Daloopa、PitchBook 和 LSEG News。",
-        "支持使用公司自有的 Excel、Word 和 PowerPoint 模板生成可编辑的财务模型、研究笔记及 pitchbook。",
-        "强调「证据可追溯」功能：用户可将数字和说法追踪到具体段落与表格，并在工作中实时预览引用原文进行复核。"
-      ],
-      "quote": {
-        "who": "Greg Brockman",
-        "role": "",
-        "said": "为金融服务打造最好的 AI 智能体工具："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
       "title": "Codex老用户别慌！OpenAI研究员实锤：额度重置还在，只是偶尔给",
       "summary": "GPT-5.3-Codex-Spark 模型即将退役，社区对老用户算力配额断供的焦虑达到顶点。OpenAI 研究员 Thibault Sottiaux 在 X 上直接回应：所谓「优质服务」包含为现有用户提供偶尔的额度重置服务。虽然单次重置频率未定，但官方确认了该福利的存在，被视为 OpenAI 维持开发者生态稳定、平滑迁移至新 Agents API 体系的关键举措之一。",
       "reads": "56万",
-      "ago": "5 小时前",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -146,10 +261,33 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "title": "Astra Low吊打GPT-5.6 Max！GPT-6 Sol要来了，Plus用户无限制用",
+      "summary": "开发者Haider爆料称OpenAI下一代旗舰GPT-6 Sol预计很快发布，大概率在DevDay前后。核心情报指出Astra是GPT-6 Sol的能力底座而非预训练底模，且Astra Low实测性能已远超GPT-5.6 Sol Max。预测显示GPT-6 Sol将更便宜、更强，并可能成为Plus用户的无限制模型，其地位类似Fable 5后的Opus 5。",
+      "reads": "9.4万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "开发者Haider爆料称GPT-6 Sol预计很快发布，时间点大概率在DevDay前后。",
+        "Astra被确认为GPT-6 Sol的能力/训练底座（base model），OpenAI将在此基础上进行RL和后训练。",
+        "实测数据显示，Astra Low的性能远超现有的GPT-5.6 Sol Max模型。",
+        "预测GPT-6 Sol在价格和性能上均优于前代，且可能成为Plus层级用户的无限制使用模型。"
+      ],
+      "quote": {
+        "who": "Haider.",
+        "role": "",
+        "said": "@lennx_a50790 我其实在这里澄清了。我措辞不当"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "title": "Astra被曝削弱？OpenAI反手甩出挑战赛，9月18日前交作业",
       "summary": "尽管近期有开发者反馈 GPT-6 Astra 表现不稳定甚至疑似被削弱，OpenAI 官方并未退缩，而是直接在 Product Hunt 平台启动了「GPT-6 Astra Challenge」。这场公开竞赛要求开发者基于 Astra 模型构建项目，并必须在 9 月 18 日前完成提交。此举旨在通过实际使用案例来验证模型能力，同时维持开发者对 Astra API 的关注度与生态…",
-      "reads": "4.3万",
-      "ago": "2 小时前",
+      "reads": "14万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -169,22 +307,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Meta把Manus塞进手机！Alexandr Wang晒出3D狗头，Muse化身你的电子宠物",
-      "summary": "Meta AI负责人Alexandr Wang亲自演示了个人智能体Muse的新功能：用户现在可以自定义Avatar（头像），甚至可以把宠物狗的3D形象设为AI化身。Wang将自己的小狗Euler做成了「超级智能体现」，并强调Muse能将任意话题转化为播客或个性化交互界面。这一举措标志着Meta在AI助手赛道上从通用聊天机器人转向高度个性化的情感连接层，旨在通过视觉与语音的深度定…",
-      "reads": "2.4万",
-      "ago": "1 小时前",
+      "title": "告警即修复！Anthropic内部实测：Claude Tag接管On-Call，秒级定位并合并代码",
+      "summary": "Anthropic官方披露了团队使用 Claude Tag 处理 On-Call 告警的真实工作流。当 Slack 中触发如 payments-api 错误率超阈值等警报时，Claude 会自动拉取指标、对比部署差异并检查 feature flags。系统能定位潜在原因并提出修复方案，工程师可直接批准合并代码。这一流程实现了从告警到修复的即时响应闭环，大幅提升了 DevOps…",
+      "reads": "2.6万",
+      "ago": "52 分钟前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Meta个人智能体Muse正式开放用户自定义Avatar（头像）功能，允许用户分享自己的个性化AI形象。",
-        "Meta AI负责人Alexandr Wang亲自演示，将其宠物狗Euler的3D形象设为Muse化身，并称之为「超级智能体现」（superintellig…",
-        "Wang在推文中表示，这是应广大「汪星人」的要求发布的，配图显示一只3D白色小狗正坐在桌前使用印有爪印图案的白色笔记本电脑打字。",
-        "Muse功能允许用户将任意话题转化为播客或个性化交互界面，强化了其作为个人化运营层的定位。"
+        "Anthropic 官方账号 @claudedevs 披露了团队使用 Claude Tag 处理 On-Call 告警的具体工作流。",
+        "触发条件为 Slack 中出现的警报，例如 payments-api 错误率超过 2% 阈值并持续 5 分钟（实测案例中错误率为 3.1%）。",
+        "Claude 自动执行的动作包括：拉取相关指标、对比部署差异（diffs deploys）、检查功能开关（feature flags）。",
+        "系统能够定位潜在故障原因，并直接提出具体的代码修复方案。"
       ],
       "quote": {
-        "who": "Alexandr Wang",
+        "who": "ClaudeDevs",
         "role": "",
-        "said": "@s1cksicks1ck"
+        "said": "以下是我们团队在 on-call 时使用 Claude Tag 的方式： 当 Slack 中触发警报时，Claude 会拉取指标、对比部署差异并检查 flag。它会找到可能的原因并提出修复方案，我们可以直接批准并合并。分秒必争，所以我们超爱它能立刻开始工作！"
       },
       "tag": null,
       "story": null,
@@ -192,68 +330,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Astra Low吊打5.6 Max！GPT-6 Sol现身OpenRouter，$2/M输入价对标Opus 5",
-      "summary": "开发者爆料 GPT-6 Sol 即将发布，预计早于 DevDay。该模型已现身 OpenRouter，定价输入 $2/M、输出 $10/M（享 50% 折扣）。实测显示 Astra Low 性能远超 GPT-5.6 Max，Sol 被视为 Plus 用户的无限制版本，基于 Astra 底座进行 RL 后训练，定位类似 Opus 5。",
-      "reads": "2.5万",
-      "ago": "1 小时前",
+      "title": "OpenAI放大招！GPT-Rosalind转正，Codex变身生物科研神器",
+      "summary": "OpenAI正式宣布GPT-Rosalind结束研究预览，面向全球符合条件的组织开放。该模型通过API、Codex和ChatGPT Enterprise提供访问权限，旨在增强生物学推理能力。在Codex中，用户可利用Life Sciences插件处理基因组、蛋白质结构及转化研究工作流，涵盖从文献证据搜集到生成QC报告和交互式笔记本的全流程。后续发布的新GPT-Rosalind模…",
+      "reads": "2.6万",
+      "ago": "50 分钟前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "GPT-6 Sol 预计早于 DevDay 发布，目前已在 OpenRouter 上线。",
-        "定价策略：输入 $2/M tokens，输出 $10/M tokens，且享受 50% 折扣。",
-        "性能对比：实测显示 Astra Low 版本性能远超 GPT-5.6 Max。",
-        "模型架构：基于 Astra 底座（能力/训练基础）进行强化学习（RL）和后训练。"
-      ],
-      "quote": {
-        "who": "Haider.",
-        "role": "",
-        "said": "几分钟前的 OpenRouter 👀"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "14个月从5%到98%！GPT-6 Astra刷爆博士级数学，基准饱和了",
-      "summary": "Epoch AI 官方宣布 FrontierMath Tier 4 基准测试饱和，最高分从上线时的 5% 飙升至 98%，最后一道题由 GPT-6 Astra 攻下。这些研究级数学题原本需要专家花费数小时至数天求解，如今在不到 14 个月内被 AI 全部解完，远超预期。值得注意的是，最后一道由数学家 Jay Pantone 出题的题目中，AI 未走此前常见的「意外捷径」，而是给…",
-      "reads": "38万",
-      "ago": "10 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Epoch AI 确认 FrontierMath Tier 4 所有题目均已被 AI 解决，基准测试正式宣告饱和。",
-        "2025年7月11日 Tier 4 上线时最高分仅为 5%，不到 14 个月后飙升至 98%。",
-        "最后一道未解题目由数学家 Jay Pantone 出题，GPT-6 Astra 成功攻下。",
-        "与以往不同，AI 在解决最后这道题时未使用「意外捷径」，而是采用了标准数学解法。"
-      ],
-      "quote": {
-        "who": "AshutoshShrivastava",
-        "role": "",
-        "said": "@Jay_sharings 你只是需要更多 tokens 才能跟上"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "AI接电话不背剧本了！OpenAI让GPT边听边说，Yelp预订体验大升级",
-      "summary": "OpenAI开发者团队宣布GPT-Live-1模型已应用于Yelp的餐厅预订场景。该模型具备边听边说的能力，允许用户在通话中随时打断、补充细节或改变方向，从而打破传统脚本式对话的限制。此举旨在让自动化预订电话听起来更自然流畅。这是GPT-Live-1在实时语音交互领域的具体落地案例，展示了AI在处理非结构化人类对话时的灵活性提升。",
-      "reads": "2.2万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI开发者团队宣布GPT-Live-1模型已应用于Yelp的餐厅预订场景。",
-        "该模型具备边听边说的能力，允许用户在通话中随时打断、补充细节或改变方向。",
-        "此举旨在让自动化预订电话听起来更自然流畅。",
-        "这是GPT-Live-1在实时语音交互领域的具体落地案例。"
+        "OpenAI正式宣布GPT-Rosalind结束研究预览，面向全球符合条件的组织开放。",
+        "该模型通过API、Codex和ChatGPT Enterprise提供受信任的访问权限。",
+        "在Codex中，用户可利用Life Sciences插件处理基因组、蛋白质结构及转化研究工作流。",
+        "功能涵盖从文献证据搜集到生成QC报告和交互式笔记本的全流程。"
       ],
       "quote": {
         "who": "OpenAI Developers",
         "role": "",
-        "said": "餐厅预订并不总是按剧本来的。 GPT-Live-1 可以边听边说，所以打电话的人可以随时打断、补充细节，或者在对话中途改变方向。 来听听 @Yelp 是如何用它让预订电话听起来更自然的："
+        "said": "GPT-Rosalind 已结束研究预览，面向全球符合条件的组织开放，可通过 API、Codex 和 ChatGPT Enterprise 获得受信任的访问权限。 访问权限包括后续发布的全新 GPT-Rosalind 模型。"
       },
       "tag": null,
       "story": null,
@@ -261,114 +353,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "从未拍过的记忆，DeepMind给补上了！姿态控制模型还原老人初遇瞬间",
-      "summary": "Google DeepMind团队在最新纪录片《Love, Rendered》中展示了一项新技术：将修复的档案照片与姿态控制模型（pose control models）结合。这项技术不仅还原了外貌，更精准捕捉了Burt和Ethelle的神态与微表情，成功重构了一段从未被拍摄下来的初次相遇记忆。这展示了生成式AI在历史影像复原和情感表达上的新能力。",
-      "reads": "4.0万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Google DeepMind团队利用姿态控制模型（pose control models）结合修复的档案照片进行图像/视频重构。",
-        "该技术核心在于捕捉人物的神态与微表情，而不仅仅是面部特征或身体轮廓。",
-        "应用案例为新纪录片《Love, Rendered》，旨在还原Burt和Ethelle初次相遇的场景。",
-        "解决的核心痛点是「重构一段从未被拍摄下来的记忆」，填补历史影像空白。"
-      ],
-      "quote": {
-        "who": "Google DeepMind",
-        "role": "",
-        "said": "我们该如何重构一段从未被拍摄下来的记忆？ 我们的团队将修复的档案照片与姿态控制模型结合，捕捉了 Burt 和 Ethelle 的神态与微表情。 这帮助在一部新纪录片 Love, Rendered 中，将他们初次相遇的那天生动还原"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Altman喊话奇点已至！Astra接MCP剪视频，专业级画质实锤",
-      "summary": "Sam Altman公开宣称「我们身处奇点」，指出十年前可笑的假设已成现实。核心论据是Merge推出的Universal Context Layer，允许企业从共享知识库构建受管治的AI大脑，并动态分配员工上下文，大幅降低token成本。同期开发者实测发现Astra结合DaVinci Resolve MCP实现了专业级视频剪辑质量，验证了模型在垂直领域的落地能力。",
-      "reads": "8.3万",
-      "ago": "6 小时前",
+      "title": "Astra被削成GPT-5？OpenAI算力告急，付费用户怒斥：钱白交了！",
+      "summary": "GPT-6 Astra开放后口碑急转直下，开发者反馈其Extra High Effort模式虽速度提升但智力水平跌至GPT-5。社区普遍推测OpenAI因算力供应不足，被迫通过调整参数「削弱」模型以维持服务稳定。Anthropic也被曝存在类似降级现象，前沿大模型在流量爆发初期的算力平衡难题正严重冲击付费用户信任。",
+      "reads": "3.4万",
+      "ago": "2 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI CEO Sam Altman公开宣称「我们身处奇点」，指出十年前的假设已成现实。",
-        "Merge推出Universal Context Layer，允许企业从共享知识库构建受管治的AI大脑。",
-        "该技术可动态分配员工上下文和技能，解决不同岗位重复训练模型的问题。",
-        "Universal Context Layer大幅降低token成本并提升准确率。"
+        "多位开发者反馈GPT-6 Astra性能明显退化，原本处理良好的任务现在频繁出错，整体智力水平感觉降至GPT-5左右。",
+        "具体表现为Extra High Effort模式完成速度显著加快，但输出质量同步下降，被用户形容为「明显被削了」（nerfed）。",
+        "社区推测核心原因是OpenAI面临算力供应不足，无法支撑Astra热潮带来的激增需求，只能通过限制资源来维持服务稳定性。",
+        "有用户指出Anthropic也存在类似的模型降级现象，表明这并非单一厂商问题，而是行业普遍面临的算力瓶颈。"
       ],
       "quote": {
-        "who": "Ole Lehmann",
+        "who": "Pankaj Kumar",
         "role": "",
-        "said": "卧槽，我本来以为科技圈那些装逼的人在夸大其词，但 Astra + Davinci resolve 的 MCP 简直杀疯了 这是第一次感觉用 AI 剪视频真的能搞出专业级画质 太特么牛了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Box CEO断言软件将headless！OpenAI把云盘塞进ChatGPT，界面要消失了",
-      "summary": "OpenAI刚把Data agent塞进ChatGPT Work，转头又把Dropbox、Box和SharePoint原生集成进了Library。这不只是个功能更新，Box CEO Aaron Levie直接点破了趋势：软件正在走向headless（无界面化），未来的工作将由AI Agent在任意位置处理数据。对打工人来说，写材料、出仪表盘再也不用在云盘和聊天框之间反复横跳了…",
-      "reads": "281万",
-      "ago": "22 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI宣布Dropbox、Box、SharePoint原生集成进ChatGPT Library，覆盖ChatGPT与ChatGPT Work双端。",
-        "该功能本周开始向付费用户推送，输入框可直接搜索并调用上述云盘及Google Drive文件。",
-        "Box CEO Aaron Levie公开站台，称双方合作加深，企业内容可在ChatGPT中安全调用。",
-        "Levie提出核心观点：软件正走向headless（无界面化），未来工作将由AI Agent在任意位置执行工作流。"
-      ],
-      "quote": {
-        "who": "Aaron Levie",
-        "role": "",
-        "said": "很高兴能和 OpenAI 更深入地合作，这样你就能在 ChatGPT 里安全地使用 Box 里的企业内容。 软件正在不断走向 headless，而我们坚信，未来的工作方式将是能在任何地方处理数据、执行工作流的 AI 智能体。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "告别开聊天！Cursor上线Projects，常驻Agent自动修CI、盯Slack",
-      "summary": "Cursor 官方发布 Projects 功能，彻底改变在 IDE 里使用 AI 的方式。不再是每个任务开一个新聊天窗口，而是通过一个常驻的协调 Agent 在单一线程中管理所有工作。该 Agent 类似 @bot，始终在线并主动调用子代理（subagents）处理事务，且具备共享记忆和文件自动同步能力。目前 Beta 版已开始推送，支持设置提醒、运行定时任务、跟踪 PR 修复…",
-      "reads": "150万",
-      "ago": "18 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Cursor 官方发布 Projects 功能，核心变化是从「每任务一聊天」转变为「单一线程常驻协作」。",
-        "引入协调 Agent（Coordinator Agent），类似 @bot 机制，始终在线并主动使用 subagents 管理任务。",
-        "项目内 Agents 共享记忆及生成的产物（如计划、demo），文件在用户设备与 Agent 电脑间自动同步。",
-        "Projects 具备自动化运维能力：可设置提醒、运行定时任务、跟踪 PR 以修复 CI 问题、监控 Slack bug 报告。"
-      ],
-      "quote": {
-        "who": "Kol Tregaskes",
-        "role": "",
-        "said": "@cursor_ai @bot 听着挺不错。具体啥样我还想象不出来，但我愿意试一把。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Claude Fable 5.1全球开卷！9城Buildathon，代码写进现实",
-      "summary": "Anthropic官方宣布Fable 5.1 Build Days本周启动。这是一场为期两周（9月11日-25日）的全球社区黑客马拉松，覆盖开普敦、内罗毕、斯德哥尔摩、奥斯陆等多地。开发者可带着具体问题或想法到场，直接上手Fable 5.1构建项目。这是新模型落地应用的关键一步，也是对接社区资源的低门槛入口。",
-      "reads": "111万",
-      "ago": "22 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "活动名称：Fable 5.1 Build Days（全球buildathon黑客马拉松）",
-        "时间窗口：9月11日至25日，本周正式启动",
-        "覆盖城市：开普敦、内罗毕、斯德哥尔摩、奥斯陆等多地",
-        "核心目标：推动Fable 5.1从数字模型向物理世界/实际应用场景落地"
-      ],
-      "quote": {
-        "who": "Claude",
-        "role": "",
-        "said": "Fable 5.1 Build Days 这周就开始了。Claude 社区要在全球各个城市办 buildathon，时间是 9 月 11 日到 25 日。带着一个问题、一个想法来，或者人就到了看看能做出点什么。 报名："
+        "said": "@PhamousMaxumus @revealyte 就像需求增加了，但他们没有供应来满足。 基本上，他们没有算力提供给 Astra 热潮之后涌来的所有用户。"
       },
       "tag": null,
       "story": null,
