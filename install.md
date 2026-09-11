@@ -13,13 +13,15 @@
 ## 第二步 · 下载文件
 
 1. **拿清单**:`curl -fsSL https://raw.githubusercontent.com/aiera-cn/aiera-asi/main/manifest.json`。`files` 每项有 `url`(相对 `base`)和 `dest`(相对 `<DIR>`)。
-2. **逐个下载**:先 `mkdir -p` 每个 dest 的父目录,再 `curl -fsSL <base>/<url> -o <DIR>/<dest>`。
+2. **逐个下载**:先 `mkdir -p` 每个 dest 的父目录,再 `curl -fsSL --max-time 30 --retry 2 --retry-delay 3 <base>/<url> -o <DIR>/<dest>`。
+   - ⚠️ **国内网络访问 GitHub 时不时 30 秒超时**,所以每个文件都带 `--max-time 30 --retry 2`——撞上超时自动重来两次,实测能救回来。拿清单那一步也一样加。
    - ⚠️ `manifest.json` 自己也在清单里,**必须一起装**——它是下次开场自检版本的基准,漏了就永远收不到更新。
 3. **校验**:`<DIR>/SKILL.md`、`<DIR>/manifest.json`、`<DIR>/scripts/asi_fetch.py` 都存在,且 `<DIR>/references/` 下的文件数 = manifest 里 `dest` 以 `references/` 开头的条数(别数死数字,以清单为准)。
 4. **跑一次取数**:`python3 <DIR>/scripts/asi_fetch.py --feed --limit 1`,输出里 `"ok": true` 就通了。
 
 **出问题怎么办**:
-- 某个文件下载 404 / 超时 → 重试一次;还不行就告诉用户"GitHub 暂时连不上,稍后重跑这句话",**不要装一半**(删掉 `<DIR>` 再退出)
+- 某个文件 `--retry 2` 之后还是超时 → **别删目录**,把没下到的那几个文件再单独跑一遍 curl(通常第二轮就通了);三轮都不行才告诉用户"GitHub 这会儿连不稳,过几分钟再贴一次这句话",并说明哪几个文件没到
+- 某个文件 404 → 那是仓库的问题不是网络,告诉用户文件名,让他反馈
 - 没有 `python3` → 装是装得上,但取数跑不了。告诉用户需要 Python 3,或者用下面的免安装方式
 - 取数返回 `"ok": false` → 是新智元官网连不上,不是安装问题。装好了,告诉用户稍后再试
 
