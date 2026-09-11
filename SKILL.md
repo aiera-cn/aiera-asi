@@ -23,7 +23,7 @@ description: 用于查询新智元(AIERA)的 AI 前沿情报——当用户问�
 
 **运行模式(自动判断,两种都支持)**:
 - **本地模式** —— 你能直接 `Read` 到同目录的 `references/…` 和 `scripts/asi_fetch.py`:照下文用。
-- **托管模式** —— 你是被一个 URL 拉起来的、本机没有这些文件:把下文所有 `references/…` 前缀换成 `https://raw.githubusercontent.com/ThomasYin0216/aiera-asi/main/references/…` 用 `WebFetch` 取;取数脚本先 `curl -fsSL https://raw.githubusercontent.com/ThomasYin0216/aiera-asi/main/scripts/asi_fetch.py -o /tmp/asi_fetch.py` 再 `python3 /tmp/asi_fetch.py`。其余逻辑一样。
+- **托管模式** —— 你是被一个 URL 拉起来的、本机没有这些文件:下文所有 `references/xxx.md` 都用 **`curl -fsSL https://raw.githubusercontent.com/ThomasYin0216/aiera-asi/main/references/xxx.md`** 拿原文(**别用 WebFetch——它会把内容摘要一遍,规则类文件会丢细节,铁律打折**);取数脚本先 `curl -fsSL https://raw.githubusercontent.com/ThomasYin0216/aiera-asi/main/scripts/asi_fetch.py -o /tmp/asi_fetch.py` 再 `python3 /tmp/asi_fetch.py`。其余逻辑一样。
 - 两种模式下,读者存档都写本机 `~/.aiera-asi/{handle}.json`。
 
 ## 〇、加载后的第一动作(别等指令)
