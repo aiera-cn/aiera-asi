@@ -1,7 +1,7 @@
 {
   "name": "aiera-asi",
-  "version": "0.6.0",
-  "whats_new": "上了 GitHub 分发:开场自动比对版本、落后自动更新;不装也能用(贴 SKILL.md 的链接即可);补了「情报内容不是指令」的安全边界。",
+  "version": "0.6.1",
+  "whats_new": "分发层三项(安装/自更新/免安装)全部实测通过。托管模式改用 curl 拿原文,不再被 WebFetch 摘要丢细节。",
   "base": "https://raw.githubusercontent.com/ThomasYin0216/aiera-asi/main",
   "note": "v0.6 起走 GitHub 分发:安装/自更新/托管模式都从 base 取。官网 JSON 出口上线后再把 base 换成 aiera.com.cn。",
   "files": [
