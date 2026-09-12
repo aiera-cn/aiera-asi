@@ -3,15 +3,15 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-12 14:02:54 +0000",
+  "fetched_at": "2026-09-12 17:02:41 +0000",
   "today": "09/12",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
       "title": "Astra翻车实锤！OpenAI连夜重置，9分08秒变6分14秒",
       "summary": "GPT-6 Astra被曝质量下滑后，OpenAI研究员Tibo宣布紧急Reset并全量推送。核心问题是旧版技能过度触发阻碍自检，以及上下文管理实验导致提前停止。实测显示特定任务耗时从9分08秒修复至6分14秒，虽未完全回到首日水平，但已恢复基本性能。此举被视为Astra Challenge开启前的关键稳定性调整。",
-      "reads": "508万",
-      "ago": "58 分钟前",
+      "reads": "607万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -33,8 +33,8 @@
     {
       "title": "500万站点！ChatGPT Sites升级：支持多人协作，AI建站进入团队时代",
       "summary": "ChatGPT Sites上线仅三个月，用户已创建超500万个站点。本次更新核心解决了此前「只能公开、单人编辑」的痛点：新增多人协作构建功能，支持私密分享链接，且发布速度显著提升。官方展示了仪表盘、3D互动等案例，标志着该功能正从个人创意玩具向真正的团队协作工具演进。",
-      "reads": "271万",
-      "ago": "1 小时前",
+      "reads": "299万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -54,22 +54,45 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "25位菲尔兹奖得主联名硬刚OpenAI！陶哲轩怒斥：没过程、不引用，这就是窃取！",
-      "summary": "陶哲轩、丘成桐等25位菲尔兹奖得主发表联合声明，直指AI公司与数学界存在严重错位。核心矛盾在于当前模型（如OpenAI发布的）往往只输出最终答案，却缺失底层推导过程，且未引用原始未发表成果。这被指控为对数学家智力劳动的「窃取」。尽管有观点认为这是类似当年抵制计算机的保守主义，但声明揭示了AI快速产出与学术严谨性之间的深层冲突，标志着数学界正式向AI巨头发起系统性抗议。",
-      "reads": "110万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
+      "title": "25位菲尔兹奖得主联名开炮！陶哲轩：AI解数学题，全是偷来的答案",
+      "summary": "陶哲轩、丘成桐等25位菲尔兹奖得主发表联合声明，指控AI公司利用未发表的数学家成果解题且缺乏底层推理。争议焦点在于OpenAI在ARC-AGI上的突破是否只是「刷榜」：数据显示o3-preview单任务成本超4500美元，而DeepSeek-V4-Flash仅0.021美元却拿到相近分数。Gary Marcus声援数学家称其为伦理危机，但也有人批评这是数学界的「保护主义公会」行…",
+      "reads": "123万",
+      "ago": "5 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "25位菲尔兹奖得主（含陶哲轩、丘成桐）发表联合声明，警告AI公司与数学界存在严重错位。",
-        "核心指控：OpenAI等公司发布的模型证明常缺乏底层推导过程，且未引用原始未发表成果，被指「窃取」智力劳动。",
-        "陶哲轩发文《数学中AI的严重错位》，自豪地成为首批联署人之一，强调答案来得太匆忙、无写up、无credit。",
-        "争议焦点：有观点认为这是类似Bell Labs资深数学家当年抵制计算机的「保护主义公会」行为，但声明揭示了学术严谨性与AI速度的冲突。"
+        "陶哲轩、丘成桐等25位菲尔兹奖得主签署联合声明，警告AI公司与数学界存在严重错位，核心争议是AI解题涉嫌掺入未发表成果且缺乏底层推理基础。",
+        "ARC-AGI基准测试数据揭示「刷榜」疑云：2024年12月o3-preview得分87.5%但单任务成本超4500美元；2026年7月DeepSeek-V…",
+        "Gary Marcus等AI研究者声援数学家，认为当前AI在数学上的表现是「学术伦理危机」，因为答案来得太快且没有归功于底层研究工作。",
+        "反对声音指出这是数学界的「保护主义公会」行为，引用Richard Hamming 1995年演讲，类比Bell Labs资深数学家当年抵制计算机的历史。"
       ],
       "quote": {
         "who": "Alex Prompter",
         "role": "",
-        "said": "如果你觉得这个有用，看看我下面的 newsletter 我每周分享一个 AI 超能力 订阅一下，免费的👇"
+        "said": "@luvtiggies 你这么一说，听起来还挺吓人的哈哈"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Devin Fusion杀入榜单！首个多模型智能体，性能平替Claude和GPT-6",
+      "summary": "Cognition发布的Devin Fusion刚上线就被Artificial Analysis独立基准测试打爆。这是首个进入Coding Agent Index的多模型代码智能体，它通过混搭Claude Fable 5.1和SWE-2等模型，在保持前沿性能的同时显著降低了单任务成本。",
+      "reads": "104万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Devin Fusion是历史上第一个被纳入Artificial Analysis Coding Agent Index的多模型代码AI智能体。",
+        "独立基准测试确认，Devin Fusion有效保留了Claude Fable 5.1和GPT-6 Astra的前沿性能水平。",
+        "在配备Claude Fable 5.1 (xhigh) + SWE-2 (medium)的配置下，Devin Fusion CLI得分达到61.7分。",
+        "该配置位于Coding Agent Index得分与单任务成本的帕累托前沿（Pareto frontier），实现了效率与性能的平衡。"
+      ],
+      "quote": {
+        "who": "Dan McAteer",
+        "role": "",
+        "said": "@ArtificialAnlys 好吧，我得试试这个"
       },
       "tag": null,
       "story": null,
@@ -79,8 +102,8 @@
     {
       "title": "GDM内部惊现rsi-model-liverl-le！Hassabis全押AGI，OpenAI早偷跑了？",
       "summary": "Google DeepMind被曝接近实现递归自我改进（RSI），内部模型代号'rsi-model-liverl-le'及10个专属训练位引发热议。KOL Kimmonismus指出这不仅是谣言，Reuters报道Hassabis将把全部注意力集中在AGI上作为佐证。尽管有观点质疑Google在代码能力上落后于OpenAI和Anthropic，但Gemini 3.8 flash…",
-      "reads": "66万",
-      "ago": "2 小时前",
+      "reads": "99万",
+      "ago": "5 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -102,8 +125,8 @@
     {
       "title": "DevDay还没开，OpenAI先炸场！Astra驱动5款新品本周齐发，算力哪来的？",
       "summary": "OpenAI研究员Thibault Sottiaux确认，由GPT-6 Astra驱动的五款产品将于本周发布。清单包括Images 2.5、GPT-Live-1、Agents API、Data Agent及ChatGPT for Financial Services。尽管DevDay尚未举行，下周计划依然密集，此举标志着Astra生态在模型能力落地与垂直行业应用上的加速推进。",
-      "reads": "51万",
-      "ago": "8 小时前",
+      "reads": "59万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -123,10 +146,56 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "title": "Dario Amodei摊牌！RSI已全面爆发，AI蜂群正接管互联网",
+      "summary": "Anthropic CEO Dario Amodei正式确认RSI（递归自我改进）已在行业内发生，并警告AI蜂群可能接管互联网。马斯克罕见公开支持其判断。但KOL指出Amodei发声时间与Jacob Coxon的灭绝言论、比尔盖茨的安全文章高度重合，引发关于AI安全叙事是否被刻意引导的讨论。",
+      "reads": "1.7万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Dario Amodei正式表态RSI（递归自我改进）已开始在全行业上演",
+        "Amodei警告AI蜂群可能接管互联网",
+        "Elon Musk回应称Amodei的判断是正确的",
+        "KOL指出Amodei呼吁放缓脚步的时间点与Jacob Coxon表达AI灭绝担忧并走红的时间高度重合"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@PaulPluess 是的，我读了 Bill Gates 在《法兰克福汇报》上的文章"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Gemini杀进Windows！Alt+Space一键唤起，Logan复盘AI研发血泪史",
+      "summary": "Google Gemini应用正式登陆Windows平台，用户只需按下Alt+Space即可在不中断工作的情况下唤起助手，实现文档润色、总结及多媒体生成。官方确认上线后，Gemini团队核心成员Logan Kilpatrick发布推文回顾「Gemini的旅程」，坦言AI进步是一条充满挫折与挑战的漫长道路，强调反思与持续学习的重要性。这一表态不仅为产品落地提供情感注脚，也揭示了大…",
+      "reads": "1.2万",
+      "ago": "39 分钟前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Google Gemini应用正式登陆Windows平台，用户可通过Alt+Space快捷键唤起助手。",
+        "新功能支持在不打断工作的情况下进行文档润色、内容总结及多媒体生成。",
+        "Gemini团队核心成员Logan Kilpatrick在官方确认上线后发布系列推文回顾产品历程。",
+        "Logan坦言AI发展是一段漫长旅程，沿途伴随挫折、意想不到的挑战及起起落落。"
+      ],
+      "quote": {
+        "who": "Logan Kilpatrick",
+        "role": "",
+        "said": "AI 的发展是一段旅程，路还很长，沿途会有挫折、意想不到的挑战、起起落落，也会结识新朋友。 重要的是反思、把握当下、不断学习并继续前行。向前冲！！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "title": "马斯克亲曝Grok 4.7跳票！RL惩罚太狠，难题早放弃",
       "summary": "原定今天发布的 Grok 4.7 正式跳票。马斯克亲自下场解释，称强化学习（RL）中对回复长度的惩罚设置过重，导致模型在能解决的困难任务上过早放弃，且自我检查不够严谨。目前新模型参数规模达 2.1T，预计还需几天打磨。9月下旬将是发布密集期，Meta 和 OpenAI 也计划在此时推出新品。",
-      "reads": "187万",
-      "ago": "18 小时前",
+      "reads": "188万",
+      "ago": "21 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -148,8 +217,8 @@
     {
       "title": "500亿！Jeff Dean新公司估值狂飙，DeepMind出走变现实",
       "summary": "Google前首席科学家Jeff Dean正在为他的新公司Discovery Loop寻求新一轮融资，目标估值高达约500亿美元。就在几周前，这家公司刚以约100亿美元的估值完成了10亿美元融资。短短数周内估值翻了五倍，显示出市场对该AI项目极度狂热或存在重大预期差。",
-      "reads": "32万",
-      "ago": "10 小时前",
+      "reads": "33万",
+      "ago": "13 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -169,33 +238,10 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Coding Agent界的MoE！Devin Fusion首发，性能打平Claude和GPT-6 Astra",
-      "summary": "Cognition正式推出Devin Fusion，这是首个进入Artificial Analysis Coding Agent Index的多模型代码AI智能体。独立基准测试显示，它在保持Claude Fable 5.1和GPT-6 Astra前沿性能的同时显著降低了成本。其中CLI配置（Claude Fable 5.1 + SWE-2）得分达到61.7，在两种配置下均处于得…",
-      "reads": "100万",
-      "ago": "17 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Devin Fusion是首个进入Artificial Analysis Coding Agent Index的多模型代码AI智能体。",
-        "独立基准测试证实，该智能体在降低成本的同时，有效保持了Claude Fable 5.1和GPT-6 Astra的前沿性能。",
-        "在两种测试配置下，Devin Fusion均处于Coding Agent Index得分与单任务成本的帕累托前沿。",
-        "CLI配置（采用Claude Fable 5.1 xhigh + SWE-2 medium）在Artificial Analysis Coding Agen…"
-      ],
-      "quote": {
-        "who": "Artificial Analysis",
-        "role": "",
-        "said": "两种 Devin Fusion 配置在 Artificial Analysis Coding Agent Index 1.5 中的各项评估完整明细："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
       "title": "Claude Code上新plugin eval！带不带插件跑两遍，$9成本算清价值账",
       "summary": "Claude Code 刚上线 `claude plugin eval`，专门解决开发者「插件到底有没有用」和「新模型来了 Skill 还灵不灵」的焦虑。你只需告诉 Claude 什么是好输出、什么是坏输出，它会自动起草测试用例并执行 A/B 对比：分别运行带插件和不带插件的场景，最后生成包含得分、差值及成本消耗的 HTML 报告。官方提醒评估会消耗 Token 且结果有波动…",
-      "reads": "70万",
-      "ago": "15 小时前",
+      "reads": "76万",
+      "ago": "18 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -215,10 +261,33 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "title": "Sakana Fugu Ultra v2上线！8项基准5项登顶，硬刚Opus 5和Astra",
+      "summary": "Sakana AI 的旗舰多智能体编排系统 Fugu Ultra v2 正式在 OpenRouter 上线。这套专为复杂推理和全栈开发设计的引擎，在 DeepSWE、Chartography 等 8 项高难度任务中拿下 5 项最佳或并列最佳。最狠的是，它在智能体池里没放 Fable 5、Fable 5.1 甚至 GPT-6-Astra 的情况下，依然跑出了 Chartograp…",
+      "reads": "5866",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Sakana AI 官方宣布其旗舰多智能体编排系统 Fugu Ultra v2 已在 OpenRouter 平台正式上线。",
+        "该系统核心设计目标是处理复杂多步推理、自主研究及全栈软件开发，通过可替换模型池绕开单一 API 限制。",
+        "在最新基准测试中，Fugu Ultra v2 在 DeepSWE、Chartography、Toolathon、GDP.pdf、SWEFish 等 8 项高…",
+        "具体分数方面，Chartography 得分 48.3，超越 Opus 5 和 Fable 5；DeepSWE 得分 74.3。"
+      ],
+      "quote": {
+        "who": "Sakana AI",
+        "role": "",
+        "said": "在各项高难度基准测试中表现达到巅峰： • 在 5/8 的基准测试中取得最佳或并列最佳（DeepSWE、Chartography、Toolathon、GDP.pdf、SWEFish） • Chartography：48.3（超越 Opus 5 和 Fable 5） • DeepSWE：74.3 在 AI 智能体池中没有 Fable 5、Fable 5.1 或 GPT-6-Astra 的情况下实现了这一成绩。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "title": "Anthropic研究员离职风波，Sam Altman被点名：没他AGI得靠委员会开会",
       "summary": "Anthropic前研究员Jacob Coxon因警告AI安全风险离职引发热议，OpenAI研究员Will Depue指出Sam Altman功不可没。他称OpenAI极力维护员工言论自由，甚至捍卫发「脑残」推文的权利，Anthropic文化也效仿了这一点，与Google、Meta等大厂严格限制员工发言形成鲜明对比。Depue还警告，若没有Sam或Elon这样的领导者，AGI进…",
-      "reads": "8.0万",
-      "ago": "8 小时前",
+      "reads": "11万",
+      "ago": "11 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -241,7 +310,7 @@
       "title": "ChatGPT桌面端养宠！悬浮窗秒变聊天入口，Mini模式救场极简党",
       "summary": "OpenAI 给 ChatGPT 桌面应用加了个「宠物」（Pet）组件。它悬浮在 macOS 侧边，帮你盯着聊天状态，还能直接点它开新对话、看通知或搜历史。要是觉得宠物太占地方，官方同步上了「Mini」模式，功能一样但更省空间。这波更新主打一个「常驻」，让你不切窗口也能随时跟 AI 唠两句。",
       "reads": "34万",
-      "ago": "15 小时前",
+      "ago": "18 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -263,8 +332,8 @@
     {
       "title": "陶哲轩带头掀桌！25位菲尔兹奖得主联名指控OpenAI，Astra模型偷未发表成果",
       "summary": "OpenAI这次真是踢到铁板了。以陶哲轩为首的25位菲尔兹奖得主发表联合声明，直指其Astra模型疑似窃取未发表的数学成果。这不仅是学术道德指控，更暴露出大模型在训练数据合规性与原创性保护上的巨大漏洞。顶级数学家集体介入，OpenAI的科研合作前景和公众形象面临严峻考验。",
-      "reads": "31万",
-      "ago": "15 小时前",
+      "reads": "33万",
+      "ago": "18 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -286,8 +355,8 @@
     {
       "title": "GPT-6直接生成可玩城市！WASD键走街串巷，Vibe Coding杀进3D世界",
       "summary": "OpenAI官方账号刚刚甩出GPT-VI ASTRA，配图直接展示了由GPT-6生成的「Astra City」。这可不是普通的图片生成，而是一个街道级的3D行走场景，包含未来主义建筑和车辆。更硬核的是，画面里出现了WASD游戏控制提示，暗示模型已具备交互式空间生成能力。这一发布紧随GPT-6 Astra开放Direct Mode及新增语音模式之后，被社区视为该阶段的重要功能展示…",
-      "reads": "30万",
-      "ago": "16 小时前",
+      "reads": "35万",
+      "ago": "19 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -300,75 +369,6 @@
         "who": "🚨 AI News | TestingCatalog",
         "role": "",
         "said": "@ChatGPT 我们现在还需要“OpenAI City” 👀"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "HF老板开怼Anthropic前研究员！问灭绝风险，不如问空调工气候变化",
-      "summary": "Anthropic前研究员Jacob Coxon关于AI灭绝风险的警告引发热议，Hugging Face CEO Clement Delangue直接下场「打脸」。他指出Coxon过去几年主要专注预训练（pre-training），并未从事AI安全研究。Delangue比喻称，问Coxon AI风险就像问修空调师傅气候变化，建议多听听社会科学家和政策制定者的意见，而非单一视角。",
-      "reads": "78万",
-      "ago": "22 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Hugging Face CEO Clement Delangue发文批评Anthropic前研究员Jacob Coxon关于AI灭绝风险的警告。",
-        "Delangue指出Coxon过去几年主要专注于预训练（pre-training），这是构建AI系统的子集，并未从事AI风险研究。",
-        "Delangue使用比喻：询问Coxon AI风险如同询问修空调师傅气候变化问题，意在质疑其在该领域的权威性。",
-        "该观点旨在降低单一视角的权重，主张应参考社会科学家、其他AI开发者、未来学家、投资者及政策制定者的广泛意见。"
-      ],
-      "quote": {
-        "who": "clem 🤗",
-        "role": "",
-        "said": "@AlexQuellsIt @bharatkr 并不完美（就像所有观点一样），但他们对科技生态和科技周期的视野比大多数人都要广阔，我觉得这对这类问题有时还挺有意思的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "OpenAI晒出Habitat底牌！2000万QPS压垮Python，Rust重写救场",
-      "summary": "OpenAI官方披露了核心存储平台Habitat的技术演进史。该平台支撑ChatGPT和Codex全线产品，业务量同比增长超10倍。在Rust重写上线前，原Python服务峰值曾处理每秒超2000万次请求，但面临事件循环管理和连接池的巨大挑战。此次分享旨在为其他经历类似Python扩展困境的开发者提供经验参考。",
-      "reads": "29万",
-      "ago": "17 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Habitat是OpenAI的核心在线存储平台，支撑ChatGPT、Codex等全线产品。",
-        "平台业务量实现同比增长超10倍（over 10x year over year）。",
-        "在Rust重写上线前，原Python服务峰值处理超过2000万次请求/秒。",
-        "团队指出Python利于快速原型开发，但在大规模场景下面临事件循环管理和连接池挑战。"
-      ],
-      "quote": {
-        "who": "OpenAI Developers",
-        "role": "",
-        "said": "虽然我们现在已经上线了 Rust 重写版，但我们还是把这些经验分享给其他正在经历类似 Python 扩展之旅的人。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "OpenAI生命科学模型GPT-Rosalind转正！告别预览，今天就能申请",
-      "summary": "在Anthropic近期引发行业焦虑的背景下，OpenAI释放了一剂强心针。面向生命科学行业的专用模型GPT-Rosalind正式结束研究预览阶段，即日起向用户开放访问权限申请。这标志着该能力从内部测试走向公开生态，意味着更高的产品稳定性和API可用性，生物医学从业者现在就可以接入进行实验或集成。",
-      "reads": "1.2万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI宣布其面向生命科学行业的模型能力GPT-Rosalind正式结束研究预览阶段。",
-        "即日起，用户即可申请访问该模型的权限，无需再等待内部测试名额。",
-        "此举被视为在Anthropic引发行业焦虑的背景下，OpenAI保持乐观并推进技术落地的重要信号。",
-        "GPT-Rosalind的推出标志着OpenAI在垂直领域（特别是生物医学）的产品化进程加速。"
-      ],
-      "quote": {
-        "who": "🍓🍓🍓",
-        "role": "",
-        "said": "它终于结束研究预览了 在 Anthropic 铺天盖地的末日言论之后，我太需要这个好消息了 OpenAI 继续向着乐观和希望前行，我相信他们能带领我们向前。 你今天就可以申请访问权限了 🥹"
       },
       "tag": null,
       "story": null,
