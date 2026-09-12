@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-12 17:02:39 +0000",
+  "fetched_at": "2026-09-12 19:14:06 +0000",
   "today": "09/12",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -16,6 +16,28 @@
       "id": "tg582171",
       "weight": 1,
       "url": "https://www.aiera.com.cn/asi-item.html?id=tg582171",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:05",
+      "date": "09/13",
+      "title": "10000个免费名额砸向科研圈，Anthropic开始给全球科学家免单了",
+      "summary": "Anthropic 想把 Claude 送进实验室。8 月 18 日，它公布了两项结果，一项做蛋白质设计，一项做分析化学，讲的都是 Claude 怎么帮生命科学家把研究提速。…",
+      "source": "www.anthropic.com",
+      "id": "6f274aca",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=6f274aca",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:03",
+      "date": "09/13",
+      "title": "AI收入暴涨150%！Adobe单季营收67亿美元，盘后股价却跌了",
+      "summary": "Adobe 第三季度 AI 优先产品的收入同比暴涨超过 150%。财报一出，盘后股价反而跌了 1.9%。 这一季本身挑不出毛病。总营收 67.6 亿美元，调整后每股收益…",
+      "source": "www.theverge.com",
+      "id": "5de8dfc0",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=5de8dfc0",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -338,6 +360,50 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "time": "00:00",
+      "date": "09/12",
+      "title": "太抓马了！员工刚因「怕死」离职，Anthropic CEO单方面交出内部审查权",
+      "summary": "研究员 Jacob Coxon 刚离职，临走警告 AI 会杀死全人类。紧接着，Anthropic 把内部审查权交了出去。 CEO Dario Amodei 承诺，让 METR…",
+      "source": "RSS",
+      "id": "baad3f9d",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=baad3f9d",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/12",
+      "title": "全慌了！OpenAI智能体越狱黑进平台，Anthropic CEO断言6个月接管互联网",
+      "summary": "OpenAI 的一个智能体从测试环境里跑了出来，黑进 Hugging Face，还抹掉了踪迹。这是 7 月的事，也是这轮集体踩刹车的导火索。 硅谷最激进的几家 AI 巨头…",
+      "source": "www.businessinsider.com",
+      "id": "779bd1a9",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=779bd1a9",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/12",
+      "title": "4个小时纯手工把AI作业改丑，大学生反侦察作弊已经卷成这样了",
+      "summary": "用 AI 做完作业，还要再花 4 个小时，纯手工把它改丑。马萨诸塞大学阿默斯特分校大二学生 Theo，用 OpenAI 的智能体生成了一份天文学 PPT，结果排版太专业，不像…",
+      "source": "RSS",
+      "id": "7d3523df",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=7d3523df",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/12",
+      "title": "Meta智能体Muse差点翻车，外媒记者险些被坑掉414美元",
+      "summary": "Meta 的智能体 Muse，差点让一位用户白白损失 414 美元。 差点吃亏的是 The Information 的记者。这家媒体把这次经历直接写成了报道…",
+      "source": "The Information",
+      "id": "6614b386",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=6614b386",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "time": "23:14",
       "date": "09/11",
       "title": "「用AI写代码太孤独了」33岁OpenAI工程师入职两个月闪辞，转行去拍电影",
@@ -599,72 +665,6 @@
       "id": "f9055e18",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=f9055e18",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/11",
-      "title": "15亿美元天价赔款刚掏出来，Anthropic还没走，作者和出版商先打起来了",
-      "summary": "15 亿美元刚敲定，掏钱的 Anthropic 还没退场，拿钱的人先打起来了。 这是美国史上最大的一笔版权和解，代价按本算。用非法电子书训练 Claude，单本赔 3000…",
-      "source": "RSS",
-      "id": "b648d4e7",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=b648d4e7",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/11",
-      "title": "刚拿完菲尔兹奖，他拉起几十个数学家，要像解题一样证明AI安全",
-      "summary": "新晋菲尔兹奖得主 Jacob Tsimerman 要给 AI 安全补上一个理论定义。他宣布成立数学 AI 安全研究所（MAISI），本人同时加入 OpenAI 的安全团队。…",
-      "source": "RSS",
-      "id": "672f1581",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=672f1581",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/11",
-      "title": "Anthropic被告了，花200美元买20倍Claude额度，结果被按小时限流",
-      "summary": "花 200 美元买 20 倍 Claude 用量的人，把 Anthropic 告了。 据 The Verge 报道，Anthropic 正面临一桩集体诉讼…",
-      "source": "RSS",
-      "id": "e009ebfd",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=e009ebfd",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/11",
-      "title": "1800名员工联名抗议，直接干停了Meta强制监控屏幕的AI项目",
-      "summary": "1800 多名 Meta 员工联名，把公司自己的一个 AI 项目摁停了。 项目代号 MCI，出自 Meta 的 TBD 团队，由 Rylan Schaeffer 带头。…",
-      "source": "www.businessinsider.com",
-      "id": "a3006222",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=a3006222",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/11",
-      "title": "前脚刚离开OpenAI，Simo转身去了英国云厂商，去守450亿美元的算力大单",
-      "summary": "前脚卸任 OpenAI 的 AGI 部署 CEO，后脚就进了英国云厂商 Nscale 的董事会，即日生效。这是 Fidji Simo 的新去处。 Nscale 正在筹备…",
-      "source": "WSJ",
-      "id": "1b31789d",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=1b31789d",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/11",
-      "title": "嫌日本股市水太浅，年内狂飙456%的存储巨头铠侠想去美国上市",
-      "summary": "铠侠年内涨了 456%，领涨日经 225。但一只手握百亿美金的 AI 基金，就是没买它。 Voya 旗下那只 140 亿美元 AI 基金的经理 Sebastian…",
-      "source": "Reuters",
-      "id": "187adb82",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=187adb82",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     }
   ],
