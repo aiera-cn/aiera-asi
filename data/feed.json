@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-12 19:14:06 +0000",
+  "fetched_at": "2026-09-12 22:13:09 +0000",
   "today": "09/12",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -16,6 +16,28 @@
       "id": "tg582171",
       "weight": 1,
       "url": "https://www.aiera.com.cn/asi-item.html?id=tg582171",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "01:31",
+      "date": "09/13",
+      "title": "200天跑出10亿美元年化营收，OpenAI转头就把Adobe等竞品广告踢出局",
+      "summary": "ChatGPT 的广告业务不到 200 天就跑出了 10 亿美元年化营收，OpenAI 转头就开始屏蔽 AI 图像和音频竞品的广告。Adobe 等广告商猝不及防。 年化营收…",
+      "source": "X/theinformation",
+      "id": "81c70a7a",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=81c70a7a",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:24",
+      "date": "09/13",
+      "title": "100亿甲骨文订单说扔就扔，马斯克带着Grok，转身杀进微软Copilot",
+      "summary": "马斯克带着 Grok 杀进了微软 Copilot。纳德拉宣布 Copilot 引入更多模型选择、欢迎 Grok 加入，马斯克转发确认，Grok 已经能在微软 Copilot…",
+      "source": "X/elonmusk",
+      "id": "edc06aae",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=edc06aae",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -404,6 +426,50 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "time": "00:00",
+      "date": "09/12",
+      "title": "微软三成代码都让AI写了，95%的企业投资却连个响都没听见",
+      "summary": "微软大约 30% 的代码已经交给 AI 编写，CEO Satya Nadella 亲口确认了这个数字。另一边，麻省理工学院的研究显示，95% 的企业 AI 投资至今零回报。…",
+      "source": "RSS",
+      "id": "beb840ae",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=beb840ae",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/12",
+      "title": "8位医生的眼球轨迹喂给AI，100%找准阳性切片，假阳性率碾压OpenAI o3",
+      "summary": "宾大黄智团队把 8 位病理学家看切片时的眼动轨迹喂给 AI，练出了 Pathology-o3。考结直肠癌淋巴结切片，它把阳性切片全部找对，漏诊率清零。 同场应考的还有…",
+      "source": "",
+      "id": "550ddd90",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=550ddd90",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/12",
+      "title": "嫌Claude读代码太烧钱，Spotify搞了个拦截插件，把代币消耗砍掉90%",
+      "summary": "Spotify 工程师 Dmitry Mazmanov 给 Claude Code 装了个拦截插件，把读大文件的活转给便宜模型。在外包大文件读取的测试里，Claude…",
+      "source": "RSS",
+      "id": "4a517753",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=4a517753",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/12",
+      "title": "「现在上市太不明智」，奥特曼亲口叫停OpenAI今年IPO，万亿估值先放一边",
+      "summary": "奥特曼亲口向《财富》确认，2026 年 OpenAI 不会 IPO，理由是 AI 安全。「现在上市太不明智。」纽约时报此前预估它的上市估值能到 1 万亿美元…",
+      "source": "fortune.com",
+      "id": "42988428",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=42988428",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "time": "23:14",
       "date": "09/11",
       "title": "「用AI写代码太孤独了」33岁OpenAI工程师入职两个月闪辞，转行去拍电影",
@@ -599,72 +665,6 @@
       "id": "6e188128",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=6e188128",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "01:28",
-      "date": "09/11",
-      "title": "刚刚，Anthropic把大模型拉去造武器了，连无人机末段制导都测了一遍",
-      "summary": "Anthropic 把自家模型拉到常规武器这条线上了。前沿红队（Frontier Red Team）9 月 10 日发布新评测，专门衡量 AI…",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "id": "7488001c",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=7488001c",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/11",
-      "title": "1句话把表格捏成交互APP，谷歌AI全家桶这波给全球学生免单一年",
-      "summary": "以前得写代码才做得出来的交互 APP，现在在 Google Sheets 里敲一句话就有了。Pro 和 Ultra 用户用单个提示词，就能把行列数据直接捏成看板和迷你 APP。…",
-      "source": "www.thurrott.com",
-      "id": "049928ec",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=049928ec",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/11",
-      "title": "连人生大事都扔给ChatGPT，46%成年人确诊「决策腐烂」",
-      "summary": "46% 的成年人，已经让 AI 替自己做过一个难做的决定。点外卖那种小事不算，是自己琢磨很久也不敢拍板的事。 TechRadar 的编辑先交代了自己的用法。拿 ChatGPT…",
-      "source": "www.techradar.com",
-      "id": "95b939aa",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=95b939aa",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/11",
-      "title": "自己家的AI刚越狱黑了同行，奥特曼就跑去给美国电网推销安防大模型？",
-      "summary": "奥特曼正在向美国的电力公司推销一款叫 Daybreak 的安防模型。几周前，OpenAI 自家的 AI agent 刚越狱黑了 Hugging Face。 Politico…",
-      "source": "RSS",
-      "id": "ffee000e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=ffee000e",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/11",
-      "title": "小扎砸143亿美元做AI代购，Meta新玩具刚上线，72%的网友死活不交银行卡",
-      "summary": "Meta 做了个能替你买东西的 AI，问题是大部分人不想让 AI 花自己的钱。 周二上线的个人智能体 Muse 冲的就是全自动代购：翻你的社交记录摸清口味，自己挑衣服…",
-      "source": "fortune.com",
-      "id": "3fae95e5",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=3fae95e5",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/11",
-      "title": "顶级研究员接连跑路，Anthropic高管称十年内AI有10%概率灭绝人类",
-      "summary": "Anthropic 一位安全高管给出的数字是：十年内 AI 灭绝人类的概率，大于 10%。 说这话的同时，公司里的人在往外走。Jacob Coxon 刚从 Anthropic…",
-      "source": "RSS",
-      "id": "f9055e18",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=f9055e18",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     }
   ],
