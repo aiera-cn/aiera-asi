@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-13 19:23:34 +0000",
+  "fetched_at": "2026-09-13 22:22:21 +0000",
   "today": "09/13",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -236,6 +236,50 @@
       "id": "ed777d47",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=ed777d47",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/13",
+      "title": "11天干完数学家几年的活？Claude把费马大定理转成1300万行代码",
+      "summary": "人类数学家预计要熬上几年的大工程，Claude 只用了 11 天。 Anthropic 公布了第一份完整的、由计算机核验过的费马大定理证明。Claude 基本独立完成，把…",
+      "source": "www.anthropic.com",
+      "id": "0f7dd1e7",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=0f7dd1e7",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/13",
+      "title": "OpenAI不敢上市，Anthropic却要敲钟了，估值2万亿美元选定纳斯达克",
+      "summary": "Anthropic 要敲钟了，地点选在纳斯达克。据 Business Insider 和路透援引知情人士的消息，Anthropic 瞄准 10 月上市，估值冲着 2…",
+      "source": "RSS",
+      "id": "dc1810db",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=dc1810db",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/13",
+      "title": "「旧模型太笨做不了生物武器」，Anthropic给新模型上锁，AI圈开始清理门户",
+      "summary": "Anthropic 给新模型上了锁。现在的 Claude Fable 5，已经全面封锁双用途生物查询。 那 2025 年的 Claude Opus 4…",
+      "source": "RSS",
+      "id": "0c0bd3d9",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=0c0bd3d9",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/13",
+      "title": "陶哲轩等25位菲尔兹奖得主联名痛批AI公司拿数学难题当跑分工具",
+      "summary": "25 位菲尔兹奖得主联名喊停了。9 月 11 日，一封公开信挂上陶哲轩的博客，标题叫「AI 与数学的严重错位」。 信里的指控很具体。AI 公司把解题速度当成核心目标…",
+      "source": "www.implicator.ai",
+      "id": "72938e37",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=72938e37",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -621,50 +665,6 @@
       "id": "beb840ae",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=beb840ae",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/12",
-      "title": "8位医生的眼球轨迹喂给AI，100%找准阳性切片，假阳性率碾压OpenAI o3",
-      "summary": "宾大黄智团队把 8 位病理学家看切片时的眼动轨迹喂给 AI，练出了 Pathology-o3。考结直肠癌淋巴结切片，它把阳性切片全部找对，漏诊率清零。 同场应考的还有…",
-      "source": "",
-      "id": "550ddd90",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=550ddd90",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/12",
-      "title": "嫌Claude读代码太烧钱，Spotify搞了个拦截插件，把代币消耗砍掉90%",
-      "summary": "Spotify 工程师 Dmitry Mazmanov 给 Claude Code 装了个拦截插件，把读大文件的活转给便宜模型。在外包大文件读取的测试里，Claude…",
-      "source": "RSS",
-      "id": "4a517753",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=4a517753",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/12",
-      "title": "「现在上市太不明智」，奥特曼亲口叫停OpenAI今年IPO，万亿估值先放一边",
-      "summary": "奥特曼亲口向《财富》确认，2026 年 OpenAI 不会 IPO，理由是 AI 安全。「现在上市太不明智。」纽约时报此前预估它的上市估值能到 1 万亿美元…",
-      "source": "fortune.com",
-      "id": "42988428",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=42988428",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/12",
-      "title": "91.9%高分换个版本暴跌至37%？大模型跑分全靠厂商自己出卷子",
-      "summary": "同一个 GPT-5.6，在 Terminal-Bench 2.1 上拿了 91.9%，换到 4.0 版本只剩 37.3%。模型还是那个模型，分数掉了一半多。 PCMag…",
-      "source": "RSS",
-      "id": "1bbbd481",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=1bbbd481",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     }
   ],

@@ -3,22 +3,68 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-13 19:23:37 +0000",
+  "fetched_at": "2026-09-13 22:22:23 +0000",
   "today": "09/13",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "Altman确认推迟IPO！Dario喊停AI，马斯克罕见站队：10%灭绝风险不可接受",
-      "summary": "Dario Amodei发长文提议限制算力并引入第三方评估，Sam Altman随即在Fortune采访确认OpenAI推迟2026年IPO，直言10%灭绝风险不可接受。马斯克转发支持称「Dario说得对」，英国70余名议员呼吁禁止ASI开发。尽管巨头罕见达成共识，但也有人质疑这实为建立监管护城河以阻碍开源发展。",
-      "reads": "45万",
-      "ago": "2 小时前",
+      "title": "微软CEO急踩刹车！Nadella：不受控的超级智能不值得追，明天发MAI模型",
+      "summary": "微软CEO Satya Nadella发表重磅声明，明确超级智能追求必须建立在「受人类控制且造福人类」的基础上，否则不值得投入。他特别强调需要「刻意放缓节奏」（deliberate pacing）以确保对齐安全，这被视为微软在前沿AI竞赛中采取「踩刹车」策略的信号。同时，Nadella透露微软将于次日发布自家的第一方MAI模型，并主张每个组织都应建立自己的持续学习循环。",
+      "reads": "41万",
+      "ago": "1 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Anthropic CEO Dario Amodei发表3800字长文，提议通过限制训练算力、调整训练性质及引入第三方评估机构来放缓前沿AI开发节奏。",
-        "OpenAI CEO Sam Altman在Fortune采访中确认因安全考量推迟2026年IPO，称当前上市时机不明智，并直言十年内10%的灭绝风险不可接…",
-        "Elon Musk转发Dario的文章并表示「Dario说得对」，罕见地与同行达成放缓AI发展的共识。",
-        "前Anthropic及OpenAI研究员Jacob Coxon辞职后在BBC警告，若不减速人类可能面临死亡风险，其相关推文浏览量超1.66亿次。"
+        "Satya Nadella声明核心：任何对超级智能的追求，若不能帮助人类且不受人类控制，就不值得追求。",
+        "Nadella提出「deliberate pacing」（刻意放缓节奏）概念，认为这是做好对齐（alignment）作为设计目标所必需的。",
+        "微软产品路线图更新：Nadella确认将于次日（tomorrow）发布微软自家的第一方MAI模型。",
+        "战略信号解读：该表态被视为微软在前沿AI竞赛中从单纯追求能力突破转向强调可控性与社会价值扩散的信号。"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "Microsoft 🔥：Satya Nadella 赞同控制前沿 AI 的发展节奏。 &gt; “不造福人类且不受人类控制的超级智能不值得追求” &gt; “我们欢迎为了做好对齐而需要的深入研究、专注和刻意放缓节奏，随着"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Dell XPS摄像头坏了？一句话让Codex重启修好，Linux运维门槛没了",
+      "summary": "知名开发者 steipete 分享了一个极具代表性的案例：他的 Dell XPS 笔记本摄像头失效，没有去翻内核文档或手动排查驱动，而是直接告诉 OpenAI Codex。结果 Codex 执行了重启并自动完成配置，问题瞬间解决。这标志着 AI Agent 的能力边界从单纯的代码编写，正式延伸到了底层硬件运维和系统级调试。对于普通用户而言，这意味着高级系统维护的技术门槛被彻底拉…",
+      "reads": "15万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "事件主角是知名开发者 steipete，他使用 OpenAI Codex 智能体在 Linux 环境下解决了硬件故障。",
+        "具体场景为 Dell XPS 笔记本摄像头失效，用户仅通过自然语言提示词指令触发修复流程。",
+        "Codex 自动执行了系统重启及驱动配置操作，无需用户具备 Linux 内核知识或手动排查步骤。",
+        "该案例印证了 Agents API 落地后，云端智能体能力从代码编写向底层硬件运维延伸的趋势。"
+      ],
+      "quote": {
+        "who": "Peter Steinberger 🦞",
+        "role": "",
+        "said": "@mwhuss @stevenharms 卧槽。谢了！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Altman摊牌10%灭绝率！Dario罕见松口：技术可交政府，AI安全大和解？",
+      "summary": "Anthropic CEO Dario Amodei在CNN和CBS采访中首次正面回应前研究员Jacob Coxon的离职警告，表示「同意远多于不同意」。与此同时，OpenAI CEO Sam Altman在Fortune采访中指出10%的人类灭绝概率不可接受，暗示行业可能达成放缓共识。这场争论已从技术社区蔓延至主流政治与商业议程，形成加速派与安全审慎派的公开对峙。",
+      "reads": "11万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Dario Amodei在CNN采访中回应Jacob Coxon那条1.66亿+浏览量的离职推文，称「我同意Jacob的地方远多于不同意的地方」。",
+        "OpenAI CEO Sam Altman在Fortune采访中表示，十年内AI导致人类灭绝概率为10%是不可接受的，暗示OpenAI、Anthropic和…",
+        "前Anthropic和OpenAI研究员Jacob Coxon在BBC采访中警告，若不减速，人类面临「近期死亡」的高风险，并指出AI代码可自我复制导致无法简…",
+        "Dario Amodei提出AI安全应如「瑞士奶酪模型」般多层防御，强调目标是将许多不完美的防御叠加在一起，避免单一机制失效演变成灾难。"
       ],
       "quote": {
         "who": "Rohan Paul",
@@ -33,8 +79,8 @@
     {
       "title": "Gurman下注！iPhone Duo十年内让折叠屏成主流，地位直逼初代iPod",
       "summary": "知名记者Mark Gurman在苹果发布会后连发推文，给iPhone Duo定了性：这不仅是新品，更是苹果试图重塑手机格局的王牌。他预测这款机型将在十年内推动折叠屏成为市场主导形态，地位仅次于1998年的iMac、2001年的iPod和2010年的iPad。Gurman还透露了后续机型的两大核心升级方向：Face ID和长焦镜头。",
-      "reads": "65万",
-      "ago": "4 小时前",
+      "reads": "88万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -54,56 +100,10 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Linux修电脑？提示词搞定！OpenClaw之父：现在啥都能让Agent修",
-      "summary": "OpenClaw (OC) 核心研究员 Peter Steinberger 分享了他用 AI 智能体 Codex 在 Linux 系统上修复 Dell XPS 摄像头故障的经历。他直言现在通过提示词即可解决各类技术难题，建议用户尝试用最新一代智能体处理复杂任务。这标志着 AI 能力正从单纯的代码生成向系统级硬件调试和运维延伸，「Agentic Coding」正在成为日常开发和维…",
-      "reads": "7.8万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenClaw (OC) 研究员 Peter Steinberger (@steipete) 在推文中表示，如果最近没试过 Linux，建议搭配 AI 智…",
-        "具体案例：Steinberger 的 Dell XPS 笔记本电脑摄像头无法工作，他直接将问题告知 Codex，AI 执行重启操作后故障即被解决。",
-        "Steinberger 透露，OpenClaw 团队两个月前就确立了「用 OC 构建 OC」的策略，目前改进正在源源不断地涌现，验证了智能体自我迭代的有效性…",
-        "该观点强调了 Agentic Coding 在实际硬件调试中的有效性，展示了 AI 从代码生成向系统级运维能力的延伸。"
-      ],
-      "quote": {
-        "who": "Peter Steinberger 🦞",
-        "role": "",
-        "said": "@groveriskunal @dhh 并不微妙。我支持 Omacon Foundation。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "马斯克定调！没什么能关停开源，AI生态拒绝被资本收编",
-      "summary": "面对开源生态可能被商业闭环取代的焦虑，Elon Musk在X上直接给出定论：「没什么能关停开源」。这一表态不仅回应了关于DeepSeek等低成本模型让开源失去必要性的讨论，更强调开源是技术发展的必然归宿。KOL Kim Monismus随即附和称「开源必须赢且一定会赢」，表明社区共识正成为对抗闭源垄断的关键力量，确认了开发者投入开源生态的长期价值。",
-      "reads": "151万",
-      "ago": "10 小时前",
-      "category": "中国与开源",
-      "source": "新智元",
-      "bullets": [
-        "Elon Musk在X上明确表态：「Nothing can shut down open source」（没什么能关停开源），强调其不可逆性。",
-        "该观点直接回应了此前关于DeepSeek等低成本模型可能使开源失去必要性的争议讨论。",
-        "Musk认为开源是技术发展的必然归宿，而非某种执念或临时策略。",
-        "KOL Kim Monismus随即附和，称「100%。Open source must win. And will win.」（100%。开源必须赢。而且…"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@elonmusk @kevinnbass 100%。开源必须赢。而且一定会赢。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
       "title": "Alexandr Wang晒Muse团队！Spark 1.3 (Max)正式落地，个人智能体要接管工作流了",
       "summary": "Meta个人智能体项目Muse迎来关键节点，负责人Alexandr Wang公开盛赞团队「充满灵魂且极具战斗力」。与此同时，Muse Spark 1.3 (Max)正式向muse code订阅用户开放。结合此前Soul.md文件及MSL增加对齐投入的消息，这标志着Meta在个人超级智能领域的生态布局正在加速落地。",
-      "reads": "4.9万",
-      "ago": "2 小时前",
+      "reads": "7.9万",
+      "ago": "5 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -123,22 +123,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Simon Willison逆向ChatGPT！发现Astra藏了个D3.js画图技能，跑步路线自动生成",
-      "summary": "知名开发者Simon Willison展示了ChatGPT Work的新玩法：输入地址即可生成5K或10K环形跑步路线。他通过逆向工程发现，系统利用名为‘visualize’的技能输出基于D3.js的HTML片段来渲染地图和路线。此外，他还指出界面中的‘Max/6-Pro’实为GPT-6 Astra的不同命名，证实了ChatGPT Work在复杂数据调用与可视化上的能力升级。",
-      "reads": "8.3万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
+      "title": "三巨头秘密结盟！OpenAI、Anthropic、Google联手搞「物理MCP」，Dario还没发文他们先动了",
+      "summary": "据 The Information 爆料，在 Dario Amodei 发表那篇呼吁放缓 AI 发展的文章之前，OpenAI、Anthropic 和 Google 就已经开始秘密谈判。这三家头部实验室计划共同创立一个由行业主导的标准机构，专门用来制定共享的模型安全协议。这不仅是对外界监管压力的回应，更像是在公开表态之外，建立一套非官方的内部共识机制，试图通过「自我立法」来管控前…",
+      "reads": "1.2万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Simon Willison演示ChatGPT Work结合GPT-6 Astra（界面显示为Max或6-Pro）的新功能：根据指定地址自动生成5K或10K…",
-        "该功能底层利用OSM Nominatum数据获取地理信息，实现了从文本指令到具体路径规划的闭环。",
-        "通过逆向工程发现，ChatGPT使用名为‘visualize’的技能生成基于D3.js的HTML片段，用于渲染地图和叠加的跑步路线。",
-        "Simon Willison指出，界面中显示的‘6-Pro’实际上是Astra的另一个名字，OpenAI未在UI中直接标注为Astra的原因尚不明确。"
+        "信源为 The Information，爆料称 OpenAI、Anthropic 和 Google 三家巨头正在进行秘密谈判。",
+        "谈判启动时间早于 Dario Amodei 发表呼吁放缓前沿 AI 发展的公开文章。",
+        "核心目标是共同创立一个由行业主导的标准机构（Industry-led standards body）。",
+        "该机构旨在制定「共享的模型安全协议」（shared model safety protocols），而非单一公司的内部规范。"
       ],
       "quote": {
-        "who": "Simon Willison",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "@0xSMW 6-Pro 就是 Astra 的另一个名字，不知道为什么他们没在 UI 里直接标成 Astra"
+        "said": "@coffaccelerate 是的，谢谢，我几天前看到了最初的报道，可能现在又加了更多名字。"
       },
       "tag": null,
       "story": null,
@@ -148,8 +148,8 @@
     {
       "title": "Windows零日漏洞「内鬼」身份曝光！前微软员工实名，供应链信任崩了",
       "summary": "一直给Windows系统「投毒」的匿名安全研究员Nightmare Eclipse终于摘下面具。真名Abdelhamid Naceri，前微软员工，被描述为极具才华的安全专家。这次身份由安全媒体@intcyberdigest率先披露，并确认双方有私人交情。这意味着近期Windows频繁遭遇零日攻击并非外部黑客所为，而是来自熟悉内部机制的「内鬼」或前员工，企业级供应链信任危机正在…",
-      "reads": "13万",
-      "ago": "6 小时前",
+      "reads": "15万",
+      "ago": "9 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -169,10 +169,56 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "title": "GPT-6 Astra造出歼星舰！Blender里搓3D，明年影视资产超1977",
+      "summary": "开发者用 GPT-6 Astra 在 Blender 中直接生成了帝国歼星舰的 3D 模型。虽然这还不是 AGI，但半年前这种质量的生成根本不可能实现。按这个速度外推，再过一年 AI 生成的影视资产就能超越 1977 年《星球大战》的水准。",
+      "reads": "1.8万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "开发者 chrisgpt 使用 GPT-6 Astra 在 Blender 中制作了帝国歼星舰的 3D 模型。",
+        "该案例展示了 Astra 在复杂视觉任务上的生成能力，质量远超半年前的水平。",
+        "chrisgpt 强调这并非 AGI，而是技术迭代带来的质变：六个月前无法达到此质量。",
+        "预测若再发展一年，AI 生成的影视资产将超越 1977 年《星球大战》的水准。"
+      ],
+      "quote": {
+        "who": "Chris",
+        "role": "",
+        "said": "@DStateRespTeam 这不是通用人工智能（AGI），更多是看怎么做到的——六个月前根本不可能接近这种质量水平。要是再外推一年，你显然会开始打败1977。不过这会相当困难，因为 George Lucas 是……"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Simon Willison逆向ChatGPT！发现Astra藏了个D3.js画图技能，跑步路线自动生成",
+      "summary": "知名开发者Simon Willison展示了ChatGPT Work的新玩法：输入地址即可生成5K或10K环形跑步路线。他通过逆向工程发现，系统利用名为‘visualize’的技能输出基于D3.js的HTML片段来渲染地图和路线。此外，他还指出界面中的‘Max/6-Pro’实为GPT-6 Astra的不同命名，证实了ChatGPT Work在复杂数据调用与可视化上的能力升级。",
+      "reads": "8.3万",
+      "ago": "8 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Simon Willison演示ChatGPT Work结合GPT-6 Astra（界面显示为Max或6-Pro）的新功能：根据指定地址自动生成5K或10K…",
+        "该功能底层利用OSM Nominatum数据获取地理信息，实现了从文本指令到具体路径规划的闭环。",
+        "通过逆向工程发现，ChatGPT使用名为‘visualize’的技能生成基于D3.js的HTML片段，用于渲染地图和叠加的跑步路线。",
+        "Simon Willison指出，界面中显示的‘6-Pro’实际上是Astra的另一个名字，OpenAI未在UI中直接标注为Astra的原因尚不明确。"
+      ],
+      "quote": {
+        "who": "Simon Willison",
+        "role": "",
+        "said": "@0xSMW 6-Pro 就是 Astra 的另一个名字，不知道为什么他们没在 UI 里直接标成 Astra"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "title": "28岁Alexandr Wang硬刚Dario！对齐不减速，Meta超级智能狂奔",
       "summary": "Meta首席AI官Alexandr Wang发长文定调：对齐是个人超级智能的基础。核心信号很明确——随着模型变强，MSL正在迅速增加对齐投入比例，但绝不因此放缓研发速度。这被KOL解读为「对齐与加速并行」的巨大胜利，但也招致研究员批评措施力度不足，缺乏类似员工级别的第三方审计。",
-      "reads": "32万",
-      "ago": "11 小时前",
+      "reads": "35万",
+      "ago": "14 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -195,7 +241,7 @@
       "title": "Meta版Claude Code来了！Muse 1.3开放，Soul.md成社区新宠",
       "summary": "Meta个人智能体Muse Spark 1.3 (Max)正式向muse code订阅用户开放。知名研究员steipete在获取邀请码后，公开表达了对Muse内部Soul.md文件的好奇心，并确认该功能已可用。这一举动引发了社区对Meta智能体底层架构及个性化机制的关注。",
       "reads": "34万",
-      "ago": "14 小时前",
+      "ago": "17 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -215,33 +261,10 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Altman内部摊牌！OpenAI言论自由标准曝光，Meta员工都酸了",
-      "summary": "The Information披露了Sam Altman在Slack上对OpenAI员工的一段关键发言。这位CEO极力维护员工畅所欲言的权利，特别是在涉及AI安全和政治讨论等敏感话题时，这种姿态在X、GDM或Meta等竞品中极为罕见。这一举动不仅被视为OpenAI内部文化的关键转折，也进一步巩固了其区别于其他科技巨头的组织形象，让外界得以窥见其内部对于敏感话题的真实讨论氛围。",
-      "reads": "57万",
-      "ago": "16 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "信源为The Information于6月10日的报道，核心内容是Sam Altman在Slack上对OpenAI员工发表的言论。",
-        "Altman极力维护员工畅所欲言的权利，认为这种开放度在X、GDM或Meta等竞品中是罕见的。",
-        "该事件被开发者视为OpenAI内部文化的关键转折点，展示了CEO在安全担忧与政治讨论背景下的管理姿态。",
-        "尽管后续推文多为对IPO时机的澄清（如今年不会上市）或打字错误修正（by far误写为my fat），但核心事实是Altman确立了特定的言论自由标准。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "@barrymccocc4j1 @darkfore8h 唉，本来想说 by far 的，没注意手机自动纠错成了 my fat，搞得这帖子不知所云。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
       "title": "ChatGPT语音能力开放API！边听边说，1-800热线暗示商用落地",
       "summary": "OpenAI官方宣布GPT-Live-1正式接入API，这意味着开发者可以直接把ChatGPT那种自然的「边听边说」对话能力搬进自己的应用里。不用再自己折腾复杂的实时音频处理链路了，这个功能还能跟你选的模型和框架协同工作。推文里还甩出了一个专属客服号1-800-ChatGPT，这架势明显是要搞规模化商用了。",
       "reads": "40万",
-      "ago": "19 小时前",
+      "ago": "22 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -263,8 +286,8 @@
     {
       "title": "Claude 5系集体翻车！Opus变懒、Fable涨价，$200套餐也扛不住5小时限额",
       "summary": "Claude 模型质量争议持续发酵。KOL指出 Opus 5 后端能力需改进且存在「变懒」问题；Fable 5.1 虽比 Fable 5 更贵但性能未显著超越，引发性价比质疑。用户抱怨即使拥有 $200 套餐仍受限于 5 小时额度，多账号策略也未能有效缓解限制。社区建议将 Astra 作为子智能体以提升效率，并期待 GPT-6 与 Opus 维持旧有定价以惠及普通用户。",
-      "reads": "5525",
-      "ago": "2 小时前",
+      "reads": "7487",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -284,56 +307,10 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Chollet憋了一年大招！ARC-AGI-4来了，专测AI能不能自己搞发明",
-      "summary": "ARC Prize创始人Francois Chollet正式官宣，新一代基准测试ARC-AGI-4将聚焦「自主开放式创新」。这个计划其实已经秘密筹备了一年，旨在让AI从解决固定谜题转向真正的持续发明。虽然模型进步飞快，但官方强调人类在此类任务上依然显著优于AI。新基准将继续保持开源，并为未来的ARC 5打下基础。",
-      "reads": "27万",
-      "ago": "20 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "ARC Prize官方宣布ARC-AGI-4将成为「自主开放式创新」（autonomous open-ended innovation）的基准测试。",
-        "创始人Francois Chollet透露，该计划始于一年前，当时尚未引起广泛关注，旨在为研究社区提供共同的进步目标。",
-        "新基准将延续开源承诺，并作为后续ARC 5的基础架构。",
-        "官方强调，尽管模型进展迅速，但人类在相关开放式创新任务上的表现仍显著优于AI。"
-      ],
-      "quote": {
-        "who": "François Chollet",
-        "role": "",
-        "said": "大约一年前，在还没人关注的时候，我们就开始探索开放式发明的基准测试的想法。从那以后，我们开发了几个很有前景的方向，这将作为 ARC 4 和 ARC 5 的基础。 我们非常激动能分享我们已经"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Anthropic研究员摊牌！Dario喊停AI是「自杀式」策略，但为了正确也得干",
-      "summary": "Anthropic研究员Sholto Douglas公开回应CEO Dario Amodei关于递归自我改进（RSI）的担忧。尽管承认放缓前沿AI发展会让自家日子难过且利于竞争对手追赶，但团队仍认为这是正确选择。记者Firstadopter指出，Dario的言论可能引发政客出台繁琐监管，导致「监管俘获」，反而阻碍新公司追赶。此事件凸显了头部AI公司在安全主张与商业竞争间的张力…",
-      "reads": "28万",
-      "ago": "22 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic研究员Sholto Douglas公开回应CEO Dario Amodei关于RSI（递归自我改进）的担忧。",
-        "Douglas承认放缓前沿AI发展会让Anthropic日子更难过，并让其他竞争对手更容易追上。",
-        "尽管存在商业劣势，Douglas表示团队仍认为放缓研发是「正确的事」。",
-        "记者Firstadopter批评Dario的言论和媒体曝光可能导致政客出台繁琐且弄巧成拙的AI监管规定。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "抛开初衷不谈，Dario 的言论以及随之而来的媒体曝光，可能会导致那些笨拙、无知的政客出台繁琐且弄巧成拙的 AI 监管规定。 他们会让新秀公司根本无法追赶。这就是监管俘获的定义。 Anthropic 需要往下看"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
       "title": "剪视频不用碰鼠标！Codex接管DaVinci，AI后期制作真落地了",
       "summary": "一位开发者展示了如何用ChatGPT Work (Codex) 配合 DaVinci Resolve MCP 实现全自动视频剪辑。流程简单粗暴：让 Codex 自己下载安装软件、配置 MCP，然后把素材文件夹丢给它处理。此外，Codex 还能通过浏览器自动化操作 Adobe Podcast 进行音频处理。这标志着 AI Agent 正从代码辅助向专业创意工具链深度渗透，大幅降低…",
-      "reads": "1.2万",
-      "ago": "5 小时前",
+      "reads": "1.6万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -353,22 +330,45 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "2万亿估值悬了！Anthropic拟IPO，Nvidia入局，安全承诺成笑话？",
-      "summary": "据FT报道，Anthropic正筹备以约2万亿美元估值IPO，Nvidia可能成为基石投资者。记者Dee Bosa指出，这与其长期主张的「商业压力迫使AI发展过快」形成讽刺对比——公开市场的季度增长预期将加剧安全开发与财富最大化的冲突。当前高估值严重依赖前沿模型持续领先，而开放权重模型的快速追赶正构成潜在威胁。",
-      "reads": "21万",
+      "title": "Gary Marcus急了！别盯着灭绝论，联网AI Agent才是真雷",
+      "summary": "Gary Marcus在最新推文中直言厌倦了AI界的「角色扮演」和过度恐慌。他指出当前主要威胁并非人类灭绝或大规模网络犯罪，而是那些连接互联网的通用AI智能体。这些Agent大多不可靠且处理不当，即便领域较窄也可能造成实际伤害。Marcus呼吁将关注点从科幻式灾难引向现实中的可靠性与安全问题。",
+      "reads": "5.7万",
+      "ago": "18 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Gary Marcus明确表示「厌倦了角色扮演」，认为当前AI风险讨论存在过度恐慌倾向。",
+        "他断言大多数AI并不构成人类灭绝威胁，甚至算不上大规模网络犯罪的主要来源。",
+        "Marcus将主要威胁锁定为「连接到互联网的通用AI智能体」（general purpose AI agents）。",
+        "他指出这类智能体目前大多不可靠（unreliable），且处理不当（not well handled）。"
+      ],
+      "quote": {
+        "who": "Gary Marcus",
+        "role": "",
+        "said": "@Jaisiero 目前处理得确实不好"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Anthropic逼宫Google！下一代TPU砍掉光交换，1280卡集群全走电线",
+      "summary": "SemiAnalysis爆料称，应Anthropic要求，Google下一代由MediaTek制造的TPUv9i（代号Triggerfish）将放弃Boardfly和OCS光交换技术，转而采用全电交换ICI。这一改动旨在为Anthropic腾出更多芯片面积用于计算或内存，并实现与Trainium、GPU等加速器的统一网络架构。新设计预计采用单层扁平网络拓扑，基于ALAB的320…",
+      "reads": "7.8万",
       "ago": "22 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "FT报道Anthropic拟以约2万亿美元估值进行IPO，Nvidia或成基石投资者。",
-        "记者Dee Bosa指出，OAI和Anthropic长期主张商业压力迫使AI发展过快，上市将加剧季度增长预期与安全开发的冲突。",
-        "尽管安全开发可能比财富最大化更重要，但当前公司架构已深度绑定巨额私人估值与资本回报预期。",
-        "其高估值严重依赖前沿模型的持续领先优势，而开放权重模型的快速追赶正构成潜在威胁。"
+        "爆料来源为SemiAnalysis，指出Anthropic要求Google在专属TPUv9i SKU中放弃Boardfly和OCS光交换技术。",
+        "新架构采用全电交换ICI（Inter-Chip Interconnect），预计使用ALAB的320端口Scorpio-X交换机，支持336G SerDes…",
+        "网络拓扑预计为单层扁平结构，包含5个平面（每平面24台交换机）或24个平面（每平面5台交换机）。",
+        "每台交换机连接4个计算机架，每个机架以单通道300G速率连接24台交换机。"
       ],
       "quote": {
-        "who": "Deirdre Bosa",
+        "who": "SemiAnalysis",
         "role": "",
-        "said": "@davidchie 说的有道理。但想想他们有那么多的估值都与前沿的持续进展挂钩。特别是后面还有开放权重模型紧追不舍"
+        "said": "这将留下64个端口用于跨平面或平面内的 dragonfly 互连，意味着 4:1 的超额认购比，最大集群规模可达 1280 个互连的 TPU。(5/7)"
       },
       "tag": null,
       "story": null,
