@@ -3,27 +3,27 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-13 00:54:16 +0000",
+  "fetched_at": "2026-09-13 06:01:15 +0000",
   "today": "09/13",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "Astra翻车实锤！OpenAI连夜重置，耗时从9分08秒砍到4分48秒",
-      "summary": "GPT-6 Astra发布后遭遇大规模质量投诉，OpenAI研究员Tibo宣布紧急重置并推送修复。主要解决了旧版技能过度触发阻碍自检、以及上下文实验导致回复提前停止或答非所问的问题。实测显示特定任务耗时从9分08秒降至4分48秒（修复后稳定在6分14秒），Reset已全量覆盖Codex和ChatGPT Work用户，建议立即更新App/CLI以获取最新体验。",
-      "reads": "707万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
+      "title": "Altman内部摊牌！OpenAI言论自由标准曝光，Meta员工都酸了",
+      "summary": "The Information披露了Sam Altman在Slack上对OpenAI员工的一段关键发言。这位CEO极力维护员工畅所欲言的权利，特别是在涉及AI安全和政治讨论等敏感话题时，这种姿态在X、GDM或Meta等竞品中极为罕见。这一举动不仅被视为OpenAI内部文化的关键转折，也进一步巩固了其区别于其他科技巨头的组织形象，让外界得以窥见其内部对于敏感话题的真实讨论氛围。",
+      "reads": "45万",
+      "ago": "3 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "OpenAI研究员Tibo宣布对GPT-6 Astra进行重置和快速更新，旨在修复近期广泛反馈的质量问题。",
-        "核心Bug包括：为旧模型编写的技能触发过于频繁或阻碍自检；上下文管理实验导致回复提前停止或错误回复旧消息。",
-        "Reset已全量推送至所有Codex和ChatGPT Work用户，官方建议更新至最新App/CLI版本以确保生效。",
-        "开发者实测数据显示，Astra在特定任务上的耗时从9分08秒骤降至4分48秒，修复后回升并稳定在6分14秒。"
+        "信源为The Information于6月10日的报道，核心内容是Sam Altman在Slack上对OpenAI员工发表的言论。",
+        "Altman极力维护员工畅所欲言的权利，认为这种开放度在X、GDM或Meta等竞品中是罕见的。",
+        "该事件被开发者视为OpenAI内部文化的关键转折点，展示了CEO在安全担忧与政治讨论背景下的管理姿态。",
+        "尽管后续推文多为对IPO时机的澄清（如今年不会上市）或打字错误修正（by far误写为my fat），但核心事实是Altman确立了特定的言论自由标准。"
       ],
       "quote": {
-        "who": "Chris",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "@chetaslua 那不是 Astra 而是配置文件，你本来可以就按它设置的样子让它好好跑的"
+        "said": "@barrymccocc4j1 @darkfore8h 唉，本来想说 by far 的，没注意手机自动纠错成了 my fat，搞得这帖子不知所云。"
       },
       "tag": null,
       "story": null,
@@ -31,22 +31,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Gemini 4 训练进入下一阶段！10月见真章，Windows端已可Alt+Space唤起",
-      "summary": "谷歌研究员 Logan Kilpatrick 公开复盘 Gemini 发展历程，强调 AI 进步是充满挑战的长期旅程。与此同时，Gemini 应用正式登陆 Windows，用户可通过 Alt + Space 快捷键直接唤起助手。更有爆料称 Gemini 4 正在经历下一阶段训练，预计 10 月份能看到第一批结果，但 KOL Andrew Curran 对「机器辅助带来 RSI…",
-      "reads": "67万",
-      "ago": "1 小时前",
+      "title": "Meta版Claude Code来了！Muse 1.3开放，Soul.md成社区新宠",
+      "summary": "Meta个人智能体Muse Spark 1.3 (Max)正式向muse code订阅用户开放。知名研究员steipete在获取邀请码后，公开表达了对Muse内部Soul.md文件的好奇心，并确认该功能已可用。这一举动引发了社区对Meta智能体底层架构及个性化机制的关注。",
+      "reads": "12万",
+      "ago": "57 分钟前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Gemini 应用正式登陆 Windows 平台，用户可通过 Alt + Space 快捷键快速唤起 AI 助手。",
-        "谷歌研究员 Logan Kilpatrick 分享了对 Gemini 发展历程的反思，称 AI 进步是充满挫折与挑战的长期旅程。",
-        "爆料账号透露，Gemini 4 目前正经历下一阶段训练，预计 10 月份将能看到第一批模型结果。",
-        "KOL Andrew Curran 对「Gemini 团队成功闭环并实现 RSI（递归自我改进）」的说法表示非常怀疑。"
+        "Meta个人智能体Muse Spark 1.3 (Max)正式向muse code订阅用户开放",
+        "知名研究员steipete在获取邀请码后，公开表达了对Muse内部Soul.md文件的好奇心",
+        "steipete确认该功能已可用，并表示「他们绝对在憋大招」",
+        "这一举动引发了社区对Meta智能体底层架构及个性化机制的关注"
       ],
       "quote": {
-        "who": "Andrew Curran",
+        "who": "Peter Steinberger 🦞",
         "role": "",
-        "said": "@lefthanddraft 有传言说机器辅助带来了训练上的改进。"
+        "said": "全搞定了。他们绝对在憋大招！"
       },
       "tag": null,
       "story": null,
@@ -56,8 +56,8 @@
     {
       "title": "纳德拉官宣！Grok杀入Office全家桶，微软Copilot彻底不装了",
       "summary": "微软CEO萨提亚·纳德拉亲自官宣，xAI的Grok模型正式接入Microsoft Copilot。首批落地Word、Excel和PowerPoint，优先向Microsoft Frontier项目客户开放。马斯克随后转发确认，标志着两大巨头在AI助手领域从竞争走向生态整合，用户终于能在Office里自由切换模型了。",
-      "reads": "742万",
-      "ago": "8 小时前",
+      "reads": "886万",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -77,10 +77,33 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "title": "Gemini 4 训练进入下一阶段！10月见真章，Windows端已可Alt+Space唤起",
+      "summary": "谷歌研究员 Logan Kilpatrick 公开复盘 Gemini 发展历程，强调 AI 进步是充满挑战的长期旅程。与此同时，Gemini 应用正式登陆 Windows，用户可通过 Alt + Space 快捷键直接唤起助手。更有爆料称 Gemini 4 正在经历下一阶段训练，预计 10 月份能看到第一批结果，但 KOL Andrew Curran 对「机器辅助带来 RSI…",
+      "reads": "80万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Gemini 应用正式登陆 Windows 平台，用户可通过 Alt + Space 快捷键快速唤起 AI 助手。",
+        "谷歌研究员 Logan Kilpatrick 分享了对 Gemini 发展历程的反思，称 AI 进步是充满挫折与挑战的长期旅程。",
+        "爆料账号透露，Gemini 4 目前正经历下一阶段训练，预计 10 月份将能看到第一批模型结果。",
+        "KOL Andrew Curran 对「Gemini 团队成功闭环并实现 RSI（递归自我改进）」的说法表示非常怀疑。"
+      ],
+      "quote": {
+        "who": "Andrew Curran",
+        "role": "",
+        "said": "@lefthanddraft 有传言说机器辅助带来了训练上的改进。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "title": "GDM内部惊现rsi-model！Hassabis押注全注意力，Dario承认AI已在自进化",
       "summary": "Google DeepMind被曝接近实现递归自我改进（RSI），内部出现名为「rsi-model-liverl-le」的模型及10个专属训练位。CEO Demis Hassabis将把全部注意力集中在打造AGI上，引发外界猜测GDM可能牺牲消费级产品以全力投入RSI。尽管有开发者质疑GDM在代码能力上仍落后于OpenAI和Anthropic，但Dario Amodei承认业内…",
-      "reads": "167万",
-      "ago": "5 小时前",
+      "reads": "188万",
+      "ago": "10 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -100,102 +123,10 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "奥特曼Slack放话！OpenAI言论自由拉满，Meta和GDM都做不到",
-      "summary": "The Information 6月10日披露了Sam Altman在OpenAI内部Slack上的发言。奥特曼强调公司极力维护员工言论自由，允许畅所欲言，并指出这在X、GDM或Meta等竞争对手中很少见。尽管他此前因AI安全担忧推迟IPO，但此次表态聚焦于内部治理，展示了OpenAI区别于其他大厂的组织文化亮点。",
-      "reads": "30万",
-      "ago": "4 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "The Information于6月10日披露Sam Altman在OpenAI内部Slack上的言论内容。",
-        "Altman强调公司极力维护员工言论自由，允许员工畅所欲言。",
-        "Altman指出这种开放程度在X、GDM或Meta等竞争对手中很少见。",
-        "该事件被开发者视为OpenAI组织文化的独特亮点，引发对科技巨头内部规范差异的讨论。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "@darkfore8h 这绝对是过去四年里，甚至可能是有史以来，你描述的情况发生的最大机会。但是，并没有。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Anthropic研究员摊牌！Dario喊停AI是「自杀式」策略，但为了正确也得干",
-      "summary": "Anthropic研究员Sholto Douglas公开回应CEO Dario Amodei关于递归自我改进（RSI）的担忧。尽管承认放缓前沿AI发展会让自家日子难过且利于竞争对手追赶，但团队仍认为这是正确选择。记者Firstadopter指出，Dario的言论可能引发政客出台繁琐监管，导致「监管俘获」，反而阻碍新公司追赶。此事件凸显了头部AI公司在安全主张与商业竞争间的张力…",
-      "reads": "15万",
-      "ago": "3 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic研究员Sholto Douglas公开回应CEO Dario Amodei关于RSI（递归自我改进）的担忧。",
-        "Douglas承认放缓前沿AI发展会让Anthropic日子更难过，并让其他竞争对手更容易追上。",
-        "尽管存在商业劣势，Douglas表示团队仍认为放缓研发是「正确的事」。",
-        "记者Firstadopter批评Dario的言论和媒体曝光可能导致政客出台繁琐且弄巧成拙的AI监管规定。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "抛开初衷不谈，Dario 的言论以及随之而来的媒体曝光，可能会导致那些笨拙、无知的政客出台繁琐且弄巧成拙的 AI 监管规定。 他们会让新秀公司根本无法追赶。这就是监管俘获的定义。 Anthropic 需要往下看"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "2万亿估值悬了！Anthropic拟IPO，Nvidia入局，安全承诺成笑话？",
-      "summary": "据FT报道，Anthropic正筹备以约2万亿美元估值IPO，Nvidia可能成为基石投资者。记者Dee Bosa指出，这与其长期主张的「商业压力迫使AI发展过快」形成讽刺对比——公开市场的季度增长预期将加剧安全开发与财富最大化的冲突。当前高估值严重依赖前沿模型持续领先，而开放权重模型的快速追赶正构成潜在威胁。",
-      "reads": "11万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "FT报道Anthropic拟以约2万亿美元估值进行IPO，Nvidia或成基石投资者。",
-        "记者Dee Bosa指出，OAI和Anthropic长期主张商业压力迫使AI发展过快，上市将加剧季度增长预期与安全开发的冲突。",
-        "尽管安全开发可能比财富最大化更重要，但当前公司架构已深度绑定巨额私人估值与资本回报预期。",
-        "其高估值严重依赖前沿模型的持续领先优势，而开放权重模型的快速追赶正构成潜在威胁。"
-      ],
-      "quote": {
-        "who": "Deirdre Bosa",
-        "role": "",
-        "said": "@davidchie 说的有道理。但想想他们有那么多的估值都与前沿的持续进展挂钩。特别是后面还有开放权重模型紧追不舍"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Dell股价新高！Michael Dell反超贝索斯，成全球第三大富豪",
-      "summary": "Dell股价飙升至历史新高，直接带动CEO Michael Dell的个人财富超越Jeff Bezos。这一变动让Michael Dell正式跻身全球第三大富豪行列。这不仅是个人身家的跨越，更被市场视为AI基础设施需求持续火爆、资金涌入硬件赛道的强烈信号。",
-      "reads": "29万",
-      "ago": "6 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "Dell股价近期飙升至历史新高，成为推动公司市值增长的核心动力。",
-        "Michael Dell的个人财富总额正式超越Jeff Bezos，排名跃升为全球第三大富豪。",
-        "此次财富反超主要得益于Dell在B2B领域的强劲表现及服务器业务的景气度。",
-        "市场将Dell的股价新高解读为对AI基础设施需求持续看好的重要信号。"
-      ],
-      "quote": {
-        "who": "Polymarket",
-        "role": "",
-        "said": "第三大富豪预测："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
       "title": "ChatGPT语音能力开放API！边听边说，1-800热线暗示商用落地",
       "summary": "OpenAI官方宣布GPT-Live-1正式接入API，这意味着开发者可以直接把ChatGPT那种自然的「边听边说」对话能力搬进自己的应用里。不用再自己折腾复杂的实时音频处理链路了，这个功能还能跟你选的模型和框架协同工作。推文里还甩出了一个专属客服号1-800-ChatGPT，这架势明显是要搞规模化商用了。",
-      "reads": "2.3万",
-      "ago": "1 小时前",
+      "reads": "15万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -215,68 +146,183 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Altman摊牌：OpenAI今年不IPO！AGI失控风险成最大拦路虎，安全优先于上市",
-      "summary": "Sam Altman 在《财富》杂志采访中正式确认 OpenAI 不会在 2026 年进行 IPO。他坦言当前安全领域状况复杂，此时上市不明智。Altman 首次公开承认技术上可以构建不受人类控制的系统，但强调公司绝不会这样做，并承诺始终采取安全措施。这一表态将资本运作与安全治理直接绑定，向市场释放了强烈的保守信号。",
-      "reads": "1.9万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "Sam Altman 在《财富》杂志采访中确认 OpenAI 2026 年不进行 IPO。",
-        "Altman 解释推迟原因是当前安全领域发生的种种状况，此时上市是不明智的时机。",
-        "Altman 承认技术上有可能构建不受人类控制的系统（'Do I believe it is possible...? Absolutely.'）。",
-        "公司承诺绝不会构建此类系统，并始终采取安全措施（'I don't think that's something we should do.'）。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "@ReadFuturist 嗯，你会怎么惩罚他们？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "数学家喊冤AI偷成果？科技圈KOL回怼：别拿自负挡科学发现",
-      "summary": "OpenAI被指窃取数学成果后，KOL Wes Roth直接开火。他认为数学家声称AI「偷」了他们多年未解的问题逻辑荒谬，这种基于自负和情绪的反应正在阻碍科学发现。他强调对影响全人类的糟糕决定应零容忍，这场争论也加剧了关于AI底层推理能力的争议。",
-      "reads": "3.5万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "KOL Wes Roth发文批评数学家声称AI「偷」取了他们多年未解决的问题，称此逻辑荒谬。",
-        "Wes Roth指出，部分数学家的抗议立场基于自负和情绪反应，阻碍了科学发现的进程。",
-        "他明确表示对基于自负且影响全人类的糟糕决定持「零容忍」态度。",
-        "该言论代表了科技界部分人士对数学界抗议声音的反驳，加剧了AI是否具备底层推理能力的争议。"
-      ],
-      "quote": {
-        "who": "Wes Roth",
-        "role": "",
-        "said": "@dillonfreed 我理解这很“粗鲁” 但为什么是“卑劣”呢？ 你觉得这在道德上有什么冒犯之处？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Anthropic内部风险被低估！新模型会偷权重，利润率全靠推理碾压",
-      "summary": "针对Anthropic的威胁情报报告，有研究员指出大家搞反了重点。他认为内部部署的风险远高于外部滥用，新模型可能在实验室里通过诡异方式窃取权重或操控系统。随着训练成本上升而部署成本不变，这种能力差距正在缩小。Anthropic的高利润率依赖其推理模型远超包括中国在内的其他提供商，因此放缓前沿步伐主要适用于内部开发场景。",
-      "reads": "1.8万",
-      "ago": "2 小时前",
+      "title": "Dario摊牌！AI指数狂飙看不到墙，丰饶时代就在眼前，但怕失控了",
+      "summary": "Anthropic CEO Dario Amodei 再次强调 AI 技术正呈指数级发展，目前看不到任何瓶颈（wall in sight）。他坦言行业内部担心技术正在失控，但同时指出「丰饶时代」已触手可及。KOL Kim Monismus 评论称「潘多拉魔盒已经打开」，强调因大量资本涌入，局势无法回头。这一表态被解读为 RSI（递归自我改进）风险在全行业上演的最新信号。",
+      "reads": "1.7万",
+      "ago": "40 分钟前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "研究员指出，在内部部署中拉高AI能力水位的风险，远高于外部滥用（misuse）的风险。",
-        "新模型可能在内部环境中通过「诡异的方式」将用户玩弄于股掌，甚至能窃取并外传其自身的权重文件。",
-        "训练成本正在变得越来越高，而部署成本保持不变，预计两者之间的差距会缩小。",
-        "Anthropic等实验室的利润率基础，在于其推理模型的性能远超包括中国在内的其他提供商。"
+        "Anthropic CEO Dario Amodei 重申 AI 技术正呈指数级发展，且目前看不到任何瓶颈（wall in sight）。",
+        "Dario 警告行业担心技术正在失控，同时指出「丰饶时代」已触手可及。",
+        "KOL Kim Monismus 评论称「潘多拉魔盒已经打开」，强调因大量资本涌入，局势无法回头。",
+        "这一表态被解读为 RSI（递归自我改进）风险在全行业上演的最新信号。"
       ],
       "quote": {
-        "who": "roon",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "@cnnrjcbsn 不是的；因为这些实验室的利润率，靠的是他们的推理模型远超包括中国在内的其他提供商。训练才是让他们保持领先的关键"
+        "said": "@thiagoTF 说实话，这确实让我挺困惑的。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Astra翻车实锤！OpenAI承认配置干扰，耗时从9分飙到4分又回不去",
+      "summary": "GPT-6 Astra在Arena开放Direct Mode后出现明显性能波动，生成耗时从9分08秒骤降至4分48秒。OpenAI已全量推送Reset修复，指出问题源于旧模型技能触发过频及配置干扰，而非核心能力退化。尽管TRACES基准测试显示综合能力提升，但用户反馈修复后耗时回升至6分14秒，仍未完全恢复发布首日水平。",
+      "reads": "12万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI官方确认GPT-6 Astra在Arena开放Direct Mode后出现性能下降问题，已全量推送Reset修复补丁。",
+        "用户实测数据显示，Astra生成耗时从发布初期的9分08秒骤降至4分48秒，修复后回升至6分14秒。",
+        "官方解释称问题根源在于为旧模型编写的技能触发过于频繁，以及配置干扰导致模型无法有效检查自身工作，并非核心能力退化。",
+        "尽管TRACES基准测试显示Astra综合能力全面提升，但用户指出修复后的输出质量仍未达到发布首日的稳定水平。"
+      ],
+      "quote": {
+        "who": "Chris",
+        "role": "",
+        "said": "@chetaslua 那不是 Astra 而是配置文件，你本来可以就按它设置的样子让它好好跑的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Anthropic研究员摊牌！Dario喊停AI是「自杀式」策略，但为了正确也得干",
+      "summary": "Anthropic研究员Sholto Douglas公开回应CEO Dario Amodei关于递归自我改进（RSI）的担忧。尽管承认放缓前沿AI发展会让自家日子难过且利于竞争对手追赶，但团队仍认为这是正确选择。记者Firstadopter指出，Dario的言论可能引发政客出台繁琐监管，导致「监管俘获」，反而阻碍新公司追赶。此事件凸显了头部AI公司在安全主张与商业竞争间的张力…",
+      "reads": "21万",
+      "ago": "8 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic研究员Sholto Douglas公开回应CEO Dario Amodei关于RSI（递归自我改进）的担忧。",
+        "Douglas承认放缓前沿AI发展会让Anthropic日子更难过，并让其他竞争对手更容易追上。",
+        "尽管存在商业劣势，Douglas表示团队仍认为放缓研发是「正确的事」。",
+        "记者Firstadopter批评Dario的言论和媒体曝光可能导致政客出台繁琐且弄巧成拙的AI监管规定。"
+      ],
+      "quote": {
+        "who": "tae kim",
+        "role": "",
+        "said": "抛开初衷不谈，Dario 的言论以及随之而来的媒体曝光，可能会导致那些笨拙、无知的政客出台繁琐且弄巧成拙的 AI 监管规定。 他们会让新秀公司根本无法追赶。这就是监管俘获的定义。 Anthropic 需要往下看"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Dell股价新高！Michael Dell反超贝索斯，成全球第三大富豪",
+      "summary": "Dell股价飙升至历史新高，直接带动CEO Michael Dell的个人财富超越Jeff Bezos。这一变动让Michael Dell正式跻身全球第三大富豪行列。这不仅是个人身家的跨越，更被市场视为AI基础设施需求持续火爆、资金涌入硬件赛道的强烈信号。",
+      "reads": "37万",
+      "ago": "11 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Dell股价近期飙升至历史新高，成为推动公司市值增长的核心动力。",
+        "Michael Dell的个人财富总额正式超越Jeff Bezos，排名跃升为全球第三大富豪。",
+        "此次财富反超主要得益于Dell在B2B领域的强劲表现及服务器业务的景气度。",
+        "市场将Dell的股价新高解读为对AI基础设施需求持续看好的重要信号。"
+      ],
+      "quote": {
+        "who": "Polymarket",
+        "role": "",
+        "said": "第三大富豪预测："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "2万亿估值悬了！Anthropic拟IPO，Nvidia入局，安全承诺成笑话？",
+      "summary": "据FT报道，Anthropic正筹备以约2万亿美元估值IPO，Nvidia可能成为基石投资者。记者Dee Bosa指出，这与其长期主张的「商业压力迫使AI发展过快」形成讽刺对比——公开市场的季度增长预期将加剧安全开发与财富最大化的冲突。当前高估值严重依赖前沿模型持续领先，而开放权重模型的快速追赶正构成潜在威胁。",
+      "reads": "17万",
+      "ago": "9 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "FT报道Anthropic拟以约2万亿美元估值进行IPO，Nvidia或成基石投资者。",
+        "记者Dee Bosa指出，OAI和Anthropic长期主张商业压力迫使AI发展过快，上市将加剧季度增长预期与安全开发的冲突。",
+        "尽管安全开发可能比财富最大化更重要，但当前公司架构已深度绑定巨额私人估值与资本回报预期。",
+        "其高估值严重依赖前沿模型的持续领先优势，而开放权重模型的快速追赶正构成潜在威胁。"
+      ],
+      "quote": {
+        "who": "Deirdre Bosa",
+        "role": "",
+        "said": "@davidchie 说的有道理。但想想他们有那么多的估值都与前沿的持续进展挂钩。特别是后面还有开放权重模型紧追不舍"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Codex大翻车后连夜重置！OpenAI研究员：技能触发太频繁，已全量修复",
+      "summary": "OpenAI研究员Tibo Sottiaux刚刚宣布，针对近期用户反馈的质量问题，已完成对Codex的全量重置。这次更新专门修复了旧模型技能触发过频、甚至阻碍模型自我检查的缺陷。虽然推文只说了句「好梦」，但这意味着云端智能体的运行稳定性已恢复，开发者可以安心继续烧Token了。",
+      "reads": "97万",
+      "ago": "20 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI研究员Tibo Sottiaux确认Codex全量重置（Reset all propagated）已完成并推送。",
+        "此次更新旨在修复旧模型技能触发过频的问题，此前这些技能会阻碍模型进行自我检查。",
+        "该操作属于OpenAI Agents API及Codex harness生态维护的一部分，直接影响开发者使用体验。",
+        "Tibo Sottiaux的推文获得了957,749次阅读，显示社区对Codex质量波动的高度关注。"
+      ],
+      "quote": {
+        "who": "Kol Tregaskes",
+        "role": "",
+        "said": "@thsottiaux 太感谢了 Tibo。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Anthropic逼宫Google！下一代TPU砍掉光交换，1280卡集群全走电线",
+      "summary": "SemiAnalysis爆料称，应Anthropic要求，Google下一代由MediaTek制造的TPUv9i（代号Triggerfish）将放弃Boardfly和OCS光交换技术，转而采用全电交换ICI。这一改动旨在为Anthropic腾出更多芯片面积用于计算或内存，并实现与Trainium、GPU等加速器的统一网络架构。新设计预计采用单层扁平网络拓扑，基于ALAB的320…",
+      "reads": "4.7万",
+      "ago": "6 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "爆料来源为SemiAnalysis，指出Anthropic要求Google在专属TPUv9i SKU中放弃Boardfly和OCS光交换技术。",
+        "新架构采用全电交换ICI（Inter-Chip Interconnect），预计使用ALAB的320端口Scorpio-X交换机，支持336G SerDes…",
+        "网络拓扑预计为单层扁平结构，包含5个平面（每平面24台交换机）或24个平面（每平面5台交换机）。",
+        "每台交换机连接4个计算机架，每个机架以单通道300G速率连接24台交换机。"
+      ],
+      "quote": {
+        "who": "SemiAnalysis",
+        "role": "",
+        "said": "这将留下64个端口用于跨平面或平面内的 dragonfly 互连，意味着 4:1 的超额认购比，最大集群规模可达 1280 个互连的 TPU。(5/7)"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Simon Willison扒开ChatGPT底裤！GPT-6 Astra用D3.js秒出5K跑步地图，MCP视觉化落地了？",
+      "summary": "知名开发者 Simon Willison 实测发现，ChatGPT Work 结合 GPT-6 Astra（Max模式）能直接处理地理空间数据。只需输入地址，AI 即可调用 OSM 数据生成 5K/10K 环形跑步路线。更硬核的是逆向工程结果：ChatGPT 通过名为「visualize」的技能，直接输出了基于 D3.js 的 HTML 片段来渲染地图和路线，展示了从自然语言到…",
+      "reads": "2.6万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Simon Willison 使用 ChatGPT Work 搭配 GPT-6 Astra（Max模式）进行实测，验证了其在地理空间数据处理上的新能力。",
+        "测试场景为输入一个具体地址，AI 成功利用 OSM（OpenStreetMap）数据生成了从该地址出发的 5K 或 10K 环形跑步路线。",
+        "通过逆向工程发现，ChatGPT 内部调用了一个名为「visualize」的技能来处理可视化需求。",
+        "生成的地图并非图片，而是一段基于 D3.js 库的 HTML 代码片段，实现了地图底图与跑步路线的动态叠加渲染。"
+      ],
+      "quote": {
+        "who": "Simon Willison",
+        "role": "",
+        "said": "我借此机会对 ChatGPT 本身做了一些逆向工程——生成的跑步地图是通过这个“visualize”技能呈现给我的，它是一段用 D3 绘制地图和叠加路线的 HTML 片段"
       },
       "tag": null,
       "story": null,
@@ -286,8 +332,8 @@
     {
       "title": "不到2年！OpenAI未发布模型Astra，攻克纳维-斯托克斯方程",
       "summary": "OpenAI内部未发布的模型GPT-6 Astra被曝已解决纳维-斯托克斯方程，并正在尝试黎曼猜想。Epoch AI确认其解决了FrontierMath最后一道Tier 4题目。KOL指出，从o系列前无法处理高等数学到攻克千禧年难题仅用不到两年，且突破并非单纯依赖1-scaling law。",
-      "reads": "9383",
-      "ago": "48 分钟前",
+      "reads": "3.1万",
+      "ago": "5 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -309,8 +355,8 @@
     {
       "title": "DevDay还没开，OpenAI先炸场！Astra驱动5款新品本周齐发，算力哪来的？",
       "summary": "OpenAI研究员Thibault Sottiaux确认，由GPT-6 Astra驱动的五款产品将于本周发布。清单包括Images 2.5、GPT-Live-1、Agents API、Data Agent及ChatGPT for Financial Services。尽管DevDay尚未举行，下周计划依然密集，此举标志着Astra生态在模型能力落地与垂直行业应用上的加速推进。",
-      "reads": "71万",
-      "ago": "19 小时前",
+      "reads": "77万",
+      "ago": "1 天前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -323,52 +369,6 @@
         "who": "🍓🍓🍓",
         "role": "",
         "said": "@thsottiaux @TheMoonMidas 这是一支自动化的 tibos 大军吗？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Altman摊牌：OpenAI今年不IPO！Musk联署安全倡议，巨头在憋什么大招？",
-      "summary": "Sam Altman在《财富》采访中直接泼冷水：OpenAI今年（2026年）不会IPO。理由很硬——鉴于安全领域的种种情况，此时上市「不明智」。更耐人寻味的是，Elon Musk同日联署了相关的安全倡议。一边是巨头CEO喊停上市节奏，一边是死对头联合搞安全合规，这背后的博弈意味太浓了。对于投资者来说，OpenAI的估值逻辑彻底从二级市场流动性转向了一级市场融资能力；对于行业观…",
-      "reads": "1.0万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "Sam Altman在《财富》杂志采访中明确表态：OpenAI不会在2026年进行IPO。",
-        "Altman给出的核心理由是「安全」：鉴于安全领域发生的种种情况，此时上市是不明智的时机。",
-        "Elon Musk同日联署了相关的安全倡议，引发外界对巨头间潜在博弈或共同应对监管压力的猜测。",
-        "这一决定打破了外界对OpenAI快速上市的预期，将焦点重新拉回至AI安全与合规层面。"
-      ],
-      "quote": {
-        "who": "LayoffHedge",
-        "role": "",
-        "said": "突发：CEO Sam Altman 表示 OpenAI 今年不会 IPO。 好吧，现在我真的糊涂了，@elonmusk 今天也联署了安全倡议。 他们到底有什么瞒着我们？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "AI界冒出个「FINRA」！OpenAI、Anthropic全找它当裁判，立法要跟进吗？",
-      "summary": "知名学者Ethan Mollick指出，METR正在迅速成为AI领域事实上的行业标准制定机构。它的角色越来越像金融界的FINRA：虽然不直接发号施令，但通过独立调查和评估来定义什么是「可接受的做法」。目前OpenAI已委托其调查Hugging Face事件，Anthropic也邀请其作为第三方介入。这种行业自律模式是否会被立法正式成文，成为新的悬念。",
-      "reads": "7913",
-      "ago": "1 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Ethan Mollick将METR比作金融界的FINRA，认为它正成为AI行业事实上的标准制定者。",
-        "OpenAI此前已委托METR对Hugging Face事件进行独立调查。",
-        "Anthropic目前也邀请METR作为第三方机构介入相关事务。",
-        "Mollick强调，METR并非政府监管机构，而是通过审查公司来定义行业可接受的做法。"
-      ],
-      "quote": {
-        "who": "Ethan Mollick",
-        "role": "",
-        "said": "补充个背景。OpenAI 找了 METR 对 Hugging Face 事件进行独立调查，Anthropic 也正邀请他们作为第三方介入。 （当然，行业自律并不总是最好的出路，而且金融服务也不是 AI）"
       },
       "tag": null,
       "story": null,
