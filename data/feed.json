@@ -3,19 +3,30 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-13 06:01:13 +0000",
+  "fetched_at": "2026-09-13 11:42:00 +0000",
   "today": "09/13",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
     {
-      "time": "18:06",
-      "date": "09/12",
-      "title": "谷歌被曝攻克RSI！Gemini 4被指是AI自己迭代出来的",
-      "summary": "Google DeepMind 被曝已在内部跑通递归自我改进，Gemini 4 被指是这条路上长出的第一个产物。布林亲自督战，把算力和人往 RSI 上压…",
-      "source": "新智元",
-      "id": "tg582171",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg582171",
+      "time": "13:56",
+      "date": "09/13",
+      "title": "跑1小时任务Agent就失忆？深扒Claude和Manus的4招续命底牌",
+      "summary": "给 Agent 派一个跑 1 小时、调 200 次工具的任务，它照样会因为上下文溢出而崩溃，跑到后面连自己要干什么都忘了。续命的底牌在模型外面，是一层脚手架（harness）。…",
+      "source": "MarkTechPost（RSS）",
+      "id": "17b4259d",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=17b4259d",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "12:08",
+      "date": "09/13",
+      "title": "跑个步还要等AI算27分钟？GPT-6 Astra直接在对话框里嵌了个可视化地图",
+      "summary": "Simon Willison 让 GPT-6 Astra（Max）规划一条家门口的跑步路线，它足足算了 27 分钟。任务是用 OSM 开源地图数据，以他家为起点，画出 5K…",
+      "source": "simonwillison.net",
+      "id": "4cdeeb0f",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=4cdeeb0f",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -82,6 +93,17 @@
       "id": "d54ecf11",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=d54ecf11",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "18:06",
+      "date": "09/12",
+      "title": "谷歌被曝攻克RSI！Gemini 4被指是AI自己迭代出来的",
+      "summary": "Google DeepMind 被曝已在内部跑通递归自我改进，Gemini 4 被指是这条路上长出的第一个产物。布林亲自督战，把算力和人往 RSI 上压…",
+      "source": "新智元",
+      "id": "tg582171",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg582171",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -643,28 +665,6 @@
       "id": "4004959b",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=4004959b",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "08:37",
-      "date": "09/11",
-      "title": "奥特曼：我们已身处奇点之中",
-      "summary": "OpenAI CEO 公开说「我们现在正处于奇点之中」。比口号更要紧的是后半截：公司把知识和技能聚成一个被治理的大脑，模型随时可换，智能却留在组织里——模型是租的…",
-      "source": "新智元",
-      "id": "tg80b6a5",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg80b6a5",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "08:32",
-      "date": "09/11",
-      "title": "10倍用量直接打爆配额，Meta新智能体自己翻邮箱帮用户填索赔单搞钱",
-      "summary": "Meta 刚因多州和解背上最高 180 亿美元的担子，转头就发布了一个帮用户自动索赔的 AI。 首席 AI 官 Alexandr Wang…",
-      "source": "X/alexandr_wang",
-      "id": "6f53540f",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=6f53540f",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     }
   ],
