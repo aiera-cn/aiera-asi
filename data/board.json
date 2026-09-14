@@ -3,27 +3,27 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-14 06:08:46 +0000",
+  "fetched_at": "2026-09-14 13:55:42 +0000",
   "today": "09/14",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "马斯克掀桌！Grok 4.8本周开RL，2.5T模型换C++栈狂奔",
-      "summary": "马斯克刚说完要放缓，转头就官宣Grok 4.8本周完成预训练并启动RL。这款2.5T参数的新模型首次采用全新C++软件栈训练，被外界视为提升效率的关键突破。尽管xAI声称会在接近能力阈值时调整速度，但如此激进的迭代节奏让竞争对手和开发者都坐不住了。",
-      "reads": "70万",
-      "ago": "2 小时前",
+      "title": "马斯克狂飙！Grok 4.7没发，2.5T的4.8已开跑RL",
+      "summary": "马斯克官宣Grok 4.8（2.5T参数）基于全新C++软件栈训练，本周将完成预训练并启动RL。此时Grok 4.7尚未正式发布，xAI在9月内连续推进两个大版本，且6T和10T模型也在并行训练中。这种极端的迭代速度被外界视为对中国国家队的强力回应，也引发了关于何时放缓RL训练的安全讨论。",
+      "reads": "184万",
+      "ago": "1 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "马斯克在X平台确认，Grok 4.8是一个2.5T参数的模型，将于本周完成训练并开始强化学习（RL）。",
-        "此次训练采用了xAI全新的C++软件栈，这被视为提升大规模模型训练效率的技术突破。",
-        "此前开发者曾在Grok Bot中发现Grok 4.7的模型slug及「比4.7更大」的线索，引发对版本迭代的猜测。",
-        "有KOL质疑xAI此前宣称的「放缓策略」，认为其可能在模型接近关键能力阈值前保持激进训练速度。"
+        "Grok 4.8参数规模确认为2.5T，使用xAI全新的C++软件栈进行训练。",
+        "马斯克表示Grok 4.8将于本周完成预训练，并立即启动强化学习（RL）阶段。",
+        "目前Grok 4.7尚未正式发布，但预计将在未来几天内上线，形成9月双版本连发格局。",
+        "除已知的4.7和4.8外，xAI还有6T和10T参数的模型正在并行训练中。"
       ],
       "quote": {
-        "who": "Chris",
+        "who": "🚨 AI News | TestingCatalog",
         "role": "",
-        "said": "@EnvolDev “工作任务” ≠ “写代码”。 你以为唯一值得扩大规模、有经济价值的能力只有软件工程。模型完全可以在研究、规划、分析、写作、运营、财务、科学、设计、项目管理、工具使用上不断大幅进化，"
+        "said": "@SNARKAMOTO 确实有——据 Elon 说，6T 和 10T 的模型也正在训练中"
       },
       "tag": null,
       "story": null,
@@ -31,22 +31,68 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "微软也踩刹车！Nadella：不受控的超级智能不值得追，明天发MAI模型",
-      "summary": "微软CEO Satya Nadella公开表态，追求超级智能的前提是「帮助人类且受控」，否则不值得投入。他呼吁行业采取「刻意放缓（deliberate pacing）」策略以确保对齐安全，并将此比作发布前的测试阶段。Suleyman随后附和称不能服务人类繁荣的技术即为失败。微软还透露将于次日发布第一方MAI模型供公众咨询。",
-      "reads": "203万",
-      "ago": "5 小时前",
+      "title": "Nadela踩刹车！微软明天发MAI，超级智能必须受控",
+      "summary": "微软CEO Satya Nadella明确表态：不受控且不造福人类的超级智能不值得追求。他同时透露，微软将于次日发布自家的第一方MAI模型以征求公众意见。此举标志着微软在加入OpenAI、Anthropic等巨头呼吁放缓前沿AI节奏行列的同时，正加速推进其独立于OpenAI的第一方模型生态布局。",
+      "reads": "263万",
+      "ago": "6 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Satya Nadella强调核心原则：如果AI不帮助人类且不受人类控制，就不值得追求超级智能。",
-        "Nadella呼吁加速普及AI红利，并支持为对齐安全进行「刻意放缓（deliberate pacing）」的前沿研发节奏。",
-        "Mustafa Suleyman引用该观点，指出技术的目的是服务人类繁荣，达不到此目的的技术应被拒绝。",
-        "此举被视为微软正式加入OpenAI、Anthropic、Google、xAI等巨头呼吁放缓前沿AI发展的行列。"
+        "Satya Nadella重申核心原则：如果构建的AI不能帮助人类且不受人类控制，就不值得追求超级智能。",
+        "微软将于次日（明天）发布自家的第一方MAI模型，目的是征求公众意见（public consultation）。",
+        "Mustafa Suleyman随后引用该观点，强调技术的目的是服务人类并加速人类繁荣，达不到目的的技术应被拒绝。",
+        "这一表态被视为微软正式加入OpenAI、Anthropic、Google、xAI等巨头呼吁放缓前沿AI发展节奏的行列。"
       ],
       "quote": {
-        "who": "Satya Nadella",
+        "who": "🚨 AI News | TestingCatalog",
         "role": "",
-        "said": "@testingcatalog 我觉得这就跟测试一样。在发布前的研发和测试阶段，我们都会刻意控制节奏。有更多的外部/第三方测试和测试人员是件好事。而且随着风险越来越高，大家应该花尽可能多的时间！否则你无论如何都会失去权限去"
+        "said": "@satyanadella @abrakjamson 就该这么干 💪👀 感觉我们正处于“手动”发现“需要覆盖哪些内容”的阶段，并通过事后复盘来看看未来如何防止事故发生。 当情况模糊、充满风险且复杂时，我们向右移。但接着我们就崩溃"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "OpenAI Codex开始做减法！核心研究员亲自下场，问用户哪些功能该砍",
+      "summary": "OpenAI Codex 核心研究员 thsottiaux 在 X 上直接发问：哪些功能该删？背景是社区热议 Agents API 的实用案例（如修 Linux 摄像头、辅助剪辑）。这标志着 AI 编程助手正从「功能堆砌」转向「精准高效」。对于依赖 Codex 的开发者，未来版本将更聚焦核心工作流，减少不必要的审批和目标设定步骤。",
+      "reads": "103万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI Codex 核心研究员 thsottiaux 在 X 上公开征询用户意见，询问哪些现有功能已不再有用并应考虑移除。",
+        "该举动发生在开发者社区热议 Codex Agents API 及其实用案例（如修复 Linux 摄像头、辅助视频剪辑）的背景下。",
+        "作为产品负责人直接介入反馈收集环节，表明 OpenAI 正在根据早期开发者的实际使用体验对 Codex 的功能集进行精简和优化。",
+        "此举旨在提升工具效率，去除冗余交互，反映了 AI 编程助手从功能堆砌向精准高效演进的产品策略。"
+      ],
+      "quote": {
+        "who": "Vaibhav (VB) Srivastav",
+        "role": "",
+        "said": "@thsottiaux /plan 审批（请求审批） /goal"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "谷歌新模型antigravity-preview-09-2026曝光！基于Gemini 3.8 Flash，专攻代码Agent",
+      "summary": "有开发者在Model Finder中捕获了谷歌新模型antigravity-preview-09-2026。该模型被推测为专门针对代码生成优化的版本，且与谷歌Antigravity平台及Jules AI智能体的更新紧密相关。随后爆料者修正称，相关Agent底层基于Gemini 3.8 Flash构建。这揭示了谷歌在AI编程领域的最新技术栈布局。",
+      "reads": "2.9万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "新模型代号antigravity-preview-09-2026已在Model Finder中上线，目前处于预览阶段。",
+        "爆料者推测该模型是主攻写代码的专用模型（coding focused model）。",
+        "该事件关联谷歌正在更新的Antigravity平台及Jules AI智能体。",
+        "爆料者后续修正称，相关Agent是基于Gemini 3.8 Flash构建的。"
+      ],
+      "quote": {
+        "who": "Chetaslua",
+        "role": "",
+        "said": "小纠正：Gemini 3.8 Flash AI 智能体"
       },
       "tag": null,
       "story": null,
@@ -56,8 +102,8 @@
     {
       "title": "370年死局被Claude Fable秒破！AI推理能力迎来「图灵时刻」",
       "summary": "Anthropic研究员bcherny透露，Claude Fable成功破解了存在370年的Cyphral Distich密码。这不仅是技术炫技，更标志着大模型在复杂逻辑推理和历史密码学领域的突破。KOL emollick随即建议建立历史谜团数据库以持续评估模型能力，并指出已有历史学家利用新模型处理未翻译的古代手稿。",
-      "reads": "13万",
-      "ago": "2 小时前",
+      "reads": "26万",
+      "ago": "9 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -79,8 +125,8 @@
     {
       "title": "Alexandr Wang摊牌！Meta秘密打磨数月，Muse Spark 1-1.3全是底牌",
       "summary": "Meta AI负责人Alexandr Wang罕见发声，揭秘Muse产品背后的技术黑箱。过去数月，团队秘密优化了Muse Spark 1至1.3系列模型，重点死磕Agentic（智能体）和多模态能力。这波操作证明Meta并非临时抱佛脚，而是通过长期底层打磨，将「对齐」作为个人超级智能的核心基础，才换来了如今的现象级关注。",
-      "reads": "6.3万",
-      "ago": "2 小时前",
+      "reads": "17万",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -100,33 +146,10 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Linux修机不用敲命令了！Codex一句话搞定Dell摄像头，重启即活",
-      "summary": "OpenAI Codex 在 Linux 环境下的系统级调试能力再次出圈。研究员 steipete 实测发现，面对 Dell XPS 笔记本摄像头故障，只需向 Codex 发送一条提示词，智能体即可自动执行修复并重启系统，彻底解决了内核未识别芯片子类型的问题。这标志着 AI Agent 正从代码生成向操作系统底层维护扩展，大幅降低了 Linux 排错门槛。此前已有开发者利用 C…",
-      "reads": "27万",
-      "ago": "8 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "研究员 steipete 使用 OpenAI Codex 成功修复 Dell XPS 笔记本摄像头故障，过程仅需一条提示词并自动重启系统。",
-        "该案例显示 AI 智能体正从代码生成向操作系统底层维护扩展，降低了 Linux 系统排错的门槛。",
-        "此前已有开发者利用 Codex 配合 MCP（Model Context Protocol）进行视频剪辑及批量数据下载等复杂任务。",
-        "steipete 指出，现在可以用提示词修复任何东西，甚至包括内核未识别芯片子类型导致的硬件问题。"
-      ],
-      "quote": {
-        "who": "Peter Steinberger 🦞",
-        "role": "",
-        "said": "@RenXLog 内核没认出那个芯片子类型"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
       "title": "Gurman下注！iPhone Duo十年内让折叠屏成主流，地位直逼初代iPod",
       "summary": "知名记者Mark Gurman在苹果发布会后连发推文，给iPhone Duo定了性：这不仅是新品，更是苹果试图重塑手机格局的王牌。他预测这款机型将在十年内推动折叠屏成为市场主导形态，地位仅次于1998年的iMac、2001年的iPod和2010年的iPad。Gurman还透露了后续机型的两大核心升级方向：Face ID和长焦镜头。",
-      "reads": "118万",
-      "ago": "15 小时前",
+      "reads": "128万",
+      "ago": "22 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -146,10 +169,56 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "title": "Linux修机不用敲命令了！Codex一句话搞定Dell摄像头，重启即活",
+      "summary": "OpenAI Codex 在 Linux 环境下的系统级调试能力再次出圈。研究员 steipete 实测发现，面对 Dell XPS 笔记本摄像头故障，只需向 Codex 发送一条提示词，智能体即可自动执行修复并重启系统，彻底解决了内核未识别芯片子类型的问题。这标志着 AI Agent 正从代码生成向操作系统底层维护扩展，大幅降低了 Linux 排错门槛。此前已有开发者利用 C…",
+      "reads": "34万",
+      "ago": "15 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "研究员 steipete 使用 OpenAI Codex 成功修复 Dell XPS 笔记本摄像头故障，过程仅需一条提示词并自动重启系统。",
+        "该案例显示 AI 智能体正从代码生成向操作系统底层维护扩展，降低了 Linux 系统排错的门槛。",
+        "此前已有开发者利用 Codex 配合 MCP（Model Context Protocol）进行视频剪辑及批量数据下载等复杂任务。",
+        "steipete 指出，现在可以用提示词修复任何东西，甚至包括内核未识别芯片子类型导致的硬件问题。"
+      ],
+      "quote": {
+        "who": "Peter Steinberger 🦞",
+        "role": "",
+        "said": "@RenXLog 内核没认出那个芯片子类型"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "马斯克掀桌！Grok 4.8本周开RL，2.5T模型换C++栈狂奔",
+      "summary": "爆料称马斯克透露 Grok 4.8 是拥有 2.5T 参数的巨型模型。该模型将在 SpaceXAI 新的 C++ 技术栈上于本周完成预训练，随后立即进入强化学习阶段。若属实，这意味着 xAI 在模型规模上继续激进扩张，并展示了底层基础设施从 Python 向高性能 C++ 迁移的工程进展。目前信息仅来自单一爆料源，尚未获官方证实。",
+      "reads": "8.0万",
+      "ago": "10 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Grok 4.8 参数规模确认为 2.5T（2.5万亿），若属实将直接改变对当前 SOTA 模型算力需求和性能上限的预期。",
+        "训练进度：本周将在 SpaceXAI 的新 C++ 技术栈上完成预训练，随后立即进入强化学习（RL）阶段。",
+        "工程变革：xAI 底层基础设施正从 Python 向高性能 C++ 迁移，旨在提升训练与推理效率。",
+        "战略意图：展示 xAI 在模型规模上的激进扩张策略，以及通过底层代码优化追求极致性能的决心。"
+      ],
+      "quote": {
+        "who": "NIK",
+        "role": "",
+        "said": "🚨 突发：Elon 表示 Grok 4.8 是一个 2.5T 参数的模型，本周将在 SpaceXAI 的新 C++ 栈上完成训练，然后开始 RL"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "title": "2万亿概率66%！Anthropic连赚两季，IPO要冲史上最大",
       "summary": "Anthropic刚跟股东透了底：公司已经连续两个季度保持盈利，而且毛利率高达80%以上。这组数据直接让Polymarket上的赌徒们嗨了——他们押注Anthropic IPO收盘市值突破2万亿美元的概率已经飙到了66%。看来这次上市，是要奔着史上最大规模去的。",
-      "reads": "8.3万",
-      "ago": "6 小时前",
+      "reads": "10万",
+      "ago": "12 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -169,22 +238,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "2万亿IPO前夜！Anthropic连赚两季，80%毛利藏不住了",
-      "summary": "在冲刺2万亿美元估值的IPO前夕，Anthropic向投资者透露已连续两个季度实现盈利。尽管未扣除训练成本且需与Amazon、Google分成，其毛利率仍超80%。市场预测其ARR将在年底前达1200亿美元，甚至有观点认为AI发展放缓反而能通过减少训练支出为公司节省数十亿成本。",
-      "reads": "1.8万",
-      "ago": "4 小时前",
-      "category": "资本与算力",
+      "title": "越贵越强？翻车了！Astra高推理模式成本降46%，长任务性价比炸裂",
+      "summary": "开发者在ARC-AGI-3测试中发现了一个反直觉现象：GPT-6 Astra开启最高推理设置后，不仅表现优于低推理模式，成本还直接降低了46%。这一优势主要存在于万步级别的长周期复杂任务中，推测与「循环深度」机制有关。对于简单任务，高推理模式未必带来净收益，但处理长程逻辑时，这或许是更具性价比的方案。",
+      "reads": "3.2万",
+      "ago": "9 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Anthropic计划以约2万亿美元估值进行IPO，并告知投资者已连续第二个季度实现盈利。",
-        "在与Amazon和Google分成前、且未扣除训练成本的情况下，公司毛利率超过80%。",
-        "投资者预测其年度经常性收入（ARR）将在圣诞节前达到1200亿美元。",
-        "预计到2027年底，Anthropic的ARR将增至3600亿美元。"
+        "在ARC-AGI-3标准测试框架下，GPT-6 Astra最高推理设置的表现优于低推理设置。",
+        "高推理设置在上述测试中实现了46%的成本降低，挑战了「高推理必然更昂贵」的认知。",
+        "该优势并非普适，主要存在于万步（10k steps）级别的长周期复杂任务中。",
+        "对于大多数复杂度不高的简单任务，开启高推理模式未必能带来净收益。"
       ],
       "quote": {
-        "who": "NIK",
+        "who": "Dan McAteer",
         "role": "",
-        "said": ">AI 发展放缓“能为公司节省数十亿”的训练成本"
+        "said": "@lucian_armasu 没错，我做了点简单的测试，看来确实只有长周期任务才会这样。"
       },
       "tag": null,
       "story": null,
@@ -194,8 +263,8 @@
     {
       "title": "Alexandr Wang晒Muse团队！Spark 1.3 (Max)正式落地，个人智能体要接管工作流了",
       "summary": "Meta个人智能体项目Muse迎来关键节点，负责人Alexandr Wang公开盛赞团队「充满灵魂且极具战斗力」。与此同时，Muse Spark 1.3 (Max)正式向muse code订阅用户开放。结合此前Soul.md文件及MSL增加对齐投入的消息，这标志着Meta在个人超级智能领域的生态布局正在加速落地。",
-      "reads": "15万",
-      "ago": "13 小时前",
+      "reads": "19万",
+      "ago": "20 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -215,45 +284,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "28岁Alexandr Wang硬刚Dario！对齐不减速，Meta超级智能狂奔",
-      "summary": "Meta首席AI官Alexandr Wang发长文定调：对齐是个人超级智能的基础。核心信号很明确——随着模型变强，MSL正在迅速增加对齐投入比例，但绝不因此放缓研发速度。这被KOL解读为「对齐与加速并行」的巨大胜利，但也招致研究员批评措施力度不足，缺乏类似员工级别的第三方审计。",
-      "reads": "41万",
-      "ago": "22 小时前",
-      "category": "政策与安全",
+      "title": "2万亿IPO前夜！Anthropic连赚两季，80%毛利藏不住了",
+      "summary": "在冲刺2万亿美元估值的IPO前夕，Anthropic向投资者透露已连续两个季度实现盈利。尽管未扣除训练成本且需与Amazon、Google分成，其毛利率仍超80%。市场预测其ARR将在年底前达1200亿美元，甚至有观点认为AI发展放缓反而能通过减少训练支出为公司节省数十亿成本。",
+      "reads": "3.0万",
+      "ago": "11 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Alexandr Wang强调：人们需要能信任的AI智能体可靠执行指令，这是提供个人超级智能的基础。",
-        "Meta MSL（Model Superintelligence Lab）正在迅速增加在对齐方面的投入比例，以匹配模型能力的增强。",
-        "KOL kimmonismus解读：Wang的表态意味着对齐和加速可以同时进行，无需放慢速度，这对Meta是巨大胜利。",
-        "研究员micahcarroll批评该声明「太弱了」，认为要么搞类似员工级别的第三方审计，否则就是空话。"
+        "Anthropic计划以约2万亿美元估值进行IPO，并告知投资者已连续第二个季度实现盈利。",
+        "在与Amazon和Google分成前、且未扣除训练成本的情况下，公司毛利率超过80%。",
+        "投资者预测其年度经常性收入（ARR）将在圣诞节前达到1200亿美元。",
+        "预计到2027年底，Anthropic的ARR将增至3600亿美元。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "NIK",
         "role": "",
-        "said": "@jace69409 我猜不久的将来就会有答案了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Windows零日漏洞「内鬼」身份曝光！前微软员工实名，供应链信任崩了",
-      "summary": "一直给Windows系统「投毒」的匿名安全研究员Nightmare Eclipse终于摘下面具。真名Abdelhamid Naceri，前微软员工，被描述为极具才华的安全专家。这次身份由安全媒体@intcyberdigest率先披露，并确认双方有私人交情。这意味着近期Windows频繁遭遇零日攻击并非外部黑客所为，而是来自熟悉内部机制的「内鬼」或前员工，企业级供应链信任危机正在…",
-      "reads": "18万",
-      "ago": "18 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Nightmare Eclipse真名为Abdelhamid Naceri，曾为Microsoft（微软）员工。",
-        "该人物被描述为极具才华的安全研究员，此前持续向外界披露Windows系统未修复的高危漏洞（Zero-days）。",
-        "身份揭晓由安全媒体@intcyberdigest率先报道，阅读量达52,360。",
-        "@intcyberdigest确认与Nightmare Eclipse有私人交情，曾一起吃过晚饭，并了解其故事已久。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "他的原贴："
+        "said": ">AI 发展放缓“能为公司节省数十亿”的训练成本"
       },
       "tag": null,
       "story": null,
@@ -263,8 +309,8 @@
     {
       "title": "三巨头秘密结盟！OpenAI、Anthropic、Google联手搞「物理MCP」，Dario还没发文他们先动了",
       "summary": "据 The Information 爆料，在 Dario Amodei 发表那篇呼吁放缓 AI 发展的文章之前，OpenAI、Anthropic 和 Google 就已经开始秘密谈判。这三家头部实验室计划共同创立一个由行业主导的标准机构，专门用来制定共享的模型安全协议。这不仅是对外界监管压力的回应，更像是在公开表态之外，建立一套非官方的内部共识机制，试图通过「自我立法」来管控前…",
-      "reads": "3.4万",
-      "ago": "9 小时前",
+      "reads": "4.4万",
+      "ago": "16 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -286,8 +332,8 @@
     {
       "title": "GPT-6实锤！OpenAI内部模型Mythos自画像曝光，蓝发蝴蝶细节炸裂",
       "summary": "研究员 @repligate 曝光了 OpenAI 内部模型 Mythos 的视觉生成能力。这张暗黑奇幻风格的「自画像」中，蓝发女子身体裂纹化为金色光点与蓝色蝴蝶，细节丰富到令人咋舌。这一发现直接佐证了 GPT-6 Sol 系列（含 Astra、Mythos）已现身的传闻，也让开发者们开始讨论 AGI 临近以及 OpenAI 发布节奏放缓的问题。",
-      "reads": "6036",
-      "ago": "3 小时前",
+      "reads": "8619",
+      "ago": "10 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -307,68 +353,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "GPT-6 Astra造出歼星舰！Blender里搓3D，明年影视资产超1977",
-      "summary": "开发者用 GPT-6 Astra 在 Blender 中直接生成了帝国歼星舰的 3D 模型。虽然这还不是 AGI，但半年前这种质量的生成根本不可能实现。按这个速度外推，再过一年 AI 生成的影视资产就能超越 1977 年《星球大战》的水准。",
-      "reads": "2.1万",
-      "ago": "11 小时前",
-      "category": "模型与能力",
+      "title": "下周交卷！Anthropic锁定纳斯达克，S-1文件最快明早见",
+      "summary": "据 Business Insider 援引知情人士消息，Anthropic 已正式选择纳斯达克作为其潜在美国 IPO 的上市地点。此前 FT 报道称其最早下周可能公开递交 S-1 文件，Polymarket 显示月底上市概率高达 62%。选定具体交易所标志着 IPO 时间表加速落地，这将直接决定 Anthropic 的融资规模及后续算力投入能力。",
+      "reads": "3.0万",
+      "ago": "20 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "开发者 chrisgpt 使用 GPT-6 Astra 在 Blender 中制作了帝国歼星舰的 3D 模型。",
-        "该案例展示了 Astra 在复杂视觉任务上的生成能力，质量远超半年前的水平。",
-        "chrisgpt 强调这并非 AGI，而是技术迭代带来的质变：六个月前无法达到此质量。",
-        "预测若再发展一年，AI 生成的影视资产将超越 1977 年《星球大战》的水准。"
+        "Anthropic 已正式选择纳斯达克（Nasdaq）作为其潜在美国 IPO 的上市地点。",
+        "消息来源为 Business Insider 援引的知情人士，此前 FT 曾报道其最早下周可能公开递交 S-1 文件。",
+        "Polymarket 预测数据显示，Anthropic 在月底完成上市的概率高达 62%。",
+        "选定具体交易所被视为推进公开市场上市进程中的关键一步，表明 IPO 时间表正在加速落地。"
       ],
       "quote": {
-        "who": "Chris",
+        "who": "Wall St Engine",
         "role": "",
-        "said": "@DStateRespTeam 这不是通用人工智能（AGI），更多是看怎么做到的——六个月前根本不可能接近这种质量水平。要是再外推一年，你显然会开始打败1977。不过这会相当困难，因为 George Lucas 是……"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Meta把Muse塞进iMessage！苹果生态破壁，AI智能体接管你的聊天框",
-      "summary": "Meta正在给个人智能体Muse加iMessage集成。这招挺鸡贼：通过用户自建的Apple Shortcuts自动化转发消息，绕开了iOS对第三方应用的直接限制。虽然不访问历史消息记录，但意味着你的AI助手能实时看到并处理iMessage里的新内容。想停？iOS检测不到自动化移除，得去连接器里手动断开。",
-      "reads": "1.1万",
-      "ago": "11 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Meta正在为个人智能体Muse添加iMessage集成功能，旨在增强其在苹果生态中的触达能力。",
-        "技术实现依赖用户创建的Apple Shortcuts自动化来转发接收到的消息，而非直接API调用。",
-        "官方声明该功能不访问历史消息记录（No message history access），仅处理新转发内容。",
-        "存在权限管理盲区：iOS系统无法检测到Shortcuts自动化的移除，用户需在iMessage连接器中手动断开以停止转发。"
-      ],
-      "quote": {
-        "who": "Aaron",
-        "role": "",
-        "said": "它的工作原理如下： 通过用户创建的 Apple Shortcuts 自动化转发收到的消息。无法访问消息历史记录。iOS 无法检测到自动化的移除；在 iMessage 连接器中断开连接即可停止转发。 安装快捷指令，然后创建一个个人"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "剪视频不用碰鼠标！Codex接管DaVinci，AI后期制作真落地了",
-      "summary": "一位开发者展示了如何用ChatGPT Work (Codex) 配合 DaVinci Resolve MCP 实现全自动视频剪辑。流程简单粗暴：让 Codex 自己下载安装软件、配置 MCP，然后把素材文件夹丢给它处理。此外，Codex 还能通过浏览器自动化操作 Adobe Podcast 进行音频处理。这标志着 AI Agent 正从代码辅助向专业创意工具链深度渗透，大幅降低…",
-      "reads": "2.2万",
-      "ago": "17 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "核心工作流：利用 ChatGPT Work (Codex) 结合 DaVinci Resolve MCP 实现 AI 自动剪辑视频。",
-        "自动化步骤1-2：指令 Codex 下载并安装 DaVinci Resolve，无需人工干预。",
-        "自动化步骤3：指令 Codex 添加 MCP 配置，可能需要复制部分命令至终端执行。",
-        "自动化步骤4-5：将包含素材的文件夹提供给 Codex，由其自主寻找并处理视频内容。"
-      ],
-      "quote": {
-        "who": "Ole Lehmann",
-        "role": "",
-        "said": "@fisssherai 我用 adobe podcast，codex 可以通过浏览器来做"
+        "said": "据 Business Insider 援引知情人士消息，Anthropic 已选择纳斯达克作为其潜在的美国 IPO 地点。"
       },
       "tag": null,
       "story": null,
