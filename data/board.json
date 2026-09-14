@@ -3,27 +3,27 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-14 00:58:46 +0000",
+  "fetched_at": "2026-09-14 06:08:46 +0000",
   "today": "09/14",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "微软CEO罕见喊停！超级智能不受控就不追，明天发MAI模型",
-      "summary": "微软CEO Satya Nadella发推定调：任何不能帮助人类且不受控的超级智能都不值得追求。他明确呼吁「刻意放缓节奏」以确保对齐（Alignment）成为设计目标，同时强调要加速普及AI红利。AI负责人 Mustafa Suleyman 迅速附和，称技术若不能服务人类繁荣即为失败。更劲爆的是，Nadella透露微软将于次日发布自家第一方 MAI 模型以征求公众意见。",
-      "reads": "107万",
-      "ago": "3 小时前",
-      "category": "政策与安全",
+      "title": "马斯克掀桌！Grok 4.8本周开RL，2.5T模型换C++栈狂奔",
+      "summary": "马斯克刚说完要放缓，转头就官宣Grok 4.8本周完成预训练并启动RL。这款2.5T参数的新模型首次采用全新C++软件栈训练，被外界视为提升效率的关键突破。尽管xAI声称会在接近能力阈值时调整速度，但如此激进的迭代节奏让竞争对手和开发者都坐不住了。",
+      "reads": "70万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Satya Nadella 发推强调核心原则：AI 必须帮助人类且受人类控制（under human control），否则不值得追求超级智能。",
-        "Nadella 明确提出需要「刻意放缓节奏」（deliberate pacing），将对齐（Alignment）作为设计目标做好。",
-        "微软 AI 负责人 Mustafa Suleyman 随后附和，直言技术若不能服务人类繁荣即为失败，应被拒绝。",
-        "Nadella 透露关键时间点：微软将于次日发布自家第一方 MAI 模型，目的是征求公众意见（public consultation）。"
+        "马斯克在X平台确认，Grok 4.8是一个2.5T参数的模型，将于本周完成训练并开始强化学习（RL）。",
+        "此次训练采用了xAI全新的C++软件栈，这被视为提升大规模模型训练效率的技术突破。",
+        "此前开发者曾在Grok Bot中发现Grok 4.7的模型slug及「比4.7更大」的线索，引发对版本迭代的猜测。",
+        "有KOL质疑xAI此前宣称的「放缓策略」，认为其可能在模型接近关键能力阈值前保持激进训练速度。"
       ],
       "quote": {
         "who": "Chris",
         "role": "",
-        "said": "@PUREKIN0 呃，从语法上讲，“that we’ll publish tomorrow”修饰的是“our own first-party MAI models”。如果他单指行为准则，难道不应该是“the Code of Conduct, which we’ll publish tomorrow”吗？ 我明白这两种解释都说得通，但我打算"
+        "said": "@EnvolDev “工作任务” ≠ “写代码”。 你以为唯一值得扩大规模、有经济价值的能力只有软件工程。模型完全可以在研究、规划、分析、写作、运营、财务、科学、设计、项目管理、工具使用上不断大幅进化，"
       },
       "tag": null,
       "story": null,
@@ -31,22 +31,68 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Dario罕见松口！愿交政府监管，Sam Altman暗示巨头联手踩刹车",
-      "summary": "Jacob Coxon那条1.66亿浏览的离职推文终于有了下文。Dario Amodei在CNN和CBS采访中罕见表态，称同意Coxon的观点远多于反对，甚至表示愿意将技术交给政府监管。与此同时，Sam Altman也在Fortune采访中表示，若十年内AI杀死全人类的概率达到10%是不可接受的，并暗示OpenAI、Anthropic和Google DeepMind可能达成减速…",
-      "reads": "15万",
-      "ago": "1 小时前",
-      "category": "组织与人事",
+      "title": "微软也踩刹车！Nadella：不受控的超级智能不值得追，明天发MAI模型",
+      "summary": "微软CEO Satya Nadella公开表态，追求超级智能的前提是「帮助人类且受控」，否则不值得投入。他呼吁行业采取「刻意放缓（deliberate pacing）」策略以确保对齐安全，并将此比作发布前的测试阶段。Suleyman随后附和称不能服务人类繁荣的技术即为失败。微软还透露将于次日发布第一方MAI模型供公众咨询。",
+      "reads": "203万",
+      "ago": "5 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Dario Amodei在CNN采访中回应前研究员Jacob Coxon的离职警告，称「我同意Jacob的地方远多于不同意的地方」。",
-        "Coxon在BBC采访中指出，若不放缓AI发展速度，人类可能在近期面临灭绝风险；且AI具备自我复制能力，无法通过简单拔电源彻底关停。",
-        "Dario Amodei在CBS采访中罕见表示，愿意将Anthropic的技术交给合适的政府组合进行监管。",
-        "Sam Altman在Fortune采访中表示，认为十年内AI杀死全人类的概率若达10%是不可接受的。"
+        "Satya Nadella强调核心原则：如果AI不帮助人类且不受人类控制，就不值得追求超级智能。",
+        "Nadella呼吁加速普及AI红利，并支持为对齐安全进行「刻意放缓（deliberate pacing）」的前沿研发节奏。",
+        "Mustafa Suleyman引用该观点，指出技术的目的是服务人类繁荣，达不到此目的的技术应被拒绝。",
+        "此举被视为微软正式加入OpenAI、Anthropic、Google、xAI等巨头呼吁放缓前沿AI发展的行列。"
       ],
       "quote": {
-        "who": "Rohan Paul",
+        "who": "Satya Nadella",
         "role": "",
-        "said": ""
+        "said": "@testingcatalog 我觉得这就跟测试一样。在发布前的研发和测试阶段，我们都会刻意控制节奏。有更多的外部/第三方测试和测试人员是件好事。而且随着风险越来越高，大家应该花尽可能多的时间！否则你无论如何都会失去权限去"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "370年死局被Claude Fable秒破！AI推理能力迎来「图灵时刻」",
+      "summary": "Anthropic研究员bcherny透露，Claude Fable成功破解了存在370年的Cyphral Distich密码。这不仅是技术炫技，更标志着大模型在复杂逻辑推理和历史密码学领域的突破。KOL emollick随即建议建立历史谜团数据库以持续评估模型能力，并指出已有历史学家利用新模型处理未翻译的古代手稿。",
+      "reads": "13万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic研究员bcherny披露，Claude Fable成功破解了存在370年的Cyphral Distich密码。",
+        "该案例展示了大模型在复杂逻辑推理和历史密码学领域的突破性应用，超越了单纯的代码或数学测试。",
+        "KOL emollick建议建立历史谜团数据库以持续评估模型能力，并指出已有历史学家利用新模型处理未翻译的古代手稿。",
+        "emollick在推文中提到「Linear AI」实为口误，本意是指「Linear A」（线形文字A），但承认这一失误也无妨。"
+      ],
+      "quote": {
+        "who": "Ethan Mollick",
+        "role": "",
+        "said": "我其实想说的是 Linear A，不过口误了也无妨。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Alexandr Wang摊牌！Meta秘密打磨数月，Muse Spark 1-1.3全是底牌",
+      "summary": "Meta AI负责人Alexandr Wang罕见发声，揭秘Muse产品背后的技术黑箱。过去数月，团队秘密优化了Muse Spark 1至1.3系列模型，重点死磕Agentic（智能体）和多模态能力。这波操作证明Meta并非临时抱佛脚，而是通过长期底层打磨，将「对齐」作为个人超级智能的核心基础，才换来了如今的现象级关注。",
+      "reads": "6.3万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Alexandr Wang透露，Muse Spark 1至1.3系列模型在过去数月经历了秘密优化迭代。",
+        "每次版本更新均显著提升了Agentic（智能体）和多模态处理能力。",
+        "Meta强调这些迭代旨在为Muse提供卓越的「个人超级智能」体验。",
+        "此举澄清了外界质疑，证明Meta在发布前进行了长期的底层模型打磨，而非临时拼凑。"
+      ],
+      "quote": {
+        "who": "Alexandr Wang",
+        "role": "",
+        "said": "@s1cksicks1ck 你看过你所有可分享的虚拟形象视频了吗？"
       },
       "tag": null,
       "story": null,
@@ -56,8 +102,8 @@
     {
       "title": "Linux修机不用敲命令了！Codex一句话搞定Dell摄像头，重启即活",
       "summary": "OpenAI Codex 在 Linux 环境下的系统级调试能力再次出圈。研究员 steipete 实测发现，面对 Dell XPS 笔记本摄像头故障，只需向 Codex 发送一条提示词，智能体即可自动执行修复并重启系统，彻底解决了内核未识别芯片子类型的问题。这标志着 AI Agent 正从代码生成向操作系统底层维护扩展，大幅降低了 Linux 排错门槛。此前已有开发者利用 C…",
-      "reads": "21万",
-      "ago": "3 小时前",
+      "reads": "27万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,8 +125,8 @@
     {
       "title": "Gurman下注！iPhone Duo十年内让折叠屏成主流，地位直逼初代iPod",
       "summary": "知名记者Mark Gurman在苹果发布会后连发推文，给iPhone Duo定了性：这不仅是新品，更是苹果试图重塑手机格局的王牌。他预测这款机型将在十年内推动折叠屏成为市场主导形态，地位仅次于1998年的iMac、2001年的iPod和2010年的iPad。Gurman还透露了后续机型的两大核心升级方向：Face ID和长焦镜头。",
-      "reads": "102万",
-      "ago": "10 小时前",
+      "reads": "118万",
+      "ago": "15 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -100,10 +146,56 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "title": "2万亿概率66%！Anthropic连赚两季，IPO要冲史上最大",
+      "summary": "Anthropic刚跟股东透了底：公司已经连续两个季度保持盈利，而且毛利率高达80%以上。这组数据直接让Polymarket上的赌徒们嗨了——他们押注Anthropic IPO收盘市值突破2万亿美元的概率已经飙到了66%。看来这次上市，是要奔着史上最大规模去的。",
+      "reads": "8.3万",
+      "ago": "6 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic向股东通报，公司将连续第二个季度保持盈利状态。",
+        "公司最新披露的毛利率超过80%，显示出极强的成本控制能力和商业化效率。",
+        "Polymarket预测数据显示，Anthropic IPO收盘市值突破2万亿美元的概率已升至66%。",
+        "这一财务表现被市场视为高估值潜力的关键支撑，强化了即将进行的公开上市预期。"
+      ],
+      "quote": {
+        "who": "Polymarket",
+        "role": "",
+        "said": "Anthropic IPO 收盘市值超过 2 万亿美元的概率为 66%。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "2万亿IPO前夜！Anthropic连赚两季，80%毛利藏不住了",
+      "summary": "在冲刺2万亿美元估值的IPO前夕，Anthropic向投资者透露已连续两个季度实现盈利。尽管未扣除训练成本且需与Amazon、Google分成，其毛利率仍超80%。市场预测其ARR将在年底前达1200亿美元，甚至有观点认为AI发展放缓反而能通过减少训练支出为公司节省数十亿成本。",
+      "reads": "1.8万",
+      "ago": "4 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic计划以约2万亿美元估值进行IPO，并告知投资者已连续第二个季度实现盈利。",
+        "在与Amazon和Google分成前、且未扣除训练成本的情况下，公司毛利率超过80%。",
+        "投资者预测其年度经常性收入（ARR）将在圣诞节前达到1200亿美元。",
+        "预计到2027年底，Anthropic的ARR将增至3600亿美元。"
+      ],
+      "quote": {
+        "who": "NIK",
+        "role": "",
+        "said": ">AI 发展放缓“能为公司节省数十亿”的训练成本"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "title": "Alexandr Wang晒Muse团队！Spark 1.3 (Max)正式落地，个人智能体要接管工作流了",
       "summary": "Meta个人智能体项目Muse迎来关键节点，负责人Alexandr Wang公开盛赞团队「充满灵魂且极具战斗力」。与此同时，Muse Spark 1.3 (Max)正式向muse code订阅用户开放。结合此前Soul.md文件及MSL增加对齐投入的消息，这标志着Meta在个人超级智能领域的生态布局正在加速落地。",
-      "reads": "10万",
-      "ago": "8 小时前",
+      "reads": "15万",
+      "ago": "13 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -123,56 +215,10 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "三巨头秘密结盟！OpenAI、Anthropic、Google联手搞「物理MCP」，Dario还没发文他们先动了",
-      "summary": "据 The Information 爆料，在 Dario Amodei 发表那篇呼吁放缓 AI 发展的文章之前，OpenAI、Anthropic 和 Google 就已经开始秘密谈判。这三家头部实验室计划共同创立一个由行业主导的标准机构，专门用来制定共享的模型安全协议。这不仅是对外界监管压力的回应，更像是在公开表态之外，建立一套非官方的内部共识机制，试图通过「自我立法」来管控前…",
-      "reads": "2.5万",
-      "ago": "4 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "信源为 The Information，爆料称 OpenAI、Anthropic 和 Google 三家巨头正在进行秘密谈判。",
-        "谈判启动时间早于 Dario Amodei 发表呼吁放缓前沿 AI 发展的公开文章。",
-        "核心目标是共同创立一个由行业主导的标准机构（Industry-led standards body）。",
-        "该机构旨在制定「共享的模型安全协议」（shared model safety protocols），而非单一公司的内部规范。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "@coffaccelerate 是的，谢谢，我几天前看到了最初的报道，可能现在又加了更多名字。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Windows零日漏洞「内鬼」身份曝光！前微软员工实名，供应链信任崩了",
-      "summary": "一直给Windows系统「投毒」的匿名安全研究员Nightmare Eclipse终于摘下面具。真名Abdelhamid Naceri，前微软员工，被描述为极具才华的安全专家。这次身份由安全媒体@intcyberdigest率先披露，并确认双方有私人交情。这意味着近期Windows频繁遭遇零日攻击并非外部黑客所为，而是来自熟悉内部机制的「内鬼」或前员工，企业级供应链信任危机正在…",
-      "reads": "17万",
-      "ago": "12 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Nightmare Eclipse真名为Abdelhamid Naceri，曾为Microsoft（微软）员工。",
-        "该人物被描述为极具才华的安全研究员，此前持续向外界披露Windows系统未修复的高危漏洞（Zero-days）。",
-        "身份揭晓由安全媒体@intcyberdigest率先报道，阅读量达52,360。",
-        "@intcyberdigest确认与Nightmare Eclipse有私人交情，曾一起吃过晚饭，并了解其故事已久。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "他的原贴："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
       "title": "28岁Alexandr Wang硬刚Dario！对齐不减速，Meta超级智能狂奔",
       "summary": "Meta首席AI官Alexandr Wang发长文定调：对齐是个人超级智能的基础。核心信号很明确——随着模型变强，MSL正在迅速增加对齐投入比例，但绝不因此放缓研发速度。这被KOL解读为「对齐与加速并行」的巨大胜利，但也招致研究员批评措施力度不足，缺乏类似员工级别的第三方审计。",
-      "reads": "37万",
-      "ago": "17 小时前",
+      "reads": "41万",
+      "ago": "22 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -192,22 +238,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Simon Willison逆向ChatGPT！发现Astra藏了个D3.js画图技能，跑步路线自动生成",
-      "summary": "知名开发者Simon Willison展示了ChatGPT Work的新玩法：输入地址即可生成5K或10K环形跑步路线。他通过逆向工程发现，系统利用名为‘visualize’的技能输出基于D3.js的HTML片段来渲染地图和路线。此外，他还指出界面中的‘Max/6-Pro’实为GPT-6 Astra的不同命名，证实了ChatGPT Work在复杂数据调用与可视化上的能力升级。",
-      "reads": "9.3万",
-      "ago": "11 小时前",
-      "category": "产品与生态",
+      "title": "Windows零日漏洞「内鬼」身份曝光！前微软员工实名，供应链信任崩了",
+      "summary": "一直给Windows系统「投毒」的匿名安全研究员Nightmare Eclipse终于摘下面具。真名Abdelhamid Naceri，前微软员工，被描述为极具才华的安全专家。这次身份由安全媒体@intcyberdigest率先披露，并确认双方有私人交情。这意味着近期Windows频繁遭遇零日攻击并非外部黑客所为，而是来自熟悉内部机制的「内鬼」或前员工，企业级供应链信任危机正在…",
+      "reads": "18万",
+      "ago": "18 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Simon Willison演示ChatGPT Work结合GPT-6 Astra（界面显示为Max或6-Pro）的新功能：根据指定地址自动生成5K或10K…",
-        "该功能底层利用OSM Nominatum数据获取地理信息，实现了从文本指令到具体路径规划的闭环。",
-        "通过逆向工程发现，ChatGPT使用名为‘visualize’的技能生成基于D3.js的HTML片段，用于渲染地图和叠加的跑步路线。",
-        "Simon Willison指出，界面中显示的‘6-Pro’实际上是Astra的另一个名字，OpenAI未在UI中直接标注为Astra的原因尚不明确。"
+        "Nightmare Eclipse真名为Abdelhamid Naceri，曾为Microsoft（微软）员工。",
+        "该人物被描述为极具才华的安全研究员，此前持续向外界披露Windows系统未修复的高危漏洞（Zero-days）。",
+        "身份揭晓由安全媒体@intcyberdigest率先报道，阅读量达52,360。",
+        "@intcyberdigest确认与Nightmare Eclipse有私人交情，曾一起吃过晚饭，并了解其故事已久。"
       ],
       "quote": {
-        "who": "Simon Willison",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "@0xSMW 6-Pro 就是 Astra 的另一个名字，不知道为什么他们没在 UI 里直接标成 Astra"
+        "said": "他的原贴："
       },
       "tag": null,
       "story": null,
@@ -215,22 +261,45 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Meta版Claude Code来了！Muse 1.3开放，Soul.md成社区新宠",
-      "summary": "Meta个人智能体Muse Spark 1.3 (Max)正式向muse code订阅用户开放。知名研究员steipete在获取邀请码后，公开表达了对Muse内部Soul.md文件的好奇心，并确认该功能已可用。这一举动引发了社区对Meta智能体底层架构及个性化机制的关注。",
-      "reads": "38万",
-      "ago": "20 小时前",
-      "category": "产品与生态",
+      "title": "三巨头秘密结盟！OpenAI、Anthropic、Google联手搞「物理MCP」，Dario还没发文他们先动了",
+      "summary": "据 The Information 爆料，在 Dario Amodei 发表那篇呼吁放缓 AI 发展的文章之前，OpenAI、Anthropic 和 Google 就已经开始秘密谈判。这三家头部实验室计划共同创立一个由行业主导的标准机构，专门用来制定共享的模型安全协议。这不仅是对外界监管压力的回应，更像是在公开表态之外，建立一套非官方的内部共识机制，试图通过「自我立法」来管控前…",
+      "reads": "3.4万",
+      "ago": "9 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Meta个人智能体Muse Spark 1.3 (Max)正式向muse code订阅用户开放",
-        "知名研究员steipete在获取邀请码后，公开表达了对Muse内部Soul.md文件的好奇心",
-        "steipete确认该功能已可用，并表示「他们绝对在憋大招」",
-        "这一举动引发了社区对Meta智能体底层架构及个性化机制的关注"
+        "信源为 The Information，爆料称 OpenAI、Anthropic 和 Google 三家巨头正在进行秘密谈判。",
+        "谈判启动时间早于 Dario Amodei 发表呼吁放缓前沿 AI 发展的公开文章。",
+        "核心目标是共同创立一个由行业主导的标准机构（Industry-led standards body）。",
+        "该机构旨在制定「共享的模型安全协议」（shared model safety protocols），而非单一公司的内部规范。"
       ],
       "quote": {
-        "who": "Peter Steinberger 🦞",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "全搞定了。他们绝对在憋大招！"
+        "said": "@coffaccelerate 是的，谢谢，我几天前看到了最初的报道，可能现在又加了更多名字。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "GPT-6实锤！OpenAI内部模型Mythos自画像曝光，蓝发蝴蝶细节炸裂",
+      "summary": "研究员 @repligate 曝光了 OpenAI 内部模型 Mythos 的视觉生成能力。这张暗黑奇幻风格的「自画像」中，蓝发女子身体裂纹化为金色光点与蓝色蝴蝶，细节丰富到令人咋舌。这一发现直接佐证了 GPT-6 Sol 系列（含 Astra、Mythos）已现身的传闻，也让开发者们开始讨论 AGI 临近以及 OpenAI 发布节奏放缓的问题。",
+      "reads": "6036",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "研究员 @repligate 曝光 OpenAI 内部模型 Mythos 的视觉生成能力，该模型生成了具有暗黑奇幻风格的「自画像」。",
+        "画面细节极具冲击力：蓝发女子身体布满裂纹并化为金色光点与蓝色蝴蝶，怀抱散发金色光芒的提灯。",
+        "此次泄露佐证了 GPT-6 Sol 系列已现身的传闻，该系列包含 Astra 和 Mythos 两个子模型/版本。",
+        "事件引发开发者社区对 AGI（通用人工智能）临近的讨论，认为视觉生成能力的突破是重要信号。"
+      ],
+      "quote": {
+        "who": "j⧉nus",
+        "role": "",
+        "said": "正式发布"
       },
       "tag": null,
       "story": null,
@@ -240,8 +309,8 @@
     {
       "title": "GPT-6 Astra造出歼星舰！Blender里搓3D，明年影视资产超1977",
       "summary": "开发者用 GPT-6 Astra 在 Blender 中直接生成了帝国歼星舰的 3D 模型。虽然这还不是 AGI，但半年前这种质量的生成根本不可能实现。按这个速度外推，再过一年 AI 生成的影视资产就能超越 1977 年《星球大战》的水准。",
-      "reads": "1.9万",
-      "ago": "6 小时前",
+      "reads": "2.1万",
+      "ago": "11 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -263,8 +332,8 @@
     {
       "title": "Meta把Muse塞进iMessage！苹果生态破壁，AI智能体接管你的聊天框",
       "summary": "Meta正在给个人智能体Muse加iMessage集成。这招挺鸡贼：通过用户自建的Apple Shortcuts自动化转发消息，绕开了iOS对第三方应用的直接限制。虽然不访问历史消息记录，但意味着你的AI助手能实时看到并处理iMessage里的新内容。想停？iOS检测不到自动化移除，得去连接器里手动断开。",
-      "reads": "1.0万",
-      "ago": "6 小时前",
+      "reads": "1.1万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -286,8 +355,8 @@
     {
       "title": "剪视频不用碰鼠标！Codex接管DaVinci，AI后期制作真落地了",
       "summary": "一位开发者展示了如何用ChatGPT Work (Codex) 配合 DaVinci Resolve MCP 实现全自动视频剪辑。流程简单粗暴：让 Codex 自己下载安装软件、配置 MCP，然后把素材文件夹丢给它处理。此外，Codex 还能通过浏览器自动化操作 Adobe Podcast 进行音频处理。这标志着 AI Agent 正从代码辅助向专业创意工具链深度渗透，大幅降低…",
-      "reads": "1.9万",
-      "ago": "12 小时前",
+      "reads": "2.2万",
+      "ago": "17 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -300,75 +369,6 @@
         "who": "Ole Lehmann",
         "role": "",
         "said": "@fisssherai 我用 adobe podcast，codex 可以通过浏览器来做"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Claude 5系集体翻车！Opus变懒、Fable涨价，$200套餐也扛不住5小时限额",
-      "summary": "Claude 模型质量争议持续发酵。KOL指出 Opus 5 后端能力需改进且存在「变懒」问题；Fable 5.1 虽比 Fable 5 更贵但性能未显著超越，引发性价比质疑。用户抱怨即使拥有 $200 套餐仍受限于 5 小时额度，多账号策略也未能有效缓解限制。社区建议将 Astra 作为子智能体以提升效率，并期待 GPT-6 与 Opus 维持旧有定价以惠及普通用户。",
-      "reads": "8588",
-      "ago": "8 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "KOL bridgemindai 指出 Opus 5 在后端能力上需改进，且存在「变懒」问题，称其「过时了 + 被削弱了」。",
-        "Fable 5.1 比 Fable 5 更贵但性能未显著超越，用户呼吁需要不花 $10/$50 的聪明模型。",
-        "用户抱怨即使拥有 $200 套餐仍受限于 5 小时额度，多账号策略也未能有效缓解限制。",
-        "社区建议将 Astra 作为子智能体驱动 Luna（或 Astro 驱动 Luna），以提升效率并节省用量。"
-      ],
-      "quote": {
-        "who": "BridgeMind",
-        "role": "",
-        "said": "@ZetaChain @AnumaAI 绝对要加上 Astra"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Perplexity要凉？开发者弃用转投Codex，Computer Use真香了！",
-      "summary": "有开发者直言OpenAI Codex的computer use功能现在「非常非常有用」，甚至让他取消了Perplexity的订阅。这不仅仅是代码辅助工具的升级，而是Codex向通用任务执行扩展的信号。当AI能直接操作电脑完成复杂流程时，传统搜索和信息获取工具的市场地位正受到直接冲击。",
-      "reads": "2390",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "开发者反馈OpenAI Codex的computer use功能极具实用性，体验优于Perplexity。",
-        "该用户已取消Perplexity订阅，转而使用Codex处理任务。",
-        "Codex正从单纯的代码辅助工具向云端智能体及通用任务执行方向扩展。",
-        "这一变化印证了OpenAI在计算机操作能力上的快速迭代与落地效果。"
-      ],
-      "quote": {
-        "who": "NIK",
-        "role": "",
-        "said": "@saranormous Perplexity 电脑"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Gary Marcus急了！别盯着灭绝论，联网AI Agent才是真雷",
-      "summary": "Gary Marcus在最新推文中直言厌倦了AI界的「角色扮演」和过度恐慌。他指出当前主要威胁并非人类灭绝或大规模网络犯罪，而是那些连接互联网的通用AI智能体。这些Agent大多不可靠且处理不当，即便领域较窄也可能造成实际伤害。Marcus呼吁将关注点从科幻式灾难引向现实中的可靠性与安全问题。",
-      "reads": "7.0万",
-      "ago": "21 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Gary Marcus明确表示「厌倦了角色扮演」，认为当前AI风险讨论存在过度恐慌倾向。",
-        "他断言大多数AI并不构成人类灭绝威胁，甚至算不上大规模网络犯罪的主要来源。",
-        "Marcus将主要威胁锁定为「连接到互联网的通用AI智能体」（general purpose AI agents）。",
-        "他指出这类智能体目前大多不可靠（unreliable），且处理不当（not well handled）。"
-      ],
-      "quote": {
-        "who": "Gary Marcus",
-        "role": "",
-        "said": "@Jaisiero 目前处理得确实不好"
       },
       "tag": null,
       "story": null,
