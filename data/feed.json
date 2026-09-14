@@ -3,8 +3,8 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-13 22:22:21 +0000",
-  "today": "09/13",
+  "fetched_at": "2026-09-14 00:58:45 +0000",
+  "today": "09/14",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
     {
@@ -280,6 +280,17 @@
       "id": "72938e37",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=72938e37",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/13",
+      "title": "亚马逊内部2000人跑通的AI收件箱，被AWS做成桌面端直接开源了",
+      "summary": "AWS 把亚马逊内部的一个 AI 收件箱开源了。它叫 Pizza Bot，装在桌面端，专门接那些不用你盯着、在后台自己跑完的活。亚马逊内部已经有超过 2000 人在用。…",
+      "source": "RSS",
+      "id": "928dd76f",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=928dd76f",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -654,17 +665,6 @@
       "id": "6614b386",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=6614b386",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/12",
-      "title": "微软三成代码都让AI写了，95%的企业投资却连个响都没听见",
-      "summary": "微软大约 30% 的代码已经交给 AI 编写，CEO Satya Nadella 亲口确认了这个数字。另一边，麻省理工学院的研究显示，95% 的企业 AI 投资至今零回报。…",
-      "source": "RSS",
-      "id": "beb840ae",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=beb840ae",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     }
   ],
