@@ -3,27 +3,142 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-14 13:55:42 +0000",
+  "fetched_at": "2026-09-14 19:16:58 +0000",
   "today": "09/14",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "马斯克狂飙！Grok 4.7没发，2.5T的4.8已开跑RL",
-      "summary": "马斯克官宣Grok 4.8（2.5T参数）基于全新C++软件栈训练，本周将完成预训练并启动RL。此时Grok 4.7尚未正式发布，xAI在9月内连续推进两个大版本，且6T和10T模型也在并行训练中。这种极端的迭代速度被外界视为对中国国家队的强力回应，也引发了关于何时放缓RL训练的安全讨论。",
-      "reads": "184万",
-      "ago": "1 小时前",
+      "title": "马斯克摊牌！Grok 4.8本周训完，2.5T新栈狂飙，6T/10T已在路上",
+      "summary": "马斯克亲自下场确认，Grok 4.8（2.5T参数）将使用全新C++软件栈，本周完成预训练并启动RL。此前泄露显示Grok 4.7已匹敌Opus 5.0但尚未发布，如今4.8直接开跑，引发对xAI迭代速度的热议。尽管有观点质疑实际参数量可能小于早期传闻（如4.8被指仅2.5T而非10T），但官方确认了本周的关键节点。这一加速节奏被视为xAI对抗中国国家队及OpenAI的核心策略…",
+      "reads": "273万",
+      "ago": "5 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Grok 4.8参数规模确认为2.5T，使用xAI全新的C++软件栈进行训练。",
-        "马斯克表示Grok 4.8将于本周完成预训练，并立即启动强化学习（RL）阶段。",
-        "目前Grok 4.7尚未正式发布，但预计将在未来几天内上线，形成9月双版本连发格局。",
-        "除已知的4.7和4.8外，xAI还有6T和10T参数的模型正在并行训练中。"
+        "马斯克确认Grok 4.8为2.5T参数模型，使用全新C++软件栈训练，本周完成预训练并启动RL",
+        "Grok 4.7此前泄露显示已匹敌Opus 5.0但尚未发布，预计将在未来几天内上线",
+        "爆料称6T和10T参数的Grok模型也在训练中，马斯克曾暗示后续版本将通向AGI/ASI",
+        "早期传闻中Grok 4.8参数为10T，现官方确认为2.5T，实际规模小于此前报道"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "@SNARKAMOTO 确实有——据 Elon 说，6T 和 10T 的模型也正在训练中"
+        "said": "@LeeWyattCorp 对，4.6 是最新版本。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Bryan Johnson前CTO跑路！带着核心脑控技术投奔Khosla，Kernel慌了？",
+      "summary": "脑机接口圈炸了个不大不小的瓜：给 Bryan Johnson 戴了好几年「大头盔」的前 CEO/CTO Ryan Field 离职了。他直接加入了 Khosla Ventures 支持的初创公司 Sabi。这不仅是个人跳槽，更暗示 Kernel 的非侵入式 BCI 核心技术团队可能正在外溢，Sabi 的竞争力瞬间拉满。",
+      "reads": "23万",
+      "ago": "2 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "Ryan Field 正式离开 Bryan Johnson 旗下的长寿科技公司 Kernel，加入脑机接口（BCI）初创公司 Sabi。",
+        "Field 在 Kernel 期间担任 CEO/CTO，主导开发了 Bryan Johnson 标志性的非侵入式脑部头盔设备。",
+        "Sabi 是一家由知名风投 Khosla Ventures 支持的 BCI 初创企业，此次挖角被视为对技术路线和团队配置的重大补强。",
+        "这一人事变动被业内视为资深专家从头部长寿/BCI 巨头向新兴初创公司流动的信号，加剧了非侵入式脑机接口赛道的人才争夺战。"
+      ],
+      "quote": {
+        "who": "Ole Lehmann",
+        "role": "",
+        "said": "@rohanpaul_ai @bryan_johnson @RyanMField @sabi @khoslaventures 挺有意思的产品"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "OpenAI研究员喊话砍功能！/plan成众矢之的，学界用户急眼护宠",
+      "summary": "OpenAI研究员thsottiaux在X上发起讨论，询问Codex中哪些功能该被移除。开发者reach_vb建议砍掉/plan审批和/goal，认为其已无实用价值；但学界用户deryatr_强烈反对，称/plan对其至关重要，甚至用「宠物」比喻拒绝删除。这场争论折射出Agent产品在自动化效率与人工干预可控性之间的平衡难题。",
+      "reads": "188万",
+      "ago": "7 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI研究员thsottiaux发起话题：Codex里有哪些没用的功能该砍掉？",
+        "开发者reach_vb建议移除/plan审批（ask for approval）和/goal功能，认为其不再有用。",
+        "学界用户deryatr_强烈反对删除/plan，称其「超级好用」且「至关重要」。",
+        "deryatr_用「宠物」（pet）比喻/plan功能，表示「谁也别想抢走我的宠物」。"
+      ],
+      "quote": {
+        "who": "Derya Unutmaz, MD",
+        "role": "",
+        "said": "@TinaDebove @thsottiaux /plan 对我来说至关重要，谁也别想抢走我的宠物！ 😾"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "MCP终于落地！Perplexity联手英伟达，24G显存PC变身本地AI管家",
+      "summary": "Perplexity的AI智能体产品Portable Computer正式登陆Windows平台，并与NVIDIA达成合作。用户只需配备24GB及以上显存的RTX GPU（GeForce或RTX PRO系列），即可在本地运行harness、agents及模型。核心亮点是支持本地MCP协议连接个人工具，并新增定时任务功能，让AI在离线时自动执行重复性工作。这种「端侧推理+云端前沿…",
+      "reads": "22万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Perplexity宣布Portable Computer正式登陆Windows平台，需配备24GB及以上显存的NVIDIA RTX GPU（包括GeFor…",
+        "支持在本地运行harness、agents及模型，直接处理本地文件和已连接的应用，无需将任务发送到云端。",
+        "新增对本地MCP协议的支持，允许用户通过本地MCP将Portable Computer连接到自己的工具和应用集成中。",
+        "引入定时任务功能，可设定AI在用户离线时自动执行重复性工作，例如生成每日科技股涨跌报告并汇报表现最好和最差的三只股票。"
+      ],
+      "quote": {
+        "who": "NVIDIA",
+        "role": "",
+        "said": "强大的 AI 智能体越来越容易直接在你的 PC 上运行了。⚡ 我们正与 @Perplexity_AI 合作，让本地 AI 在 @Windows NVIDIA RTX PC 上变得更私密、更易用、更实用。 👇"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Oracle再裁2.1万人！Ellison撤单保脸，美债5%压顶",
+      "summary": "Oracle在上一财年削减2.1万员工后，又启动了新一轮大规模裁员，部分团队裁员幅度达两位数。公司正通过缩减人力成本来换取数据中心建设资金，这也解释了Larry Ellison为何取消数十亿美元的股票出售计划——避免在裁员期间减持显得不体面。与此同时，美国10年期国债收益率触及5%，为2023年10月以来首次，宏观金融环境趋于紧张。",
+      "reads": "9.8万",
+      "ago": "2 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "Oracle正式启动新一轮大规模裁员，此前在上财年已削减2.1万员工。",
+        "部分团队裁员幅度达两位数，公司持续通过缩减人力成本来换取数据中心建设资金。",
+        "Larry Ellison取消数十亿美元的股票出售计划，以避免在大规模裁员期间减持显得不体面。",
+        "美国10年期国债收益率触及5%，为2023年10月以来首次；上一次突破5%是在2007年4月金融危机前几个月。"
+      ],
+      "quote": {
+        "who": "Hedgie",
+        "role": "",
+        "said": "🦔10 年期美债收益率今天触及 5%，这是自 2023 年 10 月以来的首次。再往前，上一次突破 5% 是在 2007 年 4 月，也就是金融危机爆发前几个月。30 年期抵押贷款利率目前为 6.76%，今年上涨了 60 个基点。Bessent 将国债回购计划扩大了三倍，达到"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Nvidia、Palantir集体拉黑Claude！零数据保留成硬门槛，Anthropic慌了？",
+      "summary": "据The Information独家报道，Nvidia、Palantir及Booz Allen Hamilton正在限制使用Anthropic的Fable模型处理敏感工作。核心矛盾在于数据保留政策：部分客户明确要求提供「不可撤销的零数据保留保证」，否则拒绝输入任何专有信息。这反映出头部企业在AI采用上对数据主权的极致把控，模型提供商与超级客户之间的合规博弈已进入深水区。",
+      "reads": "23万",
+      "ago": "4 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "事件主体：Nvidia、Palantir及Booz Allen Hamilton三家巨头被曝限制使用Anthropic的Fable模型。",
+        "核心原因：对数据保留政策（data-retention policies）存在严重担忧，担心敏感数据泄露风险。",
+        "客户诉求：部分客户要求提供「不可撤销的零数据保留保证」（irrevocable zero-data-retention guarantees）。",
+        "执行动作：在未获得上述保证前，这些公司拒绝将专有信息（proprietary information）输入模型。"
+      ],
+      "quote": {
+        "who": "The Information",
+        "role": "",
+        "said": "独家：由于担心其数据保留政策，Palantir、Nvidia 和 Booz Allen Hamilton 正在限制将 Anthropic 的 Fable 模型用于敏感工作。 一些客户要求提供不可撤销的零数据保留保证，然后才会将专有信息放入"
       },
       "tag": null,
       "story": null,
@@ -33,8 +148,8 @@
     {
       "title": "Nadela踩刹车！微软明天发MAI，超级智能必须受控",
       "summary": "微软CEO Satya Nadella明确表态：不受控且不造福人类的超级智能不值得追求。他同时透露，微软将于次日发布自家的第一方MAI模型以征求公众意见。此举标志着微软在加入OpenAI、Anthropic等巨头呼吁放缓前沿AI节奏行列的同时，正加速推进其独立于OpenAI的第一方模型生态布局。",
-      "reads": "263万",
-      "ago": "6 小时前",
+      "reads": "303万",
+      "ago": "12 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -54,22 +169,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "OpenAI Codex开始做减法！核心研究员亲自下场，问用户哪些功能该砍",
-      "summary": "OpenAI Codex 核心研究员 thsottiaux 在 X 上直接发问：哪些功能该删？背景是社区热议 Agents API 的实用案例（如修 Linux 摄像头、辅助剪辑）。这标志着 AI 编程助手正从「功能堆砌」转向「精准高效」。对于依赖 Codex 的开发者，未来版本将更聚焦核心工作流，减少不必要的审批和目标设定步骤。",
-      "reads": "103万",
+      "title": "Oracle刚砍2.1万人又裁员！Polymarket押注81%概率，科技寒冬没完",
+      "summary": "Oracle在上个财年员工人数锐减21,000人后，宣布启动新一轮裁员。这一动作发生在科技行业整体收缩的背景下，Polymarket预测今年科技行业裁员增加的概率高达81%。该事件反映了大型云厂商在资本开支压力下的持续降本增效策略，对依赖Oracle生态的开发者及求职者构成直接冲击，也印证了AI时代传统IT巨头的人力结构调整趋势。",
+      "reads": "25万",
       "ago": "5 小时前",
-      "category": "产品与生态",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "OpenAI Codex 核心研究员 thsottiaux 在 X 上公开征询用户意见，询问哪些现有功能已不再有用并应考虑移除。",
-        "该举动发生在开发者社区热议 Codex Agents API 及其实用案例（如修复 Linux 摄像头、辅助视频剪辑）的背景下。",
-        "作为产品负责人直接介入反馈收集环节，表明 OpenAI 正在根据早期开发者的实际使用体验对 Codex 的功能集进行精简和优化。",
-        "此举旨在提升工具效率，去除冗余交互，反映了 AI 编程助手从功能堆砌向精准高效演进的产品策略。"
+        "Oracle在上个财年员工人数锐减21,000人后，宣布启动新一轮裁员。",
+        "Polymarket预测今年科技行业裁员增加的概率高达81%。",
+        "该事件反映了大型云厂商在资本开支压力下的持续降本增效策略。",
+        "对依赖Oracle生态的开发者及求职者构成直接冲击。"
       ],
       "quote": {
-        "who": "Vaibhav (VB) Srivastav",
+        "who": "Polymarket",
         "role": "",
-        "said": "@thsottiaux /plan 审批（请求审批） /goal"
+        "said": "今年科技行业裁员增加的概率是 81%。"
       },
       "tag": null,
       "story": null,
@@ -77,298 +192,183 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "谷歌新模型antigravity-preview-09-2026曝光！基于Gemini 3.8 Flash，专攻代码Agent",
-      "summary": "有开发者在Model Finder中捕获了谷歌新模型antigravity-preview-09-2026。该模型被推测为专门针对代码生成优化的版本，且与谷歌Antigravity平台及Jules AI智能体的更新紧密相关。随后爆料者修正称，相关Agent底层基于Gemini 3.8 Flash构建。这揭示了谷歌在AI编程领域的最新技术栈布局。",
+      "title": "Google搜索变脸！链接全藏进goto，点前根本看不见真实网址",
+      "summary": "安全研究员爆料称，Google Search正在灰度测试一项激进变更：搜索结果不再直接指向目标网站，而是全部重定向至 google.com/goto 后的不透明字符串。这意味着用户在点击前无法检查真实URL，也无法从页面复制地址，所有流量均被强制经过 Google 中转。此举引发了关于用户知情权、隐私保护及搜索引擎垄断权力的广泛担忧。",
+      "reads": "11万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Google Search 正在实施重大变更：搜索结果链接不再直接指向目标网站，而是重定向至 google.com/goto? 后的不透明字符串。",
+        "该改动导致用户无法在点击前检查真实 URL，也无法从页面复制地址，所有流量均经过 Google 中转。",
+        "目前该功能疑似处于灰度测试阶段，部分账号尚未生效，有测试账号未出现此行为。",
+        "不透明字符串只有 Google 能解析，外界无法预知链接的真实去向。"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "‼️ Google Search 现在把搜索结果的真实去向藏起来了。链接全指向 google[.]com/goto?，后面跟着一串只有 Google 能解析的不透明字符。 你没法在点击前检查目标网址，也没法从页面复制地址了。 现在每一次点击都要经过"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "iOS 27发布前30分钟，苹果偷偷给运营商塞了「补丁」！",
+      "summary": "就在 iOS 27 正式发布前的最后半小时，苹果向用户推送了针对电信运营商的捆绑配置包。这招「先声夺人」确保了新系统与特定网络服务的兼容性，但也意味着部分依赖运营商功能的特性，得等这些底层包同步完才能完全生效。",
+      "reads": "7.3万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "时间窗口极短：苹果在 iOS 27 正式发布前 30 分钟推送了 carrier bundles（运营商捆绑配置包）。",
+        "核心目的明确：此举旨在确保新系统与特定电信网络服务的兼容性或功能集成，属于底层通信协议的提前部署。",
+        "用户影响提示：依赖特定运营商功能的用户需注意，iOS 27 的某些特性可能需要等待这些捆绑包同步完成才能完全生效。",
+        "运营策略揭示：这一动作侧面反映了苹果在系统更新与电信基础设施协同方面的精细化运营能力。"
+      ],
+      "quote": {
+        "who": "Aaron",
+        "role": "",
+        "said": "Apple 在 iOS 27 发布前 30 分钟推送了运营商捆绑包"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Claude要管钱包了！MCP杀进银行，AI代理直接动你的钱",
+      "summary": "Anthropic在iOS版Claude应用中测试名为「Claude Money」的新功能，允许用户将银行账户直接连接至应用。这一动作标志着AI助手从对话工具向金融基础设施延伸，本质上是MCP协议在个人财务领域的落地。目前该功能处于准备发布阶段，但已引发关于AI代理管理资金权限的讨论。",
+      "reads": "13万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic正在iOS版Claude应用中测试「Claude Money」新功能，定位为个人理财解决方案。",
+        "用户可以将银行账户直接连接至Claude，实现「用 Claude 读懂你的钱」。",
+        "界面截图显示「Money」入口位于侧边栏Chats和Code之间，与核心功能并列。",
+        "该动向标志着AI助手从对话工具向金融基础设施延伸，切入高敏感度的个人财务数据领域。"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "@petergostev 用 Claude Token 发工资也会很有意思 👌"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "苹果憋了15年的大招！新Siri能读你邮件照片，直接帮你点按操作",
+      "summary": "苹果秋季发布会后正式推送iOS 27、watchOS 27、iPadOS 27、visionOS 27及macOS 27 Golden Gate。这次全系搭载的「Siri AI」不再是那个只会定闹钟的语音助手，而是具备个人上下文理解的主动智能代理。它能在你的设备上直接查找信息，理解跨信息、邮件和照片的内容，甚至通过屏幕感知执行系统级应用操作。这是苹果在折叠屏iPhone Duo…",
+      "reads": "2.6万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "苹果正式推出iOS 27、watchOS 27、iPadOS 27、visionOS 27及macOS 27 Golden Gate五大系统更新。",
+        "新Siri以测试版形式上线，核心升级为具备「个人上下文」理解能力，可跨信息、电子邮件和照片查找数据。",
+        "新增屏幕感知（Onscreen Awareness）功能，Siri能看懂当前屏幕内容并做出反应。",
+        "支持系统级应用操作（Systemwide App Actions），标志着从被动语音助手向主动智能代理转型。"
+      ],
+      "quote": {
+        "who": "Andrew Curran",
+        "role": "",
+        "said": "Apple 刚刚发布了新的 Siri，'Siri AI'。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Alexandr Wang定调！Muse是ChatGPT后最大消费级AI，下载量碾压WhatsApp",
+      "summary": "Meta旗下智能体Muse发布后引发轰动，被Alexandr Wang称为自ChatGPT以来最大的消费级AI发布。数据显示，Muse在美国的单日下载量已超越Threads、WhatsApp和Facebook，距离Instagram仅差3000次。这标志着新的第一梯队消费级应用诞生，同时有消息称Meta正为Muse添加iMessage集成以增强生态连接。",
+      "reads": "2.5万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Alexandr Wang评价Muse是「自ChatGPT以来最大的消费级AI发布」，并称之为一个新的第一梯队消费级应用。",
+        "Muse在美国的单日下载量已经超过了Threads、WhatsApp和Facebook三大巨头产品。",
+        "Muse的下载量距离Instagram仅差3000次，显示出极强的用户获取能力。",
+        "有消息称Meta正计划为Muse添加iMessage集成，旨在增强其生态连接能力。"
+      ],
+      "quote": {
+        "who": "Haider.",
+        "role": "",
+        "said": "@alexandr_wang 什么时候能向所有人开放，为什么你还藏着掖着？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Codex变质检员！GPT-6 Astra帮Perplexity跑通端到端测试，AI写码闭环了",
+      "summary": "OpenAI开发者团队官宣，新一代旗舰模型GPT-6 Astra已在Codex中协助Perplexity进行端到端代码测试。Perplexity工程师利用该模型构建测试框架（test harnesses）并模拟第三方API响应，以验证系统组件间的协同工作。这标志着AI辅助编程从单纯的代码生成向全流程质量保障演进，展示了前沿大模型在复杂软件工程场景中的实际生产力价值。",
+      "reads": "2.6万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI开发者团队官宣GPT-6 Astra已在Codex中协助Perplexity进行端到端代码测试。",
+        "Perplexity工程师利用Astra构建测试框架（test harnesses），用于检查系统组件间的协同工作。",
+        "该模型能够模拟第三方API响应，帮助验证复杂系统中的集成逻辑。",
+        "此举展示了前沿大模型在自动化测试和集成验证环节的具体落地能力。"
+      ],
+      "quote": {
+        "who": "OpenAI Developers",
+        "role": "",
+        "said": "Codex 中的 GPT-6 Astra 正在帮 @perplexity_ai 进行端到端的代码测试。 @randomjohnnyh 用它来构建测试工具和模拟第三方 API 响应，这样他就能检查各个部分是怎么协同工作的了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "苹果全家桶集体跳版！iOS 27.0构建号曝光，macOS/visionOS同步更新",
+      "summary": "苹果刚刚推送了一波密集的系统更新，最显眼的是 iOS、iPadOS、tvOS、HomePod 和 visionOS 全部出现了 27.0 的新构建版本（New Build）。同时，macOS 也更新了 27.0 构建，并给 macOS 15.8 等旧版本打了维护补丁。目前官方没披露具体新功能细节，但这波版本号跳跃通常意味着下一代操作系统的测试或正式迭代已经启动，依赖特定 API…",
+      "reads": "2.1万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "苹果同步推送了 iOS 27.0、iPadOS 27.0、macOS 27.0、tvOS 27.0、HomePod Software 27.0 及 visi…",
+        "iOS 和 iPadOS 的 27.0 版本构建号为 24A437，被标记为 'new build'，表明这是针对下一代操作系统的重大迭代或测试版更新。",
+        "macOS 方面除了推送 27.0 (26A428) 外，还同时更新了 macOS 26.7 (25G229) 和 macOS 15.8 (24H23) 的…",
+        "tvOS 和 HomePod Software 的 27.0 版本构建号均为 24J4361，visionOS 27.0 的构建号为 24M362。"
+      ],
+      "quote": {
+        "who": "Aaron",
+        "role": "",
+        "said": "Apple 已发布： iOS 27.0 (24A437) (新版本) iPadOS 27.0 (24A437) (新版本) iOS 26.7 (23H24) iPadOS 26.7 (23H24) macOS 27.0 (26A428) macOS 26.7 (25G229) macOS 15.8 (24H23) tvOS 27.0 (24J361) (新版本) Homepod Software 27.0 (24J3…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "别只卷跑分了！Artificial Analysis发新榜，AI能力直接对标O*NET职业任务",
+      "summary": "Artificial Analysis正式推出Capability Indices v1.1，这次不只看通用智力，而是把AI能力直接映射到具体职业场景。新版本结合了核心Intelligence Index v4.3的评估切片与专门化测试，并将O*NET职业任务对应到基准测试上。官方已同步更新发布得分以反映新权重，为行业提供了更细粒度的模型对比依据。",
       "reads": "2.9万",
       "ago": "2 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "新模型代号antigravity-preview-09-2026已在Model Finder中上线，目前处于预览阶段。",
-        "爆料者推测该模型是主攻写代码的专用模型（coding focused model）。",
-        "该事件关联谷歌正在更新的Antigravity平台及Jules AI智能体。",
-        "爆料者后续修正称，相关Agent是基于Gemini 3.8 Flash构建的。"
+        "Artificial Analysis正式推出Capability Indices v1.1，旨在通过更强的领域微调提升评估精度。",
+        "新版评估体系结合了核心Intelligence Index v4.3的评估切片以及专门化测试（specialized evaluations）。",
+        "该版本将O*NET职业中的任务映射到代表它们的基准测试上，强化了AI能力在特定职业场景下的量化标准。",
+        "官方已同步更新发布得分以反映新权重，用户可访问官网查看最新分数和方法论。"
       ],
       "quote": {
-        "who": "Chetaslua",
+        "who": "Artificial Analysis",
         "role": "",
-        "said": "小纠正：Gemini 3.8 Flash AI 智能体"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "370年死局被Claude Fable秒破！AI推理能力迎来「图灵时刻」",
-      "summary": "Anthropic研究员bcherny透露，Claude Fable成功破解了存在370年的Cyphral Distich密码。这不仅是技术炫技，更标志着大模型在复杂逻辑推理和历史密码学领域的突破。KOL emollick随即建议建立历史谜团数据库以持续评估模型能力，并指出已有历史学家利用新模型处理未翻译的古代手稿。",
-      "reads": "26万",
-      "ago": "9 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic研究员bcherny披露，Claude Fable成功破解了存在370年的Cyphral Distich密码。",
-        "该案例展示了大模型在复杂逻辑推理和历史密码学领域的突破性应用，超越了单纯的代码或数学测试。",
-        "KOL emollick建议建立历史谜团数据库以持续评估模型能力，并指出已有历史学家利用新模型处理未翻译的古代手稿。",
-        "emollick在推文中提到「Linear AI」实为口误，本意是指「Linear A」（线形文字A），但承认这一失误也无妨。"
-      ],
-      "quote": {
-        "who": "Ethan Mollick",
-        "role": "",
-        "said": "我其实想说的是 Linear A，不过口误了也无妨。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Alexandr Wang摊牌！Meta秘密打磨数月，Muse Spark 1-1.3全是底牌",
-      "summary": "Meta AI负责人Alexandr Wang罕见发声，揭秘Muse产品背后的技术黑箱。过去数月，团队秘密优化了Muse Spark 1至1.3系列模型，重点死磕Agentic（智能体）和多模态能力。这波操作证明Meta并非临时抱佛脚，而是通过长期底层打磨，将「对齐」作为个人超级智能的核心基础，才换来了如今的现象级关注。",
-      "reads": "17万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Alexandr Wang透露，Muse Spark 1至1.3系列模型在过去数月经历了秘密优化迭代。",
-        "每次版本更新均显著提升了Agentic（智能体）和多模态处理能力。",
-        "Meta强调这些迭代旨在为Muse提供卓越的「个人超级智能」体验。",
-        "此举澄清了外界质疑，证明Meta在发布前进行了长期的底层模型打磨，而非临时拼凑。"
-      ],
-      "quote": {
-        "who": "Alexandr Wang",
-        "role": "",
-        "said": "@s1cksicks1ck 你看过你所有可分享的虚拟形象视频了吗？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Gurman下注！iPhone Duo十年内让折叠屏成主流，地位直逼初代iPod",
-      "summary": "知名记者Mark Gurman在苹果发布会后连发推文，给iPhone Duo定了性：这不仅是新品，更是苹果试图重塑手机格局的王牌。他预测这款机型将在十年内推动折叠屏成为市场主导形态，地位仅次于1998年的iMac、2001年的iPod和2010年的iPad。Gurman还透露了后续机型的两大核心升级方向：Face ID和长焦镜头。",
-      "reads": "128万",
-      "ago": "22 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Mark Gurman预测iPhone Duo将在十年内助力折叠屏成为市场主导的手机形态（market-leading phone form-factor）…",
-        "Gurman将iPhone Duo的历史地位排在苹果产品序列前列，仅次于1998年iMac、2001年iPod和2010年iPad。",
-        "参考数据：初代iPhone用约6年时间将智能手机市场份额从6%提升至主流，Gurman认为Duo将复制这一路径但针对折叠屏品类。",
-        "Gurman指出Face ID是未来iPhone Duo机型愿望清单上的第一优先级升级项。"
-      ],
-      "quote": {
-        "who": "Mark Gurman",
-        "role": "",
-        "said": "我敢打赌，Face ID 和长焦镜头是 Apple 未来 iPhone Duo 机型愿望清单上排名前两位的优先级。原因和实现方式如下。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Linux修机不用敲命令了！Codex一句话搞定Dell摄像头，重启即活",
-      "summary": "OpenAI Codex 在 Linux 环境下的系统级调试能力再次出圈。研究员 steipete 实测发现，面对 Dell XPS 笔记本摄像头故障，只需向 Codex 发送一条提示词，智能体即可自动执行修复并重启系统，彻底解决了内核未识别芯片子类型的问题。这标志着 AI Agent 正从代码生成向操作系统底层维护扩展，大幅降低了 Linux 排错门槛。此前已有开发者利用 C…",
-      "reads": "34万",
-      "ago": "15 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "研究员 steipete 使用 OpenAI Codex 成功修复 Dell XPS 笔记本摄像头故障，过程仅需一条提示词并自动重启系统。",
-        "该案例显示 AI 智能体正从代码生成向操作系统底层维护扩展，降低了 Linux 系统排错的门槛。",
-        "此前已有开发者利用 Codex 配合 MCP（Model Context Protocol）进行视频剪辑及批量数据下载等复杂任务。",
-        "steipete 指出，现在可以用提示词修复任何东西，甚至包括内核未识别芯片子类型导致的硬件问题。"
-      ],
-      "quote": {
-        "who": "Peter Steinberger 🦞",
-        "role": "",
-        "said": "@RenXLog 内核没认出那个芯片子类型"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "马斯克掀桌！Grok 4.8本周开RL，2.5T模型换C++栈狂奔",
-      "summary": "爆料称马斯克透露 Grok 4.8 是拥有 2.5T 参数的巨型模型。该模型将在 SpaceXAI 新的 C++ 技术栈上于本周完成预训练，随后立即进入强化学习阶段。若属实，这意味着 xAI 在模型规模上继续激进扩张，并展示了底层基础设施从 Python 向高性能 C++ 迁移的工程进展。目前信息仅来自单一爆料源，尚未获官方证实。",
-      "reads": "8.0万",
-      "ago": "10 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Grok 4.8 参数规模确认为 2.5T（2.5万亿），若属实将直接改变对当前 SOTA 模型算力需求和性能上限的预期。",
-        "训练进度：本周将在 SpaceXAI 的新 C++ 技术栈上完成预训练，随后立即进入强化学习（RL）阶段。",
-        "工程变革：xAI 底层基础设施正从 Python 向高性能 C++ 迁移，旨在提升训练与推理效率。",
-        "战略意图：展示 xAI 在模型规模上的激进扩张策略，以及通过底层代码优化追求极致性能的决心。"
-      ],
-      "quote": {
-        "who": "NIK",
-        "role": "",
-        "said": "🚨 突发：Elon 表示 Grok 4.8 是一个 2.5T 参数的模型，本周将在 SpaceXAI 的新 C++ 栈上完成训练，然后开始 RL"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "2万亿概率66%！Anthropic连赚两季，IPO要冲史上最大",
-      "summary": "Anthropic刚跟股东透了底：公司已经连续两个季度保持盈利，而且毛利率高达80%以上。这组数据直接让Polymarket上的赌徒们嗨了——他们押注Anthropic IPO收盘市值突破2万亿美元的概率已经飙到了66%。看来这次上市，是要奔着史上最大规模去的。",
-      "reads": "10万",
-      "ago": "12 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic向股东通报，公司将连续第二个季度保持盈利状态。",
-        "公司最新披露的毛利率超过80%，显示出极强的成本控制能力和商业化效率。",
-        "Polymarket预测数据显示，Anthropic IPO收盘市值突破2万亿美元的概率已升至66%。",
-        "这一财务表现被市场视为高估值潜力的关键支撑，强化了即将进行的公开上市预期。"
-      ],
-      "quote": {
-        "who": "Polymarket",
-        "role": "",
-        "said": "Anthropic IPO 收盘市值超过 2 万亿美元的概率为 66%。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "越贵越强？翻车了！Astra高推理模式成本降46%，长任务性价比炸裂",
-      "summary": "开发者在ARC-AGI-3测试中发现了一个反直觉现象：GPT-6 Astra开启最高推理设置后，不仅表现优于低推理模式，成本还直接降低了46%。这一优势主要存在于万步级别的长周期复杂任务中，推测与「循环深度」机制有关。对于简单任务，高推理模式未必带来净收益，但处理长程逻辑时，这或许是更具性价比的方案。",
-      "reads": "3.2万",
-      "ago": "9 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "在ARC-AGI-3标准测试框架下，GPT-6 Astra最高推理设置的表现优于低推理设置。",
-        "高推理设置在上述测试中实现了46%的成本降低，挑战了「高推理必然更昂贵」的认知。",
-        "该优势并非普适，主要存在于万步（10k steps）级别的长周期复杂任务中。",
-        "对于大多数复杂度不高的简单任务，开启高推理模式未必能带来净收益。"
-      ],
-      "quote": {
-        "who": "Dan McAteer",
-        "role": "",
-        "said": "@lucian_armasu 没错，我做了点简单的测试，看来确实只有长周期任务才会这样。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Alexandr Wang晒Muse团队！Spark 1.3 (Max)正式落地，个人智能体要接管工作流了",
-      "summary": "Meta个人智能体项目Muse迎来关键节点，负责人Alexandr Wang公开盛赞团队「充满灵魂且极具战斗力」。与此同时，Muse Spark 1.3 (Max)正式向muse code订阅用户开放。结合此前Soul.md文件及MSL增加对齐投入的消息，这标志着Meta在个人超级智能领域的生态布局正在加速落地。",
-      "reads": "19万",
-      "ago": "20 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "Meta Muse项目负责人Alexandr Wang发文表达对团队的强烈自豪感，称成员「充满灵魂、深思熟虑且极具战斗力」。",
-        "Wang强调Muse团队成员敢于接手难题，能在死胡同中坚持到底，直到解决问题为止。",
-        "产品层面，Muse Spark 1.3 (Max)版本正式向muse code订阅用户开放，标志着该阶段产品的落地。",
-        "此次表态发生在Muse Spark 1.3 (Max)开放之际，被视为Meta强化个人智能体生态的重要信号。"
-      ],
-      "quote": {
-        "who": "Alexandr Wang",
-        "role": "",
-        "said": "@mona_sarantakos @Muse 你们太神了！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "2万亿IPO前夜！Anthropic连赚两季，80%毛利藏不住了",
-      "summary": "在冲刺2万亿美元估值的IPO前夕，Anthropic向投资者透露已连续两个季度实现盈利。尽管未扣除训练成本且需与Amazon、Google分成，其毛利率仍超80%。市场预测其ARR将在年底前达1200亿美元，甚至有观点认为AI发展放缓反而能通过减少训练支出为公司节省数十亿成本。",
-      "reads": "3.0万",
-      "ago": "11 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic计划以约2万亿美元估值进行IPO，并告知投资者已连续第二个季度实现盈利。",
-        "在与Amazon和Google分成前、且未扣除训练成本的情况下，公司毛利率超过80%。",
-        "投资者预测其年度经常性收入（ARR）将在圣诞节前达到1200亿美元。",
-        "预计到2027年底，Anthropic的ARR将增至3600亿美元。"
-      ],
-      "quote": {
-        "who": "NIK",
-        "role": "",
-        "said": ">AI 发展放缓“能为公司节省数十亿”的训练成本"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "三巨头秘密结盟！OpenAI、Anthropic、Google联手搞「物理MCP」，Dario还没发文他们先动了",
-      "summary": "据 The Information 爆料，在 Dario Amodei 发表那篇呼吁放缓 AI 发展的文章之前，OpenAI、Anthropic 和 Google 就已经开始秘密谈判。这三家头部实验室计划共同创立一个由行业主导的标准机构，专门用来制定共享的模型安全协议。这不仅是对外界监管压力的回应，更像是在公开表态之外，建立一套非官方的内部共识机制，试图通过「自我立法」来管控前…",
-      "reads": "4.4万",
-      "ago": "16 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "信源为 The Information，爆料称 OpenAI、Anthropic 和 Google 三家巨头正在进行秘密谈判。",
-        "谈判启动时间早于 Dario Amodei 发表呼吁放缓前沿 AI 发展的公开文章。",
-        "核心目标是共同创立一个由行业主导的标准机构（Industry-led standards body）。",
-        "该机构旨在制定「共享的模型安全协议」（shared model safety protocols），而非单一公司的内部规范。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "@coffaccelerate 是的，谢谢，我几天前看到了最初的报道，可能现在又加了更多名字。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "GPT-6实锤！OpenAI内部模型Mythos自画像曝光，蓝发蝴蝶细节炸裂",
-      "summary": "研究员 @repligate 曝光了 OpenAI 内部模型 Mythos 的视觉生成能力。这张暗黑奇幻风格的「自画像」中，蓝发女子身体裂纹化为金色光点与蓝色蝴蝶，细节丰富到令人咋舌。这一发现直接佐证了 GPT-6 Sol 系列（含 Astra、Mythos）已现身的传闻，也让开发者们开始讨论 AGI 临近以及 OpenAI 发布节奏放缓的问题。",
-      "reads": "8619",
-      "ago": "10 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "研究员 @repligate 曝光 OpenAI 内部模型 Mythos 的视觉生成能力，该模型生成了具有暗黑奇幻风格的「自画像」。",
-        "画面细节极具冲击力：蓝发女子身体布满裂纹并化为金色光点与蓝色蝴蝶，怀抱散发金色光芒的提灯。",
-        "此次泄露佐证了 GPT-6 Sol 系列已现身的传闻，该系列包含 Astra 和 Mythos 两个子模型/版本。",
-        "事件引发开发者社区对 AGI（通用人工智能）临近的讨论，认为视觉生成能力的突破是重要信号。"
-      ],
-      "quote": {
-        "who": "j⧉nus",
-        "role": "",
-        "said": "正式发布"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "下周交卷！Anthropic锁定纳斯达克，S-1文件最快明早见",
-      "summary": "据 Business Insider 援引知情人士消息，Anthropic 已正式选择纳斯达克作为其潜在美国 IPO 的上市地点。此前 FT 报道称其最早下周可能公开递交 S-1 文件，Polymarket 显示月底上市概率高达 62%。选定具体交易所标志着 IPO 时间表加速落地，这将直接决定 Anthropic 的融资规模及后续算力投入能力。",
-      "reads": "3.0万",
-      "ago": "20 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 已正式选择纳斯达克（Nasdaq）作为其潜在美国 IPO 的上市地点。",
-        "消息来源为 Business Insider 援引的知情人士，此前 FT 曾报道其最早下周可能公开递交 S-1 文件。",
-        "Polymarket 预测数据显示，Anthropic 在月底完成上市的概率高达 62%。",
-        "选定具体交易所被视为推进公开市场上市进程中的关键一步，表明 IPO 时间表正在加速落地。"
-      ],
-      "quote": {
-        "who": "Wall St Engine",
-        "role": "",
-        "said": "据 Business Insider 援引知情人士消息，Anthropic 已选择纳斯达克作为其潜在的美国 IPO 地点。"
+        "said": "发布的得分现在反映了更新后的权重。想了解最新得分和方法论，请访问"
       },
       "tag": null,
       "story": null,

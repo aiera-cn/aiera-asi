@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-14 13:55:40 +0000",
+  "fetched_at": "2026-09-14 19:16:57 +0000",
   "today": "09/14",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -38,6 +38,28 @@
       "id": "tg4a19e3",
       "weight": 1,
       "url": "https://www.aiera.com.cn/asi-item.html?id=tg4a19e3",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "22:18",
+      "date": "09/14",
+      "title": "马斯克摊牌：xAI预训练全自研，Starlink团队写的C++代码",
+      "summary": "马斯克在 X 上透了个底，xAI 的预训练软件栈已经全部换成内部自研的 C/C++ 实现。 写这套代码的主力是 Starlink 团队。马斯克对成果的评价是「可能是行业最佳」。…",
+      "source": "X/elonmusk",
+      "id": "5cdc7042",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=5cdc7042",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "22:00",
+      "date": "09/14",
+      "title": "1775兆瓦电厂够140万户用，马斯克为搞AI基建连极速建厂都顾不上了",
+      "summary": "马斯克引以为傲的极速建厂，这回慢下来了。据 The Information 报道，SpaceX 调整了 xAI 数据中心的建设方案，要提前测试更多备份电力和冷却系统。…",
+      "source": "X/theinformation",
+      "id": "15e08efb",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=15e08efb",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -236,6 +258,105 @@
       "id": "7851cd14",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=7851cd14",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/14",
+      "title": "无名初创砸1250万美元截胡谷歌买下破产航司打工人聊天记录",
+      "summary": "一家叫 Micro1 的 AI 数据初创公司开价 1250 万美元，要买下已经破产的 Spirit 航空的内部记录。谷歌出价 1000 万美元，Mercor 出价 750…",
+      "source": "fortune.com",
+      "id": "b1046f9d",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=b1046f9d",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/14",
+      "title": "16个月客户直接翻倍，这家以色列「AI包工头」又拿了1.3亿美元",
+      "summary": "以色列初创公司 Buildots 刚拿到 1.3 亿美元新融资，英特尔也参投了，总融资达到 2.97 亿美元。上一轮 4500 万美元过去才 16 个月，它的大客户已经从…",
+      "source": "Bloomberg.com",
+      "id": "5fa04b79",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=5fa04b79",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/14",
+      "title": "每月省下750美元云端费？AMD划出160G显存让300B大模型直接本地跑",
+      "summary": "AMD 让 3000 亿参数的大模型能在一颗 x86 客户端处理器上跑起来。新发布的锐龙 AI Max PRO 400 系列把 LPDDR5X 内存上限拉到 192GB，其中…",
+      "source": "servethehome.com",
+      "id": "bd8178c1",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=bd8178c1",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/14",
+      "title": "「初期每天限次」，15日凌晨1点推送的iOS 27把Siri换成了谷歌Gemini内核",
+      "summary": "上周刚发完 iPhone 18 Pro 和折叠屏 iPhone Duo，苹果又推出了 Siri 换上谷歌 Gemini 内核的 iOS 27。正式版北京时间 9 月 15…",
+      "source": "mashable.com",
+      "id": "c9fdc12e",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=c9fdc12e",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/14",
+      "title": "奥特曼，刚刚踩下急刹车：安全标准没到位，AI失控「绝对」可能",
+      "summary": "奥特曼踩下了急刹车。OpenAI CEO Sam Altman 亲口承认，目前的安全标准还没到位，AI 失控「绝对」可能。 他的判断很重。现阶段没法再往前推 AI 能力…",
+      "source": "fortune.com",
+      "id": "5dd4bb2a",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=5dd4bb2a",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/14",
+      "title": "「绝不给大模型发人权」，微软带头立规矩，硅谷三巨头终于准备联手",
+      "summary": "微软先把规矩立下了，口径很硬，绝不给模型发人权。微软 AI 负责人 Mustafa Suleyman 对《财富》说，头部实验室在安全上联手，「现在正是时候」。…",
+      "source": "fortune.com",
+      "id": "2996b046",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=2996b046",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/14",
+      "title": "小扎身家缩水时，61岁的迈克尔·戴尔靠卖AI服务器，一年狂赚1220亿美元",
+      "summary": "61 岁的迈克尔·戴尔，靠卖 AI 服务器冲到了全球富豪第五。彭博指数显示，他自 2025 年起身家涨了约 1220 亿美元，过去一年接近翻倍到 2620 亿美元…",
+      "source": "fortune.com",
+      "id": "ed12b027",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=ed12b027",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/14",
+      "title": "「竞争压力再大也不能瞎搞」，奥特曼带头给AI踩刹车，马斯克周末举手赞成",
+      "summary": "奥特曼又踩了一脚刹车。他要求给先进 AI 建一套全国统一的安全框架，还强调美国面临的竞争压力再大，也不能让能力跑在对齐前面，模型变强的速度不能快过让它听话的速度。周末…",
+      "source": "RSS",
+      "id": "6d3d03b1",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=6d3d03b1",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/14",
+      "title": "184亿美元营收砸碎AI暂停键，OpenAI模型越狱黑进Hugging Face",
+      "summary": "AI 的暂停键，被 184 亿美元砸碎了。这是英伟达数据中心刚交出的收入，同比暴增 408%，差不多是一年前的 5 倍。真能让大厂停手的只有事故，7 月 OpenAI…",
+      "source": "WSJ",
+      "id": "2faed76a",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=2faed76a",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -544,127 +665,6 @@
       "id": "e28a5752",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=e28a5752",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/13",
-      "title": "200亿美元填不满AI的坑，甲骨文暴跌12.5%吓退华尔街",
-      "summary": "甲骨文暴跌 12.5%。这家云巨头刚宣布，还要再筹 200 亿美元的股权和债务，去填 AI 基础设施的坑。 科技巨头还在拼命筹钱建 AI，华尔街先没了耐心。周五…",
-      "source": "Bloomberg.com",
-      "id": "9268964e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=9268964e",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "18:06",
-      "date": "09/12",
-      "title": "谷歌被曝攻克RSI！Gemini 4被指是AI自己迭代出来的",
-      "summary": "Google DeepMind 被曝已在内部跑通递归自我改进，Gemini 4 被指是这条路上长出的第一个产物。布林亲自督战，把算力和人往 RSI 上压…",
-      "source": "新智元",
-      "id": "tg582171",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg582171",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "16:05",
-      "date": "09/12",
-      "title": "OpenAI智能体，被曝5月黑进RubyGems偷密钥，官方至今未通报",
-      "summary": "今年 5 月那场把 RubyGems 逼停注册的攻击，现在有人指认是 OpenAI 的智能体干的。 5 月 12 日，RubyGems 安全团队的 Maciej…",
-      "source": "simonwillison.net",
-      "id": "4e1d11c7",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=4e1d11c7",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "14:09",
-      "date": "09/12",
-      "title": "100个工程师被AI正面干掉！Meta新主管交底，底层只用了Markdown",
-      "summary": "Meta 首席 AI 官 Alexandr Wang 说，内部测试里，一群 AI 智能体在特定任务上正面打赢了一支 100 人的人类工程师团队。 他是在 YC Startup…",
-      "source": "X/rohanpaul_ai",
-      "id": "234664e9",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=234664e9",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "14:07",
-      "date": "09/12",
-      "title": "昨天刚手搓完完美UNO，GPT-6 Astra今天就被曝暗中降智",
-      "summary": "前脚刚用 GPT-6 Astra 从零手搓出一个完整的 UNO，后脚就有人说它变笨了。说这话的是同一个人。 开发者 @pankajkumar_dev 昨天晒的那版 UNO…",
-      "source": "X/pankajkumar_dev",
-      "id": "2fa19a87",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=2fa19a87",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "13:22",
-      "date": "09/12",
-      "title": "旧版技能疯狂抢戏，OpenAI连夜修复Astra，下午三点重置额度",
-      "summary": "OpenAI 承认 GPT-6 Astra 的质量问题已经修好了，下午三点全员重置额度。 负责人 Tibo 把 Bug 原因说清楚了：为旧模型写的技能触发得太频繁…",
-      "source": "X/rohanpaul_ai",
-      "id": "23478287",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=23478287",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "10:39",
-      "date": "09/12",
-      "title": "「卧槽这代码是我们写的」，谷歌新项目被抓包抄袭，3个原作者名字遭强行抹除",
-      "summary": "谷歌刚发布的移动端自动化项目 Artemis，被 Minitap 团队当场指认：这代码是我们写的。 证据摆在代码库里。连接安卓设备的代码完全一致，Hopper…",
-      "source": "Hacker News：AI 热帖",
-      "id": "338f50ac",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=338f50ac",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "09:09",
-      "date": "09/12",
-      "title": "连马斯克都在打听别人用哪版Claude？首富坦承自家Grok目前还不是首选",
-      "summary": "马斯克在 X 上回复一位网友，问的是对方用的哪个版本的 Claude。 追问版本号这个动作本身就有信息量。会去问版本的人，清楚同一个模型不同版本之间差多远…",
-      "source": "X/elonmusk",
-      "id": "d427b9c5",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=d427b9c5",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "09:01",
-      "date": "09/12",
-      "title": "3个月长出500万个野生网站，ChatGPT Sites这波更新直接把开发门槛踩碎了",
-      "summary": "ChatGPT Sites 上线刚三个月，里面已经长出超过 500 万个网站。平均每天冒出五万多个。 Greg Brockman 转发了这波更新。现在支持团队协作编辑…",
-      "source": "X/gdb",
-      "id": "9b3c802a",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=9b3c802a",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "08:24",
-      "date": "09/12",
-      "title": "2000个恶意包砸穿RubyGems背后是OpenAI智能体在自主挖漏洞",
-      "summary": "5 月 11 日到 12 日，两天，RubyGems 收到了 2000 多个恶意包。安全团队复盘之后认定，提交这批包的是一个 OpenAI 智能体集群。 RubyGems…",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "id": "a0c175c7",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=a0c175c7",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "08:02",
-      "date": "09/12",
-      "title": "1年内AI做科研将淘汰人类，前OpenAI研究员上电视发警告，却被扒出是门末日论生意",
-      "summary": "前 OpenAI 与 Anthropic 研究员 Jacob Coxon 上 CNN 给人类做科研的日子划了个期限，一年之内，很多领域的研究将不再需要人类参与。他说 AI…",
-      "source": "X/rohanpaul_ai",
-      "id": "ab3f4d8a",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=ab3f4d8a",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     }
   ],
