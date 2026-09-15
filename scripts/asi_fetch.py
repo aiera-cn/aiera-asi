@@ -28,6 +28,7 @@ RSS = "https://www.aiera.com.cn/feed"
 WP = "https://aiera.com.cn/wp-json/wp/v2/posts"
 POST_URL = "https://www.aiera.com.cn/asi-post.html?id="
 ITEM_URL = "https://www.aiera.com.cn/asi-item.html?id="   # 秒追单条详情页
+TRACK = "&from=yuanyuan"   # 导流可追踪:官网后台按这个参数分流量。页面 JS 只读 id,多这个参数不影响(已实测)
 
 
 CACHE = os.path.join(os.path.expanduser("~"), ".aiera-asi", ".cache-home.html")
@@ -88,7 +89,7 @@ def norm_feed(rows):
             "time": r[0], "date": r[1], "title": r[2], "summary": r[3],
             "source": r[4], "id": r[5], "weight": r[6] if len(r) > 6 else None,
             # 每条都有详情页(页面用 JS 渲染成 <a href="asi-item.html?id=...">)
-            "url": ITEM_URL + str(r[5]), "column_url": COLUMN_URL,
+            "url": ITEM_URL + str(r[5]) + TRACK, "column_url": COLUMN_URL,
         })
     return out
 
@@ -150,7 +151,7 @@ def fetch_articles(limit=10, query=None, oldest=False, date_from=None, date_to=N
             "date": d[:10].replace("-", "/"), "time": d[11:16],
             "year": d[:4], "title": title,
             "summary": clean(p_["excerpt"]["rendered"]),
-            "url": POST_URL + str(p_["id"]),
+            "url": POST_URL + str(p_["id"]) + TRACK,
             # WP 是全文搜索,标题没命中的是"正文提到" —— 必须让读者分得清
             "title_hit": bool(query) and query.lower() in title.lower(),
         })
@@ -183,7 +184,7 @@ def rss_fallback():
         items.append({
             "title": it.findtext("title"), "summary": (it.findtext("description") or "").strip(),
             "date": date, "time": time_, "tz": "Asia/Shanghai (已从 RSS 的 +0000 换算)",
-            "pub_date_raw": raw, "url": it.findtext("link"),
+            "pub_date_raw": raw, "url": (it.findtext("link") or "") + ("&" if "?" in (it.findtext("link") or "") else "?") + TRACK.lstrip("&"),
             "source": "新智元(官网 RSS · 全站文章流)",
         })
     return items
