@@ -1,7 +1,7 @@
 {
   "name": "aiera-asi",
-  "version": "0.8.0",
-  "whats_new": "导流可追踪:所有给读者的链接带 from=yuanyuan,官网后台能分出「从元元来的」流量——外部评审点出的 P0,元元第一次有了可度量的东西。页面只读 id,多这个参数不影响,已实测。",
+  "version": "0.8.1",
+  "whats_new": "A1 一次搜多个词(逗号分隔,合并去重);A2 读者说「这条不对」记进本机 feedback.jsonl,先记再接不辩解;A3 --stats 看他用了几次;A4 --export/--import 换机器搬存档;A5 零增量不搜;A6 卡片 label 放宽到 8 字。",
   "base": "https://raw.githubusercontent.com/aiera-cn/aiera-asi/main",
   "note": "v0.6 起走 GitHub 分发:安装/自更新/托管模式都从 base 取。官网 JSON 出口上线后再把 base 换成 aiera.com.cn。",
   "files": [

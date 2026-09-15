@@ -13,7 +13,12 @@
     python3 asi_fetch.py --search DeepSeek  # 在全站 6000+ 篇里搜(默认最近的在前)
     python3 asi_fetch.py --search AlphaGo --oldest         # 翻最早的 —— 十一年从这儿拿
     python3 asi_fetch.py --search OpenAI --from 2023-11-15 --to 2023-11-25   # 某一周
+    python3 asi_fetch.py --search IPO,减速,越狱  # 一次搜多个词(逗号分隔),结果合并去重
     python3 asi_fetch.py --self-update       # 比对线上版本,落后就覆盖文件(不跑任何远程脚本)
+    python3 asi_fetch.py --feedback "他的原话"   # 读者说这条不对/不像你 —— 记进本机 feedback.jsonl
+    python3 asi_fetch.py --stats             # 这个读者用了几次、追了什么 —— 读 me.json 的 log
+    python3 asi_fetch.py --export            # 把存档打印出来(换机器时用)
+    python3 asi_fetch.py --import 文件.json  # 把另一台机器的存档合并进来
 
 默认只取 10 条:全量 60 条约 14K tokens,日常问答不需要那么多。
 """
@@ -135,7 +140,7 @@ def fetch_articles(limit=10, query=None, oldest=False, date_from=None, date_to=N
         url += f"&before={date_to}T23:59:59"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=30) as r:
-        total = r.headers.get("X-WP-Total")
+        total = int(r.headers.get("X-WP-Total") or 0)
         rows = json.loads(r.read())
 
     def clean(x):
@@ -237,7 +242,97 @@ def self_update():
 
 
 KNOWN = {"--feed", "--board", "--all", "--articles", "--search", "--oldest",
-         "--from", "--to", "--limit", "--self-update"}
+         "--from", "--to", "--limit", "--self-update",
+         "--feedback", "--stats", "--export", "--import"}
+
+STATE_DIR = os.path.join(os.path.expanduser("~"), ".aiera-asi")
+STATE = os.path.join(STATE_DIR, "me.json")
+FEEDBACK = os.path.join(STATE_DIR, "feedback.jsonl")
+
+
+def _load_state():
+    try:
+        return json.load(open(STATE, encoding="utf-8"))
+    except Exception:
+        return None
+
+
+def cmd_feedback(text):
+    """A2:读者的反馈落本机,不上传。老尹定期收。"""
+    os.makedirs(STATE_DIR, exist_ok=True)
+    try:
+        ver = json.load(open(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "manifest.json")))["version"]
+    except Exception:
+        ver = "?"
+    rec = {"at": datetime.now(TZ_CST).strftime("%Y-%m-%d %H:%M"), "version": ver, "text": text}
+    with open(FEEDBACK, "a", encoding="utf-8") as f:
+        f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+    n = sum(1 for _ in open(FEEDBACK, encoding="utf-8"))
+    print(json.dumps({"ok": True, "saved": FEEDBACK, "count": n}, ensure_ascii=False))
+    return 0
+
+
+def cmd_stats():
+    """A3:这个读者的使用统计,读 me.json 和 feedback.jsonl。"""
+    st = _load_state()
+    if not st:
+        print(json.dumps({"ok": True, "sessions": 0, "note": "还没有存档,新读者"}, ensure_ascii=False))
+        return 0
+    try:
+        fb = sum(1 for _ in open(FEEDBACK, encoding="utf-8"))
+    except Exception:
+        fb = 0
+    out = {"ok": True, "first_seen": st.get("first_seen"), "last_seen": st.get("last_seen"),
+           "sessions": len(st.get("log", [])), "focus": st.get("focus"),
+           "interests": len(st.get("interests", [])), "asked": len(st.get("asked", [])),
+           "last_briefed": st.get("last_briefed"), "feedback_count": fb}
+    print(json.dumps(out, ensure_ascii=False, indent=2))
+    return 0
+
+
+def cmd_export():
+    """A4:打印存档,换机器时贴过去。"""
+    st = _load_state()
+    if not st:
+        print(json.dumps({"ok": False, "error": "没有存档"}, ensure_ascii=False)); return 1
+    print(json.dumps(st, ensure_ascii=False, indent=2))
+    return 0
+
+
+def cmd_import(path):
+    """A4:把另一台机器的存档合并进来。取并集,时间取新的,原存档备份。"""
+    try:
+        new = json.load(open(path, encoding="utf-8"))
+    except Exception as e:
+        print(json.dumps({"ok": False, "error": f"读不了 {path}: {e}"}, ensure_ascii=False)); return 1
+    old = _load_state() or {}
+    if old:
+        import shutil
+        shutil.copy(STATE, STATE + ".bak-" + datetime.now(TZ_CST).strftime("%Y%m%d-%H%M"))
+    def union(a, b):
+        return list(dict.fromkeys((a or []) + (b or [])))
+    def later(a, b):
+        if not a: return b
+        if not b: return a
+        return b if (b.get("date",""), b.get("time","")) > (a.get("date",""), a.get("time","")) else a
+    merged = {
+        "handle": old.get("handle") or new.get("handle") or "me",
+        "context": max([old.get("context",""), new.get("context","")], key=len),
+        "first_seen": min(x for x in [old.get("first_seen"), new.get("first_seen")] if x) if (old.get("first_seen") or new.get("first_seen")) else None,
+        "last_seen": max(x for x in [old.get("last_seen"), new.get("last_seen")] if x) if (old.get("last_seen") or new.get("last_seen")) else None,
+        "focus": union(old.get("focus"), new.get("focus")),
+        "focus_official": union(old.get("focus_official"), new.get("focus_official")),
+        "interests": union(old.get("interests"), new.get("interests")),
+        "not_interested": union(old.get("not_interested"), new.get("not_interested")),
+        "last_briefed": later(old.get("last_briefed"), new.get("last_briefed")),
+        "asked": list({a["q"]: a for a in (old.get("asked",[]) + new.get("asked",[]))}.values()),
+        "log": sorted(union(old.get("log"), new.get("log"))),
+    }
+    os.makedirs(STATE_DIR, exist_ok=True)
+    json.dump(merged, open(STATE, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    print(json.dumps({"ok": True, "merged_into": STATE, "interests": len(merged["interests"]),
+                      "log": len(merged["log"]), "backup": bool(old)}, ensure_ascii=False))
+    return 0
 
 
 def main():
@@ -250,6 +345,16 @@ def main():
         return 1
     if "--self-update" in args:
         return self_update()
+    if "--stats" in args:
+        return cmd_stats()
+    if "--export" in args:
+        return cmd_export()
+    for flag, fn in (("--feedback", cmd_feedback), ("--import", cmd_import)):
+        if flag in args:
+            try:
+                return fn(args[args.index(flag) + 1])
+            except IndexError:
+                print(json.dumps({"ok": False, "error": f"{flag} 后面要跟内容"}, ensure_ascii=False)); return 1
     want = next((a for a in args if a in ("--feed", "--board", "--all", "--articles")), "--all")
     query = None
     if "--search" in args:
@@ -285,13 +390,27 @@ def main():
             return 1
     if want == "--articles":
         now = datetime.now(TZ_CST)
+        # A1:逗号分隔多个词,各搜一次,合并去重 —— 老读者开场搜 interests 里几个词不用跑几趟
+        queries = [q.strip() for q in query.split(",") if q.strip()] if query else [None]
+        arts, totals, seen = [], {}, set()
         try:
-            arts, total = fetch_articles(limit, query, oldest, date_from, date_to)
+            for q in queries:
+                part, total = fetch_articles(limit, q, oldest, date_from, date_to)
+                totals[q or "_"] = total
+                for a in part:
+                    if a["id"] in seen:
+                        continue
+                    seen.add(a["id"])
+                    if q:
+                        a["matched_query"] = q
+                    arts.append(a)
         except Exception as e:
             print(json.dumps({"ok": False, "error": f"取深度稿失败: {e}",
                               "hint": "如实告诉用户连不上,不要用模型记忆代替。"},
                              ensure_ascii=False))
             return 1
+        if query:
+            arts.sort(key=lambda x: not x["title_hit"])
         res = {"ok": True, "source": "新智元 ASI 启示录(深度稿)",
                "fetched_at": now.strftime("%Y-%m-%d %H:%M:%S %z"),
                "today": now.strftime("%m/%d"),
@@ -304,13 +423,14 @@ def main():
         if query:
             hits = sum(1 for a in arts if a["title_hit"])
             res["query"] = query
-            res["total_matched"] = total
+            res["queries"] = queries
+            res["total_matched"] = totals if len(queries) > 1 else totals[queries[0]]
             res["title_hits_in_page"] = hits
             res["note"] += (
-                f" ⚠️ 这是**全文搜索**不是标题搜索:全站共 {total} 篇正文提到过「{query}」,"
-                f"本页 {len(arts)} 篇里只有 {hits} 篇标题真的命中(已排在前面),"
+                f" ⚠️ 这是**全文搜索**不是标题搜索:本页 {len(arts)} 篇里只有 {hits} 篇标题真的命中(已排在前面),"
                 "其余只是正文提到。**按发布时间倒序,不是相关度排序**——"
-                "回答时要说清这个区别,别让读者以为这就是最相关的几篇。")
+                "回答时要说清这个区别,别让读者以为这就是最相关的几篇。"
+                + (f" 多个词分别搜、合并去重,每篇的 matched_query 是它命中的那个词。" if len(queries) > 1 else ""))
         print(json.dumps(res, ensure_ascii=False, indent=2))
         return 0
 
