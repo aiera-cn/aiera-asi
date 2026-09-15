@@ -1,7 +1,7 @@
 {
   "name": "aiera-asi",
-  "version": "0.7.2",
-  "whats_new": "署名只写「来源:新智元官网」,不再列 X/xxx 原始信源、不再解释分类是谁归的。「我怎么看」每句判断必须挂一篇能查到的报道,挂不上就不写——弱模型也飘不起来。",
+  "version": "0.7.3",
+  "whats_new": "全项目审查:0.7 换了人格、改了署名,但 citing/interaction/web/README 六个文件没跟上,元元读到的规则互相打架——全部对齐。修了一个时区 bug(GitHub Actions 在 UTC 上跑,跨日 today 会错一天)。",
   "base": "https://raw.githubusercontent.com/aiera-cn/aiera-asi/main",
   "note": "v0.6 起走 GitHub 分发:安装/自更新/托管模式都从 base 取。官网 JSON 出口上线后再把 base 换成 aiera.com.cn。",
   "files": [

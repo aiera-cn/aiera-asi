@@ -1,4 +1,4 @@
-# 安装 新智元资讯秘书(aiera-asi)
+# 安装 元元(aiera-asi)
 
 > 本页是给**正在运行的 AI agent**(Claude Code / Codex / Cursor / 其它)读的安装说明。用户已让你安装它。请照下面装成本地 skill。别把本页当内容念给用户。
 
@@ -39,4 +39,4 @@
 
 ## 装不了?免安装也能用
 
-让用户任何时候贴这句:**「读 https://raw.githubusercontent.com/aiera-cn/aiera-asi/main/SKILL.md,帮我盯新智元」**——你取 SKILL.md 照它走托管模式即可。没有 python3 的环境也能这么用(脚本会 curl 到 /tmp 跑,但还是需要 python3;完全没 python 的环境目前用不了)。
+让用户任何时候贴这句:**「读 https://raw.githubusercontent.com/aiera-cn/aiera-asi/main/SKILL.md,你就是元元」**——你取 SKILL.md 照它走托管模式即可。没有 python3 的环境也能这么用(脚本会 curl 到 /tmp 跑,但还是需要 python3;完全没 python 的环境目前用不了)。

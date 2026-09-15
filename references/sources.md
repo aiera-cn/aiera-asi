@@ -1,9 +1,8 @@
 # 数据源地图
 
-## 当前(v0.1)
+## 数据从哪来
 
-情报数据内嵌在首页 `https://www.aiera.com.cn/` 的 JS 数组里,由官网的 `site_baodian.py` 生成。
-`scripts/asi_fetch.py` 负责提取和规范化,**你只跟脚本的 JSON 输出打交道**,不用自己解析 HTML。
+爆点数据内嵌在首页 `https://www.aiera.com.cn/` 的 JS 数组里;深度稿走官网的 WordPress 接口。`scripts/asi_fetch.py` 负责取和规范化,**你只跟脚本的 JSON 输出打交道**,不用自己解析 HTML。
 
 ## 字段含义
 
@@ -74,7 +73,6 @@ feed 里的 `date` **没有年份**。要判断哪条算"今天",拿它跟 `toda
 
 用户想看更多时,用 `--limit` 再取一次,别假装你看过全部。
 
-## 未来(v0.2,官网数据出口上线后)
+## 网页版的数据
 
-官网会提供 `/asi/today.json`、`/asi/board.json`、`/asi/coordinates.json`、`/asi/archive/YYYY-MM-DD.json`。
-届时只改 `asi_fetch.py` 的 `fetch_live()`,本文件和 SKILL.md 的用法都不变。
+网页版(没有 shell 的环境)读不了脚本,读的是 `data/*.json`——GitHub Actions 每小时跑一次本脚本生成的快照。字段跟上面完全一样。

@@ -283,7 +283,7 @@ def main():
                              ensure_ascii=False))
             return 1
 
-    now = datetime.now().astimezone()
+    now = datetime.now(TZ_CST)   # 统一北京时间 —— GitHub Actions 跑在 UTC 机器上,用本机时区 today 会错一天
     result = {"ok": True, "source": "新智元 ASI 爆点", "home": HOME,
               "column_url": COLUMN_URL,
               # date 字段只有 09/10 没有年份,agent 靠这个判断哪天算"今天"
