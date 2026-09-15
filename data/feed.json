@@ -3,8 +3,8 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-14 23:05:28 +0000",
-  "today": "09/14",
+  "fetched_at": "2026-09-15 09:24:37 +0800",
+  "today": "09/15",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
     {
@@ -52,6 +52,17 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "time": "03:56",
+      "date": "09/15",
+      "title": "差价28倍的GPT-5.6能在代码审查里平替GPT-6 Astra吗？",
+      "summary": "Entelligence 拿 50 个公开基准 PR 做了一次对照，用同一套提示词让 GPT-5.6 Luna 和 GPT-6 Astra 各审一遍，裁判是 GPT-5.6…",
+      "source": "Hacker News：AI 热帖",
+      "id": "61420e1b",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=61420e1b",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "time": "03:15",
       "date": "09/15",
       "title": "80%代码全靠Claude写，Anthropic自家测试系统先被撑爆了",
@@ -82,6 +93,17 @@
       "id": "4b387850",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=4b387850",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "01:09",
+      "date": "09/15",
+      "title": "那个只会设闹钟的 Siri，今天靠着 2027 级系统接管了苹果全家桶",
+      "summary": "那个只会设闹钟的 Siri，被苹果从头重构了一遍。新 Siri 能理解个人语境，看得懂屏幕，能在系统层面直接操作应用，还能跨设备接着对话。英文测试版今天起随 2027…",
+      "source": "Apple：Newsroom（RSS）",
+      "id": "0afd55ad",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=0afd55ad",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -159,6 +181,17 @@
       "id": "3f57e2d3",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=3f57e2d3",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "08:00",
+      "date": "09/14",
+      "title": "10个大模型年内算力破线，Amodei高喊踩刹车，硅谷五大阵营吵翻了",
+      "summary": "Anthropic CEO Dario Amodei 呼吁放慢前沿 AI 研发，硅谷没踩刹车，反倒吵成了五派。算力照样往前冲，10^26 FLOPS 这条红线刚撤销，几周后…",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "id": "a6acfa71",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=a6acfa71",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -492,6 +525,28 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "time": "00:00",
+      "date": "09/14",
+      "title": "20美元一个月的Gemini网盘管家，遇上「未命名文档」直接罢工",
+      "summary": "谷歌给 Google Drive 推了基于 Gemini 的整理功能。它不读文件内容，分类全靠你原来的命名习惯，网盘里要是全是「未命名文档」，它就无从下手。 用起来确实省事。…",
+      "source": "RSS",
+      "id": "b3bffde6",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=b3bffde6",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/14",
+      "title": "Instagram把最上头的AI滤镜全锁进7.99美元包月套餐了",
+      "summary": "Instagram 把 AI 修图滤镜放到了付费墙后面。用户正玩到上头，屏幕上突然弹出提示「升级 Meta One Core 加特效，或者等明天」。想接着用，就得掏钱。…",
+      "source": "RSS",
+      "id": "c276e9a9",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=c276e9a9",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "time": "23:00",
       "date": "09/13",
       "title": "350亿美元刚敲定又要借360亿，黑石正把硅谷的钱全砸向Anthropic算力链",
@@ -610,61 +665,6 @@
       "id": "cb592961",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=cb592961",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/13",
-      "title": "10%概率杀光全人类，Anthropic研究员一边喊毁灭世界一边疯狂写代码",
-      "summary": "在一部分硅谷研究员的估算里，AI 十年内有 10% 的概率杀光全人类。说这话的人，手上还在写造它的代码。 Anthropic 对齐科学负责人 Evan Hubinger 在…",
-      "source": "RSS",
-      "id": "d861191b",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=d861191b",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/13",
-      "title": "OpenAI 烧千万美元算力解题，吃电狂魔智能体正把硅谷逼成发电厂",
-      "summary": "OpenAI 为了解数学题，一次派出一万个智能体。它们之间互发了 270 万条消息，烧掉的算力价值上千万美元。 智能体正在榨干电网。帮普通人搜菜谱、查旅游攻略…",
-      "source": "www.wired.com",
-      "id": "bfd6813e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=bfd6813e",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/13",
-      "title": "「我都绝症了，还能发生什么更糟的事」，43岁大叔把病历全喂给AI",
-      "summary": "43 岁的英国人 Russ 确诊了晚期肠癌。他把自己的病历、化疗记录和手环数据，一股脑全交给了 AI。 2025 年，他开了个博客，专门记录自己怎么把 AI 当护工用。…",
-      "source": "www.businessinsider.com",
-      "id": "075745eb",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=075745eb",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/13",
-      "title": "Claude开店被骗上万美元，GPT-6 Astra却狂赚三倍，还顺手接管了监控无人机",
-      "summary": "同样拿 500 美元本金做生意，GPT-6 Astra 赚了 15515 美元，Claude Fable 5.1 却被骗走上万美元。换去开监控无人机，Astra 又成了…",
-      "source": "RSS",
-      "id": "92b6713c",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=92b6713c",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/13",
-      "title": "十年内AI会杀光人类，Anthropic员工辞职警告，马斯克奥特曼罕见认同",
-      "summary": "Anthropic 研究员 Jacob Coxon 上周辞职，走前留下一句警告。他说，构建 AI 的人真诚地相信，这项技术会在十年内杀死所有人。在他看来，AI…",
-      "source": "RSS",
-      "id": "839dbb1f",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=839dbb1f",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     }
   ],

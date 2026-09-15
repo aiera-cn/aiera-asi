@@ -3,15 +3,15 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-14 23:05:30 +0000",
-  "today": "09/14",
+  "fetched_at": "2026-09-15 09:24:39 +0800",
+  "today": "09/15",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
       "title": "马斯克摊牌：Grok 4.8本周开RL！2.5T参数打脸10T传闻，4.7还在路上",
       "summary": "马斯克亲自确认 Grok 4.8（2.5T 参数）基于全新 C++ 软件栈训练，本周完成预训练并启动 RL。此前跳票的 Grok 4.7 预计近期发布，形成双版本并行节奏。虽然实际参数量低于早期传闻的 10T，但 xAI 被指在加速迭代中保持安全评估，引发对「放缓」承诺与实际速度的质疑。此举被视为对标中国国家队及 OpenAI 的激进策略。",
-      "reads": "273万",
-      "ago": "3 小时前",
+      "reads": "337万",
+      "ago": "5 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -31,22 +31,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Kernel前CTO叛逃！Bryan Johnson的脑机头盔核心大脑，跳槽Khosla投的Sabi了",
-      "summary": "Bryan Johnson 旗下 Kernel 的前 CEO/CTO Ryan Field 刚刚宣布离职，加入由 Khosla Ventures 支持的脑机接口初创公司 Sabi。Field 是 Bryan Johnson 标志性非侵入式脑部头盔设备的主要研发负责人，他的跳槽被视为行业关键人才流动信号。这一变动暗示 Sabi 在技术路线或产品方向上可能具备较强竞争力，也加剧了头…",
-      "reads": "52万",
-      "ago": "4 小时前",
-      "category": "组织与人事",
+      "title": "觉都不睡了！Claude Code开放Mods功能，有人连夜搓出俄罗斯方块",
+      "summary": "Anthropic 官方正式宣布 Claude Mods 上线，直接打通了桌面端和网页端。通过全新的 hooks 机制，开发者现在可以深度自定义交互逻辑，甚至有人已经在 v2.1.270 版本里搓出了一个 Claude 版俄罗斯方块。这波更新直接把 AI 编程助手从单纯的工具变成了开放生态平台，可玩性和扩展性彻底拉满。",
+      "reads": "23万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Ryan Field 曾担任 Bryan Johnson 旗下 Kernel 公司的 CEO/CTO，现已离职加入脑机接口初创公司 Sabi。",
-        "Field 在 Kernel 期间负责研发 Bryan Johnson 标志性的非侵入式脑部头盔设备（massive brain helmets）。",
-        "Sabi 是一家获得 Khosla Ventures 支持的脑机接口初创公司。",
-        "此次跳槽被视为行业关键人才流动信号，暗示 Sabi 在技术路线或产品方向上可能具备较强竞争力。"
+        "Anthropic 研究员正式宣布 Claude Mods 功能上线，开放插件化扩展能力。",
+        "该功能全面覆盖桌面端和网页端，不局限于单一平台。",
+        "社区迅速响应，首个演示案例「Claude 版俄罗斯方块（Tetris）」已经跑通。",
+        "核心技术基于 hooks 机制，允许开发者深度自定义交互逻辑与游戏内容。"
       ],
       "quote": {
-        "who": "Rohan Paul",
+        "who": "Boris Cherny",
         "role": "",
-        "said": "@alex_prompter @bryan_johnson @RyanMField @sabi @khoslaventures 我太期待能亲身体验这个了"
+        "said": "@thenoblesimian 不。还有桌面端和网页端"
       },
       "tag": null,
       "story": null,
@@ -56,8 +56,8 @@
     {
       "title": "马斯克摊牌：Grok 4.8核心代码全是人写的！AI还搞不定极致性能",
       "summary": "针对Grok 4.8训练细节的质疑，马斯克直接披露核心C/C++软件栈完全由人类工程师手写。他特别指出其中包含直接调用NVIDIA SM硬件加速器的汇编代码，并坦言当前AI尚不具备生成极高性能底层代码的能力。这一表态不仅为本周即将完成训练的传闻提供了技术佐证，也侧面揭示了大模型在系统级编程领域的局限性。",
-      "reads": "33万",
-      "ago": "3 小时前",
+      "reads": "40万",
+      "ago": "5 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -77,22 +77,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "憋了十年！苹果 Siri 终于开窍，能读你的私人数据了",
-      "summary": "苹果在秋季发布会正式推出基于下一代 Apple Intelligence 的 Siri AI。这次更新被称为 Siri 诞生以来最大幅度的重建，核心突破在于它终于能理解用户的个人数据，不再局限于通用问答或简单指令。该功能随 iOS 27、macOS 27 等系统测试版同步上线，被视为苹果在端侧 AI 与隐私保护平衡上的关键里程碑。",
-      "reads": "7.0万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
+      "title": "Kernel前CTO叛逃！Bryan Johnson的脑机头盔核心大脑，跳槽Khosla投的Sabi了",
+      "summary": "Bryan Johnson 旗下 Kernel 的前 CEO/CTO Ryan Field 刚刚宣布离职，加入由 Khosla Ventures 支持的脑机接口初创公司 Sabi。Field 是 Bryan Johnson 标志性非侵入式脑部头盔设备的主要研发负责人，他的跳槽被视为行业关键人才流动信号。这一变动暗示 Sabi 在技术路线或产品方向上可能具备较强竞争力，也加剧了头…",
+      "reads": "54万",
+      "ago": "6 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "苹果正式发布搭载下一代 Apple Intelligence 的 Siri AI，这是 Siri 自诞生以来最大幅度的重建。",
-        "核心变化是 Siri 终于能够理解用户的个人数据，突破了以往仅能处理通用问题或简单指令的限制。",
-        "该功能随 iOS 27、macOS 27 等系统的测试版同步上线，被视为 Apple Intelligence 迄今为止最重要的落地成果。",
-        "此次更新标志着苹果在端侧 AI 与隐私保护平衡上取得关键进展，直接提升了日常交互的智能化体验。"
+        "Ryan Field 曾担任 Bryan Johnson 旗下 Kernel 公司的 CEO/CTO，现已离职加入脑机接口初创公司 Sabi。",
+        "Field 在 Kernel 期间负责研发 Bryan Johnson 标志性的非侵入式脑部头盔设备（massive brain helmets）。",
+        "Sabi 是一家获得 Khosla Ventures 支持的脑机接口初创公司。",
+        "此次跳槽被视为行业关键人才流动信号，暗示 Sabi 在技术路线或产品方向上可能具备较强竞争力。"
       ],
       "quote": {
-        "who": "Chris",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "Not Opus 5.2 or GPT-5.6 Sol - which we’ll get this month, with Opus 5.2 maybe slipping into October. However, it is Apple that dropped a new AI model today! Apple just released the next gene…"
+        "said": "@alex_prompter @bryan_johnson @RyanMField @sabi @khoslaventures 我太期待能亲身体验这个了"
       },
       "tag": null,
       "story": null,
@@ -102,8 +102,8 @@
     {
       "title": "OpenAI研究员喊话砍功能！/plan成众矢之的，学界用户急眼护宠",
       "summary": "OpenAI研究员thsottiaux在X上发起讨论，询问Codex中哪些功能该被移除。开发者reach_vb建议砍掉/plan审批和/goal，认为其已无实用价值；但学界用户deryatr_强烈反对，称/plan对其至关重要，甚至用「宠物」比喻拒绝删除。这场争论折射出Agent产品在自动化效率与人工干预可控性之间的平衡难题。",
-      "reads": "188万",
-      "ago": "11 小时前",
+      "reads": "244万",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -123,10 +123,79 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "title": "Siri上架App Store！苹果AI战略大转向，独立应用时代来了",
+      "summary": "苹果把 Siri 作为独立应用上架 App Store 了。这不再是系统级的语音助手，而是一个可以直接打开、支持跨设备对话的工具类 APP。这一举动打破了 Siri 的传统形态，被视为苹果 AI 战略向独立应用生态延伸的重要信号，开发者社区已经炸开了锅。",
+      "reads": "6.3万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Siri 正式以独立应用形式出现在 App Store，开发者为 Apple，分类为工具类。",
+        "该应用支持跨设备对话功能，用户可直接在商店中查看并打开。",
+        "此举打破了 Siri 仅作为系统级语音助手的传统形态，标志着其向独立应用生态延伸。",
+        "这一变化被视为苹果 AI 战略调整或产品策略变化的重要信号。"
+      ],
+      "quote": {
+        "who": "Aaron",
+        "role": "",
+        "said": "从没想过有一天会看到 Siri 上架 App Store"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "憋了十年！苹果 Siri 终于开窍，能读你的私人数据了",
+      "summary": "苹果在秋季发布会正式推出基于下一代 Apple Intelligence 的 Siri AI。这次更新被称为 Siri 诞生以来最大幅度的重建，核心突破在于它终于能理解用户的个人数据，不再局限于通用问答或简单指令。该功能随 iOS 27、macOS 27 等系统测试版同步上线，被视为苹果在端侧 AI 与隐私保护平衡上的关键里程碑。",
+      "reads": "8.1万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "苹果正式发布搭载下一代 Apple Intelligence 的 Siri AI，这是 Siri 自诞生以来最大幅度的重建。",
+        "核心变化是 Siri 终于能够理解用户的个人数据，突破了以往仅能处理通用问题或简单指令的限制。",
+        "该功能随 iOS 27、macOS 27 等系统的测试版同步上线，被视为 Apple Intelligence 迄今为止最重要的落地成果。",
+        "此次更新标志着苹果在端侧 AI 与隐私保护平衡上取得关键进展，直接提升了日常交互的智能化体验。"
+      ],
+      "quote": {
+        "who": "Chris",
+        "role": "",
+        "said": "不是 Opus 5.2 也不是 GPT-5.6 Sol——这两个我们这个月就能看到，Opus 5.2 可能会滑档到 10 月。 不过，今天发新 AI 模型的居然是 Apple！ Apple 刚发布了驱动 Siri AI 的下一代 Apple Intelligence，就像他们说的“一个完全重构的 Siri"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Gemini 4 Pro内部代号「argon」曝光！输出上限狂飙至256k，长文生成要变天",
+      "summary": "谷歌Gemini 4 Pro的内部检查点近日现身，代号为「argon」。这是该模型首次公开输出展示，在高思考强度下耗时2.4分钟。最核心的突破在于Token输出限制从之前的64k提升至256k，长文本生成能力大幅扩展，标志着新一代大模型在推理效率与上下文窗口上的重大进展。",
+      "reads": "7.6万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Gemini 4 Pro内部代号为「argon」，检查点已在谷歌内部出现几天",
+        "这是该模型的首次输出展示，高思考强度下耗时2.4分钟",
+        "核心突破：Token输出限制从64k提升至256k，扩展幅度达300%",
+        "此次泄露展示了新一代大模型在推理效率与上下文窗口上的具体进展"
+      ],
+      "quote": {
+        "who": "Lentils",
+        "role": "",
+        "said": "几天前，Gemini 4 Pro 的检查点终于开始在内部出现了。 这是该模型的首次输出，内部代号为“argon”。在高思考强度下花了 2.4 分钟。 它有 256k Token 的“输出限制”，而之前的 Gemini 只有 64k"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "title": "MCP终于落地！Perplexity联手英伟达，24G显存PC变身本地AI管家",
       "summary": "Perplexity的AI智能体产品Portable Computer正式登陆Windows平台，并与NVIDIA达成合作。用户只需配备24GB及以上显存的RTX GPU（GeForce或RTX PRO系列），即可在本地运行harness、agents及模型。核心亮点是支持本地MCP协议连接个人工具，并新增定时任务功能，让AI在离线时自动执行重复性工作。这种「端侧推理+云端前沿…",
-      "reads": "39万",
-      "ago": "7 小时前",
+      "reads": "44万",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -146,33 +215,10 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Nvidia、Palantir集体拉黑Claude！零数据保留成硬门槛，Anthropic慌了？",
-      "summary": "据The Information独家报道，Nvidia、Palantir及Booz Allen Hamilton正在限制使用Anthropic的Fable模型处理敏感工作。核心矛盾在于数据保留政策：部分客户明确要求提供「不可撤销的零数据保留保证」，否则拒绝输入任何专有信息。这反映出头部企业在AI采用上对数据主权的极致把控，模型提供商与超级客户之间的合规博弈已进入深水区。",
-      "reads": "42万",
-      "ago": "8 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "事件主体：Nvidia、Palantir及Booz Allen Hamilton三家巨头被曝限制使用Anthropic的Fable模型。",
-        "核心原因：对数据保留政策（data-retention policies）存在严重担忧，担心敏感数据泄露风险。",
-        "客户诉求：部分客户要求提供「不可撤销的零数据保留保证」（irrevocable zero-data-retention guarantees）。",
-        "执行动作：在未获得上述保证前，这些公司拒绝将专有信息（proprietary information）输入模型。"
-      ],
-      "quote": {
-        "who": "The Information",
-        "role": "",
-        "said": "独家：由于担心其数据保留政策，Palantir、Nvidia 和 Booz Allen Hamilton 正在限制将 Anthropic 的 Fable 模型用于敏感工作。 一些客户要求提供不可撤销的零数据保留保证，然后才会将专有信息放入"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
       "title": "Claude Opus 5.2灰度曝光！没让循环它自己卷，代码工具链变天了",
       "summary": "开发者爆料称Claude Opus 5.2正以‘Opus 5’名义在Claude Code内部灰度测试。实测发现该版本具备自主迭代能力，在未收到循环指令时能自行重试直至通过Gauntlet循环测试。这证实了新模型已深度接入代码工具链，且其行为模式显示出更强的自主性，与Web端仍指向旧模型的现状形成鲜明对比。",
-      "reads": "3.9万",
-      "ago": "1 小时前",
+      "reads": "5.6万",
+      "ago": "3 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -184,7 +230,7 @@
       "quote": {
         "who": "Kol Tregaskes",
         "role": "",
-        "said": "Claude Opus 5.2 being tested in Claude Code right now. Release must be pretty soon."
+        "said": "Claude Opus 5.2 正在 Claude Code 里测试。估计马上就要发布了。"
       },
       "tag": null,
       "story": null,
@@ -194,8 +240,8 @@
     {
       "title": "Google搜索变脸！链接全藏进goto，点前根本看不见真实网址",
       "summary": "安全研究员爆料称，Google Search正在灰度测试一项激进变更：搜索结果不再直接指向目标网站，而是全部重定向至 google.com/goto 后的不透明字符串。这意味着用户在点击前无法检查真实URL，也无法从页面复制地址，所有流量均被强制经过 Google 中转。此举引发了关于用户知情权、隐私保护及搜索引擎垄断权力的广泛担忧。",
-      "reads": "24万",
-      "ago": "7 小时前",
+      "reads": "28万",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -217,8 +263,8 @@
     {
       "title": "iOS 27发布前30分钟，苹果偷偷给运营商塞了「补丁」！",
       "summary": "就在 iOS 27 正式发布前的最后半小时，苹果向用户推送了针对电信运营商的捆绑配置包。这招「先声夺人」确保了新系统与特定网络服务的兼容性，但也意味着部分依赖运营商功能的特性，得等这些底层包同步完才能完全生效。",
-      "reads": "13万",
-      "ago": "6 小时前",
+      "reads": "14万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -240,8 +286,8 @@
     {
       "title": "Alexandr Wang定调！Muse是ChatGPT后最大消费级AI，下载量碾压WhatsApp",
       "summary": "Meta旗下智能体Muse发布后引发轰动，被Alexandr Wang称为自ChatGPT以来最大的消费级AI发布。数据显示，Muse在美国的单日下载量已超越Threads、WhatsApp和Facebook，距离Instagram仅差3000次。这标志着新的第一梯队消费级应用诞生，同时有消息称Meta正为Muse添加iMessage集成以增强生态连接。",
-      "reads": "8.9万",
-      "ago": "5 小时前",
+      "reads": "10万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -263,8 +309,8 @@
     {
       "title": "Oracle刚砍2.1万人又裁员！Polymarket押注81%概率，科技寒冬没完",
       "summary": "Oracle在上个财年员工人数锐减21,000人后，宣布启动新一轮裁员。这一动作发生在科技行业整体收缩的背景下，Polymarket预测今年科技行业裁员增加的概率高达81%。该事件反映了大型云厂商在资本开支压力下的持续降本增效策略，对依赖Oracle生态的开发者及求职者构成直接冲击，也印证了AI时代传统IT巨头的人力结构调整趋势。",
-      "reads": "30万",
-      "ago": "9 小时前",
+      "reads": "32万",
+      "ago": "11 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -284,22 +330,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "Gemini 4 Pro内部代号「argon」曝光！输出上限狂飙至256k，长文生成要变天",
-      "summary": "谷歌Gemini 4 Pro的内部检查点近日现身，代号为「argon」。这是该模型首次公开输出展示，在高思考强度下耗时2.4分钟。最核心的突破在于Token输出限制从之前的64k提升至256k，长文本生成能力大幅扩展，标志着新一代大模型在推理效率与上下文窗口上的重大进展。",
-      "reads": "2.6万",
+      "title": "黄仁勋AllIn Summit开麦！聊AI基建、开源模型，监管得讲点理",
+      "summary": "NVIDIA CEO Jensen Huang在AllIn Summit接受theallinpod专访，核心观点聚焦于AI对经济建设的变革。他强调必须持续投资AI基础设施，并主张建立合理的监管框架。此外，他还特别提到了开源模型在行业发展中的重要性，为投资者和技术从业者提供了来自算力巨头的一手战略信号。",
+      "reads": "1.8万",
       "ago": "2 小时前",
-      "category": "模型与能力",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "Gemini 4 Pro内部代号为「argon」，检查点已在谷歌内部出现几天",
-        "这是该模型的首次输出展示，高思考强度下耗时2.4分钟",
-        "核心突破：Token输出限制从64k提升至256k，扩展幅度达300%",
-        "此次泄露展示了新一代大模型在推理效率与上下文窗口上的具体进展"
+        "NVIDIA CEO Jensen Huang在AllIn Summit上接受theallinpod专访，分享对AI行业下一步发展的看法。",
+        "Huang强调了对AI基础设施持续投资的必要性，认为这是支撑AI变革的关键。",
+        "对话中讨论了合理的监管框架（sensible regulation），主张政策应促进而非阻碍发展。",
+        "黄仁勋再次强调了开源模型（open models）的重要性，将其视为行业生态的重要组成部分。"
       ],
       "quote": {
-        "who": "Lentils",
+        "who": "NVIDIA",
         "role": "",
-        "said": "几天前，Gemini 4 Pro 的检查点终于开始在内部出现了。 这是该模型的首次输出，内部代号为“argon”。在高思考强度下花了 2.4 分钟。 它有 256k Token 的“输出限制”，而之前的 Gemini 只有 64k"
+        "said": "AI 正在改变我们建设、工作和发展经济的方式。 在 #AllInSummit 上，@JensenHuang 加入了 @theallinpod，讨论了接下来的发展——从合理的监管和开源模型，到对 AI 基础设施的持续投资。 🎥 完整对话："
       },
       "tag": null,
       "story": null,
@@ -309,8 +355,8 @@
     {
       "title": "跳号了！Opus 5.2在Code端灰度，Web还停在旧版",
       "summary": "有开发者通过请求slug发现，Anthropic正在Claude Code中灰度测试名为「Opus 5」的模型，但实际指向的是跳过了5.1版本的Opus 5.2。与此同时，Web端的Opus请求仍指向旧版模型。这种非对称发布策略表明，最新的大模型能力正优先在开发者工具链中落地，而非同步面向大众用户。",
-      "reads": "7.3万",
-      "ago": "5 小时前",
+      "reads": "8.4万",
+      "ago": "7 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -323,52 +369,6 @@
         "who": "leo 🐾",
         "role": "",
         "said": "@notme7920 不过尺寸和成本根本不在一个量级！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "马斯克官宣Grok 4.8开练！AI芯片股却恐慌抛售，「放缓」是假象？",
-      "summary": "就在AI模型厂商因RSI训练和推理需求被迫进行史上最大规模芯片支出前夕，市场却出现恐慌性抛售。马斯克刚宣布2.5T参数的Grok 4.8本周完成训练并启动强化学习，算力军备竞赛仍在加速。这种资本市场的剧烈波动，是否预示着行业即将执行「放缓前沿步伐」的政策？还是说所谓的「放缓」只是表象？",
-      "reads": "6.5万",
-      "ago": "5 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "记者指出，AI模型厂商正被迫在RSI（递归自我改进）训练爬坡和推理基础设施需求上进行指数级投资。",
-        "这种投资将推动AI芯片支出迎来史上最大规模的增长，但市场却在恐慌性抛售AI芯片股。",
-        "马斯克宣布2.5T参数的Grok 4.8模型本周完成训练，并已启动强化学习阶段。",
-        "尽管巨头口头承诺负责任行事或讨论成立标准机构，但实际的算力军备竞赛仍在加速。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "在你看来，这像不像是即将到来的「放缓前沿步伐」？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Claude要管钱包了！MCP杀进银行，AI代理直接动你的钱",
-      "summary": "Anthropic在iOS版Claude应用中测试名为「Claude Money」的新功能，允许用户将银行账户直接连接至应用。这一动作标志着AI助手从对话工具向金融基础设施延伸，本质上是MCP协议在个人财务领域的落地。目前该功能处于准备发布阶段，但已引发关于AI代理管理资金权限的讨论。",
-      "reads": "18万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic正在iOS版Claude应用中测试「Claude Money」新功能，定位为个人理财解决方案。",
-        "用户可以将银行账户直接连接至Claude，实现「用 Claude 读懂你的钱」。",
-        "界面截图显示「Money」入口位于侧边栏Chats和Code之间，与核心功能并列。",
-        "该动向标志着AI助手从对话工具向金融基础设施延伸，切入高敏感度的个人财务数据领域。"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "@petergostev 用 Claude Token 发工资也会很有意思 👌"
       },
       "tag": null,
       "story": null,
