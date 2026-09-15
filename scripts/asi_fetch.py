@@ -30,9 +30,24 @@ POST_URL = "https://www.aiera.com.cn/asi-post.html?id="
 ITEM_URL = "https://www.aiera.com.cn/asi-item.html?id="   # 秒追单条详情页
 
 
+CACHE = os.path.join(os.path.expanduser("~"), ".aiera-asi", ".cache-home.html")
+CACHE_TTL = 300   # 同一会话里多轮追问,5 分钟内不重复下 108KB 首页
+
+
 def fetch_live():
+    try:
+        if time.time() - os.path.getmtime(CACHE) < CACHE_TTL:
+            return open(CACHE, encoding="utf-8").read()
+    except OSError:
+        pass
     req = urllib.request.Request(HOME, headers={"User-Agent": "Mozilla/5.0"})
-    return urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "ignore")
+    html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "ignore")
+    try:
+        os.makedirs(os.path.dirname(CACHE), exist_ok=True)
+        open(CACHE, "w", encoding="utf-8").write(html)
+    except OSError:
+        pass
+    return html
 
 
 def grab_array(html, name):

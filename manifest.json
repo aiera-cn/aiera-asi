@@ -1,7 +1,7 @@
 {
   "name": "aiera-asi",
-  "version": "0.7.5",
-  "whats_new": "脚本:未知参数报错而不是静默给默认输出(0.7.4 的 --self-update 在旧脚本上会被当成普通取数)。其余同 0.7.4:开场自检一条命令、00:00 规则、搜档案退路、问了没答档案答了主动接回、收尾必写 log。",
+  "version": "0.7.6",
+  "whats_new": "每轮第一句是结论,三层是证据不是开口顺序;老读者开场第一句说事不说数字(用他追的线开口);首页 5 分钟缓存,多轮追问不重复下载。",
   "base": "https://raw.githubusercontent.com/aiera-cn/aiera-asi/main",
   "note": "v0.6 起走 GitHub 分发:安装/自更新/托管模式都从 base 取。官网 JSON 出口上线后再把 base 换成 aiera.com.cn。",
   "files": [
