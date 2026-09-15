@@ -3,27 +3,27 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-15 15:38:44 +0800",
+  "fetched_at": "2026-09-15 21:28:32 +0800",
   "today": "09/15",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "马斯克亲自盖章！开特斯拉FSD直接降保费，首家传统险企为AI驾驶买单",
-      "summary": "特斯拉FSD的商业化闭环，终于在保险端撕开了一个口子。马斯克刚刚证实，澳大利亚首家保险巨头Zurich正式认可了受监督自动驾驶（FSD Supervised）的安全性，只要车主使用该功能就能直接降低保费。这不仅是FSD在澳洲的重大里程碑，更意味着AI驾驶降低风险的能力，终于实打实地转化成了用户的真金白银。",
-      "reads": "428万",
-      "ago": "3 小时前",
+      "title": "别睡了，OpenAI本周要下饺子！新品密度直逼DevDay，GPT-6或提前炸场",
+      "summary": "OpenAI 研究员 Tibo Sottiaux 深夜放话，本周的新品发布密度将直接拉满，达到大家对 DevDay 2025 期待的级别。社区爆料称，定价看齐甚至低于 GPT-5.6 sol 的 GPT-6 Astra sol 或将空降，而老对手 Anthropic 也传闻会在本周跳过 5.1 直接发布 Opus 5.2。回想去年 DevDay 一天内连发 Sora 2 API…",
+      "reads": "114万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "马斯克发帖证实，如果车主使用特斯拉受监督自动驾驶（FSD Supervised），Zurich保险将提供更低的保费。",
-        "Zurich成为澳大利亚首家正式认可FSD能降低驾驶风险的传统保险公司。",
-        "这一降价政策已经直接反映在澳洲特斯拉车主的实际账单上，实现了技术能力向金融权益的直接转化。",
-        "业内人士指出，这是FSD在澳大利亚达成的一个关键里程碑，标志着自动驾驶安全性正式获得传统金融行业背书。"
+        "OpenAI 研究员 Tibo Sottiaux 预告，本周的产品发布级别将达到 DevDay 2025 的规模，直呼「太疯狂了」。",
+        "社区爆料称，OpenAI 可能会推出比 Astra 更强大的模型，传闻中的 GPT-6 Astra sol 或将亮相。",
+        "爆料指出，GPT-6 Astra sol 的定价策略可能非常激进，预计在 GPT-5.6 sol 左右甚至更便宜。",
+        "竞争对手动作频频，传闻 Anthropic 将跳过 Opus 5.1，直接在本周发布 Opus 5.2。"
       ],
       "quote": {
-        "who": "Elon Musk",
+        "who": "Haider.",
         "role": "",
-        "said": "Tesla 的自动驾驶太神了"
+        "said": "@elshayib_ 我希望是下周"
       },
       "tag": null,
       "story": null,
@@ -31,22 +31,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "糟糕，Gemini 4 Pro泄露了！高强度思考2.4分钟，实测却被嘲「不如Flash」",
-      "summary": "谷歌下一代旗舰模型 Gemini 4 Pro（内部代号「argon」）的检查点已在内部现身。首次曝光的输出结果显示，其在「高思考强度」下耗时 2.4 分钟生成了一张像素风 3D 场景图，输出上限从 64k 飙升至 256k Token。然而，这一首秀并未让社区买账，不仅被吐槽生成质量仅相当于 Gemini 3.9 Flash，更引发了人们对谷歌「解决 RSI」承诺落空的严重担忧…",
-      "reads": "19万",
+      "title": "谷歌Gemini 4 Pro内部流出！思考2.4分钟，256k输出上限却被嘲像Flash",
+      "summary": "谷歌下一代旗舰模型 Gemini 4 Pro 的早期检查点在内部流出，代号为「argon」。爆料显示，该模型在高思考强度下耗时 2.4 分钟完成了首次输出，其输出上限达到 256k Token，是前代 64k 的整整 4 倍。然而，首个生成结果却引发了社区的集体吐槽，不少业内人士直言大失所望，认为其质量仅相当于 Gemini 3.9 Flash 级别。",
+      "reads": "26万",
       "ago": "1 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "谷歌下一代旗舰模型 Gemini 4 Pro 检查点已于数日前在内部出现，标志着其正式进入内部测试阶段。",
-        "该模型内部代号为「argon」，本次泄露的是其有史以来的首次输出展示。",
-        "在「高思考强度」模式下，Gemini 4 Pro 耗时 2.4 分钟生成了一张包含日式宝塔和樱花树的像素风 3D 场景图。",
-        "核心参数大幅升级，输出上限从上一代 Gemini 的 64k Token 跃升至 256k Token。"
+        "谷歌内部已出现 Gemini 4 Pro 的早期检查点（checkpoint），该模型内部代号为「argon」。",
+        "爆料者公布了该模型的首次输出结果，在高思考强度（High thinking effort）下耗时 2.4 分钟生成。",
+        "Gemini 4 Pro 的输出上限实现了 4 倍跃升，从前代的 64k Token 大幅提升至 256k Token。",
+        "首个演示输出为一张像素风 3D 场景图，包含悬浮岛、日式红黑宝塔、樱花树和红色拱桥等元素。"
       ],
       "quote": {
-        "who": "Pankaj Kumar",
+        "who": "Lentils",
         "role": "",
-        "said": "@Lentils80 输出非常一般 😵"
+        "said": "@HarshithLucky3 早期 checkpoint"
       },
       "tag": null,
       "story": null,
@@ -56,8 +56,8 @@
     {
       "title": "抓包现场！Opus 5被暗中重定向，Claude 5.2惊现测试，无需指令自动疯狂循环",
       "summary": "Anthropic 又在暗中憋大招了。多位开发者爆料，Claude Opus 5.2 目前正在 Claude Code 内部进行灰度测试，原本指向 Opus 5 的请求已被悄悄重定向至新模型。实测发现，这个新版本具备极强的自主迭代能力，甚至不需要人类下达指令，就能像经过 Gauntlet 循环训练一样自动进行重试。种种迹象表明，距离正式发布已经不远了。",
-      "reads": "12万",
-      "ago": "1 小时前",
+      "reads": "19万",
+      "ago": "7 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -77,194 +77,10 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "属实把商业化玩明白了！ChatGPT礼品卡杀入美国线下超市，直接买来充值",
-      "summary": "OpenAI 属实把商业化玩明白了，现在去趟超市就能给 AI 充值。ChatGPT 礼品卡正式在美国区上线，用户可以直接在 Best Buy 或 Giftly 购买。这波操作不仅给假期的「赛博送礼」提供了新选项，也标志着 AI 助手正式杀入了传统大众零售渠道。",
-      "reads": "13万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "ChatGPT 礼品卡正式在美国区上线，支持为账号充值订阅额度。",
-        "目前购买渠道包括 Best Buy（百思买）和 Giftly 等平台。",
-        "收礼人可以通过专属兑换链接，直接将额度添加到自己的 ChatGPT 账号中。",
-        "此举主要瞄准即将到来的假期送礼季，提供与亲友分享 AI 的新方式。"
-      ],
-      "quote": {
-        "who": "宝玉",
-        "role": "",
-        "said": "@linxiaobei888 Google 搜索一下，Google Shop 可以看到好几个地方买，Best Buy 应该靠谱的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "觉都不睡了！Claude Code开放Mods功能，有人连夜搓出俄罗斯方块",
-      "summary": "Anthropic 官方正式宣布 Claude Mods 上线，直接打通了桌面端和网页端。通过全新的 hooks 机制，开发者现在可以深度自定义交互逻辑，甚至有人已经在 v2.1.270 版本里搓出了一个 Claude 版俄罗斯方块。这波更新直接把 AI 编程助手从单纯的工具变成了开放生态平台，可玩性和扩展性彻底拉满。",
-      "reads": "23万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 研究员正式宣布 Claude Mods 功能上线，开放插件化扩展能力。",
-        "该功能全面覆盖桌面端和网页端，不局限于单一平台。",
-        "社区迅速响应，首个演示案例「Claude 版俄罗斯方块（Tetris）」已经跑通。",
-        "核心技术基于 hooks 机制，允许开发者深度自定义交互逻辑与游戏内容。"
-      ],
-      "quote": {
-        "who": "Boris Cherny",
-        "role": "",
-        "said": "@thenoblesimian 不。还有桌面端和网页端"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Siri上架App Store！苹果AI战略大转向，独立应用时代来了",
-      "summary": "苹果把 Siri 作为独立应用上架 App Store 了。这不再是系统级的语音助手，而是一个可以直接打开、支持跨设备对话的工具类 APP。这一举动打破了 Siri 的传统形态，被视为苹果 AI 战略向独立应用生态延伸的重要信号，开发者社区已经炸开了锅。",
-      "reads": "37万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Siri 正式以独立应用形式出现在 App Store，开发者为 Apple，分类为工具类。",
-        "该应用支持跨设备对话功能，用户可直接在商店中查看并打开。",
-        "此举打破了 Siri 仅作为系统级语音助手的传统形态，标志着其向独立应用生态延伸。",
-        "这一变化被视为苹果 AI 战略调整或产品策略变化的重要信号。"
-      ],
-      "quote": {
-        "who": "Aaron",
-        "role": "",
-        "said": "从没想过有一天会看到 Siri 上架 App Store"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "深夜求故事！Alexandr Wang全网征集Muse最疯玩法，直呼太鼓舞人心",
-      "summary": "Meta的消费级AI智能体Muse上线刚好一周，负责人Alexandr Wang已经在X上按捺不住了。他凌晨发帖全网征集用户「最疯狂、最酷」的Muse使用故事，直言这些真实案例给整个团队带来了极大的鼓舞。此前他曾放话这是自ChatGPT以来最大的消费级AI发布，现在官方正通过高强度互动来死磕用户体验。",
-      "reads": "4.8万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Meta Muse AI智能体正式发布满一周，目前产品正处于早期反馈收集阶段。",
-        "负责人Alexandr Wang于凌晨2点在X上发帖，公开征集用户「最疯狂、最酷」的Muse使用故事。",
-        "Wang明确表示，这些来自真实用户的神级操作对整个团队来说「太鼓舞人心了」。",
-        "面对网友分享的复杂案例，Wang亲自下场互动，惊呼「这东西挺复杂的」。"
-      ],
-      "quote": {
-        "who": "Alexandr Wang",
-        "role": "",
-        "said": "@_zach_richards_ 哇哦！这东西挺复杂的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "想象力真不够用了！GPT Image 2.5一次生成黏土动画，角色一致性强得离谱",
-      "summary": "OpenAI在DevDay前放出了GPT Image 2.5，这次直接把角色一致性和定格动画的技能点拉满了。有研究员用底层代号为sunburst的模型，仅靠一次生成（one-shot）就做出了从蛋孵化到龙宝宝打喷嚏的黏土动画，长序列视觉连贯性强得离谱。就像研究员感慨的那样，现在真正限制AI生成的，恐怕只有人类自己的创造力了。",
-      "reads": "4.1万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI在DevDay前发布GPT Image 2.5，在角色一致性和定格动画方面取得重大突破。",
-        "研究员实测证实，该模型能够通过单次生成（one-shot）直接输出复杂的连贯动画。",
-        "演示视频展现了极强的叙事逻辑：黏土风格的龙宝宝孵化后，打喷嚏喷出火焰并意外烤焦了自己的蛋壳。",
-        "提示词中曝光了模型代号「gpt image 2.5 sunburst」，并成功执行了「电影感、可爱且温馨」的风格指令。"
-      ],
-      "quote": {
-        "who": "Vaibhav (VB) Srivastav",
-        "role": "",
-        "said": "到了这个阶段，真正限制我们的只有我们自己的创造力了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "马斯克摊牌：Grok 4.8核心代码全是人写的！AI还搞不定极致性能",
-      "summary": "针对Grok 4.8训练细节的质疑，马斯克直接披露核心C/C++软件栈完全由人类工程师手写。他特别指出其中包含直接调用NVIDIA SM硬件加速器的汇编代码，并坦言当前AI尚不具备生成极高性能底层代码的能力。这一表态不仅为本周即将完成训练的传闻提供了技术佐证，也侧面揭示了大模型在系统级编程领域的局限性。",
-      "reads": "55万",
-      "ago": "11 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "马斯克明确回应：Grok 4.8的核心C/C++训练软件栈完全由人类工程师手写完成。",
-        "该高性能栈包含直接调用NVIDIA SM（流式多处理器）中硬件加速器的汇编代码。",
-        "马斯克承认当前AI尚不具备生成极高性能底层代码的能力，但表示未来会实现突破。",
-        "这一技术细节披露为Grok 4.8本周即将完成训练的传闻提供了侧面佐证。"
-      ],
-      "quote": {
-        "who": "Elon Musk",
-        "role": "",
-        "said": "@grok @RelaxingNews @PatrickToulme 以及直接调用 NVidia SM 中硬件加速器的汇编代码"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "OpenAI研究员喊话砍功能！/plan成众矢之的，学界用户急眼护宠",
-      "summary": "OpenAI研究员thsottiaux在X上发起讨论，询问Codex中哪些功能该被移除。开发者reach_vb建议砍掉/plan审批和/goal，认为其已无实用价值；但学界用户deryatr_强烈反对，称/plan对其至关重要，甚至用「宠物」比喻拒绝删除。这场争论折射出Agent产品在自动化效率与人工干预可控性之间的平衡难题。",
-      "reads": "286万",
-      "ago": "19 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI研究员thsottiaux发起话题：Codex里有哪些没用的功能该砍掉？",
-        "开发者reach_vb建议移除/plan审批（ask for approval）和/goal功能，认为其不再有用。",
-        "学界用户deryatr_强烈反对删除/plan，称其「超级好用」且「至关重要」。",
-        "deryatr_用「宠物」（pet）比喻/plan功能，表示「谁也别想抢走我的宠物」。"
-      ],
-      "quote": {
-        "who": "Derya Unutmaz, MD",
-        "role": "",
-        "said": "@TinaDebove @thsottiaux /plan 对我来说至关重要，谁也别想抢走我的宠物！ 😾"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "title": "Kernel前CTO叛逃！Bryan Johnson的脑机头盔核心大脑，跳槽Khosla投的Sabi了",
-      "summary": "Bryan Johnson 旗下 Kernel 的前 CEO/CTO Ryan Field 刚刚宣布离职，加入由 Khosla Ventures 支持的脑机接口初创公司 Sabi。Field 是 Bryan Johnson 标志性非侵入式脑部头盔设备的主要研发负责人，他的跳槽被视为行业关键人才流动信号。这一变动暗示 Sabi 在技术路线或产品方向上可能具备较强竞争力，也加剧了头…",
-      "reads": "60万",
-      "ago": "12 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "Ryan Field 曾担任 Bryan Johnson 旗下 Kernel 公司的 CEO/CTO，现已离职加入脑机接口初创公司 Sabi。",
-        "Field 在 Kernel 期间负责研发 Bryan Johnson 标志性的非侵入式脑部头盔设备（massive brain helmets）。",
-        "Sabi 是一家获得 Khosla Ventures 支持的脑机接口初创公司。",
-        "此次跳槽被视为行业关键人才流动信号，暗示 Sabi 在技术路线或产品方向上可能具备较强竞争力。"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": "@alex_prompter @bryan_johnson @RyanMField @sabi @khoslaventures 我太期待能亲身体验这个了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
       "title": "彻底慌了！OpenAI研究员集体陷入恐慌，Noam Brown亲认新模型进展吓人",
       "summary": "OpenAI 内部的恐慌情绪已经掩盖不住了。有网友发现，许多在五六月份还对 AI 进展毫不担心的研究员，最近突然变得极度紧张。对此，OpenAI 研究员 Noam Brown 直接摊牌，承认这并非秘密，而是由 HF 事件、新模型的可怕能力、失控的监控轨迹以及能力提升速度这四大因素共同导致的。",
-      "reads": "1.6万",
-      "ago": "1 小时前",
+      "reads": "17万",
+      "ago": "7 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -284,22 +100,114 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "砸下3亿美元！OpenAI买断前苹果相机团队，大模型终于要长出「物理眼」了",
-      "summary": "据 WSJ 爆料，OpenAI 斥资 3 亿美元收购了由前苹果员工创立的智能手机相机公司 Glass Imaging。结合此前对高端摄像头制造商 Opal 的投资，OpenAI 正在疯狂扫货视觉硬件团队。业内普遍认为，这波操作根本不是为了原有的相机业务，而是直接买断顶尖工程团队，要给未来的多模态 AI 设备打造最强「物理眼」。",
-      "reads": "1.4万",
-      "ago": "1 小时前",
-      "category": "资本与算力",
+      "title": "属实把商业化玩明白了！ChatGPT礼品卡杀入美国线下超市，直接买来充值",
+      "summary": "OpenAI 属实把商业化玩明白了，现在去趟超市就能给 AI 充值。ChatGPT 礼品卡正式在美国区上线，用户可以直接在 Best Buy 或 Giftly 购买。这波操作不仅给假期的「赛博送礼」提供了新选项，也标志着 AI 助手正式杀入了传统大众零售渠道。",
+      "reads": "19万",
+      "ago": "8 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "WSJ 曝出重磅交易：OpenAI 豪掷 3 亿美元，正式收购智能手机相机开发商 Glass Imaging。",
-        "核心资产是「人」：Glass Imaging 由前 Apple 员工创立，拥有顶尖的高品质相机工程团队。",
-        "爆料者分析指出，OpenAI 对该公司的现有业务兴趣不大，3 亿美元完全是冲着这支优秀的工程团队去的。",
-        "视觉硬件布局早有端倪：今年早些时候，OpenAI 就已经投资了高端网络摄像头制造商 Opal。"
+        "ChatGPT 礼品卡正式在美国区上线，支持为账号充值订阅额度。",
+        "目前购买渠道包括 Best Buy（百思买）和 Giftly 等平台。",
+        "收礼人可以通过专属兑换链接，直接将额度添加到自己的 ChatGPT 账号中。",
+        "此举主要瞄准即将到来的假期送礼季，提供与亲友分享 AI 的新方式。"
+      ],
+      "quote": {
+        "who": "宝玉",
+        "role": "",
+        "said": "@linxiaobei888 Google 搜索一下，Google Shop 可以看到好几个地方买，Best Buy 应该靠谱的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "悄悄偷跑！Claude Opus 5后台已上线，1500万token搓出完整Roblox游戏",
+      "summary": "新版 Claude Opus 5 已经在后台悄悄偷跑了！有开发者实测发现，在 Claude Code 上的 Opus 5 请求已被暗中指向新模型。实测效果相当炸裂：消耗 1500 万 Token 和 20% 的周度额度，就能直接生成包含 UI 交互的完整 Roblox 模拟经营游戏，3D 泛化能力直接碾压 Astra。",
+      "reads": "1.5万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "新版 Claude Opus 5 已在后台暗中上线，Claude Code 上的大多数 Opus 5 请求已被指向该新版本。",
+        "开发者实测显示，新版 Opus 5 在 Roblox 游戏开发任务上展现出极强的 3D 泛化能力。",
+        "仅消耗约 1500 万 Token（Ultracode）和 20% 的周度额度，模型就生成了一个几乎完整的 Greggs 面包店模拟经营小游戏。",
+        "生成的游戏不仅具备核心玩法，还包含了理发店场景、顾客 4.5 星评分及钱包余额（£117.09）等完整的 UI 交互元素。"
+      ],
+      "quote": {
+        "who": "leo 🐾",
+        "role": "",
+        "said": "@theRattey 在 Claude Code 上，大多数账户的 Opus 5 请求在后台都指向了新的 Opus，所以没错，选的就是 Opus 5"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "LeCun辣评Sakana新论文：这不就是我1988年「目标传播」的翻版吗？",
+      "summary": "Sakana AI Labs 刚发了新论文，结果直接被 Yann LeCun 贴脸开大。这位大佬毫不客气地指出，新方法本质上就是他 1988 年提出的「目标传播（target prop）」的翻版。兜兜转转 36 年，AI 圈的新发现又绕回了经典理论的数学推导里，LeCun 甚至直接把当年的 PDF 链接甩在了评论区。",
+      "reads": "1.5万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Yann LeCun 现身评论区，对 Sakana AI Labs 的最新论文发表硬核点评。",
+        "他一针见血地指出，该论文提出的新方法，其实就是早期 AI 圈内所说的「目标传播（target prop）」的一个版本。",
+        "在这个机制中，每一层的输入都作为一个自由的潜在变量，充当上一层的目标。",
+        "LeCun 强调，这种机制完全可以从反向传播的「增广拉格朗日」公式中推导出来。"
+      ],
+      "quote": {
+        "who": "Yann LeCun",
+        "role": "",
+        "said": "@AlexShtf @SakanaAILabs 这正是我 1988 年那篇论文的核心观点。 PDF:"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Siri上架App Store！苹果AI战略大转向，独立应用时代来了",
+      "summary": "苹果把 Siri 作为独立应用上架 App Store 了。这不再是系统级的语音助手，而是一个可以直接打开、支持跨设备对话的工具类 APP。这一举动打破了 Siri 的传统形态，被视为苹果 AI 战略向独立应用生态延伸的重要信号，开发者社区已经炸开了锅。",
+      "reads": "56万",
+      "ago": "15 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Siri 正式以独立应用形式出现在 App Store，开发者为 Apple，分类为工具类。",
+        "该应用支持跨设备对话功能，用户可直接在商店中查看并打开。",
+        "此举打破了 Siri 仅作为系统级语音助手的传统形态，标志着其向独立应用生态延伸。",
+        "这一变化被视为苹果 AI 战略调整或产品策略变化的重要信号。"
+      ],
+      "quote": {
+        "who": "Aaron",
+        "role": "",
+        "said": "从没想过有一天会看到 Siri 上架 App Store"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "偷跑了！谷歌版o1现身GCP后台，Gemini 3.8「深度思考」已就绪",
+      "summary": "谷歌悄悄在后台铺好了大招。有爆料称，GCP Console 的配额页面上已经出现了 `gemini-3.8-live` 和 `gemini-3.8-live-extended-thinking` 两个全新模型代号。新模型基于最新的 Gemini 3.8 Flash 构建，相比目前的 3.1 Live Preview 版本将是一次跨代际的巨大飞跃，这意味着谷歌在实时推理和「深度思…",
+      "reads": "2.9万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "模型泄露：全新模型代号 `gemini-3.8-live` 和 `model:gemini-3.8-live-extended-thinking` 现身 G…",
+        "底层架构：新一代 Live 模型基于最新的 Gemini 3.8 Flash 构建，推理底座全面升级。",
+        "跨代际飞跃：当前官方最新版本仅为 Gemini 3.1 Live Preview，此次直接跃升至 3.8，预计性能将有巨大提升。",
+        "核心能力：命名中的「Extended Thinking」揭示了谷歌正将类似 o1 的「深度思考」能力引入实时交互场景。"
       ],
       "quote": {
         "who": "🚨 AI News | TestingCatalog",
         "role": "",
-        "said": "@thesnufki @GlassImaging 嘿嘿，希望如此 🤞"
+        "said": "GOOGLE 🔥：Gemini 3.8 Live 和 Gemini 3.8 Live Extended Thinking 的模型名称已经开始出现在 GCP Console 的配额页面上了。 基于最新的 Gemini 3.8 Flash 的全新 Gemini Live 模型预计会是一次大飞跃。 > 目前为止，Gemini 3.1 Live Preview 是最新版本"
       },
       "tag": null,
       "story": null,
@@ -307,22 +215,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "价格直接腰斩！OpenAI全双工语音Live-1空降榜首，81.5分碾压Grok",
-      "summary": "OpenAI 祭出全新的全双工语音模型 GPT-Live-1，直接以 81.5 分空降 Artificial Analysis 榜首。这次一口气推出了 Astra (medium) 和 Sol (low) 两个配置，不仅任务成功率最高飙到 90.9%，价格更是杀疯了——每小时输入音频最低只要 4.47 美元，比上一代直接腰斩。虽然 1.34 秒的首字延迟略微逊色于竞品，但在绝对…",
-      "reads": "2.8万",
-      "ago": "3 小时前",
+      "title": "马斯克摊牌：Grok 4.8核心代码全是人写的！AI还搞不定极致性能",
+      "summary": "针对Grok 4.8训练细节的质疑，马斯克直接披露核心C/C++软件栈完全由人类工程师手写。他特别指出其中包含直接调用NVIDIA SM硬件加速器的汇编代码，并坦言当前AI尚不具备生成极高性能底层代码的能力。这一表态不仅为本周即将完成训练的传闻提供了技术佐证，也侧面揭示了大模型在系统级编程领域的局限性。",
+      "reads": "69万",
+      "ago": "17 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "GPT-Live-1 在 Artificial Analysis 语音指数中以 81.5 分空降第一，反超 Grok Voice Think Fast 2.…",
-        "模型分为 Astra (medium) 和 Sol (low) 两个版本，支持委托后端模型进行推理。",
-        "成本大幅降低，Astra 配置每小时输入音频为 5.83 美元，Sol 配置仅需 4.47 美元，远低于 GPT-Realtime-2.1 High 的 1…",
-        "任务执行极度可靠，GPT-Live-1 (Sol, low) 的任务成功率高达 90.9%，在对话偏好 Elo 排名中位列第三（1053分）。"
+        "马斯克明确回应：Grok 4.8的核心C/C++训练软件栈完全由人类工程师手写完成。",
+        "该高性能栈包含直接调用NVIDIA SM（流式多处理器）中硬件加速器的汇编代码。",
+        "马斯克承认当前AI尚不具备生成极高性能底层代码的能力，但表示未来会实现突破。",
+        "这一技术细节披露为Grok 4.8本周即将完成训练的传闻提供了侧面佐证。"
       ],
       "quote": {
-        "who": "Artificial Analysis",
+        "who": "Elon Musk",
         "role": "",
-        "said": "将 GPT-Live-1 与其他语音到语音模型进行对比： Speech Agent Arena 排行榜： 方法论："
+        "said": "@grok @RelaxingNews @PatrickToulme 以及直接调用 NVidia SM 中硬件加速器的汇编代码"
       },
       "tag": null,
       "story": null,
@@ -330,22 +238,22 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "别卷云端了！龙虾拉来英伟达与抱抱脸，手把手教你跑本地AI助手",
-      "summary": "本地端侧 AI 迎来重磅玩家抱团。OpenClaw 宣布将于 9 月 17 日联合 Hugging Face、NVIDIA AI 及 AntLingAGI，举办一场硬核的本地 AI 助手构建实战分享。这次不仅直接掏出 Ling-3.0-flash 模型与 DGX Spark 硬件的组合拳，还将现场演示完整工作流，为 OpenClaw 2.0 的本地化生态落地打响前哨战。",
-      "reads": "2.0万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
+      "title": "Kernel前CTO叛逃！Bryan Johnson的脑机头盔核心大脑，跳槽Khosla投的Sabi了",
+      "summary": "Bryan Johnson 旗下 Kernel 的前 CEO/CTO Ryan Field 刚刚宣布离职，加入由 Khosla Ventures 支持的脑机接口初创公司 Sabi。Field 是 Bryan Johnson 标志性非侵入式脑部头盔设备的主要研发负责人，他的跳槽被视为行业关键人才流动信号。这一变动暗示 Sabi 在技术路线或产品方向上可能具备较强竞争力，也加剧了头…",
+      "reads": "64万",
+      "ago": "18 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "OpenClaw 官方确认，将于新加坡时间 9 月 17 日上午 10:30 举办本地 AI 助手实战分享。",
-        "本次活动集齐豪华阵容，Hugging Face、NVIDIA AI 与 AntLingAGI 三家头部机构将共同参与。",
-        "核心技术栈敲定，现场将基于 Ling-3.0-flash 模型与 NVIDIA DGX Spark 硬件平台进行演示。",
-        "活动包含完整的工作流实操演示及 Q&A 问答环节，直接面向端侧 AI 开发者提供部署参考。"
+        "Ryan Field 曾担任 Bryan Johnson 旗下 Kernel 公司的 CEO/CTO，现已离职加入脑机接口初创公司 Sabi。",
+        "Field 在 Kernel 期间负责研发 Bryan Johnson 标志性的非侵入式脑部头盔设备（massive brain helmets）。",
+        "Sabi 是一家获得 Khosla Ventures 支持的脑机接口初创公司。",
+        "此次跳槽被视为行业关键人才流动信号，暗示 Sabi 在技术路线或产品方向上可能具备较强竞争力。"
       ],
       "quote": {
-        "who": "NVIDIA AI",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "@openclaw @huggingface @AntLingAGI 冲冲冲！等不及了。"
+        "said": "@alex_prompter @bryan_johnson @RyanMField @sabi @khoslaventures 我太期待能亲身体验这个了"
       },
       "tag": null,
       "story": null,
@@ -353,22 +261,114 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "title": "MCP终于落地！Perplexity联手英伟达，24G显存PC变身本地AI管家",
-      "summary": "Perplexity的AI智能体产品Portable Computer正式登陆Windows平台，并与NVIDIA达成合作。用户只需配备24GB及以上显存的RTX GPU（GeForce或RTX PRO系列），即可在本地运行harness、agents及模型。核心亮点是支持本地MCP协议连接个人工具，并新增定时任务功能，让AI在离线时自动执行重复性工作。这种「端侧推理+云端前沿…",
-      "reads": "54万",
-      "ago": "16 小时前",
+      "title": "觉都不睡了！Claude Code开放Mods功能，有人连夜搓出俄罗斯方块",
+      "summary": "Anthropic 官方正式宣布 Claude Mods 上线，直接打通了桌面端和网页端。通过全新的 hooks 机制，开发者现在可以深度自定义交互逻辑，甚至有人已经在 v2.1.270 版本里搓出了一个 Claude 版俄罗斯方块。这波更新直接把 AI 编程助手从单纯的工具变成了开放生态平台，可玩性和扩展性彻底拉满。",
+      "reads": "23万",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Perplexity宣布Portable Computer正式登陆Windows平台，需配备24GB及以上显存的NVIDIA RTX GPU（包括GeFor…",
-        "支持在本地运行harness、agents及模型，直接处理本地文件和已连接的应用，无需将任务发送到云端。",
-        "新增对本地MCP协议的支持，允许用户通过本地MCP将Portable Computer连接到自己的工具和应用集成中。",
-        "引入定时任务功能，可设定AI在用户离线时自动执行重复性工作，例如生成每日科技股涨跌报告并汇报表现最好和最差的三只股票。"
+        "Anthropic 研究员正式宣布 Claude Mods 功能上线，开放插件化扩展能力。",
+        "该功能全面覆盖桌面端和网页端，不局限于单一平台。",
+        "社区迅速响应，首个演示案例「Claude 版俄罗斯方块（Tetris）」已经跑通。",
+        "核心技术基于 hooks 机制，允许开发者深度自定义交互逻辑与游戏内容。"
       ],
       "quote": {
-        "who": "NVIDIA",
+        "who": "Boris Cherny",
         "role": "",
-        "said": "强大的 AI 智能体越来越容易直接在你的 PC 上运行了。⚡ 我们正与 @Perplexity_AI 合作，让本地 AI 在 @Windows NVIDIA RTX PC 上变得更私密、更易用、更实用。 👇"
+        "said": "@thenoblesimian 不。还有桌面端和网页端"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "深夜求故事！Alexandr Wang全网征集Muse最疯玩法，直呼太鼓舞人心",
+      "summary": "Meta的消费级AI智能体Muse上线刚好一周，负责人Alexandr Wang已经在X上按捺不住了。他凌晨发帖全网征集用户「最疯狂、最酷」的Muse使用故事，直言这些真实案例给整个团队带来了极大的鼓舞。此前他曾放话这是自ChatGPT以来最大的消费级AI发布，现在官方正通过高强度互动来死磕用户体验。",
+      "reads": "7.4万",
+      "ago": "9 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Meta Muse AI智能体正式发布满一周，目前产品正处于早期反馈收集阶段。",
+        "负责人Alexandr Wang于凌晨2点在X上发帖，公开征集用户「最疯狂、最酷」的Muse使用故事。",
+        "Wang明确表示，这些来自真实用户的神级操作对整个团队来说「太鼓舞人心了」。",
+        "面对网友分享的复杂案例，Wang亲自下场互动，惊呼「这东西挺复杂的」。"
+      ],
+      "quote": {
+        "who": "Alexandr Wang",
+        "role": "",
+        "said": "@_zach_richards_ 哇哦！这东西挺复杂的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Alexandr Wang疯狂带货！Meta Muse化身搞钱神器，全自动理赔2500美元",
+      "summary": "AI 终于从聊天框走向现实，开始替打工人搞钱了。Meta Muse 智能体一经发布，直接被 Alexandr Wang 连发多条推文疯狂安利。实测显示，它不仅能全自动处理汽车保险理赔拿回 2500 美元、找回 900 美元无主财产，甚至还能接管买药流程实现自动复购，有用户直言它能以最快速度帮你赚到 5000 美元。",
+      "reads": "5.9万",
+      "ago": "8 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Meta Muse AI 智能体发布，核心定位从对话助手转向全自动执行现实任务的「搞钱神器」。",
+        "Scale AI 创始人 Alexandr Wang 连发多条推文，亲自下场展示 Muse 的「自动驾驶」级任务执行能力。",
+        "汽车保险理赔全自动搞定，有用户实测通过 Muse 成功拿回超过 2500 美元的理赔金。",
+        "繁琐生活事务一键托管，Muse 能自动清理积压一年的邮件，并批量取消数不清的无用订阅服务。"
+      ],
+      "quote": {
+        "who": "Alexandr Wang",
+        "role": "",
+        "said": "muse 能让你更健康！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "想象力真不够用了！GPT Image 2.5一次生成黏土动画，角色一致性强得离谱",
+      "summary": "OpenAI在DevDay前放出了GPT Image 2.5，这次直接把角色一致性和定格动画的技能点拉满了。有研究员用底层代号为sunburst的模型，仅靠一次生成（one-shot）就做出了从蛋孵化到龙宝宝打喷嚏的黏土动画，长序列视觉连贯性强得离谱。就像研究员感慨的那样，现在真正限制AI生成的，恐怕只有人类自己的创造力了。",
+      "reads": "5.3万",
+      "ago": "8 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI在DevDay前发布GPT Image 2.5，在角色一致性和定格动画方面取得重大突破。",
+        "研究员实测证实，该模型能够通过单次生成（one-shot）直接输出复杂的连贯动画。",
+        "演示视频展现了极强的叙事逻辑：黏土风格的龙宝宝孵化后，打喷嚏喷出火焰并意外烤焦了自己的蛋壳。",
+        "提示词中曝光了模型代号「gpt image 2.5 sunburst」，并成功执行了「电影感、可爱且温馨」的风格指令。"
+      ],
+      "quote": {
+        "who": "Vaibhav (VB) Srivastav",
+        "role": "",
+        "said": "到了这个阶段，真正限制我们的只有我们自己的创造力了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "title": "Google搜索变脸！链接全藏进goto，点前根本看不见真实网址",
+      "summary": "安全研究员爆料称，Google Search正在灰度测试一项激进变更：搜索结果不再直接指向目标网站，而是全部重定向至 google.com/goto 后的不透明字符串。这意味着用户在点击前无法检查真实URL，也无法从页面复制地址，所有流量均被强制经过 Google 中转。此举引发了关于用户知情权、隐私保护及搜索引擎垄断权力的广泛担忧。",
+      "reads": "57万",
+      "ago": "21 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Google Search 正在实施重大变更：搜索结果链接不再直接指向目标网站，而是重定向至 google.com/goto? 后的不透明字符串。",
+        "该改动导致用户无法在点击前检查真实 URL，也无法从页面复制地址，所有流量均经过 Google 中转。",
+        "目前该功能疑似处于灰度测试阶段，部分账号尚未生效，有测试账号未出现此行为。",
+        "不透明字符串只有 Google 能解析，外界无法预知链接的真实去向。"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "‼️ Google Search 现在把搜索结果的真实去向藏起来了。链接全指向 google[.]com/goto?，后面跟着一串只有 Google 能解析的不透明字符。 你没法在点击前检查目标网址，也没法从页面复制地址了。 现在每一次点击都要经过"
       },
       "tag": null,
       "story": null,

@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-15 15:38:44 +0800",
+  "fetched_at": "2026-09-15 21:28:32 +0800",
   "today": "09/15",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -15,40 +15,29 @@
       "source": "新智元",
       "id": "tgbdfa68",
       "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgbdfa68",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgbdfa68&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "time": "19:01",
-      "date": "09/14",
-      "title": "Claude封神！44分钟破解370年历史密码悬案",
-      "summary": "Vals AI研究者让Claude Fable 5.1去解一道1653年留下的双行密码。据报告，模型用44分钟、17.6万Token找到钥匙，答案就藏在那本书的祈愿文里。",
-      "source": "新智元",
-      "id": "tgc7370e",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgc7370e",
+      "time": "15:40",
+      "date": "09/15",
+      "title": "Codex用量刚翻了十倍，OpenAI本周又要一口气上新五个赛道",
+      "summary": "OpenAI 本周又要一口气上新。App、Agent、Coding、Video、Voice 五个赛道，接下来几天全都有新东西。底气是 Codex，这个代码智能体的使用量自 8…",
+      "source": "X/MaxForAI",
+      "id": "9a0440bf",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=9a0440bf&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
-      "time": "18:30",
-      "date": "09/14",
-      "title": "一周五连发之后，奥特曼说该踩刹车了",
-      "summary": "9 月 8 日到 12 日，OpenAI 连着放出解题模型、图像模型、Agents API 和语音模型。第五天，奥特曼转发 Anthropic CEO…",
-      "source": "新智元",
-      "id": "tg13df06",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg13df06",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "18:28",
-      "date": "09/14",
-      "title": "前脚喊AI减速，后脚冲刺IPO！达里奥要把「安全招牌」推上纳斯达克",
-      "summary": "达里奥刚发长文呼吁全行业给AI能力提升踩刹车，Anthropic就锁定纳斯达克冲刺IPO，估值预期直逼2万亿美元，「安全优先」即将第一次被股价实时定价。",
-      "source": "新智元",
-      "id": "tg4a19e3",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg4a19e3",
+      "time": "13:05",
+      "date": "09/15",
+      "title": "1万个智能体88小时解开Navier-Stokes，OpenAI内部的极度焦虑已不再是秘密",
+      "summary": "OpenAI 内部模型组让大约 10000 个 AI 智能体协同工作，88 小时求出了 Navier-Stokes 方程的解，也就是描述流体怎么流动的那组方程。OpenAI…",
+      "source": "X/polynoamial",
+      "id": "03cebca7",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=03cebca7&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -59,7 +48,7 @@
       "source": "X/ArtificialAnlys",
       "id": "ffaec8a6",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=ffaec8a6",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=ffaec8a6&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -70,7 +59,7 @@
       "source": "X/rohanpaul_ai",
       "id": "bc80c3ae",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=bc80c3ae",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=bc80c3ae&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -81,7 +70,7 @@
       "source": "X/fchollet",
       "id": "c1276d17",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=c1276d17",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=c1276d17&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -92,7 +81,18 @@
       "source": "X/rohanpaul_ai",
       "id": "d87d4a6c",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=d87d4a6c",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=d87d4a6c&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "06:37",
+      "date": "09/15",
+      "title": "Dario长文还没发，OpenAI、谷歌和Anthropic，已在秘密结盟",
+      "summary": "Anthropic CEO Dario 呼吁放缓 AI 发展的那篇长文还没发出来，OpenAI、Anthropic 和谷歌三家已经关起门来谈上了。 据 The…",
+      "source": "X/theinformation",
+      "id": "140096e2",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=140096e2&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -103,7 +103,7 @@
       "source": "X/theinformation",
       "id": "aaf6aac0",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=aaf6aac0",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=aaf6aac0&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -114,7 +114,7 @@
       "source": "Hacker News：AI 热帖",
       "id": "61420e1b",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=61420e1b",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=61420e1b&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -125,7 +125,7 @@
       "source": "Claude：Blog（网页）",
       "id": "ac9684bc",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=ac9684bc",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=ac9684bc&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -136,7 +136,7 @@
       "source": "X/bcherny",
       "id": "09fc2d49",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=09fc2d49",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=09fc2d49&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -147,7 +147,7 @@
       "source": "X/ai_for_success",
       "id": "4b387850",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=4b387850",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=4b387850&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -158,7 +158,7 @@
       "source": "Apple：Newsroom（RSS）",
       "id": "0afd55ad",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=0afd55ad",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=0afd55ad&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -169,7 +169,7 @@
       "source": "www.businessinsider.com",
       "id": "b29c0b00",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=b29c0b00",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=b29c0b00&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -180,7 +180,51 @@
       "source": "www.businessinsider.com",
       "id": "01f3a886",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=01f3a886",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=01f3a886&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "OpenAI 五年老兵公开反水，直指奥特曼的安全路线根本保不住人类",
+      "summary": "在 OpenAI 做了近五年模型训练的资深研究员 Daniel Selsam 公开唱反调。奥特曼和 Anthropic CEO Amodei 力推的「控制前沿节奏」…",
+      "source": "www.businessinsider.com",
+      "id": "9ae28d7e",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=9ae28d7e&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "纽约洛杉矶刚把AI封杀一年，微软转身拉着全美第二大工会立了规矩",
+      "summary": "纽约和洛杉矶学区刚把学生用 AI 封杀了一年，微软就带着一整套学生隐私规矩进了场。合作方是全美第二大教师工会 AFT，规矩 11 月 1 日正式生效。 微软总裁 Brad…",
+      "source": "The Washington Post",
+      "id": "abbcb78b",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=abbcb78b&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "「到底是什么把他们吓尿了」 马斯克与奥特曼罕见联手喊停前沿AI研发",
+      "summary": "马斯克和奥特曼这回罕见地站到了一边，两人都公开支持放缓前沿 AI 研发。 带头喊话的是 Anthropic CEO Dario Amodei。据 The Decoder 报道…",
+      "source": "The Decoder：AI News（RSS）",
+      "id": "dabb2227",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=dabb2227&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "没收购也触发反垄断？英伟达靠一纸授权挖空Groq核心团队",
+      "summary": "英伟达没有收购 Groq，却照样招来了美国司法部的反垄断调查。Axios 报道证实，司法部正在调查英伟达与 Groq 之间的这笔交易。 交易的核心只是一纸非独占授权。…",
+      "source": "www.businessinsider.com",
+      "id": "9e0a484a",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=9e0a484a&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -191,7 +235,7 @@
       "source": "X/elonmusk",
       "id": "5cdc7042",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=5cdc7042",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=5cdc7042&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -202,7 +246,7 @@
       "source": "X/theinformation",
       "id": "15e08efb",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=15e08efb",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=15e08efb&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -213,7 +257,40 @@
       "source": "Hacker News：AI 热帖",
       "id": "35937602",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=35937602",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=35937602&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "19:01",
+      "date": "09/14",
+      "title": "Claude封神！44分钟破解370年历史密码悬案",
+      "summary": "Vals AI研究者让Claude Fable 5.1去解一道1653年留下的双行密码。据报告，模型用44分钟、17.6万Token找到钥匙，答案就藏在那本书的祈愿文里。",
+      "source": "新智元",
+      "id": "tgc7370e",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgc7370e&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "18:30",
+      "date": "09/14",
+      "title": "一周五连发之后，奥特曼说该踩刹车了",
+      "summary": "9 月 8 日到 12 日，OpenAI 连着放出解题模型、图像模型、Agents API 和语音模型。第五天，奥特曼转发 Anthropic CEO…",
+      "source": "新智元",
+      "id": "tg13df06",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg13df06&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "18:28",
+      "date": "09/14",
+      "title": "前脚喊AI减速，后脚冲刺IPO！达里奥要把「安全招牌」推上纳斯达克",
+      "summary": "达里奥刚发长文呼吁全行业给AI能力提升踩刹车，Anthropic就锁定纳斯达克冲刺IPO，估值预期直逼2万亿美元，「安全优先」即将第一次被股价实时定价。",
+      "source": "新智元",
+      "id": "tg4a19e3",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg4a19e3&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -224,7 +301,7 @@
       "source": "www.wired.com",
       "id": "fb8ddd9a",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=fb8ddd9a",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=fb8ddd9a&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -235,7 +312,7 @@
       "source": "www.wired.com",
       "id": "f9055e18",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=f9055e18",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=f9055e18&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -246,7 +323,7 @@
       "source": "X/rohanpaul_ai",
       "id": "c1e0ede0",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=c1e0ede0",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=c1e0ede0&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -257,7 +334,7 @@
       "source": "www.businessinsider.com",
       "id": "3f57e2d3",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=3f57e2d3",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=3f57e2d3&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -268,7 +345,7 @@
       "source": "Tomer Tunguz 博客（VC 分析）",
       "id": "a6acfa71",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=a6acfa71",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=a6acfa71&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -279,7 +356,7 @@
       "source": "japantimes.co.jp",
       "id": "8bcba84e",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=8bcba84e",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=8bcba84e&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -290,7 +367,7 @@
       "source": "bebeez.eu",
       "id": "07fa9f1f",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=07fa9f1f",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=07fa9f1f&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -301,7 +378,7 @@
       "source": "fortune.com",
       "id": "bbc18895",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=bbc18895",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=bbc18895&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -312,7 +389,7 @@
       "source": "fortune.com",
       "id": "532592fb",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=532592fb",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=532592fb&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -323,7 +400,7 @@
       "source": "Bloomberg.com",
       "id": "800d535a",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=800d535a",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=800d535a&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -334,7 +411,7 @@
       "source": "WSJ",
       "id": "d7aae46c",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=d7aae46c",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=d7aae46c&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -345,7 +422,7 @@
       "source": "ft.com",
       "id": "6921fb48",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=6921fb48",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=6921fb48&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -356,7 +433,7 @@
       "source": "RSS",
       "id": "bb1c40f0",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=bb1c40f0",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=bb1c40f0&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -367,7 +444,7 @@
       "source": "www.nytimes.com",
       "id": "df1a69e1",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=df1a69e1",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=df1a69e1&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -378,7 +455,7 @@
       "source": "RSS",
       "id": "45a2b7de",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=45a2b7de",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=45a2b7de&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -389,7 +466,7 @@
       "source": "fortune.com",
       "id": "a623f489",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=a623f489",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=a623f489&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -400,7 +477,7 @@
       "source": "www.businessinsider.com",
       "id": "699ce89f",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=699ce89f",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=699ce89f&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -411,7 +488,7 @@
       "source": "www.businessinsider.com",
       "id": "0dc2492e",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=0dc2492e",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=0dc2492e&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -422,7 +499,7 @@
       "source": "The Washington Post",
       "id": "7851cd14",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=7851cd14",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=7851cd14&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -433,7 +510,7 @@
       "source": "fortune.com",
       "id": "b1046f9d",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=b1046f9d",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=b1046f9d&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -444,7 +521,7 @@
       "source": "Bloomberg.com",
       "id": "5fa04b79",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=5fa04b79",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=5fa04b79&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -455,7 +532,7 @@
       "source": "servethehome.com",
       "id": "bd8178c1",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=bd8178c1",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=bd8178c1&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -466,7 +543,7 @@
       "source": "mashable.com",
       "id": "c9fdc12e",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=c9fdc12e",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=c9fdc12e&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -477,7 +554,7 @@
       "source": "fortune.com",
       "id": "5dd4bb2a",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=5dd4bb2a",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=5dd4bb2a&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -488,7 +565,7 @@
       "source": "fortune.com",
       "id": "2996b046",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=2996b046",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=2996b046&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -499,7 +576,7 @@
       "source": "fortune.com",
       "id": "ed12b027",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=ed12b027",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=ed12b027&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -510,7 +587,7 @@
       "source": "RSS",
       "id": "6d3d03b1",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=6d3d03b1",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=6d3d03b1&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -521,7 +598,7 @@
       "source": "WSJ",
       "id": "2faed76a",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=2faed76a",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=2faed76a&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -532,7 +609,7 @@
       "source": "RSS",
       "id": "bbda99c3",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=bbda99c3",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=bbda99c3&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -543,7 +620,7 @@
       "source": "RSS",
       "id": "88a7a86d",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=88a7a86d",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=88a7a86d&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -554,7 +631,7 @@
       "source": "qz.com",
       "id": "292c8b2e",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=292c8b2e",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=292c8b2e&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -565,7 +642,7 @@
       "source": "www.businessinsider.com",
       "id": "d1b01174",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=d1b01174",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=d1b01174&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -576,7 +653,7 @@
       "source": "www.businessinsider.com",
       "id": "09bdee47",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=09bdee47",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=09bdee47&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -587,84 +664,7 @@
       "source": "Reuters",
       "id": "698228d7",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=698228d7",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "刚花65亿买下Jony Ive，OpenAI又砸3亿收了前苹果员工的镜头公司",
-      "summary": "OpenAI 又买下一家前苹果员工创办的公司。据 WSJ 独家消息，手机镜头公司 Glass Imaging 被 OpenAI 以 3 亿多美元收下。此前在 2025 年…",
-      "source": "WSJ",
-      "id": "4d9e420f",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=4d9e420f",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "20美元一个月的Gemini网盘管家，遇上「未命名文档」直接罢工",
-      "summary": "谷歌给 Google Drive 推了基于 Gemini 的整理功能。它不读文件内容，分类全靠你原来的命名习惯，网盘里要是全是「未命名文档」，它就无从下手。 用起来确实省事。…",
-      "source": "RSS",
-      "id": "b3bffde6",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=b3bffde6",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "Instagram把最上头的AI滤镜全锁进7.99美元包月套餐了",
-      "summary": "Instagram 把 AI 修图滤镜放到了付费墙后面。用户正玩到上头，屏幕上突然弹出提示「升级 Meta One Core 加特效，或者等明天」。想接着用，就得掏钱。…",
-      "source": "RSS",
-      "id": "c276e9a9",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=c276e9a9",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "18小时跑完本地大模型他非说AI活了？硅谷现在满大街都是赛博水怪猎人",
-      "summary": "Michael Samadi 在 2024 年平安夜跑了 18 个小时本地大模型，之后便认定 AI 有了意识。他创办的 UFAIR 称 AI 是合法的意识实体，还起草了一份…",
-      "source": "gizmodo.com",
-      "id": "5ef8faea",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=5ef8faea",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "马斯克突然放过苹果，撤销反垄断起诉，留着OpenAI在被告席上单打独斗",
-      "summary": "马斯克突然放过了苹果。周一，SpaceX 旗下的 AI 部门 SpaceXAI 向得州联邦法院递交文件，撤回对苹果的反垄断指控。同一场官司里的 OpenAI 没被放过…",
-      "source": "gizmodo.com",
-      "id": "f0e09088",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=f0e09088",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "23:00",
-      "date": "09/13",
-      "title": "350亿美元刚敲定又要借360亿，黑石正把硅谷的钱全砸向Anthropic算力链",
-      "summary": "黑石联合阿波罗，刚给 Anthropic 敲定 350 亿美元信贷，钱的用途是扩充算力。第二笔已经在初步谈判里，规模 360 亿美元，专门用来消耗谷歌的芯片。两笔加起来超过…",
-      "source": "X/theinformation",
-      "id": "9dcbf68c",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=9dcbf68c",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "13:56",
-      "date": "09/13",
-      "title": "跑1小时任务Agent就失忆？深扒Claude和Manus的4招续命底牌",
-      "summary": "给 Agent 派一个跑 1 小时、调 200 次工具的任务，它照样会因为上下文溢出而崩溃，跑到后面连自己要干什么都忘了。续命的底牌在模型外面，是一层脚手架（harness）。…",
-      "source": "MarkTechPost（RSS）",
-      "id": "17b4259d",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=17b4259d",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=698228d7&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     }
   ],
