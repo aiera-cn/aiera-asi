@@ -19,6 +19,7 @@
     python3 asi_fetch.py --stats             # 这个读者用了几次、追了什么 —— 读 me.json 的 log
     python3 asi_fetch.py --export            # 把存档打印出来(换机器时用)
     python3 asi_fetch.py --import 文件.json  # 把另一台机器的存档合并进来
+    python3 asi_fetch.py --report            # 内测反馈打包:用了几次 + 全部反馈,复制发给新智元
 
 默认只取 10 条:全量 60 条约 14K tokens,日常问答不需要那么多。
 """
@@ -243,7 +244,7 @@ def self_update():
 
 KNOWN = {"--feed", "--board", "--all", "--articles", "--search", "--oldest",
          "--from", "--to", "--limit", "--self-update",
-         "--feedback", "--stats", "--export", "--import"}
+         "--feedback", "--stats", "--export", "--import", "--report"}
 
 STATE_DIR = os.path.join(os.path.expanduser("~"), ".aiera-asi")
 STATE = os.path.join(STATE_DIR, "me.json")
@@ -287,6 +288,30 @@ def cmd_stats():
            "interests": len(st.get("interests", [])), "asked": len(st.get("asked", [])),
            "last_briefed": st.get("last_briefed"), "feedback_count": fb}
     print(json.dumps(out, ensure_ascii=False, indent=2))
+    return 0
+
+
+def cmd_report():
+    """C:内测反馈打包成一段文字。同事复制这段发给新智元,不用懂文件在哪。"""
+    st = _load_state() or {}
+    try:
+        fbs = [json.loads(l) for l in open(FEEDBACK, encoding="utf-8") if l.strip()]
+    except Exception:
+        fbs = []
+    try:
+        ver = json.load(open(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "manifest.json")))["version"]
+    except Exception:
+        ver = "?"
+    lines = [f"【元元内测反馈】v{ver} · {datetime.now(TZ_CST).strftime('%Y-%m-%d')}",
+             f"用了 {len(st.get('log', []))} 次 · 关注面 {'/'.join(st.get('focus') or []) or '未选'} · 追过 {len(st.get('interests', []))} 条线",
+             f"我是:{st.get('context') or '(元元没归纳出来)'}", ""]
+    if fbs:
+        lines.append(f"反馈 {len(fbs)} 条:")
+        for i, f in enumerate(fbs, 1):
+            lines.append(f"{i}. [{f.get('at','')}] {f.get('text','')}")
+    else:
+        lines.append("反馈:0 条(还没说过她哪里不对)")
+    print("\n".join(lines))
     return 0
 
 
@@ -349,6 +374,8 @@ def main():
         return cmd_stats()
     if "--export" in args:
         return cmd_export()
+    if "--report" in args:
+        return cmd_report()
     for flag, fn in (("--feedback", cmd_feedback), ("--import", cmd_import)):
         if flag in args:
             try:

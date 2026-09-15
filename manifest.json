@@ -1,7 +1,7 @@
 {
   "name": "aiera-asi",
-  "version": "0.8.1",
-  "whats_new": "A1 一次搜多个词(逗号分隔,合并去重);A2 读者说「这条不对」记进本机 feedback.jsonl,先记再接不辩解;A3 --stats 看他用了几次;A4 --export/--import 换机器搬存档;A5 零增量不搜;A6 卡片 label 放宽到 8 字。",
+  "version": "0.8.2",
+  "whats_new": "内测收集:收尾时轻问一句「有哪句不像我」,答了就记;--report 把用了几次和全部反馈打成一段文字,复制发给新智元就行。",
   "base": "https://raw.githubusercontent.com/aiera-cn/aiera-asi/main",
   "note": "v0.6 起走 GitHub 分发:安装/自更新/托管模式都从 base 取。官网 JSON 出口上线后再把 base 换成 aiera.com.cn。",
   "files": [
