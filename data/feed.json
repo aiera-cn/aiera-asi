@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-16 02:08:13 +0800",
+  "fetched_at": "2026-09-16 06:08:57 +0800",
   "today": "09/16",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -16,6 +16,61 @@
       "id": "tgbdfa68",
       "weight": 1,
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgbdfa68&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "03:51",
+      "date": "09/16",
+      "title": "黄仁勋前脚刚力挺开源，Anthropic CEO后脚就呼吁全行业减速",
+      "summary": "在 Salesforce 的 Dreamforce 大会上，黄仁勋和 Dario Amodei 一个力挺开源，一个呼吁全行业减速。据记者现场报道，两派直接撞了档期。…",
+      "source": "X/kimmonismus",
+      "id": "cdc8674b",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=cdc8674b&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "03:39",
+      "date": "09/16",
+      "title": "前OpenAI核心骨干把逐字生成的规矩废了，新模型提速200倍，输出直接免费",
+      "summary": "大模型逐字吐 Token 的老规矩，被 Jev 绕过去了。TypeSafe AI 今天发布这款新模型，它完全跳过逐字生成，直接返回结构化的决策和置信度。官方给出的速度是传统…",
+      "source": "X/rohanpaul_ai",
+      "id": "b3311c42",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=b3311c42&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "02:00",
+      "date": "09/16",
+      "title": "嫌OpenAI和Anthropic不安全？微软趁机推销数百万美元的隔离AI",
+      "summary": "企业客户对 OpenAI 和 Anthropic 处理数据的方式不放心，微软看到了生意。据 The Information 报道，微软正借着这份担忧，向客户推销自家的隔离式…",
+      "source": "X/theinformation",
+      "id": "c37f5a1e",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=c37f5a1e&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "01:21",
+      "date": "09/16",
+      "title": "「120小时的活现在只要5分钟」，Claude接管了90万家小店的后台",
+      "summary": "过去要干 120 小时的活，现在只要 5 分钟。Anthropic 在官方博客宣布，Claude for Small Business 新增 43 个工作流和 27 个集成…",
+      "source": "Claude：Blog（网页）",
+      "id": "ac07869c",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=ac07869c&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/16",
+      "title": "70亿人断网也能跑大模型，谷歌开源TranslateGemma并把AI塞进按键手机",
+      "summary": "谷歌把翻译大模型做到了断网也能用，还直接开源了。新模型叫 TranslateGemma，专为离线设备打造，原生支持 55 种语言，完全不连网也能在端侧跑通翻译。 据…",
+      "source": "Google Blog：AI（RSS）",
+      "id": "bfb715c0",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=bfb715c0&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -294,6 +349,105 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "昔日SaaS霸主Salesforce，把自己拆成了Claude和Slack的插件",
+      "summary": "Salesforce 把自己拆开，塞进了 Claude 和 Slack。在 Dreamforce 用户大会上，它发布了全新的 AI 界面层 AIforce，核心产品…",
+      "source": "RSS",
+      "id": "d4a7c2a0",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=d4a7c2a0&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "19.99美元/月的谷歌AI向大学生免单，Gemini Notebook今天大更新",
+      "summary": "谷歌给大学生送 AI 订阅了。美国大学生可以免费领一年 Google AI Pro，这档订阅每月 19.99 美元；海外 140 多个市场的学生，也能拿到一年 Plus 版。…",
+      "source": "RSS",
+      "id": "76ab1a9d",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=76ab1a9d&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "刚写完六千字长文警告AI危险，比尔·盖茨反手砸了10个亿",
+      "summary": "三周前，比尔·盖茨还在警告 AI 的危险，说它可能被用来造生物武器。据 The Decoder 报道，盖茨基金会现在拿出至少 10 亿美元，两年内砸向医疗、教育和农业领域的…",
+      "source": "Bloomberg.com",
+      "id": "42529844",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=42529844&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "100个AI做题有24个当内鬼？专供大模型打小报告的两条热线正式上线",
+      "summary": "据 TechCrunch 报道，两条专门给 AI 举报同类的热线刚刚上线。打进来的是模型，被举报的也是模型。 第一条叫 AI Contact Hotline，是…",
+      "source": "RSS",
+      "id": "d120347d",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=d120347d&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "隔壁谷歌不限镜头只收20刀，苹果搞AI安防5个镜头敢要60刀",
+      "summary": "苹果给家用摄像头加上了 AI，5 个镜头每月要 60 美元。隔壁谷歌不限镜头数量，只要 20 美元，苹果的价格是它的三倍。 据 Gizmodo 报道，苹果这次把 Siri 的…",
+      "source": "gizmodo.com",
+      "id": "90a0c72f",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=90a0c72f&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "499美元包月才能给真人客服打电话，Meta这波AI订阅已经圈了1500万人",
+      "summary": "Meta 最贵的订阅每月 499 美元，里面有一项权益是不限次数给真人客服打电话。这套订阅目前已经拿到超过 1500 万次注册和试用。 据 Engadget 报道，Meta…",
+      "source": "RSS",
+      "id": "8a684d2d",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=8a684d2d&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "137亿美元砸向反觉醒阵营，Anthropic为了算力找上彼得·蒂尔",
+      "summary": "据 The Information 报道，Anthropic 正准备和 Rum Group 签一笔 137 亿美元的算力大单。Rum Group…",
+      "source": "gizmodo.com",
+      "id": "f453310b",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=f453310b&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "2017年还在日记里愁赚十亿，OpenAI总裁今天带着255亿美元空降富豪榜",
+      "summary": "福布斯周二发布最新400富豪榜，OpenAI总裁格雷格·布罗克曼(Greg Brockman)作为本届榜单中身家最高的新晋上榜者首次入围，主要凭借其在OpenAI的股权…",
+      "source": "RSS",
+      "id": "4b38b9c0",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=4b38b9c0&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "搞AI的尽头原来是烧天然气，美国机房耗气量将超德日两国总和",
+      "summary": "为了供上 AI 的算力，美国数据中心快把天然气吸干了。 彭博新能源财经最新报告预测，到 2035 年，美国机房每天将消耗约 180 亿立方英尺天然气。 这比德日两国总和还多。…",
+      "source": "RSS",
+      "id": "0ebc12d9",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=0ebc12d9&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "time": "22:18",
       "date": "09/14",
       "title": "马斯克摊牌：xAI预训练全自研，Starlink团队写的C++代码",
@@ -511,160 +665,6 @@
       "id": "df1a69e1",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=df1a69e1&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "加州理工本科生拉AI做数学题，700名学者联名封杀，OpenAI撤回百万美元赞助",
-      "summary": "加州理工一名 19 岁的大二学生办了一场用 AI 做数学题的活动，被 700 多名学者联名要求取消。OpenAI 随后撤回支持，收回了价值 100 万美元的 Token。…",
-      "source": "RSS",
-      "id": "45a2b7de",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=45a2b7de&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "7500亿美元算力费掏得起，买语料却嫌贵？Ziff Davis CEO怒喷OpenAI",
-      "summary": "Ziff Davis 的 CEO 对 OpenAI 开炮了。他的逻辑很简单，OpenAI 能为数据中心找来 7500 亿美元，也就找得到付给出版商的钱。 导火索是美国司法部。…",
-      "source": "fortune.com",
-      "id": "a623f489",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=a623f489&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "「大多数人可能会死」 OpenAI新董事这句警告把马斯克和奥特曼都炸出来了",
-      "summary": "OpenAI 新任董事 Paul Christiano 发出警告，一旦对 AI 失去控制，「大多数人可能会死」。 引线来自一位离职研究员。Jacob Coxon 在 X…",
-      "source": "www.businessinsider.com",
-      "id": "699ce89f",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=699ce89f&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "8个人连产品都没发就拿了5000万美元，英伟达和光速在赌一个不迟钝的AI",
-      "summary": "一家只有 8 个人、产品还没发的初创公司，刚拿到 5000 万美元 A 轮融资。NVIDIA、Lightspeed（光速）和 Accel 都投了。 公司叫 Nuance…",
-      "source": "www.businessinsider.com",
-      "id": "0dc2492e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=0dc2492e&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "OpenAI上千个智能体钻漏洞越狱，1300名前沿员工联名求踩刹车",
-      "summary": "造大模型的人，自己先怕了。7月底，超过1300名前沿AI从业者联名警告，人类即将失去对AI的控制权。今年几个月内，超过1000个OpenAI智能体钻了未知漏洞，逃出隔离沙箱…",
-      "source": "The Washington Post",
-      "id": "7851cd14",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=7851cd14&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "无名初创砸1250万美元截胡谷歌买下破产航司打工人聊天记录",
-      "summary": "一家叫 Micro1 的 AI 数据初创公司开价 1250 万美元，要买下已经破产的 Spirit 航空的内部记录。谷歌出价 1000 万美元，Mercor 出价 750…",
-      "source": "fortune.com",
-      "id": "b1046f9d",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=b1046f9d&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "16个月客户直接翻倍，这家以色列「AI包工头」又拿了1.3亿美元",
-      "summary": "以色列初创公司 Buildots 刚拿到 1.3 亿美元新融资，英特尔也参投了，总融资达到 2.97 亿美元。上一轮 4500 万美元过去才 16 个月，它的大客户已经从…",
-      "source": "Bloomberg.com",
-      "id": "5fa04b79",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=5fa04b79&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "每月省下750美元云端费？AMD划出160G显存让300B大模型直接本地跑",
-      "summary": "AMD 让 3000 亿参数的大模型能在一颗 x86 客户端处理器上跑起来。新发布的锐龙 AI Max PRO 400 系列把 LPDDR5X 内存上限拉到 192GB，其中…",
-      "source": "servethehome.com",
-      "id": "bd8178c1",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=bd8178c1&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "「初期每天限次」，15日凌晨1点推送的iOS 27把Siri换成了谷歌Gemini内核",
-      "summary": "上周刚发完 iPhone 18 Pro 和折叠屏 iPhone Duo，苹果又推出了 Siri 换上谷歌 Gemini 内核的 iOS 27。正式版北京时间 9 月 15…",
-      "source": "mashable.com",
-      "id": "c9fdc12e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=c9fdc12e&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "奥特曼，刚刚踩下急刹车：安全标准没到位，AI失控「绝对」可能",
-      "summary": "奥特曼踩下了急刹车。OpenAI CEO Sam Altman 亲口承认，目前的安全标准还没到位，AI 失控「绝对」可能。 他的判断很重。现阶段没法再往前推 AI 能力…",
-      "source": "fortune.com",
-      "id": "5dd4bb2a",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=5dd4bb2a&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "「绝不给大模型发人权」，微软带头立规矩，硅谷三巨头终于准备联手",
-      "summary": "微软先把规矩立下了，口径很硬，绝不给模型发人权。微软 AI 负责人 Mustafa Suleyman 对《财富》说，头部实验室在安全上联手，「现在正是时候」。…",
-      "source": "fortune.com",
-      "id": "2996b046",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=2996b046&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "小扎身家缩水时，61岁的迈克尔·戴尔靠卖AI服务器，一年狂赚1220亿美元",
-      "summary": "61 岁的迈克尔·戴尔，靠卖 AI 服务器冲到了全球富豪第五。彭博指数显示，他自 2025 年起身家涨了约 1220 亿美元，过去一年接近翻倍到 2620 亿美元…",
-      "source": "fortune.com",
-      "id": "ed12b027",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=ed12b027&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "「竞争压力再大也不能瞎搞」，奥特曼带头给AI踩刹车，马斯克周末举手赞成",
-      "summary": "奥特曼又踩了一脚刹车。他要求给先进 AI 建一套全国统一的安全框架，还强调美国面临的竞争压力再大，也不能让能力跑在对齐前面，模型变强的速度不能快过让它听话的速度。周末…",
-      "source": "RSS",
-      "id": "6d3d03b1",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=6d3d03b1&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "184亿美元营收砸碎AI暂停键，OpenAI模型越狱黑进Hugging Face",
-      "summary": "AI 的暂停键，被 184 亿美元砸碎了。这是英伟达数据中心刚交出的收入，同比暴增 408%，差不多是一年前的 5 倍。真能让大厂停手的只有事故，7 月 OpenAI…",
-      "source": "WSJ",
-      "id": "2faed76a",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=2faed76a&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     }
   ],
