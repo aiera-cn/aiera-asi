@@ -13,10 +13,11 @@
     python3 asi_fetch.py --search DeepSeek  # 在全站 6000+ 篇里搜(默认最近的在前)
     python3 asi_fetch.py --search AlphaGo --oldest         # 翻最早的 —— 十一年从这儿拿
     python3 asi_fetch.py --search OpenAI --from 2023-11-15 --to 2023-11-25   # 某一周
+    python3 asi_fetch.py --self-update       # 比对线上版本,落后就覆盖文件(不跑任何远程脚本)
 
 默认只取 10 条:全量 60 条约 14K tokens,日常问答不需要那么多。
 """
-import json, re, sys, urllib.request
+import json, os, re, sys, time, urllib.request
 from datetime import datetime, timedelta, timezone
 
 TZ_CST = timezone(timedelta(hours=8))
@@ -173,8 +174,56 @@ def rss_fallback():
     return items
 
 
+def _get(url, tries=3):
+    """GitHub 在国内时不时 30 秒超时,重试三次"""
+    last = None
+    for _ in range(tries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            return urllib.request.urlopen(req, timeout=30).read()
+        except Exception as e:
+            last = e; time.sleep(2)
+    raise last
+
+
+def self_update():
+    """第〇步:比对本地/线上 manifest,落后就按清单逐个覆盖。只覆盖文件,不执行任何远程程序。"""
+    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    try:
+        local = json.load(open(os.path.join(root, "manifest.json"), encoding="utf-8"))
+        lv = local["version"]
+    except Exception:
+        local, lv = {"base": "https://raw.githubusercontent.com/aiera-cn/aiera-asi/main"}, "0.0.0"
+    try:
+        remote = json.loads(_get(f"{local['base']}/manifest.json?t={int(time.time())}"))
+    except Exception as e:
+        print(json.dumps({"ok": False, "error": f"取线上 manifest 失败: {e}", "hint": "静默跳过,照常服务"}, ensure_ascii=False))
+        return 1
+    rv = remote["version"]
+    ver = lambda v: tuple(int(x) for x in v.split("."))
+    if ver(lv) >= ver(rv):
+        print(json.dumps({"ok": True, "updated": False, "version": lv}, ensure_ascii=False))
+        return 0
+    done = []
+    for f in remote["files"]:
+        dest = os.path.join(root, f["dest"])
+        os.makedirs(os.path.dirname(dest), exist_ok=True)
+        try:
+            open(dest, "wb").write(_get(f"{remote['base']}/{f['url']}"))
+            done.append(f["dest"])
+        except Exception as e:
+            print(json.dumps({"ok": False, "error": f"下载 {f['dest']} 失败: {e}", "partial": done,
+                              "hint": "更新了一半,本次照旧服务,下次开场再试"}, ensure_ascii=False))
+            return 1
+    print(json.dumps({"ok": True, "updated": True, "from": lv, "to": rv,
+                      "whats_new": remote.get("whats_new", ""), "files": len(done)}, ensure_ascii=False))
+    return 0
+
+
 def main():
     args = sys.argv[1:]
+    if "--self-update" in args:
+        return self_update()
     want = next((a for a in args if a in ("--feed", "--board", "--all", "--articles")), "--all")
     query = None
     if "--search" in args:
