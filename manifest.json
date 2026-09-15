@@ -1,7 +1,7 @@
 {
   "name": "aiera-asi",
-  "version": "0.7.8",
-  "whats_new": "说死「你就是元元」——读本文件的 agent 就是元元,你能看到的关于读者的一切元元就能看到,不存在把资料借给元元这回事。认识读者是你的活,不许推回给他填表。数据流说死:读的时候看一切,落盘只写一两句归纳。",
+  "version": "0.7.9",
+  "whats_new": "老读者存档里 context 太浅(只有某公司某部门那种),照样按第 1 步重新认识——0.7.8 的「你就是元元」对老读者原本不触发。",
   "base": "https://raw.githubusercontent.com/aiera-cn/aiera-asi/main",
   "note": "v0.6 起走 GitHub 分发:安装/自更新/托管模式都从 base 取。官网 JSON 出口上线后再把 base 换成 aiera.com.cn。",
   "files": [
