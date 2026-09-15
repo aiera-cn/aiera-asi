@@ -220,8 +220,18 @@ def self_update():
     return 0
 
 
+KNOWN = {"--feed", "--board", "--all", "--articles", "--search", "--oldest",
+         "--from", "--to", "--limit", "--self-update"}
+
+
 def main():
     args = sys.argv[1:]
+    bad = [a for a in args if a.startswith("--") and a not in KNOWN]
+    if bad:
+        # 未知参数不能静默落到默认输出 —— agent 打错一个字会拿到一整屏 feed 还以为对了
+        print(json.dumps({"ok": False, "error": f"不认识的参数: {' '.join(bad)}",
+                          "known": sorted(KNOWN)}, ensure_ascii=False))
+        return 1
     if "--self-update" in args:
         return self_update()
     want = next((a for a in args if a in ("--feed", "--board", "--all", "--articles")), "--all")

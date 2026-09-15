@@ -1,7 +1,7 @@
 {
   "name": "aiera-asi",
-  "version": "0.7.4",
-  "whats_new": "清儿亲自当元元跑了六轮后的修补:开场自检变一条命令(--self-update);00:00 那批不再每次当新的;老读者开场三件套一次批量取;搜档案用单词不用短语、搜不到怎么退;问了没答但档案答了就主动接回;收尾必写 log;摘要是正文开头不是真摘要、榜是 24h 窗口——这两条让元元知道什么时候该说'点进去看'。",
+  "version": "0.7.5",
+  "whats_new": "脚本:未知参数报错而不是静默给默认输出(0.7.4 的 --self-update 在旧脚本上会被当成普通取数)。其余同 0.7.4:开场自检一条命令、00:00 规则、搜档案退路、问了没答档案答了主动接回、收尾必写 log。",
   "base": "https://raw.githubusercontent.com/aiera-cn/aiera-asi/main",
   "note": "v0.6 起走 GitHub 分发:安装/自更新/托管模式都从 base 取。官网 JSON 出口上线后再把 base 换成 aiera.com.cn。",
   "files": [
