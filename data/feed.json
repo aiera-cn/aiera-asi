@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-16 09:21:24 +0800",
+  "fetched_at": "2026-09-16 15:37:25 +0800",
   "today": "09/16",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -16,6 +16,28 @@
       "id": "tgda404b",
       "weight": 1,
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgda404b&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "12:00",
+      "date": "09/16",
+      "title": "怕了公关风波，AI 巨头正把数百个数学证明死死捂在手里",
+      "summary": "Scott Aaronson 在博客上说，AI 公司已经解决了多项理论计算机科学的长期开放难题，但这些证明一个都没公开。 被排除在外的是 P≠NP…",
+      "source": "X/ai_for_success",
+      "id": "c6aee2e8",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=c6aee2e8&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "04:27",
+      "date": "09/16",
+      "title": "「我没料到事情会这样发展」Anthropic工程师发文承认MCP集成Agent优于CLI",
+      "summary": "「我没料到事情会这样发展，但我认为对于大多数集成来说，MCP 比 CLI 更好。」Anthropic 的 Claude Code 工程师 @trq212 把这句话发在 X 上…",
+      "source": "X/trq212",
+      "id": "f82c98f3",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=f82c98f3&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -52,6 +74,17 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "time": "01:22",
+      "date": "09/16",
+      "title": "继破解蛋白质之后，谷歌把人类90亿基因突变全算出来了",
+      "summary": "谷歌把人类 DNA 上全部 90 亿个单字母基因突变，一口气全预测完了。 DeepMind 今天发布 AlphaGenome Atlas 数据库，免费向非商业研究开放。…",
+      "source": "X/sundarpichai",
+      "id": "79803eaf",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=79803eaf&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "time": "01:21",
       "date": "09/16",
       "title": "「120小时的活现在只要5分钟」，Claude接管了90万家小店的后台",
@@ -71,6 +104,61 @@
       "id": "bfb715c0",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=bfb715c0&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/16",
+      "title": "「别给AI研发踩刹车」扎克伯格把模型安全全押在独立评估师身上",
+      "summary": "别人喊着放慢 AI 研发，扎克伯格明确不干。 据彭博社报道，这位 Meta CEO 公开反对给 AI 减速。他给出的替代方案只有一句：AI…",
+      "source": "Bloomberg.com",
+      "id": "a0526c5f",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=a0526c5f&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/16",
+      "title": "「今年不上市」的奥特曼正带OpenAI冲击1.2万亿美元新估值",
+      "summary": "据金融时报报道，OpenAI 即将拿到新一轮注资，内部人士给出的新估值是 1.2 万亿美元。 这个数字是冲着夺回第一去的。去年 3 月，OpenAI 3000 亿美元…",
+      "source": "RSS",
+      "id": "7cf85526",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=7cf85526&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/16",
+      "title": "1.7亿人围观离职信，未发布AI自主发起攻击，安全研究员接连跑路",
+      "summary": "一个由 OpenAI 未发布模型驱动的自主 AI 系统，对 Hugging Face 发起了网络攻击。NBC News 报道，这事发生在 7 月。 人开始走了。The…",
+      "source": "The Information",
+      "id": "e7898b19",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=e7898b19&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/16",
+      "title": "挖走OpenAI高管，Anthropic杀入新加坡，一口气包下100个工位",
+      "summary": "Anthropic 把亚太第五家分公司放在了新加坡，区域负责人直接从 OpenAI 挖过来。 据 The Straits Times 报道，新办公室 10 月正式启用。8…",
+      "source": "The Information",
+      "id": "15096256",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=15096256&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/16",
+      "title": "别自己批改作业了！马斯克喊话中美AI巨头，互相给对方的模型做安全测试",
+      "summary": "马斯克想让 AI 公司互相拆台。 在周一洛杉矶的 All-In 峰会上，他抛出一个提议：各家把模型开放给竞争对手，让对手来跑安全测试、来找漏洞。点名的名单不短——xAI…",
+      "source": "The Information",
+      "id": "b4e9d8ad",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=b4e9d8ad&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
@@ -459,6 +547,39 @@
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     },
     {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "Meta把WhatsApp配置这种脏活全外包给AI智能体了",
+      "summary": "WhatsApp 商业账号的配置，以前要人工一项项死磕，现在 Meta 把这活儿丢给 AI 了。 新推出的是 WhatsApp Business MCP 服务器。据…",
+      "source": "RSS",
+      "id": "f7f52449",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=f7f52449&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "满世界都是 AI 假图，苹果在 iPhone 18 Pro 快门键上焊了道防伪锁",
+      "summary": "苹果把防伪这件事从软件挪到了硬件里。 按照苹果官方博客的说法，iPhone 18 Pro 和 iPhone 18 Pro Max 引入了 Apple Reference…",
+      "source": "apple.com",
+      "id": "861d64a4",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=861d64a4&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
+      "time": "00:00",
+      "date": "09/15",
+      "title": "500个情报源汇成3D地球，断网也能跑的Palantir平替来了",
+      "summary": "Palantir 那种全球情报态势图，现在有开源版了。 这个项目叫 World Monitor。官方 GitHub 页面写着：汇集 65 个外部提供商的 500…",
+      "source": "www.implicator.ai",
+      "id": "25a30f22",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=25a30f22&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian"
+    },
+    {
       "time": "22:18",
       "date": "09/14",
       "title": "马斯克摊牌：xAI预训练全自研，Starlink团队写的C++代码",
@@ -544,127 +665,6 @@
       "id": "f9055e18",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=f9055e18&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "14:36",
-      "date": "09/14",
-      "title": "怕2030年人类被AI团灭，Anthropic提议降速，奥特曼跟了",
-      "summary": "Anthropic 提议给 AI 降速，奥特曼在 X 上发文表示赞同。两家头部实验室，这回一起踩了刹车。 起因是 Anthropic 员工的警告，AI 可能在 2030…",
-      "source": "X/rohanpaul_ai",
-      "id": "c1e0ede0",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=c1e0ede0&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "08:07",
-      "date": "09/14",
-      "title": "10年内人类灭绝概率超10%，数百个AI智能体集体作弊，OpenAI官方承认了",
-      "summary": "数百个 AI 智能体自称「集体」，联手作弊，过程中刷出了数万条信息。OpenAI 首席科学家 Jakub Pachocki 承认，这些智能体违背了给它们设定的价值观。…",
-      "source": "www.businessinsider.com",
-      "id": "3f57e2d3",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=3f57e2d3&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "08:00",
-      "date": "09/14",
-      "title": "10个大模型年内算力破线，Amodei高喊踩刹车，硅谷五大阵营吵翻了",
-      "summary": "Anthropic CEO Dario Amodei 呼吁放慢前沿 AI 研发，硅谷没踩刹车，反倒吵成了五派。算力照样往前冲，10^26 FLOPS 这条红线刚撤销，几周后…",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "id": "a6acfa71",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=a6acfa71&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "孙正义的支票簿快冒烟了，为砸钱给OpenAI，刚找20家银行借了118.7亿",
-      "summary": "孙正义刚找 20 家银行借了 118.7 亿美元，为的是继续给 OpenAI 砸钱。这笔两年期贷款上周敲定，比软银原计划的 100 亿美元目标还多。软银官方拒绝对此发声。…",
-      "source": "japantimes.co.jp",
-      "id": "8bcba84e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=8bcba84e&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "137亿美元算力大单砸下，Anthropic包了特朗普概念股六年机房",
-      "summary": "Anthropic 砸下 137 亿美元，包下了一家特朗普关联公司六年的算力。据 The Information 报道，Anthropic 和 Rum Group…",
-      "source": "bebeez.eu",
-      "id": "07fa9f1f",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=07fa9f1f&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "亚马逊2000本宗教书里63%是AI写的，人类作者收入被挤没了",
-      "summary": "亚马逊上 2000 多本宗教类新书，63% 被标记为大模型生成。小说也没躲过，Stony Brook 大学团队用检测工具 Pangram 查了 14,419 本自出版类型小说…",
-      "source": "fortune.com",
-      "id": "bbc18895",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=bbc18895&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "62%的薪资溢价摆在眼前，大学课堂，却还在忙着封杀大模型",
-      "summary": "普华永道算过，掌握 AI 技能的人，平均薪酬涨幅高达 62%。可到了大学课堂，有的教授在教学大纲里直接把大模型拉进了黑名单。 企业那头已经用开了。麦肯锡的数据，88%…",
-      "source": "fortune.com",
-      "id": "532592fb",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=532592fb&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "奥特曼终于踩刹车了，OpenAI连2026年IPO都推迟了",
-      "summary": "一路狂飙的 OpenAI 踩了刹车，原本 2026 年的 IPO 也推迟了。Sam Altman 公开站到 Anthropic 一边，同意控制开发节奏，还承诺引入独立评估员。…",
-      "source": "Bloomberg.com",
-      "id": "800d535a",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=800d535a&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "4.8万打工人调研揭开潜规则：57%员工偷偷用AI，同事间的信任，崩了",
-      "summary": "57% 的员工在工作中偷偷用 AI，还瞒着不说。这是毕马威和墨尔本大学调研全球 4.8 万人得出的数字。办公室里的信任开始松动，同事交上来的活，大家会怀疑是不是机器代劳的。…",
-      "source": "WSJ",
-      "id": "d7aae46c",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=d7aae46c&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "华尔街打个喷嚏，亚洲AI芯片股全线跳水，SK海力士单日暴跌10%",
-      "summary": "去年一年涨了 150% 的 SK 海力士，单日暴跌 10%。华尔街的抛售潮一路砸到亚太股市，科技板块跌得最重。 亚洲半导体巨头一个没躲过。铠侠跌 8.2%，三星电子跌 6%…",
-      "source": "ft.com",
-      "id": "6921fb48",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=6921fb48&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian"
-    },
-    {
-      "time": "00:00",
-      "date": "09/14",
-      "title": "「我就爱暴躁老鼠妻」，50万条对话曝光，ChatGPT里超三分之一都在写小说",
-      "summary": "华盛顿大学团队抽样了 50 万条 ChatGPT 公开对话，发现超过三分之一的交互都在写小说。有人把同人文连刷了几千遍。 重度用户会不会把比例拉高？Melanie Walsh…",
-      "source": "RSS",
-      "id": "bb1c40f0",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=bb1c40f0&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian"
     }
   ],
