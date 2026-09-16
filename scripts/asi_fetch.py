@@ -96,6 +96,8 @@ def norm_feed(rows):
             "source": r[4], "id": r[5], "weight": r[6] if len(r) > 6 else None,
             # 每条都有详情页(页面用 JS 渲染成 <a href="asi-item.html?id=...">)
             "url": ITEM_URL + str(r[5]) + TRACK, "column_url": COLUMN_URL,
+            # line:预先拼好的一行,给读者列情报时原样贴。链接拼在里面,模型"组织回答"时扔不掉
+            "line": f"[{r[1]} {r[0]}] {r[2]} · {ITEM_URL}{r[5]}{TRACK}",
         })
     return out
 
@@ -117,6 +119,9 @@ def norm_board(rows):
             # 爆点榜在页面上是 <details> 折叠块,原地展开不跳转 —— 没有独立网址
             "url": None, "column_url": COLUMN_URL,
         })
+    for i, b in enumerate(out, 1):
+        b["rank"] = i
+        b["line"] = f"[榜第{i}位 · {b['reads'] or '?'} · {b['category'] or ''}] {b['title']}"
     return out
 
 
@@ -158,6 +163,7 @@ def fetch_articles(limit=10, query=None, oldest=False, date_from=None, date_to=N
             "year": d[:4], "title": title,
             "summary": clean(p_["excerpt"]["rendered"]),
             "url": POST_URL + str(p_["id"]) + TRACK,
+            "line": f"[{d[:10].replace('-', '/')} {d[11:16]}] {title} · {POST_URL}{p_['id']}{TRACK}",
             # WP 是全文搜索,标题没命中的是"正文提到" —— 必须让读者分得清
             "title_hit": bool(query) and query.lower() in title.lower(),
         })
