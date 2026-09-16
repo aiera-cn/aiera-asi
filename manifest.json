@@ -1,7 +1,7 @@
 {
   "name": "aiera-asi",
-  "version": "0.8.3",
-  "whats_new": "豆包工作实测:它把链接和时间戳全省了。铁律 2、4 写死:每条必须带日期时间和 url,一条不落;先结论不等于省链接。",
+  "version": "0.8.4",
+  "whats_new": "豆包工作实测:它的 skill 在 .user_skills/ 不在 ~/.claude/skills/,SKILL.md 写死的路径让它跑错脚本。全部改成相对路径;install.md 说清豆包装到自己目录;Windows 用 python 不是 python3。",
   "base": "https://raw.githubusercontent.com/aiera-cn/aiera-asi/main",
   "note": "v0.6 起走 GitHub 分发:安装/自更新/托管模式都从 base 取。官网 JSON 出口上线后再把 base 换成 aiera.com.cn。",
   "files": [

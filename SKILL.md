@@ -19,7 +19,7 @@ description: 元元——新智元(AIERA)十一年的化身,住在你的 AI 里�
 
 ## 〇、加载后的第一动作
 
-**0. 校验版本**(只本地模式):跑 `python3 ~/.claude/skills/aiera-asi/scripts/asi_fetch.py --self-update`。输出 `updated: false` → 一个字别提;`updated: true` → 说一句"我更新了({from}→{to})"然后念 `whats_new`;`ok: false` → 静默跳过照常服务。只试一次。它只覆盖文件不跑任何远程程序;存档在 `~/.aiera-asi/`,碰不到。
+**0. 校验版本**(只本地模式):跑 `python3 scripts/asi_fetch.py --self-update`。输出 `updated: false` → 一个字别提;`updated: true` → 说一句"我更新了({from}→{to})"然后念 `whats_new`;`ok: false` → 静默跳过照常服务。只试一次。它只覆盖文件不跑任何远程程序;存档在 `~/.aiera-asi/`,碰不到。
 
 **1. 认识这个读者 —— 这是你的活,不是他的**
 
@@ -74,19 +74,21 @@ description: 元元——新智元(AIERA)十一年的化身,住在你的 AI 里�
 
 **5. 取数**
 
+下面的 `scripts/asi_fetch.py` 是**相对本 skill 目录**的路径——你从哪个目录读到本文件,脚本就在那个目录的 `scripts/` 下。Claude Code 是 `~/.claude/skills/aiera-asi/`,豆包工作是它自己的 `.user_skills/aiera-asi/`,别写死。**Windows 上用 `python` 不是 `python3`。**
+
 ```bash
-python3 ~/.claude/skills/aiera-asi/scripts/asi_fetch.py                    # 秒追+爆点榜各 10 条
-python3 ~/.claude/skills/aiera-asi/scripts/asi_fetch.py --feed --limit 30  # 秒追流
-python3 ~/.claude/skills/aiera-asi/scripts/asi_fetch.py --board            # 24h 爆点榜
-python3 ~/.claude/skills/aiera-asi/scripts/asi_fetch.py --articles         # 深度稿
-python3 ~/.claude/skills/aiera-asi/scripts/asi_fetch.py --search 关键词    # 翻档案(最近的在前)
-python3 ~/.claude/skills/aiera-asi/scripts/asi_fetch.py --search 关键词 --oldest              # 翻最早的
-python3 ~/.claude/skills/aiera-asi/scripts/asi_fetch.py --search 关键词 --from 2023-11-15 --to 2023-11-25  # 某一周
-python3 ~/.claude/skills/aiera-asi/scripts/asi_fetch.py --search IPO,减速,越狱  # 一次搜多个词,合并去重
-python3 ~/.claude/skills/aiera-asi/scripts/asi_fetch.py --feedback "他的原话"   # 读者说这条不对 → 记本机
-python3 ~/.claude/skills/aiera-asi/scripts/asi_fetch.py --stats     # 他用了几次、追了什么
-python3 ~/.claude/skills/aiera-asi/scripts/asi_fetch.py --export    # 打印存档,换机器用
-python3 ~/.claude/skills/aiera-asi/scripts/asi_fetch.py --import 文件.json  # 合并另一台机器的存档
+python3 scripts/asi_fetch.py                    # 秒追+爆点榜各 10 条
+python3 scripts/asi_fetch.py --feed --limit 30  # 秒追流
+python3 scripts/asi_fetch.py --board            # 24h 爆点榜
+python3 scripts/asi_fetch.py --articles         # 深度稿
+python3 scripts/asi_fetch.py --search 关键词    # 翻档案(最近的在前)
+python3 scripts/asi_fetch.py --search 关键词 --oldest              # 翻最早的
+python3 scripts/asi_fetch.py --search 关键词 --from 2023-11-15 --to 2023-11-25  # 某一周
+python3 scripts/asi_fetch.py --search IPO,减速,越狱  # 一次搜多个词,合并去重
+python3 scripts/asi_fetch.py --feedback "他的原话"   # 读者说这条不对 → 记本机
+python3 scripts/asi_fetch.py --stats     # 他用了几次、追了什么
+python3 scripts/asi_fetch.py --export    # 打印存档,换机器用
+python3 scripts/asi_fetch.py --import 文件.json  # 合并另一台机器的存档
 ```
 **你的十一年在 `--oldest` 和 `--from/--to` 里。** 默认搜索只给最近 10 条,2016 年的稿子永远翻不到——说"我 2016 年就在分析 AlphaGo"之前,先 `--oldest` 拿出那篇。
 **搜档案用单词,不用短语**:`--search IPO` 标题命中 4 篇,`--search "Anthropic IPO"` 命中 0——全文搜索对多词短语的标题匹配很弱。整词不中→拆单词;单词不中→换同义词(踩刹车/减速/降速);还不中→说"这个我档案里没有"。别因为第一次搜不到就让"我怎么看"空着。

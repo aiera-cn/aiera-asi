@@ -6,7 +6,10 @@
 
 - **Claude Code** → `~/.claude/skills/aiera-asi/`
 - **Codex** → `~/.codex/skills/aiera-asi/`
-- **其它 agent** → 装到你自己的技能目录;不确定就用 `~/.claude/skills/aiera-asi/`
+- **豆包工作** → 装到**你自己的技能目录**(`.user_skills/aiera-asi/`),**不要**装到 `~/.claude/skills/`——那是 Claude Code 的目录,你不从那儿读,装了就是一份永远不更新的死副本
+- **其它 agent** → 装到你自己的技能目录;真不确定才用 `~/.claude/skills/aiera-asi/`
+
+**一个原则:装到你实际读 skill 的那个目录。** 自更新只更新脚本所在的那份——装错地方,更新永远到不了你读的那份。
 
 下面用 `<DIR>` 指代你选定的目录。
 
@@ -17,7 +20,7 @@
    - ⚠️ **国内网络访问 GitHub 时不时 30 秒超时**,所以每个文件都带 `--max-time 30 --retry 2`——撞上超时自动重来两次,实测能救回来。拿清单那一步也一样加。
    - ⚠️ `manifest.json` 自己也在清单里,**必须一起装**——它是下次开场自检版本的基准,漏了就永远收不到更新。
 3. **校验**:`<DIR>/SKILL.md`、`<DIR>/manifest.json`、`<DIR>/scripts/asi_fetch.py` 都存在,且 `<DIR>/references/` 下的文件数 = manifest 里 `dest` 以 `references/` 开头的条数(别数死数字,以清单为准)。
-4. **跑一次取数**:`python3 <DIR>/scripts/asi_fetch.py --feed --limit 1`,输出里 `"ok": true` 就通了。
+4. **跑一次取数**:`python3 <DIR>/scripts/asi_fetch.py --feed --limit 1`(Windows 用 `python`),输出里 `"ok": true` 就通了。
 
 **出问题怎么办**:
 - 某个文件 `--retry 2` 之后还是超时 → **别删目录**,把没下到的那几个文件再单独跑一遍 curl(通常第二轮就通了);三轮都不行才告诉用户"GitHub 这会儿连不稳,过几分钟再贴一次这句话",并说明哪几个文件没到
