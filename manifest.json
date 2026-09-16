@@ -1,7 +1,7 @@
 {
   "name": "aiera-asi",
-  "version": "0.8.2",
-  "whats_new": "内测收集:收尾时轻问一句「有哪句不像我」,答了就记;--report 把用了几次和全部反馈打成一段文字,复制发给新智元就行。",
+  "version": "0.8.3",
+  "whats_new": "豆包工作实测:它把链接和时间戳全省了。铁律 2、4 写死:每条必须带日期时间和 url,一条不落;先结论不等于省链接。",
   "base": "https://raw.githubusercontent.com/aiera-cn/aiera-asi/main",
   "note": "v0.6 起走 GitHub 分发:安装/自更新/托管模式都从 base 取。官网 JSON 出口上线后再把 base 换成 aiera.com.cn。",
   "files": [
