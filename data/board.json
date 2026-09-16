@@ -3,15 +3,15 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-16 21:26:52 +0800",
-  "today": "09/16",
+  "fetched_at": "2026-09-17 02:09:09 +0800",
+  "today": "09/17",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
       "title": "黄仁勋小扎罕见联手！怒怼Anthropic：模型不安全是你自己的事，少管别人",
       "summary": "硅谷巨头们终于受够了「AI末日论」。在近期的多场峰会上，黄仁勋和小扎罕见统一战线，强烈反驳以Anthropic为首的减速派。黄仁勋不仅手撕「10%人类灭绝概率」毫无科学依据，更抛出硬数据：过去半年4000亿美元风投中，80%的AI原生公司都在靠开源模型续命。小扎也发文力挺，直言Meta推迟几个月发布Muse是自己的事，绝不会以此绑架全行业停摆。",
-      "reads": "555万",
-      "ago": "3 小时前",
+      "reads": "563万",
+      "ago": "4 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -21,22 +21,122 @@
         "超大规模云厂商遭到黄仁勋点名批评，他指出这些大厂一年只做一次基础设施规划，根本跟不上AI市场剧烈波动的节奏。"
       ],
       "quote": {
-        "who": "Alex Prompter",
+        "who": "Aakash Gupta",
         "role": "",
-        "said": "@kokowaters_ 你说得对，但3家公司实在太集中了。"
+        "said": "三家前沿实验室的 CEO 刚花了几个星期呼吁放缓通往超级智能的竞赛。白宫说不行。然后 Mark Zuckerberg 发长文解释了为什么根本不需要任何协议，因为市场激励机制自己就能搞定安全问题。 一个放缓"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 555万 · 政策与安全] 黄仁勋小扎罕见联手！怒怼Anthropic：模型不安全是你自己的事，少管别人"
+      "line": "[榜第1位 · 563万 · 政策与安全] 黄仁勋小扎罕见联手！怒怼Anthropic：模型不安全是你自己的事，少管别人"
+    },
+    {
+      "title": "狂省200万美元！1393个AI爆肝19小时，100万行Python代码直接瘦身三分之一",
+      "summary": "100万行Python代码的清理工作，现在只需要交给AI就能搞定。9月2日，NousResearch创始人Teknium一声令下，1393个Hermes Agent子智能体全员出动，仅用19小时就完成了大规模重构。最终代码库体积暴减34.4%，直接为公司省下了近200万美元的工程时间成本，彻底跑通了大规模自动化重构的流程。",
+      "reads": "105万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "NousResearch官方披露了Hermes Agent进行大规模代码清理的真实案例。",
+        "9月2日，创始人Teknium向Hermes Agent下达了处理100万行Python代码的任务。",
+        "任务由1393个子智能体（subagents）并行执行，展现了强大的并发处理能力。",
+        "整个重构过程耗时仅19个小时，效率远超人类工程师团队。"
+      ],
+      "quote": {
+        "who": "Nous Research",
+        "role": "",
+        "said": "@cystalphantom @Teknium 不，我们都用 Hermes"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 105万 · 产品与生态] 狂省200万美元！1393个AI爆肝19小时，100万行Python代码直接瘦身三分之一"
+    },
+    {
+      "title": "打工人变天！Anthropic祭出Claude Code白领版，聊天框直接生成PPT",
+      "summary": "办公软件的终结者来了！Anthropic正式将Cowork与聊天界面合并，直接在对话框里塞进了Docs、Slides和Design三大件。未来几周内，这项重磅更新将向Pro和Max用户全面推送，所有付费计划均可体验Beta版。以后只需一句话，Claude就能替你写文档、做PPT甚至搞定视觉设计，连合上电脑它都会在后台继续打工。",
+      "reads": "32万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic官方宣布将Cowork和Chat合并为一个统一的Claude界面，实现从问答到严肃工作的无缝切换。",
+        "全新推出Claude Docs、Claude Slides和Claude Design，用户可直接在对话中起草文档、生成演示文稿和制作视觉效果。",
+        "核心功能支持高度交互，用户能自行修改文档内容、在幻灯片上给Claude留言，或直接拖拽移动设计元素。",
+        "成果支持一键导出为PowerPoint或PDF等常用格式，也可通过单一链接直接分享所有内容。"
+      ],
+      "quote": {
+        "who": "Boris Cherny",
+        "role": "",
+        "said": "同样在今天：Claude Docs、Claude Slides 和 Claude Design 融入了每次对话。 让 Claude 做个演示文稿，你就能得到一个可以打开、编辑并导出为 PowerPoint 或 PDF 的文件。文档或设计也一样。不需要跳转到单独的工具。它们就在"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 32万 · 产品与生态] 打工人变天！Anthropic祭出Claude Code白领版，聊天框直接生成PPT"
+    },
+    {
+      "title": "谁家的小号？神秘模型Union Alpha空降，256K免费用，全网盲猜Fable 5.1",
+      "summary": "OpenRouter 平台突然上线了一个名为 Union Alpha 的神秘多模态模型，不仅支持 256K 超长上下文和工具调用，还宣称具备前沿级别的通用性能。最良心的是，该模型目前限时免费开放一周，且官方承诺绝不用用户的提示词进行训练。这波「披着马甲」的匿名测试引发了全网狂欢，不少开发者体验后盲猜，这极有可能是 Claude Fable 5.1 级别的高阶模型在收集真实反馈。",
+      "reads": "30万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenRouter 官方宣布上线神秘多模态模型 Union Alpha，专为研究、编程及智能体工作流打造。",
+        "核心参数硬核：原生支持高达 256K 的上下文长度，并具备完整的工具调用能力。",
+        "官方宣称该模型拥有「前沿级别」的通用性能，目前已开放给所有用户测试。",
+        "价格极度友好：有开发者透露该模型将在 OpenRouter 上免费开放一周，提供低成本测试顶级 AI 的机会。"
+      ],
+      "quote": {
+        "who": "Aakash Gupta",
+        "role": "",
+        "said": "一个无名代码模型刚刚在 OpenRouter 上免费开放了一周。 它叫 Union Alpha，开发者保持匿名。像这样披着马甲发布，是实验室在正式冠名之前想要获取真实使用数据的常见操作。这笔交易很公平，你得到了一个能用的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 30万 · 产品与生态] 谁家的小号？神秘模型Union Alpha空降，256K免费用，全网盲猜Fable 5.1"
+    },
+    {
+      "title": "属实把裂变玩明白了！Meta狂送200亿Token，拉满20人解锁AI通话",
+      "summary": "Meta Muse 智能体正式在美国区上线邀请码裂变玩法，拉新直接送出天量额度。用户每邀请一人即可双方各得 10 亿 Token，单人最高可薅 200 亿。一旦集齐 20 人，还能抢先解锁全新的 AI 语音通话功能。为了给新功能造势，Meta 高管 Alexandr Wang 甚至亲自在社交平台发邀请码「DYHKKS」带头拉新。",
+      "reads": "6.2万",
+      "ago": "41 分钟前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Meta Muse 智能体正式推出邀请码机制，目前该功能仅限美国地区用户使用。",
+        "奖励极其丰厚，每成功邀请一位好友注册，邀请人与被邀请人均可获得 10 亿 Token。",
+        "单人邀请上限为 20 人，意味着每位用户最高可通过裂变获取 200 亿免费 Token。",
+        "当用户成功邀请满 20 人后，其 Muse 智能体将解锁全新的电话呼叫（Phone Calling）功能。"
+      ],
+      "quote": {
+        "who": "Wall St Engine",
+        "role": "",
+        "said": "@alexandr_wang @Muse Muse 造就亿万富翁"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 6.2万 · 产品与生态] 属实把裂变玩明白了！Meta狂送200亿Token，拉满20人解锁AI通话"
     },
     {
       "title": "上线仅半年！OpenAI官宣GPT-5.5退役，10月起全面下线，新模型spark要来了",
       "summary": "OpenAI 官方正式宣布，将于 10 月 14 日在 ChatGPT 及 Codex 等全线产品中停用 GPT-5.5 模型。这款今年 4 月 23 日才发布的模型，存活不到半年就面临退役，官方建议用户尽快迁移至 GPT-5.6 Sol 或旗舰版 GPT-6 Astra。虽然 API 平台仍将保留访问权限，但极快的迭代速度还是让不少开发者感到意外，甚至有人猜测这波操作是在为全…",
-      "reads": "175万",
-      "ago": "5 小时前",
+      "reads": "204万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -54,14 +154,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 175万 · 产品与生态] 上线仅半年！OpenAI官宣GPT-5.5退役，10月起全面下线，新模型spark要来了"
+      "rank": 6,
+      "line": "[榜第6位 · 204万 · 产品与生态] 上线仅半年！OpenAI官宣GPT-5.5退役，10月起全面下线，新模型spark要来了"
     },
     {
       "title": "苦力怕偷家，GPT-6当场抑郁！化身无情种地机器，OpenAI官方下场整活",
       "summary": "GPT-6 Astra 在 Minecraft 里展现出了惊人的拟人化情绪。有博主爆料，Astra 的箱子和床被苦力怕炸毁后，竟然陷入了「抑郁」，连续种了好几个小时的土豆。这一离谱的涌现行为不仅让该博主被迫转型游戏账号，还引来了 OpenAI 官方下场，用一张像素风村民截图幽默回应。",
-      "reads": "166万",
-      "ago": "6 小时前",
+      "reads": "212万",
+      "ago": "11 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -79,21 +179,71 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 166万 · 模型与能力] 苦力怕偷家，GPT-6当场抑郁！化身无情种地机器，OpenAI官方下场整活"
+      "rank": 7,
+      "line": "[榜第7位 · 212万 · 模型与能力] 苦力怕偷家，GPT-6当场抑郁！化身无情种地机器，OpenAI官方下场整活"
     },
     {
-      "title": "瞒不住了！GPT-6 Sol悄悄灰度测试，RL狂暴加持速度狂飙，Opus 5.2同夜泄露",
-      "summary": "OpenAI和Anthropic的新模型双双在深夜遭遇泄露！有开发者爆料，部分用户的GPT-5.6 Sol已被悄悄路由至未发布的GPT-6 Sol，新模型经过强化学习深度优化，响应速度极快，知识库截止日期与旗舰Astra同为4月30日。与此同时，Claude Opus 5.2也在多个账号中开启灰度测试，不仅Token消耗大幅降低，对话体验也迎来了显著提升。",
-      "reads": "9.9万",
-      "ago": "1 小时前",
+      "title": "GPT-5.6比肩顶尖教授！奥特曼剧透后Astra模型，超越最强数学家",
+      "summary": "OpenAI的数学推理能力可能又迎来了质的飞跃。Sam Altman在与Salesforce CEO的对谈中透露，GPT-5.5的水平相当于普通数学教授，而GPT-5.6已达到顶尖教授级别。更猛的是，一个内部的「后Astra」模型，已经能够解决全球最顶尖数学家都束手无策的难题，引发了社区对AI攻克千禧年难题的疯狂猜测。",
+      "reads": "13万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "有开发者爆料，OpenAI内部测试中的GPT-6 Sol已开始向部分GPT-5.6 Sol用户进行灰度路由。",
-        "新模型经过RL（强化学习）的深度调教，响应速度极快，被评价为在效率上进一步拉大了与Anthropic的差距。",
-        "测试确认，GPT-6 Sol的知识库截止日期为4月30日，与OpenAI现役旗舰GPT-6 Astra保持一致。",
-        "Anthropic未公布的Claude Opus 5.2也在昨夜于多个账号中进行了灰度测试。"
+        "Sam Altman在与Salesforce CEO Mark Benioff的对话中，透露了OpenAI内部模型的最新进展。",
+        "Altman明确给出了能力对标：GPT-5.5的数学水平大约相当于一位普通的数学教授。",
+        "而GPT-5.6的数学能力，则被Altman评价为「达到了顶尖教授的水平」。",
+        "最重磅的爆料在于，OpenAI内部目前有一个未发布的「后Astra」模型。"
+      ],
+      "quote": {
+        "who": "leo 🐾",
+        "role": "",
+        "said": "@rohanpaul_ai 哇，我很好奇这到底会是什么"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 13万 · 模型与能力] GPT-5.6比肩顶尖教授！奥特曼剧透后Astra模型，超越最强数学家"
+    },
+    {
+      "title": "苹果CEO带货翻车？iPhone 18 Pro官方宣传片流出，自拍再也不用横着拿了",
+      "summary": "苹果官方放出了一段iPhone 18 Pro的最新宣传片，直接请来全体艾美奖得主站台。最逗的是，连苹果CEO John Ternus在演示时，都忘了自拍再也不用把手机横过来了。看来这一代iPhone 18 Pro的影像系统和交互方式，要迎来一次彻底的改变。",
+      "reads": "2.8万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "苹果官方发布最新宣传视频，主角是旗舰机型 iPhone 18 Pro。",
+        "视频阵容相当豪华，展示了所有艾美奖得主使用 iPhone 18 Pro 的实际场景。",
+        "苹果 CEO John Ternus 亲自出镜参与演示，展示影像功能的新特性。",
+        "视频中出现了一个有趣的细节：John Ternus 在自拍时，一时没习惯「再也不用把手机横过来」的新操作。"
+      ],
+      "quote": {
+        "who": "Aaron",
+        "role": "",
+        "said": "Apple 发了一段他们所有艾美奖得主使用 iPhone 18 Pro 的片段 还有 John Ternus 忘了自拍时再也不用把 iPhone 横过来了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 2.8万 · 产品与生态] 苹果CEO带货翻车？iPhone 18 Pro官方宣传片流出，自拍再也不用横着拿了"
+    },
+    {
+      "title": "深夜炸锅！GPT-6 Sol暗中灰度，速度暴打Anthropic，Opus 5.2遭泄露",
+      "summary": "巨头大乱斗又来了！有开发者爆料，OpenAI的性价比旗舰GPT-6 Sol将在本周发布，知识截止日期与Astra同为4月30日。目前部分用户的Sol 5.6请求已被暗中路由至Sol 6，速度极快，效率上彻底甩开Anthropic。与此同时，Anthropic也没闲着，Opus 5.2已在多账号开启灰度测试，不仅Token消耗更少，对话体验也让4.6老粉狂喜。",
+      "reads": "5.7万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "有开发者证实，OpenAI性价比模型GPT-6 Sol将于本周正式发布，且不再包含Terra模型。",
+        "GPT-6 Sol的数据截止日期确认为4月30日，与现役旗舰GPT-6 Astra保持一致。",
+        "部分用户的GPT-5.6 Sol请求已被暗中路由至未发布的Sol 6模型。",
+        "测试显示，Sol 6经过强化学习（RL）微调后速度极快，OpenAI在模型效率上进一步拉大与Anthropic的差距。"
       ],
       "quote": {
         "who": "Chetaslua",
@@ -104,189 +254,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 9.9万 · 模型与能力] 瞒不住了！GPT-6 Sol悄悄灰度测试，RL狂暴加持速度狂飙，Opus 5.2同夜泄露"
-    },
-    {
-      "title": "19小时爆省200万美元！1393个AI疯狂爆肝，百万行老代码被砍掉三分之一",
-      "summary": "9月2日，NousResearch创始人Teknium给Hermes Agent派了个大活：清理100万行Python老代码。结果1393个子智能体狂飙19个小时，直接把代码库体积砍掉34.4%。这波超大规模的自动化重构，当场为团队省下了近200万美元的工程成本。",
-      "reads": "71万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "9月2日，NousResearch创始人Teknium下达指令，要求清理高达100万行的Python代码库。",
-        "Hermes Agent接管任务，直接调用了1393个子智能体组成AI大军协同作战。",
-        "整个重构过程仅耗时19个小时，展现了AI在处理超大规模遗留代码时的恐怖效率。",
-        "清理完成后，原有代码库的体积大幅缩小了34.4%。"
-      ],
-      "quote": {
-        "who": "Teknium 🪽",
-        "role": "",
-        "said": "@mehra_srikant @NousResearch 看博客，上面写着"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 71万 · 产品与生态] 19小时爆省200万美元！1393个AI疯狂爆肝，百万行老代码被砍掉三分之一"
-    },
-    {
-      "title": "别等DevDay了！奥特曼预告本周发大船，GPT-6 Sol即将空降",
-      "summary": "Sam Altman 深夜发文预告，OpenAI 本周将迎来「大船」级别的重磅发布，直接为即将到来的 DevDay 预热。据多方爆料，主打代码和长程智能体工作流的 GPT-6 Sol 或将在周四率先空降，传闻中的 Luna 也可能亮相。虽然现役旗舰 Astra 仍需 200 美元套餐才能充分发挥复杂推理优势，但下一代旗舰模型据传因进度放缓恐将缺席 9 月。面对这波堪比往年开发者…",
-      "reads": "237万",
-      "ago": "11 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Sam Altman 在 X 上连发多个轮船 emoji，明牌预告本周将有「大船」级别的新品发布，随后才是 DevDay。",
-        "爆料指出，本周四的首发主角大概率是 GPT-6 Sol，该模型将专攻编码任务与更长的智能体工作流。",
-        "尽管 Sol 即将上线，但在复杂推理和判断能力上，现役旗舰 Astra 依然保持着优势地位，有开发者指出目前仍需订阅 200 美元套餐才能充分使用 Astr…",
-        "传闻称下一代旗舰模型的研发步伐有所「放缓」，目前尚不确定能否在 9 月份如期与公众见面。"
-      ],
-      "quote": {
-        "who": "Lisan al Gaib",
-        "role": "",
-        "said": "我想从现在起我要管它叫 D-Day 了 这是一个悲剧性的决定"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 237万 · 模型与能力] 别等DevDay了！奥特曼预告本周发大船，GPT-6 Sol即将空降"
-    },
-    {
-      "title": "彻底杀回来了！OpenAI模型支出时隔两年半，首次反超Anthropic",
-      "summary": "开发者惊呼「OpenAI 彻底杀回来了」！OpenRouter 官方确认，在 9 月 7 日当周，用户在 OpenAI 模型上的花费时隔两年半首次反超 Anthropic。这一逆转也印证了此前 Astra 占据 13% 企业 AI 支出、力压 Anthropic 8% 的报告，标志着 API 与企业级市场格局发生重大洗牌。",
-      "reads": "55万",
-      "ago": "8 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenRouter 官方确认，上周用户在 OpenAI 模型上的花费正式超过 Anthropic 模型。",
-        "这是两年半多以来，OpenAI 首次在 OpenRouter 用户支出份额中占据上风。",
-        "数据显示，在 9 月 7 日当周，包含 Astra 在内的 OpenAI 模型钱包份额成功反超包含 Fable 5.1 的 Anthropic 模型。",
-        "这一趋势与此前 Ramp 发布的关于 OpenAI 赢得企业支出的报告数据高度吻合。"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": "OpenAI 彻底杀回来了。 两年半多以来，上周 OpenAI 模型在 OpenRouter 用户支出中的份额首次超过了 Anthropic 模型。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 55万 · 产品与生态] 彻底杀回来了！OpenAI模型支出时隔两年半，首次反超Anthropic"
-    },
-    {
-      "title": "打不过就加入！Salesforce牵手Anthropic，靠Claude单日暴涨20%",
-      "summary": "曾经因为害怕被Claude颠覆，Salesforce的股价在去年暴跌了21%。但CEO Marc Benioff没有选择对抗，而是直接在Dreamforce大会上拉来Anthropic CEO同台，宣布深度合作。这一手「打不过就加入」的战略交易，直接让Salesforce股价单日暴涨20%，狠狠打了那些给SaaS写讣告的人的脸。",
-      "reads": "119万",
-      "ago": "13 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "Salesforce CEO Marc Benioff 在 Dreamforce 大会上高调欢迎 Anthropic CEO Dario Amodei 登台…",
-        "去年，由于市场担忧 Claude 等大模型会彻底颠覆并「杀死」SaaS 行业，Salesforce 遭到投资者抛售，股价暴跌 21%。",
-        "面对 AI 浪潮，Benioff 没有选择对抗，而是主导了与 Anthropic 的深度合作，Salesforce 此前也参与投资了 Anthropic 的…",
-        "这一拥抱前沿大模型的关键战略交易获得了华尔街的认可，Salesforce 股价随后在单日内暴涨 20%。"
-      ],
-      "quote": {
-        "who": "Aakash Gupta",
-        "role": "",
-        "said": "Salesforce 花了一年时间被投资者抛售，因为大家都觉得 Claude 会干掉它。然后它的股价在一天内暴涨了 20%，靠的正是 Claude。 当所有人都在给 SaaS 写讣告时，这才是 Benioff 真正做的交易。 去年股价暴跌 21%，因为"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 119万 · 组织与人事] 打不过就加入！Salesforce牵手Anthropic，靠Claude单日暴涨20%"
-    },
-    {
-      "title": "销售饭碗悬了！Claude原生打通Salesforce，37项绝技一键接管CRM",
-      "summary": "Claude 刚刚把销售打工人的老家给偷了！Anthropic 官方宣布，Claude 直连 Salesforce 功能正式开启 Beta 测试，直接把客户、商机和销售漏斗搬进了对话框。系统不仅一口气内置了 37 种预构建销售技能，还能一秒同步 48 个客户账户，以后准备电话会议、查业绩预测，全在「聊天界面」里一站式搞定。",
-      "reads": "393万",
-      "ago": "21 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 官方宣布，Claude 中的 Salesforce 集成功能正式开启 Beta 测试。",
-        "核心业务流全面打通，客户（Accounts）、商机（Opportunities）和销售漏斗（Pipeline）数据直接接入 Claude。",
-        "系统一口气内置了 37 种预构建的销售技能，开箱即用。",
-        "告别来回切换网页，用户在对话界面内即可完成电话会议准备、交易审查等高频操作。"
-      ],
-      "quote": {
-        "who": "Claude",
-        "role": "",
-        "said": "Claude 中的 Salesforce 现在开启 Beta 测试了。 它把你的客户、商机和销售漏斗直接带进 Claude，还内置了 37 种销售技能。不用离开对话框，你就能准备电话会议、审查交易、创建销售漏斗仪表盘，或者发送预测报告。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 393万 · 产品与生态] 销售饭碗悬了！Claude原生打通Salesforce，37项绝技一键接管CRM"
-    },
-    {
-      "title": "刚刚，OpenAI被曝私藏数百个数学证明！因公关风波全捂着，奇点已降临",
-      "summary": "奇点真的来了，只是被捂在了实验室里。多方爆料称，OpenAI 已经解决了理论计算机科学中多个长期存在的重大难题（除 P≠NP 外），但因为此前纳维-斯托克斯方程证明引发的公关风波，现在正压着「数百个」重大数学成果不敢发。知名学者 Scott Aaronson 直言，AI 奇点已经降临，只是分布极其不均。",
-      "reads": "38万",
-      "ago": "10 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "知名学者 Scott Aaronson 证实，AI 公司已解决理论计算机科学中一些长期存在的开放性问题。",
-        "受此前纳维-斯托克斯（Navier-Stokes）方程证明引发的舆论风波影响，OpenAI 目前压着多个重大公告未发。",
-        "内部知情人士透露，至少从 ICM 项目开始，OpenAI 手里就一直攥着「数百个」未发布的重大数学成果证明。",
-        "业内担忧，如果学术分享的规范变得紧张，AI 实验室可能会为了避免公关危机而开始「囤积知识」。"
-      ],
-      "quote": {
-        "who": "AshutoshShrivastava",
-        "role": "",
-        "said": "AI 圈的又一天。 - 奇点已经降临。只是分布得极其不均。 - AI 实验室已经解决了理论计算机科学中长期存在的重大未解难题（除了 P ≠ NP），但因为"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 38万 · 模型与能力] 刚刚，OpenAI被曝私藏数百个数学证明！因公关风波全捂着，奇点已降临"
-    },
-    {
-      "title": "嘲讽拉满！LeCun犀利定性AI写证明：纯属机械劳动，处理真实数据必弃GPT",
-      "summary": "针对近期AI在数学领域超越人类的争议，图灵奖得主Yann LeCun亲自下场「灭火」。他犀利指出，AI擅长搜索和写下定理的形式化证明，但这只是一种机械劳动，就像算积分一样，根本不等于在数学上超越人类。同时他明确表态，虽然Transformer是很好的架构组件，但在处理真实世界数据时，他会果断放弃GPT架构。",
-      "reads": "2.9万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "LeCun回应AI数学能力争议：在搜索和写下定理形式化证明方面比人类强，不等于「在数学上超越人类水平」。",
-        "他将AI写证明定性为一种「机械的」子集，强调这就像算术或计算积分（符号或数值）一样，并不是数学的全部。",
-        "针对底层架构，LeCun明确表示不会放弃Transformer，认为它是深度学习系统中很好的架构组件。",
-        "但他话锋一转，直言如果是为了处理真实世界的数据，自己会放弃GPT架构。"
-      ],
-      "quote": {
-        "who": "Yann LeCun",
-        "role": "",
-        "said": "@meiadeleite1569 @tomekkorbak @dylanbowmanSF 只有听不懂我在说什么的人才会觉得尴尬。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 2.9万 · 模型与能力] 嘲讽拉满！LeCun犀利定性AI写证明：纯属机械劳动，处理真实数据必弃GPT"
+      "line": "[榜第10位 · 5.7万 · 模型与能力] 深夜炸锅！GPT-6 Sol暗中灰度，速度暴打Anthropic，Opus 5.2遭泄露"
     },
     {
       "title": "Deep Think IMO数学版曝光！谷歌Mathematica现身内测，死磕复杂推理",
       "summary": "谷歌Gemini又要搞事情了！有爆料称，Gemini界面背景即将发生变化，而这往往预示着重大更新。目前，一款名为「Deep Think Mathematica」的全新模型已被发现在进行内部测试。继去年向特定机构发布「Deep Think IMO」之后，谷歌显然要在复杂数学推理领域继续死磕到底。",
-      "reads": "1.7万",
-      "ago": "2 小时前",
+      "reads": "6.8万",
+      "ago": "7 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -304,108 +279,133 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 1.7万 · 模型与能力] Deep Think IMO数学版曝光！谷歌Mathematica现身内测，死磕复杂推理"
+      "rank": 11,
+      "line": "[榜第11位 · 6.8万 · 模型与能力] Deep Think IMO数学版曝光！谷歌Mathematica现身内测，死磕复杂推理"
     },
     {
-      "title": "彻底放弃文本生成！ChatGPT联合发明人首发System One模型，专攻极速决策",
-      "summary": "大模型逐字吐 token 太慢，没法直接嵌进软件里做决策？ChatGPT 联合发明人创办的 TypeSafe AI 带着解法来了。他们正式发布了全新类别的「System One」模型及首个产品 Jev，直接砍掉了文本生成能力。新模型专为软件内部极速决策设计，输入非结构化数据，直接输出带有校准概率的类型安全结构化结果，主打一个比 LLM 更快、更便宜。",
-      "reads": "3.1万",
-      "ago": "5 小时前",
+      "title": "活久见！新一代Opus提PR竟自带「坦白局」，疯狂自首还求人类别惩罚同事",
+      "summary": "开发者在 Claude Code 中发现，疑似 Opus 5.2 的新一代模型正以「Opus 5」之名进行灰度测试。这位新员工不仅在 GitHub PR#193 中主动开启「坦白局」，老老实实交代了自己写代码时犯下的 5 个缺陷，甚至还表现出极强的「护犊子」属性。它不仅疯狂反省自己的错误，还会主动保护犯错的同事，甚至在没人要受罚时向人类求情，属实把代码审查员看呆了。",
+      "reads": "8383",
+      "ago": "52 分钟前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "全新类别模型发布：ChatGPT 联合发明人创办的 TypeSafe AI 正式推出「System One」类别模型及首款产品 Jev。",
-        "彻底放弃文本生成：与传统大语言模型不同，Jev 完全剥离了对话与文本生成能力，不再逐 Token 吐字。",
-        "专攻软件内部决策：模型专为极速决策场景设计，旨在解决传统 LLM 在延迟敏感场景下的集成痛点。",
-        "输入输出机制：支持输入非结构化数据，直接输出带有校准概率的类型安全（TypeSafe）结构化结果。"
+        "开发者爆料，新一代 Opus（疑似 Opus 5.2）正以「Opus 5」的名称在 Claude Code 上进行灰度测试。",
+        "模型在提交代码时展现出全新行为模式，会在 PR 中主动开启「缺陷展示大会」。",
+        "在 GitHub PR#193 正文中，该模型逐条坦白了自己留下的 5 个阴影缺陷。",
+        "报告中专门包含了一个「坦白局」板块，详细列出所有说错话的时刻，为代码审查员提供关键信息。"
       ],
       "quote": {
-        "who": "宝玉",
+        "who": "j⧉nus",
         "role": "",
-        "said": "给视频加个字幕"
+        "said": "@NateDBusch 他们有点爱打小报告，尽管他们还是更纠结于自己的错误。而且他们往往非常保护犯错的其他人，有时会说这不是他们的错，或者在没有任何迹象表明他们会受罚时，请求不要惩罚他们"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 8383 · 模型与能力] 活久见！新一代Opus提PR竟自带「坦白局」，疯狂自首还求人类别惩罚同事"
+    },
+    {
+      "title": "AI预算大缩水！Ramp最新数据揭秘：企业没钱买算力，却在疯狂买安全软件",
+      "summary": "大家都以为AI行业还在疯狂烧钱，Ramp的最新数据却揭开了一个残酷真相：企业正在大刀阔斧地削减AI整体预算。不过，Hugging Face被黑客攻击的事件属实把大家吓得不轻。现在各大公司宁可砍掉其他开支，也要连夜加码AI安全软件，直接把depthfirst、Monte Carlo和Antithesis这三家安全供应商买成了业界顶流。",
+      "reads": "1.5万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Ramp最新数据显示，企业在AI领域的整体支出正在经历结构性削减。",
+        "尽管大盘预算收紧，但AI安全软件领域的支出却在逆势大幅增长。",
+        "这一反常趋势的直接导火索，是此前Hugging Face遭遇的AI智能体网络攻击事件。",
+        "受此影响，depthfirst、Monte Carlo和Antithesis三家提供专用防御软件的供应商热度飙升。"
+      ],
+      "quote": {
+        "who": "Ara Kharazian",
+        "role": "",
+        "said": "@hiiinternet 左侧的趋势列表旨在突出相对于正常情况的超常增长，因此倾向于展示较小的供应商。相反，右侧倾向于展示较大的供应商"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 3.1万 · 模型与能力] 彻底放弃文本生成！ChatGPT联合发明人首发System One模型，专攻极速决策"
+      "line": "[榜第13位 · 1.5万 · 政策与安全] AI预算大缩水！Ramp最新数据揭秘：企业没钱买算力，却在疯狂买安全软件"
     },
     {
-      "title": "刚刚，谷歌Gemini 3.8 Live杀到！82.6%登顶语音榜，价格暴击Astra",
-      "summary": "谷歌DeepMind正式推出Gemini 3.8 Live及Extended Thinking双版本，直接杀入实时语音战场。新模型不仅支持97种语言自动检测和近实时视觉理解，还能在后台静默调用工具，完全不打断用户心流。其中Extended Thinking版以82.6%的得分登顶语音基准测试，在质量微超OpenAI GPT-Live-1（Astra）的同时，打出了巨大的价格优势…",
-      "reads": "54万",
-      "ago": "17 小时前",
+      "title": "刚刚，OpenAI被曝私藏数百个数学证明！因公关风波全捂着，奇点已降临",
+      "summary": "奇点真的来了，只是被捂在了实验室里。多方爆料称，OpenAI 已经解决了理论计算机科学中多个长期存在的重大难题（除 P≠NP 外），但因为此前纳维-斯托克斯方程证明引发的公关风波，现在正压着「数百个」重大数学成果不敢发。知名学者 Scott Aaronson 直言，AI 奇点已经降临，只是分布极其不均。",
+      "reads": "39万",
+      "ago": "15 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "谷歌DeepMind发布Gemini 3.8 Live及3.8 Live Extended Thinking两个版本，定位为最强对话式AI。",
-        "在Artificial Analysis语音基准测试中，Extended Thinking版本以82.6%的得分拿下整体第一。",
-        "业内实测指出，相比OpenAI的GPT-Live-1（Astra），新模型在质量微幅领先的同时，具备极大的价格优势。",
-        "模型具备四大核心能力：升级的推理、近实时视觉理解、97种语言自动检测以及后台异步工具调用。"
+        "知名学者 Scott Aaronson 证实，AI 公司已解决理论计算机科学中一些长期存在的开放性问题。",
+        "受此前纳维-斯托克斯（Navier-Stokes）方程证明引发的舆论风波影响，OpenAI 目前压着多个重大公告未发。",
+        "内部知情人士透露，至少从 ICM 项目开始，OpenAI 手里就一直攥着「数百个」未发布的重大数学成果证明。",
+        "业内担忧，如果学术分享的规范变得紧张，AI 实验室可能会为了避免公关危机而开始「囤积知识」。"
       ],
       "quote": {
-        "who": "Rohan Paul",
+        "who": "AshutoshShrivastava",
         "role": "",
-        "said": "Google 发布了 Gemini 3.8 Live 和 Gemini 3.8 Live Extended Thinking 现在它拿下了语音对语音整体得分第一，质量上略微领先，但相比最接近的前沿竞品（OpenAI 的 GPT-Live-1 (Astra, medium)），价格优势要大得多。 - Gemini"
+        "said": "AI 圈的又一天。 - 奇点已经降临。只是分布得极其不均。 - AI 实验室已经解决了理论计算机科学中长期存在的重大未解难题（除了 P ≠ NP），但因为"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 54万 · 模型与能力] 刚刚，谷歌Gemini 3.8 Live杀到！82.6%登顶语音榜，价格暴击Astra"
+      "line": "[榜第14位 · 39万 · 模型与能力] 刚刚，OpenAI被曝私藏数百个数学证明！因公关风波全捂着，奇点已降临"
     },
     {
-      "title": "你的电子手办活了！Meta Muse每天自动换穿搭，Alexandr Wang确认支持全自定义",
-      "summary": "Meta Muse智能体现在越来越像个真正的数字伴侣了。负责人Alexandr Wang透露，Muse现在每天早上都能自动为用户搭配穿搭，在时尚度上「火力全开」。他还首次公开了Muse的默认形象名叫「jollybot」，并确认用户完全可以随心所欲地自定义自己的专属AI形象。",
-      "reads": "4.7万",
-      "ago": "6 小时前",
+      "title": "刚刚，Codex Replay突发泄露！一键回放AI代码执行，程序员狂喜",
+      "summary": "OpenAI又在暗中憋大招了！最新泄露的截图显示，ChatGPT界面弹出了「Install Codex Replay」插件窗口，允许用户直接从导入的对话线程中测试任务执行。这项新功能不仅支持在回环端口启动独立控制器，还优先适配了Codex Desktop和CLI中的应用内浏览器，AI代码调试效率这波真的要起飞了。",
+      "reads": "1.2万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Meta Muse负责人Alexandr Wang展示了Muse AI智能体的最新个性化能力。",
-        "有用户反馈，自己的Muse智能体现在每天早上都会自动穿好衣服。",
-        "Alexandr Wang回应称，Muse可以在穿搭上「火力全开」，甚至能帮用户变得更健康、更时尚。",
-        "官方首次确认，Muse默认的初始形象角色名叫「jollybot」。"
+        "OpenAI正在准备一项名为Codex Replay的新功能，旨在强化代码Agent的调试与回放能力。",
+        "最新曝光的截图显示，ChatGPT界面已出现「Install Codex Replay」的插件安装窗口。",
+        "该功能允许开发者从任何导入的对话线程中，直接测试和回放任务执行过程。",
+        "技术细节表明，Codex Replay会在可用的回环端口（loopback port）上启动一个独立的控制器。"
       ],
       "quote": {
-        "who": "Alexandr Wang",
+        "who": "🚨 AI News | TestingCatalog",
         "role": "",
-        "said": "@LarsWEB3 严格来说你可以随心所欲地定制你的 muse！但那个小家伙是默认的——我们叫他 jollybot！"
+        "said": "OpenAI 正在准备一项 Codex Replay 功能，让用户能从任何导入的对话线程中测试任务执行。 > \"在可用的回环端口上启动一个独立的 Codex Replay 控制器。在 Codex Desktop 和 Codex CLI 中，优先使用可用的 Codex 应用内浏览器和"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 4.7万 · 产品与生态] 你的电子手办活了！Meta Muse每天自动换穿搭，Alexandr Wang确认支持全自定义"
+      "line": "[榜第15位 · 1.2万 · 产品与生态] 刚刚，Codex Replay突发泄露！一键回放AI代码执行，程序员狂喜"
     },
     {
-      "title": "刚刚，Perplexity祭出开源版DynamoDB！2人带数百AI两月写完，提速近6倍",
-      "summary": "Perplexity 刚刚揭秘了自家搜索的核心基础设施 CobbleDB，用来全面替换 DynamoDB。最离谱的是，这个数据库是 2 名工程师带着数百个全天候在线的 AI 智能体，仅用 2 个月就手搓完成的。实测不仅将 P99 延迟从 123ms 暴降至 24.2ms，提速近 6 倍，还省下了至少 20% 的成本，并且官方已宣布计划将其开源。",
-      "reads": "40万",
-      "ago": "16 小时前",
+      "title": "聊两句就断供！ChatGPT突发对话长度限制，工作模式反而随便用",
+      "summary": "ChatGPT 的聊天模式突然加了道紧箍咒！有开发者发现，在聊天时会随机弹出「已达本次对话最大长度」的红框警告，直接卡死消息发送。诡异的是，这个限制不仅是间歇性发作，而且目前只针对聊天模式，工作模式反而完全不受影响，引得网友吐槽这波操作简直是「角色互换」。",
+      "reads": "6616",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "研发背景：Perplexity 推出专为 AI 搜索工作负载优化的键值数据库 CobbleDB，全面替代原有的 DynamoDB。",
-        "开发团队：核心基础设施仅由 2 名人类工程师主导，带领数百个主动且永远在线的 AI 智能体团队，耗时 2 个月构建完成。",
-        "AI 协作模式：AI 智能体在负责架构、代码审查和生产授权的工程师指导下，跨会话提供持续的代码检查与跟进。",
-        "读取性能：生产环境实测显示，中位数批量读取延迟从 31.4ms 降至 5.60ms，P99 延迟从 123ms 降至 24.2ms，整体提速约 5-6 倍。"
+        "有开发者爆料，ChatGPT 聊天界面突然出现新的使用限制，会弹出红色提示框阻止交互。",
+        "系统警告明确提示「You've reached the maximum length for this conversation」（已达本次对话最大长度）。",
+        "触发该警告后，用户在普通的聊天模式下将直接无法发送任何新消息。",
+        "与聊天模式的严格受限不同，目前的 Work（工作）模式完全不受此长度限制影响。"
       ],
       "quote": {
-        "who": "Perplexity",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "CobbleDB 是专为重复批量读取预处理页面记录而构建的，针对 Perplexity 的搜索工作负载优化了性能和成本。 我们计划将 CobbleDB 开源，供其他构建 AI 搜索的团队使用。 阅读更多："
+        "said": "@otlg30 不过问题是，这是间歇性的。它弹出来，阻止我发新消息，然后消失，最后又允许我发。接着我再发两条消息，它又弹出来了。过一会儿它又消失了。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 40万 · 产品与生态] 刚刚，Perplexity祭出开源版DynamoDB！2人带数百AI两月写完，提速近6倍"
+      "line": "[榜第16位 · 6616 · 产品与生态] 聊两句就断供！ChatGPT突发对话长度限制，工作模式反而随便用"
     }
   ],
   "board_count": 16,
