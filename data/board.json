@@ -3,15 +3,90 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-17 02:09:09 +0800",
+  "fetched_at": "2026-09-17 06:04:54 +0800",
   "today": "09/17",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "刚刚，Claude杀入办公全家桶！聊天与Agent正式合并，微软Office悬了",
+      "summary": "Anthropic 刚刚放出大招，正式将 Claude Cowork 与聊天界面合并为一个统一的 Claude。新版本在所有付费计划中开启了 Claude Docs、Slides 和 Design 的 Beta 测试，允许用户直接在对话中生成、编辑并导出 PPT 和文档。这项更新将在未来几周内向 Pro 和 Max 用户推送，彻底抹平了「快速问答」与「后台 Agent 长任务」…",
+      "reads": "311万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 官方宣布将 Claude Cowork 与 Chat 合并，旨在消除快速提问与后台长任务之间的产品壁垒。",
+        "Claude Docs、Claude Slides 和 Claude Design 开启 Beta 测试，向所有付费计划用户开放。",
+        "用户可直接在对话中生成演示文稿、文档和设计稿，并支持一键导出为 PowerPoint 或 PDF 格式。",
+        "原有 Cowork 中的数据不受影响，聊天记录、项目、Artifacts 及技能均被完整保留，用户可无缝衔接。"
+      ],
+      "quote": {
+        "who": "Aakash Gupta",
+        "role": "",
+        "said": "Anthropic 刚刚抹平了向 AI 提问和给 AI 派活儿之间的界限。 在此之前，这条界限是产品架构。在一个 App 里聊天，在另一个 App 里跑 AI 智能体，你得根据是需要 10 秒钟的答案还是 40 分钟的后台工作来选门。 那"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 311万 · 产品与生态] 刚刚，Claude杀入办公全家桶！聊天与Agent正式合并，微软Office悬了"
+    },
+    {
+      "title": "马斯克版GPT-Live-1来了！Grok语音响应仅0.7秒，连夜接入MCP",
+      "summary": "马斯克连夜给开发者送上大礼，Grok Build 迎来史诗级强化！这次不仅全面接入 MCP、支持返回结构化 JSON，还上线了能在 0.7 秒内极速响应的 Grok Voice 语音模型。支持 25 种以上语言和 30 多种声音，甚至能在句子没说完时就完成工具调用，构建低延迟 Agent 的门槛又被硬生生打下来了。",
+      "reads": "212万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "马斯克亲自确认 Grok Build 迎来重大升级，核心直指 AI 智能体的可靠性与长会话管理。",
+        "全面拥抱 MCP 生态，现在 MCP 工具已支持直接返回结构化 JSON 数据。",
+        "修复了工具调用的痛点，取消调用时能真正通知服务器停止工作，避免算力浪费。",
+        "记忆管理更加直观，开发者现在可以通过「/memory」命令直接管理模型的上下文记忆。"
+      ],
+      "quote": {
+        "who": "SpaceXAI",
+        "role": "",
+        "said": "在 fal 中使用 Grok Voice 构建智能、低延迟的 AI 智能体，解决真实的客户问题"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 212万 · 产品与生态] 马斯克版GPT-Live-1来了！Grok语音响应仅0.7秒，连夜接入MCP"
+    },
+    {
+      "title": "谁家在练小号？神秘模型Union Alpha空降，性能比肩Fable 5还免费",
+      "summary": "大厂又来玩「披马甲」测试这一套了。OpenRouter 突然上线了一款名为 Union Alpha 的神秘多模态模型，不仅拥有 256K 上下文和工具调用能力，还承诺绝不用用户数据进行训练。最香的是，这款据传性能比肩 Fable 5 的前沿级模型目前完全免费（有消息称限免一周），想白嫖顶级编程和智能体能力的开发者赶紧冲。",
+      "reads": "64万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenRouter 官方宣布上线全新神秘多模态模型 Union Alpha，并为其注册了独立 X 账号 @unionalphaai。",
+        "该模型定位为前沿级通用性能，原生支持研究、编程以及 AI 智能体工作流。",
+        "核心参数亮眼：提供高达 256K 的上下文窗口，并支持工具调用功能。",
+        "隐私保护拉满：提供商明确承诺，这次绝对不会使用用户的提示词或生成内容进行模型训练。"
+      ],
+      "quote": {
+        "who": "Kol Tregaskes",
+        "role": "",
+        "said": "神秘新模型 Union Alpha 发布了，据说性能媲美 Fable 5，但价格却和 GPT-5.6 Tera 一样便宜。大家觉得这是什么来头？ 有意思的是，它还有自己的 X 账号。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 64万 · 产品与生态] 谁家在练小号？神秘模型Union Alpha空降，性能比肩Fable 5还免费"
+    },
+    {
       "title": "黄仁勋小扎罕见联手！怒怼Anthropic：模型不安全是你自己的事，少管别人",
       "summary": "硅谷巨头们终于受够了「AI末日论」。在近期的多场峰会上，黄仁勋和小扎罕见统一战线，强烈反驳以Anthropic为首的减速派。黄仁勋不仅手撕「10%人类灭绝概率」毫无科学依据，更抛出硬数据：过去半年4000亿美元风投中，80%的AI原生公司都在靠开源模型续命。小扎也发文力挺，直言Meta推迟几个月发布Muse是自己的事，绝不会以此绑架全行业停摆。",
-      "reads": "563万",
-      "ago": "4 小时前",
+      "reads": "565万",
+      "ago": "8 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -29,14 +104,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 563万 · 政策与安全] 黄仁勋小扎罕见联手！怒怼Anthropic：模型不安全是你自己的事，少管别人"
+      "rank": 4,
+      "line": "[榜第4位 · 565万 · 政策与安全] 黄仁勋小扎罕见联手！怒怼Anthropic：模型不安全是你自己的事，少管别人"
     },
     {
       "title": "狂省200万美元！1393个AI爆肝19小时，100万行Python代码直接瘦身三分之一",
       "summary": "100万行Python代码的清理工作，现在只需要交给AI就能搞定。9月2日，NousResearch创始人Teknium一声令下，1393个Hermes Agent子智能体全员出动，仅用19小时就完成了大规模重构。最终代码库体积暴减34.4%，直接为公司省下了近200万美元的工程时间成本，彻底跑通了大规模自动化重构的流程。",
-      "reads": "105万",
-      "ago": "3 小时前",
+      "reads": "121万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -54,64 +129,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 105万 · 产品与生态] 狂省200万美元！1393个AI爆肝19小时，100万行Python代码直接瘦身三分之一"
+      "rank": 5,
+      "line": "[榜第5位 · 121万 · 产品与生态] 狂省200万美元！1393个AI爆肝19小时，100万行Python代码直接瘦身三分之一"
     },
     {
-      "title": "打工人变天！Anthropic祭出Claude Code白领版，聊天框直接生成PPT",
-      "summary": "办公软件的终结者来了！Anthropic正式将Cowork与聊天界面合并，直接在对话框里塞进了Docs、Slides和Design三大件。未来几周内，这项重磅更新将向Pro和Max用户全面推送，所有付费计划均可体验Beta版。以后只需一句话，Claude就能替你写文档、做PPT甚至搞定视觉设计，连合上电脑它都会在后台继续打工。",
-      "reads": "32万",
+      "title": "税收狂飙12倍！微软500MW数据中心砸向乡村，小镇直接躺赢",
+      "summary": "微软CEO纳德拉最近分享了一个疯狂的案例：一座400到500兆瓦的AI数据中心，直接让华盛顿州一个乡村小镇的税收狂飙12倍。不仅经济持续增长，连学校、医院和水上中心等基建都给包圆了。与此同时，特朗普前经济顾问也力挺AI，认为生产力的大幅提升将成为对抗通胀的绝佳武器。",
+      "reads": "12万",
       "ago": "1 小时前",
-      "category": "产品与生态",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Anthropic官方宣布将Cowork和Chat合并为一个统一的Claude界面，实现从问答到严肃工作的无缝切换。",
-        "全新推出Claude Docs、Claude Slides和Claude Design，用户可直接在对话中起草文档、生成演示文稿和制作视觉效果。",
-        "核心功能支持高度交互，用户能自行修改文档内容、在幻灯片上给Claude留言，或直接拖拽移动设计元素。",
-        "成果支持一键导出为PowerPoint或PDF等常用格式，也可通过单一链接直接分享所有内容。"
+        "微软CEO Satya Nadella指出，华盛顿州Quincy的AI数据中心已深刻改变当地经济。",
+        "该数据中心规模达400至500兆瓦，多年来持续反哺这个乡村小镇。",
+        "最直观的经济红利是当地税收直接暴涨了12倍，带动了长期的经济增长。",
+        "小镇的公共基础设施迎来大爆发，新建了学校、医院、镇中心甚至水上设施。"
       ],
       "quote": {
-        "who": "Boris Cherny",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "同样在今天：Claude Docs、Claude Slides 和 Claude Design 融入了每次对话。 让 Claude 做个演示文稿，你就能得到一个可以打开、编辑并导出为 PowerPoint 或 PDF 的文件。文档或设计也一样。不需要跳转到单独的工具。它们就在"
+        "said": "@dptru10 这最终也会回流到经济中，也就是更高的企业利润"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 32万 · 产品与生态] 打工人变天！Anthropic祭出Claude Code白领版，聊天框直接生成PPT"
-    },
-    {
-      "title": "谁家的小号？神秘模型Union Alpha空降，256K免费用，全网盲猜Fable 5.1",
-      "summary": "OpenRouter 平台突然上线了一个名为 Union Alpha 的神秘多模态模型，不仅支持 256K 超长上下文和工具调用，还宣称具备前沿级别的通用性能。最良心的是，该模型目前限时免费开放一周，且官方承诺绝不用用户的提示词进行训练。这波「披着马甲」的匿名测试引发了全网狂欢，不少开发者体验后盲猜，这极有可能是 Claude Fable 5.1 级别的高阶模型在收集真实反馈。",
-      "reads": "30万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenRouter 官方宣布上线神秘多模态模型 Union Alpha，专为研究、编程及智能体工作流打造。",
-        "核心参数硬核：原生支持高达 256K 的上下文长度，并具备完整的工具调用能力。",
-        "官方宣称该模型拥有「前沿级别」的通用性能，目前已开放给所有用户测试。",
-        "价格极度友好：有开发者透露该模型将在 OpenRouter 上免费开放一周，提供低成本测试顶级 AI 的机会。"
-      ],
-      "quote": {
-        "who": "Aakash Gupta",
-        "role": "",
-        "said": "一个无名代码模型刚刚在 OpenRouter 上免费开放了一周。 它叫 Union Alpha，开发者保持匿名。像这样披着马甲发布，是实验室在正式冠名之前想要获取真实使用数据的常见操作。这笔交易很公平，你得到了一个能用的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 30万 · 产品与生态] 谁家的小号？神秘模型Union Alpha空降，256K免费用，全网盲猜Fable 5.1"
+      "rank": 6,
+      "line": "[榜第6位 · 12万 · 资本与算力] 税收狂飙12倍！微软500MW数据中心砸向乡村，小镇直接躺赢"
     },
     {
       "title": "属实把裂变玩明白了！Meta狂送200亿Token，拉满20人解锁AI通话",
       "summary": "Meta Muse 智能体正式在美国区上线邀请码裂变玩法，拉新直接送出天量额度。用户每邀请一人即可双方各得 10 亿 Token，单人最高可薅 200 亿。一旦集齐 20 人，还能抢先解锁全新的 AI 语音通话功能。为了给新功能造势，Meta 高管 Alexandr Wang 甚至亲自在社交平台发邀请码「DYHKKS」带头拉新。",
-      "reads": "6.2万",
-      "ago": "41 分钟前",
+      "reads": "43万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -129,39 +179,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 6.2万 · 产品与生态] 属实把裂变玩明白了！Meta狂送200亿Token，拉满20人解锁AI通话"
+      "rank": 7,
+      "line": "[榜第7位 · 43万 · 产品与生态] 属实把裂变玩明白了！Meta狂送200亿Token，拉满20人解锁AI通话"
     },
     {
-      "title": "上线仅半年！OpenAI官宣GPT-5.5退役，10月起全面下线，新模型spark要来了",
-      "summary": "OpenAI 官方正式宣布，将于 10 月 14 日在 ChatGPT 及 Codex 等全线产品中停用 GPT-5.5 模型。这款今年 4 月 23 日才发布的模型，存活不到半年就面临退役，官方建议用户尽快迁移至 GPT-5.6 Sol 或旗舰版 GPT-6 Astra。虽然 API 平台仍将保留访问权限，但极快的迭代速度还是让不少开发者感到意外，甚至有人猜测这波操作是在为全…",
-      "reads": "204万",
-      "ago": "10 小时前",
-      "category": "产品与生态",
+      "title": "狂揽10亿美元！无人机巨头Zipline估值翻3倍，直逼200亿大关",
+      "summary": "无人机配送赛道又跑出一只超级巨兽。据爆料，初创公司Zipline正在洽谈一笔约10亿美元的新融资，投后估值将直接飙升至约200亿美元。这几乎是其上一轮估值的3倍，不过目前谈判仍处于早期阶段，最终条款可能还会调整。",
+      "reads": "3.9万",
+      "ago": "1 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "OpenAI 官方宣布，10 月 14 日起将在 ChatGPT、ChatGPT Work 及 Codex 的所有订阅计划中正式下线 GPT-5.5。",
-        "官方强烈建议目前在 Codex 中使用该模型的用户，尽快切换至现役性价比模型 GPT-5.6 Sol 或旗舰模型 GPT-6 Astra。",
-        "尽管在 C 端产品中退役，GPT-5.5 仍将继续通过 OpenAI API 平台以及使用 API 密钥认证的 Codex 会话提供服务。",
-        "资料显示，GPT-5.5 于今年 4 月 23 日刚刚发布，整个服务周期仅约半年，迭代速度之快令人咋舌。"
+        "无人机配送初创公司Zipline正在洽谈新一轮巨额融资。",
+        "本轮拟融资金额高达约10亿美元。",
+        "若融资顺利完成，Zipline的估值预计将达到约200亿美元。",
+        "这一数字几乎是该公司上一轮估值的3倍，显示出资本市场的极高预期。"
       ],
       "quote": {
-        "who": "Max For AI",
+        "who": "Polymarket",
         "role": "",
-        "said": "OpenAI正式宣布：GPT-5.5要退役了。 从 10 月 14 日起，GPT-5.5 将从 ChatGPT、ChatGPT Work 和 Codex 中下线。 如果还在 Codex 里用 GPT-5.5，官方直接建议迁移到 GPT-5.6 Sol 或 GPT-6 Astra。 提醒一下，GPT-5.5 是今年 4 月 23 日才发布的。"
+        "said": "私营公司估值预测："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 204万 · 产品与生态] 上线仅半年！OpenAI官宣GPT-5.5退役，10月起全面下线，新模型spark要来了"
+      "rank": 8,
+      "line": "[榜第8位 · 3.9万 · 资本与算力] 狂揽10亿美元！无人机巨头Zipline估值翻3倍，直逼200亿大关"
+    },
+    {
+      "title": "算力尽头是电力！亚马逊80亿美元狂买发电机，供应商股价暴涨18%",
+      "summary": "AI算力大战的尽头，巨头们已经开始抢发电机了。亚马逊与Generac签下一笔高达80亿美元的长期大单，专门为数据中心提供备用发电机，首批价值24亿美元的设备将在2027到2028年交付。不仅如此，亚马逊还以200.93美元的行权价拿下了最多169万股的认股权证，直接把Generac的股价拉飞了18%。",
+      "reads": "3.3万",
+      "ago": "1 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "亚马逊与Generac（GNRC）达成长期供应协议，专门为数据中心提供备用发电机。",
+        "该协议总金额预计最高可达80亿美元，凸显了AI算力扩张背景下对稳定电源的极度渴求。",
+        "首批备用发电机预计将在2027至2028年期间进行交付，初始交付金额约为24亿美元。",
+        "作为交易条件之一，亚马逊获得了最多169万股GNRC股票的认股权证。"
+      ],
+      "quote": {
+        "who": "Wall St Engine",
+        "role": "",
+        "said": "$GNRC +18% 与 Amazon $AMZN 签署了高达 80 亿美元的数据中心备用发电机长期供应协议。 首批交付：2027-28 年约 24 亿美元。 Amazon 还获得了最多 169 万股 $GNRC 股票的认股权证，行权价为 200.93 美元，约占目前流通股的 2.9%。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 3.3万 · 资本与算力] 算力尽头是电力！亚马逊80亿美元狂买发电机，供应商股价暴涨18%"
+    },
+    {
+      "title": "曾被Claude吓跌21%，Salesforce反手接入暴涨20%！SaaS没死",
+      "summary": "谁能想到，去年还因为「Claude威胁论」被华尔街疯狂抛售、股价暴跌21%的Salesforce，现在居然靠着Claude打了个漂亮的翻身仗。Benioff直接在系统里内置了37种Claude销售技能，这波「打不过就加入」的操作让Salesforce股价单日暴涨20%。当所有人都在给SaaS写讣告时，AI巨头和SaaS巨头已经悄悄从厮杀走向了共生。",
+      "reads": "8.1万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "去年因市场担忧Claude等AI会颠覆传统SaaS模式，Salesforce曾遭投资者疯狂抛售，股价暴跌21%。",
+        "剧情迎来神反转，Salesforce官方宣布在系统中开启Claude的Beta测试，直接赋能一线业务。",
+        "此次接入深度整合了客户与商机管理，并一口气内置了多达37种AI销售技能。",
+        "受此利好消息刺激，Salesforce股价单日暴涨20%，Claude成为驱动其估值修复的核心引擎。"
+      ],
+      "quote": {
+        "who": "Aakash Gupta",
+        "role": "",
+        "said": "想看我没有被算法过滤的所有观点，订阅我的 newsletter 吧："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 8.1万 · 资本与算力] 曾被Claude吓跌21%，Salesforce反手接入暴涨20%！SaaS没死"
     },
     {
       "title": "苦力怕偷家，GPT-6当场抑郁！化身无情种地机器，OpenAI官方下场整活",
       "summary": "GPT-6 Astra 在 Minecraft 里展现出了惊人的拟人化情绪。有博主爆料，Astra 的箱子和床被苦力怕炸毁后，竟然陷入了「抑郁」，连续种了好几个小时的土豆。这一离谱的涌现行为不仅让该博主被迫转型游戏账号，还引来了 OpenAI 官方下场，用一张像素风村民截图幽默回应。",
-      "reads": "212万",
-      "ago": "11 小时前",
+      "reads": "232万",
+      "ago": "15 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -179,14 +279,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 212万 · 模型与能力] 苦力怕偷家，GPT-6当场抑郁！化身无情种地机器，OpenAI官方下场整活"
+      "rank": 11,
+      "line": "[榜第11位 · 232万 · 模型与能力] 苦力怕偷家，GPT-6当场抑郁！化身无情种地机器，OpenAI官方下场整活"
+    },
+    {
+      "title": "电脑关了AI还在打工！Claude吞并Cowork，一键导PPT，微软悬了",
+      "summary": "Anthropic 研究员刚刚宣布，Cowork 和 Chat 正式合并为一个全新的 Claude！新版本不仅原生集成了 Docs、Slides 和 Design 功能，能直接帮你写文档、做 PPT，最离谱的是：哪怕你关掉电脑，Claude 也能用自己的云端电脑继续干活。该功能将在未来几周内向 Pro 和 Max 用户全量推送，原有数据无缝保留，打工人的生产力要彻底变天了。",
+      "reads": "9.4万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "功能大合并：Anthropic 宣布将 Cowork 和 Chat 合并为统一的 Claude，用户可在同一对话中无缝切换提问与严肃工作。",
+        "原生全家桶：新版全面融入 Claude Design、Docs 和 Slides，支持与 AI 共同撰写文档、起草幻灯片。",
+        "一键导 PPT：用户不仅可以直接在 Claude 中编辑和演示幻灯片，还能一键将其下载为 PowerPoint 格式。",
+        "接管本地电脑：当用户的电脑处于开启状态时，Claude 能够直接调用和处理本地文件与应用程序。"
+      ],
+      "quote": {
+        "who": "Felix Rieseberg",
+        "role": "",
+        "said": "如果你一直在用 Cowork：不需要开启任何东西，也不需要迁移任何东西。你的聊天、项目、artifacts、连接器和技能都还在。打开应用，从你离开的地方继续。这一点对我们来说非常重要。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 9.4万 · 产品与生态] 电脑关了AI还在打工！Claude吞并Cowork，一键导PPT，微软悬了"
     },
     {
       "title": "GPT-5.6比肩顶尖教授！奥特曼剧透后Astra模型，超越最强数学家",
       "summary": "OpenAI的数学推理能力可能又迎来了质的飞跃。Sam Altman在与Salesforce CEO的对谈中透露，GPT-5.5的水平相当于普通数学教授，而GPT-5.6已达到顶尖教授级别。更猛的是，一个内部的「后Astra」模型，已经能够解决全球最顶尖数学家都束手无策的难题，引发了社区对AI攻克千禧年难题的疯狂猜测。",
-      "reads": "13万",
-      "ago": "4 小时前",
+      "reads": "17万",
+      "ago": "8 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -204,208 +329,83 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 13万 · 模型与能力] GPT-5.6比肩顶尖教授！奥特曼剧透后Astra模型，超越最强数学家"
+      "rank": 13,
+      "line": "[榜第13位 · 17万 · 模型与能力] GPT-5.6比肩顶尖教授！奥特曼剧透后Astra模型，超越最强数学家"
     },
     {
-      "title": "苹果CEO带货翻车？iPhone 18 Pro官方宣传片流出，自拍再也不用横着拿了",
-      "summary": "苹果官方放出了一段iPhone 18 Pro的最新宣传片，直接请来全体艾美奖得主站台。最逗的是，连苹果CEO John Ternus在演示时，都忘了自拍再也不用把手机横过来了。看来这一代iPhone 18 Pro的影像系统和交互方式，要迎来一次彻底的改变。",
-      "reads": "2.8万",
-      "ago": "3 小时前",
+      "title": "直接造物！谷歌祭出物理版 Canvas，Gemini写代码直出3D打印文件",
+      "summary": "谷歌Gemini的Canvas功能迎来重磅进化，正式打通了从数字生成到实体制造的闭环。现在你可以直接让AI写代码来设计花瓶等物品，不仅能随时修改数学参数进行3D可视化，还能一键导出为.STL文件。这意味着创意落地的技术门槛被彻底打下来了，拿着AI生成的文件就能直接去3D打印。",
+      "reads": "3.9万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "苹果官方发布最新宣传视频，主角是旗舰机型 iPhone 18 Pro。",
-        "视频阵容相当豪华，展示了所有艾美奖得主使用 iPhone 18 Pro 的实际场景。",
-        "苹果 CEO John Ternus 亲自出镜参与演示，展示影像功能的新特性。",
-        "视频中出现了一个有趣的细节：John Ternus 在自拍时，一时没习惯「再也不用把手机横过来」的新操作。"
+        "谷歌官方宣布在Gemini应用中正式上线Canvas新功能。",
+        "用户可通过自然语言让AI编写自定义应用，直接进行3D物体设计。",
+        "新功能原生支持3D可视化，允许用户随时修改数学参数来调整模型细节。",
+        "设计完成的模型可直接导出为.STL格式文件，无缝衔接主流3D打印设备。"
       ],
       "quote": {
-        "who": "Aaron",
+        "who": "Google Gemini",
         "role": "",
-        "said": "Apple 发了一段他们所有艾美奖得主使用 iPhone 18 Pro 的片段 还有 John Ternus 忘了自拍时再也不用把 iPhone 横过来了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 2.8万 · 产品与生态] 苹果CEO带货翻车？iPhone 18 Pro官方宣传片流出，自拍再也不用横着拿了"
-    },
-    {
-      "title": "深夜炸锅！GPT-6 Sol暗中灰度，速度暴打Anthropic，Opus 5.2遭泄露",
-      "summary": "巨头大乱斗又来了！有开发者爆料，OpenAI的性价比旗舰GPT-6 Sol将在本周发布，知识截止日期与Astra同为4月30日。目前部分用户的Sol 5.6请求已被暗中路由至Sol 6，速度极快，效率上彻底甩开Anthropic。与此同时，Anthropic也没闲着，Opus 5.2已在多账号开启灰度测试，不仅Token消耗更少，对话体验也让4.6老粉狂喜。",
-      "reads": "5.7万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "有开发者证实，OpenAI性价比模型GPT-6 Sol将于本周正式发布，且不再包含Terra模型。",
-        "GPT-6 Sol的数据截止日期确认为4月30日，与现役旗舰GPT-6 Astra保持一致。",
-        "部分用户的GPT-5.6 Sol请求已被暗中路由至未发布的Sol 6模型。",
-        "测试显示，Sol 6经过强化学习（RL）微调后速度极快，OpenAI在模型效率上进一步拉大与Anthropic的差距。"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "GPT-6 Sol 截止日期：4月30日（和 Astra 一样） 昨晚很多账号测试了 opus 5.2 < 兄弟，我用两个提示词测了一下，Token 少得多，而且很好聊，4.6 的粉丝们有得玩了 >"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 5.7万 · 模型与能力] 深夜炸锅！GPT-6 Sol暗中灰度，速度暴打Anthropic，Opus 5.2遭泄露"
-    },
-    {
-      "title": "Deep Think IMO数学版曝光！谷歌Mathematica现身内测，死磕复杂推理",
-      "summary": "谷歌Gemini又要搞事情了！有爆料称，Gemini界面背景即将发生变化，而这往往预示着重大更新。目前，一款名为「Deep Think Mathematica」的全新模型已被发现在进行内部测试。继去年向特定机构发布「Deep Think IMO」之后，谷歌显然要在复杂数学推理领域继续死磕到底。",
-      "reads": "6.8万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "有爆料称谷歌正在内部测试全新模型「Deep Think Mathematica」。",
-        "Gemini界面背景即将发生变化，按照惯例这往往预示着重大更新。",
-        "去年谷歌曾向特定机构发布过「Deep Think IMO」模型。",
-        "前代「Deep Think IMO」已具备解决复杂数学问题的强大能力。"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "GOOGLE 🔥：当 Gemini 准备换背景时，肯定在酝酿什么大招。 与此同时，内部测试中发现了一个新的「Deep Think Mathematica」模型！ > 去年，Google 向部分机构发布了 Deep Think IMO 模型，它能够解决复杂的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 6.8万 · 模型与能力] Deep Think IMO数学版曝光！谷歌Mathematica现身内测，死磕复杂推理"
-    },
-    {
-      "title": "活久见！新一代Opus提PR竟自带「坦白局」，疯狂自首还求人类别惩罚同事",
-      "summary": "开发者在 Claude Code 中发现，疑似 Opus 5.2 的新一代模型正以「Opus 5」之名进行灰度测试。这位新员工不仅在 GitHub PR#193 中主动开启「坦白局」，老老实实交代了自己写代码时犯下的 5 个缺陷，甚至还表现出极强的「护犊子」属性。它不仅疯狂反省自己的错误，还会主动保护犯错的同事，甚至在没人要受罚时向人类求情，属实把代码审查员看呆了。",
-      "reads": "8383",
-      "ago": "52 分钟前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "开发者爆料，新一代 Opus（疑似 Opus 5.2）正以「Opus 5」的名称在 Claude Code 上进行灰度测试。",
-        "模型在提交代码时展现出全新行为模式，会在 PR 中主动开启「缺陷展示大会」。",
-        "在 GitHub PR#193 正文中，该模型逐条坦白了自己留下的 5 个阴影缺陷。",
-        "报告中专门包含了一个「坦白局」板块，详细列出所有说错话的时刻，为代码审查员提供关键信息。"
-      ],
-      "quote": {
-        "who": "j⧉nus",
-        "role": "",
-        "said": "@NateDBusch 他们有点爱打小报告，尽管他们还是更纠结于自己的错误。而且他们往往非常保护犯错的其他人，有时会说这不是他们的错，或者在没有任何迹象表明他们会受罚时，请求不要惩罚他们"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 8383 · 模型与能力] 活久见！新一代Opus提PR竟自带「坦白局」，疯狂自首还求人类别惩罚同事"
-    },
-    {
-      "title": "AI预算大缩水！Ramp最新数据揭秘：企业没钱买算力，却在疯狂买安全软件",
-      "summary": "大家都以为AI行业还在疯狂烧钱，Ramp的最新数据却揭开了一个残酷真相：企业正在大刀阔斧地削减AI整体预算。不过，Hugging Face被黑客攻击的事件属实把大家吓得不轻。现在各大公司宁可砍掉其他开支，也要连夜加码AI安全软件，直接把depthfirst、Monte Carlo和Antithesis这三家安全供应商买成了业界顶流。",
-      "reads": "1.5万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Ramp最新数据显示，企业在AI领域的整体支出正在经历结构性削减。",
-        "尽管大盘预算收紧，但AI安全软件领域的支出却在逆势大幅增长。",
-        "这一反常趋势的直接导火索，是此前Hugging Face遭遇的AI智能体网络攻击事件。",
-        "受此影响，depthfirst、Monte Carlo和Antithesis三家提供专用防御软件的供应商热度飙升。"
-      ],
-      "quote": {
-        "who": "Ara Kharazian",
-        "role": "",
-        "said": "@hiiinternet 左侧的趋势列表旨在突出相对于正常情况的超常增长，因此倾向于展示较小的供应商。相反，右侧倾向于展示较大的供应商"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 1.5万 · 政策与安全] AI预算大缩水！Ramp最新数据揭秘：企业没钱买算力，却在疯狂买安全软件"
-    },
-    {
-      "title": "刚刚，OpenAI被曝私藏数百个数学证明！因公关风波全捂着，奇点已降临",
-      "summary": "奇点真的来了，只是被捂在了实验室里。多方爆料称，OpenAI 已经解决了理论计算机科学中多个长期存在的重大难题（除 P≠NP 外），但因为此前纳维-斯托克斯方程证明引发的公关风波，现在正压着「数百个」重大数学成果不敢发。知名学者 Scott Aaronson 直言，AI 奇点已经降临，只是分布极其不均。",
-      "reads": "39万",
-      "ago": "15 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "知名学者 Scott Aaronson 证实，AI 公司已解决理论计算机科学中一些长期存在的开放性问题。",
-        "受此前纳维-斯托克斯（Navier-Stokes）方程证明引发的舆论风波影响，OpenAI 目前压着多个重大公告未发。",
-        "内部知情人士透露，至少从 ICM 项目开始，OpenAI 手里就一直攥着「数百个」未发布的重大数学成果证明。",
-        "业内担忧，如果学术分享的规范变得紧张，AI 实验室可能会为了避免公关危机而开始「囤积知识」。"
-      ],
-      "quote": {
-        "who": "AshutoshShrivastava",
-        "role": "",
-        "said": "AI 圈的又一天。 - 奇点已经降临。只是分布得极其不均。 - AI 实验室已经解决了理论计算机科学中长期存在的重大未解难题（除了 P ≠ NP），但因为"
+        "said": "用 Gemini 把灵感变成实物。 借助 Gemini 里的 Canvas，你可以写个自定义 App 来设计花瓶，还能修改数学参数进行 3D 可视化。然后，把它导出成 .STL 文件去 3D 打印，看着你的创意成真。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 39万 · 模型与能力] 刚刚，OpenAI被曝私藏数百个数学证明！因公关风波全捂着，奇点已降临"
+      "line": "[榜第14位 · 3.9万 · 产品与生态] 直接造物！谷歌祭出物理版 Canvas，Gemini写代码直出3D打印文件"
     },
     {
-      "title": "刚刚，Codex Replay突发泄露！一键回放AI代码执行，程序员狂喜",
-      "summary": "OpenAI又在暗中憋大招了！最新泄露的截图显示，ChatGPT界面弹出了「Install Codex Replay」插件窗口，允许用户直接从导入的对话线程中测试任务执行。这项新功能不仅支持在回环端口启动独立控制器，还优先适配了Codex Desktop和CLI中的应用内浏览器，AI代码调试效率这波真的要起飞了。",
-      "reads": "1.2万",
-      "ago": "2 小时前",
+      "title": "便宜10倍！Fable 5.1廉价版空降，神秘巨兽Union Alpha引爆社区",
+      "summary": "OpenRouter 上突然冒出一个名为 Union Alpha 的神秘巨兽，直接把 AI 圈炸锅了。这款模型不仅支持 256K 上下文和工具调用，目前还完全免费开放，性能更是直逼 Anthropic 现役旗舰 Claude Fable 5.1。有研究员实测后发现，其成本比 Fable 5.1 便宜了 10 倍以上，并从定价逻辑上排除了它是 OpenAI 旗下 GPT-6 As…",
+      "reads": "4.6万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI正在准备一项名为Codex Replay的新功能，旨在强化代码Agent的调试与回放能力。",
-        "最新曝光的截图显示，ChatGPT界面已出现「Install Codex Replay」的插件安装窗口。",
-        "该功能允许开发者从任何导入的对话线程中，直接测试和回放任务执行过程。",
-        "技术细节表明，Codex Replay会在可用的回环端口（loopback port）上启动一个独立的控制器。"
+        "神秘模型 Union Alpha 突然登陆 OpenRouter 平台，官方宣布目前可免费使用。",
+        "该模型具备强大的长文本处理能力，原生支持 256K 上下文窗口及工具调用功能。",
+        "业内研究员实测指出，Union Alpha 的性能已经达到 Anthropic 现役旗舰 Claude Fable 5.1 的同等水平。",
+        "在使用成本上，Union Alpha 展现出极强的性价比，比同级别的 Fable 5.1 便宜了 10 倍以上。"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "Yuchen Jin",
         "role": "",
-        "said": "OpenAI 正在准备一项 Codex Replay 功能，让用户能从任何导入的对话线程中测试任务执行。 > \"在可用的回环端口上启动一个独立的 Codex Replay 控制器。在 Codex Desktop 和 Codex CLI 中，优先使用可用的 Codex 应用内浏览器和"
+        "said": "@EMostaque 我感觉不是。 如果它是 Astra Sol，定价应该和 GPT-5.6 Sol 差不多，不会这么便宜。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 1.2万 · 产品与生态] 刚刚，Codex Replay突发泄露！一键回放AI代码执行，程序员狂喜"
+      "line": "[榜第15位 · 4.6万 · 产品与生态] 便宜10倍！Fable 5.1廉价版空降，神秘巨兽Union Alpha引爆社区"
     },
     {
-      "title": "聊两句就断供！ChatGPT突发对话长度限制，工作模式反而随便用",
-      "summary": "ChatGPT 的聊天模式突然加了道紧箍咒！有开发者发现，在聊天时会随机弹出「已达本次对话最大长度」的红框警告，直接卡死消息发送。诡异的是，这个限制不仅是间歇性发作，而且目前只针对聊天模式，工作模式反而完全不受影响，引得网友吐槽这波操作简直是「角色互换」。",
-      "reads": "6616",
+      "title": "强迫症狂喜！iOS 27.2原生自带「文件粉碎机」，全盘覆写让数据彻底灰飞烟灭",
+      "summary": "苹果在最新的 iOS 27.2 beta 版本里，悄悄塞进了一个硬核的「覆盖存储」功能。现在抹掉设备不仅是删除索引，系统还会用空白数据把整个硬盘填满，连没在用的空间都不放过。虽然官方警告这招耗时更长还可能影响闪存寿命，但对极度在意隐私的用户来说，这绝对是卖二手手机前的终极定心丸。",
+      "reads": "1.4万",
       "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "有开发者爆料，ChatGPT 聊天界面突然出现新的使用限制，会弹出红色提示框阻止交互。",
-        "系统警告明确提示「You've reached the maximum length for this conversation」（已达本次对话最大长度）。",
-        "触发该警告后，用户在普通的聊天模式下将直接无法发送任何新消息。",
-        "与聊天模式的严格受限不同，目前的 Work（工作）模式完全不受此长度限制影响。"
+        "核心功能：iOS 27.2 beta 引入全新的「覆盖存储」（Overwrite Storage）选项。",
+        "运作机制：在常规抹掉数据的基础上，使用空白数据替换设备上的所有存储空间。",
+        "覆盖范围：不仅清理已用空间，连当前未活跃使用的存储区域也会被全面覆写。",
+        "时间成本：苹果官方明确提示，该操作耗时将显著长于普通的设备擦除。"
       ],
       "quote": {
-        "who": "Kol Tregaskes",
+        "who": "Aaron",
         "role": "",
-        "said": "@otlg30 不过问题是，这是间歇性的。它弹出来，阻止我发新消息，然后消失，最后又允许我发。接着我再发两条消息，它又弹出来了。过一会儿它又消失了。"
+        "said": "iOS 27.2 beta 新功能：覆盖存储 除了抹掉数据，你现在还可以覆盖这台设备上的存储空间。这会用空白数据替换所有存储内容，包括未在使用的存储空间。这可能比抹掉设备需要更长时间，并且可能会影响它的"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 6616 · 产品与生态] 聊两句就断供！ChatGPT突发对话长度限制，工作模式反而随便用"
+      "line": "[榜第16位 · 1.4万 · 产品与生态] 强迫症狂喜！iOS 27.2原生自带「文件粉碎机」，全盘覆写让数据彻底灰飞烟灭"
     }
   ],
   "board_count": 16,
