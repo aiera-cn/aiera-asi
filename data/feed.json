@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-18 00:53:04 +0800",
+  "fetched_at": "2026-09-18 04:14:05 +0800",
   "today": "09/18",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -114,6 +114,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tg306c46&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/17 09:23] 刚刚，Claude变唯一入口！超级「办公全家桶」硬刚微软 · https://www.aiera.com.cn/asi-item.html?id=tg306c46&from=yuanyuan"
+    },
+    {
+      "time": "01:08",
+      "date": "09/18",
+      "title": "老黄的总部园区，被World Labs用32张照片捏成了3D世界",
+      "summary": "32 张照片，捏出一整座能飞进去逛的英伟达总部。 英伟达在 X 上官方发文，说 World Labs 的 Atlas 模型给 Voyager 总部园区做出了一种全新的游览方式…",
+      "source": "X/nvidia",
+      "id": "998efdef",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=998efdef&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/18 01:08] 老黄的总部园区，被World Labs用32张照片捏成了3D世界 · https://www.aiera.com.cn/asi-item.html?id=998efdef&from=yuanyuan"
+    },
+    {
+      "time": "23:38",
+      "date": "09/17",
+      "title": "千禧年大奖难题被破解，OpenAI 砸下一万个 AI 狂算 88 小时",
+      "summary": "困了人类几百年的千禧年大奖难题，被一万个 AI 联手算了出来，耗时 88 个小时。 据 Dwarkesh Podcast，这一轮烧掉 1300 亿 Token…",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "id": "b46b6077",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=b46b6077&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/17 23:38] 千禧年大奖难题被破解，OpenAI 砸下一万个 AI 狂算 88 小时 · https://www.aiera.com.cn/asi-item.html?id=b46b6077&from=yuanyuan"
     },
     {
       "time": "20:58",
@@ -282,6 +306,66 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=d60c7481&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/17 00:00] 646亿美元砸向OpenAI，孙正义还在找阿波罗借钱，贷款规模直冲90亿 · https://www.aiera.com.cn/asi-item.html?id=d60c7481&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/17",
+      "title": "GPT-6 Astra通关宝可梦只用18小时却被苦力怕吓得连种几小时土豆",
+      "summary": "前面所有模型都卡住的游戏，GPT-6 Astra 一路通了。玩家 Clad3815 的记录里，它打穿宝可梦火红只花 18 小时 12 分，GPT-5.6 Sol 用了 96…",
+      "source": "RSS",
+      "id": "9b70b4c8",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=9b70b4c8&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/17 00:00] GPT-6 Astra通关宝可梦只用18小时却被苦力怕吓得连种几小时土豆 · https://www.aiera.com.cn/asi-item.html?id=9b70b4c8&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/17",
+      "title": "亚马逊连防了6个季度的AI代购，小扎亲自下场还要按单抽成",
+      "summary": "亚马逊的 CEO 已经被连着 6 个季度追问同一件事，如果 AI 替用户下单，亚马逊还剩什么。 Business Insider 报道，Instinct 和 Meta 的…",
+      "source": "RSS",
+      "id": "617ec9db",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=617ec9db&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/17 00:00] 亚马逊连防了6个季度的AI代购，小扎亲自下场还要按单抽成 · https://www.aiera.com.cn/asi-item.html?id=617ec9db&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/17",
+      "title": "6000个开源模型被强行破解，Baseten联合Hugging Face出手了",
+      "summary": "超过 6000 个开源模型的安全护栏，被人强行卸掉了。 据 TechCrunch 报道，业内正流行一种叫 Abliteration 的技术，能直接抹除模型内置的安全限制。…",
+      "source": "RSS",
+      "id": "fa55bcdb",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=fa55bcdb&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/17 00:00] 6000个开源模型被强行破解，Baseten联合Hugging Face出手了 · https://www.aiera.com.cn/asi-item.html?id=fa55bcdb&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/17",
+      "title": "开盘猛涨8%！英特尔要把俄亥俄延期工厂，租给SK海力士造存储芯片",
+      "summary": "英特尔在俄亥俄州那座一再延期的厂房，可能要来一位租客。 据路透社报道，SK 海力士正在与英特尔洽谈，打算租下这块地方来生产内存芯片。 消息传出，周四早盘全线拉升。英特尔涨…",
+      "source": "www.implicator.ai",
+      "id": "eb0e4557",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=eb0e4557&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/17 00:00] 开盘猛涨8%！英特尔要把俄亥俄延期工厂，租给SK海力士造存储芯片 · https://www.aiera.com.cn/asi-item.html?id=eb0e4557&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/17",
+      "title": "硅谷大佬为AI减速吵翻天？亚马逊深夜下场给出第三种解法",
+      "summary": "硅谷为要不要放缓 AI 研发吵成两派，一直没吭声的亚马逊，周三深夜下场了。 据路透社报道，导火索是上周 Anthropic 一名研究员辞职，警告 AI「会在本年代末杀死我们」。…",
+      "source": "Reuters",
+      "id": "dd054ecf",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=dd054ecf&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/17 00:00] 硅谷大佬为AI减速吵翻天？亚马逊深夜下场给出第三种解法 · https://www.aiera.com.cn/asi-item.html?id=dd054ecf&from=yuanyuan"
     },
     {
       "time": "22:29",
@@ -642,90 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=08492c1b&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/16 00:00] 硅谷巨头抱团喊停AI，领英联创直接开嘲讽：想慢你们自己慢 · https://www.aiera.com.cn/asi-item.html?id=08492c1b&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/16",
-      "title": "84%高管算不出AI回报率，OpenAI把算账面板直接塞进ChatGPT",
-      "summary": "花在 AI 上的钱到底值不值，多数公司说不清。Gartner 的报告显示，84% 的财务负责人算不出 AI 的回报率。 OpenAI 这回把算账工具直接递了过去。…",
-      "source": "RSS",
-      "id": "ddf43229",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=ddf43229&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/16 00:00] 84%高管算不出AI回报率，OpenAI把算账面板直接塞进ChatGPT · https://www.aiera.com.cn/asi-item.html?id=ddf43229&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/16",
-      "title": "怕被当成变态？Meta准备把爆款AI眼镜的摄像头抠了",
-      "summary": "Meta 要给自家卖得正火的 AI 眼镜出一版没有摄像头的。据 The Information 报道，这款眼镜内部代号 Luna，预计下周在 Meta Connect…",
-      "source": "RSS",
-      "id": "3cc70cf1",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=3cc70cf1&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/16 00:00] 怕被当成变态？Meta准备把爆款AI眼镜的摄像头抠了 · https://www.aiera.com.cn/asi-item.html?id=3cc70cf1&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/16",
-      "title": "聊天框里直接写文档做PPT，Anthropic把对话和智能体缝合了",
-      "summary": "现在在 Claude 的对话框里，可以直接让它写文档、做 PPT 了。Anthropic 把聊天版 Claude 和主打执行任务的智能体产品 Cowork 合进了同一个界面。…",
-      "source": "RSS",
-      "id": "924d4aa9",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=924d4aa9&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/16 00:00] 聊天框里直接写文档做PPT，Anthropic把对话和智能体缝合了 · https://www.aiera.com.cn/asi-item.html?id=924d4aa9&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/16",
-      "title": "谷歌把家门钥匙交给AI，Claude和Antigravity能直接管电器了",
-      "summary": "谷歌把 Google Home 的家门钥匙交给了第三方 AI。Claude、Antigravity 这些智能体，接下来能直接用自然语言操控你家里的联网设备。 据…",
-      "source": "RSS",
-      "id": "0f6b7a7d",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=0f6b7a7d&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/16 00:00] 谷歌把家门钥匙交给AI，Claude和Antigravity能直接管电器了 · https://www.aiera.com.cn/asi-item.html?id=0f6b7a7d&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/16",
-      "title": "觉都不睡了！苹果全家桶连夜跳级27.0，Siri终于能接管屏幕干活了",
-      "summary": "苹果六大系统一起升到了 27.0，iOS、iPadOS、macOS 一直到 visionOS 都拿到了新版本。这次最大的变化在 Siri，它能看懂你的屏幕，替你操作设备干活了。…",
-      "source": "X/aaronp613",
-      "id": "be556c71",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=be556c71&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/16 00:00] 觉都不睡了！苹果全家桶连夜跳级27.0，Siri终于能接管屏幕干活了 · https://www.aiera.com.cn/asi-item.html?id=be556c71&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/16",
-      "title": "绝不拿你的数据练模型！Snap发布独立AI助手，搭配新款AR眼镜",
-      "summary": "Snap 推出独立 AI 助手 Specs Intelligence，搭配新款 AR 眼镜，并承诺绝不拿用户数据训练模型。这次发布，个人内容怎么用、谁能看，也被摆到了台前。…",
-      "source": "RSS",
-      "id": "0090fb9a",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=0090fb9a&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/16 00:00] 绝不拿你的数据练模型！Snap发布独立AI助手，搭配新款AR眼镜 · https://www.aiera.com.cn/asi-item.html?id=0090fb9a&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/16",
-      "title": "闪着紫灯的救护车呼啸而过拉的却不是人？东京街头跑起首辆机器人救护车",
-      "summary": "东京街头跑起了闪着紫灯的机器人救护车，车上带着工程师和维修设备，专门赶去处理人形机器人故障。据 Engadget 报道，GMO 集团本月推出这辆车…",
-      "source": "RSS",
-      "id": "bc83d995",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=bc83d995&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/16 00:00] 闪着紫灯的救护车呼啸而过拉的却不是人？东京街头跑起首辆机器人救护车 · https://www.aiera.com.cn/asi-item.html?id=bc83d995&from=yuanyuan"
     }
   ],
   "feed_count": 60,
