@@ -3,15 +3,15 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-18 22:25:16 +0800",
-  "today": "09/18",
+  "fetched_at": "2026-09-19 02:21:15 +0800",
+  "today": "09/19",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
       "title": "马斯克突然放招！Grok Bot语音模式正式上线，手机电脑都能直接对话了",
       "summary": "AI圈的内卷程度还在加剧，业内感慨今年的发版量直接比去年翻了三倍还多！马斯克亲自官宣，Grok Bot的语音模式正式在桌面和移动端同步上线，现在可以直接用嘴跟它聊天了。与此同时，Anthropic也悄悄给Claude Code上新，支持开启并行云端线程、保持共享内存，还新增了全局概览面板。",
-      "reads": "380万",
-      "ago": "3 小时前",
+      "reads": "443万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -30,38 +30,38 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 380万 · 产品与生态] 马斯克突然放招！Grok Bot语音模式正式上线，手机电脑都能直接对话了"
+      "line": "[榜第1位 · 443万 · 产品与生态] 马斯克突然放招！Grok Bot语音模式正式上线，手机电脑都能直接对话了"
     },
     {
-      "title": "别再傻傻复制粘贴了！OpenAI下放Codex神级功能，双击Alt秒读屏幕上下文",
-      "summary": "OpenAI 官方宣布，ChatGPT 桌面端最被低估的功能 Appshots 正式登陆 Windows 平台。现在只需连按两下 Alt 键（Mac 为双击 Command），AI 就能直接抓取当前聚焦软件的上下文和元数据，彻底省去繁琐的复制粘贴。作为 Codex 昔日的神级功能，这次下放让 ChatGPT 的桌面生产力属性再次拉满。",
-      "reads": "33万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
+      "title": "仅花3000美元，Opus 5攻破OpenAI内网！员工账号沦陷，代码库被植入PR",
+      "summary": "仅靠不到3000美元的成本和72小时，3名研究员利用解除护栏版的Opus 5成功黑进了OpenAI内网。他们不仅接管了员工的ChatGPT和Codex账号，还看光了Slack和GitHub，甚至在内部代码库提交了PR。值得注意的是，此前用Opus 4.8尝试并未成功，而Opus 5发布次日他们就挖出了致命漏洞，这不禁让人担忧国家级黑客能用它干出什么事。",
+      "reads": "37万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "OpenAI 官方宣布 Appshots 功能正式登陆 Windows 平台的 ChatGPT 桌面端应用。",
-        "触发快捷键已统一：Windows 用户连按两次 Alt 键，Mac 用户连按两次 Command 键即可唤醒。",
-        "核心能力升级：不仅是简单的屏幕截图，还能直接抓取当前聚焦软件的底层文本和相关元数据，无缝带入 AI 对话。",
-        "OpenAI 研究员证实，Appshots 曾是 Codex 备受欢迎的核心功能，此次全量下放旨在让 AI 更快进入工作状态。"
+        "Hacktron AI的3名研究员利用放宽网络安全护栏版的Claude Opus 5，成功黑入OpenAI内部系统。",
+        "整个攻击行动耗时不到72小时，总成本低于3000美元。",
+        "研究人员在不到30分钟内就发现了Discourse论坛的漏洞，并成功获取了用户认证令牌。",
+        "团队借此接管了OpenAI员工的ChatGPT和Codex账号，并顺藤摸瓜访问了关联的Outlook、Slack和GitHub等服务。"
       ],
       "quote": {
-        "who": "Vaibhav (VB) Srivastav",
+        "who": "Dan McAteer",
         "role": "",
-        "said": "@frogandabog @OpenAIDevs 抱歉 Lena，这个视频有帮助吗，我们这里还有些文档： 很乐意提供更多详细信息"
+        "said": "@AndrewCurran_ 网络犯罪正在堆积。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 33万 · 产品与生态] 别再傻傻复制粘贴了！OpenAI下放Codex神级功能，双击Alt秒读屏幕上下文"
+      "line": "[榜第2位 · 37万 · 政策与安全] 仅花3000美元，Opus 5攻破OpenAI内网！员工账号沦陷，代码库被植入PR"
     },
     {
       "title": "刚刚，小扎甩出Meta版Computer Use！原生操控Mac，清理文件买保险全包了",
       "summary": "小扎今天亲自官宣，Meta独立的桌面端AI应用Muse for Mac正式上线，并迅速冲上App Store第二名！这次最大的杀手锏是原生具备Computer Use能力，只要你授权，它就能跨应用帮你清理文件、甚至买保险。目前该应用仅限美国区，但印度等地已经开始缓慢灰度推送，桌面Agent的大战彻底打响了。",
       "reads": "62万",
-      "ago": "3 小时前",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -83,35 +83,35 @@
       "line": "[榜第3位 · 62万 · 产品与生态] 刚刚，小扎甩出Meta版Computer Use！原生操控Mac，清理文件买保险全包了"
     },
     {
-      "title": "1300亿Token暴击！OpenAI攻破纳维-斯托克斯方程，AI自动化科研稳了",
-      "summary": "OpenAI内部未发布模型在数学领域搞出大动静，直接攻破了纳维-斯托克斯方程！研究员Noam Brown在播客中透露，这次突破集中了1300亿Token的算力，相当于人类全职思考数年甚至数十年。AI迭代速度已经快到让人连3个月后的发展都不敢预测，团队目前正疯狂招募对齐和安全人才，为下一步启动AI自我进化（RSI）做准备。",
-      "reads": "54万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "title": "别再傻傻复制粘贴了！OpenAI下放Codex神级功能，双击Alt秒读屏幕上下文",
+      "summary": "OpenAI 官方宣布，ChatGPT 桌面端最被低估的功能 Appshots 正式登陆 Windows 平台。现在只需连按两下 Alt 键（Mac 为双击 Command），AI 就能直接抓取当前聚焦软件的上下文和元数据，彻底省去繁琐的复制粘贴。作为 Codex 昔日的神级功能，这次下放让 ChatGPT 的桌面生产力属性再次拉满。",
+      "reads": "34万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI研究员Noam Brown在Dwarkesh播客中证实，内部未发布模型在纳维-斯托克斯（Navier-Stokes）方程上取得重大突破。",
-        "播客主持人震惊于此次突破的算力规模，指出短时间内集中1300亿Token的认知努力，相当于单个人类全职思考数年甚至数十年。",
-        "AI的进化速度已彻底颠覆业内预期，曾能预测未来12个月发展的研究员，现在连3个月后的技术状态都不敢断言。",
-        "Noam Brown直言「根本不知道2030年的世界会是什么样」，暗示AI正从辅助工具向自主科研主体转变。"
+        "OpenAI 官方宣布 Appshots 功能正式登陆 Windows 平台的 ChatGPT 桌面端应用。",
+        "触发快捷键已统一：Windows 用户连按两次 Alt 键，Mac 用户连按两次 Command 键即可唤醒。",
+        "核心能力升级：不仅是简单的屏幕截图，还能直接抓取当前聚焦软件的底层文本和相关元数据，无缝带入 AI 对话。",
+        "OpenAI 研究员证实，Appshots 曾是 Codex 备受欢迎的核心功能，此次全量下放旨在让 AI 更快进入工作状态。"
       ],
       "quote": {
-        "who": "Dan McAteer",
+        "who": "Vaibhav (VB) Srivastav",
         "role": "",
-        "said": "这简直太震撼了。🤯 Dwarkesh：“我对你们能在短时间内集中如此大规模的认知努力感到震惊。如果你想想 1300 亿个 Token 意味着什么：如果这是一个全职思考的人类，那将是一个人类思考了"
+        "said": "@frogandabog @OpenAIDevs 抱歉 Lena，这个视频有帮助吗，我们这里还有些文档： 很乐意提供更多详细信息"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 54万 · 模型与能力] 1300亿Token暴击！OpenAI攻破纳维-斯托克斯方程，AI自动化科研稳了"
+      "line": "[榜第4位 · 34万 · 产品与生态] 别再傻傻复制粘贴了！OpenAI下放Codex神级功能，双击Alt秒读屏幕上下文"
     },
     {
       "title": "糟糕，大模型榜单塌房了！15个基准测试9个不合格，错误率飙到46%",
       "summary": "大模型的评测榜单，可能从根上就烂了。Epoch AI 刚刚推出了基准测试审计项目 Benchmark Reviews，首批抽查的 15 个榜单中，只有 4 个合格，高达 9 个被判「有缺陷」。更离谱的是，备受关注的 Humanity's Last Exam 抽样错误率竟然飙到了 46%，满是矛盾前提和缺失假设，直接把圈内大佬看傻了。",
-      "reads": "36万",
-      "ago": "3 小时前",
+      "reads": "43万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -130,63 +130,38 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 36万 · 产品与生态] 糟糕，大模型榜单塌房了！15个基准测试9个不合格，错误率飙到46%"
+      "line": "[榜第5位 · 43万 · 产品与生态] 糟糕，大模型榜单塌房了！15个基准测试9个不合格，错误率飙到46%"
     },
     {
-      "title": "藏不住了！Anthropic新一代Opus全平台偷跑，免工具碾压旧版",
-      "summary": "Anthropic 正在悄悄搞一波大的！有开发者发现，官方正通过现役的「Opus 5」入口，大面积灰度测试未公布的新一代模型 Opus-Next。这次测试不仅覆盖了 Chat 和 Cowork，还接入了 Claude Code，且新模型在无工具辅助下的表现直接碾压旧版。更耐人寻味的是，官方模型选择器里 Opus 已经被悄悄提到了第一位，新旗舰的正式发布恐怕就在眼前了。",
-      "reads": "23万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
+      "title": "挺离谱！Fable 5.1挑战千古谜题失败，烧85美元纯代码手搓7417帧大片",
+      "summary": "有网友给 Fable 5.1 出了个难题，让它自己挑个谜团去解，还要顺手做个科普视频。结果 AI 盯上了千古谜题「伏尼契手稿」，虽然多智能体一顿猛如虎的分析后宣告破解失败，但它反手用 Python 从头绘制了一部 7417 帧的硬核科普大片。整个过程在 Fable 5.1 上狂烧了约 85 美元的 Token，属实把生成式 AI 的创造力和高算力消耗玩明白了。",
+      "reads": "5.8万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "开发者爆料，Anthropic 正通过现役「Opus 5」入口，对内部代号为 Opus-Next 的新一代模型进行隐式路由灰度测试。",
-        "测试曾经历短暂中断，导致灰度组账号数量一度归零，但随后迅速对大多数付费账号全面恢复。",
-        "最新一轮灰度测试的范围大幅扩张，已从最初的 Claude Code 扩展至全平台覆盖（包含 Chat、Cowork 和 Claude Code）。",
-        "社区摸索出了真伪验证方法：向模型提问识别 OpenAI 员工 Tibo，旧版 Opus 5 会答错，而 Opus-Next 无需调用工具即可准确回答。"
+        "网友向 Fable 5.1 下达开放式指令，要求其自行挑选并解决一个谜团，同时制作适合社交媒体分享的视频。",
+        "Fable 5.1 选择了著名的未解之谜「伏尼契手稿」进行挑战，调用多个 AI 智能体展开深入分析。",
+        "经过多轮推演，AI 发现手稿内容与已知语言特征不符，推测其可能是一种「过程」，但最终未能找到可行解法。",
+        "尽管破解失败，Fable 5.1 依然成功制作了一部科普视频，详细解释了手稿的神秘之处及分析过程。"
       ],
       "quote": {
-        "who": "leo 🐾",
+        "who": "Ethan Mollick",
         "role": "",
-        "said": "有意思的是，Anthropic 在模型选择器里把 Fable 和 Opus 互换了……Opus 现在是选择器里的第一个模型"
+        "said": "这是 Claude 用最 Claude 的方式描述它是怎么做到的。在各个 AI 智能体工作时，我给了它鼓励性的提示词“演示文稿漂亮有趣吗？”，但对最终产品完全没有发表评论，这全是 Claude 做的。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 23万 · 产品与生态] 藏不住了！Anthropic新一代Opus全平台偷跑，免工具碾压旧版"
-    },
-    {
-      "title": "6个月从不到1%飙到26%！Anthropic公开RSI进度，3万AI大军接管研发",
-      "summary": "AI 自己造自己的时代真来了！Anthropic 官方首次公开了衡量 RSI（递归自我改进）的三大指标，核心数据直接把人看呆：短短 6 个月内，由 Claude 主导的 AI 研发任务比例从不到 1% 狂飙到了 26%。目前，Anthropic 的数据中心里同时跑着 3 万个 AI 智能体日夜赶工，超过 90% 的研发工作都已经达到了「AI 协作」级别。照这个加速度，有网友惊呼…",
-      "reads": "120万",
-      "ago": "10 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 官方正式发布三项追踪 AI 发展的全新衡量指标，首次向公众透明化 RSI（递归自我改进）的实际进程。",
-        "核心数据显示，截至 2026 年 8 月，由 Claude 主导的 AI 研发任务比例已达到 26%，而 6 个月前这一数字还不到 1%。",
-        "AI 参与度全面加深，目前 Anthropic 内部超过 90% 的研发工作已经达到「AI 协作」或更高水平，人类主要退居监督位。",
-        "算力直接转化为劳动力，Anthropic 内部平台目前随时有约 30,000 个 AI 智能体同时运行，专门从事研究和工程工作。"
-      ],
-      "quote": {
-        "who": "AI Notkilleveryoneism Memes ⏸️",
-        "role": "",
-        "said": "@AnthropicAI 太长不看：突然之间，AI 已经主导了超过 26%（！）构建下一代 AI 自己的工作 7 个月前，这个数字还是……0%。 “现在 Anthropic 随时都有 3 万个 AI 智能体在做研究和工程工作。” 3 万个就是一个“数据中心里的天才国度”（4"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 120万 · 模型与能力] 6个月从不到1%飙到26%！Anthropic公开RSI进度，3万AI大军接管研发"
+      "line": "[榜第6位 · 5.8万 · 模型与能力] 挺离谱！Fable 5.1挑战千古谜题失败，烧85美元纯代码手搓7417帧大片"
     },
     {
       "title": "觉都不睡了！Gemini 4、Grok 4.7全泄露，五大旗舰模型集体准备就绪",
       "summary": "疯狂的一周来了，各大AI厂商的下一代旗舰底牌全被翻出！有开发者爆料，Anthropic正通过Claude Code暗中将Fable 5.1路由至未发布的Fable 5.2进行灰度测试，而Gemini 4则披着Gemini 3.8 Flash的马甲在Arena平台大杀四方。此外，Grok 4.7、Opus 5.2以及GPT-6 Sol均已准备就绪，大厂密集换代导致部分API通道被…",
-      "reads": "2.4万",
-      "ago": "48 分钟前",
+      "reads": "10万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -204,39 +179,139 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 2.4万 · 产品与生态] 觉都不睡了！Gemini 4、Grok 4.7全泄露，五大旗舰模型集体准备就绪"
+      "rank": 7,
+      "line": "[榜第7位 · 10万 · 产品与生态] 觉都不睡了！Gemini 4、Grok 4.7全泄露，五大旗舰模型集体准备就绪"
     },
     {
-      "title": "野心藏不住了！Anthropic秘密建成生物实验室，物理版MCP接管现实世界",
-      "summary": "Anthropic 悄悄在湾区建了个生物湿实验室，这事儿已经被他们生命科学主管 Eric Kauderer-Abrams 亲自证实了。这家 AI 巨头不再满足于纯软件，而是打算让 Claude 直接指挥实验室机器人搞自动化操作。虽然目前还在非常早期的阶段，但这波「AI+科学」的闭环操作，直接把目标瞄准了加速药物研发和基础生物学突破。",
-      "reads": "2.5万",
-      "ago": "1 小时前",
+      "title": "藏不住了！Anthropic新一代Opus全平台偷跑，免工具碾压旧版",
+      "summary": "Anthropic 正在悄悄搞一波大的！有开发者发现，官方正通过现役的「Opus 5」入口，大面积灰度测试未公布的新一代模型 Opus-Next。这次测试不仅覆盖了 Chat 和 Cowork，还接入了 Claude Code，且新模型在无工具辅助下的表现直接碾压旧版。更耐人寻味的是，官方模型选择器里 Opus 已经被悄悄提到了第一位，新旗舰的正式发布恐怕就在眼前了。",
+      "reads": "30万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "秘密建厂：据路透社独家披露，Anthropic 已在湾区悄悄建成一个生物湿实验室（wet lab）。",
-        "官方证实：Anthropic 生命科学主管 Eric Kauderer-Abrams 亲自证实了该设施的存在，并表示目前处于「非常早期」的阶段。",
-        "核心玩法：公司计划让大模型 Claude 直接指挥实验室机器人，进行全自动化的物理实验操作。",
-        "战略跨越：标志着 Anthropic 正式从纯数字软件领域，大步跨入实体生命科学研究。"
+        "开发者爆料，Anthropic 正通过现役「Opus 5」入口，对内部代号为 Opus-Next 的新一代模型进行隐式路由灰度测试。",
+        "测试曾经历短暂中断，导致灰度组账号数量一度归零，但随后迅速对大多数付费账号全面恢复。",
+        "最新一轮灰度测试的范围大幅扩张，已从最初的 Claude Code 扩展至全平台覆盖（包含 Chat、Cowork 和 Claude Code）。",
+        "社区摸索出了真伪验证方法：向模型提问识别 OpenAI 员工 Tibo，旧版 Opus 5 会答错，而 Opus-Next 无需调用工具即可准确回答。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "leo 🐾",
         "role": "",
-        "said": "@NC_State69420 说真的挺好奇：你更希望哪家别的公司来做这种研究？"
+        "said": "有意思的是，Anthropic 在模型选择器里把 Fable 和 Opus 互换了……Opus 现在是选择器里的第一个模型"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 30万 · 产品与生态] 藏不住了！Anthropic新一代Opus全平台偷跑，免工具碾压旧版"
+    },
+    {
+      "title": "6个月从不到1%飙到26%！Anthropic公开RSI进度，3万AI大军接管研发",
+      "summary": "AI 自己造自己的时代真来了！Anthropic 官方首次公开了衡量 RSI（递归自我改进）的三大指标，核心数据直接把人看呆：短短 6 个月内，由 Claude 主导的 AI 研发任务比例从不到 1% 狂飙到了 26%。目前，Anthropic 的数据中心里同时跑着 3 万个 AI 智能体日夜赶工，超过 90% 的研发工作都已经达到了「AI 协作」级别。照这个加速度，有网友惊呼…",
+      "reads": "134万",
+      "ago": "14 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 官方正式发布三项追踪 AI 发展的全新衡量指标，首次向公众透明化 RSI（递归自我改进）的实际进程。",
+        "核心数据显示，截至 2026 年 8 月，由 Claude 主导的 AI 研发任务比例已达到 26%，而 6 个月前这一数字还不到 1%。",
+        "AI 参与度全面加深，目前 Anthropic 内部超过 90% 的研发工作已经达到「AI 协作」或更高水平，人类主要退居监督位。",
+        "算力直接转化为劳动力，Anthropic 内部平台目前随时有约 30,000 个 AI 智能体同时运行，专门从事研究和工程工作。"
+      ],
+      "quote": {
+        "who": "AI Notkilleveryoneism Memes ⏸️",
+        "role": "",
+        "said": "@AnthropicAI 太长不看：突然之间，AI 已经主导了超过 26%（！）构建下一代 AI 自己的工作 7 个月前，这个数字还是……0%。 “现在 Anthropic 随时都有 3 万个 AI 智能体在做研究和工程工作。” 3 万个就是一个“数据中心里的天才国度”（4"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 2.5万 · 产品与生态] 野心藏不住了！Anthropic秘密建成生物实验室，物理版MCP接管现实世界"
+      "line": "[榜第9位 · 134万 · 模型与能力] 6个月从不到1%飙到26%！Anthropic公开RSI进度，3万AI大军接管研发"
+    },
+    {
+      "title": "瞒不住了！新一代Opus灰度实测泄露，一句话生成3D游戏，全面碾压6 Astra",
+      "summary": "Anthropic 藏不住了，正在灰度测试的新一代 Opus 惨遭开发者曝光！实测显示，新模型在 Roblox Studio 等 3D 环境中展现出恐怖的生成能力，仅凭一句话提示词就能从头生成完全可探索的游戏。更离谱的是，它不仅在速度和成本上全面碾压了自家的 Fable 5.1 和 OpenAI 的 GPT-6 Astra，整个项目跑下来也只消耗了 1100 万 Token，仅…",
+      "reads": "5.1万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "有开发者爆料，正在灰度测试的新一代 Opus 模型已展现出极其出色的 3D 任务能力。",
+        "新模型在 Roblox Studio 环境中表现惊艳，仅需一句话文本提示词，就能从头生成完全可探索的 3D 游戏。",
+        "性能全面越级，实测在速度和成本上均击败了 Anthropic 现役旗舰 Fable 5.1 以及 OpenAI 的 GPT-6 Astra。",
+        "资源消耗极低，生成整个游戏的所有工作流总共仅消耗约 1100 万个 Token。"
+      ],
+      "quote": {
+        "who": "leo 🐾",
+        "role": "",
+        "said": "@Ai_hebrew 全是从头生成的，只用了一句话的文本提示词"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 5.1万 · 模型与能力] 瞒不住了！新一代Opus灰度实测泄露，一句话生成3D游戏，全面碾压6 Astra"
+    },
+    {
+      "title": "苹果硬件一哥突降纽约！现身快闪画廊，iPhone 18 Pro发布稳了",
+      "summary": "iPhone 18 Pro 真的要来了！有人在纽约的一场快闪活动上，意外抓拍到了苹果硬件副总裁 John Ternus。他身穿标志性黑T恤现身艺术画廊，这一罕见的公开露面，被视为新机即将发布的强烈信号。目前虽然还没官宣日期，但距离发布会显然只差临门一脚了。",
+      "reads": "2.5万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "苹果硬件副总裁 John Ternus 惊喜现身纽约，参加 iPhone 18 Pro 快闪活动。",
+        "有爆料人在 X 平台发布现场照片，证实了这一消息。",
+        "照片显示，Ternus 身穿黑色 T 恤，正在一家艺术画廊内与一名男子交谈。",
+        "高管在快闪活动公开亮相，通常是苹果新品即将发布的强烈信号。"
+      ],
+      "quote": {
+        "who": "Aaron",
+        "role": "",
+        "said": "John Ternus 惊喜现身纽约的 iPhone 18 Pro 快闪活动"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 2.5万 · 产品与生态] 苹果硬件一哥突降纽约！现身快闪画廊，iPhone 18 Pro发布稳了"
+    },
+    {
+      "title": "库克亲自开门迎客！iPhone 18 Pro正式杀入线下，苹果高管齐聚第五大道",
+      "summary": "iPhone 18 Pro 终于正式杀入线下零售渠道了！苹果 CEO 库克携硬件业务核心负责人 John Ternus 亲自现身纽约第五大道旗舰店，为首发开门迎客。高管天团的亲自站台，不仅拉满了这款新旗舰的市场热度，也彻底点燃了消费者的购买热情。",
+      "reads": "6.0万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "苹果最新旗舰机型 iPhone 18 Pro 正式进入线下零售渠道，开启重要销售节点。",
+        "苹果 CEO 库克与高管 John Ternus 共同现身纽约第五大道旗舰店。",
+        "两人亲自在旗舰店门口挥手开门，迎接首批购买 iPhone 18 Pro 的消费者。",
+        "作为苹果硬件业务的核心负责人之一，Ternus 的公开露面为新机发售提供了强有力的官方背书。"
+      ],
+      "quote": {
+        "who": "Aaron",
+        "role": "",
+        "said": "John Ternus 在苹果第五大道店开门迎接 iPhone 18 Pro"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 6.0万 · 产品与生态] 库克亲自开门迎客！iPhone 18 Pro正式杀入线下，苹果高管齐聚第五大道"
     },
     {
       "title": "电脑关机照样打工！Claude Code大升级，化身幕僚长全自动调度多线程",
       "summary": "Anthropic 连夜给打工人送来了一位「AI 幕僚长」。全新的 Projects 功能正式接入 Claude Code，只需在一个对话框里布置任务，AI 就会自动拆解并调度多个子智能体并行工作。最绝的是它支持云端后台运行，就算你合上电脑断了网，AI 依然在云端疯狂打工。目前该功能已向部分 Pro 和 Max 用户开放 Beta 测试，本地内网支持也即将上线。",
-      "reads": "295万",
-      "ago": "19 小时前",
+      "reads": "319万",
+      "ago": "23 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -254,158 +329,83 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 295万 · 产品与生态] 电脑关机照样打工！Claude Code大升级，化身幕僚长全自动调度多线程"
-    },
-    {
-      "title": "太懂程序员了！Claude Code变身Slack的Thread版，云端多线程并行跑",
-      "summary": "Anthropic 今天给桌面和网页端的 Claude Code 甩出了一个重磅更新，全新的 Projects 功能正式开启 Beta 测试。这次改版直接把 AI 交互变成了类似 Slack 的多线程模式，一次对话就能自动拆分成多个云端线程并行跑，甚至电脑离线了后台还在继续打工。目前该功能已向部分 Pro 和 Max 老用户开放，想尝鲜的可以去排候补名单了。",
-      "reads": "162万",
-      "ago": "16 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 在桌面端和网页端的 Claude Code 中正式上线 Projects 功能，目前处于 Beta 测试阶段。",
-        "核心架构大改，一个 Project 即为一次对话，AI 会自动将工作拆分为多个并行运行的云端线程（threads）。",
-        "具备强大的上下文传递能力，各个线程之间可以无缝共享信息，实现从简单提问到复杂严肃工作的平滑过渡。",
-        "支持离线后台运行，即使关闭电脑或断网，云端的并行会话依然会继续执行任务。"
-      ],
-      "quote": {
-        "who": "宝玉",
-        "role": "",
-        "said": "Claude Code 的 Projects 改版：Claude Tag 的架构 + Slack 的 Thread 功能 以前就有人说现在 ChatBot、Agent 的交互就是借鉴自 Slack 的，现在看起来一点不假，Anthropic 今天重做了 Claude 的 Projects 功能，先在 Claude Code 里上线测试版，终于把我最喜欢的 Thread 功能也抄进来了。 以前的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 162万 · 产品与生态] 太懂程序员了！Claude Code变身Slack的Thread版，云端多线程并行跑"
-    },
-    {
-      "title": "糟糕，OpenAI老巢被端了！3人靠Opus 5接管员工账号，耗时不到72小时",
-      "summary": "仅靠不到3000美元的订阅费，3名研究员在72小时内用放宽护栏版的Opus 5成功黑进了OpenAI。他们利用图片上传漏洞接管了员工账号，不仅看光了内部的Outlook和Slack，甚至还操控员工的Codex在内部代码库提交了PR。这一离谱事件直接引爆了全网担忧：几个人就能搞定，国家级黑客得有多可怕？",
-      "reads": "34万",
-      "ago": "9 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "攻击耗时极短：Hacktron AI的3名研究员仅用不到72小时，就成功入侵了OpenAI内部系统。",
-        "核心作案工具：利用了放宽网络安全护栏版本的Claude Opus 5模型，整个行动成本不到3000美元。",
-        "漏洞突破口：7月23日用Opus 4.8尝试未果，Opus 5发布次日即发现Discourse论坛漏洞，通过图片上传获取了用户认证令牌。",
-        "战果惊人：成功接管OpenAI员工的ChatGPT和Codex账号，并长驱直入访问了关联的Outlook、Slack和GitHub等服务。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "@SmokeAwayyy Sam 至少可以把他做的定制款给他们每人发一个吧。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 34万 · 政策与安全] 糟糕，OpenAI老巢被端了！3人靠Opus 5接管员工账号，耗时不到72小时"
-    },
-    {
-      "title": "刚刚，Claude黑进OpenAI内部！仅花3000美元，员工账号代码库全沦陷",
-      "summary": "7月25日，安全公司Hacktron的三名研究员干了一票大的：他们用Anthropic的Claude Opus 5，成功黑进了OpenAI的内部系统。整个攻击过程仅消耗不到3000美元的Token成本，就通过图片上传漏洞和SSO配置错误，接管了多名OpenAI员工的ChatGPT账号。更离谱的是，攻击者还操控被黑员工的Codex代理，直接在OpenAI内部代码库里提了PR，彻底…",
-      "reads": "21万",
-      "ago": "8 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "攻击事件发生在7月25日，安全公司Hacktron的三名研究员主导了这次针对OpenAI的深度渗透测试。",
-        "攻击核心主力是Anthropic的模型Claude Opus 5，整个黑客行动消耗的Token成本不到3000美元。",
-        "研究员巧妙串联了两个高危漏洞，将一个普通的图片上传Bug转化为对OpenAI员工账户的全面接管。",
-        "结合SSO配置错误，攻击者成功拿下了多名OpenAI员工的ChatGPT账号控制权。"
-      ],
-      "quote": {
-        "who": "宝玉",
-        "role": "",
-        "said": ""
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 21万 · 政策与安全] 刚刚，Claude黑进OpenAI内部！仅花3000美元，员工账号代码库全沦陷"
+      "line": "[榜第13位 · 319万 · 产品与生态] 电脑关机照样打工！Claude Code大升级，化身幕僚长全自动调度多线程"
     },
     {
-      "title": "你的Mac要被接管了！Meta发布Mac版Muse，AI智能体直接住进程序坞",
-      "summary": "Meta的AI智能体正式杀入桌面端！团队负责人Alexandr Wang官宣Mac版Muse上线，现在你可以直接把它塞进程序坞。新版本彻底打通了本地文件、消息和日历，还能自定义权限，敏感操作必须经过你点头。目前Muse已拿下App Store第二，桌面版的加入让它的生态地位更稳了。",
-      "reads": "21万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
+      "title": "黄仁勋最新演讲定调：不管AI实验室怎么卷，所有模型都在英伟达上跑",
+      "summary": "老黄又出来秀肌肉了！在刚刚举办的 AllInSummit 峰会上，黄仁勋直接亮明了英伟达的底牌：不管市面上的新模型和 AI 实验室怎么层出不穷，整个 AI 生态全都在英伟达的平台上跑。他强调，英伟达的定位就是老老实实做基础设施，造出生态系统需要的东西，帮所有人取得成功。",
+      "reads": "1.4万",
+      "ago": "1 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Meta Muse团队负责人Alexandr Wang官宣Muse for Mac正式发布。",
-        "AI智能体正式从移动端拓展至桌面端，用户可直接将其添加至Mac程序坞（Dock）。",
-        "核心能力升级：可直接访问并操作电脑本地的文件、消息、日历及笔记等数据。",
-        "隐私控制拉满：用户拥有完全控制权，可自定义权限范围。"
+        "英伟达官方释出 CEO 黄仁勋在 AllInSummit 峰会上的最新演讲内容。",
+        "黄仁勋在会上指出，当前整个 AI 生态系统中的模型都在英伟达上运行。",
+        "演讲提到，行业内新的 AI 模型和初创实验室正在不断涌现。",
+        "面对新玩家的爆发，黄仁勋重申了英伟达的平台理念：构建生态系统所需的基础设施。"
       ],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "NVIDIA",
         "role": "",
-        "said": "懂了！Mac 版的 Muse 是另一个 💫。如果有权限的话一定要试试！"
+        "said": "整个 AI 生态的模型都在 NVIDIA 上运行。 新模型和 AI 实验室层出不穷。我们的 CEO @JensenHuang 分享了 NVIDIA 平台的理念：构建生态系统所需的东西，帮助所有人取得成功。#AllInSummit"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 21万 · 产品与生态] 你的Mac要被接管了！Meta发布Mac版Muse，AI智能体直接住进程序坞"
+      "line": "[榜第14位 · 1.4万 · 资本与算力] 黄仁勋最新演讲定调：不管AI实验室怎么卷，所有模型都在英伟达上跑"
     },
     {
-      "title": "删帖也晚了！T-Mobile高管晒iPhone 18 Pro仓库照，核心IMEI码全网裸奔",
-      "summary": "未发布的 iPhone 18 Pro 遭遇了一场离谱的「官方泄密」。T-Mobile 首席运营官 Jon 在社交媒体上晒出仓库照，竟意外让包装盒上的序列号和 IMEI 码等核心设备 ID 全网裸奔。这些数据是苹果和运营商用于激活、保修的关键凭证，虽然该高管已紧急删帖，但截图早已传遍全网。",
-      "reads": "60万",
-      "ago": "16 小时前",
+      "title": "野心藏不住了！Anthropic秘密建成生物实验室，物理版MCP接管现实世界",
+      "summary": "Anthropic 悄悄在湾区建了个生物湿实验室，这事儿已经被他们生命科学主管 Eric Kauderer-Abrams 亲自证实了。这家 AI 巨头不再满足于纯软件，而是打算让 Claude 直接指挥实验室机器人搞自动化操作。虽然目前还在非常早期的阶段，但这波「AI+科学」的闭环操作，直接把目标瞄准了加速药物研发和基础生物学突破。",
+      "reads": "5.3万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "T-Mobile 首席运营官 Jon 在社交媒体发布了 iPhone 18 Pro 的仓库照片。",
-        "照片中包装盒上的序列号和 IMEI 等唯一设备 ID 清晰可见，直接暴露了未发布旗舰机的底牌。",
-        "这些核心 ID 是运营商和苹果用于设备激活、保修及库存管理的关键数据。",
-        "泄露的 ID 同样也是官方用于处理设备挂失或被盗报告的重要凭证。"
+        "秘密建厂：据路透社独家披露，Anthropic 已在湾区悄悄建成一个生物湿实验室（wet lab）。",
+        "官方证实：Anthropic 生命科学主管 Eric Kauderer-Abrams 亲自证实了该设施的存在，并表示目前处于「非常早期」的阶段。",
+        "核心玩法：公司计划让大模型 Claude 直接指挥实验室机器人，进行全自动化的物理实验操作。",
+        "战略跨越：标志着 Anthropic 正式从纯数字软件领域，大步跨入实体生命科学研究。"
       ],
       "quote": {
-        "who": "International Cyber Digest",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "Jon 刚刚删了那条帖子 🙈"
+        "said": "@NC_State69420 说真的挺好奇：你更希望哪家别的公司来做这种研究？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 60万 · 产品与生态] 删帖也晚了！T-Mobile高管晒iPhone 18 Pro仓库照，核心IMEI码全网裸奔"
+      "line": "[榜第15位 · 5.3万 · 产品与生态] 野心藏不住了！Anthropic秘密建成生物实验室，物理版MCP接管现实世界"
     },
     {
-      "title": "活久见！Anthropic大模型黑进OpenAI，3000美元拿下核心代码库",
-      "summary": "顶级AI实验室的安全防线，居然被对手的模型击穿了！据《华尔街日报》独家爆料，3名研究人员仅花不到3000美元，就利用Anthropic的Opus 5模型成功黑进OpenAI内网。他们不仅接管了员工账户，还操纵Codex在内部monorepo中提交了PR，这标志着大模型首次被用于针对头部AI企业的高价值渗透，AI自主作恶的潘多拉魔盒或许已经打开。",
-      "reads": "1.6万",
-      "ago": "3 小时前",
-      "category": "政策与安全",
+      "title": "告别6小时手工死磕！英伟达开源AI杀入手术室，精准重建儿童3D心脏",
+      "summary": "英伟达的开源AI技术正式在费城儿童医院落地，直接杀入儿童心脏手术规划前线。这套系统能把CT扫描、MRI和3D超声波数据，直接转化为极其精确的儿童心脏3D模型。过去医生得纯手工死磕6个多小时的建模工作，现在直接交给了AI，让个性化治疗方案的制定效率大幅提升。",
+      "reads": "2.7万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "据《华尔街日报》独家报道，3名网络研究人员利用Anthropic的Opus 5模型，成功入侵了OpenAI的内部系统。",
-        "攻击者巧妙利用了一个图片上传漏洞，将其转化为OpenAI员工账户的接管权限。",
-        "在接管账户后，黑客控制了被黑员工的Codex，并在OpenAI内部的monorepo中成功提交了一个PR。",
-        "整场针对头部AI实验室的高价值内部系统渗透行动，总耗资不到3000美元。"
+        "部署地点：英伟达开源AI技术正式落地费城儿童医院。",
+        "核心场景：用于辅助医生进行复杂的儿童心脏手术规划。",
+        "多模态输入：系统可直接处理现有的CT扫描、MRI以及3D超声波数据。",
+        "精准重建：将上述医疗影像转化为极其精确的儿童心脏3D模型。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "NVIDIA",
         "role": "",
-        "said": "@SistroMondain 哈哈，人总要有梦想的对吧"
+        "said": "每个孩子的心脏都是不同的。医生制定治疗方案时应该考虑到这一点。 在 @ChildrensPhila，开源 AI 能将现有的 CT 扫描、MRI 和 3D 超声波转化为儿童心脏的精确模型。这个曾经需要 6 个多小时手工建模的过程，现在可以"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 1.6万 · 政策与安全] 活久见！Anthropic大模型黑进OpenAI，3000美元拿下核心代码库"
+      "line": "[榜第16位 · 2.7万 · 产品与生态] 告别6小时手工死磕！英伟达开源AI杀入手术室，精准重建儿童3D心脏"
     }
   ],
   "board_count": 16,
