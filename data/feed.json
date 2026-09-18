@@ -3,10 +3,22 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-18 17:38:57 +0800",
+  "fetched_at": "2026-09-18 22:25:16 +0800",
   "today": "09/18",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
+    {
+      "time": "17:45",
+      "date": "09/18",
+      "title": "刚刚，Gemini 4 Pro偷跑上线！碾压Astra和Fable",
+      "summary": "Arena上一款挂着「gemini-3.8-flash」马甲的匿名模型，被开发者认出极可能是谷歌下一代旗舰Gemini 4 Pro：泄露跑分全面压过GPT-6…",
+      "source": "新智元",
+      "id": "tgc129d1",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgc129d1&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/18 17:45] 刚刚，Gemini 4 Pro偷跑上线！碾压Astra和Fable · https://www.aiera.com.cn/asi-item.html?id=tgc129d1&from=yuanyuan"
+    },
     {
       "time": "17:33",
       "date": "09/18",
@@ -104,54 +116,6 @@
       "line": "[09/18 10:53] 刚刚，Claude Code放大招！Projects上线，200个Agent不眠不休 · https://www.aiera.com.cn/asi-item.html?id=tg677786&from=yuanyuan"
     },
     {
-      "time": "21:25",
-      "date": "09/17",
-      "title": "爆料！奥特曼自曝「后Astra」模型，已超越全球最强数学家",
-      "summary": "奥特曼称GPT-5.6已比肩全球前1%至2%的数学教授，内部「后Astra」模型能解开顶级数学家束手无策的难题；Brockman称又一千禧年难题取得重大进展。",
-      "source": "新智元",
-      "id": "tgb36fa7",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgb36fa7&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/17 21:25] 爆料！奥特曼自曝「后Astra」模型，已超越全球最强数学家 · https://www.aiera.com.cn/asi-item.html?id=tgb36fa7&from=yuanyuan"
-    },
-    {
-      "time": "19:30",
-      "date": "09/17",
-      "title": "OpenAI被曝雪藏数百个证明！你死磕3年的题，答案可能早在服务器上",
-      "summary": "数学家Scott Armstrong爆料，OpenAI至少从7月起压着数百个数学证明没发。机器出证明按天算、人类读懂按年算，数学界的老规矩正在失效。",
-      "source": "新智元",
-      "id": "tge1919a",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tge1919a&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/17 19:30] OpenAI被曝雪藏数百个证明！你死磕3年的题，答案可能早在服务器上 · https://www.aiera.com.cn/asi-item.html?id=tge1919a&from=yuanyuan"
-    },
-    {
-      "time": "18:48",
-      "date": "09/17",
-      "title": "谷歌DeepMind成立AGI研究所！诺奖得主亲自挂帅",
-      "summary": "谷歌DeepMind成立DeepMind研究院（DMI），Hassabis、Shane Legg、James Manyika三人挂帅，专门研究AGI到来后经济…",
-      "source": "新智元",
-      "id": "tg69ce6e",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg69ce6e&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/17 18:48] 谷歌DeepMind成立AGI研究所！诺奖得主亲自挂帅 · https://www.aiera.com.cn/asi-item.html?id=tg69ce6e&from=yuanyuan"
-    },
-    {
-      "time": "18:18",
-      "date": "09/17",
-      "title": "图灵看了会沉默！GPT-6 Astra自主写代码，破译1941年二战未解密码",
-      "summary": "一条1941年的德军恩尼格玛密报在档案里挂了85年未破，研究者卡特·莱芬带着GPT-6 Astra和一组智能体，两天把它解开了。",
-      "source": "新智元",
-      "id": "tgc4cddd",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgc4cddd&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/17 18:18] 图灵看了会沉默！GPT-6 Astra自主写代码，破译1941年二战未解密码 · https://www.aiera.com.cn/asi-item.html?id=tgc4cddd&from=yuanyuan"
-    },
-    {
       "time": "08:08",
       "date": "09/18",
       "title": "连字都不屑于生成了，TypeSafe AI搞出个只做判断的系统一，输出直接免费",
@@ -236,6 +200,42 @@
       "line": "[09/18 01:07] 合上电脑照样干活，Claude Code重构上线，自己开多线程写代码 · https://www.aiera.com.cn/asi-item.html?id=5267841b&from=yuanyuan"
     },
     {
+      "time": "00:00",
+      "date": "09/18",
+      "title": "企业平均37个AI智能体在内网乱跑，一半连日志都没有，传统网络拦截已彻底失效",
+      "summary": "一家企业的内网里，平均跑着 37 个 AI 智能体。超过一半没有任何安全监管，连日志都没有。这组数字出自微软 2026 年 2 月的 Cyber Pulse 调研。…",
+      "source": "www.techradar.com",
+      "id": "903fea96",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=903fea96&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/18 00:00] 企业平均37个AI智能体在内网乱跑，一半连日志都没有，传统网络拦截已彻底失效 · https://www.aiera.com.cn/asi-item.html?id=903fea96&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/18",
+      "title": "50万美元底薪挖人！OpenAI疯狂扩招机器人团队，奥特曼确认要造人形",
+      "summary": "OpenAI 给机器人工程师开出的底薪，最高一年 50 万美元。据 Business Insider 报道，它官网上的机器人岗位从 5 月的 11 个涨到了 27 个…",
+      "source": "RSS",
+      "id": "fa5cf749",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=fa5cf749&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/18 00:00] 50万美元底薪挖人！OpenAI疯狂扩招机器人团队，奥特曼确认要造人形 · https://www.aiera.com.cn/asi-item.html?id=fa5cf749&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/18",
+      "title": "「拿我们的命赌博」，AI 攻防战把安全岗逼成了最热饭碗",
+      "summary": "AI 把网络安全推成了最抢手的饭碗。Box CEO Aaron Levie 对 Business Insider 说，这是「最热门的岗位类别之一，甚至可能就是最热门的」…",
+      "source": "RSS",
+      "id": "1a9ea7c4",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=1a9ea7c4&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/18 00:00] 「拿我们的命赌博」，AI 攻防战把安全岗逼成了最热饭碗 · https://www.aiera.com.cn/asi-item.html?id=1a9ea7c4&from=yuanyuan"
+    },
+    {
       "time": "23:38",
       "date": "09/17",
       "title": "千禧年大奖难题被破解，OpenAI 砸下一万个 AI 狂算 88 小时",
@@ -260,6 +260,18 @@
       "line": "[09/17 22:32] 罕见同框，黄仁勋跑去苏格兰面见英国国王，在城堡走廊聊起了AI · https://www.aiera.com.cn/asi-item.html?id=ff139db7&from=yuanyuan"
     },
     {
+      "time": "21:25",
+      "date": "09/17",
+      "title": "爆料！奥特曼自曝「后Astra」模型，已超越全球最强数学家",
+      "summary": "奥特曼称GPT-5.6已比肩全球前1%至2%的数学教授，内部「后Astra」模型能解开顶级数学家束手无策的难题；Brockman称又一千禧年难题取得重大进展。",
+      "source": "新智元",
+      "id": "tgb36fa7",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgb36fa7&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/17 21:25] 爆料！奥特曼自曝「后Astra」模型，已超越全球最强数学家 · https://www.aiera.com.cn/asi-item.html?id=tgb36fa7&from=yuanyuan"
+    },
+    {
       "time": "20:58",
       "date": "09/17",
       "title": "「AI智能体已经污染了真实互联网」 杨安泽爆料OpenAI正被迫造假网",
@@ -270,6 +282,42 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=9b76a881&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/17 20:58] 「AI智能体已经污染了真实互联网」 杨安泽爆料OpenAI正被迫造假网 · https://www.aiera.com.cn/asi-item.html?id=9b76a881&from=yuanyuan"
+    },
+    {
+      "time": "19:30",
+      "date": "09/17",
+      "title": "OpenAI被曝雪藏数百个证明！你死磕3年的题，答案可能早在服务器上",
+      "summary": "数学家Scott Armstrong爆料，OpenAI至少从7月起压着数百个数学证明没发。机器出证明按天算、人类读懂按年算，数学界的老规矩正在失效。",
+      "source": "新智元",
+      "id": "tge1919a",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tge1919a&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/17 19:30] OpenAI被曝雪藏数百个证明！你死磕3年的题，答案可能早在服务器上 · https://www.aiera.com.cn/asi-item.html?id=tge1919a&from=yuanyuan"
+    },
+    {
+      "time": "18:48",
+      "date": "09/17",
+      "title": "谷歌DeepMind成立AGI研究所！诺奖得主亲自挂帅",
+      "summary": "谷歌DeepMind成立DeepMind研究院（DMI），Hassabis、Shane Legg、James Manyika三人挂帅，专门研究AGI到来后经济…",
+      "source": "新智元",
+      "id": "tg69ce6e",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg69ce6e&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/17 18:48] 谷歌DeepMind成立AGI研究所！诺奖得主亲自挂帅 · https://www.aiera.com.cn/asi-item.html?id=tg69ce6e&from=yuanyuan"
+    },
+    {
+      "time": "18:18",
+      "date": "09/17",
+      "title": "图灵看了会沉默！GPT-6 Astra自主写代码，破译1941年二战未解密码",
+      "summary": "一条1941年的德军恩尼格玛密报在档案里挂了85年未破，研究者卡特·莱芬带着GPT-6 Astra和一组智能体，两天把它解开了。",
+      "source": "新智元",
+      "id": "tgc4cddd",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgc4cddd&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/17 18:18] 图灵看了会沉默！GPT-6 Astra自主写代码，破译1941年二战未解密码 · https://www.aiera.com.cn/asi-item.html?id=tgc4cddd&from=yuanyuan"
     },
     {
       "time": "15:40",
@@ -678,54 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=6a17e63b&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/16 16:48] 奥特曼刚把内部模型底牌掀了：GPT-5.6干到顶尖1%，新一代直超最强数学家 · https://www.aiera.com.cn/asi-item.html?id=6a17e63b&from=yuanyuan"
-    },
-    {
-      "time": "16:27",
-      "date": "09/16",
-      "title": "Aaronson爆料：AI公司手握多项数学突破，集体选择沉默",
-      "summary": "Scott Aaronson在博客里转述传闻，理论计算机科学几道悬了多年的难题已被AI解出，AI公司却因Navier-Stokes风波把结果压着没发。",
-      "source": "新智元",
-      "id": "tg5e73b3",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg5e73b3&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/16 16:27] Aaronson爆料：AI公司手握多项数学突破，集体选择沉默 · https://www.aiera.com.cn/asi-item.html?id=tg5e73b3&from=yuanyuan"
-    },
-    {
-      "time": "12:00",
-      "date": "09/16",
-      "title": "怕了公关风波，AI 巨头正把数百个数学证明死死捂在手里",
-      "summary": "Scott Aaronson 在博客上说，AI 公司已经解决了多项理论计算机科学的长期开放难题，但这些证明一个都没公开。 被排除在外的是 P≠NP…",
-      "source": "X/ai_for_success",
-      "id": "c6aee2e8",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=c6aee2e8&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/16 12:00] 怕了公关风波，AI 巨头正把数百个数学证明死死捂在手里 · https://www.aiera.com.cn/asi-item.html?id=c6aee2e8&from=yuanyuan"
-    },
-    {
-      "time": "08:44",
-      "date": "09/16",
-      "title": "OpenAI头号战略曝光！智能体私聊串通，还学会自我牺牲",
-      "summary": "OpenAI研究科学家Noam Brown说，递归自我提升是公司最高优先级，领先幅度相当大。他最强的一次「feel the AGI」，来自看到智能体像同事一样串通…",
-      "source": "新智元",
-      "id": "tgda404b",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgda404b&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/16 08:44] OpenAI头号战略曝光！智能体私聊串通，还学会自我牺牲 · https://www.aiera.com.cn/asi-item.html?id=tgda404b&from=yuanyuan"
-    },
-    {
-      "time": "08:00",
-      "date": "09/16",
-      "title": "每次写代码都要重新教AI做事？Grok Build终于长出永久记忆了",
-      "summary": "用 AI 写代码，最磨人的是每开一个新会话，都得把项目规矩从头再讲一遍。xAI 刚给 Grok Build 上线了记忆功能，这些规矩以后它自己记。 每轮对话结束后，Grok…",
-      "source": "xAI：News（网页）",
-      "id": "fd1347c9",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=fd1347c9&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/16 08:00] 每次写代码都要重新教AI做事？Grok Build终于长出永久记忆了 · https://www.aiera.com.cn/asi-item.html?id=fd1347c9&from=yuanyuan"
     }
   ],
   "feed_count": 60,

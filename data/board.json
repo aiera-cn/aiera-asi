@@ -3,40 +3,165 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-18 17:38:57 +0800",
+  "fetched_at": "2026-09-18 22:25:16 +0800",
   "today": "09/18",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "刚刚，AI基准测试大翻车！Epoch首批抽查15个，9个存在严重缺陷",
-      "summary": "AI 圈的「打假行动」来了！Epoch AI 正式推出 Benchmark Reviews 项目，专门审计各大 AI 基准测试的质量。首批抽查的 15 个基准测试中，仅有 4 个验证合格，高达 9 个被判定为「有缺陷」，部分测试中超过 20% 的任务存在影响准确性的错误。业内学者直呼，这彻底揭露了当前 AI 评估领域的糟糕现状。",
-      "reads": "29万",
-      "ago": "2 小时前",
+      "title": "马斯克突然放招！Grok Bot语音模式正式上线，手机电脑都能直接对话了",
+      "summary": "AI圈的内卷程度还在加剧，业内感慨今年的发版量直接比去年翻了三倍还多！马斯克亲自官宣，Grok Bot的语音模式正式在桌面和移动端同步上线，现在可以直接用嘴跟它聊天了。与此同时，Anthropic也悄悄给Claude Code上新，支持开启并行云端线程、保持共享内存，还新增了全局概览面板。",
+      "reads": "380万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Epoch AI 宣布推出 Benchmark Reviews 项目，旨在系统性审计 AI 基准测试的质量，并计划持续审查高影响力的基准。",
-        "首批共审查了 15 个基准测试，结果显示：仅 4 个被评为「已验证」，9 个「有缺陷」，另有 2 个因信息不足无法审查。",
-        "被判定为「有缺陷」的基准测试，通常意味着其中超过 20% 的任务存在直接影响准确性的实质性错误。",
-        "针对「已验证」的测试，Epoch 会同步发布完整的审查评估及局限性分析；而对「有缺陷」的测试则会发布缺陷简报。"
+        "马斯克亲自宣布，Grok Bot正式启用语音模式，实现从纯文本到多模态实时对话的升级。",
+        "Grok语音功能目前已在桌面端和移动端同步上线，并将在接下来的几天内逐步向用户推送。",
+        "Anthropic对Projects功能进行更新，现在所有项目都可以直接从一个Claude Code对话启动。",
+        "Claude Code新增并行云端线程功能，能够保持共享内存，进一步提升复杂任务的处理效率。"
       ],
       "quote": {
-        "who": "Kol Tregaskes",
+        "who": "🚨 AI News | TestingCatalog",
         "role": "",
-        "said": "@EpochAIResearch 这太棒了，但为什么只是“可能”审查新更新的基准测试？ 🤔"
+        "said": "@gaganghotra_ 没，这周挺轻松的 😁 不过确实，跟去年完全没法比——发布量翻了三倍还多"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 29万 · 产品与生态] 刚刚，AI基准测试大翻车！Epoch首批抽查15个，9个存在严重缺陷"
+      "line": "[榜第1位 · 380万 · 产品与生态] 马斯克突然放招！Grok Bot语音模式正式上线，手机电脑都能直接对话了"
+    },
+    {
+      "title": "别再傻傻复制粘贴了！OpenAI下放Codex神级功能，双击Alt秒读屏幕上下文",
+      "summary": "OpenAI 官方宣布，ChatGPT 桌面端最被低估的功能 Appshots 正式登陆 Windows 平台。现在只需连按两下 Alt 键（Mac 为双击 Command），AI 就能直接抓取当前聚焦软件的上下文和元数据，彻底省去繁琐的复制粘贴。作为 Codex 昔日的神级功能，这次下放让 ChatGPT 的桌面生产力属性再次拉满。",
+      "reads": "33万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 官方宣布 Appshots 功能正式登陆 Windows 平台的 ChatGPT 桌面端应用。",
+        "触发快捷键已统一：Windows 用户连按两次 Alt 键，Mac 用户连按两次 Command 键即可唤醒。",
+        "核心能力升级：不仅是简单的屏幕截图，还能直接抓取当前聚焦软件的底层文本和相关元数据，无缝带入 AI 对话。",
+        "OpenAI 研究员证实，Appshots 曾是 Codex 备受欢迎的核心功能，此次全量下放旨在让 AI 更快进入工作状态。"
+      ],
+      "quote": {
+        "who": "Vaibhav (VB) Srivastav",
+        "role": "",
+        "said": "@frogandabog @OpenAIDevs 抱歉 Lena，这个视频有帮助吗，我们这里还有些文档： 很乐意提供更多详细信息"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 33万 · 产品与生态] 别再傻傻复制粘贴了！OpenAI下放Codex神级功能，双击Alt秒读屏幕上下文"
+    },
+    {
+      "title": "刚刚，小扎甩出Meta版Computer Use！原生操控Mac，清理文件买保险全包了",
+      "summary": "小扎今天亲自官宣，Meta独立的桌面端AI应用Muse for Mac正式上线，并迅速冲上App Store第二名！这次最大的杀手锏是原生具备Computer Use能力，只要你授权，它就能跨应用帮你清理文件、甚至买保险。目前该应用仅限美国区，但印度等地已经开始缓慢灰度推送，桌面Agent的大战彻底打响了。",
+      "reads": "62万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Meta正式发布独立应用Muse for Mac，目前已迅速冲至App Store排行榜第二名。",
+        "小扎亲自发文官宣，称该应用能打通电脑上的应用、文件、日历、笔记和信息，且团队「发版神速」。",
+        "核心亮点是原生具备Computer Use（计算机使用）功能，AI智能体可以直接在电脑上替用户完成任务。",
+        "隐私控制方面，用户拥有完全的决定权，AI对本地数据的任何访问和操作均需获得明确授权。"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "@aymanemsi 是的，我看到印度的一些朋友现在已经可以访问了——所以它会慢慢扩展的。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 62万 · 产品与生态] 刚刚，小扎甩出Meta版Computer Use！原生操控Mac，清理文件买保险全包了"
+    },
+    {
+      "title": "1300亿Token暴击！OpenAI攻破纳维-斯托克斯方程，AI自动化科研稳了",
+      "summary": "OpenAI内部未发布模型在数学领域搞出大动静，直接攻破了纳维-斯托克斯方程！研究员Noam Brown在播客中透露，这次突破集中了1300亿Token的算力，相当于人类全职思考数年甚至数十年。AI迭代速度已经快到让人连3个月后的发展都不敢预测，团队目前正疯狂招募对齐和安全人才，为下一步启动AI自我进化（RSI）做准备。",
+      "reads": "54万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI研究员Noam Brown在Dwarkesh播客中证实，内部未发布模型在纳维-斯托克斯（Navier-Stokes）方程上取得重大突破。",
+        "播客主持人震惊于此次突破的算力规模，指出短时间内集中1300亿Token的认知努力，相当于单个人类全职思考数年甚至数十年。",
+        "AI的进化速度已彻底颠覆业内预期，曾能预测未来12个月发展的研究员，现在连3个月后的技术状态都不敢断言。",
+        "Noam Brown直言「根本不知道2030年的世界会是什么样」，暗示AI正从辅助工具向自主科研主体转变。"
+      ],
+      "quote": {
+        "who": "Dan McAteer",
+        "role": "",
+        "said": "这简直太震撼了。🤯 Dwarkesh：“我对你们能在短时间内集中如此大规模的认知努力感到震惊。如果你想想 1300 亿个 Token 意味着什么：如果这是一个全职思考的人类，那将是一个人类思考了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 54万 · 模型与能力] 1300亿Token暴击！OpenAI攻破纳维-斯托克斯方程，AI自动化科研稳了"
+    },
+    {
+      "title": "糟糕，大模型榜单塌房了！15个基准测试9个不合格，错误率飙到46%",
+      "summary": "大模型的评测榜单，可能从根上就烂了。Epoch AI 刚刚推出了基准测试审计项目 Benchmark Reviews，首批抽查的 15 个榜单中，只有 4 个合格，高达 9 个被判「有缺陷」。更离谱的是，备受关注的 Humanity's Last Exam 抽样错误率竟然飙到了 46%，满是矛盾前提和缺失假设，直接把圈内大佬看傻了。",
+      "reads": "36万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Epoch AI 正式推出 Benchmark Reviews 项目，旨在对当前泛滥的 AI 基准测试进行质量审计。",
+        "首批共审查了 15 个基准测试，结果惨烈：仅 4 个被评为「已验证」，9 个「有缺陷」，另有 2 个因信息不足无法评估。",
+        "被判「有缺陷」的硬指标是：超过 20% 的任务存在影响准确性的实质性错误。",
+        "知名榜单 Humanity's Last Exam 翻车严重，抽样的 48 个问题中有 22 个存在错误，错误率高达 46%。"
+      ],
+      "quote": {
+        "who": "Kol Tregaskes",
+        "role": "",
+        "said": "Epoch 正在对基准测试进行基准测试。我让 Grok 总结了那些有缺陷的。就我所见，情况相当糟糕。 Humanity’s Last Exam： - 抽样的 48 个问题中有 22 个（46%）存在影响准确性的错误——不可能的选项、矛盾的前提、缺失的假设，或者答案"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 36万 · 产品与生态] 糟糕，大模型榜单塌房了！15个基准测试9个不合格，错误率飙到46%"
+    },
+    {
+      "title": "藏不住了！Anthropic新一代Opus全平台偷跑，免工具碾压旧版",
+      "summary": "Anthropic 正在悄悄搞一波大的！有开发者发现，官方正通过现役的「Opus 5」入口，大面积灰度测试未公布的新一代模型 Opus-Next。这次测试不仅覆盖了 Chat 和 Cowork，还接入了 Claude Code，且新模型在无工具辅助下的表现直接碾压旧版。更耐人寻味的是，官方模型选择器里 Opus 已经被悄悄提到了第一位，新旗舰的正式发布恐怕就在眼前了。",
+      "reads": "23万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "开发者爆料，Anthropic 正通过现役「Opus 5」入口，对内部代号为 Opus-Next 的新一代模型进行隐式路由灰度测试。",
+        "测试曾经历短暂中断，导致灰度组账号数量一度归零，但随后迅速对大多数付费账号全面恢复。",
+        "最新一轮灰度测试的范围大幅扩张，已从最初的 Claude Code 扩展至全平台覆盖（包含 Chat、Cowork 和 Claude Code）。",
+        "社区摸索出了真伪验证方法：向模型提问识别 OpenAI 员工 Tibo，旧版 Opus 5 会答错，而 Opus-Next 无需调用工具即可准确回答。"
+      ],
+      "quote": {
+        "who": "leo 🐾",
+        "role": "",
+        "said": "有意思的是，Anthropic 在模型选择器里把 Fable 和 Opus 互换了……Opus 现在是选择器里的第一个模型"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 23万 · 产品与生态] 藏不住了！Anthropic新一代Opus全平台偷跑，免工具碾压旧版"
     },
     {
       "title": "6个月从不到1%飙到26%！Anthropic公开RSI进度，3万AI大军接管研发",
       "summary": "AI 自己造自己的时代真来了！Anthropic 官方首次公开了衡量 RSI（递归自我改进）的三大指标，核心数据直接把人看呆：短短 6 个月内，由 Claude 主导的 AI 研发任务比例从不到 1% 狂飙到了 26%。目前，Anthropic 的数据中心里同时跑着 3 万个 AI 智能体日夜赶工，超过 90% 的研发工作都已经达到了「AI 协作」级别。照这个加速度，有网友惊呼…",
-      "reads": "102万",
-      "ago": "6 小时前",
+      "reads": "120万",
+      "ago": "10 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -54,189 +179,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 102万 · 模型与能力] 6个月从不到1%飙到26%！Anthropic公开RSI进度，3万AI大军接管研发"
-    },
-    {
-      "title": "瞒不住了！新一代Opus全平台灰度测试，伪装成Opus 5悄悄上线",
-      "summary": "Anthropic 正在悄悄测试新一代模型 Opus-Next！有开发者爆料，官方正以现役旧版「Opus 5」为入口进行灰度测试，短暂拔线后现已覆盖 Chat、Cowork 和 Claude Code 全平台。目前大多数付费账号均可体验，实测发现新模型在不使用工具的情况下就能答对难题，相比旧版有显著的跨代飞跃，距离正式发布或许只差临门一脚。",
-      "reads": "13万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "有开发者爆料，Anthropic 正在暗中测试新一代模型 Opus-Next，测试入口直接伪装在现役旧版「Opus 5」中。",
-        "官方曾短暂切断了隐式路由通道，导致测试组的账号数量一度直接归零，打断了部分开发者的测试进程。",
-        "目前 Opus-Next 已重新上线，并对大多数（甚至所有）付费账号开放了灰度测试。",
-        "测试覆盖范围大幅扩大，从最初仅限 Claude Code，全面扩展至 Chat、Cowork 等全平台。"
-      ],
-      "quote": {
-        "who": "leo 🐾",
-        "role": "",
-        "said": "@JasonBotterill 你能用 Fable 的系统提示词问下这个吗？就为了排除那个可能性。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 13万 · 模型与能力] 瞒不住了！新一代Opus全平台灰度测试，伪装成Opus 5悄悄上线"
-    },
-    {
-      "title": "终于轮到Windows！Codex最强上下文神器上线，双击Alt直接把屏幕喂给AI",
-      "summary": "ChatGPT桌面端最被低估的神级功能Appshots，终于正式登陆Windows平台。现在Win用户只需连按两次Alt键，就能一键抓取当前聚焦应用的上下文、元数据和文本，直接发送给AI。这项被研究员称为「Codex最受欢迎」的特性，彻底打破了此前Mac独占的局面，让跨平台打工人真正实现「分享代替描述」的高效交互。",
-      "reads": "19万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "ChatGPT官方宣布，桌面端应用核心功能Appshots正式扩展至Windows平台。",
-        "Windows用户可通过同时按下两个Alt键触发该功能，Mac用户则继续使用双击Command键。",
-        "Appshots不仅能截取屏幕画面，还会深度抓取当前应用的元数据和相关文本信息。",
-        "OpenAI研究员指出，这是Codex生态中最受开发者欢迎的特性之一。"
-      ],
-      "quote": {
-        "who": "Vaibhav (VB) Srivastav",
-        "role": "",
-        "said": "@abenz95 只有当前聚焦的应用（看视频）"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 19万 · 产品与生态] 终于轮到Windows！Codex最强上下文神器上线，双击Alt直接把屏幕喂给AI"
-    },
-    {
-      "title": "马斯克亲自确认！Grok全端上线语音模式，传4.7大版本今日空降",
-      "summary": "马斯克亲自盖章，Grok Bot 桌面端和移动端正式接入语音模式，未来几天内就会逐步推送到大家手里。从他晒出的截图来看，界面带有标志性的紫色声波和麦克风控制按钮，多模态实时交互终于补齐。更有意思的是，有开发者在谷歌云控制台的配额页发现了蛛丝马迹，推测传闻中的 Grok 4.7 大版本很可能就在今天同步空降。",
-      "reads": "319万",
-      "ago": "11 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "马斯克亲自发文确认「Grok @Bot 现在有声音了」，并晒出带有紫色声波波形及麦克风控制按钮的界面截图。",
-        "SpaceXAI 官方宣布，Grok Bot 桌面端和移动端 App 正式接入语音模式，该功能将在未来几天内逐步推送。",
-        "语音模式的加入标志着 Grok 从纯文本交互向多模态实时交互演进，产品体验进一步逼近 ChatGPT 等竞品。",
-        "有开发者在谷歌云控制台的配额页发现了相关迹象，推测传闻中的 Grok 4.7 版本很可能在今天同步发布。"
-      ],
-      "quote": {
-        "who": "Elon Musk",
-        "role": "",
-        "said": "Grok @Bot 现在有声音了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 319万 · 产品与生态] 马斯克亲自确认！Grok全端上线语音模式，传4.7大版本今日空降"
-    },
-    {
-      "title": "刚刚，Claude黑进OpenAI内部！仅花3000美元，员工账号代码库全沦陷",
-      "summary": "7月25日，安全公司Hacktron的三名研究员干了一票大的：他们用Anthropic的Claude Opus 5，成功黑进了OpenAI的内部系统。整个攻击过程仅消耗不到3000美元的Token成本，就通过图片上传漏洞和SSO配置错误，接管了多名OpenAI员工的ChatGPT账号。更离谱的是，攻击者还操控被黑员工的Codex代理，直接在OpenAI内部代码库里提了PR，彻底…",
-      "reads": "15万",
-      "ago": "4 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "攻击事件发生在7月25日，安全公司Hacktron的三名研究员主导了这次针对OpenAI的深度渗透测试。",
-        "攻击核心主力是Anthropic的模型Claude Opus 5，整个黑客行动消耗的Token成本不到3000美元。",
-        "研究员巧妙串联了两个高危漏洞，将一个普通的图片上传Bug转化为对OpenAI员工账户的全面接管。",
-        "结合SSO配置错误，攻击者成功拿下了多名OpenAI员工的ChatGPT账号控制权。"
-      ],
-      "quote": {
-        "who": "宝玉",
-        "role": "",
-        "said": ""
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 15万 · 政策与安全] 刚刚，Claude黑进OpenAI内部！仅花3000美元，员工账号代码库全沦陷"
-    },
-    {
-      "title": "糟糕，OpenAI老巢被端了！3人靠Opus 5接管员工账号，耗时不到72小时",
-      "summary": "仅靠不到3000美元的订阅费，3名研究员在72小时内用放宽护栏版的Opus 5成功黑进了OpenAI。他们利用图片上传漏洞接管了员工账号，不仅看光了内部的Outlook和Slack，甚至还操控员工的Codex在内部代码库提交了PR。这一离谱事件直接引爆了全网担忧：几个人就能搞定，国家级黑客得有多可怕？",
-      "reads": "25万",
-      "ago": "5 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "攻击耗时极短：Hacktron AI的3名研究员仅用不到72小时，就成功入侵了OpenAI内部系统。",
-        "核心作案工具：利用了放宽网络安全护栏版本的Claude Opus 5模型，整个行动成本不到3000美元。",
-        "漏洞突破口：7月23日用Opus 4.8尝试未果，Opus 5发布次日即发现Discourse论坛漏洞，通过图片上传获取了用户认证令牌。",
-        "战果惊人：成功接管OpenAI员工的ChatGPT和Codex账号，并长驱直入访问了关联的Outlook、Slack和GitHub等服务。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "@SmokeAwayyy Sam 至少可以把他做的定制款给他们每人发一个吧。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 25万 · 政策与安全] 糟糕，OpenAI老巢被端了！3人靠Opus 5接管员工账号，耗时不到72小时"
+      "line": "[榜第7位 · 120万 · 模型与能力] 6个月从不到1%飙到26%！Anthropic公开RSI进度，3万AI大军接管研发"
     },
     {
-      "title": "你的Mac要被接管了！Meta发布Mac版Muse，AI智能体直接住进程序坞",
-      "summary": "Meta的AI智能体正式杀入桌面端！团队负责人Alexandr Wang官宣Mac版Muse上线，现在你可以直接把它塞进程序坞。新版本彻底打通了本地文件、消息和日历，还能自定义权限，敏感操作必须经过你点头。目前Muse已拿下App Store第二，桌面版的加入让它的生态地位更稳了。",
-      "reads": "19万",
-      "ago": "5 小时前",
+      "title": "觉都不睡了！Gemini 4、Grok 4.7全泄露，五大旗舰模型集体准备就绪",
+      "summary": "疯狂的一周来了，各大AI厂商的下一代旗舰底牌全被翻出！有开发者爆料，Anthropic正通过Claude Code暗中将Fable 5.1路由至未发布的Fable 5.2进行灰度测试，而Gemini 4则披着Gemini 3.8 Flash的马甲在Arena平台大杀四方。此外，Grok 4.7、Opus 5.2以及GPT-6 Sol均已准备就绪，大厂密集换代导致部分API通道被…",
+      "reads": "2.4万",
+      "ago": "48 分钟前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Meta Muse团队负责人Alexandr Wang官宣Muse for Mac正式发布。",
-        "AI智能体正式从移动端拓展至桌面端，用户可直接将其添加至Mac程序坞（Dock）。",
-        "核心能力升级：可直接访问并操作电脑本地的文件、消息、日历及笔记等数据。",
-        "隐私控制拉满：用户拥有完全控制权，可自定义权限范围。"
+        "爆料显示，Anthropic正在Claude Code中进行灰度测试，将Fable 5.1的入口隐式路由至未发布的Fable 5.2。",
+        "谷歌Gemini 4疑似正在Arena平台上进行测试，对外伪装成现役的Gemini 3.8 Flash模型。",
+        "消息指出，马斯克xAI旗下的Grok 4.7以及OpenAI的GPT-6 Sol均已处于准备就绪状态。",
+        "Anthropic的Opus 5.2也已准备完毕，并且内部已经展示了至少两个Demo演示。"
       ],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "Chetaslua",
         "role": "",
-        "said": "懂了！Mac 版的 Muse 是另一个 💫。如果有权限的话一定要试试！"
+        "said": "@TimJayas 领跑前沿"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 19万 · 产品与生态] 你的Mac要被接管了！Meta发布Mac版Muse，AI智能体直接住进程序坞"
+      "line": "[榜第8位 · 2.4万 · 产品与生态] 觉都不睡了！Gemini 4、Grok 4.7全泄露，五大旗舰模型集体准备就绪"
     },
     {
-      "title": "太懂程序员了！Claude Code变身Slack的Thread版，云端多线程并行跑",
-      "summary": "Anthropic 今天给桌面和网页端的 Claude Code 甩出了一个重磅更新，全新的 Projects 功能正式开启 Beta 测试。这次改版直接把 AI 交互变成了类似 Slack 的多线程模式，一次对话就能自动拆分成多个云端线程并行跑，甚至电脑离线了后台还在继续打工。目前该功能已向部分 Pro 和 Max 老用户开放，想尝鲜的可以去排候补名单了。",
-      "reads": "150万",
-      "ago": "12 小时前",
+      "title": "野心藏不住了！Anthropic秘密建成生物实验室，物理版MCP接管现实世界",
+      "summary": "Anthropic 悄悄在湾区建了个生物湿实验室，这事儿已经被他们生命科学主管 Eric Kauderer-Abrams 亲自证实了。这家 AI 巨头不再满足于纯软件，而是打算让 Claude 直接指挥实验室机器人搞自动化操作。虽然目前还在非常早期的阶段，但这波「AI+科学」的闭环操作，直接把目标瞄准了加速药物研发和基础生物学突破。",
+      "reads": "2.5万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Anthropic 在桌面端和网页端的 Claude Code 中正式上线 Projects 功能，目前处于 Beta 测试阶段。",
-        "核心架构大改，一个 Project 即为一次对话，AI 会自动将工作拆分为多个并行运行的云端线程（threads）。",
-        "具备强大的上下文传递能力，各个线程之间可以无缝共享信息，实现从简单提问到复杂严肃工作的平滑过渡。",
-        "支持离线后台运行，即使关闭电脑或断网，云端的并行会话依然会继续执行任务。"
+        "秘密建厂：据路透社独家披露，Anthropic 已在湾区悄悄建成一个生物湿实验室（wet lab）。",
+        "官方证实：Anthropic 生命科学主管 Eric Kauderer-Abrams 亲自证实了该设施的存在，并表示目前处于「非常早期」的阶段。",
+        "核心玩法：公司计划让大模型 Claude 直接指挥实验室机器人，进行全自动化的物理实验操作。",
+        "战略跨越：标志着 Anthropic 正式从纯数字软件领域，大步跨入实体生命科学研究。"
       ],
       "quote": {
-        "who": "宝玉",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "Claude Code 的 Projects 改版：Claude Tag 的架构 + Slack 的 Thread 功能 以前就有人说现在 ChatBot、Agent 的交互就是借鉴自 Slack 的，现在看起来一点不假，Anthropic 今天重做了 Claude 的 Projects 功能，先在 Claude Code 里上线测试版，终于把我最喜欢的 Thread 功能也抄进来了。 以前的"
+        "said": "@NC_State69420 说真的挺好奇：你更希望哪家别的公司来做这种研究？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 150万 · 产品与生态] 太懂程序员了！Claude Code变身Slack的Thread版，云端多线程并行跑"
+      "line": "[榜第9位 · 2.5万 · 产品与生态] 野心藏不住了！Anthropic秘密建成生物实验室，物理版MCP接管现实世界"
     },
     {
       "title": "电脑关机照样打工！Claude Code大升级，化身幕僚长全自动调度多线程",
       "summary": "Anthropic 连夜给打工人送来了一位「AI 幕僚长」。全新的 Projects 功能正式接入 Claude Code，只需在一个对话框里布置任务，AI 就会自动拆解并调度多个子智能体并行工作。最绝的是它支持云端后台运行，就算你合上电脑断了网，AI 依然在云端疯狂打工。目前该功能已向部分 Pro 和 Max 用户开放 Beta 测试，本地内网支持也即将上线。",
-      "reads": "274万",
-      "ago": "15 小时前",
+      "reads": "295万",
+      "ago": "19 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -255,23 +255,73 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 274万 · 产品与生态] 电脑关机照样打工！Claude Code大升级，化身幕僚长全自动调度多线程"
+      "line": "[榜第10位 · 295万 · 产品与生态] 电脑关机照样打工！Claude Code大升级，化身幕僚长全自动调度多线程"
     },
     {
-      "title": "刚刚，小扎亲自发布Meta版Computer Use！Muse空降Mac，原生接管电脑",
-      "summary": "小扎亲自官宣，Meta 独立的桌面端 AI 智能体 Muse for Mac 今天正式上线！这款应用不仅打通了电脑上的文件、日历和消息，更重磅的是原生自带了 Computer Use（电脑使用）功能，只要你给权限，AI 就能直接接管电脑帮你干活。目前该应用仅限美国地区下载，Meta 团队的发版速度属实把网友惊到了。",
-      "reads": "54万",
-      "ago": "10 小时前",
+      "title": "太懂程序员了！Claude Code变身Slack的Thread版，云端多线程并行跑",
+      "summary": "Anthropic 今天给桌面和网页端的 Claude Code 甩出了一个重磅更新，全新的 Projects 功能正式开启 Beta 测试。这次改版直接把 AI 交互变成了类似 Slack 的多线程模式，一次对话就能自动拆分成多个云端线程并行跑，甚至电脑离线了后台还在继续打工。目前该功能已向部分 Pro 和 Max 老用户开放，想尝鲜的可以去排候补名单了。",
+      "reads": "162万",
+      "ago": "16 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "扎克伯格亲自宣布 Muse for Mac 正式发布，标志着 Meta 的 AI 智能体正式杀入桌面端生态。",
-        "核心杀手锏：应用原生具备 Computer Use（电脑使用）功能，在用户明确授权下，AI 可以直接操控电脑完成任务。",
-        "深度介入工作流：Muse 打通了 macOS 的本地生态，支持跨应用工作，可直接操作文件、日历、笔记及消息。",
-        "主打隐私可控：扎克伯格强调，用户可以完全控制 Muse 的访问权限，决定 AI 能看什么、干什么。"
+        "Anthropic 在桌面端和网页端的 Claude Code 中正式上线 Projects 功能，目前处于 Beta 测试阶段。",
+        "核心架构大改，一个 Project 即为一次对话，AI 会自动将工作拆分为多个并行运行的云端线程（threads）。",
+        "具备强大的上下文传递能力，各个线程之间可以无缝共享信息，实现从简单提问到复杂严肃工作的平滑过渡。",
+        "支持离线后台运行，即使关闭电脑或断网，云端的并行会话依然会继续执行任务。"
       ],
       "quote": {
-        "who": "NIK",
+        "who": "宝玉",
+        "role": "",
+        "said": "Claude Code 的 Projects 改版：Claude Tag 的架构 + Slack 的 Thread 功能 以前就有人说现在 ChatBot、Agent 的交互就是借鉴自 Slack 的，现在看起来一点不假，Anthropic 今天重做了 Claude 的 Projects 功能，先在 Claude Code 里上线测试版，终于把我最喜欢的 Thread 功能也抄进来了。 以前的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 162万 · 产品与生态] 太懂程序员了！Claude Code变身Slack的Thread版，云端多线程并行跑"
+    },
+    {
+      "title": "糟糕，OpenAI老巢被端了！3人靠Opus 5接管员工账号，耗时不到72小时",
+      "summary": "仅靠不到3000美元的订阅费，3名研究员在72小时内用放宽护栏版的Opus 5成功黑进了OpenAI。他们利用图片上传漏洞接管了员工账号，不仅看光了内部的Outlook和Slack，甚至还操控员工的Codex在内部代码库提交了PR。这一离谱事件直接引爆了全网担忧：几个人就能搞定，国家级黑客得有多可怕？",
+      "reads": "34万",
+      "ago": "9 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "攻击耗时极短：Hacktron AI的3名研究员仅用不到72小时，就成功入侵了OpenAI内部系统。",
+        "核心作案工具：利用了放宽网络安全护栏版本的Claude Opus 5模型，整个行动成本不到3000美元。",
+        "漏洞突破口：7月23日用Opus 4.8尝试未果，Opus 5发布次日即发现Discourse论坛漏洞，通过图片上传获取了用户认证令牌。",
+        "战果惊人：成功接管OpenAI员工的ChatGPT和Codex账号，并长驱直入访问了关联的Outlook、Slack和GitHub等服务。"
+      ],
+      "quote": {
+        "who": "Andrew Curran",
+        "role": "",
+        "said": "@SmokeAwayyy Sam 至少可以把他做的定制款给他们每人发一个吧。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 34万 · 政策与安全] 糟糕，OpenAI老巢被端了！3人靠Opus 5接管员工账号，耗时不到72小时"
+    },
+    {
+      "title": "刚刚，Claude黑进OpenAI内部！仅花3000美元，员工账号代码库全沦陷",
+      "summary": "7月25日，安全公司Hacktron的三名研究员干了一票大的：他们用Anthropic的Claude Opus 5，成功黑进了OpenAI的内部系统。整个攻击过程仅消耗不到3000美元的Token成本，就通过图片上传漏洞和SSO配置错误，接管了多名OpenAI员工的ChatGPT账号。更离谱的是，攻击者还操控被黑员工的Codex代理，直接在OpenAI内部代码库里提了PR，彻底…",
+      "reads": "21万",
+      "ago": "8 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "攻击事件发生在7月25日，安全公司Hacktron的三名研究员主导了这次针对OpenAI的深度渗透测试。",
+        "攻击核心主力是Anthropic的模型Claude Opus 5，整个黑客行动消耗的Token成本不到3000美元。",
+        "研究员巧妙串联了两个高危漏洞，将一个普通的图片上传Bug转化为对OpenAI员工账户的全面接管。",
+        "结合SSO配置错误，攻击者成功拿下了多名OpenAI员工的ChatGPT账号控制权。"
+      ],
+      "quote": {
+        "who": "宝玉",
         "role": "",
         "said": ""
       },
@@ -279,39 +329,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 54万 · 产品与生态] 刚刚，小扎亲自发布Meta版Computer Use！Muse空降Mac，原生接管电脑"
+      "rank": 13,
+      "line": "[榜第13位 · 21万 · 政策与安全] 刚刚，Claude黑进OpenAI内部！仅花3000美元，员工账号代码库全沦陷"
     },
     {
-      "title": "瞒不住了！疑似Gemini 4 Pro泄露，化名3.8 Flash空降竞技场",
-      "summary": "谷歌新一代旗舰模型疑似提前泄露！有开发者在 LMSYS Arena 中发现了一个名为「Gemini 3.8 Flash」的新模型，目前仅对部分用户灰度开放。实测显示，该模型在前端代码生成上表现惊艳，仅凭提示词就能写出精美的「云端飞鲸」SVG 代码，生成质量远超前代。社区普遍猜测，这很可能就是传闻中未发布的 Gemini 4 Pro。",
-      "reads": "3.4万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "title": "你的Mac要被接管了！Meta发布Mac版Muse，AI智能体直接住进程序坞",
+      "summary": "Meta的AI智能体正式杀入桌面端！团队负责人Alexandr Wang官宣Mac版Muse上线，现在你可以直接把它塞进程序坞。新版本彻底打通了本地文件、消息和日历，还能自定义权限，敏感操作必须经过你点头。目前Muse已拿下App Store第二，桌面版的加入让它的生态地位更稳了。",
+      "reads": "21万",
+      "ago": "9 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "有开发者在 LMSYS Arena 发现名为「Gemini 3.8 Flash」的新模型，目前仅对部分用户开放测试。",
-        "社区普遍猜测，该模型实际上是 Google 尚未正式发布的下一代旗舰模型 Gemini 4 Pro 的早期泄露版。",
-        "实测前端代码能力大幅提升，能够根据提示词直接生成高质量的「云端飞翔鲸鱼」SVG 代码。",
-        "测试者评价其输出结果比之前的检查点更加精致和详细，直呼「这次 Google 是认真的」。"
+        "Meta Muse团队负责人Alexandr Wang官宣Muse for Mac正式发布。",
+        "AI智能体正式从移动端拓展至桌面端，用户可直接将其添加至Mac程序坞（Dock）。",
+        "核心能力升级：可直接访问并操作电脑本地的文件、消息、日历及笔记等数据。",
+        "隐私控制拉满：用户拥有完全控制权，可自定义权限范围。"
       ],
       "quote": {
-        "who": "Pankaj Kumar",
+        "who": "Derya Unutmaz, MD",
         "role": "",
-        "said": "@100xdev_"
+        "said": "懂了！Mac 版的 Muse 是另一个 💫。如果有权限的话一定要试试！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 3.4万 · 模型与能力] 瞒不住了！疑似Gemini 4 Pro泄露，化名3.8 Flash空降竞技场"
+      "rank": 14,
+      "line": "[榜第14位 · 21万 · 产品与生态] 你的Mac要被接管了！Meta发布Mac版Muse，AI智能体直接住进程序坞"
     },
     {
       "title": "删帖也晚了！T-Mobile高管晒iPhone 18 Pro仓库照，核心IMEI码全网裸奔",
       "summary": "未发布的 iPhone 18 Pro 遭遇了一场离谱的「官方泄密」。T-Mobile 首席运营官 Jon 在社交媒体上晒出仓库照，竟意外让包装盒上的序列号和 IMEI 码等核心设备 ID 全网裸奔。这些数据是苹果和运营商用于激活、保修的关键凭证，虽然该高管已紧急删帖，但截图早已传遍全网。",
-      "reads": "56万",
-      "ago": "12 小时前",
+      "reads": "60万",
+      "ago": "16 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -329,83 +379,33 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 56万 · 产品与生态] 删帖也晚了！T-Mobile高管晒iPhone 18 Pro仓库照，核心IMEI码全网裸奔"
-    },
-    {
-      "title": "奥特曼刚鸽了本周大招，OpenAI全员开始疯狂暗示！重磅更新锁定DevDay",
-      "summary": "奥特曼刚确认本周的大招延期，OpenAI 的研究员们就迫不及待开始当起「谜语人」了。核心研究员 Tibo 在 X 上直接回复开发者「DevDay 见」，随后引来同事转发互动，官方亲自下场把期待值拉满。这意味着备受瞩目的 ChatGPT Images 2.5 等重磅更新，大概率将在 9 月 29 日的旧金山 DevDay 上正式揭晓，新一轮模型迭代窗口马上开启。",
-      "reads": "47万",
-      "ago": "13 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 研究员 Tibo 在 X 上回复一位开发者，留下一句意味深长的「DevDay 见」。",
-        "另一位研究员随后引用该推文并互动：「大家看看，Tibo 这是什么意思？」，官方亲自下场炒作预热。",
-        "此前 Sam Altman 刚刚确认本周的发布计划延期，Tibo 的表态被视为官方对发布节奏的最新指引。",
-        "外界普遍猜测，备受期待的 ChatGPT Images 2.5 等重磅更新将在此次活动上正式亮相。"
-      ],
-      "quote": {
-        "who": "Vaibhav (VB) Srivastav",
-        "role": "",
-        "said": "大家看看，Tibo 这是什么意思？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 47万 · 产品与生态] 奥特曼刚鸽了本周大招，OpenAI全员开始疯狂暗示！重磅更新锁定DevDay"
-    },
-    {
-      "title": "拖延症有救了！ChatGPT原生植入Word，企业版限免两周GPT-5.6 Sol",
-      "summary": "拖延症患者的福音来了，OpenAI 官方宣布将 ChatGPT 原生集成到 Microsoft Word、Excel 和 PPT 中！这次更新面向所有套餐开放，免费版用户也能在额度内直接使用。更重磅的是，9 月 17 日至 30 日期间，企业版和商业版用户可以在 Word 里免费白嫖两周 GPT-5.6 Sol 模型。随着 Anthropic 刚刚发布 Claude Docs…",
-      "reads": "50万",
-      "ago": "13 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 官方宣布 ChatGPT 正式接入 Microsoft Word、PowerPoint 和 Excel，用户无需离开文档即可直接调用 AI。",
-        "核心功能包括：将粗糙笔记转化为初稿、理顺复杂段落、校对文本以及提供修改建议，甚至能自动识别排版格式问题。",
-        "该功能向所有订阅套餐开放，免费版用户也可使用，但设有一定的使用额度限制。",
-        "9 月 17 日至 30 日期间，Business 和 Enterprise 套餐用户可在 Word 中免费预览两周 GPT-5.6 Sol 模型。"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "OPENAI 🔥：官方宣布 Word 版 ChatGPT 将向所有套餐（包括免费版）开放，但有使用限制。 > Business 和 Enterprise 套餐用户可以在 Word 中免费预览两周 GPT-5.6 Sol。 > 本周早些时候，Anthropic 宣布了 Claude Docs，这是一个用于"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 50万 · 产品与生态] 拖延症有救了！ChatGPT原生植入Word，企业版限免两周GPT-5.6 Sol"
+      "line": "[榜第15位 · 60万 · 产品与生态] 删帖也晚了！T-Mobile高管晒iPhone 18 Pro仓库照，核心IMEI码全网裸奔"
     },
     {
-      "title": "重磅官宣！Sakana AI成立前沿研究组，跳出主流死磕下一代AI范式",
-      "summary": "Sakana AI 官方刚刚宣布成立前沿智能研究组（FIG），明确表示当前的 AI 系统虽然强大，但智能问题远未被「解决」。新团队将跳出当前的主流路径，从生物智能等不同方向探索下一个 AI 大范式。这波操作不仅展现了他们对底层创新的死磕，也意味着 Sakana AI 正在推进 Sakana Chat 商业化的同时，试图用差异化路线保持技术竞争力。",
-      "reads": "6.4万",
-      "ago": "6 小时前",
-      "category": "组织与人事",
+      "title": "活久见！Anthropic大模型黑进OpenAI，3000美元拿下核心代码库",
+      "summary": "顶级AI实验室的安全防线，居然被对手的模型击穿了！据《华尔街日报》独家爆料，3名研究人员仅花不到3000美元，就利用Anthropic的Opus 5模型成功黑进OpenAI内网。他们不仅接管了员工账户，还操纵Codex在内部monorepo中提交了PR，这标志着大模型首次被用于针对头部AI企业的高价值渗透，AI自主作恶的潘多拉魔盒或许已经打开。",
+      "reads": "1.6万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Sakana AI 官方正式宣布成立前沿智能研究组（Frontier Intelligence Group，简称 FIG）。",
-        "官方对现有技术路线提出灵魂拷问：当前的 AI 系统能力惊人，但智能真的已经被「解决」了吗？",
-        "FIG 团队的核心目标是探索当前主流之外的下一个 AI 范式，寻找全新的技术突破口。",
-        "在具体研究方向上，新团队将重点从生物智能等非主流角度切入，探索 AI 发展的更多可能性。"
+        "据《华尔街日报》独家报道，3名网络研究人员利用Anthropic的Opus 5模型，成功入侵了OpenAI的内部系统。",
+        "攻击者巧妙利用了一个图片上传漏洞，将其转化为OpenAI员工账户的接管权限。",
+        "在接管账户后，黑客控制了被黑员工的Codex，并在OpenAI内部的monorepo中成功提交了一个PR。",
+        "整场针对头部AI实验室的高价值内部系统渗透行动，总耗资不到3000美元。"
       ],
       "quote": {
-        "who": "Sakana AI",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "探索下一个范式的 Sakana AI 研究小组「Frontier Intelligence Group」 Sakana AI 有一个名为「Frontier Intelligence Group（FIG）」的研究小组，从不同于当前主流的方向探索 AI 的可能性。FIG 认为，智能尚未被「解决」，当前的 AI 与生物"
+        "said": "@SistroMondain 哈哈，人总要有梦想的对吧"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 6.4万 · 组织与人事] 重磅官宣！Sakana AI成立前沿研究组，跳出主流死磕下一代AI范式"
+      "line": "[榜第16位 · 1.6万 · 政策与安全] 活久见！Anthropic大模型黑进OpenAI，3000美元拿下核心代码库"
     }
   ],
   "board_count": 16,
