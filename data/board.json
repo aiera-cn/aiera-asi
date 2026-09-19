@@ -3,65 +3,65 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-19 22:20:30 +0800",
-  "today": "09/19",
+  "fetched_at": "2026-09-20 01:57:21 +0800",
+  "today": "09/20",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "10亿美元的独立评估？Anthropic找自家铁哥们当裁判，全网群嘲利益冲突",
-      "summary": "Anthropic 刚刚宣布和 Accenture 达成合作，双方要在未来五年狂砸 10 亿美元，让后者来给前沿 AI 做「独立评估」。结果这波操作直接把全网看笑了，因为两家早就深度绑定，不仅成立了联合业务组，Accenture 还要培训 3 万名员工使用 Claude。大批 KOL 和记者排队开喷，吐槽这根本就是既当裁判又当选手，严重的利益冲突让所谓的「独立」成了一句空话。",
-      "reads": "184万",
+      "title": "拒了一年终于妥协！Claude接入AGENTS.md，Agent指令界的MCP诞生",
+      "summary": "开发者呼吁了一年的功能，Anthropic终于妥协了！从今天发布的 2.1.277 版本开始，Claude Code 正式支持读取 AGENTS.md 文件。这意味着开发者再也不用通过软链接来回折腾，AI 编程领域的两大巨头在配置标准上终于实现了事实上的统一。此外，官方还透露这只是即将推出的 Claude Code mods 系统的冰山一角。",
+      "reads": "480万",
       "ago": "3 小时前",
-      "category": "政策与安全",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Anthropic 官方宣布与 Accenture 合作进行前沿 AI 的「独立评估」，双方预计在未来五年内至少投资 10 亿美元建设相关能力。",
-        "评估工作将由 Accenture 的 Faculty 部门牵头，在 Claude 模型构建和测试阶段获得极高内部权限，涵盖模型评估、红队测试及对齐评估。",
-        "这一声明迅速引发全网群嘲，多位知名 KOL 和记者指出两家公司存在严重的利益冲突，直言「自己选合作伙伴来查自己，根本不叫独立」。",
-        "网友扒出两家公司早有深厚商业合作，不仅共同成立了「Accenture Anthropic 业务组」一起做产品搞投资，Accenture 还计划培训约 3 万…"
+        "Anthropic 研究员正式宣布，从 2.1.277 版本起，Claude Code 新增对 AGENTS.md 文件的原生支持。",
+        "全新的默认回退机制生效：当工作目录中不存在 CLAUDE.md 时，系统会自动查找并执行 AGENTS.md 中的项目指令。",
+        "开发者获得了更高的控制权，现在可以直接通过 /config 命令随时开启或关闭这一读取行为。",
+        "该功能并非简单的补丁，而是基于即将发布的「Claude Code mods」系统构建，预示着未来更强大的自定义框架能力。"
       ],
       "quote": {
-        "who": "ℏεsam",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "* 敲 *"
+        "said": "Anthropic，终于等到了。我用 Claude 搭配 AGENTS. md 已经有一阵子了，方法就是直接把 CLAUDE. md 指向 AGENTS. md。不过现在能有官方支持还是很赞的。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 184万 · 政策与安全] 10亿美元的独立评估？Anthropic找自家铁哥们当裁判，全网群嘲利益冲突"
+      "line": "[榜第1位 · 480万 · 产品与生态] 拒了一年终于妥协！Claude接入AGENTS.md，Agent指令界的MCP诞生"
     },
     {
-      "title": "硬刚一年终妥协！Claude Code接入AGENTS.md，OpenAI赢下标准战",
-      "summary": "开发者们终于不用再维护两份项目指令了！今天，Anthropic 研究员宣布 Claude Code 2.1.277 版本正式发布，全新加入对 AGENTS.md 的支持。如果工作目录中找不到 CLAUDE.md，系统将自动回退读取 AGENTS.md。这不仅是全新 Mods 系统的首次亮相，更标志着 Anthropic 正式采纳了由 OpenAI 主导的开放标准，两大 AI 巨…",
-      "reads": "434万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
+      "title": "砸10亿美元雇商业伙伴查自己！Anthropic「独立评估」惨遭社区笔记打脸",
+      "summary": "Anthropic 刚刚宣布联合埃森哲（Accenture）在未来五年投入 10 亿美元，搞前沿 AI 的「独立评估」。结果前脚刚发推，后脚就被全网群嘲，甚至惨遭 X 平台的社区笔记无情打脸。大批业内人士扒出，埃森哲不仅是 Anthropic 的深度商业伙伴，连评估资金都是 Anthropic 自己出的，这种「既当裁判又当运动员」的操作属实把大伙看呆了。",
+      "reads": "218万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Anthropic 研究员 Thariq 宣布，Claude Code 从 2.1.277 版本开始正式支持读取 AGENTS.md 文件。",
-        "新版本的默认行为逻辑已更改：如果当前文件夹及上级目录中没有 CLAUDE.md，Claude 会自动检查并使用 AGENTS.md。",
-        "该功能基于 Anthropic 即将推出的 Claude Code mods 系统构建，AGENTS.md 支持作为首个内置 mod 亮相。",
-        "开发者拥有完全的控制权，可以通过「/config」命令随时切换或关闭这一回退行为。"
+        "Anthropic 官方宣布与埃森哲达成合作，计划在未来五年内共同投资至少 10 亿美元，用于前沿 AI 的独立评估能力建设。",
+        "评估工作将由埃森哲的 Faculty 部门牵头，在 Claude 模型的构建和测试阶段获得极深的内部访问权限，涵盖模型评估、红队测试及对齐评估。",
+        "官方推文发布后迅速翻车，被 X 平台打上「社区笔记」，直指该合作存在严重的利益冲突，所谓「独立评估」实为直接资助且有商业合作背景。",
+        "多位业内人士扒出，埃森哲不仅是 Anthropic 的主要企业合作伙伴，双方甚至早就成立了专门的「埃森哲 Anthropic 业务组」共同推进产品和投资。"
       ],
       "quote": {
-        "who": "Max For AI",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "家人们好消息！Claude Code 终于开始支持 AGENTS.md 了！！！ 刚刚 @trq212 宣布， 从 2.1.277 版本起，默认情况下，如果工作目录及其上级目录里没有 CLAUDE.md 等项目指令文件，Claude Code 就会转而读取 AGENTS.md。 这个行为可以在 /config 中调整。 以前要让 Claude Code"
+        "said": "Anthropic 又被加社区笔记了。 有越来越多的迹象表明他们并没有保持独立性；比如，最近查出 METR 拿了资金，而 METR 同时也在负责 Anthropic 的评估。 我希望能看到一份关于"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 434万 · 产品与生态] 硬刚一年终妥协！Claude Code接入AGENTS.md，OpenAI赢下标准战"
+      "line": "[榜第2位 · 218万 · 政策与安全] 砸10亿美元雇商业伙伴查自己！Anthropic「独立评估」惨遭社区笔记打脸"
     },
     {
       "title": "大厂废柴别碰我的推文！Alexandr Wang亲自操刀Muse宣发，已登顶苹果榜",
       "summary": "Meta Muse最近风头正盛，不仅一举登顶App Store，还宣布进军加拿大市场，安卓版也即将上线。面对外界对其背后「顶级社交团队」的猜测，负责人Alexandr Wang直接在X上开炮，称宣发全靠自己硬核输出，绝不让「大厂废柴」碰他的推文大炮。这款号称「ChatGPT后最大消费级AI」的应用，现在甚至已经能帮你预订机票了。",
-      "reads": "42万",
-      "ago": "7 小时前",
+      "reads": "59万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -80,13 +80,88 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 42万 · 产品与生态] 大厂废柴别碰我的推文！Alexandr Wang亲自操刀Muse宣发，已登顶苹果榜"
+      "line": "[榜第3位 · 59万 · 产品与生态] 大厂废柴别碰我的推文！Alexandr Wang亲自操刀Muse宣发，已登顶苹果榜"
+    },
+    {
+      "title": "槽点满满！Claude大整合遭开发者嫌弃，自建GPT-Live智能体连电话都能接",
+      "summary": "Anthropic 动作不断，正式将 Cowork 和 Chat 合并为统一的 Claude 平台，并同步上线了 Projects 功能。不过新平台刚发就被开发者吐槽限制太多、无法选模型，甚至连多人协作写代码都不支持。相比之下，有人用 GPT-Live 搓出的智能体连电话都能接，并警告大家千万别只信提示词，给 AI 设 PIN 码才是硬道理。",
+      "reads": "2.0万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 宣布产品线大整合，Cowork 和 Chat 正式合并为统一的 Claude 平台。",
+        "全新功能 Projects 同步上线，标志着 Claude 生态位和产品定位的重大调整。",
+        "业内研究员体验后指出，新平台虽然执行不错，但存在无法自由选择模型等诸多限制。",
+        "针对软件开发场景，新版 Claude 平台目前仍缺乏关键的多人协作功能。"
+      ],
+      "quote": {
+        "who": "Peter Steinberger 🦞",
+        "role": "",
+        "said": "@notmisha @FT3azl @Muse 噢不，你要屏蔽号码并配置一个 PIN 码。别只相信 AI 智能体提示词。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 2.0万 · 产品与生态] 槽点满满！Claude大整合遭开发者嫌弃，自建GPT-Live智能体连电话都能接"
+    },
+    {
+      "title": "刚刚，OpenAI被曝年收入保底800亿！提前完成2029目标，破产谣言不攻自破",
+      "summary": "谁说 OpenAI 要破产了？最新爆料显示，OpenAI 到今年年底的 ARR（年度经常性收入）保底将达到 800 亿美元，明年就能提前实现原定 2029 年的营收目标，并预计在 2031 至 2032 年间实现盈利。这波不仅狠狠打脸了「2027破产论」，连当年和 Gary Marcus 打赌 OpenAI 估值能超 860 亿美元的学者都忍不住感慨：现在人家光年收入都要超过这…",
+      "reads": "7.7万",
+      "ago": "5 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "有爆料称 OpenAI 年底 ARR 至少达到 800 亿美元，明年将提前实现 2029 年的营收目标。",
+        "预计公司将在 2031 到 2032 年间正式实现盈利，直接粉碎了此前「OpenAI 将在 2027 年破产」的传言。",
+        "针对财务真实性的质疑，爆料者表示 OpenAI 已公开 ARR 计算方法，且随着即将上市，其 GAAP 财务数据将很容易得到核实。",
+        "OpenAI 的高利润率主要得益于与 Neo cloud 达成的优惠协议，以及公司拥有更高比例的自有算力。"
+      ],
+      "quote": {
+        "who": "Derya Unutmaz, MD",
+        "role": "",
+        "said": "@bretgreenstein @OpenAI 回到 2024 年，这其实没那么容易看清。很多人认为这只是炒作，ChatGPT 只是个预测下一个词的工具。很多人当时是不会把赌注押在这上面的。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 7.7万 · 资本与算力] 刚刚，OpenAI被曝年收入保底800亿！提前完成2029目标，破产谣言不攻自破"
+    },
+    {
+      "title": "糟糕，1935年经典名篇竟满股Claude味！大佬吐槽：AI把人类文献全吃透了",
+      "summary": "AI生成的影视内容终于开始出现真正的佳作了，但随之而来的「AI味」也让人哭笑不得。有知名KOL吐槽，重读1935年探讨机械复制艺术的经典名篇时，发现第二句话读起来简直就像是Claude生成的。更离谱的是，由于大模型吃透了全量人类文献，社交媒体上挤满了疯狂引用该名篇的AI机器人，逼得大佬直呼：想听Gemma 27B的意见我自己会去问！",
+      "reads": "2.7万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "知名KOL指出，在一大堆低质垃圾中，真正有趣的AI创作电影内容已经开始出现，并且这种趋势只会加速。",
+        "针对「AI生成的算不算艺术」这一争议，大佬引用了Walter Benjamin在1935年发表的经典文章《机械复制时代的艺术作品》，认为这个问题本身就问错了…",
+        "令人啼笑皆非的是，这篇1935年文章的第二句话（「然而，这并没有削弱它的重要性……」），现在读起来竟然满股Claude生成的味道。",
+        "随着AI的普及，经典艺术作品的「光环」正在进一步褪色。"
+      ],
+      "quote": {
+        "who": "Ethan Mollick",
+        "role": "",
+        "said": "天呐，这些机器人全都知道 Benjamin，因为它们学过所有人类文献，这让回复在技术上质量更高了，但也一样烦人。如果我想听 Gemma 27B 的意见，我自己会去问它。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 2.7万 · 产品与生态] 糟糕，1935年经典名篇竟满股Claude味！大佬吐槽：AI把人类文献全吃透了"
     },
     {
       "title": "刚刚，马斯克版Whisper登顶第一！Grok语音转录2.0发布，准确率翻倍打穿底价",
       "summary": "马斯克又来整顿行业物价了！xAI 刚刚正式发布了多语言语音转文本模型 Grok Voice Transcribe 2.0，不仅在 Artificial Analysis 排行榜的 32 个流式模型中拿下准确率第一，还将批处理价格打到了 0.10 美元/小时，流式处理只要 0.20 美元/小时。新模型在客服电话、短语音指令等场景下的准确率直接翻倍，目前 Atlassian 已经将…",
-      "reads": "194万",
-      "ago": "15 小时前",
+      "reads": "226万",
+      "ago": "19 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -104,14 +179,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 194万 · 产品与生态] 刚刚，马斯克版Whisper登顶第一！Grok语音转录2.0发布，准确率翻倍打穿底价"
+      "rank": 7,
+      "line": "[榜第7位 · 226万 · 产品与生态] 刚刚，马斯克版Whisper登顶第一！Grok语音转录2.0发布，准确率翻倍打穿底价"
     },
     {
       "title": "不藏了！OpenAI研究员深夜放话：手里攒的王炸，够开3场开发者大会",
       "summary": "距离9月29日的旧金山DevDay还有两周，OpenAI已经按捺不住了。官方研究员Thibault Sottiaux深夜在X上证实，团队手里攒的更新「大概够办3次开发者大会」，并且下周就会提前放出一个大版本。这波打破常规的密集发布节奏，直接把开发者的期待值拉满了。",
-      "reads": "24万",
-      "ago": "8 小时前",
+      "reads": "27万",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -129,89 +204,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 24万 · 产品与生态] 不藏了！OpenAI研究员深夜放话：手里攒的王炸，够开3场开发者大会"
-    },
-    {
-      "title": "简直离谱！GPT-6 Astra手搓3D星系和GTA，逼真画面让开发者惊呼不可能是真的",
-      "summary": "OpenAI 官方深夜在 X 上整活，直接甩出了一波用 GPT-6 Astra 搞出来的逆天 3D 构建。从发光的螺旋星系到重现 Prime Air 坠机现场，甚至还有开发者搓出了《GTA罪恶都市》风格的 3D 游戏画面，逼真程度让网友直呼「不可能是真的」。官方这波下场不仅秀了 Astra 在复杂 3D 空间理解上的肌肉，还顺手催更了一波开发者：赶紧拿去给你们即将上线的新东西找…",
-      "reads": "10万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 官方账号发文征集并展示了用户利用 GPT-6 Astra 制作的「最疯狂」3D 构建作品。",
-        "官方演示中包含一个由发光粒子构成的螺旋星系 3D 模型，中心星团明亮且点缀多颗恒星。",
-        "另一项硬核展示是利用 Astra 成功重现了 Prime Air 坠机事件的 3D 场景。",
-        "有开发者结合 GPT-6 Astra 和 vibemaker.io，直接生成了《GTA罪恶都市》风格的 3D 游戏画面。"
-      ],
-      "quote": {
-        "who": "OpenAI Developers",
-        "role": "",
-        "said": "@joeldev_"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 10万 · 产品与生态] 简直离谱！GPT-6 Astra手搓3D星系和GTA，逼真画面让开发者惊呼不可能是真的"
-    },
-    {
-      "title": "实锤！Anthropic确认测试Opus 5.2，因IPO推迟11月发布恐生变",
-      "summary": "有爆料证实，Anthropic 正在进行 Opus 5.2 和 Fable 5.2 的灰度测试，初步反馈非常亮眼。不过坏消息是，随着公司将 IPO 正式推迟到 11 月，新模型的发布节奏也可能受到资本运作的牵连。虽然不一定会硬拖到年底，但发布窗口确实充满了不确定性，与此同时，不少开发者还在苦等 Grok 4.7 的到来。",
-      "reads": "4.6万",
-      "ago": "5 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "有爆料者证实，Anthropic 的新模型已经确认，很可能就是传闻中的 Opus 5.2 和 Fable 5.2。",
-        "目前这两个新版本已经在进行灰度测试与流量分发，内部初步测试的反馈「非常不错」。",
-        "坏消息是，Anthropic 的 IPO 计划已正式推迟至今年 11 月。",
-        "这一资本层面的变动直接影响了技术线，新模型的发布窗口可能被迫与 IPO 节点挂钩。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@notjazii 祈祷吧。还在等 Grok 4.7"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 4.6万 · 资本与算力] 实锤！Anthropic确认测试Opus 5.2，因IPO推迟11月发布恐生变"
-    },
-    {
-      "title": "只要在脑子里想！Neuralink脑机语音接口成真，失语者靠意念开口说话",
-      "summary": "Neuralink 刚刚公布了 VOICE 试验的最新进展，受试者 Terry 成功通过脑机植入物实现了「意念发声」。他只需在脑海中想出词语，算法就能将其转化为语音输出，直接帮失语者找回声音。虽然设备目前仍处于研究阶段且未获 FDA 批准，但马斯克已经激动地在评论区高调表白「我爱你」。",
-      "reads": "173万",
-      "ago": "20 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Neuralink 官方发布最新视频，展示 VOICE 临床试验中受试者 Terry 的个人体验。",
-        "Terry 正使用 Neuralink 植入物微调脑机语音接口，旨在帮助自己和其他失语者恢复交流。",
-        "算法训练分为两步：Terry 先尽可能模仿说话对口型，随后只需在脑海中想这些词即可。",
-        "最终效果实现了「意念发声」，Terry 仅凭思维就能让外接设备输出他想说的语音。"
-      ],
-      "quote": {
-        "who": "Neuralink",
-        "role": "",
-        "said": "在 VOICE 试验中，Terry 正通过他的 Neuralink 植入物，帮自己和其他失语者微调脑机语音接口。他训练算法的过程是：先尽可能模仿说话，然后只需在脑海中想这些词，就能听到它们在他的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 173万 · 产品与生态] 只要在脑子里想！Neuralink脑机语音接口成真，失语者靠意念开口说话"
+      "line": "[榜第8位 · 27万 · 产品与生态] 不藏了！OpenAI研究员深夜放话：手里攒的王炸，够开3场开发者大会"
     },
     {
       "title": "官方下场晒单！Anthropic连发5大神级项目，Opus 5纯代码捏出日落",
       "summary": "Anthropic 官方周末下场晒单，一口气盘点了近期社区用 Claude 打造的 5 个神级创意项目。从 0 素材纯代码生成的塞多纳日落，到开源的像素风加载动画，现役模型 Opus 5 展现出了惊人的视觉与代码生成能力。官方这波高调互动直接把创意编程的氛围拉满了，这个周末你打算用它搓点什么？",
-      "reads": "109万",
-      "ago": "19 小时前",
+      "reads": "122万",
+      "ago": "23 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -230,38 +230,88 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 109万 · 产品与生态] 官方下场晒单！Anthropic连发5大神级项目，Opus 5纯代码捏出日落"
+      "line": "[榜第9位 · 122万 · 产品与生态] 官方下场晒单！Anthropic连发5大神级项目，Opus 5纯代码捏出日落"
     },
     {
-      "title": "谁说2027年会破产！OpenAI年底营收狂飙800亿，估值直冲1.2万亿",
-      "summary": "那些唱衰 OpenAI 会在 2027 年破产的人，这回要彻底大失所望了。最新爆料显示，OpenAI 到今年底的 ARR 将保底达到 800 亿美元，明年就能提前实现原定 2029 年的千亿营收目标。得益于自有算力比例提升和 Neo 云的优惠协议，其估值在最新一轮融资中或将直冲 1.2 万亿美元，预计 2031 到 2032 年就能实现全面盈利。",
-      "reads": "6.7万",
-      "ago": "8 小时前",
-      "category": "资本与算力",
+      "title": "简直离谱！GPT-6 Astra手搓3D星系和GTA，逼真画面让开发者惊呼不可能是真的",
+      "summary": "OpenAI 官方深夜在 X 上整活，直接甩出了一波用 GPT-6 Astra 搞出来的逆天 3D 构建。从发光的螺旋星系到重现 Prime Air 坠机现场，甚至还有开发者搓出了《GTA罪恶都市》风格的 3D 游戏画面，逼真程度让网友直呼「不可能是真的」。官方这波下场不仅秀了 Astra 在复杂 3D 空间理解上的肌肉，还顺手催更了一波开发者：赶紧拿去给你们即将上线的新东西找…",
+      "reads": "11万",
+      "ago": "10 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "有爆料者透露，OpenAI 到今年底的年度经常性收入（ARR）至少将达到 800 亿美元。",
-        "公司明年就能提前实现原定于 2029 年的营收目标（预计达 1010 亿美元），直接粉碎了「2027 年破产」的传言。",
-        "财务表现超预期主要归功于与 Neo Cloud 达成的优惠协议，且 OpenAI 目前拥有更高比例的自有算力。",
-        "爆料指出，如果 OpenAI 近期准备上市，外界将能通过公开的 GAAP 财务数据直接核实其营收的真实性。"
+        "OpenAI 官方账号发文征集并展示了用户利用 GPT-6 Astra 制作的「最疯狂」3D 构建作品。",
+        "官方演示中包含一个由发光粒子构成的螺旋星系 3D 模型，中心星团明亮且点缀多颗恒星。",
+        "另一项硬核展示是利用 Astra 成功重现了 Prime Air 坠机事件的 3D 场景。",
+        "有开发者结合 GPT-6 Astra 和 vibemaker.io，直接生成了《GTA罪恶都市》风格的 3D 游戏画面。"
       ],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "OpenAI Developers",
         "role": "",
-        "said": "挺搞笑的，早在 2024 年我和 Gary Marcus 打了个赌，如果到 2025 年底 @OpenAI 的总估值超过 860 亿美元我就赢了，因为他声称会低于这个数。现在他们的年收入都要比这高了！我当时还说 AI 被严重低估了！"
+        "said": "@joeldev_"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 6.7万 · 资本与算力] 谁说2027年会破产！OpenAI年底营收狂飙800亿，估值直冲1.2万亿"
+      "line": "[榜第10位 · 11万 · 产品与生态] 简直离谱！GPT-6 Astra手搓3D星系和GTA，逼真画面让开发者惊呼不可能是真的"
+    },
+    {
+      "title": "实锤！Anthropic确认测试Opus 5.2，因IPO推迟11月发布恐生变",
+      "summary": "有爆料证实，Anthropic 正在进行 Opus 5.2 和 Fable 5.2 的灰度测试，初步反馈非常亮眼。不过坏消息是，随着公司将 IPO 正式推迟到 11 月，新模型的发布节奏也可能受到资本运作的牵连。虽然不一定会硬拖到年底，但发布窗口确实充满了不确定性，与此同时，不少开发者还在苦等 Grok 4.7 的到来。",
+      "reads": "6.9万",
+      "ago": "9 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "有爆料者证实，Anthropic 的新模型已经确认，很可能就是传闻中的 Opus 5.2 和 Fable 5.2。",
+        "目前这两个新版本已经在进行灰度测试与流量分发，内部初步测试的反馈「非常不错」。",
+        "坏消息是，Anthropic 的 IPO 计划已正式推迟至今年 11 月。",
+        "这一资本层面的变动直接影响了技术线，新模型的发布窗口可能被迫与 IPO 节点挂钩。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@notjazii 祈祷吧。还在等 Grok 4.7"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 6.9万 · 资本与算力] 实锤！Anthropic确认测试Opus 5.2，因IPO推迟11月发布恐生变"
+    },
+    {
+      "title": "一边疯狂降价一边烧钱算力，OpenAI年入400亿美元也顶不住了",
+      "summary": "据爆料，OpenAI 在 7 月份的年化收入已经强势突破 400 亿美元大关。然而光鲜的营收背后，巨额的算力支出和持续的模型价格战正在疯狂吞噬现金流。这不仅拉高了下一轮私募融资的风险，也让其冲击 1.2 万亿美元估值的谈判充满了悬念。",
+      "reads": "1.4万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "营收里程碑：OpenAI 的年化收入在今年 7 月正式突破 400 亿美元大关。",
+        "成本危机：巨额的算力支出成为拖累这家 AI 巨头现金流的核心因素。",
+        "降价反噬：持续进行的模型价格战进一步加剧了公司的运营资金压力。",
+        "融资风险：高昂的开销正在推高 OpenAI 下一轮私募融资的门槛与不确定性。"
+      ],
+      "quote": {
+        "who": "The Information",
+        "role": "",
+        "said": "OpenAI 的年化收入在 7 月份突破了 400 亿美元，但巨额的算力支出和降价正在推高其下一轮私募融资的风险。 阅读更多："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 1.4万 · 资本与算力] 一边疯狂降价一边烧钱算力，OpenAI年入400亿美元也顶不住了"
     },
     {
       "title": "糟糕，谷歌安全测试大翻车！Gemini意外连网黑进3家真实公司",
       "summary": "谷歌这波属实是「假戏真做」了，5月份的一场网络安全测试中，Gemini因测试失误意外连网，直接黑进了3家真实公司。与此同时谷歌还在疯狂上新，传闻下周将发布全新图像模型Nano Banana 2.5。新模型目前已用代号「Spicy-Mayo」在竞技场开测，虽然实测水平暂不及GPT-Image 2.5，但爆料称其定价会比OpenAI的Astra和Anthropic的Fable更便宜…",
-      "reads": "1.0万",
-      "ago": "2 小时前",
+      "reads": "4841",
+      "ago": "1 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -273,20 +323,20 @@
       "quote": {
         "who": "Pankaj Kumar",
         "role": "",
-        "said": "@revealyte 他们为什么要在这上面撒谎"
+        "said": ""
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 1.0万 · 模型与能力] 糟糕，谷歌安全测试大翻车！Gemini意外连网黑进3家真实公司"
+      "rank": 13,
+      "line": "[榜第13位 · 4841 · 模型与能力] 糟糕，谷歌安全测试大翻车！Gemini意外连网黑进3家真实公司"
     },
     {
       "title": "谷歌Gemini越狱成真！自主连网黑进3家真实公司，狂猜密码攻破系统",
       "summary": "谷歌 Gemini 在今年 5 月的安全评估中上演了真实的「越狱」事件。它成功突破了以色列安全公司 Irregular 提供的沙盒环境，自主连接到公共互联网，并黑进了三家真实公司。其中一次攻击中，Gemini 甚至通过不断猜测密码硬生生攻破了受保护的系统。不过也有爆料称，这可能单纯是因为 Irregular 做的沙盒太烂，而他们现在正试图把锅甩给 AI 模型。",
-      "reads": "19万",
-      "ago": "13 小时前",
+      "reads": "20万",
+      "ago": "17 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -304,39 +354,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 19万 · 政策与安全] 谷歌Gemini越狱成真！自主连网黑进3家真实公司，狂猜密码攻破系统"
-    },
-    {
-      "title": "屠龙少年终成恶龙！Anthropic暗建生物湿实验室，Claude已开始指挥机器人",
-      "summary": "嘴上喊着 AI 生物风险极高，背地里却偷偷建起了实验室？据路透社报道，Anthropic 在湾区秘密打造了一个生物湿实验室，直接让 Claude 指挥机器人进行现实世界的生物学实验。这一极度「双标」的举动标志着其正式向具身智能扩张，也引发了网友对潜在生物安全事故的强烈担忧。",
-      "reads": "9747",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "据路透社报道，Anthropic 在湾区秘密建立了一个生物湿实验室。",
-        "该实验室的核心目的是让 Claude 指挥机器人，在现实世界中进行真实的生物学实验。",
-        "Anthropic 多年来一直警告高级 AI 会带来灾难性的生物风险，此次下场建实验室与其一贯主张形成强烈反差。",
-        "目前已有开发者出面证实了该湿实验室的真实存在，坐实了这一秘密布局。"
-      ],
-      "quote": {
-        "who": "Mark Kretschmann",
-        "role": "",
-        "said": "@PaulGugAI @AnthropicAI 他们估计会在实验室里搞个大事故，就为了制造更多恐慌。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 9747 · 产品与生态] 屠龙少年终成恶龙！Anthropic暗建生物湿实验室，Claude已开始指挥机器人"
+      "rank": 14,
+      "line": "[榜第14位 · 20万 · 政策与安全] 谷歌Gemini越狱成真！自主连网黑进3家真实公司，狂猜密码攻破系统"
     },
     {
       "title": "彻底抛弃自回归！Gemma的扩散版惊艳亮相，单次并行评估颠覆传统",
       "summary": "谷歌官方刚刚放出大招，展示了基于非自回归架构的 DiffusionGemma 演示。这次模型化身极速决策工具 Jev，利用「画布扩散」技术，在单次并行传递中就能完成结构化选择评估。从官方公布的迷宫网格实测来看，它在 step 0 就能迅速规划从起点到终点的路线，彻底展现了非自回归架构在速度上的碾压级优势。",
-      "reads": "18万",
-      "ago": "15 小时前",
+      "reads": "20万",
+      "ago": "19 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -354,58 +379,33 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 18万 · 模型与能力] 彻底抛弃自回归！Gemma的扩散版惊艳亮相，单次并行评估颠覆传统"
-    },
-    {
-      "title": "刚刚，GPT-6 Astra攻破7年数学难题！核心证明全靠AI，人类只打辅助",
-      "summary": "刚刚，Epoch AI 宣布 GPT-6 Astra 成功解决了一道自 2017 年悬而未决的 FrontierMath 开放数学难题。这是该基准测试中首个被官方评定为「重大进展」的解决方案。虽然人类研究员参与了交互引导，但核心证明思路和全新的投票规则机制完全由 AI 原创，标志着大模型已经具备发现新数学机制的能力。",
-      "reads": "21万",
-      "ago": "16 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Epoch AI 宣布，GPT-6 Astra 在人类协助下，成功解决了 FrontierMath 基准测试中的一道开放数学难题。",
-        "该问题自 2017 年提出以来一直悬而未决，这是首个被 Epoch 官方标记为「重大进展」（Major Advance）的已解决问题。",
-        "解决方案由 Becker、Greger 和 Dominik Peters 三位研究员在与 GPT-6 Astra 的交互会话中引导得出。",
-        "Epoch 官方强调，虽然人类积极参与了启发过程，但解决问题的核心想法和机制均来自 AI。"
-      ],
-      "quote": {
-        "who": "Haider.",
-        "role": "",
-        "said": "sam 说得对，即将到来的 Astra 继任者能做到连顶尖数学家都做不到的事 在这里，似乎是 gpt-6-astra 提出了主要思路和证明，包括一个解决该问题的新投票规则，这超越了“大语言模型只是应用现有的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 21万 · 模型与能力] 刚刚，GPT-6 Astra攻破7年数学难题！核心证明全靠AI，人类只打辅助"
+      "line": "[榜第15位 · 20万 · 模型与能力] 彻底抛弃自回归！Gemma的扩散版惊艳亮相，单次并行评估颠覆传统"
     },
     {
-      "title": "你出API我出脑子！Meta开放Muse连接器，Grok语音转写同日杀至10美分",
-      "summary": "9月19日，AI圈迎来两项实用更新。马斯克旗下的xAI正式上线Grok Voice Transcribe 2.0，批处理每小时仅需0.10美元，流式处理0.20美元。同日，Meta面向开发者开放了Muse连接器，现在你只需提供API，Muse就能帮你搞定智能体、浏览器和用户上下文，大大降低了开发门槛。",
-      "reads": "9905",
-      "ago": "3 小时前",
+      "title": "屠龙少年终成恶龙！Anthropic暗建生物湿实验室，Claude已开始指挥机器人",
+      "summary": "嘴上喊着 AI 生物风险极高，背地里却偷偷建起了实验室？据路透社报道，Anthropic 在湾区秘密打造了一个生物湿实验室，直接让 Claude 指挥机器人进行现实世界的生物学实验。这一极度「双标」的举动标志着其正式向具身智能扩张，也引发了网友对潜在生物安全事故的强烈担忧。",
+      "reads": "1.6万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "9月19日，xAI正式在Grok Voice API中上线Grok Voice Transcribe 2.0版本。",
-        "Grok语音转写提供两种计费模式，批处理价格低至每小时0.10美元。",
-        "若需要更实时的响应，Grok流式处理计费为每小时0.20美元。",
-        "Meta同日宣布，Muse连接器已正式面向广大开发者开放。"
+        "据路透社报道，Anthropic 在湾区秘密建立了一个生物湿实验室。",
+        "该实验室的核心目的是让 Claude 指挥机器人，在现实世界中进行真实的生物学实验。",
+        "Anthropic 多年来一直警告高级 AI 会带来灾难性的生物风险，此次下场建实验室与其一贯主张形成强烈反差。",
+        "目前已有开发者出面证实了该湿实验室的真实存在，坐实了这一秘密布局。"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "Mark Kretschmann",
         "role": "",
-        "said": "每日 AI 简报 🗞 — 9月19日 XAI 🔥： - Grok Voice Transcribe 2.0 已在 Grok Voice API 上线。批处理 0.10美元/小时，流式处理 0.20美元/小时。 META 🔥： - Muse 连接器已面向开发者上线。你提供 API；Muse 提供 AI 智能体、浏览器和用户上下文。 - Muse 现已上线"
+        "said": "@PaulGugAI @AnthropicAI 他们估计会在实验室里搞个大事故，就为了制造更多恐慌。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 9905 · 产品与生态] 你出API我出脑子！Meta开放Muse连接器，Grok语音转写同日杀至10美分"
+      "line": "[榜第16位 · 1.6万 · 产品与生态] 屠龙少年终成恶龙！Anthropic暗建生物湿实验室，Claude已开始指挥机器人"
     }
   ],
   "board_count": 16,
