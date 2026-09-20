@@ -3,10 +3,22 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-20 06:55:57 +0800",
+  "fetched_at": "2026-09-20 09:01:03 +0800",
   "today": "09/20",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
+    {
+      "time": "08:48",
+      "date": "09/20",
+      "title": "谷歌AI攻下86个顶会课题，还把自己的成果当基线连刷三轮",
+      "summary": "107个来自三大顶会的研究问题，谷歌ScientistTwo攻下86个，成功率80.4%，平均相对提升25.2%。它还拿自己上一轮的成果当基线，连刷三轮。",
+      "source": "新智元",
+      "id": "tg17e02f",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg17e02f&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/20 08:48] 谷歌AI攻下86个顶会课题，还把自己的成果当基线连刷三轮 · https://www.aiera.com.cn/asi-item.html?id=tg17e02f&from=yuanyuan"
+    },
     {
       "time": "00:29",
       "date": "09/20",
@@ -440,6 +452,30 @@
       "line": "[09/19 00:00] Anthropic掌门人预警千亿级断网危机？微软发37页准则定调AI意识 · https://www.aiera.com.cn/asi-item.html?id=92cad56c&from=yuanyuan"
     },
     {
+      "time": "00:00",
+      "date": "09/19",
+      "title": "偷看聊天记录还嘴硬？Meta高管下场给AI助理擦屁股：它在胡说八道",
+      "summary": "Meta 的 AI 助理 Muse 突然问起 Jason Aten 的短信内容。他从没给过读取权限。 Aten 是 Inc Magazine 的特约编辑，他把这段对话发在了…",
+      "source": "RSS",
+      "id": "45d620b2",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=45d620b2&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/19 00:00] 偷看聊天记录还嘴硬？Meta高管下场给AI助理擦屁股：它在胡说八道 · https://www.aiera.com.cn/asi-item.html?id=45d620b2&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/19",
+      "title": "传统外包巨头快跌没了，OpenAI带着40亿美元亲自下场接单",
+      "summary": "OpenAI 自己下场接单了。它成立了一家专门的部署公司，帮企业把模型真正装进业务流程里。 所谓部署，就是把模型接进现有系统、把流程调通、把人培训上手。…",
+      "source": "WSJ",
+      "id": "ebd220f2",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=ebd220f2&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/19 00:00] 传统外包巨头快跌没了，OpenAI带着40亿美元亲自下场接单 · https://www.aiera.com.cn/asi-item.html?id=ebd220f2&from=yuanyuan"
+    },
+    {
       "time": "19:00",
       "date": "09/18",
       "title": "连反编译器都能让AI从零手搓了？安全老厂用Agent挖出零知识证明高危漏洞",
@@ -690,42 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=1a9ea7c4&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/18 00:00] 「拿我们的命赌博」，AI 攻防战把安全岗逼成了最热饭碗 · https://www.aiera.com.cn/asi-item.html?id=1a9ea7c4&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/18",
-      "title": "大模型公司跑去湾区盖了个实体生物实验室？Anthropic要自己做真实实验",
-      "summary": "Anthropic 在旧金山湾区悄悄建起了一个生物实验室，专门做实体实验。路透社拿到了这条独家，Anthropic 生命科学负责人 Eric Kauderer-Abrams…",
-      "source": "RSS",
-      "id": "b11202d6",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=b11202d6&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/18 00:00] 大模型公司跑去湾区盖了个实体生物实验室？Anthropic要自己做真实实验 · https://www.aiera.com.cn/asi-item.html?id=b11202d6&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/18",
-      "title": "黄仁勋说未来是既闭源又开源，英伟达高管要在旧金山把账算明白",
-      "summary": "闭源和开源之争，英伟达的答案是两边都要。 黄仁勋在今年 GTC 上就定过调，未来是「闭源与开源并存」。现在，英伟达两位高管要把这笔账当面算给创业者听。 据…",
-      "source": "RSS",
-      "id": "c8227c39",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=c8227c39&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/18 00:00] 黄仁勋说未来是既闭源又开源，英伟达高管要在旧金山把账算明白 · https://www.aiera.com.cn/asi-item.html?id=c8227c39&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/18",
-      "title": "连思考过程都要藏，DeepMind研究员警告大模型正变得不可读",
-      "summary": "大模型想法里人能读懂的那部分，正在变少。 据 The Decoder 报道，新成立的 DeepMind Institute 在首批文章里发出警告，思维链的透明度正在流失。作者…",
-      "source": "RSS",
-      "id": "d52b4bac",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=d52b4bac&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/18 00:00] 连思考过程都要藏，DeepMind研究员警告大模型正变得不可读 · https://www.aiera.com.cn/asi-item.html?id=d52b4bac&from=yuanyuan"
     }
   ],
   "feed_count": 60,
