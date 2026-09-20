@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-21 00:45:39 +0800",
+  "fetched_at": "2026-09-21 03:22:55 +0800",
   "today": "09/21",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -90,6 +90,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tg17e02f&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/20 08:48] 谷歌AI攻下86个顶会课题，还把自己的成果当基线连刷三轮 · https://www.aiera.com.cn/asi-item.html?id=tg17e02f&from=yuanyuan"
+    },
+    {
+      "time": "22:47",
+      "date": "09/20",
+      "title": "LeCun点名老友Hinton，为了没影的AI末日，正制造眼前的真实灾难",
+      "summary": "LeCun 把炮口对准了 Geoffrey Hinton。他在 X 上连发多条推文，点名这位认识了 40 年的老朋友，说他在 AI 风险这件事上判断错了。 他的论据是核电。…",
+      "source": "X/ylecun",
+      "id": "e718f7fc",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=e718f7fc&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/20 22:47] LeCun点名老友Hinton，为了没影的AI末日，正制造眼前的真实灾难 · https://www.aiera.com.cn/asi-item.html?id=e718f7fc&from=yuanyuan"
+    },
+    {
+      "time": "22:41",
+      "date": "09/20",
+      "title": "搞AI要速度还是安全？黄仁勋连上两大访谈交底：这两件事根本不冲突",
+      "summary": "黄仁勋给这场争论下了结论：「快速推进与安全建设并不矛盾。」 这句话出自他在 CBS 的采访，由 NVIDIA 官方账号转了出来。他的说法是，AI 开发要以最快速度推进…",
+      "source": "X/nvidia",
+      "id": "c1937ef8",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=c1937ef8&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/20 22:41] 搞AI要速度还是安全？黄仁勋连上两大访谈交底：这两件事根本不冲突 · https://www.aiera.com.cn/asi-item.html?id=c1937ef8&from=yuanyuan"
     },
     {
       "time": "17:42",
@@ -428,6 +452,54 @@
       "line": "[09/20 00:00] 拒了马斯克几百万美元！俩22岁小伙做2700万参数模型，跑赢OpenAI · https://www.aiera.com.cn/asi-item.html?id=02d4cd8e&from=yuanyuan"
     },
     {
+      "time": "00:00",
+      "date": "09/20",
+      "title": "袁征黄仁勋盖茨终于统一了口径，AI要把每周工作日砍到三天半",
+      "summary": "袁征、黄仁勋、盖茨的口径对上了，每周该少上一两天班。摩根大通 CEO 戴蒙给出的数字更具体，人类以后「大概每周只工作三天半」。 AI 会把工作变成什么样，高管们本来分成两派。…",
+      "source": "fortune.com",
+      "id": "fa6fea3e",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=fa6fea3e&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/20 00:00] 袁征黄仁勋盖茨终于统一了口径，AI要把每周工作日砍到三天半 · https://www.aiera.com.cn/asi-item.html?id=fa6fea3e&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/20",
+      "title": "裁了几个员工，苹果健身业务就被传要黄？官方其实还在招73个人",
+      "summary": "Apple Fitness+ 裁了几个人，一份报道据此推出了结论，这项服务快没了。 Bloomberg 报道称，Apple Fitness+ 正在裁员，Time to…",
+      "source": "Bloomberg.com",
+      "id": "7a941329",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=7a941329&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/20 00:00] 裁了几个员工，苹果健身业务就被传要黄？官方其实还在招73个人 · https://www.aiera.com.cn/asi-item.html?id=7a941329&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/20",
+      "title": "Meta新智能体杀疯了，上线仅十天就把ChatGPT挤下苹果榜首",
+      "summary": "ChatGPT 的榜首被人拿走了。对手上线只有十天。 Meta 的 AI 智能体 Muse 登顶美国 App Store。它先在加拿大市场上线，安卓版本还没推出，只靠 iOS…",
+      "source": "www.implicator.ai",
+      "id": "3eca1669",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=3eca1669&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/20 00:00] Meta新智能体杀疯了，上线仅十天就把ChatGPT挤下苹果榜首 · https://www.aiera.com.cn/asi-item.html?id=3eca1669&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/20",
+      "title": "「太久没看到你了」，苹果在系统代码里藏了两款带摄像头的智能家居",
+      "summary": "苹果把两款带摄像头的智能家居设备写进了系统代码，还顺手留下一句提示词：「抱歉，由于此设备有一段时间没看到您了，您需要在摄像头前重新提问。」 据 MacRumors 报道…",
+      "source": "Bloomberg.com",
+      "id": "367c14be",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=367c14be&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/20 00:00] 「太久没看到你了」，苹果在系统代码里藏了两款带摄像头的智能家居 · https://www.aiera.com.cn/asi-item.html?id=367c14be&from=yuanyuan"
+    },
+    {
       "time": "23:00",
       "date": "09/19",
       "title": "200美元才能跑满旗舰，奥特曼本周急推平价版GPT-6 Sol",
@@ -654,78 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=244da9b3&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/19 00:00] 达里奥前脚警告AI风险后脚就把Anthropic推向两万亿美元IPO · https://www.aiera.com.cn/asi-item.html?id=244da9b3&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/19",
-      "title": "3800亿估值！Anthropic吃下73%新增AI预算，投资者却警告IPO后难以为继",
-      "summary": "估值 3800 亿美元，拿走近 73% 的企业新增 AI 支出。Anthropic 站上高处的时候，投资者开始敲警钟。 据金融时报报道，资本市场担心 Anthropic…",
-      "source": "Financial Times",
-      "id": "2b62867f",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=2b62867f&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/19 00:00] 3800亿估值！Anthropic吃下73%新增AI预算，投资者却警告IPO后难以为继 · https://www.aiera.com.cn/asi-item.html?id=2b62867f&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/19",
-      "title": "英伟达正洽谈百亿美元入股Anthropic，这家巨头最快下周冲刺史上最大IPO",
-      "summary": "英伟达正在洽谈做 Anthropic IPO 的基石投资者，出资可能达到 100 亿美元。据路透社报道，Anthropic 最快下周就会递交 S-1 文件。…",
-      "source": "Reuters",
-      "id": "3899b395",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=3899b395&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/19 00:00] 英伟达正洽谈百亿美元入股Anthropic，这家巨头最快下周冲刺史上最大IPO · https://www.aiera.com.cn/asi-item.html?id=3899b395&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/19",
-      "title": "谁在截胡算力霸权？澳洲初创公司还没上市就敢要600亿美元估值",
-      "summary": "澳洲 AI 数据中心初创公司 Firmus 还没上市，已经把估值喊到 600 亿美元。据 The Nightly 报道，它计划今年晚些时候登陆澳交所。 600 亿怎么来的…",
-      "source": "Financial Times",
-      "id": "f1051e8d",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=f1051e8d&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/19 00:00] 谁在截胡算力霸权？澳洲初创公司还没上市就敢要600亿美元估值 · https://www.aiera.com.cn/asi-item.html?id=f1051e8d&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/19",
-      "title": "太憋屈了！顶尖数学家刚控诉OpenAI抄袭，转头还得用Codex改论文",
-      "summary": "据 Wired 报道，纽约大学教授 Tristan Buckmaster 刚指控 OpenAI 抄了他的思路，抢先解出悬赏百万美元的纳维-斯托克斯方程。可转过头，他就用上了…",
-      "source": "www.wired.com",
-      "id": "e4bbc9c3",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=e4bbc9c3&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/19 00:00] 太憋屈了！顶尖数学家刚控诉OpenAI抄袭，转头还得用Codex改论文 · https://www.aiera.com.cn/asi-item.html?id=e4bbc9c3&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/19",
-      "title": "66401个漏洞被AI连夜挖出，微软和谷歌的程序员，补丁根本打不完",
-      "summary": "据 Wired 报道，AI 正在让软件漏洞数量暴涨。cve.icu 的数据显示，截至本周三，今年已经记录了 66401 个 CVE，也就是有公开编号的安全漏洞。ChatGPT…",
-      "source": "www.wired.com",
-      "id": "74b4d46c",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=74b4d46c&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/19 00:00] 66401个漏洞被AI连夜挖出，微软和谷歌的程序员，补丁根本打不完 · https://www.aiera.com.cn/asi-item.html?id=74b4d46c&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/19",
-      "title": "谷歌DeepMind让AI学会做梦，5万次代码试错，现在只要317次",
-      "summary": "谷歌 DeepMind 让 AI 学会了「做梦」。搭配 Gemini 3.1 Pro 跑统计计算任务，对照方法要试错 51200 次，用上这招只要 317 次。 据 The…",
-      "source": "RSS",
-      "id": "a9973d8f",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=a9973d8f&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/19 00:00] 谷歌DeepMind让AI学会做梦，5万次代码试错，现在只要317次 · https://www.aiera.com.cn/asi-item.html?id=a9973d8f&from=yuanyuan"
     }
   ],
   "feed_count": 60,
