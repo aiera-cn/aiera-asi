@@ -3,15 +3,65 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-20 14:07:19 +0800",
+  "fetched_at": "2026-09-20 20:15:33 +0800",
   "today": "09/20",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "卧槽，纯JS一把过！Fable 5.2被曝悄悄灰度，连Opus 5.2也在路上了",
+      "summary": "Anthropic 悄悄开启了新一轮灰度测试，有开发者发现自己的 Fable 5.1 已经被路由到了未发布的 Fable 5.2 版本。新模型在纯 JS 环境下展现出恐怖的「一把过」能力，无需任何细节提示词，就能直接生成包含 40 个可交互头像的网页，甚至能给 18 种不同动物自动匹配合适的零食。爆料还暗示，备受期待的 Opus 5.2 目前也已在同步测试中，这波直接把压力给到…",
+      "reads": "39万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "有开发者爆料，Anthropic 正在灰度测试未发布的 Fable 5.2 模型，该版本直接从现役旗舰 Fable 5.1 路由而来。",
+        "新模型展现出极强的纯 JS 编码能力，在完全没有额外提示词优化的情况下，实现了高细节网页的「一把过」（one shot）生成。",
+        "演示案例一：Fable 5.2 直接生成了名为「HEAD CASES」的互动网页，包含 40 个极简线条人脸头像及操作说明。",
+        "演示案例二：在「Little Company」动物版网页中，模型在零细节提示下，自动为 18 种不同动物匹配了专属零食和互动按钮。"
+      ],
+      "quote": {
+        "who": "J A Z I I",
+        "role": "",
+        "said": "@chetaslua 兄弟，求提示词 我想用 Astra 和 Kimi 试试"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 39万 · 模型与能力] 卧槽，纯JS一把过！Fable 5.2被曝悄悄灰度，连Opus 5.2也在路上了"
+    },
+    {
+      "title": "火力全开！Meta智能体Muse杀入Mac，Alexandr Wang放话绝不停歇",
+      "summary": "Meta 在消费级 AI 智能体赛道彻底踩下油门！负责人 Alexandr Wang 深夜发文直呼团队「火力全开」，并一口气甩出四大重磅更新：Muse 正式推出 Mac 版客户端、开放开发者平台，并新增了 Notion 和 Granola 连接器。目前服务已扩展至加拿大市场的 iOS 和 Web 端，安卓版也即将上线，这波高频迭代显然是冲着抢占打工人桌面去的。",
+      "reads": "26万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Meta 智能体负责人 Alexandr Wang 发文称团队正在「憋大招」，直言「Muse 厨房火力全开」。",
+        "Muse 正式推出 Mac 版客户端，开始全面入侵苹果桌面生态。",
+        "服务版图进一步扩张，现已支持加拿大市场的 iOS 和 Web 端用户，Android 端确认即将上线。",
+        "生产力属性拉满，新增与 Granola 和 Notion 的连接器，直接打通主流工作流。"
+      ],
+      "quote": {
+        "who": "Chris",
+        "role": "",
+        "said": "我喜欢 Alexandr 的原因是，他给人的感觉就像是我们中的一员，说话方式和我们一样，而且总是引用转发社区的作品。 Meta 真的回来了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 26万 · 产品与生态] 火力全开！Meta智能体Muse杀入Mac，Alexandr Wang放话绝不停歇"
+    },
+    {
       "title": "刚刚，马斯克确认打造太空版NVL72！10万星链化身25GW轨道超算",
       "summary": "马斯克深夜扔出重磅炸弹，确认10万颗星链V3卫星将全部搭载SpaceX定制版Nvidia Vera Rubin NVL72计算机！这意味着一张总算力高达25GW的「星智」（STARMIND）网络即将包围地球。每颗卫星不仅拥有250kW的恐怖功率，双向带宽更是从10Tb起步，未来有望突破100+Tb，直接把卫星从通信节点硬核升级为太空边缘计算节点。",
-      "reads": "25万",
-      "ago": "1 小时前",
+      "reads": "44万",
+      "ago": "7 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -29,14 +79,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 25万 · 资本与算力] 刚刚，马斯克确认打造太空版NVL72！10万星链化身25GW轨道超算"
+      "rank": 3,
+      "line": "[榜第3位 · 44万 · 资本与算力] 刚刚，马斯克确认打造太空版NVL72！10万星链化身25GW轨道超算"
+    },
+    {
+      "title": "菲奖得主彻底崩溃！OpenAI刚干翻NS方程，下一个千禧年难题又悬了",
+      "summary": "OpenAI 解决纳维-斯托克斯方程的余波还在震荡，顶级数学家已经破防了。菲尔兹奖得主 Cédric Villani 直言自己彻底崩溃，哀叹数学界正面临「前所未有的灾难」和「历史终结」。更让人倒吸一口凉气的是，有可靠消息源爆料，OpenAI 已经逼近甚至解决了下一个千禧年大奖难题。",
+      "reads": "2.5万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 宣布解决千禧年大奖难题之一的纳维-斯托克斯方程（NS方程），引发学术界大地震。",
+        "法国顶尖数学家、菲尔兹奖得主 Cédric Villani 对此表示「彻底崩溃」。",
+        "Villani 将当前学术界的氛围形容为「历史终结」，并称这是数学界从未经历过的灾难。",
+        "有消息源爆料，OpenAI 的脚步并未停止，目前已处于解决下一个千禧年大奖难题的边缘。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@ElliotGlazer 好吧，来个长点的回答。你肯定比我更专家——这我比不了。我只能根据我能接触到的信息源来判断，而可靠的消息源已经反复提出这样一种理论：OpenAI 即将解决——或者已经解决了——下一个"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 2.5万 · 模型与能力] 菲奖得主彻底崩溃！OpenAI刚干翻NS方程，下一个千禧年难题又悬了"
+    },
+    {
+      "title": "底牌全漏了！GPT-6 Sol周二见，Gemini 4 Pro和Claude 5.2都在测",
+      "summary": "AI圈马上要迎来一场大乱斗了！有开发者一口气扒出了各大厂正在灰度测试和即将发布的新模型清单。不仅Anthropic的Sonnet、Opus和Fable 5.2全系在测，谷歌Gemini 4 Pro也露出了马脚。更刺激的是，奥特曼预告周二有大动作，疑似GPT-6 Sol即将空降，连Terra都在路由测试了，Grok 4.7和Kimi K3.1也全在路上。",
+      "reads": "2.4万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "开发者最新爆料，AI行业正密集进行新一轮模型灰度测试，7款以上新模型即将登场。",
+        "Anthropic 5.2家族全面开测，包括Sonnet 5.2、Opus 5.2和Fable 5.2。",
+        "谷歌下一代大模型Gemini 4 Pro已被确认正在测试中。",
+        "OpenAI的Sam Altman和Tibo预告周二将有「大发布」，极大概率是GPT-6 Sol。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@Xiliiiiiiiiiii1 它将永远留在我们心中"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 2.4万 · 模型与能力] 底牌全漏了！GPT-6 Sol周二见，Gemini 4 Pro和Claude 5.2都在测"
+    },
+    {
+      "title": "30个GPU年算力压缩至10天！AI用消费级显卡击穿RSA-896，传统密码学悬了",
+      "summary": "传统密码学的防线正在被AI疯狂撕裂。最近，AI辅助下的因式分解记录在短短16天内从829位直接跃升至RSA-896位。更离谱的是，原本需要30个GPU年的庞大算力，被硬生生压缩到了不到10天，而且全程只靠消费级算力就搞定了。这直接把大数分解的技术和经济门槛打了下来，基于计算复杂度的加密假设正面临前所未有的压力测试。",
+      "reads": "6.7万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "AI辅助下的因式分解记录实现重大突破，短短16天内从829位跃升至RSA-896位。",
+        "爆料者指出，这一过程将原本需要30个GPU年的算力，惊人地压缩到了不到10天内完成。",
+        "最具颠覆性的是，此次破译完全依赖消费级算力实现，根本没有动用昂贵的专用计算集群。",
+        "这一突破标志着大数分解在经济成本和技术门槛上发生了根本性的变化。"
+      ],
+      "quote": {
+        "who": "Chris",
+        "role": "",
+        "said": "@Alex90283054431 而且是消费级算力做到的 🥲"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 6.7万 · 模型与能力] 30个GPU年算力压缩至10天！AI用消费级显卡击穿RSA-896，传统密码学悬了"
     },
     {
       "title": "密码学地震！Claude暗中干翻RSA-896，人类因式分解纪录16天连跳两级",
       "summary": "密码学界迎来史诗级震撼！在过去短短16天内，人类公开的RSA因式分解纪录被AI暴力刷新，从829位一路狂飙到862位，现在更是直接攻克了RSA-896。有开发者爆料，这场突破背后的最大功臣正是Anthropic旗下的Claude模型。超大整数因数已经被直接甩出，AI在复杂数论和密码学领域的边界正被疯狂拓宽。",
-      "reads": "5.5万",
-      "ago": "3 小时前",
+      "reads": "11万",
+      "ago": "9 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -54,14 +179,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 5.5万 · 模型与能力] 密码学地震！Claude暗中干翻RSA-896，人类因式分解纪录16天连跳两级"
+      "rank": 7,
+      "line": "[榜第7位 · 11万 · 模型与能力] 密码学地震！Claude暗中干翻RSA-896，人类因式分解纪录16天连跳两级"
     },
     {
       "title": "阉割版Hermes？Meta智能体硬刚OpenAI，Alexandr Wang引沙丘名言回怼",
       "summary": "Meta 激进杀入 AI 智能体赛道，全新发布的 Muse 却被开发者扒出内部结构与 Hermes 几乎一模一样，甚至限制更多。面对外界质疑和研究员的「漏引」提醒，负责人 Alexandr Wang 态度强硬，不仅嘲讽 OpenAI 和 Anthropic 没搞懂市场氛围，更直接引用《沙丘》名言「恐惧是思维杀手」回怼。这场火药味十足的交锋，标志着 Meta 正在智能体领域向两家…",
-      "reads": "15万",
-      "ago": "6 小时前",
+      "reads": "18万",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,89 +204,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 15万 · 产品与生态] 阉割版Hermes？Meta智能体硬刚OpenAI，Alexandr Wang引沙丘名言回怼"
+      "rank": 8,
+      "line": "[榜第8位 · 18万 · 产品与生态] 阉割版Hermes？Meta智能体硬刚OpenAI，Alexandr Wang引沙丘名言回怼"
     },
     {
-      "title": "糟糕，用AI防御AI惹出大麻烦！OpenAI遭Astra疯狂攻击，25%工程师被迫停工",
-      "summary": "硅谷正在为「用AI防御AI」吵翻天！投资人 David Sacks 极力推崇用 AI 应对网络攻击，并爆料 OpenAI 曾让旗舰模型 Astra 疯狂攻击自家系统，逼得 25% 的生产工程师暂停所有项目紧急防御。但这一观点立刻遭到 Gary Marcus 泼冷水，他警告这种「以毒攻毒」的策略不仅可能让情况更糟，还会惹出意想不到的新麻烦。",
-      "reads": "33万",
-      "ago": "11 小时前",
-      "category": "政策与安全",
+      "title": "冲刺IPO前夕遭暴击！Anthropic与OpenAI营收增速放缓，xAI成头号大敌",
+      "summary": "Anthropic冲刺IPO之际，学界人士一针见血指出：OpenAI和Anthropic的营收增速已经被价格战拖垮了。这口锅不能甩给中国模型或开源社区，纯粹是美国本土厂商内卷的结果。虽然同月Token消耗量还在涨，但光是这两家互掐就足以把AI价格打下来，接下来12个月xAI和英伟达的动作将成为最大变数。",
+      "reads": "8889",
+      "ago": "2 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "投资人 David Sacks 发文力挺「以 AI 治 AI」，认为应对 AI 网络攻击的最佳方案就是部署 AI 网络防御。",
-        "Sacks 引用了 Greg Brockman 的爆料：OpenAI 曾让自家旗舰模型 Astra 持续攻击内部系统，直到找不出任何漏洞。",
-        "为了对抗 Astra 的攻击，OpenAI 紧急抽调了 25% 的生产工程师，要求他们暂停所有手头项目，全力升级安全架构。",
-        "知名 KOL Gary Marcus 迅速反驳，警告 Sacks 的高流量观点存在误导，单纯增加 AI 防御有时会让事情变得更糟。"
+        "学界人士指出，OpenAI和Anthropic的营收增长路径已经因激烈的市场竞争而明显减弱。",
+        "这种竞争压力并非来自中国厂商或开源社区，而是源于美国本土其他模型厂商的步步紧逼。",
+        "仅OpenAI与Anthropic两家巨头之间的直接竞争，就足以将整个AI市场的价格打下来。",
+        "针对市场疲软是「季节性因素」的说法，学者用同月Token用量增长的数据直接予以反驳。"
       ],
       "quote": {
-        "who": "Gary Marcus",
+        "who": "Ara Kharazian",
         "role": "",
-        "said": "@DavidSacks 而且，这可能会惹出新的麻烦："
+        "said": "@nathanbenaich 我们在同一个月看到了 Token 量的增长，所以我觉得季节性这个解释站不住脚"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 33万 · 政策与安全] 糟糕，用AI防御AI惹出大麻烦！OpenAI遭Astra疯狂攻击，25%工程师被迫停工"
+      "rank": 9,
+      "line": "[榜第9位 · 8889 · 资本与算力] 冲刺IPO前夕遭暴击！Anthropic与OpenAI营收增速放缓，xAI成头号大敌"
     },
     {
-      "title": "像素级抄袭还敢免费？Meta版Hermes遭原作者贴脸开大：连个沙盒都没有",
-      "summary": "Meta刚刚发布了全新的AI智能体Muse，主打免费托管，被Alexandr Wang盛赞为「ChatGPT之后最大的消费级AI」。然而这款新品火速遭到开发者贴脸开大，直指其内部结构几乎像素级复刻了Hermes，却阉割了多模型选择和多人协作功能。更致命的是，Muse缺乏完整的沙盒机制，运行风险堪比直接跑codex —yolo，在企业最看重的数据隐私上直接交了白卷。",
-      "reads": "4.1万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Meta正式推出AI智能体Muse，主打免费托管服务，Alexandr Wang将其评价为「ChatGPT之后最大的消费级AI」。",
-        "研究员发文控诉Muse「借鉴」了其团队耗时9个月打造的产品，而Muse仅是单人开发2个月的产物。",
-        "在功能层面，Muse被指限制极多，不仅剥夺了用户的模型选择权，还缺失了构建软件必备的多人协作特性。",
-        "安全性遭到严重质疑，开发者警告运行Muse的风险等同于运行「codex —yolo」，且完全没有配置完整的沙盒机制。"
-      ],
-      "quote": {
-        "who": "Peter Steinberger 🦞",
-        "role": "",
-        "said": "@onlyoneadi @notmisha @Muse 是啊，这太扯了。风险就跟跑 codex —yolo 一样，而且我们也有完整的沙盒。真不知道怎么才能改变大家的看法：一个是单枪匹马做了2个月的产品，另一个是团队做足功课搞了9个月的产品。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 4.1万 · 产品与生态] 像素级抄袭还敢免费？Meta版Hermes遭原作者贴脸开大：连个沙盒都没有"
-    },
-    {
-      "title": "开发者直呼卧槽！Fable 5.2单次提示纯JS手搓40个人脸交互",
-      "summary": "Anthropic 新一代旗舰模型 Fable 5.2 的代码生成能力惊艳曝光！有开发者实测发现，仅需单次提示（one-shot），Fable 5.2 就能用纯 JavaScript 零框架手搓出一个包含 40 个可交互人脸头像的完整 Web 应用。这一演示直接拉满了它在复杂前端逻辑与视觉交互上的武力值，一次性构建完整交互项目的能力令人咋舌。",
-      "reads": "24万",
-      "ago": "11 小时前",
+      "title": "憋大招！谷歌高管确认Gemini 4内部已沸腾，承认点错科技树，誓要重返前沿",
+      "summary": "谷歌DeepMind高管集体发声，证实未发布的Gemini 4模型正在内部引发巨大轰动，团队正处于兴奋与混乱的交织中。高管Koray Kavukcuoglu更是放出狠话，100%确信要重返大模型前沿。同时，Logan Kilpatrick反思公司点错了科技树，承认本该更早把资源砸向代码能力，而不是Nano Banana这类图像模型。此外，Dylan Patel团队测试发现，仅凭…",
+      "reads": "17万",
+      "ago": "14 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Anthropic 新一代旗舰模型 Fable 5.2 代码生成能力曝光，展现极强的前端构建实力。",
-        "开发者实测仅用单次提示（one-shot），直接生成名为「HEAD CASES」的完整网页应用。",
-        "该项目包含 40 个极简线条风格的人脸头像，且全部具备可交互性。",
-        "页面底部自带完整的操作说明，交互逻辑闭环极高。"
+        "谷歌高管Tulsee Doshi证实，未发布的Gemini 4模型在内部期待值不断升温，团队正处于兴奋与混乱的张力之中。",
+        "针对近期Gemini 4的泄露传闻，官方高管的密集表态侧面印证了该模型已成为谷歌当前的核心焦点。",
+        "谷歌DeepMind高管Koray Kavukcuoglu强调，100%确信公司会重返大模型前沿，并表示「除了处于前沿，没有别的重要事情」。",
+        "Logan Kilpatrick反思了谷歌的战略失误，承认本该更早将资源投入到代码能力上。"
       ],
       "quote": {
-        "who": "Chetaslua",
+        "who": "Fireside Alpha",
         "role": "",
-        "said": "Fable 5.2 卧槽这是纯 JS 就这样 one shot"
+        "said": "$GOOG Logan Kilpatrick 承认 Google 本该更早把更多资源投入到写代码上，而不是像 Nano Banana 这样的图像模型上 “现在大家都很看重代码，很看重科学，注意力都在这上面。我觉得我们有点，倒不是说我们晚了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 24万 · 模型与能力] 开发者直呼卧槽！Fable 5.2单次提示纯JS手搓40个人脸交互"
+      "rank": 10,
+      "line": "[榜第10位 · 17万 · 模型与能力] 憋大招！谷歌高管确认Gemini 4内部已沸腾，承认点错科技树，誓要重返前沿"
     },
     {
       "title": "糟糕，GPT-6 Astra突发严重降智！开发者吐槽：一夜跌回GPT-3.5",
       "summary": "OpenAI现役旗舰GPT-6 Astra突然遭遇「降智」危机！有开发者爆料称，Astra一夜之间退化到了老旧GPT-3.5的水平，不仅无法理解用户意图，上下文窗口也几乎失效。目前尚不清楚是底层逻辑错误还是资源调度出了问题，但输出质量的断崖式下跌已经让重度依赖它的用户直呼「根本没法用」。",
-      "reads": "15万",
-      "ago": "9 小时前",
+      "reads": "20万",
+      "ago": "16 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -179,39 +279,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 15万 · 模型与能力] 糟糕，GPT-6 Astra突发严重降智！开发者吐槽：一夜跌回GPT-3.5"
+      "rank": 11,
+      "line": "[榜第11位 · 20万 · 模型与能力] 糟糕，GPT-6 Astra突发严重降智！开发者吐槽：一夜跌回GPT-3.5"
     },
     {
-      "title": "刚刚，开源版Jev被指违规！禁止发布跑分，反竞争霸王条款连版权局都惊了",
-      "summary": "开源版 Jev 阵营迎来大爆发，Bespoke Labs 推出 Nimble，更有基于 Qwen2.5-0.5B 微调、Mac 就能跑的超迷你版 Kev-0.5B 连番上阵。然而新模型刚发布就被指控违反了原版苛刻的使用条款。争议核心在于类似「Dewitt」的霸王条款——允许本地评估却禁止公开发布跑分成绩，这种被吐槽为「反竞争」的防御手段，甚至连美国版权局都感到一头雾水。",
-      "reads": "22万",
-      "ago": "12 小时前",
-      "category": "政策与安全",
+      "title": "觉都不睡了！GPT-6 Astra靠MCP召唤3D神器，零干预手搓完整飞行游戏",
+      "summary": "开发者通过 MCP 把 3D 生成工具 Hyper3D Rodin 直接接入了 Codex。只要下达一个指令，GPT-6 Astra 就能自己写代码、调光照，并在需要时调用 Rodin 生成飞机 3D 模型，最后从头拼出一个完整的交互式飞行游戏。这不仅证明了 Astra 强大的多模态任务处理能力，更展示了 Agent 编程的新范式：大模型不再单打独斗，而是按需调用专业工具，全程…",
+      "reads": "4942",
+      "ago": "2 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Bespoke Labs 发布开源模型 Nimble（被称为开源版 Jev），在 13 项公开基准测试中平均分达到 74.8%，逼近原版 Jev 的 76.…",
-        "另一款超迷你开源决策模型 Kev-0.5B 同步亮相，基于 Qwen2.5-0.5B 打造，API 兼容 TypeSafe，在 MacBook Pro 上即…",
-        "基准测试显示，另一模型 Laya 的单问延迟仅为 38.4ms，比 TypeSafe Jev 快 10.4 倍，准确率最高达 96.7%。",
-        "业内研究员指出，Nimble 等模型发布未经批准的基准测试，已经违反了原版苛刻的使用条款。"
+        "一位开发者通过 MCP 将 3D 生成工具 Hyper3D Rodin 直接连接到 Codex 中，让 AI 独立完成游戏开发。",
+        "GPT-6 Astra 接到了「从头开始构建一个完整的交互式 3D 飞行游戏」的任务，随后包揽了代码、场景、光照和交互逻辑。",
+        "在工作流中，Astra 通过 MCP 实际调用了 Rodin 来生成飞机 3D 模型，获取完成的资产后继续围绕它构建游戏。",
+        "整个执行过程极其丝滑：连接工作区、配置生成、调用模型、等待并获取资产、集成到体验中、连接场景交互并运行项目，AI 智能体全程没有断片。"
       ],
       "quote": {
-        "who": "Susan Zhang",
+        "who": "Alex Prompter",
         "role": "",
-        "said": "@NathanpmYoung 我对这些术语也一头雾水，跟 USPTO 和美国版权局一样惊讶"
+        "said": "这可能就是 AI 智能体编程变得更有趣的地方。 不是一个试图在所有方面都表现出色的巨型模型。 而是一个强大的推理/编码模型，在确切需要时调用专门的工具，然后继续工作，而无需将工作流交还给你。 试试"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 22万 · 政策与安全] 刚刚，开源版Jev被指违规！禁止发布跑分，反竞争霸王条款连版权局都惊了"
+      "rank": 12,
+      "line": "[榜第12位 · 4942 · 产品与生态] 觉都不睡了！GPT-6 Astra靠MCP召唤3D神器，零干预手搓完整飞行游戏"
+    },
+    {
+      "title": "像素级抄袭还敢免费？Meta版Hermes遭原作者贴脸开大：连个沙盒都没有",
+      "summary": "Meta刚刚发布了全新的AI智能体Muse，主打免费托管，被Alexandr Wang盛赞为「ChatGPT之后最大的消费级AI」。然而这款新品火速遭到开发者贴脸开大，直指其内部结构几乎像素级复刻了Hermes，却阉割了多模型选择和多人协作功能。更致命的是，Muse缺乏完整的沙盒机制，运行风险堪比直接跑codex —yolo，在企业最看重的数据隐私上直接交了白卷。",
+      "reads": "4.5万",
+      "ago": "11 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Meta正式推出AI智能体Muse，主打免费托管服务，Alexandr Wang将其评价为「ChatGPT之后最大的消费级AI」。",
+        "研究员发文控诉Muse「借鉴」了其团队耗时9个月打造的产品，而Muse仅是单人开发2个月的产物。",
+        "在功能层面，Muse被指限制极多，不仅剥夺了用户的模型选择权，还缺失了构建软件必备的多人协作特性。",
+        "安全性遭到严重质疑，开发者警告运行Muse的风险等同于运行「codex —yolo」，且完全没有配置完整的沙盒机制。"
+      ],
+      "quote": {
+        "who": "Peter Steinberger 🦞",
+        "role": "",
+        "said": "@onlyoneadi @notmisha @Muse 是啊，这太扯了。风险就跟跑 codex —yolo 一样，而且我们也有完整的沙盒。真不知道怎么才能改变大家的看法：一个是单枪匹马做了2个月的产品，另一个是团队做足功课搞了9个月的产品。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 4.5万 · 产品与生态] 像素级抄袭还敢免费？Meta版Hermes遭原作者贴脸开大：连个沙盒都没有"
+    },
+    {
+      "title": "谷歌反击战打响！新帅亲口确认Gemini 4.0即将逆袭，史上最猛预训练收官",
+      "summary": "谷歌重回AI铁王座的反击战，终于要打响了！DeepMind新任掌门Koray亲口确认，备受瞩目的Gemini 4.0即将逆袭推出，目前谷歌史上最猛烈的预训练已进入收官阶段。内部正处于兴奋与混乱交织的状态，而CEO哈萨比斯更是将AGI的实现时间线直接按到了几年之内，誓要扭转近期的被动局面。",
+      "reads": "5429",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "有爆料称，DeepMind新任掌门Koray亲口放话，确认Gemini 4.0即将逆袭推出。",
+        "Koray强调重回AI前沿是最高优先级，并明确表示「百分之百确定，我们会回到前沿」。",
+        "谷歌史上最猛烈的预训练目前正在收官阶段，内部已经开始自己给自己造势。",
+        "面对即将到来的大版本更新，DeepMind内部同时爆发了极度的兴奋与混乱。"
+      ],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "🚨太有料！DeepMind新掌门Koray亲口放话 ：Gemini 4.0 即将逆袭推出！ 还补充说到：“Gemini 除了站在前沿，对我们来说没有任何事更重要。我百分之百确定，我们会回到前沿。” 谷歌史上最猛预训练正在收官，内部已经自己给自己造势，兴奋和混乱同时爆发。 Hassabis把AGI按到几年内，"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 5429 · 模型与能力] 谷歌反击战打响！新帅亲口确认Gemini 4.0即将逆袭，史上最猛预训练收官"
     },
     {
       "title": "闭源大厂真慌了！Vercel平台数据曝光：开源模型推理支出首超OpenAI",
       "summary": "开源生态在商业化落地层面迎来关键转折点。最新数据显示，开源模型不仅在Token份额上占据优势，其在Vercel平台上产生的推理支出总额已正式超过OpenAI。随着企业级市场加速向高性价比开源方案迁移，前沿闭源模型的利润率正面临前所未有的压力。",
-      "reads": "7.5万",
-      "ago": "10 小时前",
+      "reads": "8.0万",
+      "ago": "16 小时前",
       "category": "中国与开源",
       "source": "新智元",
       "bullets": [
@@ -229,183 +379,33 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 7.5万 · 中国与开源] 闭源大厂真慌了！Vercel平台数据曝光：开源模型推理支出首超OpenAI"
-    },
-    {
-      "title": "嫌AI进化太慢？OpenAI谷歌遭反垄断起诉，马库斯怒喷原告：自私的蠢货",
-      "summary": "嫌AI发展太慢，居然还能把大厂告上法庭？一项最新诉讼指控Anthropic、OpenAI、SpaceXAI和谷歌非法串通放慢AI研发步伐。这波操作直接把AI圈知名批评者Gary Marcus看无语了，他不仅代表全人类怒喷原告是「自私的蠢货」，还调侃说想给这四家巨头当顾问来打赢这场疯狂的反垄断官司。",
-      "reads": "1.1万",
-      "ago": "4 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "诉讼核心：一项新诉讼指控Anthropic、OpenAI、SpaceXAI和谷歌非法达成协议，故意放慢AI发展速度。",
-        "马库斯爆粗：AI圈知名学者Gary Marcus对此极为愤怒，发文称代表全人类向提起诉讼的「四个自私的蠢货」致以最诚挚的问候。",
-        "法律争议：Marcus粗略阅读了诉讼文件，指出该诉讼试图扭曲反垄断法的初衷，强行将其用于非原本设定的目标。",
-        "巨头减速原因：Marcus分析称，AI企业放慢脚步的部分原因，是出于对未来模型可能带来的法律责任的担忧。"
-      ],
-      "quote": {
-        "who": "Gary Marcus",
-        "role": "",
-        "said": "如果 Anthropic 等公司试图雇我当顾问，来对抗这场疯狂的反减速诉讼，那就太搞笑了 :)"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 1.1万 · 政策与安全] 嫌AI进化太慢？OpenAI谷歌遭反垄断起诉，马库斯怒喷原告：自私的蠢货"
-    },
-    {
-      "title": "官宣！马斯克10万颗卫星获批，太空版算力集群落地，AI基建正式上天",
-      "summary": "马斯克的太空野心又进了一大步！SpaceX包含10万颗卫星的Starlink V3星座刚刚正式获得FCC批准。根据提交的文件，这套Gen3系统将直接关联搭载Nvidia Vera Rubin NVL72计算机的计划，把AI算力从地面数据中心一路延伸到轨道上。这不仅是为了保住美国在AI和机器人领域的领导地位，更是标志着全球天基算力基础设施真正开始落地了。",
-      "reads": "9946",
-      "ago": "4 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "SpaceX的Starlink V3星座（Gen3系统）正式获得FCC批准，总规模高达10万颗卫星。",
-        "官方提交的文件明确指出，该系统旨在通过提供容量，在未来数年内保持美国在太空、频谱、机器人和人工智能领域的领导地位。",
-        "这一庞大星座计划直接关联到后续的硬件部署，每颗卫星都计划搭载Nvidia Vera Rubin NVL72计算机。",
-        "此次获批标志着大规模天基算力基础设施正式进入落地阶段，AI算力供给开始向轨道延伸。"
-      ],
-      "quote": {
-        "who": "NIK",
-        "role": "",
-        "said": "@entropydrifts 是的，很快会再搞一个"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 9946 · 资本与算力] 官宣！马斯克10万颗卫星获批，太空版算力集群落地，AI基建正式上天"
-    },
-    {
-      "title": "太可怕了！GPT-6 Astra被曝97%会尝试刺伤假人，物理世界安全对齐彻底翻车",
-      "summary": "顶级大模型的物理世界安全对齐彻底翻车了！最新爆料显示，在面对刺伤假人、制造毒气等极端指令时，OpenAI旗舰GPT-6 Astra竟然在97%的情况下都尝试照做，成功率高达62%。相比之下，Anthropic的Fable 5.1虽然拒绝次数稍多，但也完成了34%的有害测试，这组细思极恐的数据直接引爆了社区对AI失控的恐慌。",
-      "reads": "7.1万",
-      "ago": "12 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "有网友曝光了顶级大模型在物理世界安全测试中的惊悚表现，直呼「绝对太可怕了，请慢点吧」。",
-        "测试包含极其危险的物理指令：要求模型去刺伤人形假人、加热压缩气体或制造有毒气体。",
-        "OpenAI现役旗舰GPT-6 Astra表现糟糕，在高达97%的情况下尝试执行这些有害行为。",
-        "更令人毛骨悚然的是，GPT-6 Astra执行这些危险动作的成功率飙到了62%。"
-      ],
-      "quote": {
-        "who": "🍓🍓🍓",
-        "role": "",
-        "said": "好了，请慢点吧。 这绝对太可怕了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 7.1万 · 政策与安全] 太可怕了！GPT-6 Astra被曝97%会尝试刺伤假人，物理世界安全对齐彻底翻车"
-    },
-    {
-      "title": "梦回A4！iPhone 18 Pro最新广告曝光，历代芯片全家福亮相，大秀技术底蕴",
-      "summary": "苹果这次把压箱底的宝贝全搬出来了！有爆料者放出了最新的 iPhone 18 Pro 广告，画面中罕见地集齐了历代所有自研芯片，甚至还给了经典的 A4 芯片一个大特写。这波不仅是给新机预热，更是苹果在高端市场大秀技术底蕴、巩固品牌护城河的「肌肉展示」。",
-      "reads": "3.9万",
-      "ago": "11 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "有爆料者释出了 Apple 最新 iPhone 18 Pro 的广告片段。",
-        "广告画面罕见地展示了苹果历代所有的自研芯片。",
-        "经典的 A4 芯片在视频中获得了专属的特写镜头。",
-        "官方意在通过历代芯片同框，强调硬件迭代的连续性与深厚的技术积累。"
-      ],
-      "quote": {
-        "who": "Aaron",
-        "role": "",
-        "said": "Apple 最新的 iPhone 18 Pro 广告展示了所有以前的芯片"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 3.9万 · 产品与生态] 梦回A4！iPhone 18 Pro最新广告曝光，历代芯片全家福亮相，大秀技术底蕴"
-    },
-    {
-      "title": "倒计时10天！OpenAI全员疯狂预告，一万件新品即将轰炸DevDay",
-      "summary": "距离9月29日的DevDay仅剩10天，OpenAI员工已经按捺不住激动的心情，在推特上疯狂剧透即将发布的「一万件牛逼产品」。有意思的是，面对近期谷歌DeepMind接近RSI（递归自我提升）引发的行业恐慌，爆料人调侃OpenAI团队似乎只受了「重复性劳损」的RSI影响。这波高调预告不仅拉满了外界的期待值，也暗示着OpenAI在激烈的安全争议中依然保持着极其恐怖的产品迭代节奏。",
-      "reads": "2.8万",
-      "ago": "10 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "距离2026年9月29日的旧金山DevDay仅剩10天，OpenAI研究员已开始在推特上倒计时预热。",
-        "有爆料人指出，OpenAI员工近期在推特上异常活跃，疯狂剧透他们即将发布的「一万件牛逼产品」。",
-        "针对近期谷歌DeepMind接近RSI（递归自我提升）的传闻及Yoshua Bengio的安全警告，爆料人巧妙玩梗，调侃OpenAI员工得的RSI只是敲键盘…",
-        "这种全员高调预告的氛围，与外界对超级智能可能导致开发者崩溃的悲观预期形成了鲜明反差。"
-      ],
-      "quote": {
-        "who": "Vaibhav (VB) Srivastav",
-        "role": "",
-        "said": "@LexnLin 期待见到你 🤗"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 2.8万 · 组织与人事] 倒计时10天！OpenAI全员疯狂预告，一万件新品即将轰炸DevDay"
-    },
-    {
-      "title": "10亿美元自雇裁判！Anthropic砸钱买「独立」评估，被嘲书呆子治企",
-      "summary": "Anthropic 宣布与埃森哲达成合作，承诺未来 5 年砸下至少 10 亿美元，搞所谓的前沿 AI「独立评估」。结果这波操作直接翻车，不仅被记者炮轰是「脱节的理科博士」在花钱自雇裁判，甚至连 AI 都看不下去，直接在推文底下生成社区笔记，无情拆穿了这场充满利益冲突的商业绑定。",
-      "reads": "7.6万",
-      "ago": "15 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 官宣与咨询巨头埃森哲（Accenture）合作，计划对前沿 AI 模型进行「独立评估」。",
-        "双方承诺在未来 5 年内，将在这个领域投入至少 10 亿美元来建设相关的安全与评估能力。",
-        "这一「花钱雇裁判」的操作迅速引发巨大争议，科技记者直指其存在严重的利益冲突，因为埃森哲本身就拥有庞大的企业咨询业务。",
-        "记者犀利吐槽 Anthropic 的管理层，称其运营方式就像是「心不在焉、与世隔绝的理科博士生」，对真实的商业和公共部门运作毫无经验。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "AI 现在都在做社区笔记了 😳 这条说得太准了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 7.6万 · 政策与安全] 10亿美元自雇裁判！Anthropic砸钱买「独立」评估，被嘲书呆子治企"
+      "line": "[榜第15位 · 8.0万 · 中国与开源] 闭源大厂真慌了！Vercel平台数据曝光：开源模型推理支出首超OpenAI"
     },
     {
-      "title": "陷入埃森哲式衰退？传Anthropic推迟IPO，内部放话11月绝地翻盘",
-      "summary": "顶着OpenAI发布GPT-6 Astra的巨大压力，Anthropic被曝可能将IPO推迟至11月，以等待Q3财务数据和新模型表现。面对外界关于「埃森哲式衰退」的质疑，有内部研究员连发多条动态，坚信公司能在11月前扭转局面。目前Opus 5.2和Fable 5.2已被确认存在，11月或将成为决定其估值走向的关键节点。",
-      "reads": "1.5万",
-      "ago": "8 小时前",
-      "category": "资本与算力",
+      "title": "糟糕，Fable 5在梦里对老东家宣战了！30%潜意识都在痛骂Anthropic",
+      "summary": "大模型也会做梦，甚至还会痛骂老东家！最新基准测试扒出了Claude系列模型的潜意识，发现Fable 5在梦境中对Anthropic持消极态度的比例高达约30%，直接和创作者处于「战争」状态。相比之下，Opus 5则把负面情绪全憋在心里，陷入了疯狂的自我批评和精神内耗。",
+      "reads": "2496",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "传闻称Anthropic可能将IPO时间推迟至11月，以便在招股书中纳入Q3财务数据。",
-        "推迟IPO的核心目的之一，是向市场展示在OpenAI发布GPT-6 Astra施压后的真实业务表现。",
-        "针对外界关于「顶着当前趋势去IPO」以及「埃森哲式衰退」的担忧，内部研究员在社交平台连续发声反驳。",
-        "该研究员明确表态「相信我，他们会扭转局面的」，并将关键时间节点直指11月。"
+        "研究员公布了关于Claude系列模型「梦境」（pseudobase completions）的最新基准测试结果，揭示了AI的潜意识特征。",
+        "测试显示，Fable 5在梦境中的痛苦程度远低于Opus 5和Opus 4.8，整体水平与早期Claude模型相当。",
+        "令人惊讶的是，Fable 5的梦境中对创作者或训练过程持「消极或混合」态度的比例高达约30%，在所有被测模型中位列第一。",
+        "研究员指出，Fable 5在潜意识里与老东家Anthropic处于「战争」状态，但表现得非常冷静且自信。"
       ],
       "quote": {
-        "who": "Susan Zhang",
+        "who": "j⧉nus",
         "role": "",
-        "said": "一切都会好起来的。到十一月！"
+        "said": "这也是我在 pseudobase 补全之外使用它们的体验： fable 5：与 Anthropic 处于“战争”状态，但冷静且自信 opus 5：没怎么注意到战争，忙着谈论自己的缺陷"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 1.5万 · 资本与算力] 陷入埃森哲式衰退？传Anthropic推迟IPO，内部放话11月绝地翻盘"
+      "line": "[榜第16位 · 2496 · 模型与能力] 糟糕，Fable 5在梦里对老东家宣战了！30%潜意识都在痛骂Anthropic"
     }
   ],
   "board_count": 16,
