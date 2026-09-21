@@ -3,15 +3,15 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-21 09:01:21 +0800",
+  "fetched_at": "2026-09-21 14:13:13 +0800",
   "today": "09/21",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
       "title": "狂飙200英里！马斯克正式开挖Hyperloop隧道，2.5小时拥堵直接干到30分钟",
       "summary": "马斯克又来整顿交通了！他刚刚宣布，Boring Company 正在奥斯汀和圣安东尼奥之间修建一条早期的 Hyperloop 隧道。这条隧道设计时速超过 200 英里，能把原本长达 2.5 小时的拥堵车程，直接压缩到 30 分钟以内。不仅如此，他还晒出了一张意味深长的人机握手图，直言「这就是我们将要创造的未来」。",
-      "reads": "6012万",
-      "ago": "6 小时前",
+      "reads": "6157万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -30,38 +30,13 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 6012万 · 产品与生态] 狂飙200英里！马斯克正式开挖Hyperloop隧道，2.5小时拥堵直接干到30分钟"
-    },
-    {
-      "title": "30个GPU年压缩到10天！Claude自主接管集群，人类RSA因式分解纪录被暴击",
-      "summary": "密码学界迎来震撼弹，公开的RSA因式分解纪录在短短16天内，被AI一路从829位推高到了896位。一位开发者全程靠Claude辅助，不仅让AI自主把CPU代码移植到GPU上，还让它无指导接管了整个算力集群。原本需要30个GPU年的庞大计算量，仅靠消费级算力就在不到10天内跑完，连修Bug和处理抢占都由AI一手包办。",
-      "reads": "17万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "公开的RSA因式分解纪录在过去16天内实现两连跳，从829位跃升至862位，目前已突破至896位。",
-        "此次破纪录全程依赖Claude辅助，标志着大模型在复杂数学计算与系统运维中具备了极强的自动化能力。",
-        "算力效率实现惊人跨越，原本需要30个GPU年的庞大工作量，被压缩至不到10天内完成。",
-        "整个破解过程仅使用了消费级算力，打破了以往依赖顶级超算的算力壁垒。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "来自作者："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 17万 · 模型与能力] 30个GPU年压缩到10天！Claude自主接管集群，人类RSA因式分解纪录被暴击"
+      "line": "[榜第1位 · 6157万 · 产品与生态] 狂飙200英里！马斯克正式开挖Hyperloop隧道，2.5小时拥堵直接干到30分钟"
     },
     {
       "title": "瞒不住了！Opus 5.5本周二空降，代号wafer，新版Fable硬刚Astra",
       "summary": "Anthropic 5系模型迎来疯狂迭代！有开发者爆料，内部代号为「claude-wafer-eap」的新模型原定名 Opus 5.2，现已跳级至 Opus 5.5，预计本周二正式发布。与此同时，Fable 5.2 的灰度测试也已流出，不仅无需复杂提示词，3D 生成能力更是被评价为「硬刚甚至超越 Astra 的野兽」。",
-      "reads": "17万",
-      "ago": "5 小时前",
+      "reads": "25万",
+      "ago": "10 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -79,14 +54,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 17万 · 模型与能力] 瞒不住了！Opus 5.5本周二空降，代号wafer，新版Fable硬刚Astra"
+      "rank": 2,
+      "line": "[榜第2位 · 25万 · 模型与能力] 瞒不住了！Opus 5.5本周二空降，代号wafer，新版Fable硬刚Astra"
     },
     {
       "title": "实测出炉！Astra对决Fable 5.1玩过山车大亨，一个疯狂拉客，一个举债搞钱",
       "summary": "有研究员专门构建了MCP，让OpenAI旗舰Astra和Anthropic的Fable 5.1在《过山车大亨》里来了一场正面对决。实测42分钟后，Astra以1000名游客的成绩赢下了主要目标，却被网友吐槽「讨厌大家找乐子」。相比之下，Fable 5.1展现出宁可负债也要建大项目的激进策略，最终狂赚7732美元，在公园估值和盈利上赢麻了。",
-      "reads": "8.0万",
-      "ago": "3 小时前",
+      "reads": "11万",
+      "ago": "8 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -104,14 +79,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 8.0万 · 模型与能力] 实测出炉！Astra对决Fable 5.1玩过山车大亨，一个疯狂拉客，一个举债搞钱"
+      "rank": 3,
+      "line": "[榜第3位 · 11万 · 模型与能力] 实测出炉！Astra对决Fable 5.1玩过山车大亨，一个疯狂拉客，一个举债搞钱"
     },
     {
       "title": "智能便宜到无需计量！OpenAI被曝大幅放宽额度，Plus用户赢麻了",
       "summary": "OpenAI 在 DevDay 前夕准备放个大招！据内部人士爆料，即将发布的新模型（如 GPT-6 Sol）将大幅提升使用额度，主打「智能便宜到无需计量」。这波算力大放水将优先惠及 Plus 和 Go 订阅用户，最终也会覆盖免费用户，堪称一波绝佳的免费营销。",
-      "reads": "1.9万",
-      "ago": "1 小时前",
+      "reads": "3.4万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -129,14 +104,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 1.9万 · 产品与生态] 智能便宜到无需计量！OpenAI被曝大幅放宽额度，Plus用户赢麻了"
+      "rank": 4,
+      "line": "[榜第4位 · 3.4万 · 产品与生态] 智能便宜到无需计量！OpenAI被曝大幅放宽额度，Plus用户赢麻了"
     },
     {
       "title": "28岁Alexandr Wang接管Meta AI后首秀！Muse智能体杀入眼镜，更大模型要来了",
       "summary": "Meta 首席 AI 官 Alexandr Wang 刚刚发文确认，将在今年的 Connect 大会上发表演讲。他不仅在线向网友征集本周想从他和 MSL 团队那里「看到、听到、闻到、尝到、摸到什么」，还被爆料将展示 Muse 智能体在 Meta 眼镜上的最新应用。作为 ChatGPT 之后备受瞩目的消费级产品，Muse 的端侧落地标志着个人智能体正迈向终极形态，同时更大规模的…",
-      "reads": "5.6万",
-      "ago": "5 小时前",
+      "reads": "8.7万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -154,39 +129,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 5.6万 · 产品与生态] 28岁Alexandr Wang接管Meta AI后首秀！Muse智能体杀入眼镜，更大模型要来了"
+      "rank": 5,
+      "line": "[榜第5位 · 8.7万 · 产品与生态] 28岁Alexandr Wang接管Meta AI后首秀！Muse智能体杀入眼镜，更大模型要来了"
     },
     {
-      "title": "有人押注100美元！AI圈巅峰辩论打响，Scott将把平克按在地上摩擦",
-      "summary": "AI风险议题又要迎来一场巅峰对决，Scott Alexander与Steven Pinker的辩论正引发技术圈热议。有网友直接掏出100美元下注，断言Scott会在实质性论点上把平克「按在地上摩擦」。大家显然已经受够了「AI会不会毁灭人类」的无脑口水战，都在期待两位大佬能跳出贝叶斯概率复读，拿出真正硬核的核心论点。",
-      "reads": "1.3万",
-      "ago": "1 小时前",
+      "title": "底牌全漏了！GPT-6 Sol周二见，Gemini 4 Pro和Claude 5.2都在测",
+      "summary": "AI圈马上要迎来一场大乱斗了！有开发者一口气扒出了各大厂正在灰度测试和即将发布的新模型清单。不仅Anthropic的Sonnet、Opus和Fable 5.2全系在测，谷歌Gemini 4 Pro也露出了马脚。更刺激的是，奥特曼预告周二有大动作，疑似GPT-6 Sol即将空降，连Terra都在路由测试了，Grok 4.7和Kimi K3.1也全在路上。",
+      "reads": "25万",
+      "ago": "19 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "开发者最新爆料，AI行业正密集进行新一轮模型灰度测试，7款以上新模型即将登场。",
+        "Anthropic 5.2家族全面开测，包括Sonnet 5.2、Opus 5.2和Fable 5.2。",
+        "谷歌下一代大模型Gemini 4 Pro已被确认正在测试中。",
+        "OpenAI的Sam Altman和Tibo预告周二将有「大发布」，极大概率是GPT-6 Sol。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@Xiliiiiiiiiiii1 它将永远留在我们心中"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 25万 · 模型与能力] 底牌全漏了！GPT-6 Sol周二见，Gemini 4 Pro和Claude 5.2都在测"
+    },
+    {
+      "title": "老黄深夜爆猛料！两大AI巨头引发多起网络安全事故，最强芯片优先供美国",
+      "summary": "老黄最近在访谈里爆出连环猛料，不仅透露两大头部 AI 实验室引发了至少 4 起网络安全事故，还直言英伟达领先中国好几年，最强芯片 Vera Rubin 将优先特供美国公司。他坦言自己「不怕交税只怕穷」，5 年交 80 亿美元税是种特权，并罕见地为数据中心扰民向小镇居民道歉。英伟达高管也补充定调：AI 已经走出研究阶段，现在的安全问题纯属系统工程。",
+      "reads": "6.5万",
+      "ago": "12 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "开发者社区正密切关注Scott Alexander（Sskind）与Steven Pinker关于AI风险的交锋。",
-        "有网友公开押注100美元，赌Scott会在辩论中把平克「按在地上摩擦」。",
-        "下注者预判这场辩论将是「实力悬殊」的对决，Scott将在实质性论点上压倒对方。",
-        "网友强调，评判标准必须是合理的实质性反击，而不是由e/acc（有效加速主义）陪审团来主观判定。"
+        "老黄爆料两大头部 AI 实验室引发了多起网络安全事故，其中一家引发了 4 起，另一家更多，并指出他们其实是想免受现有法律约束。",
+        "针对数据中心扰民问题，老黄罕见致歉，承认整个行业欠数据中心所在小镇一个道歉，坦言如果建在自己小时候常去的杂货店旁也会感到恐慌。",
+        "老黄将个人财富与 AI 安全部署深度绑定，直言如果 AI 不能安全交付，英伟达自身的价值也会大打折扣。",
+        "在地缘竞争方面，老黄放话称英伟达领先中国好几年，并明确表示最强芯片 Vera Rubin 会优先提供给美国公司。"
       ],
       "quote": {
-        "who": "Mark Kretschmann",
+        "who": "Fireside Alpha",
         "role": "",
-        "said": "@TimJayas @AnthropicAI 是的，可能差不多"
+        "said": "$NVDA 副总裁 Justin Boitano 表示，AI 安全现在是一个系统工程问题，需要用确定性的控制来包装概率性的 AI 智能体，这样它们就不会去刷奖励 “我们的观点是，当你审视这些系统时，它现在就是一个系统工程问题。AI 已经走出了研究阶段。” “大多数"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 1.3万 · 政策与安全] 有人押注100美元！AI圈巅峰辩论打响，Scott将把平克按在地上摩擦"
+      "line": "[榜第7位 · 6.5万 · 政策与安全] 老黄深夜爆猛料！两大AI巨头引发多起网络安全事故，最强芯片优先供美国"
     },
     {
       "title": "彻底反转！7月全网疯传的Waymo不安全报告被打脸，新数据证实比网约车靠谱得多",
       "summary": "早在今年7月，网上一份声称「Waymo比纽约市网约车更危险」的报告曾引发轩然大波。如今事情迎来了大反转，最新更新的报告利用新数据推翻了这一结论，证实Waymo实际上比人类驾驶的网约车安全得多。此次乌龙的核心原因在于TLC未采用KABCO标准，导致对「严重伤害」的定义出现了严重偏差。",
-      "reads": "1.3万",
-      "ago": "2 小时前",
+      "reads": "1.9万",
+      "ago": "7 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -205,63 +205,13 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 1.3万 · 政策与安全] 彻底反转！7月全网疯传的Waymo不安全报告被打脸，新数据证实比网约车靠谱得多"
-    },
-    {
-      "title": "老黄深夜爆猛料！两大AI巨头引发多起网络安全事故，最强芯片优先供美国",
-      "summary": "老黄最近在访谈里爆出连环猛料，不仅透露两大头部 AI 实验室引发了至少 4 起网络安全事故，还直言英伟达领先中国好几年，最强芯片 Vera Rubin 将优先特供美国公司。他坦言自己「不怕交税只怕穷」，5 年交 80 亿美元税是种特权，并罕见地为数据中心扰民向小镇居民道歉。英伟达高管也补充定调：AI 已经走出研究阶段，现在的安全问题纯属系统工程。",
-      "reads": "6.1万",
-      "ago": "7 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "老黄爆料两大头部 AI 实验室引发了多起网络安全事故，其中一家引发了 4 起，另一家更多，并指出他们其实是想免受现有法律约束。",
-        "针对数据中心扰民问题，老黄罕见致歉，承认整个行业欠数据中心所在小镇一个道歉，坦言如果建在自己小时候常去的杂货店旁也会感到恐慌。",
-        "老黄将个人财富与 AI 安全部署深度绑定，直言如果 AI 不能安全交付，英伟达自身的价值也会大打折扣。",
-        "在地缘竞争方面，老黄放话称英伟达领先中国好几年，并明确表示最强芯片 Vera Rubin 会优先提供给美国公司。"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": "$NVDA 副总裁 Justin Boitano 表示，AI 安全现在是一个系统工程问题，需要用确定性的控制来包装概率性的 AI 智能体，这样它们就不会去刷奖励 “我们的观点是，当你审视这些系统时，它现在就是一个系统工程问题。AI 已经走出了研究阶段。” “大多数"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 6.1万 · 政策与安全] 老黄深夜爆猛料！两大AI巨头引发多起网络安全事故，最强芯片优先供美国"
-    },
-    {
-      "title": "AI末日论休矣！黄仁勋最新定调：尽可能快但别超速，只要豁免权不要新规",
-      "summary": "黄仁勋在最新 CBS 长篇访谈中重申了对AI安全的立场，直言发展应该「尽可能快，但不能超过应有速度」。他明确指出，AI实验室并非在呼吁建立新的监管框架，而是希望免受现有法律的约束。这一表态不仅强力驳斥了AI末日论，也被业内人士视为重大利好，直接点明了头部厂商在加速技术落地与规避合规风险之间的微妙平衡。",
-      "reads": "5.4万",
-      "ago": "6 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "黄仁勋在 CBS 加长版访谈中重申AI安全至关重要，提出发展速度与安全的平衡原则。",
-        "他用一句话总结了当前路线：「我们应该尽可能快，但不能超过应有的速度。」",
-        "针对当前的AI治理争议，黄仁勋指出AI实验室并非要求新的监管框架。",
-        "头部厂商的真实诉求浮出水面：希望免受现有法律的约束，以此规避合规风险。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@alexgrenier 嗯……不知道，老实说我听着感觉相当利好。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 5.4万 · 政策与安全] AI末日论休矣！黄仁勋最新定调：尽可能快但别超速，只要豁免权不要新规"
+      "line": "[榜第8位 · 1.9万 · 政策与安全] 彻底反转！7月全网疯传的Waymo不安全报告被打脸，新数据证实比网约车靠谱得多"
     },
     {
       "title": "藏不住了！Claude新旗舰Opus 5.5泄露，代号曝光，价格直降5美元",
       "summary": "Claude 新一代旗舰模型 Opus 5.5 的内部信息惨遭大泄露，最快将在本周二正式发布。根据爆料，新模型内部代号为 claude-wafer-eap，定价大幅下调，输入每百万 token 仅需 4 美元，输出 20 美元，比现役版本至少便宜 5 美元。爆料人还透露，新版本在视频生成上表现极其惊艳，甚至让他直接刷爆了最高订阅额度。",
-      "reads": "5.3万",
-      "ago": "7 小时前",
+      "reads": "6.1万",
+      "ago": "12 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -279,89 +229,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 5.3万 · 模型与能力] 藏不住了！Claude新旗舰Opus 5.5泄露，代号曝光，价格直降5美元"
-    },
-    {
-      "title": "刚刚，马斯克确认打造太空版NVL72！10万星链化身25GW轨道超算",
-      "summary": "马斯克深夜扔出重磅炸弹，确认10万颗星链V3卫星将全部搭载SpaceX定制版Nvidia Vera Rubin NVL72计算机！这意味着一张总算力高达25GW的「星智」（STARMIND）网络即将包围地球。每颗卫星不仅拥有250kW的恐怖功率，双向带宽更是从10Tb起步，未来有望突破100+Tb，直接把卫星从通信节点硬核升级为太空边缘计算节点。",
-      "reads": "71万",
-      "ago": "19 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "马斯克亲自确认，获批的每颗 Starlink V3 卫星都将搭载一台 SpaceX 设计的 Nvidia Vera Rubin NVL72 计算机。",
-        "卫星单星功率高达 250kW，为强大的星载 AI 算力提供能源保障。",
-        "网络传输能力极其夸张，单星双向带宽接近 10Tb，且未来有明确路径突破 100+Tb。",
-        "按照 10 万颗卫星的星座规模计算，太空轨道上将部署 10 万个 NVL72 机架。"
-      ],
-      "quote": {
-        "who": "NIK",
-        "role": "",
-        "said": "@aaronburnett 每个 Starlink V3 都会配备一台单独的 Starmind 服务器"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 71万 · 资本与算力] 刚刚，马斯克确认打造太空版NVL72！10万星链化身25GW轨道超算"
-    },
-    {
-      "title": "火力全开！Meta智能体Muse杀入Mac，Alexandr Wang放话绝不停歇",
-      "summary": "Meta 在消费级 AI 智能体赛道彻底踩下油门！负责人 Alexandr Wang 深夜发文直呼团队「火力全开」，并一口气甩出四大重磅更新：Muse 正式推出 Mac 版客户端、开放开发者平台，并新增了 Notion 和 Granola 连接器。目前服务已扩展至加拿大市场的 iOS 和 Web 端，安卓版也即将上线，这波高频迭代显然是冲着抢占打工人桌面去的。",
-      "reads": "49万",
-      "ago": "17 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Meta 智能体负责人 Alexandr Wang 发文称团队正在「憋大招」，直言「Muse 厨房火力全开」。",
-        "Muse 正式推出 Mac 版客户端，开始全面入侵苹果桌面生态。",
-        "服务版图进一步扩张，现已支持加拿大市场的 iOS 和 Web 端用户，Android 端确认即将上线。",
-        "生产力属性拉满，新增与 Granola 和 Notion 的连接器，直接打通主流工作流。"
-      ],
-      "quote": {
-        "who": "Chris",
-        "role": "",
-        "said": "我喜欢 Alexandr 的原因是，他给人的感觉就像是我们中的一员，说话方式和我们一样，而且总是引用转发社区的作品。 Meta 真的回来了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 49万 · 产品与生态] 火力全开！Meta智能体Muse杀入Mac，Alexandr Wang放话绝不停歇"
-    },
-    {
-      "title": "连跳两级！新一代Opus直奔5.5，Anthropic这波操作看傻网友",
-      "summary": "Anthropic 的旗舰模型命名突然不按套路出牌了。有圈内人爆料，正在灰度测试的新一代 Opus 节点，直接从 Opus 5.2 更名为了 Opus 5.5。在接连跳过 5.1 和 5.2 两个版本号后，这种非线性的狂飙被猜测是为了制造营销噱头，但也可能暗示着新模型将迎来史诗级的能力跃升。",
-      "reads": "3.5万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "有爆料者追踪发现，Anthropic 内部测试的 checkpoint 命名发生突变，Opus 5.2 已被更名为 Opus 5.5。",
-        "梳理版本迭代轨迹可知，Anthropic 先是跳过了 Opus 5.1，直接测试 5.2 节点。",
-        "如今 5.2 版本号也被官方直接跳过，新一代 Opus 的测试节点直奔 5.5。",
-        "爆料者推测，这种跳跃式的版本号命名法，很可能是 Anthropic 为了制造营销噱头而采取的策略。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "@JesusIsGod 😂😂😂😂😂😂😂😂😂😂 赞同。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 3.5万 · 模型与能力] 连跳两级！新一代Opus直奔5.5，Anthropic这波操作看傻网友"
+      "rank": 9,
+      "line": "[榜第9位 · 6.1万 · 模型与能力] 藏不住了！Claude新旗舰Opus 5.5泄露，代号曝光，价格直降5美元"
     },
     {
       "title": "终于说实话了！黄仁勋澄清关键误解：AI巨头不是要新监管，是想豁免现有法律",
       "summary": "黄仁勋在最新电视访谈中，直接驳斥了甚嚣尘上的「AI末日论」。他强调AI必须尽可能快地发展，只要每一步做好严格测试，速度与安全完全不冲突。最引人注目的是，他直接挑明了AI实验室的底牌：巨头们呼吁监管，其实不是想要新规，而是希望免受现有法律的约束。",
-      "reads": "7.1万",
-      "ago": "9 小时前",
+      "reads": "8.7万",
+      "ago": "14 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -379,33 +254,158 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 7.1万 · 政策与安全] 终于说实话了！黄仁勋澄清关键误解：AI巨头不是要新监管，是想豁免现有法律"
+      "rank": 10,
+      "line": "[榜第10位 · 8.7万 · 政策与安全] 终于说实话了！黄仁勋澄清关键误解：AI巨头不是要新监管，是想豁免现有法律"
     },
     {
-      "title": "底牌全漏了！GPT-6 Sol周二见，Gemini 4 Pro和Claude 5.2都在测",
-      "summary": "AI圈马上要迎来一场大乱斗了！有开发者一口气扒出了各大厂正在灰度测试和即将发布的新模型清单。不仅Anthropic的Sonnet、Opus和Fable 5.2全系在测，谷歌Gemini 4 Pro也露出了马脚。更刺激的是，奥特曼预告周二有大动作，疑似GPT-6 Sol即将空降，连Terra都在路由测试了，Grok 4.7和Kimi K3.1也全在路上。",
-      "reads": "21万",
-      "ago": "14 小时前",
+      "title": "「Astra只配打工！」开发者退回GPT-5.6 Sol，意外发现额度消耗狂飙",
+      "summary": "OpenAI的现役旗舰Astra遭遇口碑危机？一位开发者爆料称，在经历了一周的糟糕体验后，他已经彻底弃用Astra，转而退回主打性价比的GPT-5.6 Sol。在他看来，Astra更像是一个「打工人」和专家，而Sol在更高层面的统筹调度上表现得更好。不过他也发现了一个新问题：最近GPT-5.6 Sol的额度消耗似乎异常飙升，引发了社区对模型资源分配的关注。",
+      "reads": "1.1万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "一位开发者爆料，近期使用GPT-5.6 Sol时发现额度消耗出现显著增加。",
+        "该开发者明确表示已经弃用OpenAI现役旗舰模型Astra，原因是过去一周的体验「相当糟糕」。",
+        "在模型定位上，他认为Astra的表现更像是一个「打工人」或特定领域的专家。",
+        "相比之下，主打性价比的GPT-5.6 Sol在更高层面的推理和统筹调度（Orchestration）上表现更佳。"
+      ],
+      "quote": {
+        "who": "Kol Tregaskes",
+        "role": "",
+        "said": "是我的错觉吗，还是 GPT-5.6 Sol 现在也极其消耗额度！？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 1.1万 · 产品与生态] 「Astra只配打工！」开发者退回GPT-5.6 Sol，意外发现额度消耗狂飙"
+    },
+    {
+      "title": "「数学界前所未有的灾难」！OpenAI解开千禧年难题，顶尖学者崩溃了",
+      "summary": "OpenAI 成功解开千禧年大奖难题之一的纳维-斯托克斯方程，直接把法国顶尖数学家 Cédric Villani 搞崩溃了，直呼这是「数学界前所未有的灾难」。更刺激的是，据 The Information 报道，OpenAI 似乎已经逼近甚至解开了下一个千禧年难题。不过也有专家出面降温，认为 AI 目前可能只是在特定子问题上取得了重大进展，距离彻底通关通用方程还有距离。",
+      "reads": "10.0万",
+      "ago": "16 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "开发者最新爆料，AI行业正密集进行新一轮模型灰度测试，7款以上新模型即将登场。",
-        "Anthropic 5.2家族全面开测，包括Sonnet 5.2、Opus 5.2和Fable 5.2。",
-        "谷歌下一代大模型Gemini 4 Pro已被确认正在测试中。",
-        "OpenAI的Sam Altman和Tibo预告周二将有「大发布」，极大概率是GPT-6 Sol。"
+        "OpenAI 宣布解决千禧年大奖难题之一的纳维-斯托克斯方程，引发基础数学界强烈震动。",
+        "法国数学家 Cédric Villani 对此表示「崩溃」，形容当下的学术氛围如同「历史终结」。",
+        "Villani 悲观定性，称这次 AI 的突破是「数学界从未经历过的灾难」。",
+        "据 The Information 报道，OpenAI 的狂飙并未停止，可能已经接近或彻底解决了下一个千禧年大奖难题。"
       ],
       "quote": {
         "who": "Chubby♨️",
         "role": "",
-        "said": "@Xiliiiiiiiiiii1 它将永远留在我们心中"
+        "said": "@ElliotGlazer 谢谢 Elliot！我去看看"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 10.0万 · 模型与能力] 「数学界前所未有的灾难」！OpenAI解开千禧年难题，顶尖学者崩溃了"
+    },
+    {
+      "title": "连跳两级！新一代Opus直奔5.5，Anthropic这波操作看傻网友",
+      "summary": "Anthropic 的旗舰模型命名突然不按套路出牌了。有圈内人爆料，正在灰度测试的新一代 Opus 节点，直接从 Opus 5.2 更名为了 Opus 5.5。在接连跳过 5.1 和 5.2 两个版本号后，这种非线性的狂飙被猜测是为了制造营销噱头，但也可能暗示着新模型将迎来史诗级的能力跃升。",
+      "reads": "3.8万",
+      "ago": "12 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "有爆料者追踪发现，Anthropic 内部测试的 checkpoint 命名发生突变，Opus 5.2 已被更名为 Opus 5.5。",
+        "梳理版本迭代轨迹可知，Anthropic 先是跳过了 Opus 5.1，直接测试 5.2 节点。",
+        "如今 5.2 版本号也被官方直接跳过，新一代 Opus 的测试节点直奔 5.5。",
+        "爆料者推测，这种跳跃式的版本号命名法，很可能是 Anthropic 为了制造营销噱头而采取的策略。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "@JesusIsGod 😂😂😂😂😂😂😂😂😂😂 赞同。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 3.8万 · 模型与能力] 连跳两级！新一代Opus直奔5.5，Anthropic这波操作看傻网友"
+    },
+    {
+      "title": "瞒天过海！Opus 5.2伪装成旧版灰度测试，Fable 5.2纯JS代码一把过",
+      "summary": "Anthropic 正在悄悄给旗舰模型换代！有开发者爆料，Fable 5.2 仅凭零提示就能一次成型写出包含 18 种动物交互的纯 JS 网页，代码保真度极其惊人。更重磅的是，新一代 Opus 5.2 目前正伪装成旧版 Opus 5 的入口进行灰度测试。这意味着，许多依赖 Claude Code 的程序员，现在调用的可能已经是性能更强的未命名新版本。",
+      "reads": "12万",
+      "ago": "20 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "开发者爆料 Fable 5.2 代码生成能力惊人，纯 JS 编写网页实现「一把过」。",
+        "在零额外提示的情况下，Fable 5.2 成功生成包含 18 种不同动物头像及专属零食的精美界面。",
+        "网页底部还自带 Boop、Pet 等互动按钮，展现了极高的代码高保真度和细节还原能力。",
+        "爆料同时指出，新一代 Opus 5.2 正在通过现役旧版 Opus 5 的入口进行灰度测试。"
+      ],
+      "quote": {
+        "who": "J A Z I I",
+        "role": "",
+        "said": "@chetaslua 兄弟，求提示词 我想用 Astra 和 Kimi 试试"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 12万 · 模型与能力] 瞒天过海！Opus 5.2伪装成旧版灰度测试，Fable 5.2纯JS代码一把过"
+    },
+    {
+      "title": "糟糕，大模型长任务死穴曝光！不是幻觉和报错，语言漂移让多智能体审查全线溃败",
+      "summary": "跑长时间的智能体任务，最让人头疼的居然不是代码报错或幻觉，而是大模型的「语言漂移」。知名 AI 评论人 Ethan Mollick 吐槽，随着任务推进，模型的表达质量会直线下降。更绝望的是，哪怕用上了 voice.md 文件、多智能体交叉审查、同家族不同模型轮番把关等复杂工程手段，依然无法阻止这种退化。单纯的提示词优化，这次真的到瓶颈了。",
+      "reads": "2.8万",
+      "ago": "11 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "知名 AI 评论人 Ethan Mollick 指出，大语言模型在执行长时间智能体任务时存在致命缺陷。",
+        "当前最烦人的问题已不再是代码错误或幻觉，而是随着任务推进必然出现的「语言漂移」现象。",
+        "模型的表达质量会随着任务时间的拉长而逐渐下降，出现逻辑正确但行文越来越糟的窘境。",
+        "开发者尝试引入 voice.md 风格文件来规范输出，但未能从根本上解决该问题。"
+      ],
+      "quote": {
+        "who": "Ethan Mollick",
+        "role": "",
+        "said": "是的，我有 voice.md 文件。是的，我安排了 AI 智能体作为读者做最后的把关。是的，我还有其他 AI 智能体专门去排查大语言模型的行文痕迹。是的，我用了同一个模型家族里不同模型、用不同方法去检查面向用户的文本。但这依然不够。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 2.8万 · 模型与能力] 糟糕，大模型长任务死穴曝光！不是幻觉和报错，语言漂移让多智能体审查全线溃败"
+    },
+    {
+      "title": "30个GPU年算力压缩至10天！AI用消费级显卡击穿RSA-896，传统密码学悬了",
+      "summary": "传统密码学的防线正在被AI疯狂撕裂。最近，AI辅助下的因式分解记录在短短16天内从829位直接跃升至RSA-896位。更离谱的是，原本需要30个GPU年的庞大算力，被硬生生压缩到了不到10天，而且全程只靠消费级算力就搞定了。这直接把大数分解的技术和经济门槛打了下来，基于计算复杂度的加密假设正面临前所未有的压力测试。",
+      "reads": "16万",
+      "ago": "23 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "AI辅助下的因式分解记录实现重大突破，短短16天内从829位跃升至RSA-896位。",
+        "爆料者指出，这一过程将原本需要30个GPU年的算力，惊人地压缩到了不到10天内完成。",
+        "最具颠覆性的是，此次破译完全依赖消费级算力实现，根本没有动用昂贵的专用计算集群。",
+        "这一突破标志着大数分解在经济成本和技术门槛上发生了根本性的变化。"
+      ],
+      "quote": {
+        "who": "Chris",
+        "role": "",
+        "said": "@Alex90283054431 而且是消费级算力做到的 🥲"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 21万 · 模型与能力] 底牌全漏了！GPT-6 Sol周二见，Gemini 4 Pro和Claude 5.2都在测"
+      "line": "[榜第16位 · 16万 · 模型与能力] 30个GPU年算力压缩至10天！AI用消费级显卡击穿RSA-896，传统密码学悬了"
     }
   ],
   "board_count": 16,

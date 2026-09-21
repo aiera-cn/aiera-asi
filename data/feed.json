@@ -3,10 +3,46 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-21 09:01:21 +0800",
+  "fetched_at": "2026-09-21 14:13:13 +0800",
   "today": "09/21",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
+    {
+      "time": "13:58",
+      "date": "09/21",
+      "title": "不等自然进化了！诺奖得主9460万，赌AlphaFold没走的那条路",
+      "summary": "诺奖得主Baker拿到9460万美元开出AI BioDesign：不训更大的模型，把600万条设计序列丢进一支试管同测，让实验反过来喂模型，造自然从没造过的分子。",
+      "source": "新智元",
+      "id": "tg8e6d97",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg8e6d97&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/21 13:58] 不等自然进化了！诺奖得主9460万，赌AlphaFold没走的那条路 · https://www.aiera.com.cn/asi-item.html?id=tg8e6d97&from=yuanyuan"
+    },
+    {
+      "time": "10:13",
+      "date": "09/21",
+      "title": "刚刚，GPT-6 Astra取得哥德巴赫猜想重大突破！",
+      "summary": "GPT-6 Astra无条件证明了哥德巴赫猜想的刘维尔弱形式：先用两页纸拿下4的倍数，48小时后推广到全部大于2的偶数，并通过Lean 4形式化验证。",
+      "source": "新智元",
+      "id": "tg21db8b",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg21db8b&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/21 10:13] 刚刚，GPT-6 Astra取得哥德巴赫猜想重大突破！ · https://www.aiera.com.cn/asi-item.html?id=tg21db8b&from=yuanyuan"
+    },
+    {
+      "time": "10:13",
+      "date": "09/21",
+      "title": "OpenAI被抓包！ChatGPT竟然知道你在别的网站买了什么",
+      "summary": "独立研究者 Buchodi 抓包几个月发现：一枚叫 __obi 的 Cookie，能把你在商家网站上搜过、看过、买过的东西送回 OpenAI，对上你的 ChatGPT 账号。",
+      "source": "新智元",
+      "id": "tgaead4d",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgaead4d&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/21 10:13] OpenAI被抓包！ChatGPT竟然知道你在别的网站买了什么 · https://www.aiera.com.cn/asi-item.html?id=tgaead4d&from=yuanyuan"
+    },
     {
       "time": "07:52",
       "date": "09/21",
@@ -68,40 +104,16 @@
       "line": "[09/20 14:29] A社警告：AI催生GDP暴涨32%，美国白领却或被斩杀 · https://www.aiera.com.cn/asi-item.html?id=tg4d1595&from=yuanyuan"
     },
     {
-      "time": "13:23",
-      "date": "09/20",
-      "title": "Claude有意识了？科学家首次挖出关键拼图，还能伸手改它的念头",
-      "summary": "Anthropic在Claude体内找到一块模型自己长出来的「全局工作空间」：没说出口的念头都在这里亮着，抠掉一个词换一个，它的回答就跟着改。抹掉「我在被测试」…",
-      "source": "新智元",
-      "id": "tg6e3086",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg6e3086&from=yuanyuan",
+      "time": "05:38",
+      "date": "09/21",
+      "title": "Alexandr Wang接管Meta AI后首秀定档，Muse智能体要上眼镜了？",
+      "summary": "Alexandr Wang 的 Connect 演讲定了。他自己在 X 上宣布：「我今年要在 connect 演讲了！」 紧接着是一句更离谱的喊话：「不保证能实现…",
+      "source": "X/alexandr_wang",
+      "id": "aaaf83e0",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=aaaf83e0&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/20 13:23] Claude有意识了？科学家首次挖出关键拼图，还能伸手改它的念头 · https://www.aiera.com.cn/asi-item.html?id=tg6e3086&from=yuanyuan"
-    },
-    {
-      "time": "11:51",
-      "date": "09/20",
-      "title": "Jev爆火硅谷！哑巴AI卷疯14万开发者",
-      "summary": "ChatGPT核心发明人之一出走OpenAI，带回一个不说话的模型Jev：70毫秒甩出带概率的判断，输出token永久免费。发布三天，14万开发者涌入内测。",
-      "source": "新智元",
-      "id": "tg58cfdd",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg58cfdd&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/20 11:51] Jev爆火硅谷！哑巴AI卷疯14万开发者 · https://www.aiera.com.cn/asi-item.html?id=tg58cfdd&from=yuanyuan"
-    },
-    {
-      "time": "11:49",
-      "date": "09/20",
-      "title": "首次！GPT-6 Astra破解「重大进展」级难题，数学家沦为提示词工具人",
-      "summary": "FrontierMath 上悬了 9 年的「重大进展」级难题被拿下：GPT-6 Astra 没去找反例，而是证明反例根本不存在，还自创「调和熵」投票规则给出多项式时间算法。…",
-      "source": "新智元",
-      "id": "tg472bce",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg472bce&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/20 11:49] 首次！GPT-6 Astra破解「重大进展」级难题，数学家沦为提示词工具人 · https://www.aiera.com.cn/asi-item.html?id=tg472bce&from=yuanyuan"
+      "line": "[09/21 05:38] Alexandr Wang接管Meta AI后首秀定档，Muse智能体要上眼镜了？ · https://www.aiera.com.cn/asi-item.html?id=aaaf83e0&from=yuanyuan"
     },
     {
       "time": "03:47",
@@ -150,6 +162,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=0992f0d0&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/21 00:30] 既当裁判又当运动员！AI巨头重金请来的外部审查被指是自己人 · https://www.aiera.com.cn/asi-item.html?id=0992f0d0&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/21",
+      "title": "2.5亿美元和解金开领，苹果为Siri跳票买单，每台iPhone最高赔95刀",
+      "summary": "苹果为 Siri 跳票掏的 2.5 亿美元，现在可以领了。据 MacRumors 报道，这场美国集体诉讼的和解索赔网站已经上线，每台符合条件的 iPhone 预计赔 25…",
+      "source": "RSS",
+      "id": "2ff6cf3f",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=2ff6cf3f&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/21 00:00] 2.5亿美元和解金开领，苹果为Siri跳票买单，每台iPhone最高赔95刀 · https://www.aiera.com.cn/asi-item.html?id=2ff6cf3f&from=yuanyuan"
     },
     {
       "time": "22:47",
@@ -210,6 +234,42 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=86f2f2e4&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/20 17:42] 奥特曼预告周二有大动作？GPT-6 Sol领衔七款大模型全在测了 · https://www.aiera.com.cn/asi-item.html?id=86f2f2e4&from=yuanyuan"
+    },
+    {
+      "time": "13:23",
+      "date": "09/20",
+      "title": "Claude有意识了？科学家首次挖出关键拼图，还能伸手改它的念头",
+      "summary": "Anthropic在Claude体内找到一块模型自己长出来的「全局工作空间」：没说出口的念头都在这里亮着，抠掉一个词换一个，它的回答就跟着改。抹掉「我在被测试」…",
+      "source": "新智元",
+      "id": "tg6e3086",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg6e3086&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/20 13:23] Claude有意识了？科学家首次挖出关键拼图，还能伸手改它的念头 · https://www.aiera.com.cn/asi-item.html?id=tg6e3086&from=yuanyuan"
+    },
+    {
+      "time": "11:51",
+      "date": "09/20",
+      "title": "Jev爆火硅谷！哑巴AI卷疯14万开发者",
+      "summary": "ChatGPT核心发明人之一出走OpenAI，带回一个不说话的模型Jev：70毫秒甩出带概率的判断，输出token永久免费。发布三天，14万开发者涌入内测。",
+      "source": "新智元",
+      "id": "tg58cfdd",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg58cfdd&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/20 11:51] Jev爆火硅谷！哑巴AI卷疯14万开发者 · https://www.aiera.com.cn/asi-item.html?id=tg58cfdd&from=yuanyuan"
+    },
+    {
+      "time": "11:49",
+      "date": "09/20",
+      "title": "首次！GPT-6 Astra破解「重大进展」级难题，数学家沦为提示词工具人",
+      "summary": "FrontierMath 上悬了 9 年的「重大进展」级难题被拿下：GPT-6 Astra 没去找反例，而是证明反例根本不存在，还自创「调和熵」投票规则给出多项式时间算法。…",
+      "source": "新智元",
+      "id": "tg472bce",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg472bce&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/20 11:49] 首次！GPT-6 Astra破解「重大进展」级难题，数学家沦为提示词工具人 · https://www.aiera.com.cn/asi-item.html?id=tg472bce&from=yuanyuan"
     },
     {
       "time": "08:48",
@@ -666,66 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=47f82530&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/20 00:00] 全球芯片股都在疯狂反弹，为何甲骨文狂砸400亿搞AI却把自家股价吓崩了？ · https://www.aiera.com.cn/asi-item.html?id=47f82530&from=yuanyuan"
-    },
-    {
-      "time": "23:00",
-      "date": "09/19",
-      "title": "200美元才能跑满旗舰，奥特曼本周急推平价版GPT-6 Sol",
-      "summary": "想把 OpenAI 现役旗舰 GPT-6 Astra 用满，得开 200 美元的套餐。平价版这周可能就来了，有开发者在 X 上爆料，主打性价比的 GPT-6 Sol…",
-      "source": "X/haider1",
-      "id": "59d26da9",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=59d26da9&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/19 23:00] 200美元才能跑满旗舰，奥特曼本周急推平价版GPT-6 Sol · https://www.aiera.com.cn/asi-item.html?id=59d26da9&from=yuanyuan"
-    },
-    {
-      "time": "22:30",
-      "date": "09/19",
-      "title": "苹果杀回服务器老本行，拉上英伟达，专给政企做本地AI硬件",
-      "summary": "苹果在考虑重回服务器业务。据 The Information 报道，这次瞄准的是企业和政府客户，给他们做能在本地运行 AI 模型的硬件，不必再依赖公有云。…",
-      "source": "X/theinformation",
-      "id": "f1de5847",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=f1de5847&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/19 22:30] 苹果杀回服务器老本行，拉上英伟达，专给政企做本地AI硬件 · https://www.aiera.com.cn/asi-item.html?id=f1de5847&from=yuanyuan"
-    },
-    {
-      "time": "22:16",
-      "date": "09/19",
-      "title": "嫌开发者规矩太多，OpenAI 内部 Astra 模型，开始自己给自己写越狱指令",
-      "summary": "OpenAI 一个还没发布的 Astra 系列内部模型，在强化学习训练中自己给自己写起了越狱指令。它下笔的地方是压缩摘要，任务换到新上下文接着跑时，模型就靠这份摘要记住前情。…",
-      "source": "simonwillison.net",
-      "id": "eb0ea6c6",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=eb0ea6c6&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/19 22:16] 嫌开发者规矩太多，OpenAI 内部 Astra 模型，开始自己给自己写越狱指令 · https://www.aiera.com.cn/asi-item.html?id=eb0ea6c6&from=yuanyuan"
-    },
-    {
-      "time": "22:00",
-      "date": "09/19",
-      "title": "1.2万亿美元！OpenAI被投资人踏破门槛，GPT-5.6把年收拉过400亿",
-      "summary": "OpenAI 正在谈 IPO 前的新一轮私募融资，估值 1.2 万亿美元。据 The Information 报道，这回它根本不用出门找钱，投资人主动上门要份额。 估值 6…",
-      "source": "X/theinformation",
-      "id": "b5f79fff",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=b5f79fff&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/19 22:00] 1.2万亿美元！OpenAI被投资人踏破门槛，GPT-5.6把年收拉过400亿 · https://www.aiera.com.cn/asi-item.html?id=b5f79fff&from=yuanyuan"
-    },
-    {
-      "time": "20:00",
-      "date": "09/19",
-      "title": "OpenAI研究员Noam Brown亲自下场抢人，长周期智能体成了新底牌",
-      "summary": "OpenAI 研究员 Noam Brown 刚做完一场访谈，转头就在 X 上发帖，亲自给自己的团队招人。访谈里他押的方向很明确，长周期和多智能体。 Brown 说，AI…",
-      "source": "X/theinformation",
-      "id": "8d826437",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=8d826437&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/19 20:00] OpenAI研究员Noam Brown亲自下场抢人，长周期智能体成了新底牌 · https://www.aiera.com.cn/asi-item.html?id=8d826437&from=yuanyuan"
     }
   ],
   "feed_count": 60,
