@@ -3,115 +3,140 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-22 03:19:52 +0800",
+  "fetched_at": "2026-09-22 07:13:22 +0800",
   "today": "09/22",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "连夜上新！马斯克版o1正式发布，Grok 4.7学会慢思考，英伟达高调站台",
-      "summary": "马斯克深夜突然放出大招，正式发布主打高性价比的 Grok 4.7。这款新模型学会了「慢思考」，在处理复杂任务时会花更多时间仔细检查，并配备了 xAI 迄今最强的安全防护。英伟达官方也第一时间站台，确认提供加速计算支持，并称其为 xAI 在代码和知识工作领域的最强模型。",
-      "reads": "641万",
-      "ago": "1 小时前",
+      "title": "突发！马斯克甩出Grok 4.7，加量不加价，法律能力暴打GPT-5.6 Sol",
+      "summary": "马斯克心心念念的 Grok 4.7 终于正式上线了！这次主打一个加量不加价，不仅维持了上一代 4.6 的速度和成本，还在长周期 Agent 任务上迎来了史诗级加强。最离谱的是法律能力，Grok 4.7 直接飙到了 19.6%，把只有 2.5% 的 GPT-5.6 Sol 按在地上摩擦。虽然有爆料者吐槽它疯狂吞噬 2.5 倍 Token，但看在首周半价促销的份上，这性价比依然让不…",
+      "reads": "4992万",
+      "ago": "52 分钟前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "xAI 正式发布全新模型 Grok 4.7，马斯克称其为智能、速度与低成本的强力结合。",
-        "新模型在处理困难任务时耗时更长且检查更仔细，引入了类似 o1 的思考机制。",
-        "Grok 4.7 配备了 xAI 迄今为止最强大的安全防护措施。",
-        "英伟达官方发文祝贺，确认使用 NVIDIA 加速计算为该团队提供支持。"
+        "SpaceXAI 正式发布 Grok 4.7，马斯克发文力挺，称其是「智能、速度与低成本的强力结合」，英伟达官方也第一时间送上祝贺。",
+        "定价与速度保持不变：Grok 4.7 维持了与上一代 4.6 完全相同的价格和推理速度，且首周在 Nous Portal 的 Hermes Agent 中提…",
+        "代码能力跻身第一梯队：在 AA Coding Index 榜单中，Grok 4.7 排名全球第四，仅次于现役旗舰 Fable 5.1、GPT-6 Astra…",
+        "法律与终端任务暴涨：Harvey Legal Benchmark 得分达 19.6%，碾压 GPT-5.6 Sol Max（2.5%）和 Fable 5.1…"
       ],
       "quote": {
-        "who": "Elon Musk",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "🚀"
+        "said": "靠，我来晚了。飞机刚落地旧金山：Grok 4.7 看起来太惊艳了！ 它不仅能和 SOTA 竞争，甚至在一些基准测试中超越了 Fable 5.1，而且比 GPT 和 Fable 5.1 便宜得多！ 干得漂亮 spaceX！！晚点我再多写点相关的"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 641万 · 模型与能力] 连夜上新！马斯克版o1正式发布，Grok 4.7学会慢思考，英伟达高调站台"
+      "line": "[榜第1位 · 4992万 · 模型与能力] 突发！马斯克甩出Grok 4.7，加量不加价，法律能力暴打GPT-5.6 Sol"
     },
     {
-      "title": "刚刚，Grok 4.7杀入全球前四！编程能力反超GPT-5.6，马斯克：日常干活首选",
-      "summary": "马斯克旗下 xAI 正式推出 Grok 4.7，凭借 46 分的智力得分将公司送入全球四大 AI 实验室之列。新版本在编程智能体榜单上成功反超 OpenAI 的 GPT-5.6 Sol，长文本输出速度飙升至 188 Token/秒。马斯克直言，凭借极高的速度和性价比，Grok 4.7 已经成为打工人日常干活的绝佳主力。",
-      "reads": "344万",
-      "ago": "1 小时前",
+      "title": "马斯克深夜突袭！Grok 4.7硬刚GPT-5.6 Sol，SpaceXAI杀入全球前四",
+      "summary": "马斯克带着 Grok 4.7 杀回了第一梯队！独立评测显示，新模型在智能体编程上成功超越 GPT-5.6 Sol，将 SpaceXAI 直接送入全球前四大 AI 实验室行列。虽然单任务消耗 8.1 万 Token 比 Astra 高出不少，但凭借 188 Token/秒的极速输出和更低的成本，马斯克直言它就是「日常干活的绝佳主力」。",
+      "reads": "1772万",
+      "ago": "3 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "智力得分跃升：Grok 4.7 在 Artificial Analysis 智力指数上获得 46 分，比上一代 Grok 4.6 提升 2 分，助力 Spa…",
-        "编程能力反超：在 Coding Agent Index 中，搭载 Grok 4.7 的版本得分 56，成功超越 OpenAI 的现役性价比模型 GPT-5.…",
-        "逼近最强王者：在评估真实专业工作任务的 AA-Briefcase 榜单上，Grok 4.7 斩获 1657 分，仅次于 Anthropic 的 Claude…",
-        "极致输出速度：面对长提示词，Grok 4.7 的回答输出速度高达 188 Token/秒，完成单个智力测试任务平均耗时约 7.1 分钟。"
+        "独立评测机构数据显示，Grok 4.7 在 Intelligence Index 上得分 46，比上一代 Grok 4.6 提高 2 分，正式将 Space…",
+        "智能体编程能力显著提升，Grok 4.7 在 Coding Agent Index 上得分 56，成功超越 OpenAI 的 GPT-5.6 Sol，目前仅…",
+        "真实专业工作任务表现亮眼，Grok 4.7 在 AA-Briefcase 评估中斩获 1657 分，比 Grok 4.6 暴涨 111 分，紧追 Claud…",
+        "性能提升伴随 Token 消耗翻倍，Grok 4.7 单任务需消耗 8.1 万输出 Token，远高于 GPT-6 Astra 的 2.7 万和 Muse…"
       ],
       "quote": {
-        "who": "Elon Musk",
+        "who": "Milk Road AI",
         "role": "",
-        "said": "在 AI 智能体编程方面，Grok 4.7 让 @SpaceXAI 排名第三，仅次于 Anthropic 和 OpenAI。 考虑到 Grok 速度快得多且成本更低，它是你日常干活主力的绝佳选择。"
+        "said": "Grok 4.7 刚刚把 SpaceXAI 推入了全球前四大 AI 实验室的行列。 这个新模型在独立的 Artificial Analysis Intelligence Index 上拿到了 46 分，比 Grok 4.6 高了两分。这依然让 Grok 落后于 OpenAI 和 Anthropic 最强大的模型，"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 344万 · 模型与能力] 刚刚，Grok 4.7杀入全球前四！编程能力反超GPT-5.6，马斯克：日常干活首选"
+      "line": "[榜第2位 · 1772万 · 模型与能力] 马斯克深夜突袭！Grok 4.7硬刚GPT-5.6 Sol，SpaceXAI杀入全球前四"
     },
     {
-      "title": "6个月从1%飙到26%！Claude接管大厂研发，OpenAI被曝已用AI造AI",
-      "summary": "闭源大厂正在用 AI 疯狂加速迭代，开源社区要彻底追不上了。据爆料，OpenAI 内部已经实现用 AI 模型来构建和训练新实验性模型，连写 GPU 内核和优化代码都能全自动搞定。无独有偶，Anthropic 上周的报告也显示，Claude 目前已经接管了高达 26% 的模型研发工作，而半年前这个数字还仅仅是 1%。AI 自己造 AI 的时代，真的来了。",
-      "reads": "20万",
-      "ago": "2 小时前",
+      "title": "突发！OpenAI内部模型Bel攻破NS方程，88小时狂烧1300亿token",
+      "summary": "OpenAI 彻底把数学界颠覆了！据爆料，其 8 月 28 日开训的内部模型 Bel 性能远超现役旗舰 GPT-6 Astra，仅用 88 小时、消耗约 1300 亿 token 就攻克了纳维-斯托克斯（NS）千禧年大奖难题，并顺手解决了 100 多个长期未解的数学开放问题。由于进度太快连内部都感到震惊，OpenAI 紧急拉来陶哲轩、爱德华·威滕等顶尖学者成立独立顾问团，陶哲轩…",
+      "reads": "212万",
+      "ago": "1 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "媒体爆料称，OpenAI 已经在很大程度上实现了新实验性 AI 模型训练的自动化。",
-        "OpenAI 内部的 AI 模型现在可以处理构建和训练新模型的大部分流程，甚至包括编写 GPU 内核和优化运行代码。",
-        "这一进展与 Anthropic 上周发布的报告趋势高度一致，前沿大厂都在利用 AI 加速研发。",
-        "数据显示，Anthropic 内部高达 26% 的模型开发工作现在几乎完全由 Claude 独立完成。"
+        "OpenAI 官方宣布成立由顶尖数学家组成的独立顾问小组，成员包括陶哲轩（Terence Tao）和爱德华·威滕（Edward Witten）等学术巨擘。",
+        "顾问团旨在帮助 OpenAI 评估新数学成果的重要性，协调发布节奏，以负责任的方式分享 AI 在数学领域的颠覆性进展。",
+        "据爆料，引发此次震动的是 OpenAI 于 8 月 28 日开始训练的内部未发布模型 Bel，其性能已远远超过现役旗舰 GPT-6 Astra。",
+        "Bel 模型成功解决了克雷数学研究所悬赏的纳维-斯托克斯（Navier-Stokes）千禧年大奖难题，仅此一题就动用了约 1 万个 Agent 并行计算，耗…"
       ],
       "quote": {
-        "who": "Andrew Curran",
+        "who": "Ethan Mollick",
         "role": "",
-        "said": "@smchatter1 差距在拉大，而不是缩小。不是因为开源变慢了，他们没有，只是闭源实验室现在加速超越了他们。"
+        "said": "@jdeely 不，这就是那句话的原因"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 20万 · 模型与能力] 6个月从1%飙到26%！Claude接管大厂研发，OpenAI被曝已用AI造AI"
+      "line": "[榜第3位 · 212万 · 模型与能力] 突发！OpenAI内部模型Bel攻破NS方程，88小时狂烧1300亿token"
     },
     {
-      "title": "糟糕，Gemini 4 Pro未发先败？谷歌大佬深夜感慨失败，全网吃瓜看戏",
-      "summary": "谷歌核心研究员Logan Kilpatrick深夜发了句「注定会失败」的鸡汤，结果直接把全网带偏了。有KOL和爆料者借题发挥，猜测谷歌放弃与OpenAI和Anthropic拼算力，甚至造谣Gemini 4 Pro未发先败。虽然爆料人随后承认是开玩笑，Logan本人也无奈澄清这只是生活常识，但这波乌龙着实暴露了当前大模型竞赛下，外界对顶级实验室一举一动的极度敏感。",
-      "reads": "39万",
-      "ago": "3 小时前",
-      "category": "组织与人事",
+      "title": "人类真悬了，OpenAI让AI自己造模型！手撕GPU内核，连破100多道数学难题",
+      "summary": "AI 研发正式进入「套娃」时代。据爆料，OpenAI 内部模型已经能全自动处理新模型的构建和训练，甚至能手撕 GPU 内核代码。隔壁 Anthropic 同样进展神速，Claude 目前已接管 26% 的研发工作，而半年前仅为 1%，其 Mythos 模型早在 2 月 24 日就完成了后训练。此外，OpenAI 今早官宣，此前卷入纳维-斯托克斯风波的未命名内部模型，已经解决了…",
+      "reads": "38万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "谷歌研究员Logan Kilpatrick在社交平台上发文感慨：「你注定会失败，所以不如在放手一搏中失败」。",
-        "这句鸡汤引发全网过度解读，有KOL认为这暗示谷歌更愿意让OpenAI和Anthropic去争夺原始性能榜首，自己则专注日常任务。",
-        "该KOL还指出，考虑到近期的泄密事件，Gemini 4无疑是谷歌的一大赌注。",
-        "有爆料者甚至借此开玩笑，称Logan在Gemini 4 Pro发布前就已经承认它是个失败之作，引发网友围观。"
+        "OpenAI 内部 AI 模型已实现新实验模型训练的高度自动化，能够自主编写 GPU 内核并优化运行代码。",
+        "Anthropic 研发自动化提速惊人，目前 26% 的模型开发几乎完全由 Claude 完成，而六个月前该比例仅为 1%。",
+        "闭源实验室正加速拉开与开源社区的差距，Anthropic 的 Mythos 早在 2 月 24 日就完成了后训练，开源界大半年仍未追平。",
+        "OpenAI 今早正式宣布，其与纳维-斯托克斯（Navier-Stokes）相关的未命名内部模型，已成功解决涵盖多数数学领域的 100 多个长期未解难题。"
       ],
       "quote": {
-        "who": "Logan Kilpatrick",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "@s_batzoglou 并不神秘，这就是生活的事实，无论你有多好、做什么等等，你都会失败。 所以不如在一段重要的旅程中失败！"
+        "said": "@philipwalford 你会建议他们把一生花在什么事情上，而这件事又不会很快被其他模型迅速解决呢？这是个陷阱问题，根本没有这样的领域，也没有这样的职业。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 39万 · 组织与人事] 糟糕，Gemini 4 Pro未发先败？谷歌大佬深夜感慨失败，全网吃瓜看戏"
+      "line": "[榜第4位 · 38万 · 模型与能力] 人类真悬了，OpenAI让AI自己造模型！手撕GPU内核，连破100多道数学难题"
+    },
+    {
+      "title": "破案了！Meta没套壳OpenClaw，高管自曝曾买几百台Mac mini让员工取经",
+      "summary": "针对网传「Meta使用OpenClaw」的乌龙事件，开发者亲自出面辟谣了。Meta高管Nat Friedman证实，团队其实是从头构建了自研智能体Muse，但确实深受OpenClaw启发。为了让员工体验，他甚至在一月份一口气买了几百台Mac mini，这波属实是把开源生态的排面拉满了。",
+      "reads": "19万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "针对近期「Meta使用OpenClaw」的传闻，OpenClaw开发者出面澄清，表示Meta实际上是受启发构建了自研智能体。",
+        "Meta高管Nat Friedman亲自下场证实，团队是从头开始构建了名为Muse的AI智能体。",
+        "Nat Friedman坦言，Muse作为一个产品，绝对深受了OpenClaw的启发。",
+        "为了让MSL团队体验个人AI智能体，Nat Friedman在一月份曾购买了数百台Mac mini供员工使用。"
+      ],
+      "quote": {
+        "who": "Peter Steinberger 🦞",
+        "role": "",
+        "said": "@SOS_helpers 卧槽，太牛了！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 19万 · 产品与生态] 破案了！Meta没套壳OpenClaw，高管自曝曾买几百台Mac mini让员工取经"
     },
     {
       "title": "仅得26%分！马斯克Grok 4.7发布即翻车，遭GPT-5.1无情碾压",
       "summary": "马斯克旗下的 Grok 4.7 终于正式发布，但结果却让人大跌眼镜。在最新的 Terminal-Bench 4.0 核心基准测试中，其 high 配置版本仅仅拿到了 26% 的惨淡分数，排名严重靠后。面对榜首的 GPT-5.1 和 Claude 系列模型，这次的新版本不仅没能展现出任何竞争优势，甚至被爆料人无情嘲讽「相当糟糕，祝下次好运」。",
-      "reads": "15万",
-      "ago": "2 小时前",
+      "reads": "27万",
+      "ago": "6 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -129,64 +154,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 15万 · 模型与能力] 仅得26%分！马斯克Grok 4.7发布即翻车，遭GPT-5.1无情碾压"
-    },
-    {
-      "title": "智能便宜到无需计量！GPT-6廉价版Luna周二空降，OpenAI员工深夜明牌",
-      "summary": "OpenAI 员工深夜在 X 上疯狂暗示，本周二凌晨三点将有大动作。结合内部人士「伴随额度重置」和「智能便宜到无需计量」的口风，爆料者推测，GPT-6 的廉价版模型 Luna 即将空降。这场大模型价格战，看来又要被 OpenAI 卷出新高度了。",
-      "reads": "122万",
-      "ago": "10 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 研究员在 X 上回复网友，明确给出「周二凌晨三点」的时间节点。",
-        "另一位内部员工发帖暗示新动作，称未来的「智能将便宜到无需计量」。",
-        "综合多方内部口风，圈内爆料者推测周二的发布将包含全新的 GPT-6 Luna 模型。",
-        "此次更新预计将伴随一次系统级的「额度重置」，暗示新模型将提供更高的使用额度或更低的成本。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "好吧，Tibo，我们懂了。“周二很可能会发布新东西并伴随一次重置”，再加上另一位员工那条含糊其辞的“智能便宜到无需计量”的帖子，我估计 GPT-6 Luna 也会是这波发布的一部分。 我唯一的问题是，我到现在还没拿到访问权限"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 122万 · 模型与能力] 智能便宜到无需计量！GPT-6廉价版Luna周二空降，OpenAI员工深夜明牌"
+      "line": "[榜第6位 · 27万 · 模型与能力] 仅得26%分！马斯克Grok 4.7发布即翻车，遭GPT-5.1无情碾压"
     },
     {
-      "title": "OpenAI突然摇人！官宣组建独立数学家顾问团，专门评估AI数学新成果",
-      "summary": "OpenAI 在搞数学这件事上越来越严谨了。官方宣布正在与一个由数学家组成的独立顾问小组合作，专门负责评估和交流 AI 在数学领域的新成果。这个团队不仅要帮 OpenAI 维护学术标准，还会协助构建相关工具，确保未来的 AI 数学进展能被负责任地分享。",
-      "reads": "3.5万",
-      "ago": "43 分钟前",
-      "category": "组织与人事",
+      "title": "开发者正疯狂逃离闭源！AI代码能力卡死在Opus 4.8，便宜50倍的开源彻底香了",
+      "summary": "闭源大模型在写代码这件事上，似乎真的遇到瓶颈了。有研究员指出，自从 Opus 4.8 发布以来，前沿模型的代码能力就再没出现过巨大飞跃，虽然已经达到多数程序员的水平，但面对每秒 10 亿 Token 的复杂推理系统依然会卡壳。与此同时，成本低了 10 到 50 倍的开源模型正在迅速缩小差距，直接引发了一场开发者从闭源向开源的大规模迁徙。",
+      "reads": "17万",
+      "ago": "5 小时前",
+      "category": "中国与开源",
       "source": "新智元",
       "bullets": [
-        "OpenAI 官方宣布成立一个由数学家组成的独立顾问小组。",
-        "该小组的核心目标是帮助 OpenAI 负责任地分享 AI 和数学领域的最新进展。",
-        "顾问团将直接参与评估和交流 OpenAI 产生的新数学成果。",
-        "小组还将负责监督和维护相关的学术与专业标准，确保研究的严谨性。"
+        "业内研究员指出，前沿大语言模型的写代码能力已遭遇瓶颈，自 Opus 4.8 以来未见巨大飞跃。",
+        "开源模型正在不断缩小与前沿闭源模型的差距，且使用成本比闭源模型低 10 到 50 倍。",
+        "极端的性价比差异，正促使开发者群体大规模从闭源模型转向开源生态。",
+        "业内达成共识：当前的 AI 已经达到了大多数程序员的技能水平。"
       ],
       "quote": {
-        "who": "OpenAI",
+        "who": "Yuchen Jin",
         "role": "",
-        "said": "我们正在与一个由数学家组成的独立顾问小组合作，以帮助 OpenAI 负责任地分享 AI 和数学领域的进展。 该小组将就我们如何评估和交流新的数学成果、维护学术和专业标准，以及构建工具来"
+        "said": "别误会，写代码/工程问题还远未解决。 天花板依然很高。但今天的大语言模型在复杂系统上还是会卡壳，比如构建一个能在新型云上安全提供 10 亿 Token/秒的可扩展推理系统。 你不可能用一个提示词就把它建出来。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 3.5万 · 组织与人事] OpenAI突然摇人！官宣组建独立数学家顾问团，专门评估AI数学新成果"
+      "line": "[榜第7位 · 17万 · 中国与开源] 开发者正疯狂逃离闭源！AI代码能力卡死在Opus 4.8，便宜50倍的开源彻底香了"
     },
     {
       "title": "变身私人财务管家！ChatGPT直接能查信用分了，租房还卡AI全包了",
       "summary": "ChatGPT 官方刚刚宣布了一项重磅更新，现在用户可以直接在对话框里追踪自己的信用分了！通过安全绑定 Experian 信用报告和 VantageScore 3.0 得分，AI 能直接帮你评估租房申请、比较信用卡还款策略，甚至规划长期的信用建设。这波操作直接把金融服务无缝嵌入了日常对话，让 ChatGPT 离真正的「超级入口」又近了一步。",
-      "reads": "4.0万",
-      "ago": "1 小时前",
+      "reads": "17万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -205,207 +205,207 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 4.0万 · 产品与生态] 变身私人财务管家！ChatGPT直接能查信用分了，租房还卡AI全包了"
+      "line": "[榜第8位 · 17万 · 产品与生态] 变身私人财务管家！ChatGPT直接能查信用分了，租房还卡AI全包了"
     },
     {
-      "title": "卷不动了！闭源模型写代码遇瓶颈，Opus 4.8后无大突破，开源凭50倍差价抢客",
-      "summary": "前沿大模型的代码能力似乎撞墙了。有研究员指出，自从 Opus 4.8 之后，闭源模型的编程水平就没再出现过巨大飞跃，而开源模型正凭借低 10 到 50 倍的成本优势疯狂抢占生态位，引发了一场大规模的「开源大迁徙」。不过，AI 编程远没到大结局，面对每秒 10 亿 Token 的复杂推理系统，大模型依然会卡壳，想靠一句提示词包打天下还早得很。",
-      "reads": "3.0万",
-      "ago": "1 小时前",
-      "category": "中国与开源",
+      "title": "糟糕，Gemini 4 Pro未发先败？谷歌大佬深夜感慨失败，全网吃瓜看戏",
+      "summary": "谷歌核心研究员Logan Kilpatrick深夜发了句「注定会失败」的鸡汤，结果直接把全网带偏了。有KOL和爆料者借题发挥，猜测谷歌放弃与OpenAI和Anthropic拼算力，甚至造谣Gemini 4 Pro未发先败。虽然爆料人随后承认是开玩笑，Logan本人也无奈澄清这只是生活常识，但这波乌龙着实暴露了当前大模型竞赛下，外界对顶级实验室一举一动的极度敏感。",
+      "reads": "40万",
+      "ago": "7 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "研究员指出，前沿大语言模型的写代码能力已遭遇瓶颈，自 Opus 4.8 以来未见巨大飞跃。",
-        "开源模型正在快速缩小与前沿闭源模型的差距，且成本仅为后者的 1/10 到 1/50。",
-        "巨大的性价比优势，正驱动开发者和企业大规模从闭源模型向开源生态迁移。",
-        "尽管日常主力已逐渐替换，但 AI 编程和工程问题远未被彻底解决，行业天花板依然极高。"
+        "谷歌研究员Logan Kilpatrick在社交平台上发文感慨：「你注定会失败，所以不如在放手一搏中失败」。",
+        "这句鸡汤引发全网过度解读，有KOL认为这暗示谷歌更愿意让OpenAI和Anthropic去争夺原始性能榜首，自己则专注日常任务。",
+        "该KOL还指出，考虑到近期的泄密事件，Gemini 4无疑是谷歌的一大赌注。",
+        "有爆料者甚至借此开玩笑，称Logan在Gemini 4 Pro发布前就已经承认它是个失败之作，引发网友围观。"
       ],
       "quote": {
-        "who": "Yuchen Jin",
+        "who": "Logan Kilpatrick",
         "role": "",
-        "said": "别误会，写代码/工程问题还远未解决。 天花板依然很高。但今天的大语言模型在复杂系统上还是会卡壳，比如构建一个能在新型云上安全提供 10 亿 Token/秒的可扩展推理系统。 你不可能用一个提示词就把它建出来。"
+        "said": "@s_batzoglou 并不神秘，这就是生活的事实，无论你有多好、做什么等等，你都会失败。 所以不如在一段重要的旅程中失败！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 3.0万 · 中国与开源] 卷不动了！闭源模型写代码遇瓶颈，Opus 4.8后无大突破，开源凭50倍差价抢客"
+      "line": "[榜第9位 · 40万 · 组织与人事] 糟糕，Gemini 4 Pro未发先败？谷歌大佬深夜感慨失败，全网吃瓜看戏"
     },
     {
-      "title": "突发！SpaceXAI正式放出Grok 4.7，数百万智能体任务盲测开启",
-      "summary": "马斯克的 SpaceXAI 终于放出了传闻已久的 Grok 4.7！目前，该模型已正式登陆 Agent Arena 平台，全面开启对战模式和 AI 智能体模式。全球网友现在就能用数百万个真实的、长周期的智能体任务来亲自检验它的实力，最终的排行榜得分将完全由社区投票决定。",
-      "reads": "3.3万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
+      "title": "霸榜苹果商店！Meta消费级Agent杀疯了，大佬晒出暴涨曲线",
+      "summary": "Meta的消费级AI智能体Muse彻底杀疯了，不仅持续霸榜苹果商店，Apptopia给出的早期使用量估算数据更是全线飘红。面对OpenAI正秘密开发竞品和零日漏洞风波的双重夹击，Alexandr Wang直接甩出一张营收暴涨的梗图回应。这款被视为「下一个ChatGPT」的爆款应用，正牢牢占据着AI助手赛道的绝对C位。",
+      "reads": "12万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Grok 4.7 正式发布，由 SpaceXAI 和马斯克（Elon Musk）共同推出。",
-        "模型现已登陆 Agent Arena 平台，全面开放对战模式（Battle Mode）和 AI 智能体模式（Agent Mode）供用户测试。",
-        "评估标准极其硬核，采用来自全球用户社区的数百万个真实、长周期的 AI 智能体任务进行实战检验。",
-        "最终排名将完全由全球用户的真实投票驱动，目前社区正在火热投票预测其最终排位。"
+        "Meta Muse AI智能体持续霸榜App Store，展现出极强的消费级市场统治力。",
+        "第三方机构Apptopia发布了关于Muse早期使用情况的估算数据，整体趋势表现强劲。",
+        "Alexandr Wang转发该估算数据，并配发了一张毛绒玩偶指着「营收增长」曲线上升的梗图。",
+        "科技记者在评论区在线催更，询问Muse何时上线Slack连接器功能。"
       ],
       "quote": {
-        "who": "Arena.ai",
+        "who": "Alex Heath",
         "role": "",
-        "said": "你觉得 Grok 4.7 会排在什么位置？"
+        "said": "@TimSweeneyEpic @chetanankola @Google 买竞品的关键词非常容易，也很常见"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 3.3万 · 模型与能力] 突发！SpaceXAI正式放出Grok 4.7，数百万智能体任务盲测开启"
+      "line": "[榜第10位 · 12万 · 产品与生态] 霸榜苹果商店！Meta消费级Agent杀疯了，大佬晒出暴涨曲线"
     },
     {
-      "title": "终于有人做出来了！Meta Muse化身OpenClaw大众版，砸海量算力降维打击",
-      "summary": "Meta Muse 凭借极低的上手门槛，成功把 OpenClaw 理念变成了人人可用的个人助手。当其他 AI 实验室都在盯着企业级客户赚钱时，Meta 却选择倒贴海量算力来死磕消费级体验。更有意思的是，不少人觉得把数据交给 Meta 反而比给其他 AI 公司更有安全感，毕竟大家早就习惯了它的生态，而且还能在设置里一键关闭数据训练。",
-      "reads": "3.9万",
-      "ago": "4 小时前",
+      "title": "单日暴涨10%！Meta做出大众版Agent，Alexandr Wang：不用懂MCP也能用",
+      "summary": "Meta凭借大众版Agent产品Muse在资本市场杀疯了，单日股价狂飙10%，直接创下2025年7月以来的最佳表现，逼近同年10月最高点。Meta AI负责人Alexandr Wang感慨，Muse最大的成功就是让非科技圈的小白，连CoT、MCP是什么都不用懂，就能轻松用上智能体。这波消费级市场的落地，属实把AI商业化玩明白了。",
+      "reads": "14万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "业内人士评价 Meta Muse 是 OpenClaw 理念的绝佳实现，真正做到了像个人助手一样与用户持续对话。",
-        "Muse 极其专注单一场景，让原本不了解 AI 潜力的普通用户也能零门槛轻松上手。",
-        "当前主流 AI 实验室更倾向于企业端，因为企业客户为 Token 付费的意愿最高。",
-        "尽管其他实验室的系统开箱即用也能达到 Muse 的能力，但在直观易用性上却大打折扣。"
+        "Meta股价单日大涨10%，创下自2025年7月以来的最佳单日表现。",
+        "目前Meta股价正逼近2025年10月以来的最高点，资本市场对Muse反馈极佳。",
+        "Meta AI负责人Alexandr Wang发文分享了Muse在非科技圈用户中的真实反响。",
+        "他表示，看到生活中根本不在乎AI的人弄懂并使用Muse，是最让人有成就感的事。"
       ],
       "quote": {
-        "who": "Ethan Mollick",
+        "who": "Wall St Engine",
         "role": "",
-        "said": "可能人们也觉得把个人数据交给 Meta（因为他们已经在用了）比交给其他 AI 公司更安全。 如果你决定试试 Muse，提醒一下，你可以在“设置>数据控制>帮助改进我们的 AI 模型”中关闭使用你的数据进行训练。"
+        "said": "$META 大涨 10%；2025 年 7 月以来表现最好的一天 逼近 2025 年 10 月以来的最高点"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 3.9万 · 产品与生态] 终于有人做出来了！Meta Muse化身OpenClaw大众版，砸海量算力降维打击"
+      "line": "[榜第11位 · 14万 · 产品与生态] 单日暴涨10%！Meta做出大众版Agent，Alexandr Wang：不用懂MCP也能用"
     },
     {
-      "title": "ChatGPT之后最大爆款！Meta Muse持续霸榜，PC内存条价格一路狂飙",
-      "summary": "Meta的AI智能体Muse彻底火了，发布后死死钉在App Store榜首位置。这波热潮不仅让Alexandr Wang惊呼其为「ChatGPT后最大消费级AI」，甚至直接带飞了PC内存条的零售价格。眼看Meta抢占个人助手高地，OpenAI已经坐不住了，正加紧开发竞品准备硬刚。",
-      "reads": "5.0万",
-      "ago": "5 小时前",
+      "title": "顶级大模型收到看跌信号！非SOTA的Muse霸榜，粘性碾压所有聊天机器人",
+      "summary": "Meta的智能体Muse在App Store霸榜后，引发了圈内对大模型竞争格局的重新思考。IG负责人Adam Mosseri直言，外界严重低估了Meta的广告推荐系统，它正与Muse的吸引力形成恐怖的协同效应。知名分析师Ben Thompson更是将此视为前沿实验室的「看跌信号」：当一个非SOTA模型能靠产品粘性超越顶级聊天机器人时，单纯拼参数的时代或许就要结束了。",
+      "reads": "7.8万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Meta Muse AI智能体发布后表现强势，目前持续霸榜App Store第一名。",
-        "有记者持续追踪零售渠道发现，PC内存条的价格正在不断攀升，暗示硬件成本压力与背后的算力需求激增。",
-        "硅谷大佬Alexandr Wang高度评价Muse，称其为「ChatGPT之后最大的消费级AI」，引发行业广泛关注。",
-        "面对Meta的猛烈攻势，OpenAI正在加紧开发个人AI助手以对抗Muse，双方竞争态势白热化。"
+        "Meta旗下智能体Muse近期在App Store表现强劲，引发行业对AI竞争焦点的重新评估。",
+        "IG负责人Adam Mosseri公开澄清，外界历史上一度误解了Meta对用户数据的掌握程度。",
+        "Mosseri强调，Meta的广告推荐系统才「刚刚」开始展现出人们预期的强大实力。",
+        "这种精准的广告推荐能力，目前正与Muse极强的用户吸引力产生协同效应。"
       ],
       "quote": {
-        "who": "tae kim",
+        "who": "Fireside Alpha",
         "role": "",
-        "said": "我正在琢磨 Meta 的 Muse 到底意味着什么。大家有什么好想法吗？欢迎私信我。"
+        "said": "Ben Thompson 认为 Meta 的 Muse 对前沿实验室来说是个看跌信号，因为一个非最先进的模型现在能让产品的用户粘性超过任何聊天机器人。 “因此，前沿实验室的关键在于，趁着他们还拥有卓越的能力，建立这些用户触点。” “然而，"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 5.0万 · 产品与生态] ChatGPT之后最大爆款！Meta Muse持续霸榜，PC内存条价格一路狂飙"
+      "line": "[榜第12位 · 7.8万 · 产品与生态] 顶级大模型收到看跌信号！非SOTA的Muse霸榜，粘性碾压所有聊天机器人"
     },
     {
-      "title": "突发泄露！Anthropic新模型即将空降，爆料确认已达SOTA",
-      "summary": "知名爆料人放出猛料，Anthropic即将推出全新一代模型，并且性能已经达到SOTA级别。爆料不仅直言新模型「能力强得惊人」，还暗示本周AI圈将有更多大动作。看来Anthropic完全没有放慢迭代脚步的打算，新一轮模型大战一触即发。",
-      "reads": "2.3万",
-      "ago": "3 小时前",
+      "title": "智能便宜到无需计量！GPT-6廉价版Luna周二空降，OpenAI员工深夜明牌",
+      "summary": "OpenAI 员工深夜在 X 上疯狂暗示，本周二凌晨三点将有大动作。结合内部人士「伴随额度重置」和「智能便宜到无需计量」的口风，爆料者推测，GPT-6 的廉价版模型 Luna 即将空降。这场大模型价格战，看来又要被 OpenAI 卷出新高度了。",
+      "reads": "122万",
+      "ago": "14 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "有知名爆料人突发预警，Anthropic即将发布全新一代模型。",
-        "爆料明确指出，即将到来的Anthropic新模型性能已达到SOTA（当前最高水平）。",
-        "针对新模型的能力，爆料人评价其「强得惊人」（surprisingly capable）。",
-        "爆料暗示本周AI行业将迎来「大动作周」，后续还有更多重磅消息放出。"
+        "OpenAI 研究员在 X 上回复网友，明确给出「周二凌晨三点」的时间节点。",
+        "另一位内部员工发帖暗示新动作，称未来的「智能将便宜到无需计量」。",
+        "综合多方内部口风，圈内爆料者推测周二的发布将包含全新的 GPT-6 Luna 模型。",
+        "此次更新预计将伴随一次系统级的「额度重置」，暗示新模型将提供更高的使用额度或更低的成本。"
       ],
       "quote": {
-        "who": "🍓🍓🍓",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "@IndependentEco 它能力强得惊人。看来我们很长一段时间内都不会放慢脚步了。"
+        "said": "好吧，Tibo，我们懂了。“周二很可能会发布新东西并伴随一次重置”，再加上另一位员工那条含糊其辞的“智能便宜到无需计量”的帖子，我估计 GPT-6 Luna 也会是这波发布的一部分。 我唯一的问题是，我到现在还没拿到访问权限"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 2.3万 · 模型与能力] 突发泄露！Anthropic新模型即将空降，爆料确认已达SOTA"
+      "line": "[榜第13位 · 122万 · 模型与能力] 智能便宜到无需计量！GPT-6廉价版Luna周二空降，OpenAI员工深夜明牌"
     },
     {
-      "title": "历史记录消失、滚动条卡死！ChatGPT被曝海量Bug，OpenAI紧急要清单",
-      "summary": "OpenAI 最近疯狂迭代，似乎让产品质量翻了车。有开发者公开吐槽 ChatGPT 和 Codex 存在海量严重 Bug，涵盖网页端、旧版桌面端和新版 App，包括滚动条卡死、历史记录消失、GPU 报错等致命问题。这波吐槽直接引来了 OpenAI 官方研究员的紧急介入，目前开发者已将整理好的高频 Bug 清单私信提交给官方团队。",
-      "reads": "3.0万",
-      "ago": "4 小时前",
+      "title": "霸榜App Store第一！Meta最强Agent杀疯了，亚马逊广告帝国悬了",
+      "summary": "Meta推出的AI智能体Muse持续霸榜App Store第一，消费级AI正从聊天工具彻底进化为执行具体任务的Agent。有记者指出，随着大家开始用AI全自动比价和网购，亚马逊依赖点击流的广告业务将面临巨大冲击。顺带一提，近期PC内存条零售价格也一直在持续攀升。",
+      "reads": "8.0万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "有开发者公开抱怨 ChatGPT 存在大量严重 Bug，波及旧版桌面端、网页端以及新版 App。",
-        "核心问题集中在 UI 和交互层面，包括滚动条回弹或卡死、会话崩溃、UI 倒退等。",
-        "数据同步也出现严重故障，用户反馈聊天记录无故消失，或已删除的对话依然在列表显示。",
-        "曝光的截图显示，Codex 界面甚至出现了「Diagnostic GPU readback failed: TypeError」的底层报错。"
+        "Meta推出的AI智能体Muse发布后热度不减，目前依然稳居App Store排名第一。",
+        "消费级AI的定位正发生重大转变，从单纯的聊天工具向执行具体任务的Agent进化。",
+        "有记者观察到，用户正开始习惯让个人AI智能体代为进行商品比价和全自动购买。",
+        "这一趋势直接威胁到了亚马逊的传统商业模式，其依赖点击流的广告业务面临潜在冲击。"
       ],
       "quote": {
-        "who": "Token Gremlin",
+        "who": "tae kim",
         "role": "",
-        "said": "@n_mate123 很高兴能帮上忙。 🤗🙏"
+        "said": "如果我们都开始用个人 AI 智能体来帮我们比价和购物，Amazon 的广告业务会怎样？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 3.0万 · 产品与生态] 历史记录消失、滚动条卡死！ChatGPT被曝海量Bug，OpenAI紧急要清单"
+      "line": "[榜第14位 · 8.0万 · 产品与生态] 霸榜App Store第一！Meta最强Agent杀疯了，亚马逊广告帝国悬了"
     },
     {
-      "title": "老黄的物理AI真落地了！NVIDIA驱动无人重卡开上高速，干线物流要变天",
-      "summary": "老黄的物理AI版图又扩大了！NVIDIA官方宣布，基于Hyperion平台打造的新一代Einride Driver无人卡车已经正式落地，成功在高速公路和郊区道路开启商业化运营。这标志着NVIDIA的算力正式从数据中心杀入真实世界的具身智能，干线物流的无人化时代真要来了。",
-      "reads": "5.3万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
+      "title": "糟糕，霸榜第一的Muse爆出零日漏洞！Meta前安全高管：我绝对不用",
+      "summary": "Meta刚刚登顶App Store的AI智能体Muse惹上大麻烦了！有研究人员公开发布了Muse的零日漏洞细节，直接引爆隐私安全担忧。更抓马的是，一位本月刚离职的Meta AI安全工程经理公开补刀，称出于安全考虑自己「绝对不会用」。就在Alexandr Wang为其成绩庆贺之时，这一漏洞不仅加剧了用户的疑虑，也给正在开发对抗功能的OpenAI送上了神助攻。",
+      "reads": "3.0万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "NVIDIA官方发文祝贺瑞典物流公司Einride，宣布其新一代Einride Driver自动驾驶卡车系统正式落地。",
-        "该无人重卡系统底层基于NVIDIA Hyperion平台打造，由老黄提供核心算力支持。",
-        "车辆已成功在高速公路和郊区道路上实现商业化运营，标志着技术正式从封闭测试场走向开放复杂路况。",
-        "这一进展直接秀出了NVIDIA在物理AI（Physical AI）领域的生态扩张能力。"
+        "Meta新推出的AI智能体Muse被研究人员爆出存在零日漏洞（Zero-day），相关细节已被公开。",
+        "一位本月刚刚离职的Meta AI安全工程经理就此发声，明确表示出于对安全和隐私的严重担忧，他「绝对不会使用」Muse。",
+        "此次漏洞曝光正值Muse霸榜App Store第一的高光时刻，Alexandr Wang此前刚强调过该产品的成就感。",
+        "前高管的公开表态，直接印证了Meta内部此前对Muse产品安全性的质疑。"
       ],
       "quote": {
-        "who": "NVIDIA",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "祝贺 @einrideofficial 凭借新一代 Einride Driver 将自动驾驶卡车带到高速公路和郊区道路。 基于 NVIDIA Hyperion 打造。"
+        "said": "无风不起浪。或者是 @finkd 又在熏肉了 👀"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 5.3万 · 产品与生态] 老黄的物理AI真落地了！NVIDIA驱动无人重卡开上高速，干线物流要变天"
+      "line": "[榜第15位 · 3.0万 · 政策与安全] 糟糕，霸榜第一的Muse爆出零日漏洞！Meta前安全高管：我绝对不用"
     },
     {
-      "title": "卧槽，跨度太大了！Grok 4.7换上全新大底座，硬刚GPT-5.6 Sol",
-      "summary": "卧槽，Grok 4.7 的跨度属实有点大！有业内人士爆出了 Grok 4.7 的最新基准测试成绩，在软件工程、法律及临床推理等领域硬刚 GPT-5.6 Sol 和 Fable 5.1。虽然版本号只迭代了「.1」，但它并没有停留在 Grok 4.6 的后训练上，而是直接换上了一个全新的、更大的基础模型。马斯克这次是真的杀回来了。",
+      "title": "狂买上百台Mac mini跑龙虾！Nat Friedman彻底入坑，连竞品Muse都来致敬",
+      "summary": "个人AI智能体的魅力有多大？今年1月刚用上OpenClaw，Nat Friedman就直接给MSL团队采购了上百台Mac mini专供运行。不仅团队全员入坑，连正在「掰手腕」的竞品Muse也坦言，自家产品深受OpenClaw启发，开发者Steipete更是被盛赞为「天才」。",
       "reads": "1.2万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Grok 4.7 最新基准测试成绩在网上泄露，引发圈内高度关注。",
-        "在软件工程、法律及临床推理等多项基准测试中，Grok 4.7 表现强劲。",
-        "测试结果显示，Grok 4.7 已经能与 OpenAI 的 GPT-5.6 Sol 和 Anthropic 的 Fable 5.1 构成直接竞争。",
-        "业内人士惊呼，对于一个仅「.1」版本的更新来说，Grok 4.7 的能力跨度相当大。"
+        "OpenClaw官方发布动态，展示其与竞品Muse在soul.md平台上的「掰手腕」对决画面。",
+        "Nat Friedman透露，自己今年1月份首次体验OpenClaw后便彻底入坑。",
+        "为了让MSL团队用上OpenClaw等个人AI智能体，Nat Friedman一口气采购了上百台Mac mini。",
+        "Muse虽然是从零开始构建的产品，但其团队坦言在开发过程中绝对深受OpenClaw的启发。"
       ],
       "quote": {
-        "who": "Haider.",
+        "who": "OpenClaw🦞",
         "role": "",
-        "said": "卧槽……对于一个“.1”版本的更新来说，Grok 4.7 的跨度相当大 它用了一个比 Grok 4.6 更大的新基础模型，这意味着这不仅仅是在 4.6 基础上的更多后训练"
+        "said": ""
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 1.2万 · 模型与能力] 卧槽，跨度太大了！Grok 4.7换上全新大底座，硬刚GPT-5.6 Sol"
+      "line": "[榜第16位 · 1.2万 · 产品与生态] 狂买上百台Mac mini跑龙虾！Nat Friedman彻底入坑，连竞品Muse都来致敬"
     }
   ],
   "board_count": 16,
