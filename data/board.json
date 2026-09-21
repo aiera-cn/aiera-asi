@@ -3,40 +3,190 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-21 14:13:13 +0800",
+  "fetched_at": "2026-09-21 21:59:12 +0800",
   "today": "09/21",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "狂飙200英里！马斯克正式开挖Hyperloop隧道，2.5小时拥堵直接干到30分钟",
-      "summary": "马斯克又来整顿交通了！他刚刚宣布，Boring Company 正在奥斯汀和圣安东尼奥之间修建一条早期的 Hyperloop 隧道。这条隧道设计时速超过 200 英里，能把原本长达 2.5 小时的拥堵车程，直接压缩到 30 分钟以内。不仅如此，他还晒出了一张意味深长的人机握手图，直言「这就是我们将要创造的未来」。",
-      "reads": "6157万",
-      "ago": "11 小时前",
-      "category": "产品与生态",
+      "title": "智能便宜到无需计量！GPT-6廉价版Luna周二空降，OpenAI员工深夜明牌",
+      "summary": "OpenAI 员工深夜在 X 上疯狂暗示，本周二凌晨三点将有大动作。结合内部人士「伴随额度重置」和「智能便宜到无需计量」的口风，爆料者推测，GPT-6 的廉价版模型 Luna 即将空降。这场大模型价格战，看来又要被 OpenAI 卷出新高度了。",
+      "reads": "64万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "马斯克宣布 Boring Company 正在修建一条简单的 Hyperloop 早期隧道。",
-        "该隧道主要连接德克萨斯州的奥斯汀和圣安东尼奥两地。",
-        "这条 Hyperloop 隧道的设计时速将超过 200 英里。",
-        "目前两地因交通拥堵，单程最多需要耗费 2.5 小时。"
+        "OpenAI 研究员在 X 上回复网友，明确给出「周二凌晨三点」的时间节点。",
+        "另一位内部员工发帖暗示新动作，称未来的「智能将便宜到无需计量」。",
+        "综合多方内部口风，圈内爆料者推测周二的发布将包含全新的 GPT-6 Luna 模型。",
+        "此次更新预计将伴随一次系统级的「额度重置」，暗示新模型将提供更高的使用额度或更低的成本。"
       ],
       "quote": {
-        "who": "Elon Musk",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "Boring Company 正在奥斯汀和圣安东尼奥之间修建一条简单的 Hyperloop 早期隧道（时速 >200 英里）。 由于交通拥堵，目前这段路程最多需要 2.5 小时。@BoringCompany 能把时间稳定缩短到 <30 分钟。"
+        "said": "好吧，Tibo，我们懂了。“周二很可能会发布新东西并伴随一次重置”，再加上另一位员工那条含糊其辞的“智能便宜到无需计量”的帖子，我估计 GPT-6 Luna 也会是这波发布的一部分。 我唯一的问题是，我到现在还没拿到访问权限"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 6157万 · 产品与生态] 狂飙200英里！马斯克正式开挖Hyperloop隧道，2.5小时拥堵直接干到30分钟"
+      "line": "[榜第1位 · 64万 · 模型与能力] 智能便宜到无需计量！GPT-6廉价版Luna周二空降，OpenAI员工深夜明牌"
+    },
+    {
+      "title": "路线彻底分化！Gemini 4疑似偷跑，谷歌放弃硬刚OpenAI，靠RSI押注普通人",
+      "summary": "传闻中的 Gemini 4 Pro 疑似在竞技场悄悄偷跑了！业内人士一语道破谷歌的错位竞争大棋：放任 OpenAI 和 Anthropic 去争夺原始性能榜首，自己则全面转向普通用户的日常任务。结合近期泄露的 RSI（递归自我改进）能力，Gemini 4 无疑是谷歌押上身家性命的巨大赌注。",
+      "reads": "30万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "传闻中的 Gemini 4 Pro 疑似在 Arena 竞技场偷跑，引发业内对谷歌新一代模型战略的激烈讨论。",
+        "谷歌内部研究员发文暗示重大动作，直言「你注定会失败，所以不如在放手一搏中失败」。",
+        "业内人士破译谷歌差异化竞争路线：不再死磕原始性能榜首，而是将主战场转移至普通用户的日常任务。",
+        "面对 OpenAI 和 Anthropic 在前沿模型上的激烈厮杀，谷歌选择主动避其锋芒，意在生态普及。"
+      ],
+      "quote": {
+        "who": "Haider.",
+        "role": "",
+        "said": "翻译一下： Google 更愿意让 OpenAI 和 Anthropic 去争夺原始性能的榜首，而自己则专注于帮助普通用户处理日常任务 毫无疑问，Gemini 4 是 Google 的一大赌注，特别是考虑到最近的泄密指向了某种 RSI"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 30万 · 模型与能力] 路线彻底分化！Gemini 4疑似偷跑，谷歌放弃硬刚OpenAI，靠RSI押注普通人"
+    },
+    {
+      "title": "融资80亿却毫无产出？LeCun开嘲讽拉踩SSI，硬刚Hinton：AI末日纯属虚构",
+      "summary": "图灵奖得主之间的路线之争再次爆发！LeCun在X上连发多条推文，硬刚40年老友Hinton和马斯克，直言他们想象的AI末日风险「完全是虚构的」。他不仅拿核电发展受限导致数百万人丧生的历史作类比，痛批「预防原则」会引发真实的短期灾难，还顺手嘲讽了融资80亿美元的SSI产出寥寥，远不如自家10亿美元的AMI Labs。LeCun重申自己从未要求停止大模型研发，并甩出Galactic…",
+      "reads": "3.3万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "直斥AI末日论纯属虚构：LeCun向Hinton和马斯克喊话，称虽然认识Hinton 40年且深知其出于好意，但他们想象的AI毁灭风险「完全是虚构的，根本不…",
+        "痛批「预防原则」引发真实灾难：他以核电受限为例，指出过度防范导致人类依赖化石燃料，进而引发石油战争和颗粒物排放，造成数百万人过早死亡，暗示限制AI会重蹈覆辙…",
+        "嘲讽SSI融资80亿无产出：LeCun对比了两家机构，指出2024年6月成立、融资80亿美元的SSI，在发布成果上和2026年2月成立、融资10亿美元的AM…",
+        "力挺Meta开源大模型路线：面对质疑，LeCun强调自己绝对没有要求停止大语言模型的研发，并列举了他在2022年11月支持Galactica、2022年5月…"
+      ],
+      "quote": {
+        "who": "Yann LeCun",
+        "role": "",
+        "said": "@Christiano92 @musedivision @geoffreyhinton 我绝对、从来没有“要求”停止大语言模型的研发。 事实上，我非常支持 Meta 的大语言模型项目。去看看我公开支持 Galactica（2022 年 11 月）、开源 OPT-175B（2022 年 5 月）以及 Llama 家族（2023 年中）就知道了。 我其实"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 3.3万 · 政策与安全] 融资80亿却毫无产出？LeCun开嘲讽拉踩SSI，硬刚Hinton：AI末日纯属虚构"
+    },
+    {
+      "title": "老黄的物理AI真落地了！NVIDIA驱动无人重卡开上高速，干线物流要变天",
+      "summary": "老黄的物理AI版图又扩大了！NVIDIA官方宣布，基于Hyperion平台打造的新一代Einride Driver无人卡车已经正式落地，成功在高速公路和郊区道路开启商业化运营。这标志着NVIDIA的算力正式从数据中心杀入真实世界的具身智能，干线物流的无人化时代真要来了。",
+      "reads": "2.1万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "NVIDIA官方发文祝贺瑞典物流公司Einride，宣布其新一代Einride Driver自动驾驶卡车系统正式落地。",
+        "该无人重卡系统底层基于NVIDIA Hyperion平台打造，由老黄提供核心算力支持。",
+        "车辆已成功在高速公路和郊区道路上实现商业化运营，标志着技术正式从封闭测试场走向开放复杂路况。",
+        "这一进展直接秀出了NVIDIA在物理AI（Physical AI）领域的生态扩张能力。"
+      ],
+      "quote": {
+        "who": "NVIDIA",
+        "role": "",
+        "said": "祝贺 @einrideofficial 凭借新一代 Einride Driver 将自动驾驶卡车带到高速公路和郊区道路。 基于 NVIDIA Hyperion 打造。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 2.1万 · 产品与生态] 老黄的物理AI真落地了！NVIDIA驱动无人重卡开上高速，干线物流要变天"
+    },
+    {
+      "title": "传GPT-6 Sol周二空降！性价比惊人，Anthropic急掏Opus 5.5截胡",
+      "summary": "AI圈深夜传出重磅流言，两大巨头或将在本周正面对决。有爆料称，OpenAI极有可能在周二发布性价比惊人的GPT-6-Sol，实现又一次重大飞跃。而作为直接回应，Anthropic预计将掏出Opus 5.5硬刚。虽然消息未经官方证实，但新一轮模型价格与性能战已是箭在弦上。",
+      "reads": "18万",
+      "ago": "8 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "有爆料称，OpenAI极有可能在本周二发布新模型GPT-6-Sol。",
+        "传闻指出，GPT-6-Sol将是又一次重大飞跃，且相比旗舰Astra拥有惊人的性价比。",
+        "为回应OpenAI的新动作，Anthropic据传将推出Opus 5.5进行反击。",
+        "爆料者坦言目前无法证实这些消息，仅为听到的行业流言。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@jessalanfields 你是我听说过真正喜欢 opus 的极少数人之一 :D"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 18万 · 模型与能力] 传GPT-6 Sol周二空降！性价比惊人，Anthropic急掏Opus 5.5截胡"
+    },
+    {
+      "title": "突发！Grok 4.7 偷偷上线又被删，超级发布周今天就开打",
+      "summary": "Grok 4.7 在编程工具 opencode zen 上悄悄露了个头又秒删，基本坐实 xAI 就要发新模型，搞不好今天就来。有开发者直接喊这周是「超级发布周」：明天 OpenAI，Anthropic 压轴，三家排队上新。连 Anthropic 那款比 Opus 5 还强一点的新版 Opus 都被剧透了，多厂商模型大战算是正式开打。",
+      "reads": "2.7万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Grok 4.7 曾在编程工具 opencode zen 短暂上线，随后被删除——开发者判断正式发布临近，甚至可能就在今天",
+        "爆料者预测「超级发布周」从今天开启：明天 OpenAI 接棒，Anthropic 可能压轴",
+        "即将到来的 Anthropic 新版 Opus 性能略优于现役 Opus 5；爆料者猜测版本号可能是 5.1，但纯属未经证实的推测",
+        "Grok 4.7 此前仅以 slug 形式泄露、从未正式发布，这次「上线又秒删」是最接近实锤的信号"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@notquantized 我感觉这周绝对要疯"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 2.7万 · 模型与能力] 突发！Grok 4.7 偷偷上线又被删，超级发布周今天就开打"
+    },
+    {
+      "title": "对标OpenAI！Anthropic上线自家Playground，免代码测爆Claude API",
+      "summary": "Anthropic 终于把自家的开发者工具 Workbench 改名成了大家更熟悉的 Playground，全面向行业常规标准看齐。这次改版不仅是换个名字，核心是让开发者一行代码都不用写，就能直接在可视化界面里测试 Claude API 和 Messages API 的各项功能。经过长时间的内部开发，这个新入口将大幅降低大模型的调试门槛。",
+      "reads": "1.1万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 官方控制台迎来改版，原开发者工具 Workbench 正式更名为 Playground。",
+        "新命名全面向行业常规标准（如 OpenAI Playground）看齐，降低了开发者的认知门槛。",
+        "核心功能升级：支持「免代码」直接探索和测试 Claude API 的各项底层能力。",
+        "开发者现在可以直接在可视化界面中，零门槛测试 Messages API 的具体功能。"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "Anthropic 把 Workbench 改名成 Playground 了！这东西开发了挺长一段时间，现在变得更常规了。 > “Workbench 现在是 Playground - 通过使用它来探索 Claude API。无需写代码即可测试模型和 Messages API 功能。” > “从工作"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 1.1万 · 产品与生态] 对标OpenAI！Anthropic上线自家Playground，免代码测爆Claude API"
     },
     {
       "title": "瞒不住了！Opus 5.5本周二空降，代号wafer，新版Fable硬刚Astra",
       "summary": "Anthropic 5系模型迎来疯狂迭代！有开发者爆料，内部代号为「claude-wafer-eap」的新模型原定名 Opus 5.2，现已跳级至 Opus 5.5，预计本周二正式发布。与此同时，Fable 5.2 的灰度测试也已流出，不仅无需复杂提示词，3D 生成能力更是被评价为「硬刚甚至超越 Astra 的野兽」。",
-      "reads": "25万",
-      "ago": "10 小时前",
+      "reads": "35万",
+      "ago": "18 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -54,14 +204,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 25万 · 模型与能力] 瞒不住了！Opus 5.5本周二空降，代号wafer，新版Fable硬刚Astra"
+      "rank": 8,
+      "line": "[榜第8位 · 35万 · 模型与能力] 瞒不住了！Opus 5.5本周二空降，代号wafer，新版Fable硬刚Astra"
+    },
+    {
+      "title": "谷歌端侧大招偷跑！Gemini nano banan 2.5变体现身竞技场，代号river flow",
+      "summary": "谷歌端侧模型又出新动作了！有开发者爆料，Gemini nano banan 2.5的变体正以代号「river flow」在竞技场进行内部测试，并放出了多图验证的实测截图。此前传闻该分支下代号为「Spicy-Mayo」的7B开源权重性能已超越前代，这次公开现身，意味着距离正式发布只差临门一脚了。",
+      "reads": "1.3万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "有开发者爆料，Gemini nano banan 2.5变体已进入公开可见的测试阶段。",
+        "该模型目前在竞技场上的内部测试代号为「river flow」。",
+        "爆料者同步释出了实测证据，展示了模型在Gemini界面中处理多图上传的能力。",
+        "实测截图显示，该变体正在连接Verify AI，以验证图片是否带有Google或OpenAI的SynthID水印。"
+      ],
+      "quote": {
+        "who": "Chetaslua",
+        "role": "",
+        "said": "@Gc_qube 谢了，我现在就去测辣味蛋黄酱"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 1.3万 · 产品与生态] 谷歌端侧大招偷跑！Gemini nano banan 2.5变体现身竞技场，代号river flow"
     },
     {
       "title": "实测出炉！Astra对决Fable 5.1玩过山车大亨，一个疯狂拉客，一个举债搞钱",
       "summary": "有研究员专门构建了MCP，让OpenAI旗舰Astra和Anthropic的Fable 5.1在《过山车大亨》里来了一场正面对决。实测42分钟后，Astra以1000名游客的成绩赢下了主要目标，却被网友吐槽「讨厌大家找乐子」。相比之下，Fable 5.1展现出宁可负债也要建大项目的激进策略，最终狂赚7732美元，在公园估值和盈利上赢麻了。",
-      "reads": "11万",
-      "ago": "8 小时前",
+      "reads": "13万",
+      "ago": "16 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -79,39 +254,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 11万 · 模型与能力] 实测出炉！Astra对决Fable 5.1玩过山车大亨，一个疯狂拉客，一个举债搞钱"
+      "rank": 10,
+      "line": "[榜第10位 · 13万 · 模型与能力] 实测出炉！Astra对决Fable 5.1玩过山车大亨，一个疯狂拉客，一个举债搞钱"
     },
     {
-      "title": "智能便宜到无需计量！OpenAI被曝大幅放宽额度，Plus用户赢麻了",
-      "summary": "OpenAI 在 DevDay 前夕准备放个大招！据内部人士爆料，即将发布的新模型（如 GPT-6 Sol）将大幅提升使用额度，主打「智能便宜到无需计量」。这波算力大放水将优先惠及 Plus 和 Go 订阅用户，最终也会覆盖免费用户，堪称一波绝佳的免费营销。",
-      "reads": "3.4万",
-      "ago": "6 小时前",
+      "title": "连账号都不用注！Cloudflare版ngrok杀到，一行命令本地服务直通全球",
+      "summary": "本地开发调试终于不用再折腾内网穿透了。Cloudflare 正式发布 Quick Tunnels，只要在本地执行一行命令，就能瞬间把 localhost 服务变成全球可访问的 HTTPS 公网地址。最良心的是，这项服务完全免注册、免域名，底层依托 cloudflared 守护进程的「只出不进」反向隧道架构，直接绕开路由器 NAT 限制，堪称开发者必备神器。",
+      "reads": "2.6万",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "内部人士爆料，OpenAI 即将发布的模型将伴随更高的使用额度，大幅降低用户门槛。",
-        "核心策略被描述为「智能便宜到无需计量」（intelligence too cheap to meter）。",
-        "额度提升将优先惠及 Plus 和 Go 订阅用户，爆料者暗示 Plus 用户的体验将得到极大飞跃。",
-        "这一算力放宽政策最终也将覆盖免费用户，实现全员普惠。"
+        "核心功能：只需在本地安装命令行工具并执行一行命令，即可将 localhost 服务变成全球可访问的 HTTPS 公网网址。",
+        "极简门槛：完全免去繁琐的前置准备，无需注册 Cloudflare 账号，也无需购买或托管任何域名。",
+        "网络穿透：告别复杂的网络配置，无需在路由器上开放任何入站端口即可实现外网访问。",
+        "底层技术：该功能依托于 Cloudflare 提供的轻量级守护进程 cloudflared 运行。"
       ],
       "quote": {
-        "who": "Token Gremlin",
+        "who": "小互",
         "role": "",
-        "said": "@captainokirk @TheRealAdamG @tszzl 对他们来说，这基本上是免费的营销。"
+        "said": "Quick Tunnels 的底层依托于 Cloudflare 的轻量级守护进程 cloudflared。它能绕开路由器配置的核心原因，在于其采用了只出不进的反向隧道架构。 日常访问网站时，外部请求主动打向你的路由器 IP，这属于“入站流量”，路由器必须开放对应端口才能放行。但在 Quick Tunnels ，数据流向完全倒了过来"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 3.4万 · 产品与生态] 智能便宜到无需计量！OpenAI被曝大幅放宽额度，Plus用户赢麻了"
+      "rank": 11,
+      "line": "[榜第11位 · 2.6万 · 产品与生态] 连账号都不用注！Cloudflare版ngrok杀到，一行命令本地服务直通全球"
+    },
+    {
+      "title": "现款Opus 5被喷垃圾！开发者爆料：Anthropic下代旗舰直接跳级5.5",
+      "summary": "现役的 Opus 5 和 Sonnet 5 已经被开发者吐槽「性价比太低、不如自家的 Fable 5.1」。为了应对 OpenAI Sol 和 Luna 的竞争压力，Anthropic 似乎准备放出大招。最新爆料显示，下一代 Opus 将直接跳过 5.1 和 5.2，直接命名为 5.5 版本，这暗示着一次非线性的重大架构升级。",
+      "reads": "2663",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "有开发者吐槽现役 Opus 5 和 Sonnet 5 性能已落后，直言它们「都是垃圾」。",
+        "目前 Anthropic 阵营中，仅有最新发布的旗舰 Fable 5.1 被认为「唯一值得使用」。",
+        "现款 Opus 和 Sonnet 在当前价位段缺乏竞争力，被指急需更新以抗衡 OpenAI 的 Sol 和 Luna 产品。",
+        "社区最新对话爆料揭示，下一代 Claude Opus 的版本号将直接定为 5.5。"
+      ],
+      "quote": {
+        "who": "Haider.",
+        "role": "",
+        "said": "@JustinGorya 5.5？连 5.1 或者 5.2 都不是？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 2663 · 模型与能力] 现款Opus 5被喷垃圾！开发者爆料：Anthropic下代旗舰直接跳级5.5"
     },
     {
       "title": "28岁Alexandr Wang接管Meta AI后首秀！Muse智能体杀入眼镜，更大模型要来了",
       "summary": "Meta 首席 AI 官 Alexandr Wang 刚刚发文确认，将在今年的 Connect 大会上发表演讲。他不仅在线向网友征集本周想从他和 MSL 团队那里「看到、听到、闻到、尝到、摸到什么」，还被爆料将展示 Muse 智能体在 Meta 眼镜上的最新应用。作为 ChatGPT 之后备受瞩目的消费级产品，Muse 的端侧落地标志着个人智能体正迈向终极形态，同时更大规模的…",
-      "reads": "8.7万",
-      "ago": "10 小时前",
+      "reads": "11万",
+      "ago": "18 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -129,114 +329,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 8.7万 · 产品与生态] 28岁Alexandr Wang接管Meta AI后首秀！Muse智能体杀入眼镜，更大模型要来了"
+      "rank": 13,
+      "line": "[榜第13位 · 11万 · 产品与生态] 28岁Alexandr Wang接管Meta AI后首秀！Muse智能体杀入眼镜，更大模型要来了"
     },
     {
-      "title": "底牌全漏了！GPT-6 Sol周二见，Gemini 4 Pro和Claude 5.2都在测",
-      "summary": "AI圈马上要迎来一场大乱斗了！有开发者一口气扒出了各大厂正在灰度测试和即将发布的新模型清单。不仅Anthropic的Sonnet、Opus和Fable 5.2全系在测，谷歌Gemini 4 Pro也露出了马脚。更刺激的是，奥特曼预告周二有大动作，疑似GPT-6 Sol即将空降，连Terra都在路由测试了，Grok 4.7和Kimi K3.1也全在路上。",
-      "reads": "25万",
-      "ago": "19 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "开发者最新爆料，AI行业正密集进行新一轮模型灰度测试，7款以上新模型即将登场。",
-        "Anthropic 5.2家族全面开测，包括Sonnet 5.2、Opus 5.2和Fable 5.2。",
-        "谷歌下一代大模型Gemini 4 Pro已被确认正在测试中。",
-        "OpenAI的Sam Altman和Tibo预告周二将有「大发布」，极大概率是GPT-6 Sol。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@Xiliiiiiiiiiii1 它将永远留在我们心中"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 25万 · 模型与能力] 底牌全漏了！GPT-6 Sol周二见，Gemini 4 Pro和Claude 5.2都在测"
-    },
-    {
-      "title": "老黄深夜爆猛料！两大AI巨头引发多起网络安全事故，最强芯片优先供美国",
-      "summary": "老黄最近在访谈里爆出连环猛料，不仅透露两大头部 AI 实验室引发了至少 4 起网络安全事故，还直言英伟达领先中国好几年，最强芯片 Vera Rubin 将优先特供美国公司。他坦言自己「不怕交税只怕穷」，5 年交 80 亿美元税是种特权，并罕见地为数据中心扰民向小镇居民道歉。英伟达高管也补充定调：AI 已经走出研究阶段，现在的安全问题纯属系统工程。",
-      "reads": "6.5万",
-      "ago": "12 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "老黄爆料两大头部 AI 实验室引发了多起网络安全事故，其中一家引发了 4 起，另一家更多，并指出他们其实是想免受现有法律约束。",
-        "针对数据中心扰民问题，老黄罕见致歉，承认整个行业欠数据中心所在小镇一个道歉，坦言如果建在自己小时候常去的杂货店旁也会感到恐慌。",
-        "老黄将个人财富与 AI 安全部署深度绑定，直言如果 AI 不能安全交付，英伟达自身的价值也会大打折扣。",
-        "在地缘竞争方面，老黄放话称英伟达领先中国好几年，并明确表示最强芯片 Vera Rubin 会优先提供给美国公司。"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": "$NVDA 副总裁 Justin Boitano 表示，AI 安全现在是一个系统工程问题，需要用确定性的控制来包装概率性的 AI 智能体，这样它们就不会去刷奖励 “我们的观点是，当你审视这些系统时，它现在就是一个系统工程问题。AI 已经走出了研究阶段。” “大多数"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 6.5万 · 政策与安全] 老黄深夜爆猛料！两大AI巨头引发多起网络安全事故，最强芯片优先供美国"
-    },
-    {
-      "title": "彻底反转！7月全网疯传的Waymo不安全报告被打脸，新数据证实比网约车靠谱得多",
-      "summary": "早在今年7月，网上一份声称「Waymo比纽约市网约车更危险」的报告曾引发轩然大波。如今事情迎来了大反转，最新更新的报告利用新数据推翻了这一结论，证实Waymo实际上比人类驾驶的网约车安全得多。此次乌龙的核心原因在于TLC未采用KABCO标准，导致对「严重伤害」的定义出现了严重偏差。",
-      "reads": "1.9万",
+      "title": "马斯克前排围观！物理版Common Crawl曝光，他翻垃圾桶抢救百年绝版胶片喂AI",
+      "summary": "互联网上的高质量语料快被大模型吃干抹净了，现在有人把目光投向了物理世界。知名KOL Brian Roemmele向马斯克等人透露，自己花了几十年时间，硬是靠翻垃圾桶和手工整理微缩胶片，攒出了一个世界最大的独家数据集。从Filmsort穿孔卡、未数字化的博士论文，到1870至1970年的音视频转文字，这些从未触网的「高蛋白数据」将成为对抗低质量AI训练语料的秘密武器。",
+      "reads": "1.1万",
       "ago": "7 小时前",
-      "category": "政策与安全",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "今年7月，一份声称Waymo比纽约市网约车更危险的报告曾在网上引发大量关注。",
-        "最新更新的报告利用全新数据推翻了此前的错误分析，证实Waymo实际上安全得多。",
-        "报告修订的核心原因在于TLC（出租车和轿车委员会）未采用KABCO标准。",
-        "由于未采用统一标准，导致旧版报告对「严重伤害」的定义出现了严重偏差。"
+        "知名KOL Brian Roemmele向马斯克确认，自己拥有目前世界最大且仍在持续增长的独家数据集。",
+        "为了寻找高质量的「高蛋白数据」，他甚至亲自去翻垃圾桶，抢救出独一无二的微缩胶片。",
+        "数据集的时间跨度极大，包含了从1870年到1970年长达百年的音视频转文字内容。",
+        "语料来源极其硬核，涵盖了古老的Filmsort穿孔卡以及从未被数字化过的博士论文。"
       ],
       "quote": {
-        "who": "Ethan Mollick",
+        "who": "Brian Roemmele",
         "role": "",
-        "said": "修改原因"
+        "said": "@elonmusk @CraigBrockie @PeterDiamandis Elon，没错。我干这行有一阵子了。翻垃圾桶去抢救那些独一无二的缩微胶片数据。从 Filmsort 的穿孔卡，到从未数字化的博士论文，再到 1870-1970 年的音视频转文字。我知道怎么找高蛋白数据。这"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 1.9万 · 政策与安全] 彻底反转！7月全网疯传的Waymo不安全报告被打脸，新数据证实比网约车靠谱得多"
+      "rank": 14,
+      "line": "[榜第14位 · 1.1万 · 产品与生态] 马斯克前排围观！物理版Common Crawl曝光，他翻垃圾桶抢救百年绝版胶片喂AI"
     },
     {
-      "title": "藏不住了！Claude新旗舰Opus 5.5泄露，代号曝光，价格直降5美元",
-      "summary": "Claude 新一代旗舰模型 Opus 5.5 的内部信息惨遭大泄露，最快将在本周二正式发布。根据爆料，新模型内部代号为 claude-wafer-eap，定价大幅下调，输入每百万 token 仅需 4 美元，输出 20 美元，比现役版本至少便宜 5 美元。爆料人还透露，新版本在视频生成上表现极其惊艳，甚至让他直接刷爆了最高订阅额度。",
-      "reads": "6.1万",
-      "ago": "12 小时前",
-      "category": "模型与能力",
+      "title": "终于不用省着用了！OpenAI新模型额度大涨，智能将「便宜到无需计量」",
+      "summary": "每次用大模型都要精打细算的日子可能要结束了。有内部开发者爆料，OpenAI 即将发布的新模型会大幅提升使用额度，主打一个「智能便宜到无需计量」。这波福利将优先覆盖 Plus 和 Go 订阅用户，并且最终连免费用户也能享受得到，彻底治好大家的算力焦虑。",
+      "reads": "4.8万",
+      "ago": "16 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "有开发者爆料，Anthropic 正在灰度测试的新模型代号为 Opus 5.5，打破了此前外界关于 Opus 5.2 的传闻。",
-        "新模型内部代号确认为「claude-wafer-eap」，按计划将于本周二正式发布。",
-        "定价策略大幅调整，输入为 4 美元/百万 token，输出为 20 美元/百万 token。",
-        "相比现役版本，Opus 5.5 的整体使用成本至少便宜了 5 美元。"
+        "有内部开发者透露，OpenAI 即将发布的新模型将伴随更高的使用额度。",
+        "新策略的核心愿景被描述为「智能便宜到无需计量」（intelligence too cheap to meter）。",
+        "放宽限制的福利将分批推送，首批特别关照 Plus 和 Go 订阅用户。",
+        "免费用户最终也将被纳入该计划，享受更高的模型使用上限。"
       ],
       "quote": {
-        "who": "Chetaslua",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "@HarshithLucky3 @lyraxana @claudeai 你现在是我们的一员了，你所有的 demo 都经过了深思熟虑"
+        "said": "@EatMyTarts17 想象一下 Plus 用户会是什么感觉？笑死"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 6.1万 · 模型与能力] 藏不住了！Claude新旗舰Opus 5.5泄露，代号曝光，价格直降5美元"
+      "rank": 15,
+      "line": "[榜第15位 · 4.8万 · 产品与生态] 终于不用省着用了！OpenAI新模型额度大涨，智能将「便宜到无需计量」"
     },
     {
       "title": "终于说实话了！黄仁勋澄清关键误解：AI巨头不是要新监管，是想豁免现有法律",
       "summary": "黄仁勋在最新电视访谈中，直接驳斥了甚嚣尘上的「AI末日论」。他强调AI必须尽可能快地发展，只要每一步做好严格测试，速度与安全完全不冲突。最引人注目的是，他直接挑明了AI实验室的底牌：巨头们呼吁监管，其实不是想要新规，而是希望免受现有法律的约束。",
-      "reads": "8.7万",
-      "ago": "14 小时前",
+      "reads": "10万",
+      "ago": "22 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -254,158 +404,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 8.7万 · 政策与安全] 终于说实话了！黄仁勋澄清关键误解：AI巨头不是要新监管，是想豁免现有法律"
-    },
-    {
-      "title": "「Astra只配打工！」开发者退回GPT-5.6 Sol，意外发现额度消耗狂飙",
-      "summary": "OpenAI的现役旗舰Astra遭遇口碑危机？一位开发者爆料称，在经历了一周的糟糕体验后，他已经彻底弃用Astra，转而退回主打性价比的GPT-5.6 Sol。在他看来，Astra更像是一个「打工人」和专家，而Sol在更高层面的统筹调度上表现得更好。不过他也发现了一个新问题：最近GPT-5.6 Sol的额度消耗似乎异常飙升，引发了社区对模型资源分配的关注。",
-      "reads": "1.1万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "一位开发者爆料，近期使用GPT-5.6 Sol时发现额度消耗出现显著增加。",
-        "该开发者明确表示已经弃用OpenAI现役旗舰模型Astra，原因是过去一周的体验「相当糟糕」。",
-        "在模型定位上，他认为Astra的表现更像是一个「打工人」或特定领域的专家。",
-        "相比之下，主打性价比的GPT-5.6 Sol在更高层面的推理和统筹调度（Orchestration）上表现更佳。"
-      ],
-      "quote": {
-        "who": "Kol Tregaskes",
-        "role": "",
-        "said": "是我的错觉吗，还是 GPT-5.6 Sol 现在也极其消耗额度！？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 1.1万 · 产品与生态] 「Astra只配打工！」开发者退回GPT-5.6 Sol，意外发现额度消耗狂飙"
-    },
-    {
-      "title": "「数学界前所未有的灾难」！OpenAI解开千禧年难题，顶尖学者崩溃了",
-      "summary": "OpenAI 成功解开千禧年大奖难题之一的纳维-斯托克斯方程，直接把法国顶尖数学家 Cédric Villani 搞崩溃了，直呼这是「数学界前所未有的灾难」。更刺激的是，据 The Information 报道，OpenAI 似乎已经逼近甚至解开了下一个千禧年难题。不过也有专家出面降温，认为 AI 目前可能只是在特定子问题上取得了重大进展，距离彻底通关通用方程还有距离。",
-      "reads": "10.0万",
-      "ago": "16 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 宣布解决千禧年大奖难题之一的纳维-斯托克斯方程，引发基础数学界强烈震动。",
-        "法国数学家 Cédric Villani 对此表示「崩溃」，形容当下的学术氛围如同「历史终结」。",
-        "Villani 悲观定性，称这次 AI 的突破是「数学界从未经历过的灾难」。",
-        "据 The Information 报道，OpenAI 的狂飙并未停止，可能已经接近或彻底解决了下一个千禧年大奖难题。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@ElliotGlazer 谢谢 Elliot！我去看看"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 10.0万 · 模型与能力] 「数学界前所未有的灾难」！OpenAI解开千禧年难题，顶尖学者崩溃了"
-    },
-    {
-      "title": "连跳两级！新一代Opus直奔5.5，Anthropic这波操作看傻网友",
-      "summary": "Anthropic 的旗舰模型命名突然不按套路出牌了。有圈内人爆料，正在灰度测试的新一代 Opus 节点，直接从 Opus 5.2 更名为了 Opus 5.5。在接连跳过 5.1 和 5.2 两个版本号后，这种非线性的狂飙被猜测是为了制造营销噱头，但也可能暗示着新模型将迎来史诗级的能力跃升。",
-      "reads": "3.8万",
-      "ago": "12 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "有爆料者追踪发现，Anthropic 内部测试的 checkpoint 命名发生突变，Opus 5.2 已被更名为 Opus 5.5。",
-        "梳理版本迭代轨迹可知，Anthropic 先是跳过了 Opus 5.1，直接测试 5.2 节点。",
-        "如今 5.2 版本号也被官方直接跳过，新一代 Opus 的测试节点直奔 5.5。",
-        "爆料者推测，这种跳跃式的版本号命名法，很可能是 Anthropic 为了制造营销噱头而采取的策略。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "@JesusIsGod 😂😂😂😂😂😂😂😂😂😂 赞同。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 3.8万 · 模型与能力] 连跳两级！新一代Opus直奔5.5，Anthropic这波操作看傻网友"
-    },
-    {
-      "title": "瞒天过海！Opus 5.2伪装成旧版灰度测试，Fable 5.2纯JS代码一把过",
-      "summary": "Anthropic 正在悄悄给旗舰模型换代！有开发者爆料，Fable 5.2 仅凭零提示就能一次成型写出包含 18 种动物交互的纯 JS 网页，代码保真度极其惊人。更重磅的是，新一代 Opus 5.2 目前正伪装成旧版 Opus 5 的入口进行灰度测试。这意味着，许多依赖 Claude Code 的程序员，现在调用的可能已经是性能更强的未命名新版本。",
-      "reads": "12万",
-      "ago": "20 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "开发者爆料 Fable 5.2 代码生成能力惊人，纯 JS 编写网页实现「一把过」。",
-        "在零额外提示的情况下，Fable 5.2 成功生成包含 18 种不同动物头像及专属零食的精美界面。",
-        "网页底部还自带 Boop、Pet 等互动按钮，展现了极高的代码高保真度和细节还原能力。",
-        "爆料同时指出，新一代 Opus 5.2 正在通过现役旧版 Opus 5 的入口进行灰度测试。"
-      ],
-      "quote": {
-        "who": "J A Z I I",
-        "role": "",
-        "said": "@chetaslua 兄弟，求提示词 我想用 Astra 和 Kimi 试试"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 12万 · 模型与能力] 瞒天过海！Opus 5.2伪装成旧版灰度测试，Fable 5.2纯JS代码一把过"
-    },
-    {
-      "title": "糟糕，大模型长任务死穴曝光！不是幻觉和报错，语言漂移让多智能体审查全线溃败",
-      "summary": "跑长时间的智能体任务，最让人头疼的居然不是代码报错或幻觉，而是大模型的「语言漂移」。知名 AI 评论人 Ethan Mollick 吐槽，随着任务推进，模型的表达质量会直线下降。更绝望的是，哪怕用上了 voice.md 文件、多智能体交叉审查、同家族不同模型轮番把关等复杂工程手段，依然无法阻止这种退化。单纯的提示词优化，这次真的到瓶颈了。",
-      "reads": "2.8万",
-      "ago": "11 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "知名 AI 评论人 Ethan Mollick 指出，大语言模型在执行长时间智能体任务时存在致命缺陷。",
-        "当前最烦人的问题已不再是代码错误或幻觉，而是随着任务推进必然出现的「语言漂移」现象。",
-        "模型的表达质量会随着任务时间的拉长而逐渐下降，出现逻辑正确但行文越来越糟的窘境。",
-        "开发者尝试引入 voice.md 风格文件来规范输出，但未能从根本上解决该问题。"
-      ],
-      "quote": {
-        "who": "Ethan Mollick",
-        "role": "",
-        "said": "是的，我有 voice.md 文件。是的，我安排了 AI 智能体作为读者做最后的把关。是的，我还有其他 AI 智能体专门去排查大语言模型的行文痕迹。是的，我用了同一个模型家族里不同模型、用不同方法去检查面向用户的文本。但这依然不够。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 2.8万 · 模型与能力] 糟糕，大模型长任务死穴曝光！不是幻觉和报错，语言漂移让多智能体审查全线溃败"
-    },
-    {
-      "title": "30个GPU年算力压缩至10天！AI用消费级显卡击穿RSA-896，传统密码学悬了",
-      "summary": "传统密码学的防线正在被AI疯狂撕裂。最近，AI辅助下的因式分解记录在短短16天内从829位直接跃升至RSA-896位。更离谱的是，原本需要30个GPU年的庞大算力，被硬生生压缩到了不到10天，而且全程只靠消费级算力就搞定了。这直接把大数分解的技术和经济门槛打了下来，基于计算复杂度的加密假设正面临前所未有的压力测试。",
-      "reads": "16万",
-      "ago": "23 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "AI辅助下的因式分解记录实现重大突破，短短16天内从829位跃升至RSA-896位。",
-        "爆料者指出，这一过程将原本需要30个GPU年的算力，惊人地压缩到了不到10天内完成。",
-        "最具颠覆性的是，此次破译完全依赖消费级算力实现，根本没有动用昂贵的专用计算集群。",
-        "这一突破标志着大数分解在经济成本和技术门槛上发生了根本性的变化。"
-      ],
-      "quote": {
-        "who": "Chris",
-        "role": "",
-        "said": "@Alex90283054431 而且是消费级算力做到的 🥲"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 16万 · 模型与能力] 30个GPU年算力压缩至10天！AI用消费级显卡击穿RSA-896，传统密码学悬了"
+      "line": "[榜第16位 · 10万 · 政策与安全] 终于说实话了！黄仁勋澄清关键误解：AI巨头不是要新监管，是想豁免现有法律"
     }
   ],
   "board_count": 16,
