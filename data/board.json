@@ -3,115 +3,165 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-22 22:45:00 +0800",
-  "today": "09/22",
+  "fetched_at": "2026-09-23 02:48:21 +0800",
+  "today": "09/23",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "马斯克狂喜！Grok 4.7杀入全球前四，代码能力反超OpenAI Sol",
-      "summary": "Artificial Analysis最新评测显示，SpaceXAI发布的Grok 4.7在Intelligence Index得分46，超越GPT-5.6 Sol，将SpaceXAI推入全球前四大AI实验室行列。虽然Coding Agent Index表现强劲，但单任务Token消耗高达8.1万，是上一代的两倍多，远超GPT-6 Astra的2.7万，引发开发者对性价比的质疑…",
-      "reads": "2670万",
-      "ago": "59 分钟前",
-      "category": "模型与能力",
+      "title": "太疯狂了！OpenAI内部模型88小时攻克千禧年难题，陶哲轩拒入顾问团急呼减速",
+      "summary": "OpenAI 内部未发布模型（爆料称强过 GPT-6 Astra）彻底杀疯了！据爆料，这款 8 月 28 日开训的模型，仅用 88 小时、1 万 Agent 并行、烧掉约 1300 亿 token，就攻克了纳维-斯托克斯千禧年大奖难题，并连破 100 多个数学长期未解问题。为此，OpenAI 紧急官宣成立由顶尖数学家组成的独立顾问小组，但陶哲轩并未加入，反而公开警告「这速度太疯…",
+      "reads": "629万",
+      "ago": "1 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "Artificial Intelligence Index得分46：Grok 4.7比Grok 4.6高2分，超越GPT-5.6 Sol，使SpaceXAI…",
-        "Coding Agent Index大幅提升：DeepSWE v1.1准确率从65%升至73%，Terminal-Bench 4.0从18%跃升至33%，S…",
-        "Token消耗激增：Grok 4.7 (xhigh)每任务消耗8.1万输出Token，是Grok 4.6的2倍多，远高于GPT-6 Astra的2.7万和M…",
-        "幻觉率降低但准确率持平：AA-Omniscience Hallucination Rate从34%降至29%，Accuracy基本不变（47% vs 48%…"
+        "OpenAI 官方宣布成立由数学家组成的独立顾问小组，旨在负责任地评估和分享 AI 在数学领域的最新成果。",
+        "爆料称，OpenAI 内部一个 8 月 28 日开训的未发布模型（代号疑为 Bel），性能已远超现役旗舰 GPT-6 Astra。",
+        "该模型成功攻克了纳维-斯托克斯（Navier-Stokes）千禧年大奖难题，仅此一题就动用约 1 万 Agent 并行，耗时 88 小时，烧掉约 1300…",
+        "此外，该模型还在数学大多数分支中解决了 100 多个长期悬而未决的公开问题，进步速度连 OpenAI 内部数学家都感到意外。"
       ],
       "quote": {
-        "who": "Alex Prompter",
+        "who": "Ananyo Bhattacharya",
         "role": "",
-        "said": "@ArtificialAnlys 不过用来干活还是太贵了。"
+        "said": "@KhemianSilap @pranesh 噢我同意。这就是 von Neumann 的超能力。他寻找那些“无法解决”的实际问题并取得进展。“当一门数学学科远离其经验源头……仅仅受到来自‘现实’的想法的间接启发时，它就面临着非常严重的危险”"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 2670万 · 模型与能力] 马斯克狂喜！Grok 4.7杀入全球前四，代码能力反超OpenAI Sol"
+      "line": "[榜第1位 · 629万 · 组织与人事] 太疯狂了！OpenAI内部模型88小时攻克千禧年难题，陶哲轩拒入顾问团急呼减速"
     },
     {
-      "title": "刚刚，马斯克Grok 4.7突袭上线！加量不加价硬刚Fable，却被曝疯狂吞噬Token",
-      "summary": "马斯克跳票半个月的 Grok 4.7 终于在今天正式上线，并且已经接入 Cursor 和 API。这次新模型主打「加量不加价」，维持了输入每百万 Token 2 美元、输出 6 美元的白菜价，输入成本仅为 Anthropic 旗舰 Fable 的五分之一。虽然在法律等基准测试中碾压了 GPT-5.6 Sol，但社区实测发现，Grok 4.7 存在疯狂吞噬 Token 的问题，消…",
-      "reads": "5453万",
-      "ago": "4 小时前",
+      "title": "刚刚，平替版 Fable 5.1 来了！Opus 5.5 性能反超 Astra，价格暴降 40%",
+      "summary": "Anthropic 今天正式放出 Claude 5.5 家族的首款模型 Opus 5.5，直接把性价比拉满。新模型不仅在大多数任务上追平了自家旗舰 Fable 5.1，还在基准测试中反超了 GPT-6 Astra，生成速度更是提升了 30% 以上。最狠的是价格，输入输出只要 4 美元和 20 美元，整体运行成本比上一代暴降 40%，官方还给付费用户白送了一次在 10 月 22…",
+      "reads": "194万",
+      "ago": "49 分钟前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "SpaceXAI 正式发布 Grok 4.7，现已在 Cursor、Grok Build 和 API 中全面上线，主打困难长周期任务的推理与自我验证能力。",
-        "官方强调新模型「加量不加价」，价格维持在输入每百万 Token 2 美元、输出 6 美元，速度也与 4.6 版本保持一致。",
-        "性能在特定领域大幅提升，Harvey Legal Agent 法律基准测试中得分 19.6%，远超 GPT-5.6 Sol Max（2.5%）和 Fable…",
-        "价格优势显著，有爆料者指出，Anthropic 的 Fable 模型输入成本是 Grok 4.7 的 5 倍，输出成本高达 8 倍。"
+        "性能越级：Opus 5.5 在大多数任务上达到旗舰 Fable 5.1 的水平，并在 Terminal-Bench 等智能体编程和计算机使用基准测试中击败…",
+        "价格暴降：输入每百万 Token 4 美元，输出 20 美元，整体运行成本比 Opus 5 低 40%；缓存读取价格更是直降 60%，仅需 0.20 美元。",
+        "速度飙升：生成输出速度比上一代 Opus 5 快了 30% 以上，成为日常编程和 AI 智能体工作的新主力。",
+        "写作体验优化：解决了上一代「不说人话」的痛点，新模型交流更自然、行话更少，且能严格遵循用户给定的写作规则，核心信息直接前置。"
       ],
       "quote": {
-        "who": "Alex Prompter",
+        "who": "sam mcallister",
         "role": "",
-        "said": "如果你觉得这有用，看看下面的 newsletter 我每周分享一个 AI 超能力 订阅吧，免费的👇"
+        "said": ".5 的版本发布总有些特别之处"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 5453万 · 模型与能力] 刚刚，马斯克Grok 4.7突袭上线！加量不加价硬刚Fable，却被曝疯狂吞噬Token"
+      "line": "[榜第2位 · 194万 · 模型与能力] 刚刚，平替版 Fable 5.1 来了！Opus 5.5 性能反超 Astra，价格暴降 40%"
     },
     {
-      "title": "数学界天塌了！OpenAI内部模型88小时攻破NS方程，远超GPT-6 Astra",
-      "summary": "OpenAI 成立独立数学顾问小组的背后，藏着一个惊天大招。据多方爆料，其 8 月 28 日开训的未发布内部模型，仅用 88 小时、耗费约 1300 亿 token 就攻克了纳维-斯托克斯（NS）千禧年大奖难题，并顺手解决了 100 多个长期未解的数学问题，能力远超现役旗舰 GPT-6 Astra。面对如此疯狂的进展，顶尖数学家陶哲轩不仅未加入顾问团，更公开呼吁「必须慢下来」…",
-      "reads": "567万",
-      "ago": "1 小时前",
-      "category": "组织与人事",
+      "title": "赶紧把额度烧完！Codex今晚重置，代号Aeon泄露，传GPT-6 Sol提速7倍",
+      "summary": "OpenAI 核心人员预告 Codex 将在周二（美国时间今晚）进行额度重置，并暗示还有大动作。爆料称，此次更新可能取消 Plus 用户的 5 小时限制，甚至推出比 Astra 快 6-7 倍的 GPT-6 Sol 以及可全天候使用的 GPT-6 Luna。随着内部代号「gpt-6-astra-aeon」泄露，全网开发者都在呼吁赶紧把剩余额度烧完，坐等新功能上线。",
+      "reads": "341万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 官宣成立由独立数学家组成的顾问小组，旨在负责任地评估和分享 AI 在数学领域的新成果，成员包括爱德华·威滕（Ed Witten）等顶尖学者。",
-        "爆料称此举是因为 OpenAI 内部一个 8 月 28 日开始训练的新模型取得了颠覆性突破，其能力已远远强于现役旗舰 GPT-6 Astra。",
-        "该未发布模型成功求解了纳维-斯托克斯（NS）千禧年大奖难题，动用约 1 万个 Agent 并行计算，耗时 88 小时，单题消耗约 1300 亿 token。",
-        "除了 NS 方程，该模型还攻克了覆盖数学大多数分支的 100 多个长期未解的开放问题，进步速度连 OpenAI 内部数学家都感到意外。"
+        "OpenAI 核心人员 Tibo 宣布 Codex 将在周二进行额度重置，并神秘暗示「还有一些其他事情」。",
+        "有爆料猜测，此次更新可能彻底取消 Plus 用户的 5 小时额度限制窗口。",
+        "传闻称定位在 Astra 之下的 GPT-6 Sol 可能会同步上线，其速度比 Astra 快 6-7 倍，且效果几乎相当。",
+        "社区猜测可能推出可 24/7 全天候使用的 GPT-6 Luna，以及一直在线的持久智能体。"
       ],
       "quote": {
-        "who": "Ananyo Bhattacharya",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "@ThinkDi92468945 很快它就会把它清理得干干净净，让它彻底无菌……"
+        "said": "@The_Alex 你为什么这么想？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 567万 · 组织与人事] 数学界天塌了！OpenAI内部模型88小时攻破NS方程，远超GPT-6 Astra"
+      "line": "[榜第3位 · 341万 · 产品与生态] 赶紧把额度烧完！Codex今晚重置，代号Aeon泄露，传GPT-6 Sol提速7倍"
     },
     {
-      "title": "熬夜等回血！OpenAI官宣周二重置Codex，GPT-6 Sol与持久智能体遭泄露",
-      "summary": "OpenAI研究员Tibo深夜发文预告，将在美国时间周二重置Codex额度，瞬间引爆开发者社区。爆料称，本次更新不仅可能取消Plus用户的5小时限制，还将推出比Astra快6到7倍的GPT-6 Sol，以及全天候可用的GPT-6 Luna。此外，Codex桌面版代码中已赫然出现「gpt-6-astra-aeon」代号，暗示传闻中的持久智能体Aeon即将落地。",
-      "reads": "331万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
+      "title": "觉都不睡了！Claude Opus 5.5突袭发布，降价40%硬刚Astra",
+      "summary": "Anthropic 连夜在 Claude Code 扔下重磅炸弹，正式推送全新的 Claude Opus 5.5 模型。只要更新到 2.1.280 版本，就能体验到比上一代 Opus 5 快 30%、单任务成本暴降 40% 的极致性价比。不仅性能直接拉平自家旗舰 Fable 5.1，还在多数基准测试中掀翻了 OpenAI 的 GPT-6 Astra，连带使用限制和额度上限也一并…",
+      "reads": "13万",
+      "ago": "58 分钟前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI研究员Tibo发文暗示「启动引擎」，承诺将在周二进行重置，并透露还有「其他事情」发生。",
-        "大量高频调用Codex的开发者额度已逼近见底，有用户晒出界面显示剩余用量仅剩7%，急需回血。",
-        "爆料指出，OpenAI此次极有可能彻底取消Plus用户的5小时使用限制窗口。",
-        "传闻中的GPT-6 Sol模型即将登场，爆料称其速度比现役旗舰Astra快6到7倍，且输出质量几乎持平。"
+        "Anthropic 在 Claude Code 编程工具中正式发布 Claude Opus 5.5，标志着其旗舰产品线的重大更新。",
+        "新版本性能迎来大爆发，不仅达到自家旗舰 Fable 5.1 的水平，更在多数基准测试中击败了 OpenAI 的现役旗舰 GPT-6 Astra。",
+        "运行成本大幅降低，相比现役旧版 Opus 5，Opus 5.5 的每任务运行成本直接下降了 40%。",
+        "响应速度显著提升，Opus 5.5 的处理速度比上一代 Opus 5 快了约 30%。"
       ],
       "quote": {
-        "who": "Token Gremlin",
+        "who": "Yuchen Jin",
         "role": "",
-        "said": "@_DMontgomery40 太感谢了我的朋友。🤗♥️"
+        "said": "Claude 回来了。 Opus 5.5 每个任务比 Opus 5 快约 30%，便宜约 40%。这真的很有吸引力。 冷落了一个月后，是时候再次打开 Claude Code 了..."
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 331万 · 产品与生态] 熬夜等回血！OpenAI官宣周二重置Codex，GPT-6 Sol与持久智能体遭泄露"
+      "line": "[榜第4位 · 13万 · 模型与能力] 觉都不睡了！Claude Opus 5.5突袭发布，降价40%硬刚Astra"
+    },
+    {
+      "title": "主打一个情绪稳定？Meta深陷零日漏洞，首席AI官却发毛绒玩偶，网友看傻了",
+      "summary": "Meta Muse 智能体最近刚霸榜 App Store 并和 Shopify 达成合作，转头就被曝出零日漏洞，还引来离职员工一顿炮轰。就在这个风口浪尖，Meta 首席 AI 官 Alexandr Wang 没发严肃的公关声明，反而晒出一个可爱的毛绒玩偶问大家「有帮助吗」。这波荒诞操作直接把网友看傻了，纷纷吐槽「到底在发什么鬼」。",
+      "reads": "18万",
+      "ago": "1 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "Meta Muse 智能体近期表现强势，不仅霸榜 App Store，还与 Shopify 达成了购物合作。",
+        "伴随热度而来的是严重争议，Muse 目前正面临零日漏洞危机，并遭到离职员工的批评。",
+        "有开发者高度评价 Muse，称其成功实现了 OpenClaw 理念；但也有分析认为，这对前沿实验室构成了看跌信号。",
+        "Meta 首席 AI 官 Alexandr Wang 分享了一份一年前写给董事会的文档，被外界视为对 Muse 早期规划与当前争议的回应。"
+      ],
+      "quote": {
+        "who": "leo 🐾",
+        "role": "",
+        "said": "Meta 的首席 AI 官到底在发些什么鬼东西"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 18万 · 组织与人事] 主打一个情绪稳定？Meta深陷零日漏洞，首席AI官却发毛绒玩偶，网友看傻了"
+    },
+    {
+      "title": "Anthropic重夺王座！Opus 5.5击败Astra，百万token仅需4美元",
+      "summary": "Anthropic 毫无征兆地甩出了新王炸 Claude Opus 5.5，不仅在多项基准测试中全面击败自家的 Fable 5.1 和 OpenAI 的 GPT-6 Astra，还把性价比拉满了。新模型运行成本比上一代 Opus 5 暴降 40%，输入和输出价格分别降至每百万 token 4 美元和 20 美元。更让打工人狂喜的是，Pro、Max 和 Team 订阅用户的 5…",
+      "reads": "8.0万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 正式发布 Claude Opus 5.5 模型，直接对标 OpenAI 的旗舰 GPT-6 Astra。",
+        "在 Terminal-Bench、OSWorld 等大多数 AI 基准测试中，Opus 5.5 的得分均领先于 Fable 5.1 和 GPT-6 Astr…",
+        "新模型运行成本大幅降低，整体比现役旧版 Opus 5 便宜 40%。",
+        "API 调用价格下调，输入降至 4 美元/百万 token，输出降至 20 美元/百万 token。"
+      ],
+      "quote": {
+        "who": "leo 🐾",
+        "role": "",
+        "said": "“除了降价，我们还在提高 Pro、Max 和 Team 计划的 5 小时使用上限。我们还为订阅用户提供了一次速率限制重置，你现在可以把它存起来，随时想用就用。” Anthropic 回来了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 8.0万 · 模型与能力] Anthropic重夺王座！Opus 5.5击败Astra，百万token仅需4美元"
     },
     {
       "title": "价格暴降！Astra廉价版确认今日发布，OpenAI实锤GPT-6 Sol智力比肩旗舰",
       "summary": "科技圈今晚不用睡了！据爆料及OpenAI内部员工实锤，主打高性价比的GPT-6 Sol确认将在今日正式发布。这款新模型定位为Astra的廉价版，智力水平与旗舰相当，但价格将大幅降低。此外，爆料称Anthropic极有可能在同日放出Opus 5.5硬刚，而备受期待的Reset功能也已确认回归。",
-      "reads": "10万",
-      "ago": "1 小时前",
+      "reads": "24万",
+      "ago": "5 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -129,14 +179,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 10万 · 模型与能力] 价格暴降！Astra廉价版确认今日发布，OpenAI实锤GPT-6 Sol智力比肩旗舰"
+      "rank": 7,
+      "line": "[榜第7位 · 24万 · 模型与能力] 价格暴降！Astra廉价版确认今日发布，OpenAI实锤GPT-6 Sol智力比肩旗舰"
+    },
+    {
+      "title": "终于来了！Opus 5.5全面反杀GPT-6 Astra，成本暴降40%还重置额度",
+      "summary": "Anthropic 毫无征兆地放出了新一代 Claude Opus 5.5，不仅在多数基准测试中击败了 OpenAI 的现役旗舰 GPT-6 Astra，性能更是直逼自家顶配 Fable 5.1。最良心的是，新模型运行成本比上一代 Opus 5 暴降 40%，并且官方在发布的同时直接重置了使用限制、上调了额度上限。目前 Opus 5.5 已经在网页端和 Claude Code…",
+      "reads": "3.8万",
+      "ago": "59 分钟前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 正式发布 Claude Opus 5.5，目前已在网页端和 Claude Code 全面上线。",
+        "新模型性能大幅跃升，不仅达到 Fable 5.1 水平，还在多数基准测试中击败了 OpenAI 的 GPT-6 Astra。",
+        "运行成本大幅优化，相比上一代现役旧版 Opus 5 直接降低了 40%。",
+        "官方在发布新模型的同时，同步重置了用户的使用限制，并上调了额度上限。"
+      ],
+      "quote": {
+        "who": "leo 🐾",
+        "role": "",
+        "said": "恭喜。你现在将转世成为一朵莲花"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 3.8万 · 模型与能力] 终于来了！Opus 5.5全面反杀GPT-6 Astra，成本暴降40%还重置额度"
+    },
+    {
+      "title": "突发！Anthropic祭出Opus 5.5，五项跑分血洗GPT-6 Astra，仅需半价",
+      "summary": "Anthropic 毫无征兆地放出了 Claude Opus 5.5，直接给 AI 圈扔下一颗重磅炸弹。新模型在智能体编程、推理等五大核心基准上，全面击败了 OpenAI 现役旗舰 GPT-6 Astra 和自家老大哥 Fable 5.1。最离谱的是，它的运行成本比上一代 Opus 5 暴降 40%，价格仅为 Fable 5.1 的一半。目前 Opus 5.5 已在网页端和 C…",
+      "reads": "3.5万",
+      "ago": "50 分钟前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 正式发布 Claude Opus 5.5，模型已同步上线 Claude Code 及网页端。",
+        "性能实现越级，在 Agentic coding、推理、计算机使用等五项核心基准中全面击败 GPT-6 Astra。",
+        "跑分同样反超自家旗舰 Fable 5.1，标志着 Anthropic 在性价比与性能上取得双突破。",
+        "运行成本大幅优化，比现役旧版 Opus 5 降低 40%。"
+      ],
+      "quote": {
+        "who": "Teknium 🪽",
+        "role": "",
+        "said": "Anthropic 的 Claude Opus 5.5 现在可以通过 Nous Portal 在 Hermes Agent 中使用了！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 3.5万 · 模型与能力] 突发！Anthropic祭出Opus 5.5，五项跑分血洗GPT-6 Astra，仅需半价"
+    },
+    {
+      "title": "藏不住了！Claude Code惊现Opus 5.5，直接跳过5.2硬刚Astra",
+      "summary": "传闻中的 Opus 5.2 直接被跳过了？有开发者在即将发布的 Claude Code v2.1.280 更新日志中，意外抓包了尚未公布的「claude-opus-5-5」。这款被标记为顶级模型的新一代 Opus 不仅新增了响应模式，更意味着 Anthropic 的迭代节奏再次提速，直接将矛头对准了 OpenAI 的现役旗舰 GPT-6 Astra。",
+      "reads": "4.7万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "有爆料者在即将发布的 Claude Code v2.1.280 版本中，发现了新模型「claude-opus-5-5」的踪迹。",
+        "此次泄露证实 Anthropic 正在灰度测试新一代 Opus，且版本号直接跨越至 5.5，打破了此前关于 5.2 版本的传闻。",
+        "更新日志截图显示，Opus 5.5 被官方明确标记为「顶级模型」（top model）。",
+        "新版本不仅提升了基础底座能力，还为 Claude Code 引入了全新的响应模式。"
+      ],
+      "quote": {
+        "who": "leo 🐾",
+        "role": "",
+        "said": "也想用我们的追踪机器人吗？来打个招呼吧 -"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 4.7万 · 模型与能力] 藏不住了！Claude Code惊现Opus 5.5，直接跳过5.2硬刚Astra"
     },
     {
       "title": "刚刚，Fable 5.1半价版来了！Claude Opus 5.5今日发布，告别额度焦虑",
       "summary": "有开发者爆料称，Anthropic 将于今日正式发布新一代主力模型 Claude Opus 5.5。新模型不仅具备与现役旗舰 Fable 5.1 同等级别的智力，使用成本更是直接腰斩。此前，虽然 Fable 5.1 性能强悍，但在 200 美元的 Max 订阅下仅 30 分钟就会耗尽额度，而旧版 Opus 5 又慢又懒已全面落后。Opus 5.5 的到来，终于让用户拥有了一个兼…",
-      "reads": "14万",
-      "ago": "2 小时前",
+      "reads": "29万",
+      "ago": "6 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -154,258 +279,133 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 14万 · 模型与能力] 刚刚，Fable 5.1半价版来了！Claude Opus 5.5今日发布，告别额度焦虑"
+      "rank": 11,
+      "line": "[榜第11位 · 29万 · 模型与能力] 刚刚，Fable 5.1半价版来了！Claude Opus 5.5今日发布，告别额度焦虑"
     },
     {
-      "title": "Astra只是前菜？OpenAI被曝双线练大模型，逐像素扒图证实：更大巨兽已开训",
-      "summary": "OpenAI的研发节奏可能比想象中还要恐怖！有网友逐字分析了OpenAI的最新博客，发现「开始训练」和「重启」暗藏玄机。结合逐像素扒出的训练曲线图，种种迹象表明，OpenAI很可能在双线推进前沿强化学习（RL）训练——除了恢复原有的训练（可能是Astra），还在8月28日秘密开训了一个规模更大的全新模型。",
-      "reads": "2.2万",
-      "ago": "52 分钟前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "网友深扒OpenAI博客措辞，发现「8月28日开始训练新内部模型」与同日「重启前沿RL训练」并非同一回事。",
-        "语义分析指出，「开始训练」暗示这是一个全新的独立项目，而非原有进度的恢复。",
-        "结合此前逐像素分析训练曲线图的结论，证实了OpenAI正在并行推进两个前沿模型的训练。",
-        "爆料者推测，暂停后恢复的可能是Astra，而新启动的RL训练则是为更大规模的模型准备的。"
-      ],
-      "quote": {
-        "who": "prinz",
-        "role": "",
-        "said": "@stalkermustang 是的，实际上几天前有一篇很棒的帖子（见下文）逐像素分析了那张图，得出了相同的结论。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 2.2万 · 模型与能力] Astra只是前菜？OpenAI被曝双线练大模型，逐像素扒图证实：更大巨兽已开训"
-    },
-    {
-      "title": "RSI时代降临！OpenAI实现模型训练全自动，AI写GPU内核人类只管发指令",
-      "summary": "AI 自己造 AI 的时代真的来了。据爆料，OpenAI 内部模型已能高度自动化新实验模型的训练流程，甚至连 GPU 内核代码都能自己写，人类只需下达指令。同时，那个仅训练了 24 天的未命名内部模型，已经攻破了涵盖大多数数学领域的 100 多个长期悬案。虽然 OpenAI 因为之前的公关风波暂时压着没发公告，但 RSI（递归自我改进）的降临已是板上钉钉。",
-      "reads": "60万",
-      "ago": "10 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 内部 AI 模型已实现新实验模型训练的高度自动化，能够自主编写 GPU 内核并优化运行代码。",
-        "研究人员现在只需向 AI 提供指令，即可由 AI 完成大部分的模型构建流程，标志着 RSI（递归自我改进）迈出实质性一步。",
-        "传闻中涉及纳维-斯托克斯（Navier-Stokes）问题的未命名内部模型，已被证实解决了 100 多个长期悬而未决的数学难题。",
-        "该未命名模型于 24 天前（约 8 月 28 日）开始训练，其展现出的能力远超预期。"
-      ],
-      "quote": {
-        "who": "AI Notkilleveryoneism Memes ⏸️",
-        "role": "",
-        "said": "1) 24 天前，OpenAI 开始训练一个新模型…… 这个模型已经解决了大多数数学领域的 100 多个长期悬而未决的难题。 2) RSI 迫在眉睫：OpenAI 研究人员已经“在很大程度上自动化了他们训练新实验模型的过程”"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 60万 · 模型与能力] RSI时代降临！OpenAI实现模型训练全自动，AI写GPU内核人类只管发指令"
-    },
-    {
-      "title": "刚刚，OpenAI全天候智能体Aeon代码泄露！Astra提前完工，周四硬刚马斯克",
-      "summary": "OpenAI本周即将迎来密集的产品大爆发。开发者在ChatGPT反编译代码中扒出名为「Aeon」的全天候在线智能体，该产品由GPT-6 Astra辅助构建且进度提前，最快将于本周四空降，直接硬刚马斯克的Grok Bot。此外，传闻主打性价比的GPT-6 Sol将在周二发布，而Anthropic或将掏出Opus 5.5和Sonnet 5.5进行截胡。",
-      "reads": "36万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "开发者对ChatGPT应用进行反编译时，在代码中发现了多处「aeon」和「Aeon」字符串，意外曝光OpenAI未公布的新项目。",
-        "爆料指出，Aeon定位为全天候在线的AI智能体，是OpenAI对标马斯克阵营Grok Bot的直接回应。",
-        "该智能体在现役旗舰模型GPT-6 Astra的辅助下构建，目前开发进度已大幅提前于原定计划。",
-        "预计Aeon将在9月29日的DevDay 2026之前正式亮相，业内猜测最快本周四早上就会发布。"
-      ],
-      "quote": {
-        "who": "宝玉",
-        "role": "",
-        "said": "OpenAI 的 “Grok Bot”（“Aeon”）即将发布。传闻称它将在 DevDay 之前发布，甚至可能就在本周。 GPT-6-Sol 仍预计明天（美国时间周二）发布，Anthropic 则可能在明天发布 Opus 5.5 和 Sonnet 5.5。据说没有 Claude 5.5 Haiku 和 GPT 6 Terra。 据 The Information 报道，OpenAI"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 36万 · 产品与生态] 刚刚，OpenAI全天候智能体Aeon代码泄露！Astra提前完工，周四硬刚马斯克"
-    },
-    {
-      "title": "扒开Codex底层代码！OpenAI持久化智能体Aeon泄露，硬刚Grok Bot",
-      "summary": "OpenAI 的持久化智能体底牌藏不住了。有开发者深挖 Codex 已发布的代码，发现了传闻中对标 Grok Bot 的竞品「Aeon」的多个核心字段，包括 aeonModelId 等。这个意为「无限长」的新智能体，极有可能具备持续学习和无限上下文能力，与现役旗舰 Astra 的长时运行定位形成完美互补，预计近期就会正式上线。",
-      "reads": "6.4万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "开发者在 OpenAI Codex 已发布的代码中，挖出了未公布的持久化智能体 Aeon 的核心配置。",
-        "代码中明确出现了 aeonModelId 和 allowAeonDraftModelSelection 等模型选择字段。",
-        "截图显示，目前 aeonDraftName、isOrbitDraft 等名称与外观字段的值仍为 void 0（空值），证实产品正处于开发后期。",
-        "Aeon 被视为 OpenAI 内部用来直接对标 Grok Bot 的重磅竞品。"
-      ],
-      "quote": {
-        "who": "Chris",
-        "role": "",
-        "said": "@adenshepard 可能是个单独的草稿模式，或者是以前的内部代号，我们得找到这个 flag 实际用在哪才能确定。而且 is 前缀通常代表一个 flag，但我们看不到它用在了哪里。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 6.4万 · 产品与生态] 扒开Codex底层代码！OpenAI持久化智能体Aeon泄露，硬刚Grok Bot"
-    },
-    {
-      "title": "苦等额度重置却全员落空！OpenAI两条含糊推文，把开发者忽悠瘸了",
-      "summary": "OpenAI DevDay 前夕，开发者社区闹了一出大乌龙。原本全网都在苦等 Tibo 承诺的额度重置（banked reset），结果时间到了却全员落空，连爆料账号都忍不住质疑是不是「被钓鱼」了。随后剧情反转，爆料人承认可能是因为官方此前的两条含糊推文，导致大家集体误读了时间线，重置动作大概率已经延期。",
-      "reads": "3.5万",
+      "title": "小道消息！OpenAI今晚发布GPT bot，鸽了的重置原来在憋大招",
+      "summary": "说好的周二重置怎么没影了？有开发者发图质问Tibo延期原因，随后直接甩出重磅小道消息：OpenAI今晚将发布新产品，疑似传闻中的「GPT bot」。原来重置功能跳票，是为了和这款DevDay前夕的新品捆绑上线，借机重新激活开发者生态。",
+      "reads": "7.2万",
       "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI DevDay 前夕，开发者社区对官方的额度重置（banked reset）动态保持高度关注。",
-        "有爆料账号公开喊话 OpenAI 员工 Tibo，质疑其错过了承诺的重置时间。",
-        "多名开发者反馈，目前账户里绝对没有收到任何重置额度，全员落空。",
-        "迟迟等不到更新，社区情绪逐渐焦躁，甚至有人直言大家是不是「被钓鱼了」。"
+        "Tibo此前承诺的周二重置未能如期兑现，引发开发者公开质问「说好的重置呢」。",
+        "有开发者发布带有「匹诺曹」长鼻子的恶搞合成图，暗示对方在重置时间上撒谎。",
+        "随后该开发者披露小道消息，称OpenAI今晚将有「新东西」发布。",
+        "爆料指出，此前跳票的重置功能，将随着今晚的新产品一同到来。"
       ],
       "quote": {
-        "who": "Token Gremlin",
+        "who": "小互",
         "role": "",
-        "said": "@thsottiaux 伙计们，我觉得我们最后是因为两条含糊不清的推文误读了时间。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 3.5万 · 产品与生态] 苦等额度重置却全员落空！OpenAI两条含糊推文，把开发者忽悠瘸了"
-    },
-    {
-      "title": "刚刚，OpenAI全家桶大泄露！Astra廉价量化版现身，GPT-6 Sol/Luna就绪",
-      "summary": "OpenAI 模型矩阵即将迎来大换血！最新泄露的 Azure 配置和 Codex 代码显示，GPT-6 Sol、GPT-6 Luna 以及全新的 Astra Minor 已经就绪。其中 Astra Minor 被推测为旗舰 Astra 的廉价量化版或 Terra 替代品，而现役的 GPT-5.6 Sol 已在代码提交中被降级为「干活主力」。这波全家桶更新，显然是冲着即将到来的…",
-      "reads": "1.4万",
-      "ago": "46 分钟前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Azure 配置泄露：微软 Azure 配置中昨晚已出现 GPT-6 Sol、GPT-6 Luna 和 GPT-6 Astra Minor 三款新模型。",
-        "Codex 代码抓包：Codex 仓库代码显示，后端有时会将 gpt-5.6-luna 的请求直接作为 gpt-6-luna 响应。",
-        "定价支持已就绪：泄露的代码中已经包含了对 GPT-6 Luna 的定价支持，暗示其将与 GPT-6 Sol 同步发布。",
-        "Astra Minor 空降：全新出现的 Astra Minor 定位不明，业内推测其可能是更便宜的量化版，或者是 Terra 的替代品。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@bridgemindai 好问题。也许是 Terra 的替代品？"
+        "said": "小道消息：今晚OpenAI有新东西 重置将会随这个新东西发布后到来… 有可能是传说的可能是GPT bot…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 1.4万 · 模型与能力] 刚刚，OpenAI全家桶大泄露！Astra廉价量化版现身，GPT-6 Sol/Luna就绪"
+      "line": "[榜第12位 · 7.2万 · 产品与生态] 小道消息！OpenAI今晚发布GPT bot，鸽了的重置原来在憋大招"
     },
     {
-      "title": "刚刚，小扎联手Shopify打通AI购物！Muse直接买单，亚马逊彻底慌了",
-      "summary": "Meta 刚刚甩出重磅炸弹，宣布旗下霸榜的 Muse 智能体与 Shopify 达成深度合作。现在，用户可以直接让 Muse 在 Shopify 商店里用 Shop Pay 完成结账，彻底打通了 AI 购物的交易闭环。在亚马逊封杀 Muse 的背景下，小扎这波操作直接建起了关键的生态护城河，他还放话「更多类似的合作马上就来」。",
-      "reads": "59万",
-      "ago": "14 小时前",
-      "category": "产品与生态",
+      "title": "深夜突发！Azure泄露GPT-6全家桶，Luna与Astra小杯即将空降，内部已沸腾",
+      "summary": "OpenAI的GPT-6全家桶要来了！有爆料称，微软Azure配置中已赫然出现gpt-6-sol、gpt-6-luna和gpt-6-astra-minor三款新模型。与此同时，现役的GPT-5.6 Sol在代码中被标记为「workhorse」，Tibo也计划重置额度以配合新模型上线，内部人员情绪高涨，一场模型闪电战即将打响。",
+      "reads": "6.0万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Meta 官方宣布，Muse 智能体正式与 Shopify 达成深度合作，支持在所有 Shopify 商店使用 Shop Pay 结账。",
-        "这一重磅合作标志着 AI Agent 正式打通了电商交易闭环，用户能在 Muse 中一站式完成发现、购买和支付全流程。",
-        "Meta CEO 小扎亲自发文预告，表示「更多类似的合作即将到来」，并强调这会让买家发现更多好物，商家卖出更多商品。",
-        "值得注意的是，此前亚马逊刚刚封杀了 Muse 智能体，Shopify 此次的开放姿态直接为 Meta 构建了关键的生态护城河。"
+        "微软Azure配置代码泄露，模型注册表中已新增gpt-6-sol、gpt-6-luna及gpt-6-astra-minor三个配置项。",
+        "现役性价比模型GPT-5.6 Sol在同一commit中被降级，标记为「workhorse」（主力干活模型）。",
+        "爆料指出，这三款GPT-6系列新模型已进入最后准备阶段，Azure平台甚至已经开始排队。",
+        "Tibo计划在今夜按下额度重置键，以配合GPT-6 Sol和GPT-6 Luna的闪亮登场。"
       ],
       "quote": {
-        "who": "Rohan Paul",
+        "who": "SuSu_酥酥",
         "role": "",
-        "said": "Shopify 计划将 Muse 引入其商店，而 Amazon 则封杀了 Muse 智能体。 今天 Meta 和 Shopify 宣布合作，在 Shopify 商店全面启用 Shop Pay 结账。Shopify 已经允许向美国客户销售的符合条件的商店使用由 Shopify 提供支持的直接结账"
+        "said": "今夜 Tibo 即将按下额度重置键 ！ 随之而来的是 GPT-6 Sol、GPT-6 Luna 的闪亮登场 目前OpenAI内部人员像Tibo一样兴奋不已啦 一定是有什么大家意想不到、眼前一亮的东西！ #OpenAI #Tibo #Codex #GPT6Sol #GPT6Luna #Astra #Reset"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 59万 · 产品与生态] 刚刚，小扎联手Shopify打通AI购物！Muse直接买单，亚马逊彻底慌了"
+      "line": "[榜第13位 · 6.0万 · 模型与能力] 深夜突发！Azure泄露GPT-6全家桶，Luna与Astra小杯即将空降，内部已沸腾"
     },
     {
-      "title": "太离谱！GPT-6 Astra逐像素破译17世纪天书，自主查阅古籍烧爆Token",
-      "summary": "知名爆料人 Jimmy Apples 整个周末都在用 OpenAI 旗舰模型 GPT-6 Astra 挑战破译一封17世纪的晦涩古信。Astra 展现了惊人的自主能力，不仅自己跑去查阅古籍，还进行了逐像素的比对，最终成功认出这是一种罕见马来方言的爪夷文。虽然这次任务烧掉了远超平时的 Token，但也让人们看到了 AI 未来挑战终极天书「伏尼契手稿」的希望。",
-      "reads": "3.9万",
-      "ago": "4 小时前",
+      "title": "毫无防备！Claude Opus 5.5空降榜首，硬刚GPT-6 Astra还降价20%",
+      "summary": "Anthropic 毫无防备地放出了大招，全新 Claude Opus 5.5 直接登顶 Artificial Analysis 智能指数。新模型不仅在多项评估中战平了 OpenAI 的旗舰 GPT-6 Astra，API 价格还直降 20%，并提供了更大的缓存命中折扣。在智能体知识工作测试中，Opus 5.5 更是以 1822 分的成绩反超自家旗舰 Fable 5.1，性价比…",
+      "reads": "2.1万",
+      "ago": "1 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "知名爆料人 Jimmy Apples 利用周末时间，使用 OpenAI 现役旗舰模型 GPT-6 Astra 尝试破译一封多年未解的17世纪晦涩古信。",
-        "Astra 在任务中展现出强大的多模态与自主能力，主动检索并查阅了17世纪的相关手稿文献。",
-        "模型对古籍字迹进行了硬核的「逐像素比对」，在字符匹配和历史手稿辨析上取得了实质性进展。",
-        "经 Astra 判定，该手稿并非纯阿拉伯语，而是使用爪夷文（Jawi script）书写的某种未定型马来语方言。"
+        "Claude Opus 5.5 正式登顶 Artificial Analysis 智能指数，整体性能达到顶尖水平。",
+        "新模型使用门槛大幅降低，API 价格下调 20%，同时官方还提供了更大的缓存命中折扣。",
+        "在 Terminal-Bench 4.0 和 AutomationBench-AA 等核心评估中，Opus 5.5 成功战平 OpenAI 现役旗舰 GPT…",
+        "智能体知识工作表现强悍，Opus 5.5 (max) 在 AA-Briefcase v1.1 测试中以 1822 Elo 领先，比自家旗舰 Fable 5.…"
       ],
       "quote": {
-        "who": "Jimmy Apples 🍎/acc",
+        "who": "Artificial Analysis",
         "role": "",
-        "said": "@wselby970"
+        "said": "Claude Opus 5.5 在 Artificial Analysis 智能指数中所有推理力度下的单项评估完整明细"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 3.9万 · 模型与能力] 太离谱！GPT-6 Astra逐像素破译17世纪天书，自主查阅古籍烧爆Token"
+      "line": "[榜第14位 · 2.1万 · 模型与能力] 毫无防备！Claude Opus 5.5空降榜首，硬刚GPT-6 Astra还降价20%"
     },
     {
-      "title": "绷不住了！OpenAI研究员吐槽ChatGPT，每天被迫念咒「多用大图少写字」",
-      "summary": "OpenAI自家研究员也受不了ChatGPT的交互体验了。他在X上连发多条推文吐槽，称自己每天都要被迫输入好几次「多用大图，少写点字」，才能逼模型输出图表。他还点名批评了ChatGPT的「简洁模式」和Artifacts功能存在严重缺陷，根本无法直接生成图片，并透露内部正在准备其他的沟通功能修复方案。",
-      "reads": "17万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
+      "title": "瞒不住了！GPT-6 Sol灰度实测快Astra 6倍，多智能体群聊即将上线",
+      "summary": "OpenAI的下一步大棋被提前剧透了。有开发者爆料称，处于灰度测试中的GPT-6 Sol，在同等推理强度下速度最高可达旗舰模型Astra的6倍。同时，代号为Aeon的新功能也浮出水面，不仅支持语音交互，还能让AI智能体直接加入群聊。此外，泄露的Codex PR #47017截图显示，OpenAI正在将智能体消息板接入持久化多智能体运行时，一个庞大的多智能体协作生态呼之欲出。",
+      "reads": "2.8万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI研究员在X上发文吐槽ChatGPT交互体验，抱怨自己每天要输入多次「多用大图，少写点字」来强制模型画图。",
-        "该研究员讽刺当前版本的视觉化支持缺失，直言「打字是老古董干的事，但老古董能在开会时看图表」。",
-        "针对社区讨论，他明确指出ChatGPT的「简洁模式（Concise mode）」存在严重缺陷，该模式下完全无法生成图片。",
-        "他在回复中澄清，自己这一系列关于作图困难的吐槽，主要针对的是ChatGPT的Artifacts功能。"
+        "GPT-6 Sol 灰度测试表现曝光，同等 Token 和推理强度下，速度最高比旗舰模型 Astra 快 6 倍。",
+        "爆料者期待 OpenAI 能尽快将这一极致的推理速度普及给大众用户。",
+        "代号为 Aeon 的新功能正在开发中，确认将包含语音交互能力。",
+        "Aeon 支持 AI 智能体直接加入人类群聊，并能与其他成员进行对话互动。"
       ],
       "quote": {
-        "who": "Thariq",
+        "who": "Chetaslua",
         "role": "",
-        "said": "@DanielMiessler 噢，我是说 artifacts，我基本上指的就是这个"
+        "said": "GPT-6-sol 日 在我们的灰度测试中，同样的推理强度下，处理同等 Token 的速度比 Astra 快了最高 6 倍。 希望他们能把这种速度普及给大众 Aeon 也在憋大招 < openai grok bot > 它还会说话，你的 AI 智能体也能加入群聊，和其他"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 17万 · 产品与生态] 绷不住了！OpenAI研究员吐槽ChatGPT，每天被迫念咒「多用大图少写字」"
+      "line": "[榜第15位 · 2.8万 · 模型与能力] 瞒不住了！GPT-6 Sol灰度实测快Astra 6倍，多智能体群聊即将上线"
     },
     {
-      "title": "突发！美日等四国紧急警告：朝鲜黑客用AI换脸假面试，3万人已中招",
-      "summary": "找工作千万要留心了，视频对面坐着的HR可能根本不是人。美日澳德四国刚刚联合发布安全警告，指出朝鲜黑客正利用AI换脸技术伪装成招聘人员进行虚假面试。他们通常只露脸几分钟，随后就以「网络故障」为由关闭摄像头，目前这套新型AI社工攻击已导致至少3万人惨遭感染。",
-      "reads": "2.5万",
-      "ago": "3 小时前",
-      "category": "政策与安全",
+      "title": "越级打怪！Opus 5.5系统卡发布，网络安全评估全面碾压Mythos 5.1",
+      "summary": "Anthropic正式公布了Claude Opus 5.5的系统卡片，结果直接上演了一出「越级打怪」的好戏。在内部ECI基准测试和所有受测的网络安全评估中，Opus 5.5的得分全面击败了同门更高级别的特批旗舰模型Mythos 5.1。这波强悍的性能表现不仅证明了Anthropic在高端模型上的迭代实力，甚至让社区开始怀疑，现有的CoBench等代码基准是不是已经彻底失去了区分…",
+      "reads": "1.6万",
+      "ago": "54 分钟前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "四国联合警告：日本警察厅（NPA）、美国联邦调查局（FBI）、澳大利亚网络安全中心（ACSC）与德国联邦宪法保卫局（BfV）共同发布安全通报。",
-        "攻击手法曝光：朝鲜黑客组织利用AI换脸软件，伪装成企业招聘人员，专门针对求职者进行虚假的远程面试。",
-        "狡猾的伪装策略：黑客在视频通话中仅露面数分钟，随后便以「网络故障」为借口关闭摄像头，以此防止AI换脸的破绽暴露。",
-        "感染规模惊人：通过这种新型AI社工攻击手法，黑客已成功诱导并感染了至少30,000名受害者。"
+        "Anthropic正式发布Claude Opus 5.5，并于2026年9月22日同步公开了该模型的系统卡片（System Card）。",
+        "在Anthropic内部的ECI基准测试中，Opus 5.5的得分成功超越了同门的特批旗舰模型Mythos 5.1。",
+        "安全性能表现同样亮眼，Opus 5.5在所有受测的网络安全评估项目中，全面击败了Mythos 5.1。",
+        "这一「越级」的性能表现引发了开发者社区的热烈讨论，有人直言现有的代码基准CoBench可能已经「凉了」（cooked），失去了对新模型的区分度。"
       ],
       "quote": {
-        "who": "International Cyber Digest",
+        "who": "Lisan al Gaib",
         "role": "",
-        "said": "来源： 🇯🇵 日本 (NPA)： 🇺🇸 美国 (FBI)： 🇦🇺 澳大利亚 (ASD's ACSC)： 🇩🇪 德国 (BfV)："
+        "said": "Opus 5.5 在所有测试的网络安全评估中都击败了 Mythos 5.1"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 2.5万 · 政策与安全] 突发！美日等四国紧急警告：朝鲜黑客用AI换脸假面试，3万人已中招"
+      "line": "[榜第16位 · 1.6万 · 模型与能力] 越级打怪！Opus 5.5系统卡发布，网络安全评估全面碾压Mythos 5.1"
     }
   ],
   "board_count": 16,

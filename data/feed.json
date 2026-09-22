@@ -3,8 +3,8 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-22 22:45:00 +0800",
-  "today": "09/22",
+  "fetched_at": "2026-09-23 02:48:21 +0800",
+  "today": "09/23",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
     {
@@ -66,6 +66,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tg744e73&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/22 06:51] GPT-6 Sol被曝即将发布？内部「AGI」已浮出水面 · https://www.aiera.com.cn/asi-item.html?id=tg744e73&from=yuanyuan"
+    },
+    {
+      "time": "00:31",
+      "date": "09/23",
+      "title": "不到1天干完68万行代码迁移，Claude 5.5把旗舰性能打成了白菜价",
+      "summary": "一个工程团队原本要干几周的活，68万行代码的迁移，Claude Opus 5.5 不到一天就跑完了。 Anthropic 今天正式发布 Opus 5.5，这是 Claude…",
+      "source": "Anthropic：Newsroom（网页）",
+      "id": "23e9c366",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=23e9c366&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/23 00:31] 不到1天干完68万行代码迁移，Claude 5.5把旗舰性能打成了白菜价 · https://www.aiera.com.cn/asi-item.html?id=23e9c366&from=yuanyuan"
+    },
+    {
+      "time": "22:38",
+      "date": "09/22",
+      "title": "只要 3.9 毫秒！LlamaIndex 爆改 PDF 解析器，速度碾压竞品 48 倍",
+      "summary": "LlamaIndex 把一页 PDF 的解析压到了 3.94 毫秒。 这是 LiteParse 2.14.6 渲染 Markdown 的平均耗时，官方博客刚刚披露。关掉…",
+      "source": "LlamaIndex：产品、工程与评测",
+      "id": "0562dd38",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=0562dd38&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/22 22:38] 只要 3.9 毫秒！LlamaIndex 爆改 PDF 解析器，速度碾压竞品 48 倍 · https://www.aiera.com.cn/asi-item.html?id=0562dd38&from=yuanyuan"
     },
     {
       "time": "16:35",
@@ -138,6 +162,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=fb987d6c&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/22 08:00] Agent调用太烧钱怎么办？英伟达直接开源30B专属打工模型 · https://www.aiera.com.cn/asi-item.html?id=fb987d6c&from=yuanyuan"
+    },
+    {
+      "time": "08:00",
+      "date": "09/22",
+      "title": "70多个模型直接半价，OpenRouter上线批量API",
+      "summary": "OpenRouter 上线 Batch API，70 多个模型的推理价格直接打对折。 条件是接受异步。一大批请求打包提交，不要求实时返回，由供应商在 24 小时窗口内跑完…",
+      "source": "OpenRouter：Announcements（RSS）",
+      "id": "231a831a",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=231a831a&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/22 08:00] 70多个模型直接半价，OpenRouter上线批量API · https://www.aiera.com.cn/asi-item.html?id=231a831a&from=yuanyuan"
     },
     {
       "time": "06:43",
@@ -294,6 +330,54 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=761f11cd&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/22 00:00] Anthropic砸4亿美元建了个实体实验室让Claude自己动手做药物实验 · https://www.aiera.com.cn/asi-item.html?id=761f11cd&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/22",
+      "title": "Hugging Face出手了！transformers直接加载GGUF，Mac本地推理逼近llama.cpp",
+      "summary": "Hugging Face 亲自下场做本地推理了。transformers 库现在能直接高效运行 GGUF 量化模型，在 Mac 上的吞吐量逼近 llama.cpp。 GGUF…",
+      "source": "Hugging Face：Blog（RSS）",
+      "id": "6aa8c26a",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=6aa8c26a&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/22 00:00] Hugging Face出手了！transformers直接加载GGUF，Mac本地推理逼近llama.cpp · https://www.aiera.com.cn/asi-item.html?id=6aa8c26a&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/22",
+      "title": "脑细胞真能给大模型打工？TBC把活体神经元做成插件让视频生成提速5倍",
+      "summary": "旧金山初创公司 TBC 宣布联手 AWS，在 Trainium 芯片上推出他们所说的首个「神经元衍生」文生视频模型。据官方新闻稿，加上一层从真实神经细胞测出来的微型软件后…",
+      "source": "RSS",
+      "id": "344593e3",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=344593e3&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/22 00:00] 脑细胞真能给大模型打工？TBC把活体神经元做成插件让视频生成提速5倍 · https://www.aiera.com.cn/asi-item.html?id=344593e3&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/22",
+      "title": "6亿词汇喂出首个古希腊语大模型，Mistral联手奥地利科学院，专修破损古籍",
+      "summary": "据 WIRED 报道，奥地利科学院联手 Mistral 和 Sail Reply，发布了首个古希腊语大模型 Apollo。它吃进了整整 6 亿个历史希腊词汇…",
+      "source": "RSS",
+      "id": "eb4595ae",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=eb4595ae&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/22 00:00] 6亿词汇喂出首个古希腊语大模型，Mistral联手奥地利科学院，专修破损古籍 · https://www.aiera.com.cn/asi-item.html?id=eb4595ae&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/22",
+      "title": "只训了1个月，OpenAI内部模型干碎了100多道数学界百年难题",
+      "summary": "100 多道悬了上百年的数学难题，OpenAI 的一个内部模型用一个月就推倒了。 据 The Decoder 报道，这个模型 8 月 28 日才开训…",
+      "source": "RSS",
+      "id": "608308f4",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=608308f4&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/22 00:00] 只训了1个月，OpenAI内部模型干碎了100多道数学界百年难题 · https://www.aiera.com.cn/asi-item.html?id=608308f4&from=yuanyuan"
     },
     {
       "time": "22:06",
@@ -642,90 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=c5ea34d4&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/21 00:00] 10000个智能体狂算88小时，OpenAI砸数百万美元解开千禧年数学难题 · https://www.aiera.com.cn/asi-item.html?id=c5ea34d4&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/21",
-      "title": "70分钟音频18秒转完！苹果M5 Ultra为了跑本地大模型涨价50%",
-      "summary": "70 分钟的播客音频，转录只用了 18 秒。这是新款 Mac Studio 交出的成绩，它也是苹果唯一搭载 M5 Ultra 的机器。 据 Engadget 报道，M5…",
-      "source": "RSS",
-      "id": "72bec718",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=72bec718&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/21 00:00] 70分钟音频18秒转完！苹果M5 Ultra为了跑本地大模型涨价50% · https://www.aiera.com.cn/asi-item.html?id=72bec718&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/21",
-      "title": "谁能想到谷歌憋了这么久的桌面新系统就是个大号安卓？连Caps键都被AI替换了",
-      "summary": "谷歌憋了很久的桌面系统 Googlebook OS，上手一用，底子就是个大号安卓。9to5Google 的 Abner Li 第一次用 Googlebook 时的感受是…",
-      "source": "RSS",
-      "id": "5be2cc04",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=5be2cc04&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/21 00:00] 谁能想到谷歌憋了这么久的桌面新系统就是个大号安卓？连Caps键都被AI替换了 · https://www.aiera.com.cn/asi-item.html?id=5be2cc04&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/21",
-      "title": "苹果把HomePod劈成两半贴墙上，能干翻亚马逊的带屏音箱吗？",
-      "summary": "苹果那台传了 4 年的带屏音箱，终于进了员工家里。据彭博社 Mark Gurman 报道，内部代号 J490 的新设备正在苹果员工家中大范围内测，为正式发布做准备。…",
-      "source": "RSS",
-      "id": "0accfcc8",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=0accfcc8&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/21 00:00] 苹果把HomePod劈成两半贴墙上，能干翻亚马逊的带屏音箱吗？ · https://www.aiera.com.cn/asi-item.html?id=0accfcc8&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/21",
-      "title": "库克交棒不到两周苹果就发折叠屏，新CEO到底藏了多少AI硬件？",
-      "summary": "库克交棒不到两周，苹果首款折叠屏 iPhone Duo 就登场了。新 CEO John Ternus 真正的 AI 硬件，还压在明年。 据 The Verge 报道，这场 9…",
-      "source": "RSS",
-      "id": "5c2e26dc",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=5c2e26dc&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/21 00:00] 库克交棒不到两周苹果就发折叠屏，新CEO到底藏了多少AI硬件？ · https://www.aiera.com.cn/asi-item.html?id=5c2e26dc&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/21",
-      "title": "只要晃晃鼠标！Gemini直接接管屏幕，谷歌899美元起售的安卓本下周发货",
-      "summary": "晃一晃鼠标，Gemini 就出来干活了。谷歌的 AI 原生笔记本 Googlebook 开启预购，起步价 899 美元，最高 1299 美元，10 月 4 日上架。 据…",
-      "source": "RSS",
-      "id": "4bc275f6",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=4bc275f6&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/21 00:00] 只要晃晃鼠标！Gemini直接接管屏幕，谷歌899美元起售的安卓本下周发货 · https://www.aiera.com.cn/asi-item.html?id=4bc275f6&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/21",
-      "title": "110亿美元垃圾债，软银为了给OpenAI打钱，连债务上限都不顾了",
-      "summary": "软银准备借入超过 110 亿美元的高息垃圾债，用来给 OpenAI 打钱。为了这笔钱，它可能要暂时突破自身的债务上限。 据金融时报报道，这笔债由 100 亿美元和 10…",
-      "source": "RSS",
-      "id": "694a5e24",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=694a5e24&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/21 00:00] 110亿美元垃圾债，软银为了给OpenAI打钱，连债务上限都不顾了 · https://www.aiera.com.cn/asi-item.html?id=694a5e24&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/21",
-      "title": "盖茨7年前就看过了，OpenAI喂给大模型的盗版书，内部直呼极度可疑",
-      "summary": "七年前，盖茨就看过了。2019 年 Altman 给盖茨做演示，用到了盗版书。OpenAI 员工在内部聊起这事，用的词是「Sketchy AF」，翻过来就是极度可疑。…",
-      "source": "wsj.com",
-      "id": "3920f04f",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=3920f04f&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/21 00:00] 盖茨7年前就看过了，OpenAI喂给大模型的盗版书，内部直呼极度可疑 · https://www.aiera.com.cn/asi-item.html?id=3920f04f&from=yuanyuan"
     }
   ],
   "feed_count": 60,
