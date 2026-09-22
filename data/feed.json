@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-22 12:45:55 +0800",
+  "fetched_at": "2026-09-22 17:52:40 +0800",
   "today": "09/22",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -92,40 +92,52 @@
       "line": "[09/21 18:32] OpenAI研究员惊人言论：物理隔离无法阻止失控AI！ · https://www.aiera.com.cn/asi-item.html?id=tgdae52a&from=yuanyuan"
     },
     {
-      "time": "15:37",
-      "date": "09/21",
-      "title": "奥特曼落榜！OpenAI总裁255亿杀进全美富豪前50",
-      "summary": "Forbes 400新榜，OpenAI总裁Brockman以约255亿美元首登全美第45，不持直接股权的奥特曼仅33亿落榜；Anthropic 6位联创同时上榜…",
-      "source": "新智元",
-      "id": "tg8f6799",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg8f6799&from=yuanyuan",
+      "time": "12:21",
+      "date": "09/22",
+      "title": "达里奥真踩刹车了，Anthropic砸十亿美元请外人进厂盯梢大模型",
+      "summary": "Anthropic 把外人请进了训练现场。据 Engadget 报道，Anthropic 刚和埃森哲签下一份长约，由埃森哲给它做第三方 AI 安全评估。未来五年，双方各掏至少…",
+      "source": "www.engadget.com",
+      "id": "f07358fb",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=f07358fb&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/21 15:37] 奥特曼落榜！OpenAI总裁255亿杀进全美富豪前50 · https://www.aiera.com.cn/asi-item.html?id=tg8f6799&from=yuanyuan"
+      "line": "[09/22 12:21] 达里奥真踩刹车了，Anthropic砸十亿美元请外人进厂盯梢大模型 · https://www.aiera.com.cn/asi-item.html?id=f07358fb&from=yuanyuan"
     },
     {
-      "time": "15:35",
-      "date": "09/21",
-      "title": "刚刚，Jev全网解禁！1.2亿Token限时免费用",
-      "summary": "Jev取消候补全面开放，新用户送约1.2亿Token、输出免费。开发者让它与GPT-6 Astra组队，8分43秒速通《我的世界》屠龙，账单仅0.97美元。",
-      "source": "新智元",
-      "id": "tg98510c",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg98510c&from=yuanyuan",
+      "time": "12:21",
+      "date": "09/22",
+      "title": "ChatGPT联合发明人，把大模型的文本生成彻底砍了，新物种Jev发布",
+      "summary": "别人在比谁吐字快，ChatGPT 的联合发明人直接把文本生成砍了。据 Simon Willison 的博客报道，TypeSafe AI 发布了一类新模型 System One…",
+      "source": "simonwillison.net",
+      "id": "dcbbda2f",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=dcbbda2f&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/21 15:35] 刚刚，Jev全网解禁！1.2亿Token限时免费用 · https://www.aiera.com.cn/asi-item.html?id=tg98510c&from=yuanyuan"
+      "line": "[09/22 12:21] ChatGPT联合发明人，把大模型的文本生成彻底砍了，新物种Jev发布 · https://www.aiera.com.cn/asi-item.html?id=dcbbda2f&from=yuanyuan"
     },
     {
-      "time": "13:58",
-      "date": "09/21",
-      "title": "不等自然进化了！诺奖得主9460万，赌AlphaFold没走的那条路",
-      "summary": "诺奖得主Baker拿到9460万美元开出AI BioDesign：不训更大的模型，把600万条设计序列丢进一支试管同测，让实验反过来喂模型，造自然从没造过的分子。",
-      "source": "新智元",
-      "id": "tg8e6d97",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg8e6d97&from=yuanyuan",
+      "time": "12:17",
+      "date": "09/22",
+      "title": "只要3步！Meta爆火智能体Muse，现在就能一键关掉隐私投喂",
+      "summary": "不想让 Meta 拿你的 Muse 数据训练模型，关掉只要 3 步。点开设置，进入「数据控制」，关掉「帮助改进我们的AI模型」。 觉得还不够彻底，可以直接点「重置Muse」。…",
+      "source": "www.businessinsider.com",
+      "id": "81121103",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=81121103&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/21 13:58] 不等自然进化了！诺奖得主9460万，赌AlphaFold没走的那条路 · https://www.aiera.com.cn/asi-item.html?id=tg8e6d97&from=yuanyuan"
+      "line": "[09/22 12:17] 只要3步！Meta爆火智能体Muse，现在就能一键关掉隐私投喂 · https://www.aiera.com.cn/asi-item.html?id=81121103&from=yuanyuan"
+    },
+    {
+      "time": "11:06",
+      "date": "09/22",
+      "title": "OpenAI这周杀疯了，硬刚Grok的全新智能体Aeon传周四上线",
+      "summary": "OpenAI 这周可能要连发好几款新品。据 X 用户 kimmonismus 爆料，OpenAI 的全天候智能体 Aeon 将在周四早晨发布，直接对标 Grok Bot。…",
+      "source": "X/kimmonismus",
+      "id": "7bb2e9ef",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=7bb2e9ef&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/22 11:06] OpenAI这周杀疯了，硬刚Grok的全新智能体Aeon传周四上线 · https://www.aiera.com.cn/asi-item.html?id=7bb2e9ef&from=yuanyuan"
     },
     {
       "time": "08:00",
@@ -320,6 +332,30 @@
       "line": "[09/21 17:34] 「这周绝对要疯」，Grok 4.7上线秒删，OpenAI明天接棒 · https://www.aiera.com.cn/asi-item.html?id=97c591a9&from=yuanyuan"
     },
     {
+      "time": "15:37",
+      "date": "09/21",
+      "title": "奥特曼落榜！OpenAI总裁255亿杀进全美富豪前50",
+      "summary": "Forbes 400新榜，OpenAI总裁Brockman以约255亿美元首登全美第45，不持直接股权的奥特曼仅33亿落榜；Anthropic 6位联创同时上榜…",
+      "source": "新智元",
+      "id": "tg8f6799",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg8f6799&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/21 15:37] 奥特曼落榜！OpenAI总裁255亿杀进全美富豪前50 · https://www.aiera.com.cn/asi-item.html?id=tg8f6799&from=yuanyuan"
+    },
+    {
+      "time": "15:35",
+      "date": "09/21",
+      "title": "刚刚，Jev全网解禁！1.2亿Token限时免费用",
+      "summary": "Jev取消候补全面开放，新用户送约1.2亿Token、输出免费。开发者让它与GPT-6 Astra组队，8分43秒速通《我的世界》屠龙，账单仅0.97美元。",
+      "source": "新智元",
+      "id": "tg98510c",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg98510c&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/21 15:35] 刚刚，Jev全网解禁！1.2亿Token限时免费用 · https://www.aiera.com.cn/asi-item.html?id=tg98510c&from=yuanyuan"
+    },
+    {
       "time": "15:30",
       "date": "09/21",
       "title": "「你终将失败」，Logan一条推文引出Gemini 4自我提升泄密传闻",
@@ -330,6 +366,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=9aaba68e&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/21 15:30] 「你终将失败」，Logan一条推文引出Gemini 4自我提升泄密传闻 · https://www.aiera.com.cn/asi-item.html?id=9aaba68e&from=yuanyuan"
+    },
+    {
+      "time": "13:58",
+      "date": "09/21",
+      "title": "不等自然进化了！诺奖得主9460万，赌AlphaFold没走的那条路",
+      "summary": "诺奖得主Baker拿到9460万美元开出AI BioDesign：不训更大的模型，把600万条设计序列丢进一支试管同测，让实验反过来喂模型，造自然从没造过的分子。",
+      "source": "新智元",
+      "id": "tg8e6d97",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg8e6d97&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/21 13:58] 不等自然进化了！诺奖得主9460万，赌AlphaFold没走的那条路 · https://www.aiera.com.cn/asi-item.html?id=tg8e6d97&from=yuanyuan"
     },
     {
       "time": "13:26",
@@ -678,54 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=8b1480c8&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/21 00:00] 破产航司20年数据被买去喂AI，英伟达撑腰的算力黑马冲刺纽交所 · https://www.aiera.com.cn/asi-item.html?id=8b1480c8&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/21",
-      "title": "苹果iOS 27正式推送，被嫌弃多年的Siri终于学会自己翻聊天记录了",
-      "summary": "苹果正式推送 iOS 27，被嫌弃多年的 Siri 这回被从头翻修了一遍。据 Engadget 报道，经过几个月测试，iOS 27 已向所有用户开放，全新的 Siri AI…",
-      "source": "RSS",
-      "id": "697de9ad",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=697de9ad&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/21 00:00] 苹果iOS 27正式推送，被嫌弃多年的Siri终于学会自己翻聊天记录了 · https://www.aiera.com.cn/asi-item.html?id=697de9ad&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/21",
-      "title": "OpenAI官方下场教你用AI，从单项任务到跑智能体，结业还发证书",
-      "summary": "OpenAI 官方下场教人用 AI 了。据 EdTech Innovation Hub 报道，OpenAI Academy 在 6 月 15 日上线三门新课，学完还发结业证书。…",
-      "source": "RSS",
-      "id": "cbe71413",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=cbe71413&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/21 00:00] OpenAI官方下场教你用AI，从单项任务到跑智能体，结业还发证书 · https://www.aiera.com.cn/asi-item.html?id=cbe71413&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/21",
-      "title": "10亿美元砸下去！盖茨基金会拉来60家巨头，要给30亿人造AI语料",
-      "summary": "盖茨基金会砸下 10 亿美元，拉起一个 60 家机构的 AI 联盟，专门给 AI 造语料。据美联社报道，这套班底的目标是在 5 年内，让全球 30 亿人用上母语的 AI 工具。…",
-      "source": "The Washington Post",
-      "id": "c7d63311",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=c7d63311&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/21 00:00] 10亿美元砸下去！盖茨基金会拉来60家巨头，要给30亿人造AI语料 · https://www.aiera.com.cn/asi-item.html?id=c7d63311&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/21",
-      "title": "谷歌相册上线的AI试衣间到底有多难用？评测老哥快被逼疯了",
-      "summary": "谷歌相册新上线的 AI 试衣间，Android Authority 的评测作者试了几十次搭配，只成功了一次。 这项功能正向美国、巴西和印度的部分付费用户推送。设想很美…",
-      "source": "RSS",
-      "id": "2bce9939",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=2bce9939&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/21 00:00] 谷歌相册上线的AI试衣间到底有多难用？评测老哥快被逼疯了 · https://www.aiera.com.cn/asi-item.html?id=2bce9939&from=yuanyuan"
     }
   ],
   "feed_count": 60,
