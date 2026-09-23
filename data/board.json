@@ -3,40 +3,115 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-23 06:01:00 +0800",
+  "fetched_at": "2026-09-23 08:23:23 +0800",
   "today": "09/23",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "刚刚，GPT-6 Astra平价版上线！Sol与Luna价格腰斩，暴击Opus 5.5",
-      "summary": "刚刚，OpenAI在9月22日正式发布GPT-6 Astra的平价版——GPT-6 Sol与Luna，GPT-6宇宙全面铺开。两款新模型API价格较上一代GPT-5.6直接腰斩，Sol输入仅需2美元/1M tokens，Luna更是低至0.10美元。在基准测试中，Sol以低80%的成本追平Claude Fable 5，直接硬刚Anthropic同日发布的Opus 5.5，AI价…",
-      "reads": "360万",
-      "ago": "2 小时前",
+      "title": "OpenAI深夜掀桌！GPT-6 Astra廉价版价格腰斩，暴击Claude，成本狂降96%",
+      "summary": "OpenAI 正式发布 GPT-6 家族的两款新模型 Sol 和 Luna，将旗舰 Astra 的能力全面下放。两款模型 API 价格较上一代 GPT-5.6 直接砍半，Sol 输入仅需 2 美元/1M tokens，Luna 更是低至 0.10 美元/1M tokens。在基准测试中，它们以低至 4% 的成本追平甚至击败了 Claude Fable 5。不过也有开发者实测后吐…",
+      "reads": "509万",
+      "ago": "1 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI正式发布GPT-6 Sol和GPT-6 Luna，将旗舰Astra的核心能力下放，现已在API、Codex和ChatGPT Work中上线。",
-        "API定价较GPT-5.6直降50%：Sol输入2美元/输出10美元（每百万token），Luna输入0.10美元/输出0.50美元。",
-        "性能表现强悍：在DeepSWE v1.1测试中，Sol得分68.8%追平Claude Fable 5，且单任务成本降低约80%。",
-        "极致性价比：Luna在同等测试中媲美Fable 5中等算力表现，单任务成本狂砍96%。"
+        "OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，将旗舰 GPT-6 Astra 的技术能力下放，主打更快、更实惠。",
+        "API 价格较上一代 GPT-5.6 降低 50%：Sol 输入/输出为 2 美元和 10 美元/1M tokens，Luna 为 0.10 美元和 0.5…",
+        "性能越级对标：在 DeepSWE v1.1 测试中，Sol (max) 几乎追平 Claude Fable 5 (xhigh)，单任务成本低约 80%。",
+        "极致性价比：Luna (max) 在 DeepSWE v1.1 上媲美 Fable 5 (medium)，单任务成本暴降 96%。"
       ],
       "quote": {
-        "who": "Teknium 🪽",
+        "who": "MTS",
         "role": "",
-        "said": "全新的 GPT-6-Sol 和 GPT-6-Luna 现已在 Nous Portal 和 OpenRouter 的 Hermes Agent 中上线，很快也会加入 Codex 订阅！"
+        "said": "情况说明：OpenAI 把 GPT-6 价格砍半了。现在 Sol 击败 Opus 5，而单任务成本只有后者的 9%。 • Sol 现在每百万 Token 是 2 美元和 10 美元，从 4 美元和 20 美元降下来的。Luna 是 0.10 美元和 0.50 美元，从 0.20 美元和 1.20 美元降下来的 • 在 AutomationBench 上，xhigh 级别的 Sol 击败了 max 级别的 Opus 5"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 360万 · 模型与能力] 刚刚，GPT-6 Astra平价版上线！Sol与Luna价格腰斩，暴击Opus 5.5"
+      "line": "[榜第1位 · 509万 · 模型与能力] OpenAI深夜掀桌！GPT-6 Astra廉价版价格腰斩，暴击Claude，成本狂降96%"
+    },
+    {
+      "title": "价格永久腰斩！OpenAI发布GPT-6 Sol与Luna，额度重置卡让开发者沸腾了",
+      "summary": "OpenAI 刚刚正式发布了 GPT-6 Sol 和全新模型 Luna，主打全方位质量提升与极高性价比。此次更新不仅将 API 价格永久下调了 50%，还为用户带来了期待已久的额度重置卡（banked reset）和更高的使用上限。不过有开发者实测后直言，新模型在代码智商和品味上仍不及 Anthropic 的 Opus 5.5，其真正的杀手锏依然是极致的价格与速度。",
+      "reads": "261万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 研究员 Tibo 正式宣布 GPT-6 Sol 和 Luna 发布，强调新模型在写作和整体质量上实现了显著提升。",
+        "API 价格迎来永久性下调，输入与输出成本均较 5.6 版本降低 50%，大幅降低了新用例的探索门槛。",
+        "本次发布同步推出了额度重置（banked reset）功能，并提升了用户的使用上限，引发开发者社区狂欢。",
+        "有开发者实测后指出，GPT-6 Sol 在智能、代码质量和品味上仍无法与 Anthropic 的 Opus 5.5 抗衡。"
+      ],
+      "quote": {
+        "who": "Kol Tregaskes",
+        "role": "",
+        "said": "GPT-6 Sol 和 Luna 的发布带来了额度重置和更高的使用上限。老实说，因为模型看起来没有巨大的飞跃，我对重置和上限提升更感兴趣。😜"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 261万 · 模型与能力] 价格永久腰斩！OpenAI发布GPT-6 Sol与Luna，额度重置卡让开发者沸腾了"
+    },
+    {
+      "title": "马斯克深夜发话！Grok 4.7硬刚三大旗舰，2.1T小模型便宜7倍，性价比杀疯了",
+      "summary": "马斯克在 X 上确认，仅有 2.1T 参数的 Grok 4.7 作为一个「偏小模型」，在最新 Next.js 评估中表现惊艳。它的得分高达 94%，紧咬 Opus 5.5、GPT 6 Sol 和 Fable 5.1 等一众 97% 的前沿旗舰。最狠的是，Grok 4.7 的价格比竞品便宜了 2 到 7 倍，xAI 正在用极致的性价比在垂直领域杀出一条血路。",
+      "reads": "73万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "马斯克在 X 上回应 Next.js 评估结果，确认 Grok 4.7 作为「偏小模型」表现相当不错。",
+        "在最新 Next.js 评估中，Grok 4.7 取得 94% 的高分，紧随三大前沿模型之后。",
+        "同台竞技的 Opus 5.5、GPT 6 Sol 和 Fable 5.1 均获得了 97% 的得分。",
+        "评估者指出，Grok 4.7 的最大杀器是成本，比上述竞品便宜 2 到 7 倍。"
+      ],
+      "quote": {
+        "who": "BridgeMind",
+        "role": "",
+        "said": "@elonmusk 与前沿模型相比，Grok 4.7 真的非常小。 很期待你们继续扩大规模！ 你们用 2.1T 参数做出的成果令人印象深刻。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 73万 · 模型与能力] 马斯克深夜发话！Grok 4.7硬刚三大旗舰，2.1T小模型便宜7倍，性价比杀疯了"
+    },
+    {
+      "title": "史上第一次「东西多到发不完」！OpenAI下周大动作，全双工语音成绝对主角",
+      "summary": "奥特曼亲自预告，9月29日的 DevDay 将是 OpenAI 历史上规模最大的一次发布，甚至直言「东西多到发不完」。他强调要在所有价位和模态上提供最强模型，暗示了高性价比 Sol 系列的进一步布局。虽然手滑打错字让网友误以为 Sora 要回归，但他连夜滑跪澄清：下周的绝对主角是语音，备受期待的全双工语音模型 GPT-Live-1 终于要来了。",
+      "reads": "56万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "奥特曼官宣，9月29日举行的 DevDay 2026 将是 OpenAI 历史上规模最大的一次发布。",
+        "他感慨这是 OpenAI 成立以来，自己第一次觉得「要发布的东西实在太多了」。",
+        "OpenAI 的目标是在每一个价位点上都提供最强的 API 模型，暗示低成本高性能的 Sol 系列将有大动作。",
+        "官方致力于在文本、代码、图像等所有模态上保持领先地位。"
+      ],
+      "quote": {
+        "who": "leo 🐾",
+        "role": "",
+        "said": "@sama 不！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 56万 · 产品与生态] 史上第一次「东西多到发不完」！OpenAI下周大动作，全双工语音成绝对主角"
     },
     {
       "title": "赶紧把额度烧完！Codex今晚重置，代号Aeon泄露，传GPT-6 Sol提速7倍",
       "summary": "OpenAI 核心人员预告 Codex 将在周二（美国时间今晚）进行额度重置，并暗示还有大动作。爆料称，此次更新可能取消 Plus 用户的 5 小时限制，甚至推出比 Astra 快 6-7 倍的 GPT-6 Sol 以及可全天候使用的 GPT-6 Luna。随着内部代号「gpt-6-astra-aeon」泄露，全网开发者都在呼吁赶紧把剩余额度烧完，坐等新功能上线。",
       "reads": "342万",
-      "ago": "6 小时前",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -54,21 +129,21 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 342万 · 产品与生态] 赶紧把额度烧完！Codex今晚重置，代号Aeon泄露，传GPT-6 Sol提速7倍"
+      "rank": 5,
+      "line": "[榜第5位 · 342万 · 产品与生态] 赶紧把额度烧完！Codex今晚重置，代号Aeon泄露，传GPT-6 Sol提速7倍"
     },
     {
-      "title": "刚刚，GPT-6 Sol跑分曝光！成本直接腰斩，却因变懒被吐槽是个笑话",
-      "summary": "Artificial Analysis 最新公布了 GPT-6 Sol 和 Luna 的基准测试成绩，两款新模型相比上一代 GPT-5.6 成本直接腰斩。其中 GPT-6 Sol 单次任务成本降至 1.06 美元，而 Luna 更是打出了 0.07 美元的白菜价。虽然新模型在全力输出时幻觉减少，但却出现了回复变短、遗漏关键信息的「变懒」现象，甚至有开发者吐槽其跑分表现「简直是个…",
-      "reads": "44万",
-      "ago": "2 小时前",
+      "title": "刚刚，GPT-6廉价版全家桶上线！价格直接腰斩，Luna单任务低至0.07刀",
+      "summary": "OpenAI刚刚正式发布了GPT-6系列的廉价版——Sol和Luna，定价直接比上一代GPT-5.6腰斩！虽然幻觉率有所降低，但在部分基准测试中得分却出现了倒退，Luna的编程能力甚至掉了2分。不过，Luna单任务仅需0.07美元的「白菜价」依然让它成为性价比焦点，同时这也引发了圈内对评测榜单到底准不准的激烈争论。",
+      "reads": "59万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Artificial Analysis 发布最新基准测试，GPT-6 Sol 和 Luna 的成本相比上一代 GPT-5.6 系列均大幅下降 50%。",
-        "在编程 AI 智能体指数中，GPT-6 Sol (max) 涨了 2 分，而主打极低成本的 Luna (max) 则退步了 2 分。",
-        "价格极具破坏力：GPT-6 Sol 单任务成本为 1.06 美元，Luna 仅需 0.07 美元，被社区戏称为「白菜价」。",
-        "性能出现「偏科」：全力输出时两款新模型的幻觉均比上一代少，但在 GDPval-AA v2.1 测试中，因交付内容变短、漏掉必要元素而出现退步。"
+        "OpenAI正式发布GPT-6 Sol和Luna，定价约为上一代GPT-5.6系列的一半。",
+        "Artificial Analysis数据显示，两款新模型在Intelligence Index上与GPT-5.6持平。",
+        "在Coding Agent Index中，GPT-6 Sol提升了2分，而Luna则退步了2分。",
+        "GDPval-AA v2.1测试表明，两款模型在全力输出时因交付物变短、易漏元素而表现倒退，但幻觉率均低于上一代。"
       ],
       "quote": {
         "who": "Haider.",
@@ -79,14 +154,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 44万 · 模型与能力] 刚刚，GPT-6 Sol跑分曝光！成本直接腰斩，却因变懒被吐槽是个笑话"
+      "rank": 6,
+      "line": "[榜第6位 · 59万 · 模型与能力] 刚刚，GPT-6廉价版全家桶上线！价格直接腰斩，Luna单任务低至0.07刀"
     },
     {
       "title": "降价50%！GPT-6 Sol与Luna正式发布，Altman：市场上没有任何竞品能打",
       "summary": "Sam Altman正式宣布GPT-6 Sol和Luna上线，相比5.6系列在智能、编程及计算机使用等方面大幅提升。新模型每Token价格直接减半，按单任务计算成本更低。Altman直言市场上没有任何竞品能与之抗衡，希望借此降低门槛，推动用户大规模探索AI新复兴。",
-      "reads": "62万",
-      "ago": "3 小时前",
+      "reads": "79万",
+      "ago": "5 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -104,39 +179,139 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 62万 · 模型与能力] 降价50%！GPT-6 Sol与Luna正式发布，Altman：市场上没有任何竞品能打"
+      "rank": 7,
+      "line": "[榜第7位 · 79万 · 模型与能力] 降价50%！GPT-6 Sol与Luna正式发布，Altman：市场上没有任何竞品能打"
     },
     {
-      "title": "突发，Claude Opus 5.5杀疯了！降价20%逼平GPT-6 Astra，1822分登顶",
-      "summary": "Anthropic 突然丢出王炸，全新 Claude Opus 5.5 空降登顶 Artificial Analysis 智能指数！这次不仅性能在关键指标上逼平了 OpenAI 旗舰 GPT-6 Astra，还直接降价 20% 并给出了更大的缓存折扣。新模型在智能体知识工作中狂砍 1822 Elo，比前代 Opus 5 暴涨 138 分，四个力度级别全部杀入性价比前沿。",
-      "reads": "26万",
+      "title": "瞒不住了！Opus-5.5与GPT-6底牌全泄露，190万字提示词被扒光",
+      "summary": "AI 圈今天迎来了史诗级大泄露，Anthropic 和 OpenAI 两家巨头的核心底牌双双被人扒了个底朝天。有爆料者直接放出了 Claude Opus-5.5 的完整系统提示词，连带所有工具定义总字数超过 190 万！紧接着，GPT-6 Sol Codex 超 29.4 万字符的系统指令也被全量公开，目前尚不清楚是官方手滑还是遭到了诱导提取。",
+      "reads": "18万",
       "ago": "2 小时前",
-      "category": "模型与能力",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "独立评测机构 Artificial Analysis 宣布，Claude Opus 5.5 正式登顶其智能指数榜单。",
-        "性能直接对标 OpenAI 旗舰，在 Terminal-Bench 4.0 等评估中与 GPT-6 Astra 齐平。",
-        "价格大幅下调，Opus 5.5 降价 20%，同时提供了更大的缓存命中折扣。",
-        "智能体知识工作表现顶尖，在 AA-Briefcase v1.1 中斩获 1822 Elo，领先 Fable 5.1 达 143 分。"
+        "核心模型遭破解：Anthropic 的 Claude Opus-5.5 完整系统提示词被全量提取并公开。",
+        "惊人文本量：Opus-5.5 泄露内容包含所有工具定义，总字符数突破 190 万大关。",
+        "OpenAI同日中招：GPT-6 Sol Codex 的系统提示词及工具定义紧随其后遭到曝光。",
+        "泄露规模：GPT-6 Sol Codex 提取出的文本总数超过 29.4 万字符，包含 1902 行指令模板。"
       ],
       "quote": {
-        "who": "Chris",
+        "who": "Pliny the Liberator 🐉󠅫󠄼󠄿󠅆󠄵󠄐󠅀󠄼󠄹󠄾󠅉󠅭",
         "role": "",
-        "said": "他们在指数上拉开的差距太大了，现在我得去用用 Opus 5.5，看看它是不是有种“刷榜”的感觉。 目前我看到的演示非常棒。"
+        "said": "🚿 系统提示词泄露 🚿 这是 GPT-6 Sol Codex 的完整系统提示词和工具！提取的文本总数：>294,000 字符 🤗 希望你喜欢！🫶 链接： gg"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 26万 · 模型与能力] 突发，Claude Opus 5.5杀疯了！降价20%逼平GPT-6 Astra，1822分登顶"
+      "rank": 8,
+      "line": "[榜第8位 · 18万 · 产品与生态] 瞒不住了！Opus-5.5与GPT-6底牌全泄露，190万字提示词被扒光"
+    },
+    {
+      "title": "连屏幕都砍了！苹果版Whoop曝光，还要做带摄像头的AI吊坠给Siri喂图",
+      "summary": "苹果在可穿戴设备上又要有新动作了。知名科技记者 Mark Gurman 最新爆料，苹果正在秘密开发一款无屏幕的健康追踪器，直接对标 Whoop。此外，他们此前还在研发一款带摄像头的 AI 吊坠，原本打算让用户当项链戴着，随时给新一代 Siri AI 收集视觉数据，不过该项目目前已经延期。",
+      "reads": "41万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "知名科技记者 Mark Gurman 爆料，苹果正在开发一款类似 Whoop 的无屏幕健康和健身追踪器。",
+        "该无屏追踪器目前仍处于原型阶段，苹果尚未决定是否正式发布该产品。",
+        "苹果此前还在研发一款带有摄像头的 AI 吊坠设备。",
+        "这款 AI 吊坠的设计初衷是作为项链佩戴，或夹在衣服及身体其他部位。"
+      ],
+      "quote": {
+        "who": "Mark Gurman",
+        "role": "",
+        "said": "Apple 之前也在开发一款带摄像头的 AI 吊坠，不过该项目已经延期。这款设备最初的设想是让用户可以当项链戴，夹在衣服上或戴在身体其他部位，收集视觉数据交给新的 Siri AI 处理。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 41万 · 产品与生态] 连屏幕都砍了！苹果版Whoop曝光，还要做带摄像头的AI吊坠给Siri喂图"
+    },
+    {
+      "title": "早上9点开到深夜！UFC总裁惊呼小扎是猛兽，Meta内部已跑通多智能体",
+      "summary": "Meta 的高压研发节奏究竟有多恐怖？UFC 总裁 Dana White 刚加入 Meta 董事会就被震撼，直呼扎克伯格简直是个「猛兽」，会议能从早上 9 点一路开到深夜，甚至延续到第二天。在这种极高强度的组织动员下，Meta 内部已经跑通了 Muse 多智能体交互。与此同时，UFC 也开始全面拥抱 AI，正在开发能实时读取拳手心率和每一拳冲击力的新技术。",
+      "reads": "36万",
+      "ago": "4 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "UFC 总裁 Dana White 透露，Meta 董事会会议强度极大，通常从早上 9 点开到下午 6 点，晚饭后还要再开 3 小时，甚至延续到第二天。",
+        "Dana White 称加入 Meta 董事会是他做过「最棒的决定之一」，并惊呼扎克伯格在工作上简直是个「猛兽」。",
+        "扎克伯格指出，目前整个行业都把 AI 智能体当成单机游戏，但真正的突破在于智能体之间的相互交互。",
+        "据透露，Meta 已经在内部运行这种多智能体交互系统，这与其近期推出的 Muse AI 智能体密切相关。"
+      ],
+      "quote": {
+        "who": "Fireside Alpha",
+        "role": "",
+        "said": "Dana White 透露，UFC 正在开发 AI，用来读取拳手在擂台角的静息心率与格斗时的心率对比，以及每一拳的冲击力 “我觉得你会看到 AI 带来的改变是——我们已经在捣鼓很多这方面的东西了——能够知道"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 36万 · 组织与人事] 早上9点开到深夜！UFC总裁惊呼小扎是猛兽，Meta内部已跑通多智能体"
+    },
+    {
+      "title": "别再写「仔细思考」了！Anthropic甩出Opus 5.5官方指南，默认开启深度思考",
+      "summary": "Anthropic 官方毫无征兆地甩出了新模型 Opus 5.5 的首发使用指南，暗示这款新模型已经开启灰度测试或正式上线。官方给出了三大核心建议：直接把完整任务交给它并定好验收标准，删掉提示词里的「仔细思考」，以及在长时间运行后主动询问它还需要什么。因为 Opus 5.5 已经默认具备了深度思考能力，过去的提示词技巧反而成了累赘。",
+      "reads": "23万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 官方开发者账号发布了针对新模型 Opus 5.5 的首次使用建议。",
+        "官方建议用户直接将完整的任务一次性交给模型，而不是分步指导。",
+        "使用前需要明确定义什么是「完成」状态，并设定好检查进度的时间点。",
+        "明确要求开发者从提示词中移除「仔细思考」这类指令。"
+      ],
+      "quote": {
+        "who": "ClaudeDevs",
+        "role": "",
+        "said": "在你第一次使用 Opus 5.5 时试试这些： → 把整个任务交给它。定义什么是“完成”以及何时来检查。 → 别再写“仔细思考”了。它总是会先思考。 → 在长时间运行后，检查它还需要什么才能继续。 我们的操作指南："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 23万 · 模型与能力] 别再写「仔细思考」了！Anthropic甩出Opus 5.5官方指南，默认开启深度思考"
+    },
+    {
+      "title": "刚刚，Astra平价版杀疯了！GPT-6 Sol与Luna突发，半价暴击Claude",
+      "summary": "刚刚，OpenAI正式发布GPT-6 Sol和Luna两款新模型，将旗舰Astra的技术全面下放。新模型不仅代码和计算机使用能力更强，API输入输出价格更比上一代5.6版本暴降约50%。官方实测显示，Sol在AutomationBench基准测试中高强度思考下直接击败了Claude。此外，OpenAI还为付费用户发放了累积额度重置福利，不过部分开发者对新模型的实际表现仍存争议。",
+      "reads": "15万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI正式推出GPT-6 Sol和Luna两款模型，定位为更快、更实惠的Astra技术下放版。",
+        "新模型大幅提升了代码编写和计算机使用能力，同时改善了事实准确性和对齐，回答行话更少。",
+        "价格暴降约50%，GPT-6 Sol和Luna的API输入和输出成本均比上一代5.6版本减半。",
+        "官方基准测试表现强劲，在AutomationBench测试中，处于xhigh effort状态的Sol成功击败Claude。"
+      ],
+      "quote": {
+        "who": "J A Z I I",
+        "role": "",
+        "said": "@reach_vb 哇，我竟然错过了这个"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 15万 · 模型与能力] 刚刚，Astra平价版杀疯了！GPT-6 Sol与Luna突发，半价暴击Claude"
     },
     {
       "title": "就在明年底？马斯克语出惊人：AI将击败所有领域，最迟不超过2028年",
       "summary": "AGI的倒计时，可能比所有人预想的都要快。Keras之父François Chollet重温了自己5年前备受争议的AI预测，感叹如今已成现实。没想到马斯克直接下场回复，直言他的预测还是「太保守」，并断言AI最迟在2028年、甚至明年年底就会击败所有领域。",
       "reads": "51万",
-      "ago": "4 小时前",
+      "ago": "6 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -154,164 +329,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 51万 · 模型与能力] 就在明年底？马斯克语出惊人：AI将击败所有领域，最迟不超过2028年"
+      "rank": 13,
+      "line": "[榜第13位 · 51万 · 模型与能力] 就在明年底？马斯克语出惊人：AI将击败所有领域，最迟不超过2028年"
     },
     {
-      "title": "憋了个大的！奥特曼放话全价位全模态制霸，OpenAI史上首次「发太多」",
-      "summary": "下周的 OpenAI DevDay 绝对是场硬仗！Sam Altman 连发多条动态剧透，直言这是 OpenAI 历史上第一次面临「要发布的东西太多了」的幸福烦恼。他明确表态，接下来的 API 将在每一个价位段、每一种模态（文本、代码、图像、视频）上都做到地表最强，直接拉满了全网对新模型和 Sora 回归的期待值。",
-      "reads": "30万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Sam Altman 在社交平台连发多条动态，为下周即将举办的 OpenAI DevDay 预热。",
-        "Altman 强调，OpenAI 的目标是让 API 在每一个价位点上都提供最好的模型。",
-        "新一轮更新将全面覆盖所有模态，官方明确点名了文本、代码、图像和视频四大方向。",
-        "这是 OpenAI 历史上首次出现「要发布的东西实在太多了」的情况，暗示本次大会产品线更新规模空前。"
-      ],
-      "quote": {
-        "who": "leo 🐾",
-        "role": "",
-        "said": "@sama 欢迎 Sora 回归？👀"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 30万 · 产品与生态] 憋了个大的！奥特曼放话全价位全模态制霸，OpenAI史上首次「发太多」"
-    },
-    {
-      "title": "挺搞笑！OpenAI严肃宣布开放深层访问，全网催更：快交出GPT-6 Sol",
-      "summary": "OpenAI 官方正式宣布，将在模型的训练、评估和部署环节向第三方机构提供深度访问权限，以此来把控前沿 AI 的发展节奏。不过挺搞笑的是，面对如此严肃的安全治理承诺，开发者们根本不买账。大家纷纷在评论区刷屏，甚至有人榨干了 Codex 的额度写博客，只为催促 OpenAI 赶紧发布传闻中正在内测的 GPT-6 Sol。",
-      "reads": "35万",
-      "ago": "4 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 官方发布声明，承诺支持对 AI 模型进行独立的第三方评估。",
-        "第三方评估机构将获得深度访问权限，全面覆盖模型的训练、评估和部署三大核心环节。",
-        "此举旨在让外部机构挑战 OpenAI 的内部假设，并识别出潜在的 AI 风险。",
-        "OpenAI 明确表示，引入独立审查是其「把控前沿进展节奏」努力的重要组成部分，标志着向外部监管靠拢。"
-      ],
-      "quote": {
-        "who": "ℏεsam",
-        "role": "",
-        "said": "为了写一篇关于第三方评估的博客文章，我把我的 Codex 额度都榨干了。 快发布 GPT 6 Sol 吧"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 35万 · 政策与安全] 挺搞笑！OpenAI严肃宣布开放深层访问，全网催更：快交出GPT-6 Sol"
-    },
-    {
-      "title": "「全行业都把Agent当单机游戏！」小扎化身猛兽，Meta内部已跑通多智能体",
-      "summary": "UFC总裁Dana White爆料，小扎在推进AI战略上简直是个「猛兽」，Meta董事会会议从早9点连轴转到晚上，甚至延续两天。顶着Muse零日漏洞的争议，Meta正以极端高压的组织动员能力死磕AI。小扎更是直言全行业都在把Agent当单机游戏，而Meta内部已经跑通了真正的多智能体交互。",
-      "reads": "36万",
-      "ago": "4 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "UFC总裁Dana White爆料，Mark Zuckerberg简直是个「猛兽」，并称加入Meta董事会是自己做过最棒的决定之一。",
-        "Meta董事会会议强度极高，从早9点开到晚6点，吃完晚饭后再开3小时，一直延续到第二天。",
-        "结合此前Alexandr Wang分享的文档，这揭示了Meta在AI智能体竞争中的高强度组织动员能力。",
-        "尽管Muse面临零日漏洞争议，内部运作显示Zuckerberg正以极端投入推动战略落地。"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": "想了解更多关于 Meta 的 Muse 及其对前沿实验室的意义："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 36万 · 组织与人事] 「全行业都把Agent当单机游戏！」小扎化身猛兽，Meta内部已跑通多智能体"
-    },
-    {
-      "title": "连屏幕都砍了！苹果版 Whoop 原型机曝光，无感健康监测迎来最强玩家",
-      "summary": "苹果的可穿戴设备可能要迎来一次全新形态的探索了。据记者 Mark Gurman 爆料，苹果正在秘密研发一款「苹果版 Whoop」——完全砍掉屏幕的健康和健身追踪器原型。虽然目前还没决定是否真的发售，但这标志着苹果开始尝试摆脱智能手表的屏幕依赖，准备硬刚无感健康监测细分市场。",
-      "reads": "34万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "核心动作：苹果正在开发一款全新的无屏幕健康和健身追踪器原型机。",
-        "竞品对标：该设备定位与知名无屏运动手环 Whoop 类似，主攻纯粹的健康数据监测。",
-        "爆料来源：消息由彭博社资深记者 Mark Gurman 独家披露，证实了苹果在可穿戴领域的新动向。",
-        "发布状态：目前该项目仍处于内部评估阶段，苹果尚未最终决定是否将其正式推向市场。"
-      ],
-      "quote": {
-        "who": "Mark Gurman",
-        "role": "",
-        "said": "@LoserLarry4Life 你的账号名挺配你的。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 34万 · 产品与生态] 连屏幕都砍了！苹果版 Whoop 原型机曝光，无感健康监测迎来最强玩家"
-    },
-    {
-      "title": "降价40%的真相找到了！Opus 5.5被曝是Token吞噬怪兽，最高负载下消耗惊人",
-      "summary": "Opus 5.5 降价40%的背后原因终于找到了。基准测试显示，新模型在最高 effort 级别下是个不折不扣的「Token 吞噬怪物」，消耗量位居所有参测模型之首。对此 Anthropic 研究员回应称，跑分任务不等于真实场景，只要调低 effort 参数就能大幅提升 Token 效率。",
+      "title": "突发，Claude Opus 5.5杀疯了！降价20%逼平GPT-6 Astra，1822分登顶",
+      "summary": "Anthropic 突然丢出王炸，全新 Claude Opus 5.5 空降登顶 Artificial Analysis 智能指数！这次不仅性能在关键指标上逼平了 OpenAI 旗舰 GPT-6 Astra，还直接降价 20% 并给出了更大的缓存折扣。新模型在智能体知识工作中狂砍 1822 Elo，比前代 Opus 5 暴涨 138 分，四个力度级别全部杀入性价比前沿。",
       "reads": "26万",
-      "ago": "3 小时前",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "爆料者指出，新一代 Opus 在 Intelligence Index 任务中消耗的 Output Tokens 排名第一，被称为「吞噬 Token 的怪物…",
-        "这一高昂的推理开销，直接解释了 Anthropic 为何将 Opus 5.5 的运行成本大幅降低 40%。",
-        "有研究员表示，模型登顶这种消耗榜单通常是一个「危险信号」，引发了社区对实际使用成本的担忧。",
-        "Anthropic 研究员出面澄清，该测试是在最高 effort 级别下进行的，这种设定本身就会消耗大量 Token。"
+        "独立评测机构 Artificial Analysis 宣布，Claude Opus 5.5 正式登顶其智能指数榜单。",
+        "性能直接对标 OpenAI 旗舰，在 Terminal-Bench 4.0 等评估中与 GPT-6 Astra 齐平。",
+        "价格大幅下调，Opus 5.5 降价 20%，同时提供了更大的缓存命中折扣。",
+        "智能体知识工作表现顶尖，在 AA-Briefcase v1.1 中斩获 1822 Elo，领先 Fable 5.1 达 143 分。"
       ],
       "quote": {
-        "who": "Alex Albert",
+        "who": "Chris",
         "role": "",
-        "said": "@synthwavedd 那是在最高 effort 级别下，这种级别本来就会消耗大量 Token。把 effort 调低就能得到非常节省 Token 的结果。而且这些都是评估任务，不等于真实世界任务"
+        "said": "他们在指数上拉开的差距太大了，现在我得去用用 Opus 5.5，看看它是不是有种“刷榜”的感觉。 目前我看到的演示非常棒。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 26万 · 模型与能力] 降价40%的真相找到了！Opus 5.5被曝是Token吞噬怪兽，最高负载下消耗惊人"
-    },
-    {
-      "title": "猝不及防！GPT-6 Sol与Luna突袭ChatGPT，OpenAI次旗舰正式换代",
-      "summary": "OpenAI 毫无征兆地上新了！多位开发者爆料，全新模型 GPT-6 Sol 和 Luna 正在 ChatGPT 中滚动推送。目前这两个定位在旗舰 Astra 之下的新模型已在 Codex 环境中可用，具体的基准测试数据即将出炉。",
-      "reads": "25万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 突发上新，全新模型 GPT-6 Sol 和 Luna 正在 ChatGPT 中滚动上线。",
-        "多位开发者确认，目前已经可以在 Codex 环境中访问并使用这两个新版本。",
-        "根据现役模型谱系，GPT-6 Sol 被定位为旗舰模型 Astra 之下的产品线，接棒现役性价比线。",
-        "爆料者表示，这是一次「重磅发布」，并承诺在拿到访问权限后第一时间公布基准测试结果。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "我已经能用 GPT-6 Sol 和 Luna 了！快去看看你们的 codex"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 25万 · 模型与能力] 猝不及防！GPT-6 Sol与Luna突袭ChatGPT，OpenAI次旗舰正式换代"
+      "rank": 14,
+      "line": "[榜第14位 · 26万 · 模型与能力] 突发，Claude Opus 5.5杀疯了！降价20%逼平GPT-6 Astra，1822分登顶"
     },
     {
       "title": "创投教父奥特曼发话：初创公司天生擅长的事，大厂根本学不来",
       "summary": "面对科技巨头日益高筑的竞争壁垒，AI初创团队的护城河到底在哪？OpenAI CEO奥特曼在X上给出了他的答案。他直言初创公司在创新机制上有着天生的敏捷优势，而大公司很难长期保持这一点。这位前YC掌门人认为，这种能力分化依然是一个「尚未被充分探索的领域」，直接给当下的AI创业生态打了一剂强心针。",
-      "reads": "17万",
-      "ago": "3 小时前",
+      "reads": "29万",
+      "ago": "5 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -329,83 +379,33 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 17万 · 组织与人事] 创投教父奥特曼发话：初创公司天生擅长的事，大厂根本学不来"
-    },
-    {
-      "title": "主打一个情绪稳定？Meta深陷零日漏洞，首席AI官却发毛绒玩偶，网友看傻了",
-      "summary": "Meta Muse 智能体最近刚霸榜 App Store 并和 Shopify 达成合作，转头就被曝出零日漏洞，还引来离职员工一顿炮轰。就在这个风口浪尖，Meta 首席 AI 官 Alexandr Wang 没发严肃的公关声明，反而晒出一个可爱的毛绒玩偶问大家「有帮助吗」。这波荒诞操作直接把网友看傻了，纷纷吐槽「到底在发什么鬼」。",
-      "reads": "34万",
-      "ago": "5 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "Meta Muse 智能体近期表现强势，不仅霸榜 App Store，还与 Shopify 达成了购物合作。",
-        "伴随热度而来的是严重争议，Muse 目前正面临零日漏洞危机，并遭到离职员工的批评。",
-        "有开发者高度评价 Muse，称其成功实现了 OpenClaw 理念；但也有分析认为，这对前沿实验室构成了看跌信号。",
-        "Meta 首席 AI 官 Alexandr Wang 分享了一份一年前写给董事会的文档，被外界视为对 Muse 早期规划与当前争议的回应。"
-      ],
-      "quote": {
-        "who": "leo 🐾",
-        "role": "",
-        "said": "Meta 的首席 AI 官到底在发些什么鬼东西"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 34万 · 组织与人事] 主打一个情绪稳定？Meta深陷零日漏洞，首席AI官却发毛绒玩偶，网友看傻了"
-    },
-    {
-      "title": "只要3美元！Opus 5.5空降Cursor，成本暴降40%拿下第一",
-      "summary": "Cursor 官方宣布，Claude Opus 5.5 现已正式上线！新模型不仅在 CursorBench 4.0 测试中以 57.8% 的最高分拿下第一，单任务成本更是比旧版 Opus 5 暴降 40%，只要约 3 美元。这波加量还降价，直接把程序员的编码效率和性价比拉满了。",
-      "reads": "18万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Cursor 官方宣布，Claude Opus 5.5 模型已在平台正式上线。",
-        "在 CursorBench 4.0 基准测试中，Opus 5.5 取得 57.8% (Max) 的最高分。",
-        "凭借这一成绩，Opus 5.5 成功登顶，成为该测试榜单的新霸主。",
-        "相比现役旧版 Opus 5，新模型的单任务成本大幅降低了 40%。"
-      ],
-      "quote": {
-        "who": "Cursor",
-        "role": "",
-        "said": "Claude Opus 5.5 现已在 Cursor 上线！ 它是 CursorBench 上的新霸主，得分 57.8% (Max)，而且单任务成本比 Opus 5 低 40%。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 18万 · 模型与能力] 只要3美元！Opus 5.5空降Cursor，成本暴降40%拿下第一"
+      "line": "[榜第15位 · 29万 · 组织与人事] 创投教父奥特曼发话：初创公司天生擅长的事，大厂根本学不来"
     },
     {
-      "title": "猝不及防！GPT-6 Astra平价版杀到，API直接半价，全网付费用户额度重置",
-      "summary": "OpenAI猝不及防地发布了GPT-6 Sol和Luna两款新模型，直接将旗舰Astra的核心技术下放。新模型不仅在代码和计算机使用能力上大幅增强，API价格更是比上一代5.6版本暴降约50%，其中Sol的输入成本降到了2美元。更让打工人狂喜的是，官方连夜为所有Plus、Pro和Business付费用户发放了累积额度重置，加量还减价属实把性价比玩明白了。",
-      "reads": "11万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
+      "title": "挺搞笑！OpenAI严肃宣布开放深层访问，全网催更：快交出GPT-6 Sol",
+      "summary": "OpenAI 官方正式宣布，将在模型的训练、评估和部署环节向第三方机构提供深度访问权限，以此来把控前沿 AI 的发展节奏。不过挺搞笑的是，面对如此严肃的安全治理承诺，开发者们根本不买账。大家纷纷在评论区刷屏，甚至有人榨干了 Codex 的额度写博客，只为催促 OpenAI 赶紧发布传闻中正在内测的 GPT-6 Sol。",
+      "reads": "35万",
+      "ago": "6 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "OpenAI正式推出GPT-6 Sol和Luna，定位为更快、更实惠的新一代模型，全面继承了旗舰Astra的核心技术。",
-        "新模型重点强化了编程与计算机使用（computer use）能力，同时显著提升了事实准确性和对齐表现。",
-        "官方强调新版本的输出更加清晰，大幅减少了AI生成的「行业黑话」（jargon）。",
-        "在AutomationBench基准测试中，开启xhigh思考强度的Sol成功击败了Claude竞品。"
+        "OpenAI 官方发布声明，承诺支持对 AI 模型进行独立的第三方评估。",
+        "第三方评估机构将获得深度访问权限，全面覆盖模型的训练、评估和部署三大核心环节。",
+        "此举旨在让外部机构挑战 OpenAI 的内部假设，并识别出潜在的 AI 风险。",
+        "OpenAI 明确表示，引入独立审查是其「把控前沿进展节奏」努力的重要组成部分，标志着向外部监管靠拢。"
       ],
       "quote": {
-        "who": "Vaibhav (VB) Srivastav",
+        "who": "ℏεsam",
         "role": "",
-        "said": "我们正在为所有 Plus、Pro 和 Business 用户的账户发放累积额度重置！！"
+        "said": "为了写一篇关于第三方评估的博客文章，我把我的 Codex 额度都榨干了。 快发布 GPT 6 Sol 吧"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 11万 · 模型与能力] 猝不及防！GPT-6 Astra平价版杀到，API直接半价，全网付费用户额度重置"
+      "line": "[榜第16位 · 35万 · 政策与安全] 挺搞笑！OpenAI严肃宣布开放深层访问，全网催更：快交出GPT-6 Sol"
     }
   ],
   "board_count": 16,
