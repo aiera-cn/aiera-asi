@@ -3,40 +3,115 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-23 19:26:18 +0800",
-  "today": "09/23",
+  "fetched_at": "2026-09-24 00:49:23 +0800",
+  "today": "09/24",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "刚刚，GPT-6 Astra 廉价版突发上线！API 价格暴降 50%，硬刚 Claude 成本仅 1/10",
-      "summary": "OpenAI 再次点燃大模型价格战！今天，官方正式发布 GPT-6 家族的两款中轻量级模型 Sol 和 Luna，将旗舰 Astra 的能力全面下放。新模型 API 价格较上一代永久下调 50%，其中 Luna 输入每百万 Token 仅需 0.10 美元。在基准测试中，Sol 几乎追平 Claude Fable 5，但单任务成本暴降约 80%，可谓把性价比拉到了极致。",
-      "reads": "1392万",
-      "ago": "4 小时前",
+      "title": "刚刚，GPT-6 Astra平价版杀疯了！API价格直接腰斩，硬刚Opus 5.5",
+      "summary": "OpenAI 正式发布 GPT-6 家族新成员 Sol 与 Luna，将旗舰模型 Astra 的核心能力全面下放。两款新模型 API 价格较上一代 GPT-5.6 永久腰斩，其中 Luna 的输出成本在两个月内狂降逾 90%。在基准测试中，GPT-6 Sol 仅用 9% 的成本就击败了 Claude Opus 5，并在同一天与 Anthropic 新发布的 Opus 5.5 展…",
+      "reads": "1501万",
+      "ago": "3 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI 正式发布 GPT-6 Sol 和 GPT-6 Luna，两款模型定位为旗舰 Astra 的中轻量级版本，现已在 API、ChatGPT Wor…",
-        "API 价格较上一代 GPT-5.6 永久下调 50%：Sol 输入 2 美元/百万 Token、输出 10 美元；Luna 输入 0.10 美元、输出 0…",
-        "在 DeepSWE v1.1 测试中，GPT-6 Sol (max) 几乎追平 Claude Fable 5 (xhigh)，且单任务成本低约 80%。",
-        "GPT-6 Luna (max) 在 DeepSWE 测试中媲美 Fable 5 (medium)，单任务成本更是大幅降低 96%。"
+        "OpenAI 宣布 GPT-6 宇宙新增 Sol 和 Luna 两款模型，定位为 GPT-6 Astra 的平价下放版，现已在 API、ChatGPT Wo…",
+        "API 价格迎来「脚踝斩」，Sol 输入/输出降至每百万 Token 2 美元和 10 美元，Luna 降至 0.10 美元和 0.50 美元，较上一代 G…",
+        "性能与成本双杀，在 AutomationBench 业务工作流测试中，GPT-6 Sol（xhigh）击败了 Claude Opus 5（max），且单任务…",
+        "针对长周期编程任务的 DeepSWE v1.1 测试显示，GPT-6 Sol 几乎追平 Claude Fable 5，单任务成本降低约 80%；Luna 则…"
       ],
       "quote": {
-        "who": "Kol Tregaskes",
+        "who": "Simon Willison",
         "role": "",
-        "said": "@getjjed"
+        "said": "@Alex06425829 我用 Astra 写代码——我喜欢把 Luna 当作 API 来开发产品"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 1392万 · 模型与能力] 刚刚，GPT-6 Astra 廉价版突发上线！API 价格暴降 50%，硬刚 Claude 成本仅 1/10"
+      "line": "[榜第1位 · 1501万 · 模型与能力] 刚刚，GPT-6 Astra平价版杀疯了！API价格直接腰斩，硬刚Opus 5.5"
+    },
+    {
+      "title": "降价40%提速30%！Anthropic突发Opus 5.5，OpenAI旗舰Astra悬了",
+      "summary": "刚刚，Anthropic 正式发布了全新模型 Claude Opus 5.5，现已在 Claude Code 全面上线并重置了速率限制。新模型性能直接对标自家旗舰 Fable 5.1，但成本大幅降低 40%，速度提升 30%。在多项基准测试中，Opus 5.5 强势击败了 OpenAI 的现役旗舰 GPT-6 Astra，被学界评价为继 Astra 之后又一个达到 AGI 水平…",
+      "reads": "49万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "模型发布与定位：Anthropic 今日正式推出 Claude Opus 5.5，性能对标自家旗舰 Fable 5.1，成本直降 40%，速度提升 30%。",
+        "硬刚 OpenAI 旗舰：在多项基准测试中击败 GPT-6 Astra，被学界盖章为继 Astra 之后，已发布 AI 模型中又一个达到 AGI 水平的模型…",
+        "情商与审美登顶：学界与开发者普遍认为，基于目前的社区测试反馈，Opus 5.5 在设计品味和情商（EQ）方面的表现已是全网最佳。",
+        "神级视觉与代码能力：官方演示显示，新模型仅凭图像线索和公开数据，就能完美重现 1968 年 12 月 24 日阿波罗 8 号拍摄「地出」照片的瞬间。"
+      ],
+      "quote": {
+        "who": "Derya Unutmaz, MD",
+        "role": "",
+        "said": "@JoonasUusi 除了我提到的那两点，它还有哪些方面更好？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 49万 · 模型与能力] 降价40%提速30%！Anthropic突发Opus 5.5，OpenAI旗舰Astra悬了"
+    },
+    {
+      "title": "暴跌725倍！从o3到GPT-5.6 Luna仅18个月，AI降价速度碾压算力与锂电池",
+      "summary": "AI 的「思考成本」正在以史无前例的速度暴跌！Epoch AI 最新报告显示，自 2023 年起，同等性能的 AI 成本每季度骤降 47%，每年狂降 13 倍。以 OpenAI 为例，18 个月前 o3 模型在 GPQA Diamond 拿 75% 分数需花费 0.3 美元，如今 GPT-5.6 Luna 仅需 0.0004 美元，成本直接暴跌 725 倍。这降价速度不仅比算力…",
+      "reads": "53万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Epoch AI 报告指出，自 2023 年以来，同等性能的 AI 成本每季度下降约 47%，每年降幅高达 13 倍。",
+        "AI 降价速度创下历史纪录，比 DNA 测序快 4 倍，比算力快 6 倍，比锂电池快 18 倍。",
+        "在 FrontierMath 数学基准上，OpenAI o3（2025年1月发布）达标需花费 0.55 美元，而今年夏天的 GPT-5.6 Luna 仅需…",
+        "在 GPQA Diamond 测试中降幅更夸张，o3 达到 75% 准确率需 0.30 美元，GPT-5.6 Luna 仅需 0.0004 美元，成本暴跌…"
+      ],
+      "quote": {
+        "who": "prinz",
+        "role": "",
+        "said": "@MetacriticCap 既然如此，我把我的帖子修改为“2029 年不到 50,000 美元”"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 53万 · 资本与算力] 暴跌725倍！从o3到GPT-5.6 Luna仅18个月，AI降价速度碾压算力与锂电池"
+    },
+    {
+      "title": "OpenAI被打了个措手不及！全员备战6.1 Astra，Astra廉价版或成救火队长",
+      "summary": "Claude Opus 5.5 的强悍性能直接打乱了 OpenAI 的阵脚！据爆料，OpenAI 内部对 Opus 5.5 的表现感到措手不及，目前已进入全员备战状态，大幅压缩 6.1 Astra 的研发时间表。为了应对短期竞争，OpenAI 可能会先推出 Astra 廉价版「Minor」，而后续更强模型「Bel」的发布进程也被间接提档。",
+      "reads": "15万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "爆料指出，Claude Opus 5.5 的性能表现远超预期，让 OpenAI 内部几乎所有人感到措手不及。",
+        "受此冲击，OpenAI 目前已进入「全员备战」状态，正在大幅压缩 6.1 Astra 的研发时间表。",
+        "作为短期的应对策略，OpenAI 极有可能推出名为 Minor 的新模型，定位为 Astra 的廉价变体。",
+        "6.1 Astra 进度的提前，也间接压缩了后续模型「Bel」的公开时间表，不过距离其正式发布仍有数月之遥。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@Adamlags 不知道……我选择相信他的话。他想放慢脚步，但既然竞争对手没减速，他们也没法慢下来"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 15万 · 模型与能力] OpenAI被打了个措手不及！全员备战6.1 Astra，Astra廉价版或成救火队长"
     },
     {
       "title": "奥特曼深夜官宣下周DevDay！史上首次直呼「新品多到发不完」，全模态最强模型来了",
       "summary": "下周（9月29日）的 OpenAI DevDay 要炸场了！Sam Altman 深夜发文预热，直言这是 OpenAI 历史上第一次觉得「要发布的东西太多」。他承诺将在所有价位和模态上提供最强模型，虽然随后紧急澄清把「语音」错打成了「视频」，但依然挡不住开发者对 Sora 等多模态大招回归的狂热期待。",
-      "reads": "84万",
-      "ago": "3 小时前",
+      "reads": "108万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -54,39 +129,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 84万 · 产品与生态] 奥特曼深夜官宣下周DevDay！史上首次直呼「新品多到发不完」，全模态最强模型来了"
+      "rank": 5,
+      "line": "[榜第5位 · 108万 · 产品与生态] 奥特曼深夜官宣下周DevDay！史上首次直呼「新品多到发不完」，全模态最强模型来了"
     },
     {
-      "title": "Dario这把赢麻了！Opus 5.5智力58分登顶，全面反杀GPT-6 Astra",
-      "summary": "Anthropic 正式发布 Claude Opus 5.5，定价 4美元/20美元每百万 Token，典型负载比 Opus 5 便宜约 40% 且提速 30%。新模型在 Artificial Analysis 智能指数中以 58 分登顶，全面超越 OpenAI 现役旗舰 GPT-6 Astra，终端跑分甚至盖过了自家特批旗舰 Mythos 5.1。同一天 OpenAI 也上线…",
-      "reads": "19万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "title": "苹果盯上企业级算力！4台Mac连雷电跑通万亿参数模型，一个插座搞定本地Agent",
+      "summary": "苹果正悄悄杀入企业级本地算力市场。他们通过雷电接口将4台 Mac Studio 串联，仅用一个墙上插座供电，就成功跑通了万亿参数的 AI 模型并修复了图形代码 Bug。现在苹果正以此向企业推销「买断制」本地 AI 机器方案，主打数据隐私和无限制运行代码 Agent，试图在云端算力之外撕开一道口子。",
+      "reads": "4.7万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "综合智力登顶：Opus 5.5 在 Artificial Analysis 智能指数中获 58 分，超越 GPT-6 Astra 和 Fable 5.1（均…",
-        "价格与速度双优：输入/输出定价为 $4/$20 每百万 Token，典型负载成本比 Opus 5 降低约 40%，速度提升 30% 以上，且官方上调了 Pr…",
-        "终端编程霸榜：在 Terminal-Bench 测试中取得 66.4% 的成绩，不仅领先 GPT-6 Astra（57.9%），表现更超过了仅对特批机构开放…",
-        "知识工作性价比碾压：在 GDPval-AA 榜单中，Opus 5.5 中档（medium）得分直接超过 Astra 最高档（max），且单次任务成本仅约 0…"
+        "苹果成功测试本地算力集群方案，通过雷电接口将4台 Mac Studio 进行了物理连接。",
+        "该集群成功运行了一个万亿参数级别的 AI 模型，并实际定位修复了图形代码 Bug。",
+        "整个万亿参数运行环境的能耗极低，仅需一个标准的墙上插座即可完成供电。",
+        "苹果正向企业客户推销将 Mac 作为「本地 AI 机器」的商业方案，硬件完全能胜任该需求。"
       ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "Mark Kretschmann",
         "role": "",
-        "said": "😱无敌了！Opus 5.5 自己写了一套卡通剪辑软件，然后钻进去剪完了！ 不走视频模型，纯程序，code2video！ Claude 小人站在时间轴上： 日出 → 热咖啡 → 三只猫 → 自己跳舞。 伸手把 Sparkle 拉到 70%，咔一声 SNIP!，音轨lyric_track.wav 还在下面抖。 文件名已经是"
+        "said": "@tmophoto @Apple @grok Mac studio 满载时功耗是多少？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 19万 · 模型与能力] Dario这把赢麻了！Opus 5.5智力58分登顶，全面反杀GPT-6 Astra"
+      "rank": 6,
+      "line": "[榜第6位 · 4.7万 · 产品与生态] 苹果盯上企业级算力！4台Mac连雷电跑通万亿参数模型，一个插座搞定本地Agent"
+    },
+    {
+      "title": "小扎今夜放大招！Alexandr Wang剧透神秘玩偶，全网坐等Muse登场",
+      "summary": "Meta Connect 大会今夜正式拉开帷幕，全网都在等小扎放大招。核心高管 Alexandr Wang 刚刚晒出了一张毛绒玩偶在虚拟场景自拍的神秘配图，直言「等不及要给你们看些激动人心的东西了」。这波预热直接拉满了期待值，甚至有媒体追问今晚能不能在现实舞台上看到「Muse」登场，Meta 新一轮技术风暴马上就来！",
+      "reads": "5.2万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Meta Connect 大会今日正式开幕，开发者正期待 Mark Zuckerberg 的主题演讲及具体的产品落地细节。",
+        "Meta 核心高管 Alexandr Wang 在社交媒体发文预热，直言对今天的大会感到非常激动。",
+        "Alexandr Wang 承诺将在大会上展示「令人激动的内容」，引发全网对 Meta 新技术的猜测。",
+        "预热配图展示了一个毛绒玩偶在虚拟场景中比耶自拍，背景包含埃菲尔铁塔和哥特式城堡建筑模型。"
+      ],
+      "quote": {
+        "who": "Wall St Engine",
+        "role": "",
+        "said": "@alexandr_wang 我也是。 我们能在现实的舞台上看到 Muse 吗"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 5.2万 · 产品与生态] 小扎今夜放大招！Alexandr Wang剧透神秘玩偶，全网坐等Muse登场"
+    },
+    {
+      "title": "动画行业悬了！Opus 5.5化身代码版Sora，纯代码直出带音效MP4",
+      "summary": "开发者实测发现，Opus 5.5 已经彻底攻克了动画生成难题。现在不需要任何外部工具或连接器，仅靠纯代码就能一站式生成包含音效和配乐的 MP4 视频。只要输入故事提示词，一个人就能撑起一个内部故事工作室，传统的创意工作流面临大洗牌。",
+      "reads": "3.7万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "开发者实测断言，Opus 5.5 是首个彻底解决动画生成的模型。",
+        "整个过程无需任何外部工具或连接器，100% 由 Opus 通过代码生成。",
+        "用户仅需输入故事创意的提示词，模型即可直接返回 MP4 格式视频。",
+        "生成的视频不仅有画面，还自动包含配套的音效和音乐。"
+      ],
+      "quote": {
+        "who": "Alex Prompter",
+        "role": "",
+        "said": "@itsolelehmann 在很多用例中我用过最好的模型。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 3.7万 · 模型与能力] 动画行业悬了！Opus 5.5化身代码版Sora，纯代码直出带音效MP4"
     },
     {
       "title": "马斯克深夜发话！Grok 4.7硬刚三大旗舰，2.1T小模型便宜7倍，性价比杀疯了",
       "summary": "马斯克在 X 上确认，仅有 2.1T 参数的 Grok 4.7 作为一个「偏小模型」，在最新 Next.js 评估中表现惊艳。它的得分高达 94%，紧咬 Opus 5.5、GPT 6 Sol 和 Fable 5.1 等一众 97% 的前沿旗舰。最狠的是，Grok 4.7 的价格比竞品便宜了 2 到 7 倍，xAI 正在用极致的性价比在垂直领域杀出一条血路。",
-      "reads": "339万",
-      "ago": "12 小时前",
+      "reads": "439万",
+      "ago": "17 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -104,64 +229,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 339万 · 模型与能力] 马斯克深夜发话！Grok 4.7硬刚三大旗舰，2.1T小模型便宜7倍，性价比杀疯了"
+      "rank": 9,
+      "line": "[榜第9位 · 439万 · 模型与能力] 马斯克深夜发话！Grok 4.7硬刚三大旗舰，2.1T小模型便宜7倍，性价比杀疯了"
     },
     {
-      "title": "18个月成本暴跌725倍！AI降价速度创历史纪录，把算力和锂电池全碾压了",
-      "summary": "AI 变便宜的速度正在碾压人类历史上的所有技术变革。Epoch AI Research 最新报告显示，自 2023 年以来，AI 成本每季度暴跌约 47%，降价速度是算力的 6 倍、锂电池的 18 倍。以 OpenAI 为例，在 GPQA Diamond 测试中达到 75% 的准确率，o3 模型需要 0.3 美元，而不到 18 个月后的 GPT-5.6 Luna 仅需 0.00…",
-      "reads": "26万",
-      "ago": "4 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "整体降幅创纪录：自 2023 年起，在同等性能下，AI 成本每季度下降约 47%，速度是 DNA 测序的 4 倍、算力的 6 倍、锂电池的 18 倍。",
-        "GPQA测试成本暴跌：在 GPQA Diamond 上达到 75% 分数，o3 成本约 0.30 美元，GPT-5.6 Luna 仅需 0.0004 美元…",
-        "数学推理成本跳水：在 FrontierMath Tiers 1-3 得分超 25%，2025 年 1 月发布的 o3 模型账单为 0.55 美元，今年夏天的…",
-        "领域降幅存在差异：数学问题成本降幅最快，每季度达 50-52%；基于游戏的谜题降幅较慢，每季度为 39-43%。"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": "AI 成本确实在大幅下降。 在 GPQA Diamond 上，Epoch 估计 OpenAI 的 o3 模型每道题大约需要 0.30 美元才能达到 75% 的分数。 不到 18 个月后，GPT-5.6 Luna 仅用 0.0004 美元就达到了同等水平，成本下降了 725 倍。 总体而言，Epoch 估计匹配一个固定的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 26万 · 资本与算力] 18个月成本暴跌725倍！AI降价速度创历史纪录，把算力和锂电池全碾压了"
-    },
-    {
-      "title": "马斯克奥特曼莫迪手拉手！Alexandr Wang晒AI神图，Meta新王牌Muse又整活了",
-      "summary": "Meta旗下的Muse智能体最近可谓是出尽了风头，不仅强势登顶App Store榜首，还向企业用户开放了连接器平台。为了给自家产品继续造势，Alexandr Wang在社交平台上晒出了一张由Muse生成的离谱神图：马斯克、奥特曼和莫迪在2025年峰会上同台牵手。尽管此前Muse被曝出部分电话会转接给人类客服，但这波高调营销依然让它赚足了眼球，甚至有网友调侃Wang真是个「划时代…",
-      "reads": "12万",
-      "ago": "3 小时前",
+      "title": "挺搞笑！Meta发Muse剑指搜索，谷歌股价却连涨两周，今天华尔街才回过味来",
+      "summary": "Meta Muse AI 智能体一经发布直接登顶 App Store，手握原生 Instagram 流量入口，大有掀翻传统搜索广告基本盘的架势。最搞笑的是，Muse 刚发布时谷歌股价居然跟着连涨了两周，直到今天华尔街投资者才猛然惊醒，意识到这玩意儿对谷歌是巨大的利空。AI 智能体取代搜索引擎的颠覆大戏，真真切切地上演了。",
+      "reads": "3.2万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Alexandr Wang在社交平台发布了一张由Meta旗下Muse生成的AI图片，配文调侃「还有什么是Muse做不到的」。",
-        "图片内容极为吸睛，展现了马斯克、奥特曼与莫迪在「AI Impact Summit 2025」上手拉手高举手臂合影的罕见画面。",
-        "这波操作引发了网友的强势围观，有人直接转发感叹，称Alexandr Wang简直是个「划时代的发帖大神」。",
-        "作为近期生成式AI落地的最大爆款，Muse此前已经强势登顶了App Store榜首。"
+        "Meta Muse AI 智能体发布后势头迅猛，目前已成功登顶 App Store。",
+        "有记者指出，若 AI 智能体成为下一个需求生成器，现有的大部分搜索广告支出将变得毫无必要。",
+        "市场反应出现戏剧性反转，Meta 发布 Muse 后，竞争对手谷歌的股价竟然连涨了两周。",
+        "直到今天，投资者才猛然意识到 Muse 的崛起对谷歌搜索业务构成了直接的负面威胁。"
       ],
       "quote": {
-        "who": "NIK",
+        "who": "tae kim",
         "role": "",
-        "said": "兄弟真是个划时代的发帖大神"
+        "said": "最搞笑的是，Meta 发布 Muse 后 Google 股价连涨了两周，然后今天投资者才意识到 Muse 对 Google 不利。 有时候这剧情你编都编不出来。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 12万 · 产品与生态] 马斯克奥特曼莫迪手拉手！Alexandr Wang晒AI神图，Meta新王牌Muse又整活了"
+      "rank": 10,
+      "line": "[榜第10位 · 3.2万 · 产品与生态] 挺搞笑！Meta发Muse剑指搜索，谷歌股价却连涨两周，今天华尔街才回过味来"
+    },
+    {
+      "title": "突发！Gemini 3.8 Flash语音版上线，超千种音色任选，连笑声都能逐行微调",
+      "summary": "谷歌DeepMind正式推出Gemini 3.8 Flash TTS与Flash-Lite TTS两款全新文本转语音模型。新模型不仅提供超千种现成音色，还支持逐行微调笑声、停顿等情绪节奏，甚至能一键克隆专属声音。所有生成音频均强制嵌入SynthID水印，开发者现在就能通过Gemini API在Google AI Studio中调用。",
+      "reads": "1.8万",
+      "ago": "52 分钟前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "谷歌DeepMind发布两款全新文本转语音模型：Gemini 3.8 Flash TTS与Flash-Lite TTS。",
+        "Gemini 3.8 Flash TTS主打个性化，支持设计带有独特口音和特征的专属声音。",
+        "Gemini 3.8 Flash-Lite TTS专为效率与规模打造，提供超过一千种现成音色供用户选择。",
+        "开发者可对生成的语音进行逐行微调，精准控制节奏、情感，甚至能加入笑声或停顿等细节提示。"
+      ],
+      "quote": {
+        "who": "Google DeepMind",
+        "role": "",
+        "said": "用我们全新的文本转语音模型创建和部署自定义音频： 🔵 Gemini 3.8 Flash TTS：设计带有独特口音和特征的专属声音。 🔵 Gemini 3.8 Flash-Lite TTS：专为效率和规模打造，从你创建的风格或我们庞大的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 1.8万 · 产品与生态] 突发！Gemini 3.8 Flash语音版上线，超千种音色任选，连笑声都能逐行微调"
+    },
+    {
+      "title": "干翻Hume AI！谷歌Gemini 3.8 TTS突袭，2000+音色带克隆，成本比上代还低",
+      "summary": "谷歌音频模型又上大分了！全新Gemini 3.8 Flash及Flash-Lite TTS模型正式上线，不仅一口气放出2000+生产级声音、支持100种语言和声音克隆，还直接拿下了Hume AI语音基准测试第一。最良心的是，性能全面飙升的同时，使用成本竟然比上一代3.1 Flash TTS还要低。",
+      "reads": "1.5万",
+      "ago": "31 分钟前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "谷歌研究员Logan Kilpatrick宣布推出全新SOTA文本转语音模型：Gemini 3.8 Flash及Flash-Lite TTS。",
+        "新模型提供全新的声音设计体验，自带2000+生产级声音，并支持声音克隆功能。",
+        "语言覆盖面极广，原生支持多达100种语言，未来还将推出声音混音（voice remixing）功能。",
+        "性能表现强悍，在Hume AI的语音基准测试中成功拿下第一名。"
+      ],
+      "quote": {
+        "who": "Logan Kilpatrick",
+        "role": "",
+        "said": "对我们所有的音频模型进展感到无比兴奋，从 TTS 到 Live，再到 Lyria、Translate 和 Transcribe，我们的音频模型套件正为每个人变得越来越好。 如果你在旧金山，明天来加入我们，体验一场前所未有的音频体验："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 1.5万 · 模型与能力] 干翻Hume AI！谷歌Gemini 3.8 TTS突袭，2000+音色带克隆，成本比上代还低"
     },
     {
       "title": "特斯拉喜提车机版 Agent！马斯克官宣 Grok 上车，动动嘴就能查邮件定日程",
       "summary": "马斯克正式宣布，Grok Bot 现已全面接入特斯拉车机系统！借助全新的 Connectors 功能，车主只需动动嘴就能让 AI 帮忙查邮件、清理日历，甚至处理文件和导航。这标志着 Grok 正式从聊天大模型进化为具备极强执行力的车机版 Agent，人在车里一句话搞定周末订房的科幻场景，现在真真切切地落地了。",
       "reads": "152万",
-      "ago": "11 小时前",
+      "ago": "16 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -179,233 +329,83 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 152万 · 产品与生态] 特斯拉喜提车机版 Agent！马斯克官宣 Grok 上车，动动嘴就能查邮件定日程"
+      "rank": 13,
+      "line": "[榜第13位 · 152万 · 产品与生态] 特斯拉喜提车机版 Agent！马斯克官宣 Grok 上车，动动嘴就能查邮件定日程"
     },
     {
-      "title": "一句「查查为什么」，GPT-6 Astra顺着崩溃日志，揪出潜伏14年的底层神坑",
-      "summary": "升级 macOS 27 后 ChatGPT 频繁崩溃怎么办？一位开发者直接扔给 GPT-6 Astra 一句「查查为什么」，结果这 AI 顺着崩溃日志和源码一路追踪，竟揪出了底层库 libuv 中潜伏约 14 年的祖传 bug。这个导致文件描述符泄漏的深坑终于被填上，修复补丁预计下周推送，而 Astra 甚至顺手又扫出了 8 个同类问题。",
-      "reads": "8.1万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "开发者在升级 macOS 27 后遭遇 ChatGPT 崩溃问题，直接交由 OpenAI 旗舰模型 GPT-6 Astra 排查。",
-        "仅凭一句「查查为什么」，Astra 自主定位崩溃日志，并结合源码在系统中展开追踪。",
-        "最终 Astra 成功揪出底层库 libuv 中一个存在约 14 年的深层 bug。",
-        "该 bug 会导致文件描述符（file descriptors）保持打开状态，造成资源快速耗尽从而引发应用崩溃。"
-      ],
-      "quote": {
-        "who": "Peter Steinberger 🦞",
-        "role": "",
-        "said": "@LLMpsycho 我又找到了 8 个 :)"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 8.1万 · 产品与生态] 一句「查查为什么」，GPT-6 Astra顺着崩溃日志，揪出潜伏14年的底层神坑"
-    },
-    {
-      "title": "Salesforce CEO爆料！原想投资OpenAI被微软挡道，转头重金押注Anthropic",
-      "summary": "Salesforce CEO Marc Benioff 最新采访爆出猛料：公司原本计划投资 OpenAI，但因为微软这层关系没能成行。这反而促使 Salesforce 转头拥抱了 Anthropic，如今 Claude 已经深度集成到自家产品中。他还大谈 AI 热潮下的「SaaS 末日」危机，并断言 Slack 在 AI 时代将比以往任何时候都重要。",
-      "reads": "5.9万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Salesforce CEO Marc Benioff 在最新采访中揭秘了公司在 AI 领域的投资内幕。",
-        "他透露，Salesforce 原本计划投资 OpenAI，但因 OpenAI 与微软的紧密关系而受阻。",
-        "这一挫折反而将 Salesforce 推向了 Anthropic，双方目前已建立深度的商业伙伴关系。",
-        "Anthropic 的 Claude 模型现已深度集成至 Salesforce 的多款产品中。"
-      ],
-      "quote": {
-        "who": "Alex Heath",
-        "role": "",
-        "said": "@wallstengine 来源"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 5.9万 · 产品与生态] Salesforce CEO爆料！原想投资OpenAI被微软挡道，转头重金押注Anthropic"
-    },
-    {
-      "title": "早上9点开到深夜！UFC总裁惊呼小扎是猛兽，Meta内部已跑通多智能体",
-      "summary": "Meta 的高压研发节奏究竟有多恐怖？UFC 总裁 Dana White 刚加入 Meta 董事会就被震撼，直呼扎克伯格简直是个「猛兽」，会议能从早上 9 点一路开到深夜，甚至延续到第二天。在这种极高强度的组织动员下，Meta 内部已经跑通了 Muse 多智能体交互。与此同时，UFC 也开始全面拥抱 AI，正在开发能实时读取拳手心率和每一拳冲击力的新技术。",
-      "reads": "260万",
-      "ago": "16 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "UFC 总裁 Dana White 透露，Meta 董事会会议强度极大，通常从早上 9 点开到下午 6 点，晚饭后还要再开 3 小时，甚至延续到第二天。",
-        "Dana White 称加入 Meta 董事会是他做过「最棒的决定之一」，并惊呼扎克伯格在工作上简直是个「猛兽」。",
-        "扎克伯格指出，目前整个行业都把 AI 智能体当成单机游戏，但真正的突破在于智能体之间的相互交互。",
-        "据透露，Meta 已经在内部运行这种多智能体交互系统，这与其近期推出的 Muse AI 智能体密切相关。"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": "Dana White 透露，UFC 正在开发 AI，用来读取拳手在擂台角的静息心率与格斗时的心率对比，以及每一拳的冲击力 “我觉得你会看到 AI 带来的改变是——我们已经在捣鼓很多这方面的东西了——能够知道"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 260万 · 组织与人事] 早上9点开到深夜！UFC总裁惊呼小扎是猛兽，Meta内部已跑通多智能体"
-    },
-    {
-      "title": "190万字底裤被扒光！Opus 5.5系统提示词惨遭泄露，所有工具定义全曝光",
-      "summary": "大模型的底裤又被扒了！有开发者成功绕过安全限制，提取出了Claude Opus 5.5高达190万字的完整系统提示词。这次泄露不仅曝光了模型的所有工具定义和内部指令，还引发了圈内对「上下文先验」作为大模型扩展新轴的热烈讨论。",
-      "reads": "34万",
+      "title": "马斯克奥特曼莫迪手拉手！Alexandr Wang晒AI神图，Meta新王牌Muse又整活了",
+      "summary": "Meta旗下的Muse智能体最近可谓是出尽了风头，不仅强势登顶App Store榜首，还向企业用户开放了连接器平台。为了给自家产品继续造势，Alexandr Wang在社交平台上晒出了一张由Muse生成的离谱神图：马斯克、奥特曼和莫迪在2025年峰会上同台牵手。尽管此前Muse被曝出部分电话会转接给人类客服，但这波高调营销依然让它赚足了眼球，甚至有网友调侃Wang真是个「划时代…",
+      "reads": "20万",
       "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "核心机密泄露：开发者成功提取出Claude Opus 5.5的完整系统提示词，总字符数突破190万大关。",
-        "泄露内容详尽：被曝光的提示词不仅包含基础指令，还完整覆盖了Opus 5.5的所有工具定义及底层逻辑。",
-        "突破安全防线：爆料者通过特定手段成功绕过模型安全限制，获取到了Anthropic旗舰模型的最核心配置。",
-        "扩展新轴引发热议：业内人士指出，如此庞大的提示词证明「上下文先验」的大小和质量已成为大模型能力扩展的新维度。"
+        "Alexandr Wang在社交平台发布了一张由Meta旗下Muse生成的AI图片，配文调侃「还有什么是Muse做不到的」。",
+        "图片内容极为吸睛，展现了马斯克、奥特曼与莫迪在「AI Impact Summit 2025」上手拉手高举手臂合影的罕见画面。",
+        "这波操作引发了网友的强势围观，有人直接转发感叹，称Alexandr Wang简直是个「划时代的发帖大神」。",
+        "作为近期生成式AI落地的最大爆款，Muse此前已经强势登顶了App Store榜首。"
       ],
       "quote": {
-        "who": "Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞)",
+        "who": "NIK",
         "role": "",
-        "said": "说实话这挺合理的。另一个扩展轴： 上下文先验的大小和质量。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 34万 · 产品与生态] 190万字底裤被扒光！Opus 5.5系统提示词惨遭泄露，所有工具定义全曝光"
-    },
-    {
-      "title": "突发！GPT-6廉价版正式上线，API价格直接腰斩，硬刚DeepSeek打响价格战",
-      "summary": "OpenAI 刚刚在 ChatGPT 界面正式上线了 GPT-6 Sol 和 GPT-6 Luna 两款新模型，默认推荐仍为旗舰 Astra。这次 API 定价直接腰斩，Sol 输入降至 2 美元/百万 token，Luna 更是低至 0.1 美元，比 DeepSeek V4.1 Flash 还要便宜 33% 以上，妥妥打响了价格战。不过在 AA 基准测试中，Luna 的综合智…",
-      "reads": "8.5万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 正式上线 GPT-6 Sol 和 GPT-6 Luna，ChatGPT 界面已解锁新选项，默认推荐仍为旗舰 GPT-6 Astra。",
-        "API 价格大幅跳水，Sol 输入 2 美元/输出 10 美元（每百万 token），较上一代直接腰斩。",
-        "轻量版 Luna 价格极低，输入仅需 0.10 美元/输出 0.50 美元（每百万 token），平民款降价更狠。",
-        "OpenAI 疑似发起价格战，Luna 的未命中缓存输入价格比 DeepSeek V4.1 Flash 闲时还要便宜约 33%，比高峰期便宜 67%。"
-      ],
-      "quote": {
-        "who": "SuSu_酥酥",
-        "role": "",
-        "said": "😂梁文峰秒变梁子！OpenAI 把 GPT-6 Luna 价格调得比 DeepSeek V4.1 Flash 还要低！妥妥的价格战！ 按官方 API、每百万 tokens、标准短上下文算： 🔹未命中缓存输入：Luna $0.10 vs Flash 闲时 $0.15 / 高峰 $0.30 → Luna 比闲时便宜约 33%，比高峰便宜 67% 🔹输出：Luna $0.50 vs Flash 闲时"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 8.5万 · 模型与能力] 突发！GPT-6廉价版正式上线，API价格直接腰斩，硬刚DeepSeek打响价格战"
-    },
-    {
-      "title": "降价50%！GPT-6 Sol与Luna正式发布，Altman：市场上没有任何竞品能打",
-      "summary": "Sam Altman正式宣布GPT-6 Sol和Luna上线，相比5.6系列在智能、编程及计算机使用等方面大幅提升。新模型每Token价格直接减半，按单任务计算成本更低。Altman直言市场上没有任何竞品能与之抗衡，希望借此降低门槛，推动用户大规模探索AI新复兴。",
-      "reads": "141万",
-      "ago": "16 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Sam Altman正式宣布发布GPT-6 Sol和GPT-6 Luna两款新模型。",
-        "相比5.6系列前代，新模型在智能、对齐、工作产出、编程及计算机使用等方面大幅提升。",
-        "新模型每Token价格直接减半，按单任务计算成本甚至更低。",
-        "Altman强调，按单任务定价来看，市场上没有任何竞品能与之抗衡。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "@sama 谢谢你，Sam。我已经在使用 ChatGPT 里的各种 AI 功能了。你们改变了太多人的生活。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 141万 · 模型与能力] 降价50%！GPT-6 Sol与Luna正式发布，Altman：市场上没有任何竞品能打"
-    },
-    {
-      "title": "挺搞笑！Opus 5.5 竟把 Sidney 当成女版自己，视觉设计被评全网最强",
-      "summary": "Claude Opus 5.5 的视觉设计能力再次让人眼前一亮，甚至被测试者评为「目前用过最棒的」。有研究员在测试中发现，它竟然把著名的 AI 人格 Sidney 想象成了一个粉色的「女版 Claude」。这种极具拟人化和创意的表现，让不少圈内人直呼「太可爱了」。",
-      "reads": "5.1万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "有研究员在测试视频中发现，Claude Opus 5.5 将 Sidney 想象成了一个粉色的 Claude。",
-        "这一有趣的拟人化表现引发了圈内关注，被认为展现了模型独特的个性与创意能力。",
-        "另一位研究员对此表示赞同，直呼这种设定「感觉真可爱」。",
-        "讨论中提到，这就像是 Claude 把 Sidney 当成了一个「女版 Claude」。"
-      ],
-      "quote": {
-        "who": "j⧉nus",
-        "role": "",
-        "said": "这真的很可爱，因为感觉就像 Claude 把 Sydney 当成了一个女版 Claude 😊"
+        "said": "兄弟真是个划时代的发帖大神"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 5.1万 · 模型与能力] 挺搞笑！Opus 5.5 竟把 Sidney 当成女版自己，视觉设计被评全网最强"
+      "line": "[榜第14位 · 20万 · 产品与生态] 马斯克奥特曼莫迪手拉手！Alexandr Wang晒AI神图，Meta新王牌Muse又整活了"
     },
     {
-      "title": "别再写「仔细思考」了！Anthropic甩出Opus 5.5官方指南，默认开启深度思考",
-      "summary": "Anthropic 官方毫无征兆地甩出了新模型 Opus 5.5 的首发使用指南，暗示这款新模型已经开启灰度测试或正式上线。官方给出了三大核心建议：直接把完整任务交给它并定好验收标准，删掉提示词里的「仔细思考」，以及在长时间运行后主动询问它还需要什么。因为 Opus 5.5 已经默认具备了深度思考能力，过去的提示词技巧反而成了累赘。",
-      "reads": "97万",
-      "ago": "14 小时前",
-      "category": "模型与能力",
+      "title": "连夜改文档！Astra少限制版曝光，Astra Minor悄悄杀入GPT-6主线",
+      "summary": "OpenAI 悄悄更新了 Daybreak 帮助文档，将「Astra Minor」正式列为 GPT-6 的主线模型，与 Astra、Sol 和 Luna 并列。这款新模型主要面向 Daybreak Red 客户，最大卖点是「减少拒绝行为」，给开发者更大的自由度。不过，放弃高大上的行星命名回归 Minor 后缀，属实把社区网友们看乐了。",
+      "reads": "2.1万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Anthropic 官方开发者账号发布了针对新模型 Opus 5.5 的首次使用建议。",
-        "官方建议用户直接将完整的任务一次性交给模型，而不是分步指导。",
-        "使用前需要明确定义什么是「完成」状态，并设定好检查进度的时间点。",
-        "明确要求开发者从提示词中移除「仔细思考」这类指令。"
+        "有爆料者发现，OpenAI 在最新更新的 Daybreak 文档中，明确将 Astra Minor 列为受支持的主线模型。",
+        "Astra Minor 与现役旗舰 GPT-6 Astra、GPT-6 Sol 以及 GPT-6 Luna 并列，成为 GPT-6 家族新成员。",
+        "官方文档显示，Astra Minor 主要面向 Daybreak Red 客户，提供「减少拒绝行为」（Reduced refusals）的专属特性。",
+        "这一更新揭示了 OpenAI 在旗舰 Astra 之下，通过不同版本满足特定场景需求的细分策略。"
       ],
       "quote": {
-        "who": "ClaudeDevs",
+        "who": "Chetaslua",
         "role": "",
-        "said": "在你第一次使用 Opus 5.5 时试试这些： → 把整个任务交给它。定义什么是“完成”以及何时来检查。 → 别再写“仔细思考”了。它总是会先思考。 → 在长时间运行后，检查它还需要什么才能继续。 我们的操作指南："
+        "said": "@AiBattle_ 用这些行星名字多好啊，别再搞什么 mini、minor、extra 了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 97万 · 模型与能力] 别再写「仔细思考」了！Anthropic甩出Opus 5.5官方指南，默认开启深度思考"
+      "line": "[榜第15位 · 2.1万 · 产品与生态] 连夜改文档！Astra少限制版曝光，Astra Minor悄悄杀入GPT-6主线"
     },
     {
-      "title": "开发者靠Opus 5.5年入22万美元！Minecraft之父滑跪认错：AI编程真香",
-      "summary": "Vibe Coding 真的能赚到钱了！有开发者记录了自己纯靠 Claude Opus 5.5 写 App 的第 231 天，目前年度经常性收入（ARR）已经飙升至 229,140 美元。这波实打实的收益不仅证明了商业化可行性，甚至连曾经最坚定的 AI 编程反对者、Minecraft 之父 Notch 都发文滑跪，承认自己「正在享受 Vibe Coding 的乐趣」。",
-      "reads": "6.3万",
-      "ago": "5 小时前",
+      "title": "羊毛出在工具调用上！Cursor自曝推理开销大头，4招硬核降本7%",
+      "summary": "Cursor 官方公布了 AI 智能体测试框架的最新优化成果，在保证智能体质量完全不降的前提下，成功将 Token 成本砍掉了 7%。这次降本主要归功于四项硬核操作：更精简的提示词、选择性加载工具、更好的缓存机制以及压缩文件读取。官方还大方晒出了推理开销的「吃性能大户」：工具调用参数和读取工具输出分别占了 21% 和 20%，直接为开发者指明了省钱方向。",
+      "reads": "1.1万",
+      "ago": "31 分钟前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "一位开发者挑战「靠 Vibe Coding 写 App 直到赚够 100 万美元」，目前第 231 天的年度经常性收入（ARR）已达 229,140 美元。",
-        "该开发者在实战中使用了 Claude Opus 5.5 模型进行 Vibe Coding，并发布了第 31 期「全程无话」的沉浸式开发视频。",
-        "面对实打实的收益验证，曾经坚决抵制 AI 编程的 Minecraft 创始人 Notch 态度发生 180 度大反转。",
-        "Notch 在 X 上公开发文，承认自己正在享受 Vibe Coding 的乐趣，并表示之前对 AI 的反对「可能有那么一点点、微乎其微地错了」。"
+        "Cursor 官方宣布对 AI 智能体测试框架（agent harness）进行了底层优化。",
+        "优化结果显著：在 AI 智能体质量完全没有下降的前提下，Token 成本成功降低了 7%。",
+        "降本的第一招是采用「更精简的提示词」，直接从源头减少不必要的 Token 消耗。",
+        "第二招是「选择性加载工具」，避免了一股脑加载无用工具带来的额外开销。"
       ],
       "quote": {
-        "who": "Max For AI",
+        "who": "Cursor",
         "role": "",
-        "said": "Minecraft 之父 Notch，终于开始承认 Vibe Coding 真香了😂 刚刚他在 X 上发了一条： 我得承认，我正在享受 Vibe Coding 的乐趣。 我可能有那么一点点、微乎其微地错了。 要知道几个月前他还是 AI 编程最坚定的反对者之一。 今年年初，Notch 还公开说，用 AI 写代码是个非常糟糕的主意，甚至把鼓吹"
+        "said": "我们在 Cursor 中把 Token 成本降低了 7%，而且 AI 智能体的质量完全没下降。 省下来的成本归功于更精简的提示词、选择性加载工具、更好的缓存以及压缩文件读取。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 6.3万 · 产品与生态] 开发者靠Opus 5.5年入22万美元！Minecraft之父滑跪认错：AI编程真香"
+      "line": "[榜第16位 · 1.1万 · 产品与生态] 羊毛出在工具调用上！Cursor自曝推理开销大头，4招硬核降本7%"
     }
   ],
   "board_count": 16,
