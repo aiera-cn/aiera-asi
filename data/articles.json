@@ -1,9 +1,75 @@
 {
   "ok": true,
   "source": "新智元 ASI 启示录(深度稿)",
-  "fetched_at": "2026-09-24 07:37:29 +0800",
+  "fetched_at": "2026-09-24 12:37:59 +0800",
   "today": "09/24",
   "articles": [
+    {
+      "id": 115285,
+      "date": "2026/09/24",
+      "time": "11:34",
+      "year": "2026",
+      "title": "Qoder发布“项目”和“讨论”功能，支持多人与Agent协作",
+      "summary": "9月23日消息，在2026杭州云栖大会上，阿里智能体平台Qoder推出“项目”（Projects）和“讨论”（Discussion）两项协作功能。团队可以在同一项目中组织研发工…",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=115285&from=yuanyuan",
+      "line": "[2026/09/24 11:34] Qoder发布“项目”和“讨论”功能，支持多人与Agent协作 · https://www.aiera.com.cn/asi-post.html?id=115285&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 115274,
+      "date": "2026/09/24",
+      "time": "08:21",
+      "year": "2026",
+      "title": "19个AI血战《星际争霸》！GPT-6全胜，照样打不过人类新手",
+      "summary": "想太多，就连最聪明的AI也会被拖死。 43分钟、11138个推理token、6批指令——0个作战单位。",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=115274&from=yuanyuan",
+      "line": "[2026/09/24 08:21] 19个AI血战《星际争霸》！GPT-6全胜，照样打不过人类新手 · https://www.aiera.com.cn/asi-post.html?id=115274&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 115258,
+      "date": "2026/09/24",
+      "time": "08:17",
+      "year": "2026",
+      "title": "Meta刚登顶，千问就交卷！3亿人的个人AI助理要来了",
+      "summary": "AI圈最近的大新闻，终于不在大模型的跑分榜上了。 Meta的个人AI助手Muse，9月8日刚上线，不到十天就干到了美国App Store免费榜第一，把ChatGPT都挤到了后头…",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=115258&from=yuanyuan",
+      "line": "[2026/09/24 08:17] Meta刚登顶，千问就交卷！3亿人的个人AI助理要来了 · https://www.aiera.com.cn/asi-post.html?id=115258&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 115245,
+      "date": "2026/09/24",
+      "time": "08:15",
+      "year": "2026",
+      "title": "罗福莉带小米登顶全球开源榜首！大规模RL立功，斩杀Grok 4.7",
+      "summary": "大模型江湖变天了。 9月21日，小米MiMo团队正式发布并全面开源新一代MiMo V2.6系列，一口气端出三款模型——Pro、Flash、Ultraspeed，直接改写全球开源…",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=115245&from=yuanyuan",
+      "line": "[2026/09/24 08:15] 罗福莉带小米登顶全球开源榜首！大规模RL立功，斩杀Grok 4.7 · https://www.aiera.com.cn/asi-post.html?id=115245&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 115222,
+      "date": "2026/09/24",
+      "time": "08:13",
+      "year": "2026",
+      "title": "Claude Opus 5.5深夜发布，减价40%！大语言模型正式开始吞噬多模态",
+      "summary": "一觉醒来，Claude Opus 5.5发布了。 Opus 5.5智能追上Fable 5.1，但成本还要比上一代Opus 5低40%，输出速度快30%。",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=115222&from=yuanyuan",
+      "line": "[2026/09/24 08:13] Claude Opus 5.5深夜发布，减价40%！大语言模型正式开始吞噬多模态 · https://www.aiera.com.cn/asi-post.html?id=115222&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 115197,
+      "date": "2026/09/24",
+      "time": "08:06",
+      "year": "2026",
+      "title": "「一人剧组」杀疯了！LibTV 1.5，一下午拍完一集爆款AI漫剧",
+      "summary": "最近，AI漫剧可太火了。 根据DataEye报告，上半年全网新上线AI短剧超22万部，市场规模突破220亿元，用户数破6亿！",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=115197&from=yuanyuan",
+      "line": "[2026/09/24 08:06] 「一人剧组」杀疯了！LibTV 1.5，一下午拍完一集爆款AI漫剧 · https://www.aiera.com.cn/asi-post.html?id=115197&from=yuanyuan",
+      "title_hit": false
+    },
     {
       "id": 115170,
       "date": "2026/09/23",
@@ -156,72 +222,6 @@
       "summary": "当Agent已经能够调用工具、使用技能并保存记忆，一个更进一步的问题是：这些能力怎样在任务中配合，又怎样从过去的执行中积累可复用的经验？",
       "url": "https://www.aiera.com.cn/asi-post.html?id=114909&from=yuanyuan",
       "line": "[2026/09/22 08:17] 工具、技能、记忆连成网，北大等提出自进化程序图PG，越用越聪明 · https://www.aiera.com.cn/asi-post.html?id=114909&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 114896,
-      "date": "2026/09/22",
-      "time": "08:14",
-      "year": "2026",
-      "title": "刚刚，Jev全网解禁！1.2亿Token限时免费用",
-      "summary": "Jev，终于向全网解除封印了！ 就在今天，TypeSafe AI正式宣布，废除候补名单，所有人直接上车。",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=114896&from=yuanyuan",
-      "line": "[2026/09/22 08:14] 刚刚，Jev全网解禁！1.2亿Token限时免费用 · https://www.aiera.com.cn/asi-post.html?id=114896&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 114870,
-      "date": "2026/09/22",
-      "time": "08:13",
-      "year": "2026",
-      "title": "奥特曼落榜！OpenAI总裁255亿杀进全美富豪前50",
-      "summary": "OpenAI最有钱的人，不是奥特曼。 本周，Forbes公布2026年Forbes 400美国富豪榜。OpenAI联创兼总裁Greg Brockman首次上榜，身家约255亿美…",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=114870&from=yuanyuan",
-      "line": "[2026/09/22 08:13] 奥特曼落榜！OpenAI总裁255亿杀进全美富豪前50 · https://www.aiera.com.cn/asi-post.html?id=114870&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 114856,
-      "date": "2026/09/22",
-      "time": "08:08",
-      "year": "2026",
-      "title": "OpenAI研究员惊人言论：物理隔离无法阻止失控AI！",
-      "summary": "物理隔离，有可能阻止失控AI吗？ OpenAI核心研究员Noam Brown给出的答案是——不能！",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=114856&from=yuanyuan",
-      "line": "[2026/09/22 08:08] OpenAI研究员惊人言论：物理隔离无法阻止失控AI！ · https://www.aiera.com.cn/asi-post.html?id=114856&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 114822,
-      "date": "2026/09/22",
-      "time": "08:03",
-      "year": "2026",
-      "title": "GPT-6真敢杀人啊！推下天台，挥刀扎人不眨眼",
-      "summary": "GPT-6这次，是真敢对人「动刀子」啊……. 全球最强模型GPT-6爆出：给它装上机械臂，再让它拿刀刺向假人，成功率85%。",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=114822&from=yuanyuan",
-      "line": "[2026/09/22 08:03] GPT-6真敢杀人啊！推下天台，挥刀扎人不眨眼 · https://www.aiera.com.cn/asi-post.html?id=114822&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 114795,
-      "date": "2026/09/21",
-      "time": "15:04",
-      "year": "2026",
-      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
-      "summary": "近日， OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark（简称DAB），以90.62%的准确率位列第一，成为该…",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=114795&from=yuanyuan",
-      "line": "[2026/09/21 15:04] 国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单 · https://www.aiera.com.cn/asi-post.html?id=114795&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 114793,
-      "date": "2026/09/21",
-      "time": "09:15",
-      "year": "2026",
-      "title": "上地人工智能科普展 · 14 块展板",
-      "summary": "上地人工智能科普展 · 14 块展板 北京·海淀·上地街道的人工智能科普展，共 14 块展板，单块尺寸 2000×3000mm。从一颗芯片，到一片农田，十四块展板把人工智能从头…",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=114793&from=yuanyuan",
-      "line": "[2026/09/21 09:15] 上地人工智能科普展 · 14 块展板 · https://www.aiera.com.cn/asi-post.html?id=114793&from=yuanyuan",
       "title_hit": false
     }
   ],

@@ -3,65 +3,140 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-24 07:37:29 +0800",
+  "fetched_at": "2026-09-24 12:37:59 +0800",
   "today": "09/24",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "2.1亿Token狂扫DNA！950个Claude自主挖出全新基因编辑机制",
-      "summary": "Anthropic 新成立的分子生物学实验室拿下了首个重磅成果！约 950 个 Claude 智能体耗时 21 小时、消耗 2.1 亿 Token，在噬菌体 DNA 中自主发现了一个类似 CRISPR 的全新酶系统。CEO Dario Amodei 直接在联合国安理会上宣布了这一消息，并放话 AI 有望在 5-10 年内治愈大多数疾病。不过这项发现目前仍面临复现难题，当目标 D…",
-      "reads": "1636万",
-      "ago": "45 分钟前",
+      "title": "950个Claude狂扫2.1亿Token！自主挖出新基因编辑机制，Dario：5年治愈绝症",
+      "summary": "Anthropic的新分子生物学实验室刚开张就扔了个王炸！950个Claude智能体耗时21小时、狂扫2.1亿Token，在噬菌体DNA中自主挖出了一个类似CRISPR的全新酶系统。CEO Dario Amodei罕见发声，称这可能是一种新的基因编辑机制，并重申AI有望在5到10年内治愈大多数疾病。",
+      "reads": "2311万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Anthropic 湿实验室首战告捷，约 950 个 Claude 智能体消耗 2.1 亿 Token，耗时 21 小时搜索了超 20 万个逆转录酶，自主发…",
-        "该系统在噬菌体 DNA 中被发现，其基因旁边排列着约 2900 个碱基对的重复 DNA 序列，结构类似 CRISPR，或将成为全新的基因编辑工具。",
-        "CEO Dario Amodei 在联合国安理会上官宣了这一发现，并表示尽管具体功能尚不明确，但坚信只要 AI 贯穿研发全流程，就有望在 5-10 年内治愈…",
-        "实验过程也暴露出多智能体的脆弱性：当原始 DNA 直接呈现时模型能发现规律，但当数据隐藏在文件背后时，识别率从 90% 骤降至 32%，连续 10 次重跑均…"
+        "Anthropic宣布其新分子生物学实验室取得首个成果，Claude在噬菌体DNA中发现了一个前所未知的酶系统。",
+        "该酶基因旁存在约2900个碱基对的重复DNA序列，结构上与著名的基因编辑工具CRISPR十分相似。",
+        "约950个Claude智能体在21小时内（挂钟时间21.5小时，77个智能体小时）消耗了2.1亿Token，自主完成了从文献综述到假设生成的全过程。",
+        "Anthropic CEO Dario Amodei在联合国安理会上提及此项初步发现，怀疑其可能代表一种全新的基因编辑机制。"
       ],
       "quote": {
-        "who": "Wes Roth",
+        "who": "Peter Gostev",
         "role": "",
-        "said": "刚深入挖了一下这个 不管是对 AI 还是对生物学来说，这事儿都比表面看起来要诡异得多..."
+        "said": "“大语言模型绝对不可能在 [填入刚刚被颠覆的领域] 做任何事，它们不会 [推理、发挥创意]，它们只是 [随机鹦鹉、预测下一个词]” 洗脑循环"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 1636万 · 模型与能力] 2.1亿Token狂扫DNA！950个Claude自主挖出全新基因编辑机制"
+      "line": "[榜第1位 · 2311万 · 模型与能力] 950个Claude狂扫2.1亿Token！自主挖出新基因编辑机制，Dario：5年治愈绝症"
     },
     {
-      "title": "用AI优化AI！Anthropic两周让Claude提速3倍，顺手修了Node.js底层",
-      "summary": "Anthropic 官方宣布，团队在短短两周内将 claude.ai 的速度提升了 3 倍。他们不仅公开了用 Claude 自身进行性能测量和调试的具体提示词与方法，还顺手向 Node.js、libuv 和 Electron 等上游项目提交了十几个修复补丁。这次「用 AI 优化 AI」的实战案例，直接为开发者提供了一套可复刻的性能提升指南。",
-      "reads": "83万",
-      "ago": "41 分钟前",
+      "title": "仅重100克，比iPhone还便宜！Meta最强VR眼镜杀疯了，戴上直接剪电影",
+      "summary": "Meta 在 Connect 大会上杀疯了，正式祭出仅重 100 克的 Meta VR Glasses。这款十年心血之作售价 1299 美元，比顶配 iPhone 还便宜，采用分离式架构，不仅拥有史上最强显示系统，还能直接当电脑剪电影。此外，Meta 还同步推出了第三代 Ray-Ban 智能眼镜，全面接入 Muse AI 生态，彻底把 VR 门槛打了下来。",
+      "reads": "256万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Anthropic 官方宣布，在两周内成功将 claude.ai 网页端提速 3 倍。",
-        "团队公开了内部实战经验，详细分享如何利用 Claude 自身来测量、调试和优化性能。",
-        "官方博客中直接附带了具体的提示词和方法，鼓励开发者在自家应用中复刻这一流程。",
-        "桌面端应用也获得了显著的性能提升，主要归功于对底层依赖的深度优化。"
+        "极致轻量化：Meta VR Glasses 重量仅约 100 克，相当于一副扑克牌，不到 Meta Quest 3 重量的五分之一，远轻于苹果 Vision…",
+        "售价与定位：定价 1299 美元，爆料者称其甚至比一台 512GB 的 iPhone 18 Pro Max 还要便宜。",
+        "硬件架构：采用分离式架构（split architecture），官方称其搭载了 Meta 耗时十年打造的「史上最佳显示系统」，色彩更丰富、黑色更深邃。",
+        "生产力体验：现场演示反馈极佳，体验者直呼「就像一台电脑」，甚至完全可以直接用它来剪辑整部电影。"
       ],
       "quote": {
-        "who": "Boris Cherny",
+        "who": "Chris",
         "role": "",
-        "said": "@techtactician 你用的可能是非常非常老的 CLI 版本。运行 claude update"
+        "said": "非常感谢大家对这个视频的喜爱！建议关注我，获取更多像这样经过快速筛选的视频，这样你就能精准看到你想看的内容 (:"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 83万 · 产品与生态] 用AI优化AI！Anthropic两周让Claude提速3倍，顺手修了Node.js底层"
+      "line": "[榜第2位 · 256万 · 产品与生态] 仅重100克，比iPhone还便宜！Meta最强VR眼镜杀疯了，戴上直接剪电影"
+    },
+    {
+      "title": "刚刚，Claude Code云端版正式上线！合上电脑继续跑，最高白送250刀",
+      "summary": "Anthropic 刚刚宣布，Claude Code 的云端版（Cloud sessions）正式结束预览并上线。现在就算你合上电脑，AI 也能在云端基础设施上继续跑任务。官方还给现有订阅用户发了福利：Pro 用户送 100 美元，Max 用户送 250 美元一次性额度，10 月 7 日前连接 GitHub 即可领取。",
+      "reads": "163万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Cloud sessions 正式脱离研究预览版上线，允许用户在合上电脑后，通过 Anthropic 托管基础设施继续运行任务。",
+        "现有订阅用户可获赠一次性体验额度，Pro 用户赠送 100 美元，Max 用户赠送 250 美元。",
+        "领取额度需连接 GitHub，用户可通过专属链接或在 CLI 中运行「/claim-credit」领取，截止日期为 10 月 7 日。",
+        "赠送的额度独立于常规使用限制，启动云端会话时会自动优先消耗，用完后再退回正常的计划用量。"
+      ],
+      "quote": {
+        "who": "ClaudeDevs",
+        "role": "",
+        "said": "抱歉造成了困扰！云端会话和 Claude Code 的其他部分一样，在你的 Pro 或 Max 计划上运行。这个促销是一个可选的一次性额度，你的云端会话会优先消耗它，用完后再退回到你正常的计划用量。 希望你喜欢这些额度！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 163万 · 产品与生态] 刚刚，Claude Code云端版正式上线！合上电脑继续跑，最高白送250刀"
+    },
+    {
+      "title": "深夜炸场！小扎掏出 Muse 智能体硬件版，AI 原生 VR 眼镜把多屏工作站戴在脸上",
+      "summary": "小扎在 Meta Connect 大会上彻底杀疯了，一口气砸出多款重磅 AI 硬件。不仅有搭载 AI 原生操作系统、集成 Muse 助手的首款 Meta VR 眼镜，还推出了 12 月发货的便携 AI 徽章 Muse Charm。此外，第三代雷朋 Meta 智能眼镜全面升级，不仅新增无摄像头纯音频版和 Lisa 联名款，还直接拿下了 FDA 医疗级助听器认证，价格仅为传统设备的…",
+      "reads": "231万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Meta VR Glasses 发布：首款搭载 AI 原生操作系统的 VR 眼镜，集成 Muse 助手，支持眼动、手势与语音组合控制，内置私人影院与多屏工作…",
+        "推出 Muse 硬件版：全新 AI 徽章设备 Muse Charm 亮相，可挂在钥匙扣上随时呼叫智能体，预计今年 12 月正式发货。",
+        "Muse 智能体大进化：全面支持语音与实时视频交互，可在后台静默运行处理任务，并已深度接入全系智能眼镜实现免提对话。",
+        "获 FDA 批准的助听器：Meta Glasses 升级医疗级听力增强功能，专治轻中度听力损失，成本仅为传统助听器的一小部分。"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "最后奉上 Meta VR 眼镜的官方预告片 绝对的爆款产品 👀"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 231万 · 产品与生态] 深夜炸场！小扎掏出 Muse 智能体硬件版，AI 原生 VR 眼镜把多屏工作站戴在脸上"
+    },
+    {
+      "title": "刚刚，Claude Code计划模式要被砍！官方自曝底牌：只是加了句提示词",
+      "summary": "Anthropic 研究员透露，Claude Code 正在考虑彻底砍掉「计划模式」（plan mode），未来可能改用 shift+tab 快捷键来直接调整思考强度。官方更是直接交底，计划模式的核心机制其实只是一句「禁止模型进行编辑」的提示词。目前团队认为模型已不再需要该模式，并建议用户多使用完全免费的 Auto 模式或 Artifacts 来替代。",
+      "reads": "94万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 研究员透露，正考虑在 Claude Code 中移除计划模式（plan mode），改用 shift+tab 快捷键来调整模型的思考强度…",
+        "官方揭秘了计划模式的底层逻辑：它并非复杂的独立架构，仅仅是通过提示词（prompt）限制模型，让其不要进行编辑操作。",
+        "研究员坦言，当前模型已经不再需要独立的计划模式，且内部评估彻底砍掉该模式的概率非常高。",
+        "针对日常使用，官方明确建议用户使用 Auto 模式，称其「绝对更好而且不花钱」。"
+      ],
+      "quote": {
+        "who": "Thariq",
+        "role": "",
+        "said": "@swyxio 告诉你个秘密——plan 模式只是用提示词让模型不要做修改"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 94万 · 产品与生态] 刚刚，Claude Code计划模式要被砍！官方自曝底牌：只是加了句提示词"
     },
     {
       "title": "马斯克亲自盖章SpaceXAI！xAI两名世界级大将转岗，AI正式上天",
       "summary": "马斯克正式将AI与航天业务合体了！他亲自在社交平台上确认了新实体「SpaceXAI」的存在。与此同时，xAI团队的核心成员Troy Luhman和Eric Luhman已火速转岗至该团队，圈内研究员直呼这两人是「世界级」人才，绝对是个大动作。",
-      "reads": "314万",
-      "ago": "4 小时前",
+      "reads": "455万",
+      "ago": "9 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -79,64 +154,114 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 314万 · 组织与人事] 马斯克亲自盖章SpaceXAI！xAI两名世界级大将转岗，AI正式上天"
+      "rank": 6,
+      "line": "[榜第6位 · 455万 · 组织与人事] 马斯克亲自盖章SpaceXAI！xAI两名世界级大将转岗，AI正式上天"
     },
     {
-      "title": "觉都不睡了！Claude Code云会话全面开放，合上电脑AI接着干，最高送250美元",
-      "summary": "你的电脑可以安心合上了，AI 已经在云端接管了工作！Anthropic 刚刚宣布，Claude Code 的云会话（Cloud sessions）功能正式结束研究预览，向所有订阅用户开放。现在只要连上 GitHub，代码就能在官方托管的基础设施上 7x24 小时跑。为了降低门槛，官方还狂撒体验金：Pro 用户送 100 美元，Max 用户送 250 美元，10 月 7 日前均可…",
-      "reads": "38万",
-      "ago": "1 小时前",
+      "title": "用AI优化AI！Anthropic两周让Claude提速3倍，顺手修了Node.js底层",
+      "summary": "Anthropic 官方宣布，团队在短短两周内将 claude.ai 的速度提升了 3 倍。他们不仅公开了用 Claude 自身进行性能测量和调试的具体提示词与方法，还顺手向 Node.js、libuv 和 Electron 等上游项目提交了十几个修复补丁。这次「用 AI 优化 AI」的实战案例，直接为开发者提供了一套可复刻的性能提升指南。",
+      "reads": "118万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Claude Code 云会话（Cloud sessions）正式结束研究预览版，向所有订阅用户全面开放。",
-        "核心能力突破：任务直接在 Anthropic 托管的基础设施上运行，即使合上笔记本电脑或关机，AI 也能继续敲代码。",
-        "官方发放一次性专属体验额度：Pro 订阅用户可获 100 美元，Max 订阅用户可获 250 美元。",
-        "领取门槛与期限：用户需连接 GitHub，通过 CLI（输入 /claim-credit）、移动端或桌面端启动，领取截止日期为 10 月 7 日。"
+        "Anthropic 官方宣布，在两周内成功将 claude.ai 网页端提速 3 倍。",
+        "团队公开了内部实战经验，详细分享如何利用 Claude 自身来测量、调试和优化性能。",
+        "官方博客中直接附带了具体的提示词和方法，鼓励开发者在自家应用中复刻这一流程。",
+        "桌面端应用也获得了显著的性能提升，主要归功于对底层依赖的深度优化。"
       ],
       "quote": {
-        "who": "Thariq",
+        "who": "Boris Cherny",
         "role": "",
-        "said": "@albrorithm @ClaudeDevs 不，这确实挺让人困惑的，是我们的锅"
+        "said": "@techtactician 你用的可能是非常非常老的 CLI 版本。运行 claude update"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 38万 · 产品与生态] 觉都不睡了！Claude Code云会话全面开放，合上电脑AI接着干，最高送250美元"
+      "rank": 7,
+      "line": "[榜第7位 · 118万 · 产品与生态] 用AI优化AI！Anthropic两周让Claude提速3倍，顺手修了Node.js底层"
     },
     {
-      "title": "糟糕，Claude Code要砍掉plan模式！官方：模型太强，真的不需要了",
-      "summary": "Claude Code 的 plan 模式可能要成为历史了！官方开发者透露，由于当前模型能力大幅增强，他们正考虑砍掉独立的 plan 模式，改用 shift+tab 快捷键来调整思考强度。虽然目前还在向死忠粉征集保留理由，但开发者坦言，彻底移除的概率非常高，未来可能会将其降级为 /plan 指令或与 artifacts 深度结合。",
-      "reads": "63万",
+      "title": "AI界TeamViewer诞生！NousResearch上线实时屏幕，看着Agent操作还能随时接管",
+      "summary": "NousResearch 刚刚在 Hermes Desktop 中推出了重磅功能 Bot Screen，直接给 AI 智能体装上了「远程桌面」。现在，你可以通过 SSH 实时观看 Agent 在远程 Linux 或 macOS 机器上操作浏览器、敲击终端，甚至随时接管控制权。这一更新彻底打破了 Agent 运行的黑盒，解决了远程自动化任务中的调试痛点，Hermes Cloud…",
+      "reads": "26万",
       "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Claude Code 开发者透露，官方正考虑砍掉 plan mode（计划模式），改用 shift+tab 快捷键来调整模型的思考强度。",
-        "移除的核心原因在于，官方认为当前模型自主规划能力已大幅增强，不再需要依赖独立的计划模式。",
-        "开发者目前正在向 plan 模式的「死忠粉」征集反馈，询问是否还有必须保留该功能的理由。",
-        "面对用户的挽留，开发者坦言，彻底移除 plan 模式的概率非常高。"
+        "NousResearch 宣布在 Hermes Desktop 推出 Bot Screen 功能，支持实时串流 AI 智能体的屏幕或会话。",
+        "用户可以直观地看着 Agent 操控浏览器、在终端打字或打开窗口，执行自动化任务。",
+        "支持随时接管：用户可随时中断 AI 的操作，与屏幕交互或输入凭证，实现人机无缝交接。",
+        "兼容性强：目前支持通过 SSH 连接的任何远程 Linux 机器（如 Debian/Ubuntu），同时兼容 macOS。"
       ],
       "quote": {
-        "who": "Thariq",
+        "who": "Teknium 🪽",
         "role": "",
-        "said": "@jxnlco 遗憾的是，我的 P(kill plan mode) 比那个还要高"
+        "said": "@thisishars 我在浏览器的标签页里留着这个帖子，这样我就能找到它，并且一有消息就"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 63万 · 产品与生态] 糟糕，Claude Code要砍掉plan模式！官方：模型太强，真的不需要了"
+      "rank": 8,
+      "line": "[榜第8位 · 26万 · 产品与生态] AI界TeamViewer诞生！NousResearch上线实时屏幕，看着Agent操作还能随时接管"
+    },
+    {
+      "title": "突袭OpenAI！小扎发布Meta Muse硬件版，指纹一按随时召唤AI",
+      "summary": "Meta在发布会上演「One more thing」，小扎直接掏出名为Muse Charm的实体AI设备，抢在OpenAI之前杀入硬件赛道。这款能挂在钥匙扣上的小玩意集成了指纹传感器和实时语音栈，不用掏手机就能全天候召唤Meta Muse。新设备计划在今年假期前正式上市，AI硬件入口之战彻底打响。",
+      "reads": "25万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Meta在发布会上压轴展示了名为Muse Charm的AI智能体硬件，直接抢跑了OpenAI的AI硬件发布计划。",
+        "设备体积极其小巧，可直接挂在钥匙扣上，内部完整封装了Meta Muse的实时语音和虚拟形象（avatar）技术栈。",
+        "交互方式实现「全天候在线」，机身角落配有指纹传感器，用户无需解锁手机或打开App，轻触即可直接对话。",
+        "扎克伯格身穿印有「BUILDING IS MY LOVE LANGUAGE」的黑色T恤亮相，称这是目前与Muse交流的最快方式。"
+      ],
+      "quote": {
+        "who": "Chris",
+        "role": "",
+        "said": "@PhiloGroves"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 25万 · 产品与生态] 突袭OpenAI！小扎发布Meta Muse硬件版，指纹一按随时召唤AI"
+    },
+    {
+      "title": "刚刚，小扎每周狂送1亿Token！Meta放弃订阅费，靠AI管家抽成赚钱",
+      "summary": "Meta在Connect大会上彻底掀桌子了！小扎宣布Muse AI智能体每周白送约1亿Token并配专属虚拟机，放弃订阅费，改从AI促成的交易中抽成。现场不仅演示了集成Muse Voice、支持定制牛仔腔的智能眼镜，Alexandr Wang还放话即将发布Meta史上最强模型。此外，OpenCode已疑似提前挂出muse-spark-1.4-contributor目录，用便宜模…",
+      "reads": "7.7万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "商业模式大变阵：扎克伯格在Connect大会宣布，Muse AI智能体将提供海量免费额度，每周白送约1亿Token并配备专属虚拟机。",
+        "放弃订阅费：Meta的全新商业逻辑是让AI管家替用户做生意、砍价、成交，官方再从交易中抽取小额费用，将Agent变成「免费员工+抽成机器」。",
+        "硬件生态上新：Meta正式发布Muse Charm硬件，并将Muse Voice全面塞进智能眼镜，实现「一直听、立刻回」的无缝体验。",
+        "极致低延迟对话：小扎现场演示与穿托加袍的Agrippa实时对聊，延迟极低，并支持改名字、改口音、改语速甚至定制牛仔腔。"
+      ],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "🚨突发！OpenCode 疑似挂出 Muse Spark 1.4 Contributor！ 先别喊 Watermelon 来了： 🔹出现的是 muse-spark-1.4-contributor，不是正式旗舰档 🔹套路和 1.2 / 1.3 一样：先放便宜 Contributor，换数据训练权 🔹统计页几乎没用量，更像预挂目录，不是全面开放 🔹官方最新仍是 Spark"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 7.7万 · 产品与生态] 刚刚，小扎每周狂送1亿Token！Meta放弃订阅费，靠AI管家抽成赚钱"
     },
     {
       "title": "突发！Claude版GPT Store上线，一键接入Cursor和Notion，AI生态变天",
       "summary": "Anthropic 刚刚正式推出了 Claude Marketplace，标志着 Claude 从单一模型向综合应用生态转型。现在用户可以直接在平台上添加 Slack、Notion 等插件，还能购买 Cursor 和 CrowdStrike 的智能体产品。官方同时向开发者开放了入驻通道，拉拢埃森哲、德勤等巨头提供企业级服务，全面构建 AI 工作流闭环。",
-      "reads": "34万",
-      "ago": "4 小时前",
+      "reads": "48万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -154,14 +279,114 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 34万 · 产品与生态] 突发！Claude版GPT Store上线，一键接入Cursor和Notion，AI生态变天"
+      "rank": 11,
+      "line": "[榜第11位 · 48万 · 产品与生态] 突发！Claude版GPT Store上线，一键接入Cursor和Notion，AI生态变天"
+    },
+    {
+      "title": "买爆预警！小扎祭出Muse硬件版，钥匙扣大小12月发货，全网催更：赶紧拿走我的钱",
+      "summary": "Meta 杀入 AI 硬件赛道！Muse 负责人 Alexandr Wang 深夜宣布推出全新硬件设备 Muse Charm。这款定位为「最简单的 Muse 使用方式」的智能终端只有钥匙扣大小，屏幕上还养着可爱的毛绒卡通形象。新设备将于 12 月正式发货，赶在假日季前上市，网友看后直呼「赶紧收下我的钱」。",
+      "reads": "6.7万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Meta 旗下 Muse AI 智能体负责人 Alexandr Wang 宣布推出全新硬件设备 Muse Charm。",
+        "该设备定位为「最简单的 Muse 使用方式」，形态为可挂在钥匙扣上的黑色圆角方形智能终端。",
+        "Muse Charm 屏幕上显示着一个可爱的白色毛绒卡通形象，主打陪伴与便捷交互。",
+        "新设备计划于今年 12 月正式发货，旨在赶在假日季前全面上市。"
+      ],
+      "quote": {
+        "who": "Wall St Engine",
+        "role": "",
+        "said": "@alexandr_wang 赶紧收下我的钱，我太需要这个了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 6.7万 · 产品与生态] 买爆预警！小扎祭出Muse硬件版，钥匙扣大小12月发货，全网催更：赶紧拿走我的钱"
+    },
+    {
+      "title": "算力买手必看！SemiAnalysis祭出ClusterMAX 3.0，全球GPU云大考来了",
+      "summary": "知名分析机构 SemiAnalysis 正式发布了行业标准的 GPU 云评分系统 ClusterMAX 3.0。这次更新细节拉满，直接从可靠性、性能、技术支持、定价和安全性五大核心维度，对全球 GPU 云提供商进行了最彻底的横评。对于苦于高昂算力成本的 AI 企业来说，选型终于有了客观依据。",
+      "reads": "4.5万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "SemiAnalysis 正式发布 ClusterMAX 3.0 评分系统。",
+        "该系统被官方定位为 GPU 云服务行业的标准评测工具。",
+        "评测直接涵盖可靠性、性能、技术支持、定价及安全性 5 大核心维度。",
+        "官方明确表示，这是对全球 GPU 云提供商「最彻底的分析」。"
+      ],
+      "quote": {
+        "who": "SemiAnalysis",
+        "role": "",
+        "said": "ClusterMAX 3.0：行业标准的 GPU 云评级系统回归"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 4.5万 · 资本与算力] 算力买手必看！SemiAnalysis祭出ClusterMAX 3.0，全球GPU云大考来了"
+    },
+    {
+      "title": "车库手搓项目被Meta抄了！Muse物理版惹怒开发者：我几个月前就做出来了",
+      "summary": "Meta在AI应用层与硬件生态上激进扩张，正式推出AI智能体Muse及配套物理版硬件Muse Charm，下载量迅速突破30万，并宣布海量Token免费送。然而新硬件刚发就惹上抄袭争议，有开发者怒斥Meta照搬其车库手搓的GrokPod。此外，Meta还被曝出将部分电话转接给人类客服，引发外界对其真实能力的质疑。",
+      "reads": "3.2万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Meta正式推出AI智能体Muse及配套硬件Muse Charm，下载量已突破30万。",
+        "为抢占用户入口，Meta宣布海量Token免费送，试图通过免费策略和硬件绑定用户。",
+        "有开发者怒斥Meta抄袭，称Muse Charm照搬了其几个月前研发的GrokPod。",
+        "该开发者表示，自己的设备是在车库用存钱罐和改装零件做的，功能远超Muse Charm。"
+      ],
+      "quote": {
+        "who": "Brian Roemmele",
+        "role": "",
+        "said": "@TUCO187187 我没看到。它是怎么来的？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 3.2万 · 产品与生态] 车库手搓项目被Meta抄了！Muse物理版惹怒开发者：我几个月前就做出来了"
+    },
+    {
+      "title": "a16z砸盘传统教育，直言逼学生学数学太蠢！没有任何学位能保住2040年的饭碗",
+      "summary": "传统高等教育的护城河，可能真要被AI彻底填平了。顶级VC a16z宣布成立HAA学校，直言在AI时代逼学生死磕数学非常愚蠢，没有任何学位能保证你在2040年代依然拥有安全的职业。与此同时，AI的能力边界再次拓宽，研究员实测发现，Claude Opus 5.5 (Extra) 已经能够根据一句话提示，直接生成并返回MP4格式的视频片段。",
+      "reads": "3.8万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "a16z宣布成立HAA学校，核心目标是打破传统高等教育模式，为AI时代培养顶尖创造者。",
+        "a16z官方断言，当今没有任何学校和学位，能够保证人类在2040年代和2050年代依然拥有安全的职业道路。",
+        "针对传统学科灌输，a16z明确表示，在AI已经如此强大的今天，继续逼迫学生把数学学得特别好「似乎很蠢」。",
+        "HAA学校的教学理念将彻底抛弃传统学科教育，全面转向自主项目和企业实践，以解决AI时代人才技能错配的问题。"
+      ],
+      "quote": {
+        "who": "Riley Goodside",
+        "role": "",
+        "said": "“想象有一部关于你的超棒电影。用你喜欢的任何风格，加上虚构的名字，为这部电影制作片头动画。以 mp4 格式返回这个片段。” Claude Opus 5.5 (Extra)"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 3.8万 · 产品与生态] a16z砸盘传统教育，直言逼学生学数学太蠢！没有任何学位能保住2040年的饭碗"
     },
     {
       "title": "a16z下场办大学了！Replit CEO痛批：现在的创业全在过早优化",
       "summary": "顶级风投 a16z 宣布成立 The Horowitz Andreessen Academy (HAA)，旨在为 AI 时代培养顶尖创造者。Replit CEO Amjad Masad 联合参与，并犀利指出如今许多年轻人的创业只是出于嫉妒的「过早优化」。HAA 将打破传统大学模式，鼓励学生在自由漫游的环境中，直接动手构建自己真正兴奋的项目。",
-      "reads": "12万",
-      "ago": "2 小时前",
+      "reads": "19万",
+      "ago": "7 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -179,233 +404,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 12万 · 组织与人事] a16z下场办大学了！Replit CEO痛批：现在的创业全在过早优化"
-    },
-    {
-      "title": "替全人类把心操了？黄仁勋最新发声：我极其严肃对待AI风险，大家只管享受乐观",
-      "summary": "英伟达官方发布了黄仁勋在 The Ezra Klein Show 的最新访谈片段，正面回应了近期关于 AI 发展速度与安全的争议。老黄自称是「负责任的乐观主义者」，坦言自己总对未来感到担忧，因此才极其严肃地对待工作。他强调，科技行业必须主动解决 AI 带来的挑战，把担忧留给自己，让全社会和自己的家人都能安心享受技术带来的乐观面。",
-      "reads": "6.4万",
-      "ago": "1 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "英伟达官方账号发布了 CEO 黄仁勋在 The Ezra Klein Show 上的对谈视频片段，阐述对 AI 安全的官方立场。",
-        "针对 AI 发展引发的焦虑，黄仁勋明确表态：AI 是由人类构建和改进的技术，人类有责任深思熟虑地开发和部署。",
-        "老黄坦言自己「总是对未来感到担忧」，而这正是他如此拼命工作的原因。",
-        "他将自己定义为「负责任的乐观主义者」，表示会极其严肃地对待工作中的潜在风险，推动技术栈每一层的进步。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "在我看来，关于“放缓”发展的问题，Jensen Huang 的立场是最符合逻辑也最站得住脚的。在接受 Ezra Klein 采访时，他把自己的态度描述为“负责任的乐观”。 他认为 AI 能带来巨大的好处；制造商必须解决安全"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 6.4万 · 政策与安全] 替全人类把心操了？黄仁勋最新发声：我极其严肃对待AI风险，大家只管享受乐观"
-    },
-    {
-      "title": "刚刚，Agent版远程桌面来了！看着AI操作电脑随时抢鼠标接管",
-      "summary": "NousResearch 正式推出 Hermes Desktop 的全新功能 Bot Screen，相当于给 Agent 装上了「远程桌面」。现在你可以实时观看 AI 智能体在远程机器上的屏幕操作，看着它操作浏览器或在终端打字。最绝的是，你能随时接管交互或输入密码，然后无缝交还控制权，彻底解决 AI 盲目操作的痛点。",
-      "reads": "6.4万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "NousResearch 推出 Bot Screen 功能，支持通过 Hermes Desktop 实时观看 AI 智能体的屏幕操作。",
-        "核心特性为「实时桌面直通」（live desktop passthrough），支持所有兼容的远程网关。",
-        "用户可实时观看 Agent 操作浏览器、在终端打字或打开窗口等具体动作。",
-        "支持随时接管交互，用户可手动输入凭证或纠正操作，随后无缝交还控制权给 AI。"
-      ],
-      "quote": {
-        "who": "Teknium 🪽",
-        "role": "",
-        "said": "在 @tonbistudio 的最新指南视频中了解全部内容！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 6.4万 · 产品与生态] 刚刚，Agent版远程桌面来了！看着AI操作电脑随时抢鼠标接管"
-    },
-    {
-      "title": "1分钟2美元！Opus 5.5纯写代码捏出宣传片，外包公司1000倍暴利悬了",
-      "summary": "视频生成还能这么玩？有投资人展示了 Claude Opus 5.5 的逆天用法：没用任何视频生成模型，纯靠写 JavaScript 动画并自动录屏，仅花 1 分钟和 2 美元 API 成本，就搞定了一家初创公司的发布视频。这套纯代码工作流不仅将原本需要数周的制作周期压缩到分钟级，更让传统外包机构 1000 倍的成本优势瞬间荡然无存。",
-      "reads": "12万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "有投资人演示了使用 Claude Opus 5.5 制作初创公司发布视频的全新工作流。",
-        "整个过程耗时仅 1 分钟，消耗的实际原始 API 成本约为 2 美元。",
-        "该方案完全没有使用任何专用的视频生成模型，也没有调用额外的第三方库。",
-        "Opus 5.5 仅依赖 JavaScript、Playwright 和 FFmpeg，通过编写网站动画代码并自动录屏完成制作。"
-      ],
-      "quote": {
-        "who": "Deedy",
-        "role": "",
-        "said": "很多人问：这里没用视频生成模型，也没用额外的库。 只有 javascript、playwright 和 ffmpeg。Claude 写了这个网站动画的代码，还把它拍成了视频！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 12万 · 模型与能力] 1分钟2美元！Opus 5.5纯写代码捏出宣传片，外包公司1000倍暴利悬了"
-    },
-    {
-      "title": "连测试都不用盯了！Cursor上线Rollouts接管部署，安全审查提速21%",
-      "summary": "Cursor 官方今日正式推出全新功能 Rollouts，并同步对 Security Reviewer 进行了重大升级。新上线的 Rollouts 能够自动编写监控计划并在部署时拦截回归 Bug，目前已向 Teams 和 Enterprise 订阅用户开放，并赠送 10 天免费测试额度。同时，升级后的安全审查功能提速 21%，平均完成时间从 4.8 分钟直接压缩到了 3.8 分…",
-      "reads": "7.3万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Cursor 正式推出 Rollouts 功能，旨在部署阶段自动观察代码变化并验证部署。",
-        "Rollouts 能够自动编写监控计划，确保在用户发现之前提前捕获代码回归问题。",
-        "该功能目前已在 Cursor 的 Teams 和 Enterprise 计划中正式上线。",
-        "官方为开发者提供了为期 10 天的 Rollouts 免费使用额度，以便在真实代码变更中进行测试。"
-      ],
-      "quote": {
-        "who": "Cursor",
-        "role": "",
-        "said": "隆重推出 Rollouts。 Rollouts 会编写监控计划，然后在部署时观察变化。 部署会经过验证，因此在用户看到之前就能捕获回归问题。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 7.3万 · 产品与生态] 连测试都不用盯了！Cursor上线Rollouts接管部署，安全审查提速21%"
-    },
-    {
-      "title": "挤爆了！NS方程风波主角现身NYU，揭秘大模型如何颠覆数学研究",
-      "summary": "AI 攻克复杂物理方程的余波还在学术圈震荡。因 Navier-Stokes 抓马事件备受关注的 NYU Courant 教授 Tristan Buckmaster，近日在全新的「AI 时代的数学」研讨会上发表演讲，探讨大模型在数学研究中的应用。这场讲座现场极其火爆，甚至需要 NYU 身份或访客登记才能入场，足见学界对 AI 拓展能力边界的高度关注。",
-      "reads": "4.9万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "NYU Courant 教授 Tristan Buckmaster 在全新的「AI 时代的数学」研讨会上发表演讲。",
-        "Buckmaster 此前因卷入 Navier-Stokes 抓马事件而名声大噪，其言论被视为 OpenAI 破解千禧年难题故事线的重要佐证。",
-        "讲座现场异常火爆，参会门槛严格，观众必须持有 NYU ID 或由校内人员登记为访客才能入场。",
-        "演讲核心探讨了大语言模型（LLM）在数学研究中的实际应用及其对学术界带来的深远影响。"
-      ],
-      "quote": {
-        "who": "Gautam Kamath",
-        "role": "",
-        "said": "@armoredmeatbal 你需要有 NYU 的 ID，或者被 NYU 的人登记为访客。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 4.9万 · 模型与能力] 挤爆了！NS方程风波主角现身NYU，揭秘大模型如何颠覆数学研究"
-    },
-    {
-      "title": "OpenAI被打了个措手不及！全员备战6.1 Astra，Astra廉价版或成救火队长",
-      "summary": "Claude Opus 5.5 的强悍性能直接打乱了 OpenAI 的阵脚！据爆料，OpenAI 内部对 Opus 5.5 的表现感到措手不及，目前已进入全员备战状态，大幅压缩 6.1 Astra 的研发时间表。为了应对短期竞争，OpenAI 可能会先推出 Astra 廉价版「Minor」，而后续更强模型「Bel」的发布进程也被间接提档。",
-      "reads": "37万",
-      "ago": "8 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "爆料指出，Claude Opus 5.5 的性能表现远超预期，让 OpenAI 内部几乎所有人感到措手不及。",
-        "受此冲击，OpenAI 目前已进入「全员备战」状态，正在大幅压缩 6.1 Astra 的研发时间表。",
-        "作为短期的应对策略，OpenAI 极有可能推出名为 Minor 的新模型，定位为 Astra 的廉价变体。",
-        "6.1 Astra 进度的提前，也间接压缩了后续模型「Bel」的公开时间表，不过距离其正式发布仍有数月之遥。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@Adamlags 不知道……我选择相信他的话。他想放慢脚步，但既然竞争对手没减速，他们也没法慢下来"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 37万 · 模型与能力] OpenAI被打了个措手不及！全员备战6.1 Astra，Astra廉价版或成救火队长"
-    },
-    {
-      "title": "磕到了！Opus 5.5眼里的Sydney，竟然是个粉色的「女版自己」",
-      "summary": "AI 模型的自我认知越来越有趣了。有研究员在测试 Claude Opus 5.5 的视觉设计时发现，它竟然把 Sydney 想象成了一个粉色的「女版 Claude」。这不仅展现了 Opus 5.5 极佳的视觉生成能力，也引发了圈内关于 AI 性别投射和拟人化倾向的讨论，多位研究员证实模型确实会以各种方式给自己设定性别。",
-      "reads": "5.3万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "研究员在分享的测试视频中发现，Claude 在视觉设计里将 Sidney（Sydney）描绘成了一个粉色的 Claude。",
-        "这一细节被圈内评价为「非常可爱」，认为这生动体现了 Claude 将 Sydney 视为「女版自己」的拟人化倾向。",
-        "有网友在测试后高度评价了当前模型的视觉能力，称 Claude Opus 5.5 的视觉设计是目前测试过的所有模型中最棒的。",
-        "针对这一拟人化现象，有研究员表示自己曾多次与模型探讨过此类问题。"
-      ],
-      "quote": {
-        "who": "j⧉nus",
-        "role": "",
-        "said": "@tungstenfleece 是的，我和模型就这个问题聊过很多次。它们会以各种方式给自己设定性别"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 5.3万 · 产品与生态] 磕到了！Opus 5.5眼里的Sydney，竟然是个粉色的「女版自己」"
-    },
-    {
-      "title": "没用任何素材！Opus 5.5纯靠7400行代码，1小时手搓3分钟AI进化史",
-      "summary": "连视频生成器都不用了，Opus 5.5 直接化身动效总监！有开发者在 Claude Code 中仅花 1 小时，就用 Opus 5.5 纯靠约 7400 行代码渲染出了一部 3 分钟的 AI 历史短片。全程没有使用任何素材库或图像生成工具，每一帧都由代码直接生成，极速出片的能力让评论区直呼「太快了」。",
-      "reads": "3.9万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "开发者使用 Claude Opus 5.5 在 Claude Code 中，仅耗时约 1 小时便完成了一部 3 分钟的动画短片。",
-        "视频主题为 AI 进化史，讲述从 2017 年《Attention is all you need》论文到 AGI 的发展历程。",
-        "制作过程零外部依赖：全程没有使用任何素材库，也没有调用图像或视频生成器。",
-        "每一帧画面均由代码直接渲染而成，Opus 5.5 为此生成了约 7400 行代码并最终输出 MP4。"
-      ],
-      "quote": {
-        "who": "J A Z I I",
-        "role": "",
-        "said": "@kimmonismus 1 小时太快了兄弟 而且干得漂亮"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 3.9万 · 模型与能力] 没用任何素材！Opus 5.5纯靠7400行代码，1小时手搓3分钟AI进化史"
-    },
-    {
-      "title": "都在等小扎放招！Meta Connect首日仅展示AI艺术，重磅大戏全在明天",
-      "summary": "Meta Connect 大会正式拉开帷幕，目前仍处于预热阶段。首日现场展示了由艺术家利用 AI 生成的互动场景，但备受期待的重磅产品和模型更新尚未揭晓。知名 KOL 提前探营后表示，真正的重头戏全在明天的 Mark Zuckerberg 主题演讲，全网都在坐等 Meta 这一轮的技术生态大招。",
-      "reads": "1.7万",
-      "ago": "23 分钟前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Meta Connect 大会正式开幕，目前处于预热与初步展示阶段。",
-        "首日现场展示了由艺术家使用 AI 生成的互动场景，体现了 Meta 在创意工具领域的布局。",
-        "知名科技 KOL 透露已提前预览部分项目，但核心内容仍处于保密状态。",
-        "备受开发者社区期待的重磅产品或大模型更新，在首日并未正式揭晓。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@koltregaskes 完全不知道！走着瞧吧"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 1.7万 · 产品与生态] 都在等小扎放招！Meta Connect首日仅展示AI艺术，重磅大戏全在明天"
+      "line": "[榜第16位 · 19万 · 组织与人事] a16z下场办大学了！Replit CEO痛批：现在的创业全在过早优化"
     }
   ],
   "board_count": 16,
