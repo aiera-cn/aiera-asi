@@ -3,15 +3,90 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-25 21:40:01 +0800",
-  "today": "09/25",
+  "fetched_at": "2026-09-26 02:30:54 +0800",
+  "today": "09/26",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "月费500刀！ChatGPT Pro Max泄露，或接入Cerebras算力狂飙",
+      "summary": "OpenAI 正在悄悄测试全新的 ChatGPT Pro Max 订阅套餐，月费高达 500 美元。爆料称该计划原定 2000 美元，主打「最快的 Work 和 Codex」推理速度，目前已在网页端隐藏 UI 中被挖出。业内猜测其底层可能接入了 Cerebras 硬件，以实现高达 750 token/s 的极速 Astra 推理，AI 服务正加速迈向「算力会员制」。",
+      "reads": "62万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "爆料者通过检查浏览器源码，挖出 OpenAI 隐藏的 ChatGPT Pro Max 订阅层级，月费显示为 500 美元（不含税）。",
+        "消息称该套餐原计划定价高达 2000 美元，经过内部调整后最终降至 500 美元。",
+        "Pro Max 版本的核心卖点是「最快的 Work 和 Codex」，不仅提供更高的使用额度，还大幅提升了推理速度。",
+        "业内猜测新套餐可能采用了 Cerebras 等高性能推理硬件，后者曾宣称速度是 B200 的 21 倍，且成本仅为三分之一。"
+      ],
+      "quote": {
+        "who": "Chetaslua",
+        "role": "",
+        "said": "@diablovoxx 很好，等他们官宣了，请回到这条帖子来说声谢谢"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 62万 · 产品与生态] 月费500刀！ChatGPT Pro Max泄露，或接入Cerebras算力狂飙"
+    },
+    {
+      "title": "纳德拉重磅交卷！微软版OpenClaw杀到，Copilot变身工作OS，Meta跌3.8%",
+      "summary": "微软CEO纳德拉刚刚宣布，Copilot迎来迄今最大更新，正式变身跨越所有模型的「工作OS」。这次更新整合了Autopilot等四大模块，被业内惊呼为微软的「企业版OpenClaw」，直接引发市场震动——微软股价大涨3.4%，而Meta应声下跌3.8%。不过有爆料称，由于IT部门对Claude等第三方模型的数据安全存疑，Copilot 365目前内部仍只能使用GPT模型。",
+      "reads": "106万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "微软CEO Satya Nadella宣布Copilot迎来迄今最大更新，将其定位为跨越所有模型、设备和任务的全新「工作OS」。",
+        "本次更新整合了四大模块，其中包括专为企业打造、能长时间主动运行的智能体Autopilot，以及Code功能。",
+        "业内惊呼这是面向企业的「OpenClaw」个人AI智能体，标志着AI竞赛正式从模型层转向产品层。",
+        "市场对微软的「OpenClaw」概念反应剧烈，微软股价随之上涨3.4%，而竞争对手Meta股价下跌3.8%。"
+      ],
+      "quote": {
+        "who": "tae kim",
+        "role": "",
+        "said": "我觉得投资者们开始意识到，在 Microsoft 今早宣布 OpenClaw 之后，无论是“面向普通人的 OpenClaw”还是“面向企业的 OpenClaw”领域，都将面临激烈的竞争。 好戏开场了。Meta 股价下跌 3.8%，而 Microsoft 股价上涨 3.4%"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 106万 · 产品与生态] 纳德拉重磅交卷！微软版OpenClaw杀到，Copilot变身工作OS，Meta跌3.8%"
+    },
+    {
+      "title": "牙医看沉默了！Opus 5.5单提示词秒写3D查看器，800个医疗文件瞬间解析",
+      "summary": "Claude Opus 5.5 悄悄上线几天后，已经被各路神仙开发者玩出了花。Anthropic 官方连夜汇总了一波神级案例：有人用单条提示词让 Claude Code 写出处理 800 个 DICOM 文件的 3D X 光查看器，有人全程没打开过 Blender 就用纯代码捏出了大阪城。从原生 JS 渲染奔跑骏马到 Three.js 构建 3D 房屋，高难度的图形编程门槛正在…",
+      "reads": "42万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 官方账号发布推文，集中展示了 Claude Opus 5.5 上线数日以来的高光社区作品。",
+        "有网友利用 Opus 5.5 结合 Three.js，纯靠代码写出了极其逼真的透明水体、河底光影和青苔岩石。",
+        "一位开发者全程未打开建模软件，仅靠代码就在浏览器中建出 3D 大阪城，M4 MacBook 渲染耗时约 1.5 小时。",
+        "借助 Opus 5.5 和 Three.js + TSL，有人实现了从手绘草图到 3D 房屋的完整构建，涵盖线条到最终成型的四个阶段。"
+      ],
+      "quote": {
+        "who": "Claude",
+        "role": "",
+        "said": "这个周末你打算用 Opus 5.5 探索点什么？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 42万 · 模型与能力] 牙医看沉默了！Opus 5.5单提示词秒写3D查看器，800个医疗文件瞬间解析"
+    },
+    {
       "title": "难怪鸽了9年！一辆Tesla Semi吸干10台Model 3，马斯克首座重卡工厂终于投产",
       "summary": "马斯克终于把鸽了快9年的重卡造出来了！特斯拉在内华达州的首座高产量Semi工厂正式启用，规划年产能达到5万辆，本周起就会向百事可乐、DHL等客户交车。这款2017年就发布的卡车之所以拖到现在，全是因为电池需求太恐怖：长续航版电池包高达822 kWh，造一辆Semi相当于一口气吞掉10辆Model 3的电池。",
-      "reads": "164万",
-      "ago": "3 小时前",
+      "reads": "287万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -29,14 +104,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 164万 · 产品与生态] 难怪鸽了9年！一辆Tesla Semi吸干10台Model 3，马斯克首座重卡工厂终于投产"
+      "rank": 4,
+      "line": "[榜第4位 · 287万 · 产品与生态] 难怪鸽了9年！一辆Tesla Semi吸干10台Model 3，马斯克首座重卡工厂终于投产"
     },
     {
       "title": "下周升空！Google造出太空版TPU，4块芯片搭SpaceX上天，马斯克点赞",
       "summary": "Google 真的要把 AI 算力送上天了！劈柴哥刚刚宣布，搭载 4 块 TPU 的原型卫星下周将搭乘 SpaceX 火箭升空，正式测试「太空版 AI 数据中心」。这颗卫星将运行在晨昏轨道，获取 24 小时不间断的太阳能，发电效率是地面的 5 到 8 倍，直接绕开地球上的电网瓶颈。不过目前还是早期测试，据爆料芯片跑 15 分钟就得停下来降温。",
-      "reads": "365万",
-      "ago": "5 小时前",
+      "reads": "478万",
+      "ago": "10 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -54,14 +129,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 365万 · 资本与算力] 下周升空！Google造出太空版TPU，4块芯片搭SpaceX上天，马斯克点赞"
+      "rank": 5,
+      "line": "[榜第5位 · 478万 · 资本与算力] 下周升空！Google造出太空版TPU，4块芯片搭SpaceX上天，马斯克点赞"
+    },
+    {
+      "title": "告别聊天框！微软全自动版Copilot发布，接入OpenClaw，你下班AI还在打工",
+      "summary": "微软今天悄悄干了票大的，正式向首批客户推送了基于 OpenClaw 打造的 Autopilot 预览版。双方从今年 3 月就开始秘密合作，不仅在任何连接 OC 网关的机器上实现了本地推理、文件传输和代码模式，还用上了 CLAW 配置文件来加速智能体启动。这标志着 AI 正式从「你问我答」的聊天机器人，进化成了你下班离线后还能跨应用自己干活的「全天候打工人」。",
+      "reads": "14万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "微软今日宣布推出 Autopilot 预览版，目前正向首批客户推送，定位为持久、主动且个性化的全天候 AI 智能体。",
+        "该产品底层基于开源架构 OpenClaw 打造，目前使用的是其扩展稳定版（extended-stable version）。",
+        "双方团队自今年 3 月起展开深度合作，对代码库进行了大量优化，以满足微软的大规模部署需求。",
+        "微软团队为项目贡献了多项核心功能，包括在连接到 OC 网关的任何机器上实现本地推理、文件传输和代码模式。"
+      ],
+      "quote": {
+        "who": "Deirdre Bosa",
+        "role": "",
+        "said": "OpenClaw 是这种从聊天机器人向全天候 AI 智能体转变的开端。 核心理念：一个能跨应用操作、保持上下文、真正把事办成而不是干等下一个提示词的常驻助手。 现在你在 Muse、Instinct 和 里也看到了同样的产品方向"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 14万 · 产品与生态] 告别聊天框！微软全自动版Copilot发布，接入OpenClaw，你下班AI还在打工"
+    },
+    {
+      "title": "终于从副驾驶变自动驾驶！Agent版Copilot曝光，微软秘密武器接管工作流",
+      "summary": "微软的AI战略正在发生重大转向，竞赛重心正式从底层模型转向产品整合。全新的Copilot将化身跨越所有设备和任务的工作OS，通过多模型选择机制把客户死死锁在自家生态里，不再执着于拥有「最强模型」。记者爆料其潜在的秘密武器是内部代号为Muse的Autopilot，纳德拉本人也亲自现身评论区互动，坐实了这一战略布局。",
+      "reads": "12万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "微软宣布将Copilot打造为全新工作OS，实现跨越所有模型、设备和任务的全面接管。",
+        "AI竞赛逻辑生变，微软押注的重心已从底层模型性能正式转向产品整合与用户体验。",
+        "核心策略曝光：Copilot将通过多模型选择机制运行，不再依赖单一的最强自研模型。",
+        "商业目标明确：利用现有生态优势构建护城河，将企业级客户牢牢锁定在Microsoft生态中。"
+      ],
+      "quote": {
+        "who": "Wall St Engine",
+        "role": "",
+        "said": "完整采访："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 12万 · 产品与生态] 终于从副驾驶变自动驾驶！Agent版Copilot曝光，微软秘密武器接管工作流"
     },
     {
       "title": "史上最贵！ChatGPT Pro Max泄露，月费500美元，Cerebras算力加持",
       "summary": "OpenAI即将推出史上最贵的AI订阅服务——ChatGPT Pro Max，基础月费高达500美元（含税600美元）。爆料显示，该套餐将由Cerebras基础设施提供算力，主打「Fastest Work and Codex」的极速体验，并提供更高的使用上限。官方已在评论区暗示，这款专供高净值人群的顶级套餐，极有可能在9月29日的DevDay 2026上正式亮相。",
-      "reads": "159万",
-      "ago": "5 小时前",
+      "reads": "179万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,14 +204,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 159万 · 产品与生态] 史上最贵！ChatGPT Pro Max泄露，月费500美元，Cerebras算力加持"
+      "rank": 8,
+      "line": "[榜第8位 · 179万 · 产品与生态] 史上最贵！ChatGPT Pro Max泄露，月费500美元，Cerebras算力加持"
     },
     {
       "title": "马斯克砸1000亿美元建算力帝国！年底狂揽66万张GB300，Grok 5稳了",
       "summary": "马斯克详细披露了 xAI Colossus 集群的算力底牌，外界估算其总价值高达 1000 亿美元。其中 Colossus 1 包含 15 万张 H100 等，而 Colossus 2 将在年底前疯狂部署 66 万张 GB300。他还透露，11 万张 GB200 的奇怪数量是因为中央交换机光纤接口的物理限制，这一激进投入被视为在为 Grok 5 等下一代 AGI 模型铺路。",
-      "reads": "153万",
-      "ago": "6 小时前",
+      "reads": "187万",
+      "ago": "11 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -104,14 +229,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 153万 · 资本与算力] 马斯克砸1000亿美元建算力帝国！年底狂揽66万张GB300，Grok 5稳了"
+      "rank": 9,
+      "line": "[榜第9位 · 187万 · 资本与算力] 马斯克砸1000亿美元建算力帝国！年底狂揽66万张GB300，Grok 5稳了"
     },
     {
       "title": "被Opus 5.5吓得躲了3天？OpenAI研究员发声：全员备战DevDay，下周二见",
       "summary": "OpenAI下周二（9月29日）就要开DevDay了，内部现在可是嗨翻了天！研究员Tibo Sottiaux透露全员都在全力备战，结果却被网友无情嘲讽：是被Opus 5.5碾压得太狠，吓得躲在Slack里不敢出来了吧？不管怎样，下周二的发布会绝对有大动作，新模型和Astra升级大概率要来了。",
-      "reads": "70万",
-      "ago": "5 小时前",
+      "reads": "110万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -129,14 +254,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 70万 · 产品与生态] 被Opus 5.5吓得躲了3天？OpenAI研究员发声：全员备战DevDay，下周二见"
+      "rank": 10,
+      "line": "[榜第10位 · 110万 · 产品与生态] 被Opus 5.5吓得躲了3天？OpenAI研究员发声：全员备战DevDay，下周二见"
     },
     {
       "title": "ChatGPT全新定价曝光！顶配狂飙至500美元，原20美元Plus暴涨至100美元",
       "summary": "业内爆料称，ChatGPT 即将推出全新的激进定价体系，最高档 Pro 20x 飙升至 500 美元。现有的 20 美元 Plus 套餐将暴涨至 100 美元，而原 20 美元档位将沦为免费档。与此同时，算力紧缺的 Anthropic 因在 Opus 5.5 上疯狂烧钱，未来也很可能效仿这一天价策略。",
-      "reads": "14万",
-      "ago": "1 小时前",
+      "reads": "30万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -154,258 +279,133 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 14万 · 产品与生态] ChatGPT全新定价曝光！顶配狂飙至500美元，原20美元Plus暴涨至100美元"
+      "rank": 11,
+      "line": "[榜第11位 · 30万 · 产品与生态] ChatGPT全新定价曝光！顶配狂飙至500美元，原20美元Plus暴涨至100美元"
     },
     {
-      "title": "只要6个月，SpaceX AI拿下第一！马斯克宣战OpenAI：3年干翻10年老将",
-      "summary": "马斯克再次语出惊人，宣称成立仅3年的SpaceX AI业务将在6个月内拿下行业第一，直接反超已有10年历史的OpenAI和6年历史的Anthropic。他表示只要「二阶导数」保持强劲，登顶只是时间问题。不过这番豪言也引来不少开发者吐槽，直言这种话已经听了一年多，实际差距并没有明显缩小。",
-      "reads": "394万",
-      "ago": "18 小时前",
-      "category": "组织与人事",
+      "title": "微软彻底不装了！Copilot重构为工作OS，四大模块接管打工人，股价飙升3%",
+      "summary": "微软这次彻底把大招放出来了，宣布将 Copilot 全面重构为「工作 OS」，这也是该产品迄今为止最大的一次更新。全新版本直接围绕 Home、Code、Autopilot 和 Office 四大核心模块展开，不仅能帮你写代码建工作流，还能让 AI 主动接管耗时任务。消息一出资本市场直接沸腾，微软（$MSFT）股价盘中直线拉升 3%。这波操作也意味着，大厂们的 AI 竞赛已经从单…",
+      "reads": "10.0万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "马斯克在X上发文确认，SpaceX的AI业务目前仅成立3年，而竞争对手Anthropic和OpenAI分别已有6年和10年历史。",
-        "他大胆预测，如果团队的「二阶导数」（加速度）保持强劲，SpaceX将在大约6个月内拿下行业领先地位（pole position）。",
-        "马斯克补充称，一旦AI远远超过了某个级别所需的智能水准，接下来的发展将势不可挡。",
-        "针对这一表态，有KOL提出质疑，表示类似的话已经听了一年多，且不确定Grok 3或4时代的差距是否真的比今天更大。"
-      ],
-      "quote": {
-        "who": "Dan McAteer",
-        "role": "",
-        "said": "@elonmusk @vasalex93 推理很合理。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 394万 · 组织与人事] 只要6个月，SpaceX AI拿下第一！马斯克宣战OpenAI：3年干翻10年老将"
-    },
-    {
-      "title": "资本也得靠边站！Anthropic上市前大改架构，7位创始人独揽50.1%大权",
-      "summary": "Anthropic 在 IPO 前夕搞了个大动作，准备彻底把公司的方向盘焊死在自己手里。据爆料，CEO Dario Amodei 和其他 6 位联合创始人正寻求通过类似 Palantir 的双层股权架构，拿下公司 50.1% 的绝对投票权。这意味着无论未来华尔街怎么施压，这 7 个人都能在重大事务上拥有最终决定力。",
-      "reads": "6.2万",
-      "ago": "5 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "据 The Information 报道，Anthropic 正要求股东批准一项全新的公司治理架构。",
-        "该架构的核心，是赋予 CEO Dario Amodei 及其 6 位联合创始人合计 50.1% 的总投票权。",
-        "方案采用了类似 Palantir 的双层股权结构，通过超级投票股来巩固创始人的权力。",
-        "这意味着在大多数公司事务上，创始团队将在 IPO 后继续保持绝对控制权。"
-      ],
-      "quote": {
-        "who": "Alex Prompter",
-        "role": "",
-        "said": "@rohanpaul_ai 不知道该怎么看这个，哈哈"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 6.2万 · 资本与算力] 资本也得靠边站！Anthropic上市前大改架构，7位创始人独揽50.1%大权"
-    },
-    {
-      "title": "刚刚，现代AI之父出山！Schmidhuber加盟Sakana AI，死磕AI自我进化",
-      "summary": "现代 AI 之父 Jürgen Schmidhuber 正式加入 Sakana AI，出任首席科学顾问。他将兼任现职，重点指导 RSI Lab（递归自我改进实验室）的自主研发工作。早在 90 年代算力比现在贵上百万倍时，他就开创了元学习和世界模型，这次强强联手标志着 Sakana AI 在 AI 自我进化领域的战略大升级。",
-      "reads": "38万",
-      "ago": "11 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "Sakana AI 官方宣布，被公认为现代 AI 之父的 Jürgen Schmidhuber 正式出任首席科学顾问。",
-        "Schmidhuber 将在兼任现职的同时，深度参与 Sakana AI 的 RSI Lab（递归自我改进实验室）。",
-        "RSI Lab 旨在构建自主研发的基础设施，过去两年已系统性发布多项成果。",
-        "实验室代表性成果包括 LLM²（AI 自动化研究发明新优化算法）和 Darwin Gödel Machine（AI 智能体正在重写）。"
-      ],
-      "quote": {
-        "who": "Sakana AI",
-        "role": "",
-        "said": "我们在今年早些时候宣布了 RSI Lab： 过去两年里，我们系统性地发布了自主研发的基础设施： ▪ LLM²：AI 自动化研究以发明新的优化算法。 ▪ Darwin Gödel Machine：AI 智能体正在重写"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 38万 · 组织与人事] 刚刚，现代AI之父出山！Schmidhuber加盟Sakana AI，死磕AI自我进化"
-    },
-    {
-      "title": "薅羊毛到头了！Anthropic恢复对拦截请求收费，精准打击模型蒸馏",
-      "summary": "薅大模型羊毛的白嫖党要大出血了。Anthropic 官方宣布，即日起恢复对 Claude 响应前被安全机制拦截的请求收费。这次收费精准打击误报率极低的三个核心领域：生物学、蒸馏攻击和前沿大模型开发。官方透露，近期系统遭遇了协同攻击，此举正是为了用经济成本直接反制恶意套壳和滥用行为。",
-      "reads": "116万",
-      "ago": "19 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 官方宣布，即日起恢复对 Claude 响应前被安全机制拦截的请求收费。",
-        "此次收费范围严格限定在误报率较低的三个类别：生物学、蒸馏攻击及前沿大语言模型开发。",
-        "官方透露，最近几周系统遭遇了一些针对性的协同攻击，促使了这一收费政策的落地。",
-        "有爆料指出，此举的核心目的之一是防范恶意开发者对 Claude 进行模型蒸馏。"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "为了防范蒸馏攻击，Anthropic 将恢复对被拒绝的请求收费。 这适用于与生物学、蒸馏攻击和大语言模型开发相关的请求。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 116万 · 政策与安全] 薅羊毛到头了！Anthropic恢复对拦截请求收费，精准打击模型蒸馏"
-    },
-    {
-      "title": "成立仅1年估值破百亿！前特斯拉Dojo高管下场造芯，硬刚GPU垄断",
-      "summary": "算力市场的疯狂还在继续，这次的主角是前特斯拉 Dojo 团队。据爆料，他们离开马斯克创立的 AI 芯片公司 DensityAI 成立仅一年，估值就已飙升至 100 亿美元。目前这家黑马正就数亿美元的新一轮融资进行深入谈判，矛头直指现有的 GPU 垄断格局。",
-      "reads": "2.1万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "前特斯拉 Dojo 超算团队负责人创立的 AI 芯片初创公司 DensityAI 正进行深入融资谈判。",
-        "据 The Information 记者爆料，该公司本轮目标是筹集数亿美元资金。",
-        "尽管成立仅仅一年，DensityAI 的估值已逼近 100 亿美元大关。",
-        "这一超高溢价直接反映了当前资本市场对自研 AI 算力硬件的极度渴求。"
+        "微软宣布 Copilot 迄今最大更新，产品定位全面重构为「工作 OS」。",
+        "新版围绕四大核心模块重组：Home、Code、Autopilot 以及 Office。",
+        "Home 模块将 Chat（聊天）与 Cowork（协同工作）深度结合，打造统一入口。",
+        "Code 模块专为开发者和业务人员设计，可直接构建应用、仪表盘和工作流。"
       ],
       "quote": {
         "who": "Wall St Engine",
         "role": "",
-        "said": "前 TESLA DOJO 创始人创办的 AI 芯片初创公司估值逼近100亿美元 据 The Information 报道，由前 Tesla Dojo 超算团队负责人于一年前刚刚创立的 DensityAI，正就以100亿美元估值融资数亿美元进行深入谈判。 这家初创公司已经告诉"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 2.1万 · 资本与算力] 成立仅1年估值破百亿！前特斯拉Dojo高管下场造芯，硬刚GPU垄断"
-    },
-    {
-      "title": "OpenAI悄悄灰度新版！ChatGPT与Codex网页端合体，打工人喜提Work模式",
-      "summary": "OpenAI 过去几天正在悄悄给部分用户推送新版 ChatGPT 网页端，内部代号「Web Merge」。这次更新直接把 ChatGPT 和 Codex 的界面合二为一，顶部还新增了「Chat/Work」标签页。以后在浏览器里写代码、做日常办公，体验已经无限逼近桌面版，再也不用在两个独立产品间来回切了。",
-      "reads": "1.5万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 过去几天正向越来越多用户灰度推送新版 ChatGPT 网页端。",
-        "此次界面大改版在代码中的内部代号为「Web Merge」。",
-        "核心变化是将 ChatGPT 与旗下编程助手 Codex 的功能界面进行了深度合并。",
-        "据爆料截图显示，界面左上角下拉菜单已同步更新，同时提供「ChatGPT」和「Codex」选项。"
-      ],
-      "quote": {
-        "who": "Tibor Blaho",
-        "role": "",
-        "said": "过去几天，OpenAI 一直在向越来越多用户推送新版 ChatGPT 网页端，代码里叫「Web Merge」（把 ChatGPT 和 Codex 合并了），体验更接近桌面端了"
+        "said": "$MSFT +3%"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 1.5万 · 产品与生态] OpenAI悄悄灰度新版！ChatGPT与Codex网页端合体，打工人喜提Work模式"
+      "line": "[榜第12位 · 10.0万 · 产品与生态] 微软彻底不装了！Copilot重构为工作OS，四大模块接管打工人，股价飙升3%"
     },
     {
-      "title": "突袭Agent榜！马斯克Grok 4.7空降第16名，单次任务成本涨至1.14美元",
-      "summary": "Arena 官方正式上线了全新改版的排行榜概览，把分散的大模型实时跑分全聚到了一个枢纽里。最引人注目的是 Agent Arena 的最新实测数据：xAI 旗下的 Grok 4.7 (xHigh) 突然空降第 16 名。虽然净提升分数比前代涨了 3.96%，但价格也跟着水涨船高，单次任务中位成本直接来到了 1.14 美元。",
-      "reads": "6.7万",
-      "ago": "8 小时前",
+      "title": "疯了！OpenAI祭出500美元ChatGPT算力会员，DevDay新品拉响红色警报",
+      "summary": "OpenAI 彻底把商业化玩明白了！最新爆料显示，ChatGPT 订阅页惊现三档 Pro 计划，其中最高档 Pro Max 定价高达 500 美元/月，比 200 美元档贵 2.5 倍，主打最快的 Work 和 Codex 速度。与此同时，下周二的 DevDay 预告也让内部 Slack 陷入疯狂，不仅拉响「CODE RED」，更传言将一次性发布包括 7x24 常驻 Agent…",
+      "reads": "4.3万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Arena 上线全新排行榜概览（Leaderboard Overview），定位为单一中心枢纽，汇聚所有实时测试信号。",
-        "Agent Arena 榜单数据更新，xAI 的 Grok 4.7 (xHigh) 空降第 16 名。",
-        "性能方面，Grok 4.7 相比前代版本有所进步，净提升分数（net improvement score）达到 +3.96%。",
-        "价格同步上涨，Grok 4.7 每任务中位成本达 1.14 美元，与 Grok 4.6 (High) 形成鲜明对比。"
+        "ChatGPT 订阅页泄露全新 Pro 计划，分为 100 美元、200 美元和 500 美元三档，AI 正式迈入「算力会员制」时代。",
+        "最高档 ChatGPT Pro Max 定价 500 美元/月，比 200 美元的 Pro 档贵 2.5 倍，页面显示其唯一特权为「Fastest Work…",
+        "爆料者吐槽 OpenAI 正在进行「分层收割」，用户花 20 美元买智能，200 美元买额度，500 美元买速度。",
+        "OpenAI 内部 Slack 气氛狂热，员工疯狂转发奥特曼耳边低语「CODE RED」的梗图，全员锁死迎接下周二的 DevDay。"
       ],
       "quote": {
-        "who": "Arena.ai",
+        "who": "NIK",
         "role": "",
-        "said": "在 Agent Arena 中，我们用来自全球用户社区的数百万个真实的、长周期的智能体任务来评估模型。模型可以访问网络搜索、文件系统和终端工具来完成复杂的工作流。 排行榜衡量模型在结果上的表现，相对于"
+        "said": "OpenAI 内部 Slack 现在的状态："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 6.7万 · 产品与生态] 突袭Agent榜！马斯克Grok 4.7空降第16名，单次任务成本涨至1.14美元"
+      "line": "[榜第13位 · 4.3万 · 产品与生态] 疯了！OpenAI祭出500美元ChatGPT算力会员，DevDay新品拉响红色警报"
     },
     {
-      "title": "别白费力气找内推了！谷歌APM与Meta RPM开闸，拿到面试先问这句话",
-      "summary": "硅谷大厂核心管培生项目正式开闸，想冲刺产品经理的抓紧了。谷歌 APM 美国窗口将于 10 月 6 日关闭，而为期 18 个月的 Meta RPM 明确表示不接受任何内推，千万别浪费时间找关系。此外，欧洲 AI 巨头 Mistral 刚刚以 210 亿欧元估值拿下 30 亿欧元融资，直接打破了「美国负责建设，欧洲负责监管」的刻板印象。",
-      "reads": "2.3万",
-      "ago": "5 小时前",
-      "category": "组织与人事",
+      "title": "性能0变化！Opus 5.5遭差评真相曝光：模型没变，是用户的蜜月期滤镜碎了",
+      "summary": "近日，针对社区中关于 Opus 5.5 性能下降的讨论，有开发者出面澄清了真相。实测发现，Opus 5.5 的性能几乎是 0 变化，根本没有遭遇所谓的「暗改」或降智。大家感知到的变弱，其实是因为模型发布初期的「蜜月期」已经结束，用户在深度使用中开始触及它较弱的领域和边缘场景。",
+      "reads": "4.6万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "谷歌应届生 APM 及 APM 实习生申请通道已开放，美国地区申请窗口将于 10 月 6 日正式截止。",
-        "Meta RPM（产品轮岗经理）项目同步开放申请，整个项目为期 18 个月，包含前期训练营及三次产品团队轮岗。",
-        "新一届 Meta RPM 入选者将于 2027 年 3 月或 9 月正式入职。",
-        "Meta 明确规定 RPM 项目不接受任何内推，知情人士建议候选人不要白白浪费一周时间去寻找内推关系。"
+        "有开发者实测指出，Opus 5.5 的性能表现几乎为 0 变化，未发现明显波动。",
+        "社区中关于模型「变笨」或「降智」的负面反馈，并非源于模型本身的更新或暗改。",
+        "这种感知差异被归结为模型发布后的「蜜月期」效应结束。",
+        "随着使用时间增加，用户开始在实际工程中触及 Opus 5.5 较弱的领域。"
       ],
       "quote": {
-        "who": "Ole Lehmann",
+        "who": "leo 🐾",
         "role": "",
-        "said": "在这里加入产品训练营："
+        "said": "顺便说一句，我观察到 Opus 5.5 的性能几乎是 0 变化。我觉得很多时候，只是大家在模型最初的蜜月期过后，发现了它较弱的领域和边缘情况"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 2.3万 · 组织与人事] 别白费力气找内推了！谷歌APM与Meta RPM开闸，拿到面试先问这句话"
+      "line": "[榜第14位 · 4.6万 · 模型与能力] 性能0变化！Opus 5.5遭差评真相曝光：模型没变，是用户的蜜月期滤镜碎了"
     },
     {
-      "title": "库克亮出端侧AI家底！从iPhone到Mac，最高支持1.6万亿参数模型",
-      "summary": "苹果的端侧 AI 底牌终于亮出来了。有人爆料了一张苹果官方的对比图表，一口气晒出了从 iPhone 到 Mac Studio 集群等 6 大产品线的本地 AI 推理算力。最离谱的是，这套硬件矩阵最高能支持运行 1.6 万亿参数的大模型。这意味着未来更多复杂的 AI 任务直接在本地就能跑完，主打一个离线和绝对的隐私安全。",
-      "reads": "35万",
-      "ago": "17 小时前",
-      "category": "产品与生态",
+      "title": "小扎笑了！被问AI会不会毁灭全人类，他亲口定调：绝不减速，未来极度乐观",
+      "summary": "AI到底会不会毁灭人类？在Meta Connect大会期间，小扎面对这个尖锐问题直接笑了。他亲口定调，只要行业负责任地行事，未来对每个人都将非常积极。结合刚刚发布的100克VR眼镜等新品，Meta显然不打算为「存在风险」论调减速，而是要继续全速狂飙。",
+      "reads": "4.6万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "苹果端侧 AI 能力全景图曝光，涵盖从 iPhone 到 Mac Studio 集群的 6 大产品线。",
-        "图表核心指标直指本地大模型部署关键：本地内存、带宽以及可运行的模型参数量。",
-        "算力上限惊人，Mac Studio 集群最高支持在本地运行高达 1.6 万亿参数的大模型。",
-        "软硬件协同发力，苹果借此图表向外界展示了其对大规模本地大模型部署的绝对自信。"
+        "Meta CEO扎克伯格在Connect大会期间接受媒体采访，正面回应AI安全争议。",
+        "面对「AI是否会杀死我们所有人」的尖锐提问，小扎一笑置之。",
+        "他明确表态，只要行业负责任地行事，AI毁灭人类的情况就不会发生。",
+        "小扎对AI发展高度乐观，认为这将为每个人带来非常积极的未来。"
       ],
       "quote": {
-        "who": "Aaron",
+        "who": "Wall St Engine",
         "role": "",
-        "said": "Apple 分享了一张图表，展示了他们各产品线的端侧 AI 能力"
+        "said": "Youtube 上的完整采访："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 35万 · 产品与生态] 库克亮出端侧AI家底！从iPhone到Mac，最高支持1.6万亿参数模型"
+      "line": "[榜第15位 · 4.6万 · 政策与安全] 小扎笑了！被问AI会不会毁灭全人类，他亲口定调：绝不减速，未来极度乐观"
     },
     {
-      "title": "刚刚，Midjourney实时版突袭上线！V8.2编辑模型大换血，出图不用等了",
-      "summary": "Midjourney 深夜突发多项重磅更新，最让人惊喜的是在 Alpha 网站悄悄上线了实时生成模型的早期预览版！此外，官方在 v8.1 和 v8.2 中推出了全新的无缝图案 --tile 功能，并升级了局部重绘，现在只会精准修改你选定的像素。同时，V8.2 编辑模型正式取代 omni-reference，全面支持指令编辑和最多 4 张图的以图生图，交互式生图体验直接拉满。",
-      "reads": "2.9万",
-      "ago": "6 小时前",
+      "title": "比云计算大几个数量级！纳德拉最新发声，微软Copilot全面杀入Agent时代",
+      "summary": "微软全面打响了AI生态战。在西雅图的新Copilot发布活动后，CEO纳德拉在最新访谈中放出豪言：AI智能体（Agent）创造的市场规模，将比云计算大「几个数量级」。随着Autopilot等模块的深度整合，微软正试图将Copilot打造成跨越所有设备和任务的全新工作OS，标志着大厂的角逐正式从卷模型转向了应用落地与生态锁定。",
+      "reads": "2.3万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "实时模型初现：Midjourney 在其实验性 Alpha 网站上，悄悄上线了实时生成模型（real-time models）的早期预览版。",
-        "无缝图案升级：官方在 v8.1 和 v8.2 版本中，正式推出了用于生成无缝图案的新版「--tile」功能。",
-        "像素级精准重绘：新版局部重绘（inpainting）功能发布，现在只会改变用户选定的像素，控制精度大幅提升。",
-        "V8.2 编辑模型上位：官方确认，全新的 V8.2 编辑模型已全面取代此前的 omni-reference 功能。"
+        "微软CEO纳德拉在西雅图接受最新播客访谈，深度探讨新版Copilot及微软未来战略。",
+        "纳德拉作出重磅预测：AI智能体（Agent）将创造比云计算大「几个数量级」的庞大市场。",
+        "微软正致力于将Copilot打造为跨越所有模型、设备和任务的全新工作OS。",
+        "本次更新全面整合了Autopilot等核心模块，进一步完善微软的AI全家桶。"
       ],
       "quote": {
-        "who": "Kol Tregaskes",
+        "who": "Alex Heath",
         "role": "",
-        "said": "@midjourney 我很喜欢我们现在能收到很多定期更新。"
+        "said": "@satyanadella 感谢您抽出时间！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 2.9万 · 产品与生态] 刚刚，Midjourney实时版突袭上线！V8.2编辑模型大换血，出图不用等了"
+      "line": "[榜第16位 · 2.3万 · 产品与生态] 比云计算大几个数量级！纳德拉最新发声，微软Copilot全面杀入Agent时代"
     }
   ],
   "board_count": 16,
