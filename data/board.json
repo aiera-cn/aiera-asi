@@ -3,65 +3,90 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-25 09:25:10 +0800",
+  "fetched_at": "2026-09-25 15:40:57 +0800",
   "today": "09/25",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "刚刚，小扎祭出分体版Vision Pro！仅重100克卖1299刀，苹果悬了",
-      "summary": "小扎在 Meta Connect 大会上杀疯了，正式发布仅重 100 克的 Meta VR Glasses。这款新品采用极致的分体式架构，眼镜端砍掉了所有芯片和电池，全部算力通过光纤连接到口袋里的主机。定价只要 1299 美元，不仅远低于苹果 Vision Pro，甚至比一台 512GB 的 iPhone 18 Pro Max 还要便宜，直接对苹果的空间计算路线发起降维打击。",
-      "reads": "511万",
-      "ago": "3 小时前",
+      "title": "史上最贵！ChatGPT Pro Max泄露，月费500美元，Cerebras算力加持",
+      "summary": "OpenAI即将推出史上最贵的AI订阅服务——ChatGPT Pro Max，基础月费高达500美元（含税600美元）。爆料显示，该套餐将由Cerebras基础设施提供算力，主打「Fastest Work and Codex」的极速体验，并提供更高的使用上限。官方已在评论区暗示，这款专供高净值人群的顶级套餐，极有可能在9月29日的DevDay 2026上正式亮相。",
+      "reads": "121万",
+      "ago": "40 分钟前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Meta 正式发布 Meta VR Glasses，重量仅为 100 克，大约相当于一副扑克牌，只有 Quest 3 的五分之一。",
-        "采用独特的分体式架构（split architecture），镜腿内无芯片、无电池，甚至没有追踪协处理器。",
-        "所有计算单元均集成在口袋大小的 puck（主机）中，通过光纤电缆与眼镜端进行连接。",
-        "搭载 Meta 史上最佳显示系统，现场体验者惊呼「就像一台电脑」，甚至能直接用来剪辑整部电影。"
+        "价格曝光：爆料代码截图显示，ChatGPT Pro Max基础月费为500美元，加上增值税后实际显示为600美元，成为市面最贵AI订阅之一。",
+        "算力底座：该极速套餐预计由Cerebras基础设施提供专属算力支持，以实现极致的模型生成速度。",
+        "核心权益：相比现有的Pro套餐，Pro Max在描述中新增了「Fastest Work and Codex」特权，且使用上限可能进一步提高。",
+        "商业逻辑：业内人士分析，极高的生成速度能显著提升Token支出的商业回报率（ROI），主要面向企业级和高净值人群。"
       ],
       "quote": {
-        "who": "Aakash Gupta",
+        "who": "Chris",
         "role": "",
-        "said": "想看我未经算法过滤的所有观点，请订阅我的 newsletter："
+        "said": "@TokenGremlin 是的，被泄露了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 511万 · 产品与生态] 刚刚，小扎祭出分体版Vision Pro！仅重100克卖1299刀，苹果悬了"
+      "line": "[榜第1位 · 121万 · 产品与生态] 史上最贵！ChatGPT Pro Max泄露，月费500美元，Cerebras算力加持"
     },
     {
-      "title": "突发！ChatGPT的Pro Max版泄露，月费500美元，Cerebras算力主打极速",
-      "summary": "OpenAI 正在筹备市面上最贵的 AI 订阅服务——ChatGPT Pro Max，定价高达每月 500 美元（含税 600 美元）。据爆料，该套餐将由 Cerebras 基础设施提供算力支持，主打「Ultra Fast」极速体验，底层模型或将涉及 GPT-6 系列。相比现有的 120 美元 Pro 计划，新套餐将提供更快的 Work 和 Codex 响应速度，进一步细分高端…",
-      "reads": "27万",
-      "ago": "47 分钟前",
-      "category": "产品与生态",
+      "title": "刚刚，谷歌TPU上天了！马斯克发火箭助攻，太空版AI数据中心跑15分钟就得停",
+      "summary": "谷歌 CEO Sundar Pichai 官宣，Project Suncatcher 的首颗原型卫星下周将搭乘 SpaceX 的 Transporter-18 任务升空，直接把 4 块 TPU 送入轨道。这个「太空版AI数据中心」将利用晨昏轨道获取几乎 24 小时不间断的太阳能，发电效率是地面的 5 到 8 倍，但目前面临巨大的散热挑战，芯片跑 15 分钟就得停机降温。马斯克也…",
+      "reads": "198万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "天价订阅曝光：代码截图显示，OpenAI 即将推出名为 ChatGPT Pro Max 的新套餐，基础定价 500 美元/月，含税后高达 600 美元。",
-        "专供极速体验：相比现有的 120 美元 Pro 套餐，新版描述中新增了「Fastest Work and Codex」权益，主打极致的速度提升。",
-        "Cerebras 算力加持：爆料指出，该极速服务很可能由 AI 芯片独角兽 Cerebras 的基础设施提供底层支持。",
-        "或接入 GPT-6：在与网友的互动中，爆料者暗示该套餐可能与「GPT-6 Pro Max Ultra Fast」相关，作为完整的专属计划推出。"
+        "谷歌 CEO Sundar Pichai 确认，Project Suncatcher 原型卫星将搭乘 SpaceX 的 Transporter-18 拼车任…",
+        "该卫星由谷歌与遥感卫星公司 Planet 合作打造，计划在轨部署 4 块 TPU 测试太空 AI 算力。",
+        "项目采用晨昏轨道（Dawn-dusk orbit），太阳能电池板可获得几乎 24/7 的全天候日照。",
+        "太空轨道的太阳能发电效率极高，是地球表面同等面积电池板的 5 到 8 倍。"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "Elon Musk",
         "role": "",
-        "said": "@ananayarora @cerebras Pro Max Ultra Fast 作为一个完整的专属套餐 👌"
+        "said": "🚀🚀"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 27万 · 产品与生态] 突发！ChatGPT的Pro Max版泄露，月费500美元，Cerebras算力主打极速"
+      "line": "[榜第2位 · 198万 · 资本与算力] 刚刚，谷歌TPU上天了！马斯克发火箭助攻，太空版AI数据中心跑15分钟就得停"
+    },
+    {
+      "title": "马斯克砸1000亿美元建算力帝国！年底狂揽66万张GB300，Grok 5稳了",
+      "summary": "马斯克详细披露了 xAI Colossus 集群的算力底牌，外界估算其总价值高达 1000 亿美元。其中 Colossus 1 包含 15 万张 H100 等，而 Colossus 2 将在年底前疯狂部署 66 万张 GB300。他还透露，11 万张 GB200 的奇怪数量是因为中央交换机光纤接口的物理限制，这一激进投入被视为在为 Grok 5 等下一代 AGI 模型铺路。",
+      "reads": "77万",
+      "ago": "58 分钟前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "马斯克公布 Colossus 1 算力构成：包含 15 万张 H100、5 万张 H200 和 3 万张 GB200。",
+        "Colossus 2 目前已部署 11 万张 GB200 和 44 万张 GB300，下周将有 22 万张 GB300 全面投产。",
+        "xAI 计划在 11 月再增 22 万张 GB300，若顺利 12 月底还将追加 22 万张，年底前 Colossus 2 总计将达约 66 万张 GB30…",
+        "马斯克解释称，11 万张 GB200 的特定数量是由中央交换机可连接的光纤数量决定的物理限制。"
+      ],
+      "quote": {
+        "who": "NIK",
+        "role": "",
+        "said": "相信计划"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 77万 · 资本与算力] 马斯克砸1000亿美元建算力帝国！年底狂揽66万张GB300，Grok 5稳了"
     },
     {
       "title": "只要6个月，SpaceX AI拿下第一！马斯克宣战OpenAI：3年干翻10年老将",
       "summary": "马斯克再次语出惊人，宣称成立仅3年的SpaceX AI业务将在6个月内拿下行业第一，直接反超已有10年历史的OpenAI和6年历史的Anthropic。他表示只要「二阶导数」保持强劲，登顶只是时间问题。不过这番豪言也引来不少开发者吐槽，直言这种话已经听了一年多，实际差距并没有明显缩小。",
-      "reads": "191万",
-      "ago": "6 小时前",
+      "reads": "312万",
+      "ago": "13 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -79,114 +104,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 191万 · 组织与人事] 只要6个月，SpaceX AI拿下第一！马斯克宣战OpenAI：3年干翻10年老将"
+      "rank": 4,
+      "line": "[榜第4位 · 312万 · 组织与人事] 只要6个月，SpaceX AI拿下第一！马斯克宣战OpenAI：3年干翻10年老将"
     },
     {
-      "title": "刚刚，小扎祭出VR头显的眼镜版！仅重100克，搭载AI原生系统，连发多款硬件炸场",
-      "summary": "Meta在Connect大会上彻底杀疯了，一口气把VR头显做成了仅重100克的眼镜！不仅首发搭载AI原生操作系统的Meta VR Glasses，还推出了12月发货的钥匙扣AI硬件Muse Charm。此外，获FDA批准的医疗级助听器功能、全天续航的纯音频眼镜，以及Lisa联名款等上百种新设计全面上线，标志着Meta正式向随身AI硬件生态大转型。",
-      "reads": "505万",
-      "ago": "8 小时前",
+      "title": "内部Slack已沸腾！OpenAI全员死磕周二DevDay，Astra迎最具野心冲刺",
+      "summary": "OpenAI 全员正在为 9 月 29 日周二的 DevDay 疯狂冲刺！研究员爆料内部 Slack 已经欢乐到沸腾，团队正处于「最具野心」的备战状态。随着全球开发者陆续抵达旧金山，Astra 即将带来的颠覆性新能力已经把社区的期待值拉满。",
+      "reads": "4.0万",
+      "ago": "48 分钟前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Meta VR Glasses发布：首款将完整VR体验集成到眼镜形态的产品，仅重约100克，搭载AI原生OS，支持眼动、手势和语音组合控制。",
-        "Muse智能体大升级：新增语音和实时视频支持，可在后台全天候运行处理任务，并将在未来几周内上线Meta Glasses。",
-        "全新AI硬件Muse Charm：一款可挂在钥匙扣上的便携AI设备，专为随时随地与Muse交互设计，计划于12月正式发货。",
-        "获FDA批准的助听器：Meta Glasses新增医疗级听力增强功能，可缓解轻中度听力损失，成本仅为普通助听器的一小部分。"
+        "OpenAI 研究员 Tibo Sottiaux 证实，团队目前正全力以赴备战周二（9月29日）的 DevDay。",
+        "他透露内部 Slack 最近「非常欢乐」，全员都处于高度专注的闭关状态。",
+        "此次更新被内部称为「最具野心的一次冲刺」，Astra 将在极短时间内让新事物成为可能。",
+        "即将发布的新功能不仅好玩，更被预告将「彻底改变你的工作方式」。"
       ],
       "quote": {
-        "who": "Kol Tregaskes",
+        "who": "J A Z I I",
         "role": "",
-        "said": "@steve_ike_ 我确实觉得中期来看是语音。长期来看是意识。中期内我们需要一个能对着说话的东西。🤔"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 505万 · 产品与生态] 刚刚，小扎祭出VR头显的眼镜版！仅重100克，搭载AI原生系统，连发多款硬件炸场"
-    },
-    {
-      "title": "现代AI之父加盟Sakana！90年代提出世界模型，现亲自操刀RSI实验室",
-      "summary": "现代 AI 之父 Jürgen Schmidhuber 正式加入 Sakana AI，出任首席科学顾问。他将在兼任现职的情况下，深度参与 Sakana AI 的 RSI（递归自我改进）实验室工作。早在算力比现在贵上百万倍的 90 年代，Schmidhuber 就开创了元学习和世界模型等前沿概念，这次顶级大脑的加盟标志着 Sakana AI 在机器自我进化路线上布下重兵。",
-      "reads": "20万",
-      "ago": "1 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "Sakana AI 官方宣布，公认的「现代 AI 之父」Jürgen Schmidhuber 正式出任公司首席科学顾问。",
-        "此次加盟并非全职跳槽，Schmidhuber 将在保留现有职务的同时，以兼任形式参与 Sakana AI 的工作。",
-        "他将重点参与 Sakana AI 旗下的 RSI Lab（递归自我改进实验室），致力于将数十年的理论积累转化为实际成果。",
-        "Sakana AI 联合创始人发文强调，Schmidhuber 早在 90 年代就开创了元学习、递归自我改进和世界模型等核心概念。"
-      ],
-      "quote": {
-        "who": "Sakana AI",
-        "role": "",
-        "said": "Jürgen Schmidhuber 作为首席科学顾问加入 Sakana AI Sakana AI 宣布，世界公认的现代 AI 之父 Jürgen Schmidhuber 将在兼任现职的同时，作为首席科学顾问加入 Sakana AI，并参与其 RSI Lab"
+        "said": "@thsottiaux 对即将到来的东西超级期待"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 20万 · 组织与人事] 现代AI之父加盟Sakana！90年代提出世界模型，现亲自操刀RSI实验室"
+      "line": "[榜第5位 · 4.0万 · 产品与生态] 内部Slack已沸腾！OpenAI全员死磕周二DevDay，Astra迎最具野心冲刺"
     },
     {
-      "title": "学起苹果Pro Max了！ChatGPT代码泄露500美元新套餐，下周DevDay见",
-      "summary": "OpenAI 正在悄悄憋大招！最新代码泄露显示，ChatGPT 即将推出全新的「PROMAX」高阶订阅计划，爆料称定价高达 500 美元。随着下周（9月29日）DevDay 的临近，这个专攻长时间运行任务的新套餐很可能正式亮相，而现有的 200 美元 Pro 用户已经开始担心自己的权益会被削弱了。",
-      "reads": "27万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "title": "刚刚，现代AI之父出山！Schmidhuber加盟Sakana AI，死磕AI自我进化",
+      "summary": "现代 AI 之父 Jürgen Schmidhuber 正式加入 Sakana AI，出任首席科学顾问。他将兼任现职，重点指导 RSI Lab（递归自我改进实验室）的自主研发工作。早在 90 年代算力比现在贵上百万倍时，他就开创了元学习和世界模型，这次强强联手标志着 Sakana AI 在 AI 自我进化领域的战略大升级。",
+      "reads": "32万",
+      "ago": "6 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "代码泄露：ChatGPT 内部代码中新增高亮的「Ja.PROMAX」选项，多次出现「chatgptpromax」标识，证实更高阶订阅计划正在开发中。",
-        "定价爆料：有爆料者透露，全新的 PROMAX 计划定价可能高达 500 美元，但具体的额度限制尚未公布。",
-        "功能猜测：该计划预计将解锁 ChatGPT 处理长时间运行任务（long-running tasks）的能力。",
-        "发布节点：随着下周（9月29日）OpenAI DevDay 的到来，官方极有可能公布关于该计划的更多细节。"
+        "Sakana AI 官方宣布，被公认为现代 AI 之父的 Jürgen Schmidhuber 正式出任首席科学顾问。",
+        "Schmidhuber 将在兼任现职的同时，深度参与 Sakana AI 的 RSI Lab（递归自我改进实验室）。",
+        "RSI Lab 旨在构建自主研发的基础设施，过去两年已系统性发布多项成果。",
+        "实验室代表性成果包括 LLM²（AI 自动化研究发明新优化算法）和 Darwin Gödel Machine（AI 智能体正在重写）。"
       ],
       "quote": {
-        "who": "ℏεsam",
+        "who": "Sakana AI",
         "role": "",
-        "said": "OpenAI 正在准备全新的 ChatGPT PROMAX 计划，之前他们暂停 200 美元 Pro 计划时，还真有人神预言了这波操作。"
+        "said": "我们在今年早些时候宣布了 RSI Lab： 过去两年里，我们系统性地发布了自主研发的基础设施： ▪ LLM²：AI 自动化研究以发明新的优化算法。 ▪ Darwin Gödel Machine：AI 智能体正在重写"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 27万 · 产品与生态] 学起苹果Pro Max了！ChatGPT代码泄露500美元新套餐，下周DevDay见"
+      "line": "[榜第6位 · 32万 · 组织与人事] 刚刚，现代AI之父出山！Schmidhuber加盟Sakana AI，死磕AI自我进化"
     },
     {
-      "title": "刚刚，太空版TPU来了！谷歌联手SpaceX，4块AI芯片直插轨道",
-      "summary": "刚刚，谷歌 CEO Sundar Pichai 正式宣布了一项疯狂计划：把 AI 算力送上太空！在名为 Project Suncatcher 的项目中，谷歌将联手 Planet 构建卫星原型，并搭乘 SpaceX 的 Transporter-18 任务，把 4 块 TPU 送入轨道。劈柴哥表示，太阳是终极能源，在太空利用太阳能是实现算力规模化的自然答案，AI 算力基础设施首次尝…",
-      "reads": "33万",
-      "ago": "4 小时前",
-      "category": "资本与算力",
+      "title": "刚刚，Opus 5.5实测曝光！无外部工具狂跑80分钟烧80美元，一次搞定动漫视频",
+      "summary": "知名AI学者Ethan Mollick在X上分享了Anthropic Opus 5.5模型的惊艳实测表现。在无任何外部工具和API辅助下，仅靠原生Claude Projects，模型耗时1小时20分钟、消耗约80美元API额度尝试破解手稿。虽然极端测试中触发安全护栏导致Fable切换至Opus，但其在零样本生成动漫视频等创意任务上展现出的能力，仍让开发者惊呼「强得离谱」。",
+      "reads": "5.2万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "谷歌 CEO Sundar Pichai 正式宣布 Project Suncatcher 项目，旨在测试 TPU 在太空环境下的存活与运行能力。",
-        "谷歌将与 Planet 合作构建卫星原型，并搭乘 SpaceX 的 Transporter-18 拼车任务发射升空。",
-        "此次任务计划将 4 块 TPU 送入轨道，标志着 AI 算力基础设施首次尝试脱离地球表面限制。",
-        "Pichai 在视频中表示，虽然很多人听到这个想法的第一反应是「太疯狂了」，但事实证明它是可行的。"
+        "知名学者Ethan Mollick曝光Opus 5.5实测，仅用一条提示词「One shot」生成包含片尾曲的完整动漫风格视频。",
+        "在破解手稿的极端测试中，模型在无外部工具、无API调用的纯原生Claude Projects环境下独立运行。",
+        "整个破解过程耗时1小时20分钟，消耗API额度约80美元，刚好卡在用户的每日Max限额内。",
+        "模型在破解中自主尝试了211种方法，其中31种被其标记为「前所未有」，但最终均进入死胡同。"
       ],
       "quote": {
-        "who": "Rohan Paul",
+        "who": "Ethan Mollick",
         "role": "",
-        "said": "在 Google 官方 YouTube 频道看完整视频："
+        "said": "@iruletheworldmo"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 33万 · 资本与算力] 刚刚，太空版TPU来了！谷歌联手SpaceX，4块AI芯片直插轨道"
+      "line": "[榜第7位 · 5.2万 · 模型与能力] 刚刚，Opus 5.5实测曝光！无外部工具狂跑80分钟烧80美元，一次搞定动漫视频"
     },
     {
       "title": "薅羊毛到头了！Anthropic恢复对拦截请求收费，精准打击模型蒸馏",
       "summary": "薅大模型羊毛的白嫖党要大出血了。Anthropic 官方宣布，即日起恢复对 Claude 响应前被安全机制拦截的请求收费。这次收费精准打击误报率极低的三个核心领域：生物学、蒸馏攻击和前沿大模型开发。官方透露，近期系统遭遇了协同攻击，此举正是为了用经济成本直接反制恶意套壳和滥用行为。",
-      "reads": "67万",
-      "ago": "7 小时前",
+      "reads": "103万",
+      "ago": "14 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -205,88 +205,113 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 67万 · 政策与安全] 薅羊毛到头了！Anthropic恢复对拦截请求收费，精准打击模型蒸馏"
+      "line": "[榜第8位 · 103万 · 政策与安全] 薅羊毛到头了！Anthropic恢复对拦截请求收费，精准打击模型蒸馏"
     },
     {
-      "title": "这算力要炸！Meta造出Agent的云电脑，10亿专属Linux虚拟机细节曝光",
-      "summary": "Meta Connect 大会期间，Muse 智能体的底层架构细节终于浮出水面。官方确认，每个用户的 Muse 都将运行在专属的云端虚拟机（VM）中，这是一个完全隔离的 Linux 环境，专门用来安全存放连接服务的数据和凭证。这意味着 10 亿用户将对应 10 亿台「云电脑」，彻底告别共享集群模式，但也指向了极其恐怖的 CPU 和内存算力需求。",
-      "reads": "23万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
+      "title": "黄仁勋怒批AI意识论：别拿工程词汇吓唬美国公众，AI只是软件",
+      "summary": "针对近期愈演愈烈的「AI意识论」，黄仁勋终于出面降温了。他在采访中直言，不要把「衍生」、「杀死」这些工程词汇误当成机器有意识的证据，这纯粹是在吓唬美国公众。他重申AI本质上依然是软件，绝不是装在机器里的人类大脑，呼吁整个科技行业认真对待技术伦理边界。",
+      "reads": "1.5万",
+      "ago": "44 分钟前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "架构定调：Meta 官方确认 Muse 智能体将运行在用户专属的云端虚拟机（VM）中。",
-        "物理隔离：每个 VM 都是一个独立的 Linux 盒子（Linux box），彻底告别大模型常用的共享集群模式。",
-        "隐私护城河：该隔离环境专门用于安全存储用户连接任何服务的所有数据与凭证。",
-        "产品形态：Muse 被明确定义为「云端专属电脑」，用户与自己的 AI 共享这一独立计算空间。"
+        "黄仁勋在采访中强调，科技行业必须承担起认真对待AI挑战的责任。",
+        "他将自己定义为「负责任的乐观主义者」，认为社会在享受技术红利的同时必须正视风险。",
+        "针对公众对AI的恐惧，黄仁勋警告称「不能拿这些东西开玩笑，我们在吓唬美国公众」。",
+        "他特别澄清了代码中常见的「spawn」、「parent」、「child」和「kill」等工程术语。"
       ],
       "quote": {
-        "who": "tae kim",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "“你专属云端电脑里的 AI 智能体。你和你的 Muse 共享云端的专属电脑。这是你的 Muse 存在的地方，你连接的任何服务的所有数据和凭证也都安全存放在这。每个虚拟机（VM）都是一个隔离的 Linux 盒子，配有"
+        "said": "Jensen Huang：别把工程词汇误当成机器有意识的证据。AI 仍然是软件，不是装在机器里的人类大脑。 “我们不能拿这些东西开玩笑，我们在吓唬美国公众。” 像“spawn”、“parent”、“child”和“kill”这样的词有"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 23万 · 产品与生态] 这算力要炸！Meta造出Agent的云电脑，10亿专属Linux虚拟机细节曝光"
+      "line": "[榜第9位 · 1.5万 · 政策与安全] 黄仁勋怒批AI意识论：别拿工程词汇吓唬美国公众，AI只是软件"
     },
     {
-      "title": "杀疯了！Opus 5.5登顶WebDev暴击GPT-6 Astra，价格便宜60%",
-      "summary": "Anthropic全新Claude 5.5系列首个模型Opus 5.5 (Max)正式上线，直接以1818分登顶Code Arena: WebDev榜单！它不仅比第二名GPT-6 Astra (Max)领先26分，混合价格更是低了60%，仅为16美元/Mtoken。相比旧版Opus 5，新模型性能暴涨126分，运行成本却便宜了40%，表现直逼旗舰Fable 5.1。而同期出炉的…",
-      "reads": "21万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
+      "title": "突袭Agent榜！马斯克Grok 4.7空降第16名，单次任务成本涨至1.14美元",
+      "summary": "Arena 官方正式上线了全新改版的排行榜概览，把分散的大模型实时跑分全聚到了一个枢纽里。最引人注目的是 Agent Arena 的最新实测数据：xAI 旗下的 Grok 4.7 (xHigh) 突然空降第 16 名。虽然净提升分数比前代涨了 3.96%，但价格也跟着水涨船高，单次任务中位成本直接来到了 1.14 美元。",
+      "reads": "4.1万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Anthropic发布Claude 5.5系列首个模型Claude Opus 5.5 (Max)。",
-        "Opus 5.5 (Max)以1818分登顶Code Arena: WebDev榜单，重塑帕累托前沿。",
-        "性能稳超OpenAI旗舰，比第二名GPT-6 Astra (Max)领先26分。",
-        "混合价格仅为16美元/Mtoken，比GPT-6 Astra (Max)低60%。"
+        "Arena 上线全新排行榜概览（Leaderboard Overview），定位为单一中心枢纽，汇聚所有实时测试信号。",
+        "Agent Arena 榜单数据更新，xAI 的 Grok 4.7 (xHigh) 空降第 16 名。",
+        "性能方面，Grok 4.7 相比前代版本有所进步，净提升分数（net improvement score）达到 +3.96%。",
+        "价格同步上涨，Grok 4.7 每任务中位成本达 1.14 美元，与 Grok 4.6 (High) 形成鲜明对比。"
       ],
       "quote": {
         "who": "Arena.ai",
         "role": "",
-        "said": "GPT-6 Luna (Max) 的真实测试结果出炉了。它刚以 1593 分拿下 Code Arena: WebDev 的第 24 名！ @OpenAI 的 GPT-6 Luna (Max) 相比目前排名第 41 的 GPT-5.6 Luna (xHigh) 有了 74 分的显著提升。 最新的 Luna 表现与成本更低的 相当"
+        "said": "在 Agent Arena 中，我们用来自全球用户社区的数百万个真实的、长周期的智能体任务来评估模型。模型可以访问网络搜索、文件系统和终端工具来完成复杂的工作流。 排行榜衡量模型在结果上的表现，相对于"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 21万 · 模型与能力] 杀疯了！Opus 5.5登顶WebDev暴击GPT-6 Astra，价格便宜60%"
+      "line": "[榜第10位 · 4.1万 · 产品与生态] 突袭Agent榜！马斯克Grok 4.7空降第16名，单次任务成本涨至1.14美元"
     },
     {
-      "title": "4000亿算力计划悬了！Oracle旗舰数据中心断电，发不可抗力声明",
-      "summary": "OpenAI 高达4000亿美元的 Stargate 算力计划突遭重挫。因新墨西哥州两次拒绝17英里天然气管道的通行许可，Oracle 为其建设的 Project Jupiter 旗舰数据中心面临断电危机，被迫发出不可抗力通知。目前 Oracle 背负着1670亿美元巨额债务，信用评级仅比垃圾级高一档，这场AI算力扩张正深陷电力瓶颈与监管泥潭。",
-      "reads": "18万",
-      "ago": "4 小时前",
-      "category": "资本与算力",
+      "title": "刚刚，Midjourney实时版突袭上线！V8.2编辑模型大换血，出图不用等了",
+      "summary": "Midjourney 深夜突发多项重磅更新，最让人惊喜的是在 Alpha 网站悄悄上线了实时生成模型的早期预览版！此外，官方在 v8.1 和 v8.2 中推出了全新的无缝图案 --tile 功能，并升级了局部重绘，现在只会精准修改你选定的像素。同时，V8.2 编辑模型正式取代 omni-reference，全面支持指令编辑和最多 4 张图的以图生图，交互式生图体验直接拉满。",
+      "reads": "1.3万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Oracle 就新墨西哥州的 Project Jupiter 数据中心发出不可抗力通知，该中心是为 OpenAI 4000亿美元 Stargate 计划建设…",
-        "园区供电极度依赖一条17英里的天然气管道来驱动 Bloom Energy 燃料电池，但新墨西哥州土地专员已在3月和7月两次拒绝其通行权许可。",
-        "官方给出的拒批理由包括燃料电池排放、当地水资源压力，以及管道穿过州信托土地却未给州政府带来收入。",
-        "尽管 Energy Transfer 在第二次被拒后将管道改道至联邦土地，但项目开工已被严重推迟，双方即将面临难看的法律战。"
+        "实时模型初现：Midjourney 在其实验性 Alpha 网站上，悄悄上线了实时生成模型（real-time models）的早期预览版。",
+        "无缝图案升级：官方在 v8.1 和 v8.2 版本中，正式推出了用于生成无缝图案的新版「--tile」功能。",
+        "像素级精准重绘：新版局部重绘（inpainting）功能发布，现在只会改变用户选定的像素，控制精度大幅提升。",
+        "V8.2 编辑模型上位：官方确认，全新的 V8.2 编辑模型已全面取代此前的 omni-reference 功能。"
       ],
       "quote": {
-        "who": "Hedgie",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "@ReiteConMig0 🦔 一如既往地感谢你提供的视觉图！"
+        "said": "@midjourney 我很喜欢我们现在能收到很多定期更新。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 18万 · 资本与算力] 4000亿算力计划悬了！Oracle旗舰数据中心断电，发不可抗力声明"
+      "line": "[榜第11位 · 1.3万 · 产品与生态] 刚刚，Midjourney实时版突袭上线！V8.2编辑模型大换血，出图不用等了"
+    },
+    {
+      "title": "羊毛薅起来！Perplexity专为Agent打造极速搜索，Hermes全线免费用",
+      "summary": "Nous Research 官方宣布，Hermes Agent 的网络搜索功能现已全面升级，主打极速且免费。这次升级由 Perplexity AI 专为智能体打造的 Fast Search 提供底层支持。最良心的是，该功能对所有 Nous Portal 用户层级完全免费开放，直接把智能体获取实时网络信息的门槛和成本打了下来。",
+      "reads": "14万",
+      "ago": "9 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Nous Research 官方宣布，Hermes Agent 的网络搜索功能现已实现快速且免费。",
+        "该搜索功能由 Perplexity AI 专为智能体打造的 Fast Search 提供底层支持。",
+        "Perplexity 官方确认，Fast Search 对所有 Nous Portal 用户层级均免费开放。",
+        "此次功能升级的核心目的，是大幅降低 AI 智能体获取和使用网络实时信息的门槛与成本。"
+      ],
+      "quote": {
+        "who": "Nous Research",
+        "role": "",
+        "said": "Hermes Agent 的网络搜索现在又快又免费。 @perplexity_ai 为 AI 智能体打造了 Fast Search，并且对所有 Nous Portal 用户层级免费。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 14万 · 产品与生态] 羊毛薅起来！Perplexity专为Agent打造极速搜索，Hermes全线免费用"
     },
     {
       "title": "听劝！Claude Code官方放弃砍掉Plan Mode，直接重构为内置Mod",
       "summary": "Claude Code 核心开发者原本打算砍掉 Plan Mode，结果引发社区大量反馈。官方听劝后火速调整方案，宣布不仅保留该功能，还要将其重构为内置 Mod。现在开发者不仅能自定义提示词、创建专属模式，还能随意重新绑定 Shift+Tab 快捷键，把工具的掌控权彻底交还给用户。",
-      "reads": "14万",
-      "ago": "4 小时前",
+      "reads": "23万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -304,64 +329,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 14万 · 产品与生态] 听劝！Claude Code官方放弃砍掉Plan Mode，直接重构为内置Mod"
-    },
-    {
-      "title": "刚刚，小扎掏出Muse的硬件版！100克VR眼镜惊艳Palmer Luckey，支持USB-C直连",
-      "summary": "小扎在 Meta Connect 大会上放了波大招，不仅宣布 Meta 眼镜将在未来几周迎来全上下文 Muse 的重大升级，还直接掏出了 Muse 的硬件版——内置完整智能体的钥匙扣设备 Muse Charm，定于 12 月发货。此外，仅重 100 克的全新 VR 眼镜也惊艳亮相，Oculus 创始人 Palmer Luckey 现场试戴后对它的光学防眩光和 USB-C 直连功…",
-      "reads": "25万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Meta 眼镜将在未来几周内获得重大 AI 升级，支持具备全上下文能力的 Muse 在后台运行。",
-        "小扎断言行业把 AI 智能体当成单机游戏是错的，真正的突破在于智能体之间的互动，且 Meta 内部已经跑通。",
-        "全新钥匙扣设备 Muse Charm 正式揭晓，内置包含语音和虚拟形象的完整 Muse 智能体，将于 12 月发货。",
-        "新款 VR Glasses 重量仅为 100 克，Oculus 创始人 Palmer Luckey 现场试戴并给出极高评价。"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": "*拒绝* 我的错大家"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 25万 · 产品与生态] 刚刚，小扎掏出Muse的硬件版！100克VR眼镜惊艳Palmer Luckey，支持USB-C直连"
-    },
-    {
-      "title": "真把Gemini送上天！首批4块太空版TPU定档10月，谷歌联手SpaceX建轨道算力",
-      "summary": "地球上的算力中心已经不够卷了，谷歌直接把目光投向了太空。10月1日，谷歌将搭乘 SpaceX 猎鹰9号火箭，把搭载着4块定制 TPU 的实验性 AI 卫星送入近地轨道。作为 Project Suncatcher 项目的关键一步，这颗卫星不仅要测试芯片在极端环境下的存活率，其算力甚至足够在太空中直接回答简单的 Gemini 查询，标志着首个太空版 AI 数据中心正式开建。",
-      "reads": "14万",
-      "ago": "4 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "谷歌确认将于 10 月 1 日发射一颗实验性 AI 卫星，正式启动太空算力布局。",
-        "此次发射将搭乘马斯克旗下的 SpaceX 猎鹰 9 号火箭，将硬件送入近地轨道。",
-        "卫星上搭载了 4 块谷歌定制的商用级 TPU 芯片，这是业界首次明确披露将此类芯片送入太空进行长期运行测试。",
-        "该计划是谷歌 Project Suncatcher 项目的一部分，终极目标是在太空中构建完整的 AI 数据中心。"
-      ],
-      "quote": {
-        "who": "Wall St Engine",
-        "role": "",
-        "said": "Google $GOOGL 将于 10 月 1 日搭乘 SpaceX 猎鹰 9 号火箭，将其定制的 AI 芯片送入太空，以测试它们能否在轨道上存活并可靠运行。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 14万 · 资本与算力] 真把Gemini送上天！首批4块太空版TPU定档10月，谷歌联手SpaceX建轨道算力"
+      "line": "[榜第13位 · 23万 · 产品与生态] 听劝！Claude Code官方放弃砍掉Plan Mode，直接重构为内置Mod"
     },
     {
       "title": "库克亮出端侧AI家底！从iPhone到Mac，最高支持1.6万亿参数模型",
       "summary": "苹果的端侧 AI 底牌终于亮出来了。有人爆料了一张苹果官方的对比图表，一口气晒出了从 iPhone 到 Mac Studio 集群等 6 大产品线的本地 AI 推理算力。最离谱的是，这套硬件矩阵最高能支持运行 1.6 万亿参数的大模型。这意味着未来更多复杂的 AI 任务直接在本地就能跑完，主打一个离线和绝对的隐私安全。",
-      "reads": "17万",
-      "ago": "5 小时前",
+      "reads": "28万",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -379,33 +354,58 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 17万 · 产品与生态] 库克亮出端侧AI家底！从iPhone到Mac，最高支持1.6万亿参数模型"
+      "rank": 14,
+      "line": "[榜第14位 · 28万 · 产品与生态] 库克亮出端侧AI家底！从iPhone到Mac，最高支持1.6万亿参数模型"
     },
     {
-      "title": "突发！Anthropic上市前夜大动作，7位创始人要拿50.1%绝对控制权",
-      "summary": "Anthropic 在 IPO 前夕正酝酿一场重大的权力防御战。据 The Information 报道，CEO Dario Amodei 及其余 6 位联合创始人正寻求获得公司 50.1% 的绝对投票权。这一举措效仿了 Palantir 的创始人控制架构，旨在确保核心团队在上市后依然能牢牢把控公司的决策权与技术路线。",
-      "reads": "3.4万",
-      "ago": "1 小时前",
-      "category": "组织与人事",
+      "title": "4000亿算力计划悬了！Oracle旗舰数据中心断电，发不可抗力声明",
+      "summary": "OpenAI 高达4000亿美元的 Stargate 算力计划突遭重挫。因新墨西哥州两次拒绝17英里天然气管道的通行许可，Oracle 为其建设的 Project Jupiter 旗舰数据中心面临断电危机，被迫发出不可抗力通知。目前 Oracle 背负着1670亿美元巨额债务，信用评级仅比垃圾级高一档，这场AI算力扩张正深陷电力瓶颈与监管泥潭。",
+      "reads": "22万",
+      "ago": "11 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "据 The Information 报道，Anthropic 正要求股东批准一项全新的公司架构。",
-        "核心诉求是赋予 CEO Dario Amodei 及其他 6 位联合创始人合计 50.1% 的投票权。",
-        "这一架构调整发生在 Anthropic 筹备 IPO 的前夕，意在提前锁定控制权。",
-        "该方案被称为「Palantir 式」的创始人架构（founder structure），即通过双层股权确保创始团队的主导地位。"
+        "Oracle 就新墨西哥州的 Project Jupiter 数据中心发出不可抗力通知，该中心是为 OpenAI 4000亿美元 Stargate 计划建设…",
+        "园区供电极度依赖一条17英里的天然气管道来驱动 Bloom Energy 燃料电池，但新墨西哥州土地专员已在3月和7月两次拒绝其通行权许可。",
+        "官方给出的拒批理由包括燃料电池排放、当地水资源压力，以及管道穿过州信托土地却未给州政府带来收入。",
+        "尽管 Energy Transfer 在第二次被拒后将管道改道至联邦土地，但项目开工已被严重推迟，双方即将面临难看的法律战。"
       ],
       "quote": {
-        "who": "Rohan Paul",
+        "who": "Hedgie",
         "role": "",
-        "said": "Anthropic 希望股东批准一项新架构，赋予 CEO Dario Amodei 及其 6 位联合创始人 50.1% 的总投票权。 - 来自 The Information"
+        "said": "@ReiteConMig0 🦔 一如既往地感谢你提供的视觉图！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 22万 · 资本与算力] 4000亿算力计划悬了！Oracle旗舰数据中心断电，发不可抗力声明"
+    },
+    {
+      "title": "拿着1亿美金买GPU，被告知等半年！英伟达5880亿表外担保撑起疯狂算力局",
+      "summary": "GPU现货市场已经扭曲到了离谱的程度。SemiAnalysis最新披露，英伟达的表外担保规模已突破5880亿美元，预计到2031年将飙升至2万亿美元。算力紧缺让卖方市场极度疯狂，手握1亿美元预算的客户在CoreWeave买卡竟被告知要排队到明年5月，巨大的现货溢价让所有手里有GPU的人「看起来都像个天才」。",
+      "reads": "7.7万",
+      "ago": "7 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "SemiAnalysis分析师指出，当前GPU价格曲线存在极度离谱的现货溢价（backwardation），客户愿意为几周内能拿到的芯片支付任何代价。",
+        "算力卖方市场极其强势，哪怕供应商的Kubernetes完全崩溃、存储勉强能用，只要手里有GPU，就能轻松赚取高额利润。",
+        "英伟达的表外担保（off-balance-sheet backstop）规模目前已超过5880亿美元。",
+        "按照当前趋势预测，到2031年底，英伟达的表外担保规模将逼近2万亿美元。"
+      ],
+      "quote": {
+        "who": "Fireside Alpha",
+        "role": "",
+        "said": "SemiAnalysis 的 Jordan Nanos 说，CoreWeave 的订单实在太满了，一个拿着 1 亿美元预算的客户被告知要等到 5 月，所以 Nebius 趁机抢占了市场 “他们在服务中端市场。CoreWeave 设定了标准。我的意思是，就……而言他们是最好的"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 3.4万 · 组织与人事] 突发！Anthropic上市前夜大动作，7位创始人要拿50.1%绝对控制权"
+      "line": "[榜第16位 · 7.7万 · 产品与生态] 拿着1亿美金买GPU，被告知等半年！英伟达5880亿表外担保撑起疯狂算力局"
     }
   ],
   "board_count": 16,
