@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-25 06:19:00 +0800",
+  "fetched_at": "2026-09-25 09:25:10 +0800",
   "today": "09/25",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -80,28 +80,16 @@
       "line": "[09/24 10:17] 中文用户全线中招！Claude网页限速，只因回复里有汉字 · https://www.aiera.com.cn/asi-item.html?id=tgf0d764&from=yuanyuan"
     },
     {
-      "time": "07:48",
-      "date": "09/24",
-      "title": "刚刚，Claude发现神秘DNA系统！狂烧21 亿Token挖出「上帝手术刀」",
-      "summary": "Anthropic分子生物学实验室首个成果：950个Claude跑21小时、耗约2.1亿Token，在噬菌体DNA里挖出酷似CRISPR的全新酶系统ART，经人类湿实验确认。",
-      "source": "新智元",
-      "id": "tgb521bc",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgb521bc&from=yuanyuan",
+      "time": "05:50",
+      "date": "09/25",
+      "title": "Meta首席AI官亲自甩出下载链接，摩根大通断言Muse将主导AI圈",
+      "summary": "据 CNBC 报道，摩根大通刚发布一份报告，断言 Meta 的 Muse Agent 将主导 AI 领域。紧接着，Meta 首席 AI 官 Alexandr Wang 在 X…",
+      "source": "X/alexandr_wang",
+      "id": "6a7b552a",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=6a7b552a&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/24 07:48] 刚刚，Claude发现神秘DNA系统！狂烧21 亿Token挖出「上帝手术刀」 · https://www.aiera.com.cn/asi-item.html?id=tgb521bc&from=yuanyuan"
-    },
-    {
-      "time": "07:47",
-      "date": "09/24",
-      "title": "GPT-6缓存输入最高省九成，你的账单为啥没打一折？",
-      "summary": "OpenAI升级GPT-6提示缓存，命中缓存的输入只收一成价，但首次写入要付1.25倍。重复材料最多省78.5%，总账单能省多少，全看复用率。",
-      "source": "新智元",
-      "id": "tgad8847",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgad8847&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/24 07:47] GPT-6缓存输入最高省九成，你的账单为啥没打一折？ · https://www.aiera.com.cn/asi-item.html?id=tgad8847&from=yuanyuan"
+      "line": "[09/25 05:50] Meta首席AI官亲自甩出下载链接，摩根大通断言Muse将主导AI圈 · https://www.aiera.com.cn/asi-item.html?id=6a7b552a&from=yuanyuan"
     },
     {
       "time": "04:31",
@@ -222,6 +210,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=c5ccebd5&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/24 09:12] 接入苹果 Siri 根本没人用！OpenAI 承认合作搞砸，反遭机密诉讼 · https://www.aiera.com.cn/asi-item.html?id=c5ccebd5&from=yuanyuan"
+    },
+    {
+      "time": "07:48",
+      "date": "09/24",
+      "title": "刚刚，Claude发现神秘DNA系统！狂烧21 亿Token挖出「上帝手术刀」",
+      "summary": "Anthropic分子生物学实验室首个成果：950个Claude跑21小时、耗约2.1亿Token，在噬菌体DNA里挖出酷似CRISPR的全新酶系统ART，经人类湿实验确认。",
+      "source": "新智元",
+      "id": "tgb521bc",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgb521bc&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/24 07:48] 刚刚，Claude发现神秘DNA系统！狂烧21 亿Token挖出「上帝手术刀」 · https://www.aiera.com.cn/asi-item.html?id=tgb521bc&from=yuanyuan"
+    },
+    {
+      "time": "07:47",
+      "date": "09/24",
+      "title": "GPT-6缓存输入最高省九成，你的账单为啥没打一折？",
+      "summary": "OpenAI升级GPT-6提示缓存，命中缓存的输入只收一成价，但首次写入要付1.25倍。重复材料最多省78.5%，总账单能省多少，全看复用率。",
+      "source": "新智元",
+      "id": "tgad8847",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgad8847&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/24 07:47] GPT-6缓存输入最高省九成，你的账单为啥没打一折？ · https://www.aiera.com.cn/asi-item.html?id=tgad8847&from=yuanyuan"
     },
     {
       "time": "03:28",
@@ -644,6 +656,18 @@
       "line": "[09/24 00:00] 做饭满手油污怎么翻菜谱？Meta直接把纽约时报烹饪指南塞进眼镜 · https://www.aiera.com.cn/asi-item.html?id=9f819042&from=yuanyuan"
     },
     {
+      "time": "00:00",
+      "date": "09/24",
+      "title": "只要3小时！黑客用Claude拿下云环境最高权限，连代码都不用自己写",
+      "summary": "拿到一枚开发者 Token，让 Claude 自己去摸系统、写漏洞利用代码，大约 3 小时，攻击者就拿下了一个云环境的最高权限。 这是 Anthropic 刚发布的 154…",
+      "source": "fortune.com",
+      "id": "b56141c8",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=b56141c8&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/24 00:00] 只要3小时！黑客用Claude拿下云环境最高权限，连代码都不用自己写 · https://www.aiera.com.cn/asi-item.html?id=b56141c8&from=yuanyuan"
+    },
+    {
       "time": "18:58",
       "date": "09/23",
       "title": "「一人剧组」杀疯了！LibTV 1.5，一下午拍完一集爆款AI漫剧",
@@ -702,30 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=fd7bc3b7&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/23 14:13] AI降价到底有多疯？做同等难度的题GPT-5.6成本狂跌725倍 · https://www.aiera.com.cn/asi-item.html?id=fd7bc3b7&from=yuanyuan"
-    },
-    {
-      "time": "13:58",
-      "date": "09/23",
-      "title": "年初还在痛骂AI编程，Minecraft之父滑跪认错，马斯克前排吃瓜",
-      "summary": "Minecraft 之父 Notch 认错了。 他在 X 上发文，承认自己正在享受 Vibe Coding 的乐趣，还补了一句：「我可能有那么一点点、微乎其微地错了。」…",
-      "source": "X/MaxForAI",
-      "id": "40f74c59",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=40f74c59&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/23 13:58] 年初还在痛骂AI编程，Minecraft之父滑跪认错，马斯克前排吃瓜 · https://www.aiera.com.cn/asi-item.html?id=40f74c59&from=yuanyuan"
-    },
-    {
-      "time": "12:44",
-      "date": "09/23",
-      "title": "首创！张亚勤定义PSI（Physical Self-improvement），域变换Z-Trans让机器人实现自进化",
-      "summary": "清华AIR与域变换发布第二代Zeva模型Zeva-Ego：用约1万小时人类第一视角视频抬高机器人物理先验，再把因果记忆注入VLA动作专家，冻结参数也能越用越强。",
-      "source": "新智元",
-      "id": "tg04aecb",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg04aecb&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/23 12:44] 首创！张亚勤定义PSI（Physical Self-improvement），域变换Z-Trans让机器人实现自进化 · https://www.aiera.com.cn/asi-item.html?id=tg04aecb&from=yuanyuan"
     }
   ],
   "feed_count": 60,
