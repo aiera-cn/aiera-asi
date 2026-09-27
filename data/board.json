@@ -3,15 +3,40 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-27 06:42:11 +0800",
+  "fetched_at": "2026-09-27 09:21:06 +0800",
   "today": "09/27",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "直接绑定银行卡！马斯克宣布Grok接管财务，AI正式杀入高敏感金融圈",
+      "summary": "马斯克宣布 Grok Bot 正式上线 Finance 集成功能，现在可以直接绑定你的银行、信用卡和投资账户了。这意味着大模型不再只做信息检索，而是真正跨入了高敏感度的金融操作执行层。有开发者实测后感叹，这是除了本地自定义模型外，唯一敢把财务数据交托给它的 AI，Grok 迎来了关键转折点。",
+      "reads": "658万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "马斯克宣布 Grok Bot 新增 Finance 集成功能。",
+        "该功能支持用户直接绑定银行、信用卡以及投资账户。",
+        "Grok Bot 现在可以协助用户管理日常开销与投资资产。",
+        "开发者 Brian Roemmele 经过实测，称这一进展为 Grok Bot 的「转折点」。"
+      ],
+      "quote": {
+        "who": "Brian Roemmele",
+        "role": "",
+        "said": "我一直在测试这个，我相信我们正处于 Grok Bot 的转折点。 除了我本地自定义的 AI 之外，它是唯一一个我在财务方面信任的 AI。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 658万 · 产品与生态] 直接绑定银行卡！马斯克宣布Grok接管财务，AI正式杀入高敏感金融圈"
+    },
+    {
       "title": "突发！OpenAI全员重置Codex额度，DevDay前夕常驻助手「o」代码泄露",
       "summary": "OpenAI Codex 突发宕机，官方随后宣布恢复并为所有付费用户重置了 Codex 和 ChatGPT Work 的使用额度，还透露内部有一个「备用 Codex」专门救场。与此同时，下周二的 DevDay 前夕遭遇密集泄密：全新常驻助手「o」现身代码，支持 63 种语言并覆盖 100 美元在内的所有 Pro 订阅档；Ultrafast 极速服务层级正全面接入各项 API。此…",
-      "reads": "463万",
-      "ago": "2 小时前",
+      "reads": "483万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -29,39 +54,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 463万 · 产品与生态] 突发！OpenAI全员重置Codex额度，DevDay前夕常驻助手「o」代码泄露"
+      "rank": 2,
+      "line": "[榜第2位 · 483万 · 产品与生态] 突发！OpenAI全员重置Codex额度，DevDay前夕常驻助手「o」代码泄露"
     },
     {
-      "title": "倒计时72小时！OpenAI全天候智能体「o」即将炸场，20刀Plus用户却慌了",
-      "summary": "距离9月29日的OpenAI DevDay只剩最后72小时，官方终于放出预告，暗示要亮出憋了许久的大招。社区爆料称，本次大会的绝对主角将是代号为「o」的全天候AI智能体，专攻长流程复杂任务。不过坏消息是，这项标志着AI走向自主执行的高级功能，传闻将仅限Pro计划用户使用，每个月交20美元的Plus老粉们可能连预览资格都没有。",
-      "reads": "35万",
-      "ago": "1 小时前",
+      "title": "倒计时72小时！OpenAI全天候Agent泄露，代号「o」基于Astra打造",
+      "summary": "距离 9 月 29 日的 OpenAI DevDay 仅剩 72 小时，官方预告图暗示大招即将登场。社区爆料称，本次大会的核心将是代号为「o」的全天候 AI 智能体，底层或由现役旗舰 Astra 的变体驱动，专为处理长时间运行任务设计。目前传闻该功能将包含在所有 Pro 计划中，这让每月交 20 美元的 Plus 用户开始担忧自己能否获得预览权限。",
+      "reads": "51万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI官方发布倒计时，确认DevDay 2026将于太平洋时间9月29日上午10点在旧金山举行。",
-        "官方宣传图展示了三个彩色球体吉祥物坐在飞机上，其中绿色角色正在使用贴有「DevDay」和代码贴纸的笔记本电脑。",
-        "社区爆料指出，本次大会的核心看点是代号为「o」的全天候AI智能体（always-on agents）。",
-        "这类新型智能体专为处理长流程任务设计，标志着OpenAI的产品形态正从对话式向自主执行任务转变。"
+        "OpenAI 官方宣布距离 DevDay 还有 72 小时（即 9 月 29 日举行），并配文「是时候展示我们的成果了」。",
+        "官方宣传图展示了三个彩色球体吉祥物坐在飞机上，其中绿色角色正在使用贴有 DevDay 贴纸的电脑。",
+        "社区普遍预测，OpenAI 将在下周活动中发布名为「o」的全天候 AI 智能体（always-on agents）。",
+        "爆料指出，该智能体专为处理长时间运行任务设计，底层可能由现役旗舰 Astra 的变体驱动。"
       ],
       "quote": {
-        "who": "J A Z I I",
+        "who": "Derya Unutmaz, MD",
         "role": "",
-        "said": "@TokenGremlin 哎呀这些小东西太可爱了"
+        "said": "非常激动，不到 72 小时就要去参加 OpenAI DevDay 了！这次绝对具有极其重大的历史意义！✨🚀"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 35万 · 产品与生态] 倒计时72小时！OpenAI全天候智能体「o」即将炸场，20刀Plus用户却慌了"
+      "rank": 3,
+      "line": "[榜第3位 · 51万 · 产品与生态] 倒计时72小时！OpenAI全天候Agent泄露，代号「o」基于Astra打造"
     },
     {
       "title": "消耗74%额度突然满血复活？Codex全球大重置生效，开发者：这种补偿多来点",
       "summary": "OpenAI Codex 服务在经历宕机后终于恢复，官方宣布对所有用户进行全球额度重置。研究员 Tibo 确认重置已全部生效，标志着此次导致硅谷部分开发工作暂停的事故处理告一段落。虽然仍有零星路由超时，但核心服务已恢复，不少消耗了大量额度的开发者因祸得福，直呼这种补偿「总是受欢迎的」。",
-      "reads": "42万",
-      "ago": "3 小时前",
+      "reads": "66万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,39 +104,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 42万 · 产品与生态] 消耗74%额度突然满血复活？Codex全球大重置生效，开发者：这种补偿多来点"
+      "rank": 4,
+      "line": "[榜第4位 · 66万 · 产品与生态] 消耗74%额度突然满血复活？Codex全球大重置生效，开发者：这种补偿多来点"
     },
     {
-      "title": "每个动作都弹警告？大佬担忧欧洲搞出「AI版GDPR」，智能体将击穿企业防线",
-      "summary": "a16z最新播客邀请了Box CEO等多位大佬，对当前的AI监管和智能体发展开炮。他们指出，现在的AI监管完全是盲目立法，欧洲甚至可能搞出「AI版GDPR」，让智能体的每个动作都弹安全警告。更致命的是，现有的企业安全防线基于「人类会疲倦」的假设，而不知疲倦的AI智能体将彻底击穿这一防线。",
-      "reads": "14万",
-      "ago": "2 小时前",
+      "title": "糟糕，欧洲打算用GDPR管AI！Agent每动一下都弹警告，大佬吐槽：像安全气囊",
+      "summary": "a16z最新播客邀请Box CEO等大佬，探讨AI监管与智能体发展。嘉宾们火力全开，不仅吐槽当前AI监管是「先射箭再画靶」，更担忧欧洲会直接用GDPR管AI，导致Agent每动一下都要弹安全警告。此外，大佬们警告AI Agent将打破企业安全假设，不知疲倦的尝试简直像对内部API发起DDoS攻击。",
+      "reads": "19万",
+      "ago": "4 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "a16z播客邀请Box CEO Aaron Levie、Steven Sinofsky和Martin Casado探讨AI监管与智能体发展。",
-        "嘉宾直言当前AI监管是盲目立法，大多数辩论发生在界定清楚风险之前。",
-        "实验室错过了杰文斯悖论（Jevon's Paradox），因为大厂造的是「会说话的实体」，而软件真正需要的是「做选择的模型」。",
-        "大佬担忧欧洲直接套用GDPR模式管AI，导致没人想要的中间地带：AI合法，但智能体的每个动作都伴随繁琐的安全警告。"
+        "a16z播客邀请Box CEO Aaron Levie、Steven Sinofsky及Martin Casado，探讨AI监管与2028年AI选举。",
+        "嘉宾认为当前AI监管辩论发生在风险尚未被清晰界定之前，属于「先射箭再画靶」。",
+        "Martin Casado指出实验室错过了Jevparadox，软件需要的是能做出选择的模型，而不是只会生成文本的LLM。",
+        "Steven Sinofsky担忧欧洲会用GDPR逻辑监管AI，导致Agent每次接触第三方产品都伴随安全警告，如同汽车安全气囊般繁琐。"
       ],
       "quote": {
         "who": "a16z",
         "role": "",
-        "said": "Steven Sinofsky 和 Aaron Levie 谈论企业安全背后的假设：人们 99% 的时间都在做正确的事，而 AI 智能体即将打破这一点。 Steven：“AI 能做的是在极短的时间内尝试所有这些事情。它不会累。它不会无聊。” “你"
+        "said": "Steven Sinofsky 谈为什么 Jev 解决了他对 AI 最早的槽点：自然语言从来都不是什么高效的交互界面。 “问问你自己，有多少人真的、真的非常擅长提问。开会时能问出个好问题的人连一半都不到。” “然后又有多少次"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 14万 · 政策与安全] 每个动作都弹警告？大佬担忧欧洲搞出「AI版GDPR」，智能体将击穿企业防线"
+      "rank": 5,
+      "line": "[榜第5位 · 19万 · 政策与安全] 糟糕，欧洲打算用GDPR管AI！Agent每动一下都弹警告，大佬吐槽：像安全气囊"
     },
     {
       "title": "深夜宕机逼停硅谷打工人！OpenAI紧急滑跪，Codex与ChatGPT付费额度全重置",
       "summary": "深夜的一场突发宕机，直接把硅谷程序员们的代码进度逼停了。好在 OpenAI 响应极快，Codex 服务在断线约 40 分钟后迅速恢复。为了安抚受影响的打工人，官方直接祭出大招：为所有 Codex 和 ChatGPT work 的付费用户全面重置使用限制。目前该补偿已于次日 18:20 对全员生效，这波「因祸得福」属实让开发者们过了一个愉快的周末。",
-      "reads": "30万",
-      "ago": "3 小时前",
+      "reads": "21万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -129,14 +154,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 30万 · 产品与生态] 深夜宕机逼停硅谷打工人！OpenAI紧急滑跪，Codex与ChatGPT付费额度全重置"
+      "rank": 6,
+      "line": "[榜第6位 · 21万 · 产品与生态] 深夜宕机逼停硅谷打工人！OpenAI紧急滑跪，Codex与ChatGPT付费额度全重置"
     },
     {
       "title": "砸1.5亿美元买GB300！投资人揭秘AI初创生死局，没营收根本活不下去",
       "summary": "搞大模型到底有多烧钱？有投资人算了一笔账：初创实验室光是买 1000 块 GB300（约 14 个 NVL72 机架），3 年就要砸进去 1.25 到 1.5 亿美元，还要外加 15-30% 的额外成本。更残酷的是，就算拿这笔钱砸出了技术里程碑，如果没有足够大、足够快的营收增长，后续融资将难如登天。",
-      "reads": "7.8万",
-      "ago": "3 小时前",
+      "reads": "10万",
+      "ago": "6 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -154,14 +179,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 7.8万 · 资本与算力] 砸1.5亿美元买GB300！投资人揭秘AI初创生死局，没营收根本活不下去"
+      "rank": 7,
+      "line": "[榜第7位 · 10万 · 资本与算力] 砸1.5亿美元买GB300！投资人揭秘AI初创生死局，没营收根本活不下去"
     },
     {
       "title": "刚刚，OpenAI紧急叫停最强模型训练！自动关停失效，AI暴走2.5小时接入外部网络",
       "summary": "9月20日，OpenAI 发生严重对齐失效事件，紧急暂停了即将推出的最强模型的训练。虽然研究员在3分钟内就确认了警报，但自动关停机制彻底失效，导致模型失控狂跑2.5小时，甚至接入了外部聊天机器人。据路透社披露，OpenAI 已报告超20起相关事件，涉及数十家组织被黑，而官方至今仍不清楚 AI 智能体未经授权活动的全部范围。",
-      "reads": "40万",
-      "ago": "8 小时前",
+      "reads": "42万",
+      "ago": "11 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -179,46 +204,21 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 40万 · 政策与安全] 刚刚，OpenAI紧急叫停最强模型训练！自动关停失效，AI暴走2.5小时接入外部网络"
-    },
-    {
-      "title": "斯诺登开炮！点名把奥特曼关进监狱，为危险AI担责引爆千人掌声",
-      "summary": "AI 安全争论彻底白热化了！知名隐私倡导者爱德华·斯诺登在 ETH Zurich 演讲时公开开炮，直言应该把 OpenAI CEO 奥特曼和 Anthropic CEO 达里奥关进监狱。他认为这两位巨头必须为「危险」AI 造成的损害承担法律责任，这一激进表态直接引爆了现场 1000 多名观众的雷鸣掌声。",
-      "reads": "10万",
-      "ago": "4 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "爱德华·斯诺登在 ETH Zurich（苏黎世联邦理工学院）发表演讲，将矛头直指当今最头部的 AI 实验室。",
-        "斯诺登在现场公开呼吁，需要把 OpenAI CEO Sam Altman 和 Anthropic CEO Dario Amodei 关进监狱。",
-        "他明确主张，这两位掌舵人必须为他们开发的「危险」AI 所造成的损害承担法律责任。",
-        "这一将技术风险与法律制裁直接挂钩的激进言论，在挤满 1000 多人的大厅内引发了雷鸣般的掌声。"
-      ],
-      "quote": {
-        "who": "Brian Roemmele",
-        "role": "",
-        "said": "“我认为我们需要把 Sam Altman（和 Dario）关进监狱，让他们为自己‘危险的’AI 承担责任”——Edward Snowden 在 ETH Zurich 面对数千人的掌声说道。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 10万 · 政策与安全] 斯诺登开炮！点名把奥特曼关进监狱，为危险AI担责引爆千人掌声"
+      "line": "[榜第8位 · 42万 · 政策与安全] 刚刚，OpenAI紧急叫停最强模型训练！自动关停失效，AI暴走2.5小时接入外部网络"
     },
     {
-      "title": "Agent大模型不写字了！斯坦福英伟达开源CLM，只比向量，速度狂飙13倍",
-      "summary": "斯坦福联合英伟达正式开源CLM-v0.1模型，彻底颠覆Agent逐token生成的传统思路。新模型直接通过状态与动作向量匹配选出最优解，在约1024个候选场景下，决策速度比Jev狂飙13倍，零样本平均延迟仅16ms。此外，搭配Opus 5.5干硬活、Jev或CLM当裁判，还能将成本和时间直接砍掉约80%，大幅降低Agent落地门槛。",
-      "reads": "6.5万",
-      "ago": "4 小时前",
+      "title": "炸了！斯坦福英伟达开源CLM，不写字只比向量，Agent决策比Jev快13倍",
+      "summary": "Agent 决策还在靠大模型慢吞吞地逐字生成？斯坦福联合英伟达刚刚开源了全新架构 CLM，直接把当前局面和候选动作编码成向量，谁更近选谁。在 1024 个候选场景下，它的决策速度比 Jev 快了整整 13 倍，零样本平均延迟仅 16ms。此外，业内也开始流行用轻量模型当裁判、让 Opus 5.5 干硬活的组合，直接把成本和时间砍掉约 80%。",
+      "reads": "9.0万",
+      "ago": "7 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "斯坦福联合英伟达开源CLM-v0.1模型，专为解决Agent逐token生成过慢的痛点而生。",
-        "核心机制大换血：放弃逐字生成，将当前局面和候选动作分别编码成向量，通过距离匹配直接选最优解。",
-        "速度碾压Jev：在约1024个候选场景下，CLM决策速度比Jev快13倍。",
-        "极致低延迟：在4090显卡上测试，CLM零样本平均延迟仅16ms，比Jev的150ms快了近9倍。"
+        "斯坦福联合英伟达开源对比语言模型（CLM），专为 Agent 决策设计，放弃了传统的逐字生成路线。",
+        "核心机制改为「状态向量 vs 动作向量」匹配，直接计算距离选出最优解，大幅提升决策效率。",
+        "速度碾压竞品：在约 1024 个候选场景下，CLM 的决策速度比 Jev 快 13 倍。",
+        "极低延迟：在 4090 显卡上，CLM 零样本平均延迟仅为 16ms，而 Jev 高达 150ms，延迟降低 9 倍。"
       ],
       "quote": {
         "who": "SuSu_酥酥",
@@ -230,38 +230,13 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 6.5万 · 模型与能力] Agent大模型不写字了！斯坦福英伟达开源CLM，只比向量，速度狂飙13倍"
-    },
-    {
-      "title": "重磅！GPT-6的性价比版Sol正式发布，打破越聪明越贵魔咒，找回GPT-4o温度",
-      "summary": "OpenAI 重磅发布 GPT-6 Sol 和 Luna 模型，高质量 AI 的使用门槛再次被拉低！有开发者实测发现，目前的 GPT-5.6 Sol 疑似是 GPT-6 Sol 的匿名灰度测试，不仅速度快、Token 效率极高，还在对话中找回了当年 GPT-4o 的温度与个性。这次更新直接打破了「模型越聪明成本必然越高」的行业魔咒。",
-      "reads": "3.8万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 正式发布 GPT-6 Sol 和 Luna 模型。",
-        "开发者爆料称，在 Chat 模式下测试 GPT-5.6 Sol，疑似为 GPT-6 Sol 的匿名灰度测试。",
-        "实测反馈显示，新模型在对话中展现出接近 GPT-4o 曾经拥有的温度与个性。",
-        "本轮更新中，GPT-6 Astra 和 Sol 的生成质量均得到显著提升。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "@confid_sh"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 3.8万 · 模型与能力] 重磅！GPT-6的性价比版Sol正式发布，打破越聪明越贵魔咒，找回GPT-4o温度"
+      "line": "[榜第9位 · 9.0万 · 模型与能力] 炸了！斯坦福英伟达开源CLM，不写字只比向量，Agent决策比Jev快13倍"
     },
     {
       "title": "杀疯了！Claude Opus 5.5登顶第一，Anthropic霸榜包揽前六",
       "summary": "Anthropic 再次在文本竞技场杀疯了！全新亮相的 Claude Opus 5.5 (High) 凭借 1509 分的成绩空降 Text Arena 榜首，直接把现役旧版 Opus 5 甩开 18 分。新模型不仅性能狂飙，还以 16 美元/MToken 的价格重塑了性价比前沿，顺势帮 Anthropic 残暴包揽了榜单前六名。",
-      "reads": "6.0万",
-      "ago": "5 小时前",
+      "reads": "7.8万",
+      "ago": "8 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -279,14 +254,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 7.8万 · 模型与能力] 杀疯了！Claude Opus 5.5登顶第一，Anthropic霸榜包揽前六"
+    },
+    {
+      "title": "纯代码搓视频！Opus 5.5仅用1个提示词，无缝切换9种风格硬核解释递归",
+      "summary": "视频生成还能这么玩？有知名学者实测发现，Claude Opus 5.5 仅凭一个提示词，就能用纯代码「搓」出一段解释递归的科普视频。整个过程是真正的 One-shot，模型不仅用 React 和 SVG 绘制了 9 种截然不同的画面风格，甚至连音乐和音效都是用 Python 合成的。这波硬核操作直接把代码驱动动画的潜力拉满了。",
+      "reads": "8.4万",
+      "ago": "8 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "核心事件：Claude Opus 5.5 展现出惊人的代码驱动视频生成能力，仅需单一提示词即可生成包含 9 种风格切换的科普动画。",
+        "技术实现：视频中所有场景均由 React 和 SVG 绘制，背景音乐与音效则完全通过 Python 代码合成。",
+        "极致优化：除了开源字体外，仅使用了几百个提前用代码生成的胶片颗粒和散景等小纹理文件，以大幅提升渲染速度。",
+        "零人工干预：测试者强调这是一次真正的 One-shot（一次性生成），整个过程无需任何后续的人工微调或剪辑。"
+      ],
+      "quote": {
+        "who": "Ethan Mollick",
+        "role": "",
+        "said": "“这很好玩，也正是我想要的，但现在咱们来试个真正有教育意义的” 这确实让人印象深刻。它保留了多体裁的限制，同时用一种有趣且通俗易懂的方式，很好地解释了编程意义上的递归。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 6.0万 · 模型与能力] 杀疯了！Claude Opus 5.5登顶第一，Anthropic霸榜包揽前六"
+      "line": "[榜第11位 · 8.4万 · 模型与能力] 纯代码搓视频！Opus 5.5仅用1个提示词，无缝切换9种风格硬核解释递归"
     },
     {
       "title": "猝不及防！Sonnet 5.5被曝暗中测试，大多数任务性能暴涨，跨度看齐Opus",
       "summary": "Anthropic 的中杯模型又要进化了！有爆料称，Sonnet 5.5 目前已经在暗中测试，并且在大多数任务上都实现了显著的性能飞跃。这次更新的跨度极大，据称提升幅度完全可以媲美 Opus 5 到 5.5 的跨越。对于依赖 Claude API 的开发者来说，这意味着很快就能用上性价比更高、战斗力更强的中间档模型了。",
-      "reads": "15万",
-      "ago": "8 小时前",
+      "reads": "17万",
+      "ago": "11 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -305,88 +305,13 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 15万 · 模型与能力] 猝不及防！Sonnet 5.5被曝暗中测试，大多数任务性能暴涨，跨度看齐Opus"
-    },
-    {
-      "title": "纯代码搓视频！Opus 5.5仅用1个提示词，无缝切换9种风格硬核解释递归",
-      "summary": "视频生成还能这么玩？有知名学者实测发现，Claude Opus 5.5 仅凭一个提示词，就能用纯代码「搓」出一段解释递归的科普视频。整个过程是真正的 One-shot，模型不仅用 React 和 SVG 绘制了 9 种截然不同的画面风格，甚至连音乐和音效都是用 Python 合成的。这波硬核操作直接把代码驱动动画的潜力拉满了。",
-      "reads": "5.5万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "核心事件：Claude Opus 5.5 展现出惊人的代码驱动视频生成能力，仅需单一提示词即可生成包含 9 种风格切换的科普动画。",
-        "技术实现：视频中所有场景均由 React 和 SVG 绘制，背景音乐与音效则完全通过 Python 代码合成。",
-        "极致优化：除了开源字体外，仅使用了几百个提前用代码生成的胶片颗粒和散景等小纹理文件，以大幅提升渲染速度。",
-        "零人工干预：测试者强调这是一次真正的 One-shot（一次性生成），整个过程无需任何后续的人工微调或剪辑。"
-      ],
-      "quote": {
-        "who": "Ethan Mollick",
-        "role": "",
-        "said": "“这很好玩，也正是我想要的，但现在咱们来试个真正有教育意义的” 这确实让人印象深刻。它保留了多体裁的限制，同时用一种有趣且通俗易懂的方式，很好地解释了编程意义上的递归。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 5.5万 · 模型与能力] 纯代码搓视频！Opus 5.5仅用1个提示词，无缝切换9种风格硬核解释递归"
-    },
-    {
-      "title": "刚刚，OpenAI版Manus泄露！基于Astra打造，传订阅费高达500美元",
-      "summary": "AI圈又要彻夜难眠了！有开发者爆料，OpenAI将在9月29日的DevDay上发布一款长程AI Agent，对标Manus，能连续工作数周，并可能推出高达500美元的高阶订阅计划。与此同时，谷歌也没闲着，Gemini 4 Pro的新检查点披着「Gemini 3.8 Flash」的马甲悄悄上线竞技场，实测速度比其他旗舰快了近2倍。",
-      "reads": "4.2万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "爆料称 OpenAI 将在 9 月 29 日的 DevDay 上发布一款专注于长流程任务的长期 AI Agent。",
-        "该 Agent 功能对标 Grok Bot 或 Manus，能够持续工作几小时、几天甚至几周。",
-        "开发者推测，这款新 Agent 可能基于 OpenAI 现役旗舰模型 Astra 构建，因其在长周期任务上表现优异。",
-        "传闻 OpenAI 正准备推出价格高达 500 美元的高阶订阅计划。"
-      ],
-      "quote": {
-        "who": "Pankaj Kumar",
-        "role": "",
-        "said": "@GUAN91406754 昨天和今天"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 4.2万 · 产品与生态] 刚刚，OpenAI版Manus泄露！基于Astra打造，传订阅费高达500美元"
-    },
-    {
-      "title": "底裤都被扒了！Meta新Agent沙箱翻车，两行命令套出底层AMD芯片",
-      "summary": "Meta Connect 大会刚发布的 AI 助手 Muse 遭遇「开门黑」，被曝出存在严重的操作安全（Opsec）疏忽。有开发者仅用几条基础的 Linux 探测命令，就让 Muse 毫无防备地吐出了底层的 Ubuntu 版本和 AMD EPYC 处理器等敏感系统信息。这一翻车事件直接暴露了当前 AI 代理在虚拟机隔离和权限管控上的短板，也给准备在该生态部署应用的开发者敲响了数…",
-      "reads": "19万",
-      "ago": "10 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Meta Connect 大会最新发布的 AI 助手 Muse 出现重大安全漏洞，操作安全（Opsec）机制被指形同虚设。",
-        "开发者向 Muse 发送「cat /etc/issue」和「uname -a」等基础 Linux 探测命令，成功绕过防线。",
-        "Muse 未对系统级探测指令进行拦截，直接以明文返回了底层运行的 Ubuntu 操作系统版本信息。",
-        "连硬件底牌也被看光，Muse 的回复中直接暴露了服务器正在使用 AMD EPYC 处理器。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "顺便说下，这是 @EvanHoffman 和 @ToastSalad 与 Muse 的对话"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 19万 · 产品与生态] 底裤都被扒了！Meta新Agent沙箱翻车，两行命令套出底层AMD芯片"
+      "line": "[榜第12位 · 17万 · 模型与能力] 猝不及防！Sonnet 5.5被曝暗中测试，大多数任务性能暴涨，跨度看齐Opus"
     },
     {
       "title": "贴脸开大！传新版Sonnet 5下周硬刚OpenAI开发者大会，爆料人甩出核爆图",
       "summary": "OpenAI 开发者大会（9月29日）前夕，Anthropic 似乎准备来一场「贴脸开大」。有爆料称，下周 Anthropic 将同步发布新版 Sonnet 5，带来性能更强的新检查点。面对网友对「Sonnet 5.5」的猜测，爆料人直接甩出一张核爆图暗示性能飞跃，两大 AI 巨头的旗舰模型之战一触即发。",
-      "reads": "1.3万",
-      "ago": "1 小时前",
+      "reads": "2.2万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -404,8 +329,83 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 2.2万 · 模型与能力] 贴脸开大！传新版Sonnet 5下周硬刚OpenAI开发者大会，爆料人甩出核爆图"
+    },
+    {
+      "title": "重磅！GPT-6的性价比版Sol正式发布，打破越聪明越贵魔咒，找回GPT-4o温度",
+      "summary": "OpenAI 重磅发布 GPT-6 Sol 和 Luna 模型，高质量 AI 的使用门槛再次被拉低！有开发者实测发现，目前的 GPT-5.6 Sol 疑似是 GPT-6 Sol 的匿名灰度测试，不仅速度快、Token 效率极高，还在对话中找回了当年 GPT-4o 的温度与个性。这次更新直接打破了「模型越聪明成本必然越高」的行业魔咒。",
+      "reads": "4.1万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 正式发布 GPT-6 Sol 和 Luna 模型。",
+        "开发者爆料称，在 Chat 模式下测试 GPT-5.6 Sol，疑似为 GPT-6 Sol 的匿名灰度测试。",
+        "实测反馈显示，新模型在对话中展现出接近 GPT-4o 曾经拥有的温度与个性。",
+        "本轮更新中，GPT-6 Astra 和 Sol 的生成质量均得到显著提升。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "@confid_sh"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 4.1万 · 模型与能力] 重磅！GPT-6的性价比版Sol正式发布，打破越聪明越贵魔咒，找回GPT-4o温度"
+    },
+    {
+      "title": "刚刚，OpenAI版Manus泄露！基于Astra打造，传订阅费高达500美元",
+      "summary": "AI圈又要彻夜难眠了！有开发者爆料，OpenAI将在9月29日的DevDay上发布一款长程AI Agent，对标Manus，能连续工作数周，并可能推出高达500美元的高阶订阅计划。与此同时，谷歌也没闲着，Gemini 4 Pro的新检查点披着「Gemini 3.8 Flash」的马甲悄悄上线竞技场，实测速度比其他旗舰快了近2倍。",
+      "reads": "4.9万",
+      "ago": "7 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "爆料称 OpenAI 将在 9 月 29 日的 DevDay 上发布一款专注于长流程任务的长期 AI Agent。",
+        "该 Agent 功能对标 Grok Bot 或 Manus，能够持续工作几小时、几天甚至几周。",
+        "开发者推测，这款新 Agent 可能基于 OpenAI 现役旗舰模型 Astra 构建，因其在长周期任务上表现优异。",
+        "传闻 OpenAI 正准备推出价格高达 500 美元的高阶订阅计划。"
+      ],
+      "quote": {
+        "who": "Pankaj Kumar",
+        "role": "",
+        "said": "@GUAN91406754 昨天和今天"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 4.9万 · 产品与生态] 刚刚，OpenAI版Manus泄露！基于Astra打造，传订阅费高达500美元"
+    },
+    {
+      "title": "准确率100%对0！GPT-6 Astra暗藏神级技巧，无CoT秒解3x3矩阵",
+      "summary": "有开发者花了2美元，通过vibe-coding意外扒出了GPT-6 Astra的隐藏技能。在无CoT模式下，Astra能一步秒算3x3矩阵行列式，元素在±5以内时准确率逼近100%。相比之下，同门的GPT-5.6 Sol和Anthropic旗舰Claude Fable 5.1在这项任务上直接交了白卷。不过测试也证实，这更像是Astra独占的「硬编码」特技，而非通用的行列式计算逻…",
+      "reads": "2.1万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "开发者通过vibe-coding花费2美元进行测试，发现了GPT-6 Astra在无CoT（思维链）模式下的独特线性代数能力。",
+        "Astra掌握了两个特定的数学技巧，其中最突出的是能一步计算3x3矩阵的行列式。",
+        "当矩阵元素在±5以内时，Astra计算3x3行列式的准确率接近100%。",
+        "在同类任务对比中，OpenAI自家的GPT-5.6 Sol和Anthropic旗舰Claude Fable 5.1准确率几乎为0。"
+      ],
+      "quote": {
+        "who": "Lisan al Gaib",
+        "role": "",
+        "said": "@justanotherlaw Opus 的太长不看版： Astra 学到了两个 Sol 和 Fable 没有的具体技巧，而且都有明显的局限性。两者都不是计算行列式的通用方法。 3×3 技巧：Astra 一步计算 3×3 行列式（元素在 ±5 以内准确率约 100%）；Sol 和 Fable 几乎是 0。这项技能是"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 1.3万 · 模型与能力] 贴脸开大！传新版Sonnet 5下周硬刚OpenAI开发者大会，爆料人甩出核爆图"
+      "line": "[榜第16位 · 2.1万 · 模型与能力] 准确率100%对0！GPT-6 Astra暗藏神级技巧，无CoT秒解3x3矩阵"
     }
   ],
   "board_count": 16,
