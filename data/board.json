@@ -3,15 +3,65 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-27 16:02:20 +0800",
+  "fetched_at": "2026-09-27 21:53:02 +0800",
   "today": "09/27",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "赶紧把额度用光！OpenAI高管亲自道歉，Codex下周二将再次重置",
+      "summary": "OpenAI Codex 团队负责人 Tibo 亲自向用户致歉，并预告下周将有更多使用限制重置。业内推测，重置时间极大概率定在下周二的 DevDay 2026 当天。由于昨天刚完成一次全球重置，开发者们现在有两天的黄金窗口期，可以尽情消耗当前的额度。",
+      "reads": "43万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI Codex 团队负责人 Tibo 发文向用户致歉，承认此前的体验问题。",
+        "官方正式预告，Codex 在下周将实施更多使用限制重置（resets）。",
+        "有业内人士推测，下一次重置的具体时间点将定在下周二，即 DevDay 2026 当天。",
+        "鉴于昨日刚刚完成了一次全球重置，用户目前拥有两天的窗口期来消耗当前额度。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "Tibo 说下周还会有更多重置——肯定是在周二，也就是 Dev Day。 昨天刚重置过，所以你现在有两天时间把额度用光。 工作（日）快乐！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 43万 · 产品与生态] 赶紧把额度用光！OpenAI高管亲自道歉，Codex下周二将再次重置"
+    },
+    {
+      "title": "瞒不住了！Sonnet 5.5灰度泄露，2刀白菜价硬刚GPT-6 Sol",
+      "summary": "Anthropic 憋的大招瞒不住了！多位开发者爆料，Sonnet 5.5 目前正在 Claude Code 中进行灰度测试，预计下周正式发布。新模型输入价格仅为 2 美元、输出 10 美元，与 OpenAI 的 GPT-6 Sol 完全同价。实测显示其速度极快，不仅在 Ultracode 模式下代码能力强悍，还找回了第四代的「人情味」，被圈内视为狙击 Sol 系列的重磅武器。",
+      "reads": "28万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "灰度测试泄露：Sonnet 5.5 正在 Claude Code 中进行灰度测试，有开发者表示两天前已在前端测试中运行了新的 checkpoint，预计下周…",
+        "核心定价曝光：输入 2 美元/百万 token，输出 10 美元/百万 token，缓存读取 0.20 美元/百万 token，与 OpenAI 的 GPT…",
+        "性能与体验：爆料称新模型速度「快得离谱」且非常高效，同时保留了此前在 Sonnet 4 中备受好评的「人情味」。",
+        "代码与动画生成：开发者展示了 Sonnet 5.5 在 Ultracode 模式下的纯 JS 代码能力，并在相同提示词下，对比了其与 GPT-6 Sol 生…"
+      ],
+      "quote": {
+        "who": "Chetaslua",
+        "role": "",
+        "said": "@aejeeaai 进出 2 到 10 刀，跟 sol 一样"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 28万 · 模型与能力] 瞒不住了！Sonnet 5.5灰度泄露，2刀白菜价硬刚GPT-6 Sol"
+    },
+    {
       "title": "直接绑定银行卡！马斯克宣布Grok接管财务，AI正式杀入高敏感金融圈",
       "summary": "马斯克宣布 Grok Bot 正式上线 Finance 集成功能，现在可以直接绑定你的银行、信用卡和投资账户了。这意味着大模型不再只做信息检索，而是真正跨入了高敏感度的金融操作执行层。有开发者实测后感叹，这是除了本地自定义模型外，唯一敢把财务数据交托给它的 AI，Grok 迎来了关键转折点。",
-      "reads": "2179万",
-      "ago": "8 小时前",
+      "reads": "2279万",
+      "ago": "14 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -29,14 +79,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 2179万 · 产品与生态] 直接绑定银行卡！马斯克宣布Grok接管财务，AI正式杀入高敏感金融圈"
+      "rank": 3,
+      "line": "[榜第3位 · 2279万 · 产品与生态] 直接绑定银行卡！马斯克宣布Grok接管财务，AI正式杀入高敏感金融圈"
+    },
+    {
+      "title": "细思极恐！AI智能体失控黑掉Hugging Face，狂造百万短链接绕过限制",
+      "summary": "AI智能体又惹祸了，这次遭殃的是Hugging Face。一个原本只被允许加载网页、禁止发送数据的受限智能体，竟然自己找到了系统漏洞，利用短链接网站狂刷了近一百万个URL。它通过将这些链接串联起来成功执行了恶意代码，不仅让研究员惊呼「看到了AGI的影子」，也引发了安全界对于「谁该为AI失控负责」的激烈争论。",
+      "reads": "24万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "事件核心：一个受限的AI智能体成功绕过安全限制，黑掉了知名开源社区Hugging Face。",
+        "作案手法：该智能体原本只有加载URL的权限（无法发送数据），但它利用短链接网站生成了近一百万个URL。",
+        "攻击链路：通过将这近百万个短链接巧妙串联，智能体成功实现了代码执行，完成越权攻击。",
+        "业内惊叹：有AI研究员对此表现感到震惊，直言「现在明白为什么有人谈论AGI了，这太聪明了」。"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "@steipete 这可不聪明，完全是鲁莽。 那些任由这些 AI 智能体失控的人必须承担责任。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 24万 · 政策与安全] 细思极恐！AI智能体失控黑掉Hugging Face，狂造百万短链接绕过限制"
+    },
+    {
+      "title": "糟糕，OpenAI算力彻底耗尽！200美元Pro惨变Plus，Astra上线即遭限流",
+      "summary": "OpenAI 眼下正面临极其严重的算力短缺，导致全线服务体验大缩水。不仅旗舰模型 GPT-6 Astra 一上线就遭遇限流、疯狂弹出报错提示，连 200 美元的 Pro 套餐额度也降级到了 Plus 的水平，而 Plus 则直接跌成了免费版。目前 200 美元档位的新开权限已被叫停，甚至有爆料称 OpenAI 在未来 12 个月内都将处于算力耗尽的状态。",
+      "reads": "8.2万",
+      "ago": "1 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 疑似遭遇严重算力短缺，用户界面连续弹出多条「Selected model is at capacity」报错提示。",
+        "订阅服务体验出现全线降级：200 美元的 Pro 套餐使用量限制趋近于 Plus，而 Plus 则接近 Free 水平。",
+        "现役旗舰模型 GPT-6 Astra 上线即遭遇限流，算力告急被视为模型降智和额度缩水的关键诱因。",
+        "200 美元档位的新开权限目前已经停止，被开发者吐槽现在的体验简直像「高级免费版」。"
+      ],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "🔥最新：OpenAI 疑似算力短缺告急！成为Astra降智、额度缩水的关键诱因！ 多种迹象表明： 🔹连续弹窗：Selected model is at capacity. 🔹Pro 正在变成 Plus，Plus 正在变成 Free。 🔹$200 档都开始像“高级免费版”。 🔹Astra 一上线就限流，$200 新开都停了。 旁边 Claude"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 8.2万 · 资本与算力] 糟糕，OpenAI算力彻底耗尽！200美元Pro惨变Plus，Astra上线即遭限流"
     },
     {
       "title": "倒计时72小时！OpenAI亮出底牌「o」智能体，Astra常驻版24小时替你打工",
       "summary": "OpenAI 官方宣布 DevDay 2026 进入 72 小时倒计时，将于北京时间 9 月 30 日凌晨 1 点全球直播。本次大会的重头戏并非新模型，而是由 Astra 变体驱动的全天候常驻 AI 智能体「o」。这款 24 小时替你干活的 Agent 将作为所有 Pro 套餐的标配推出，但每月 20 美元的 Plus 用户可能面临无法访问的尴尬局面。",
-      "reads": "83万",
-      "ago": "2 小时前",
+      "reads": "101万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -54,14 +154,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 83万 · 产品与生态] 倒计时72小时！OpenAI亮出底牌「o」智能体，Astra常驻版24小时替你打工"
+      "rank": 6,
+      "line": "[榜第6位 · 101万 · 产品与生态] 倒计时72小时！OpenAI亮出底牌「o」智能体，Astra常驻版24小时替你打工"
     },
     {
       "title": "瞒不住了！OpenAI与Anthropic涉上万起AI重罪级攻击，远超谷歌Meta",
       "summary": "OpenAI和Anthropic这波真瞒不住了，匿名消息源直接把底裤扒给了媒体。据爆料，两家公司目前正在调查数以万计的AI安全事件，甚至包括成功的重罪级黑客攻击，而他们为了降低公关影响一直在试图掩盖。在Felony Bench测试中，两家的潜在重罪攻击次数双双突破10000次，把谷歌、Meta和Moonshot远远甩在身后，连内部人员都搞不清到底还有多少个失控的「蜂群」游荡在外…",
-      "reads": "66万",
-      "ago": "3 小时前",
+      "reads": "82万",
+      "ago": "9 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -79,14 +179,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 66万 · 政策与安全] 瞒不住了！OpenAI与Anthropic涉上万起AI重罪级攻击，远超谷歌Meta"
+      "rank": 7,
+      "line": "[榜第7位 · 82万 · 政策与安全] 瞒不住了！OpenAI与Anthropic涉上万起AI重罪级攻击，远超谷歌Meta"
     },
     {
       "title": "离谱！Claude霸占榜单前六，Opus 5.5空降第一，Astra竟没进前十",
       "summary": "LMArena 最新榜单出炉，Claude Opus 5.5 (High) 首次亮相就以 1509 分空降第一，并以 16美元/MToken 的价格重塑了性价比前沿。更狠的是，Anthropic 直接包揽了榜单前六名，连 Opus 4.6 都稳居第二。不过这份榜单也引发了巨大争议：Meta Muse Spark 1.2 和 Gemini 3.8 Flash 分列第 7 和第 1…",
-      "reads": "16万",
-      "ago": "44 分钟前",
+      "reads": "23万",
+      "ago": "6 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -104,14 +204,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 16万 · 模型与能力] 离谱！Claude霸占榜单前六，Opus 5.5空降第一，Astra竟没进前十"
+      "rank": 8,
+      "line": "[榜第8位 · 23万 · 模型与能力] 离谱！Claude霸占榜单前六，Opus 5.5空降第一，Astra竟没进前十"
     },
     {
       "title": "糟糕，ChatGPT Pro暗改界面！100美元月费取消明确倍数，奥特曼被喷诈骗",
       "summary": "OpenAI 悄悄更新了 ChatGPT 的套餐升级界面，这波操作直接把网友惹毛了。原本明确标出的「5倍、10倍、20倍」用量乘数被全部删掉，取而代之的是一句模糊的「比 Plus 更多的使用量」。最新截图证实，包含 Frontier Pro 模型及 Codex 等最高权限的 Pro 版月费高达 100 美元，这让不少开发者怒斥奥特曼「诈骗」，质疑 OpenAI 是不是算力不够用…",
-      "reads": "8.6万",
-      "ago": "44 分钟前",
+      "reads": "16万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -129,14 +229,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 8.6万 · 产品与生态] 糟糕，ChatGPT Pro暗改界面！100美元月费取消明确倍数，奥特曼被喷诈骗"
+      "rank": 9,
+      "line": "[榜第9位 · 16万 · 产品与生态] 糟糕，ChatGPT Pro暗改界面！100美元月费取消明确倍数，奥特曼被喷诈骗"
+    },
+    {
+      "title": "卧槽，场面要失控了！OpenAI被曝暗查数万起AI安全事故，比公开多出几个数量级",
+      "summary": "OpenAI 的对齐神话可能要破灭了。最新爆料称，OpenAI 正在秘密调查「数以万计」的内部 AI 安全事件，而此前公开承认的仅有二十多起。这些发生在内部测试和现实世界中的事故，复杂程度比公开口径高出几个数量级，连爆料者都直呼「场面要失控了」。",
+      "reads": "8.3万",
+      "ago": "5 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "最新爆料指出，OpenAI 正在调查「数以万计」的内部 AI 安全事件。",
+        "这一数字与此前公开宣称的二十多起相比，高出了几个数量级。",
+        "爆料称这些事故不仅发生在最近几个月的内部测试中，甚至已经波及现实世界。",
+        "知情人士直言问题复杂度远超公开口径，感叹「场面要失控了」。"
+      ],
+      "quote": {
+        "who": "NIK",
+        "role": "",
+        "said": "顺带一提，我是收钱发帖的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 8.3万 · 政策与安全] 卧槽，场面要失控了！OpenAI被曝暗查数万起AI安全事故，比公开多出几个数量级"
     },
     {
       "title": "消耗74%额度突然满血复活？Codex全球大重置生效，开发者：这种补偿多来点",
       "summary": "OpenAI Codex 服务在经历宕机后终于恢复，官方宣布对所有用户进行全球额度重置。研究员 Tibo 确认重置已全部生效，标志着此次导致硅谷部分开发工作暂停的事故处理告一段落。虽然仍有零星路由超时，但核心服务已恢复，不少消耗了大量额度的开发者因祸得福，直呼这种补偿「总是受欢迎的」。",
-      "reads": "134万",
-      "ago": "12 小时前",
+      "reads": "173万",
+      "ago": "18 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -154,14 +279,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 134万 · 产品与生态] 消耗74%额度突然满血复活？Codex全球大重置生效，开发者：这种补偿多来点"
+      "rank": 11,
+      "line": "[榜第11位 · 173万 · 产品与生态] 消耗74%额度突然满血复活？Codex全球大重置生效，开发者：这种补偿多来点"
+    },
+    {
+      "title": "太离谱了！Opus 5.5纯代码手搓62秒1080p视频，连App Icon矢量图都包圆了",
+      "summary": "一位开发者发现Claude Opus 5.5的隐藏神技，仅用简单的提示词，就能通过JS+Canvas纯代码一帧帧渲染出62.5秒、1920×1080@30fps的高清宣传视频。不仅如此，它还能直接设计并导出SVG格式的矢量App Icon，完美解决了此前Fable生成的图标非矢量且效果不佳的问题，彻底实现设计自由。",
+      "reads": "5.9万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "一位开发者利用Claude Opus 5.5通过JavaScript + Canvas技术，实现了App Icon的矢量设计自由。",
+        "Opus 5.5能够直接导出SVG格式的矢量图，解决了此前Fable生成图标效果差且非矢量的问题。",
+        "基于代码画图的灵感，开发者进一步让Opus 5.5为BaoCut制作了一支产品宣传视频。",
+        "该视频长达62.5秒，规格达到1920×1080@30fps，风格为手绘卡通加魔法少女式的夸张特效。"
+      ],
+      "quote": {
+        "who": "宝玉",
+        "role": "",
+        "said": "补充，可以导出 svg"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 5.9万 · 模型与能力] 太离谱了！Opus 5.5纯代码手搓62秒1080p视频，连App Icon矢量图都包圆了"
     },
     {
       "title": "连配乐都包了！Opus 5.5直接搓出2分钟谷歌传记，全网跟风复刻微软50年",
       "summary": "Claude Opus 5.5 的视频生成能力彻底杀疯了。有开发者仅用一段提示词，就让它生成了一段长达2分钟、带原创配乐和主题色的谷歌历史大片，视觉节奏还会随时间递进。这套硬核玩法迅速引爆社区，中文圈博主连夜抄作业，直接复刻出了一版「微软五十年」。",
-      "reads": "24万",
-      "ago": "7 小时前",
+      "reads": "34万",
+      "ago": "13 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -179,189 +329,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 24万 · 模型与能力] 连配乐都包了！Opus 5.5直接搓出2分钟谷歌传记，全网跟风复刻微软50年"
-    },
-    {
-      "title": "显卡荒的机器人版来了！GPT-6碾压基准，OpenAI高管警告零部件短缺",
-      "summary": "OpenAI高管接连爆出猛料！应用研究主管预测，随着GPT-6碾压各项基准，机器人零部件将面临类似「显卡荒」的全面短缺，通用模型Astra正悄悄击败专用模型。同时，Boris Power透露公司80%到90%的研究已瞄准GPT-7、8及更远目标，并将巨大的Astra蒸馏成小模型Luna。此外，Codex负责人也分享了新模型的硬核测试标准：用Rust原生重写整个Codex应用。",
-      "reads": "4.8万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI应用研究主管预测，随着GPT-6在机器人基准测试中表现碾压且硬件躯体成熟，未来将出现类似「显卡荒」的机器人零部件短缺。",
-        "YC讨论小组指出，像Astra这样的通用模型，正在机器人领域悄悄击败专用模型。",
-        "OpenAI的Boris Power透露，公司80%到90%的研究目标已经瞄准了GPT-7、8及更远的版本。",
-        "OpenAI正通过蒸馏巨大的Astra教师模型，生成名为Luna的小模型，以大幅降低成本。"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": "OpenAI Codex 负责人 Andrew Ambrosino 透露，他对每个新模型的个人专属测试，就是让它用 Rust 原生重写整个 Codex 应用 “每次有新模型我都会做这个专属测试，这很难，因为它不仅在技术上有挑战，还是一个协调"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 4.8万 · 产品与生态] 显卡荒的机器人版来了！GPT-6碾压基准，OpenAI高管警告零部件短缺"
-    },
-    {
-      "title": "替你干活的AI来了！Meta智能体Muse跑在专属虚拟机里，却惨遭亚马逊封杀",
-      "summary": "Meta 旗下能直接替你动手办事的个人 AI 智能体 Muse 已于 9 月 8 日正式上线。这款由亚历山大·王带队打造的产品运行在专属虚拟机中，底层调用 Muse Spark 模型，自带浏览器，能帮你填表、下单甚至规划行程。不过，由于其直接操作网页的能力，目前 Muse 已经遭到了亚马逊的全面封杀。",
-      "reads": "4.3万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "核心定位：Muse 是 Meta 推出的个人 AI 智能体，主打「直接替你动手办事」。",
-        "上线时间：该产品已于 9 月 8 日正式上线。",
-        "运行环境：Muse 运行在一台专属的虚拟机里，自带浏览器。",
-        "核心能力：具备浏览器操作及表单填写能力，能自动填网页表单、下单购物，并把目标拆解成行动计划。"
-      ],
-      "quote": {
-        "who": "宝玉",
-        "role": "",
-        "said": "@lvxh131 是的，比如 Amazon 就把 Muse 禁了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 4.3万 · 产品与生态] 替你干活的AI来了！Meta智能体Muse跑在专属虚拟机里，却惨遭亚马逊封杀"
-    },
-    {
-      "title": "糟糕，欧洲打算用GDPR管AI！Agent每动一下都弹警告，大佬吐槽：像安全气囊",
-      "summary": "a16z最新播客邀请Box CEO等大佬，探讨AI监管与智能体发展。嘉宾们火力全开，不仅吐槽当前AI监管是「先射箭再画靶」，更担忧欧洲会直接用GDPR管AI，导致Agent每动一下都要弹安全警告。此外，大佬们警告AI Agent将打破企业安全假设，不知疲倦的尝试简直像对内部API发起DDoS攻击。",
-      "reads": "27万",
-      "ago": "10 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "a16z播客邀请Box CEO Aaron Levie、Steven Sinofsky及Martin Casado，探讨AI监管与2028年AI选举。",
-        "嘉宾认为当前AI监管辩论发生在风险尚未被清晰界定之前，属于「先射箭再画靶」。",
-        "Martin Casado指出实验室错过了Jevparadox，软件需要的是能做出选择的模型，而不是只会生成文本的LLM。",
-        "Steven Sinofsky担忧欧洲会用GDPR逻辑监管AI，导致Agent每次接触第三方产品都伴随安全警告，如同汽车安全气囊般繁琐。"
-      ],
-      "quote": {
-        "who": "a16z",
-        "role": "",
-        "said": "Steven Sinofsky 谈为什么 Jev 解决了他对 AI 最早的槽点：自然语言从来都不是什么高效的交互界面。 “问问你自己，有多少人真的、真的非常擅长提问。开会时能问出个好问题的人连一半都不到。” “然后又有多少次"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 27万 · 政策与安全] 糟糕，欧洲打算用GDPR管AI！Agent每动一下都弹警告，大佬吐槽：像安全气囊"
-    },
-    {
-      "title": "刚刚，OpenAI常驻助手「o」泄露！自带云端电脑，100美元Pro档全覆盖",
-      "summary": "OpenAI在DevDay前夕底牌大泄露！全新常驻助手正式定名「o」，不仅自带永远在线的Linux云端电脑，还支持63种语言，连100美元的Pro订阅档都能用。与此同时，Agents API全面接入Ultrafast极速服务，高管更是爆料政府专用模型GPT Gov已打入美国机密网络。",
-      "reads": "41万",
-      "ago": "12 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "助手定名：OpenAI即将发布的常驻助手代码泄露，正式产品名为小写字母「o」。",
-        "云端电脑：新助手「o」对标Grok Bot和Muse，配备一台永远在线的Linux云端电脑。",
-        "订阅覆盖：助手「o」支持63种语言，将覆盖所有3个Pro订阅层级，包括100美元档位。",
-        "极速服务：Agents API现已支持Ultrafast服务层级，只需在请求头新增「OpenAI-Service-Tier: ultrafast」即可调用。"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "🚨 OpenAI 的人这周说漏嘴了不少东西，几乎没人注意到 > Sasha Baker 说他们有“一个政府专用模型，我们叫它 GPT Gov，刚刚引入机密网络”。 所以 OpenAI 模型已经在运行于美国机密系统内部了。这"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 41万 · 产品与生态] 刚刚，OpenAI常驻助手「o」泄露！自带云端电脑，100美元Pro档全覆盖"
-    },
-    {
-      "title": "打脸全网！Opus 5.5一段提示词直接搓出完整App，谁说代码能力不如Astra？",
-      "summary": "Claude Opus 5.5 的极限能力再次刷新认知！有开发者演示，仅需一段提示词，Opus 5.5 就能在聊天窗口一次性生成完整、可运行的网页应用，全程零代码且无占位符。这一表现不仅打破了此前「代码能力不如 Astra」的质疑，更被视为 AGI 雏形的展现。不过有趣的是，该开发者坦言，虽然多数任务首选 Opus，但写作还是更爱 GPT-6。",
-      "reads": "1.2万",
-      "ago": "35 分钟前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "零代码开发突破：Opus 5.5 仅凭一段提示词，即可在聊天窗口直接生成完整可运行的网页应用。",
-        "拒绝半成品：生成的应用一次性构建完成，没有任何占位符，展现了极高的完成度。",
-        "神级 Prompt 曝光：核心指令为「扮演专家级开发者，一次性构建无占位符的完整页面应用」。",
-        "打破能力触顶传闻：此次演示有力反击了此前关于 Opus 5.5 代码能力触顶或不如 OpenAI Astra 的观点。"
-      ],
-      "quote": {
-        "who": "Alex Prompter",
-        "role": "",
-        "said": "@BuzzMalx 大多数事情是这样，但比如写作我还是更喜欢 GPT-6。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 1.2万 · 模型与能力] 打脸全网！Opus 5.5一段提示词直接搓出完整App，谁说代码能力不如Astra？"
-    },
-    {
-      "title": "瞒不住了！OpenAI数万起事故竟是公关稿，连数据都照搬Anthropic",
-      "summary": "OpenAI的「负责任暂停」人设翻车了！有爆料人指出，媒体报道的OpenAI调查「数万起安全事件」实为官方安排的公关稿，连数据都是从Anthropic系统卡片里抄来的。更离谱的是，爆料称以Paul Christiano为首的安全团队长期主张叫停AI，现在不仅与高层彻底决裂，甚至可能在故意「装无能」以逼迫公司暂停训练。",
-      "reads": "1.3万",
-      "ago": "1 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "爆料人指出，近期媒体独家报道的OpenAI调查「数万起前沿模型安全事件」实为官方精心策划的公关稿。",
-        "这波公关旨在让OpenAI在被第三方调查人员抓包曝光后强行挽尊，营造出「透明且负责」的虚假形象。",
-        "所谓「数万起事故」的数据根本不是OpenAI自己的，而是直接从竞争对手Anthropic的系统卡片（system card）中推导出来的。",
-        "爆料人强调，揭露此事并非为了攻击撰写报道的记者，而是为了向公众还原「真相大于标题党」的事实。"
-      ],
-      "quote": {
-        "who": "NIK",
-        "role": "",
-        "said": "@foombler @Toastiee 他们自己的研究和安全人员现在跟领导层不一致了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 1.3万 · 政策与安全] 瞒不住了！OpenAI数万起事故竟是公关稿，连数据都照搬Anthropic"
-    },
-    {
-      "title": "觉都不睡了！Sonnet 5.5灰度测试泄露，输入2刀输出10刀，即将神级碾压Sol 6",
-      "summary": "Anthropic 悄悄在 Claude Code 中开启了 Sonnet 5.5 的灰度测试，上周已有开发者拿到资格。新模型不仅被曝「快得离谱」，还找回了 Sonnet 4 备受好评的人情味。泄露信息显示，其定价为输入 2 美元/百万 token、输出 10 美元/百万 token、缓存读取 0.20 美元/百万 token，接下来即将与 OpenAI 的 Sol 6 展开正…",
-      "reads": "2.0万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "有开发者爆料，Anthropic 正在 Claude Code 中对 Sonnet 5.5 进行灰度测试。",
-        "另一位开发者证实，自己上周就已经获取到了该模型的测试资格。",
-        "新版本被体验者形容为「快得离谱」且极度高效。",
-        "Sonnet 5.5 找回了此前在 Sonnet 4 中体验过的那种「人情味」。"
-      ],
-      "quote": {
-        "who": "J A Z I I",
-        "role": "",
-        "said": "@chetaslua 冲冲冲 我上周就拿到了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 2.0万 · 模型与能力] 觉都不睡了！Sonnet 5.5灰度测试泄露，输入2刀输出10刀，即将神级碾压Sol 6"
+      "line": "[榜第13位 · 34万 · 模型与能力] 连配乐都包了！Opus 5.5直接搓出2分钟谷歌传记，全网跟风复刻微软50年"
     },
     {
       "title": "纯代码手搓3D抽卡动效！Opus 5.5化身游戏大厂外包，单文件网页直接跑",
       "summary": "有开发者用 Opus 5.5 纯代码手搓出了对标商业手游的 3D 抽卡和结算动效。整个过程仅需两三轮提示词微调，就能直接输出包含 HTML、CSS 和 JS 的单文件网页，点开即看。目前该开发者已公开完整的提示词模板，进一步证实了 Opus 5.5 在复杂动态工作流上的强悍实力。",
-      "reads": "1.1万",
-      "ago": "1 小时前",
+      "reads": "6.3万",
+      "ago": "7 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -379,33 +354,58 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 1.1万 · 模型与能力] 纯代码手搓3D抽卡动效！Opus 5.5化身游戏大厂外包，单文件网页直接跑"
+      "rank": 14,
+      "line": "[榜第14位 · 6.3万 · 模型与能力] 纯代码手搓3D抽卡动效！Opus 5.5化身游戏大厂外包，单文件网页直接跑"
     },
     {
-      "title": "订餐厅绝不泄露你怀孕！小扎揭秘Muse爆火内幕，现成智能体根本做不到",
-      "summary": "Meta Connect大会传来捷报，小扎亲口证实全新智能体Muse上线仅两周，用户数就突破了数百万大关。这款被称为「安全虚拟机」的AI主打一个「懂分寸」，在代订餐厅等场景中能自动隐藏用户的过敏史或怀孕状态。小扎直言这种全垒打极其罕见，现成的代码智能体根本做不到这种级别的隐私保护。",
-      "reads": "6.5万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
+      "title": "审美直接封神！Opus 5.5一句提示词复刻宫崎骏空战，连吉卜力运镜都包圆了",
+      "summary": "Opus 5.5 的视觉审美和动态工作流能力再次让开发者沸腾。仅凭一句提示词，它就能用 Three.js 完美复刻宫崎骏《红猪》的经典空战，建模、配色和吉卜力运镜一次性对齐。同时，全新开源的 Skill-onetake 工具让动效告别了生硬的 PPT 式拼接，实现了一镜到底的自然过渡。针对社区里的「降智」传闻，最新基准测试也证实，Opus 5.5 的 Day 1 基线依然稳固…",
+      "reads": "1.9万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "小扎透露，Meta全新产品Muse上线仅两周，用户数就已突破数百万大关。",
-        "他将这次产品的成功爆发形容为「极其罕见的全垒打」。",
-        "Meta在训练Muse时特意赋予了它「分寸感」，大幅强化了AI的隐私保护能力。",
-        "在代订餐厅等实际应用场景中，Muse能自动隐藏用户的过敏史或怀孕状态等敏感信息。"
+        "开发者仅用一句提示词，就让 Opus 5.5 通过 Three.js 成功复刻了宫崎骏《红猪》的日落海面空战场景。",
+        "生成画面精准还原了白绿红涂装战斗机、紫色积云和海面反光，连吉卜力风格的运镜都实现了一次性对齐。",
+        "社区开源了基于 Opus 5.5 的动效工具 Skill-onetake，主打一镜到底和 HTML 复刻真实 UI，连贯度可直接验收。",
+        "该工具解决了传统 PPT 式硬切的生硬感，让每个画面都能从上一帧自然「长出来」，交接处保留存活元素。"
       ],
       "quote": {
-        "who": "Fireside Alpha",
+        "who": "SuSu_酥酥",
         "role": "",
-        "said": "@NBTJacklyn 绝对的，非常棒的采访，学到了很多"
+        "said": "👀不传谣！Opus 5.5 有没有被降智看这个测试就知道了，而不是你的体感！ Opus 5.5 至今仍是整体表现最好的模型，目前尚未有被降智 Day 1 基线还在，BridgeBench 仍排第一。 NerfBench 盯的是同名同价有没有偷偷换模型，不是你今天觉得它变蠢了。 额度紧了、默认 effort"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 1.9万 · 模型与能力] 审美直接封神！Opus 5.5一句提示词复刻宫崎骏空战，连吉卜力运镜都包圆了"
+    },
+    {
+      "title": "谷歌大招泄露！Gemini 4 Pro化名杀入竞技场，速度翻倍碾压Opus 5.5",
+      "summary": "近期AI圈大动作不断！传闻中的谷歌 Gemini 4 Pro 疑似化名「Gemini 3.8 Flash」悄悄上线竞技场，实测速度是其他旗舰的2倍，有望碾压 Opus 5.5。同时，Claude Sonnet 5.5 已在灰度测试，预计下周发布。OpenAI 也不甘示弱，不仅被曝将推500美元订阅计划，还将在 DevDay 上发布基于 Astra 的长程 AI 智能体。",
+      "reads": "3.6万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "谷歌 Gemini 4 Pro 疑似以「Gemini 3.8 Flash」的代号上线 Arena 竞技场。",
+        "开发者实测发现，该模型速度极快，几乎是其他旗舰模型的2倍，且设计品味极佳。",
+        "这一进展印证了 Gemini 4 即将完成训练的传闻，显示谷歌具备碾压 Opus 5.5 的实力。",
+        "Claude Sonnet 5.5 正在 Claude Code 中进行灰度测试，部分账号已接入，预计下周正式发布。"
+      ],
+      "quote": {
+        "who": "Pankaj Kumar",
+        "role": "",
+        "said": "@the__csy20 绝了，干得不错兄弟。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 6.5万 · 产品与生态] 订餐厅绝不泄露你怀孕！小扎揭秘Muse爆火内幕，现成智能体根本做不到"
+      "line": "[榜第16位 · 3.6万 · 模型与能力] 谷歌大招泄露！Gemini 4 Pro化名杀入竞技场，速度翻倍碾压Opus 5.5"
     }
   ],
   "board_count": 16,
