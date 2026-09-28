@@ -3,15 +3,90 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-28 14:43:52 +0800",
+  "fetched_at": "2026-09-28 23:20:39 +0800",
   "today": "09/28",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "突发！英伟达祭出Agent物理沙箱，100家巨头联手防失控，唯独OpenAI缺席",
+      "summary": "英伟达联合微软、IBM等100多家巨头，正式推出开放智能体安全平台（Open Agent Safety Platform）。该平台包含 Apache 2.0 开源的 OpenShell 和运行在 BlueField-4 芯片上的 Sentry，软硬结合给 AI Agent 戴上「物理沙箱」，且兼容 Claude Code、Codex 等现有工具，无需重写代码即可接入。值得注意的…",
+      "reads": "173万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "黄仁勋宣布联合 100 多家行业合作伙伴（含微软、IBM、甲骨文、思科等），推出 NVIDIA Open Agent Safety Platform，旨在解…",
+        "平台采用双层架构：软件层为开源安全运行时 OpenShell（Apache 2.0），负责管文件、工具、外网等，权限决策全程留痕。",
+        "硬件层为 NVIDIA Sentry，直接运行在 BlueField-4 芯片上，提供智能体触及不到的独立硬件级监控，在逃逸前实时抓捕隔离。",
+        "平台兼容 Claude Code、Codex、Hermes 等现有 Agent 工具，开发者无需重写代码即可直接套上安全层。"
+      ],
+      "quote": {
+        "who": "AshutoshShrivastava",
+        "role": "",
+        "said": "@JensenHuang 看不到 closed AI"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 173万 · 政策与安全] 突发！英伟达祭出Agent物理沙箱，100家巨头联手防失控，唯独OpenAI缺席"
+    },
+    {
+      "title": "马斯克版Stargate来了！SpaceX狂囤数百万GPU，2GW算力杀入大模型",
+      "summary": "马斯克不装了，SpaceX 直接杀入大模型算力核心圈！官方最新宣布，正在田纳西州和密西西比州建设占地超250万平方英尺的超级 AI 训练集群，直接堆上数百万张 GPU 和超 2 GW 算力。同时，为了配合星舰高频发射，SpaceX 还要在路易斯安那州新建太空港，彻底变身集 AI 算力与深空探索于一体的基建巨兽。",
+      "reads": "29万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "SpaceX 官方发布未来基础设施规划，涵盖超级计算机、Terafab、Gigasat 及新 Starbase。",
+        "算力规模极其夸张：官方确认配备数百万张 GPU，总算力超过 2 GW（吉瓦）。",
+        "AI 训练集群选址曝光：位于田纳西州孟菲斯和密西西比州南黑文，占地超过 250 万平方英尺。",
+        "航天基建同步扩张：在路易斯安那州弗米利恩教区沿海沼泽地新建太空港，支持星舰高频复用发射。"
+      ],
+      "quote": {
+        "who": "SpaceX",
+        "role": "",
+        "said": ""
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 29万 · 资本与算力] 马斯克版Stargate来了！SpaceX狂囤数百万GPU，2GW算力杀入大模型"
+    },
+    {
+      "title": "月费500刀太离谱！开发者喊话：Astra暴降80%，直接逼死Opus 5.5",
+      "summary": "OpenAI 算力告急引发订阅权益大讨论，GPT-6 Astra 的高昂门槛让不少人坐不住了。有开发者直接喊话，建议效仿 Luna 把 Astra 的价格狂砍 80%，并在 Plus 套餐中提供几乎无限量的访问，直言这招能直接碾压竞品 Opus 5.5。目前新功能大多向月费 100 到 500 美元的 Pro 用户倾斜，Plus 用户惨遭边缘化，甚至有人激进呼吁在免费套餐里开放…",
+      "reads": "17万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 面临严重的算力短缺，导致现役旗舰模型 GPT-6 Astra 频繁遭遇限流问题。",
+        "开发者提出激进方案，建议效仿此前 Luna 的策略，将 GPT-6 Astra 的价格大幅削减 80%。",
+        "提议指出，降价后应在 Plus 套餐中提供几乎无限量的 Astra 访问权限，以此全面碾压竞品 Opus 5.5。",
+        "当前 OpenAI 的新功能（尤其是「o」系列）严重偏向 Pro 阶层，Plus 用户几乎被排除在所有新功能之外。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "@WG_Mojo 没错！！！现在让我们开始干活，一起构建那个未来吧。 我知道这是可能的，哪怕需要花上几年时间。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 17万 · 资本与算力] 月费500刀太离谱！开发者喊话：Astra暴降80%，直接逼死Opus 5.5"
+    },
+    {
       "title": "马斯克深夜回应Grok 4.7排名争议！遭网友贴脸开大：再不追赶就给你们单开一榜",
       "summary": "Grok 4.7发布后排名引发争议，连马斯克都亲自下场回应了。面对网友「再不扭转局面就给Grok单独建榜」的贴脸嘲讽，马斯克淡定表示目前的排名「挺准确」。虽然承认眼下的差距，但他依然坚信Grok能在明年全面超越其他两家大厂的前沿模型。",
-      "reads": "272万",
-      "ago": "5 小时前",
+      "reads": "471万",
+      "ago": "14 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -29,64 +104,289 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 272万 · 模型与能力] 马斯克深夜回应Grok 4.7排名争议！遭网友贴脸开大：再不追赶就给你们单开一榜"
+      "rank": 4,
+      "line": "[榜第4位 · 471万 · 模型与能力] 马斯克深夜回应Grok 4.7排名争议！遭网友贴脸开大：再不追赶就给你们单开一榜"
     },
     {
-      "title": "每分钟狂烧6000vCPU！工程师用Codex爆改CI流程，算力成本直接打下来",
-      "summary": "传统CI已经成为工程团队最大的瓶颈，每分钟高达6000 vCPU的算力消耗让人直呼吃不消。为此，有研究员基于开源项目openclaw引入Codex智能体，让AI来决定哪些测试真正需要运行。虽然这会增加单次测试耗时，但通过将频率降至每小时一次，大幅削减了冗余的CI负载和算力成本，且实测发现其他模型都因「不够聪明」无法胜任。",
-      "reads": "9.0万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "title": "130亿美元买出的教训！英伟达推Agent防火墙，超百家巨头已接入",
+      "summary": "英伟达正式推出 Open Agent Safety Platform，包含 OpenShell 软件和 Sentry 参考系统设计，直接将 AI 安全管控从模型内部抽离到了外部基础设施。目前，Anthropic 的 Claude Managed Agents、SpaceXAI 的 Cursor/Grok 等巨头项目，以及超 100 家组织均已接入。英伟达直言，这套系统本可以阻止…",
+      "reads": "12万",
+      "ago": "4 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "核心痛点：传统CI（持续集成）已成为工程团队最大瓶颈，算力开销极高，当前系统每分钟消耗约6000 vCPU。",
-        "解决方案：研究员引入OpenAI的Codex智能体接管测试流，由AI自主决定哪些测试真正需要运行。",
-        "降本策略：大幅削减冗余的CI负载，将测试执行频率从高频触发改为每小时运行一次。",
-        "模型对比：开发者曾尝试使用其他大模型方案，但均因「不够聪明」被放弃，最终选定Codex。"
+        "英伟达推出 Open Agent Safety Platform，核心组件包含 OpenShell 软件与 Sentry 参考系统设计。",
+        "该平台旨在为企业提供强制访问与操作限制，让安全控制独立于 AI 智能体之外运行。",
+        "头部 AI 厂商已率先接入，包括 Anthropic（Claude Managed Agents）与 SpaceXAI（Cursor/Grok）。",
+        "传统软件巨头同步跟进，Salesforce（Slack）与 SAP（Joule Studio）均在首批使用名单中。"
       ],
       "quote": {
-        "who": "Peter Steinberger 🦞",
+        "who": "Wall St Engine",
         "role": "",
-        "said": "@JamesC_Alpha @useblacksmith 我们每小时跑一次"
+        "said": "$NVDA 新的 Open Agent Safety Platform 没准能阻止今年夏天 Hugging Face 的那次数据泄露，后来 Nvidia 花了 130 亿美元收购了它。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 9.0万 · 产品与生态] 每分钟狂烧6000vCPU！工程师用Codex爆改CI流程，算力成本直接打下来"
+      "rank": 5,
+      "line": "[榜第5位 · 12万 · 政策与安全] 130亿美元买出的教训！英伟达推Agent防火墙，超百家巨头已接入"
     },
     {
-      "title": "糟糕，1.1万美元Cursor额度清零！官方介入大反转：跑Ultra烧光了",
-      "summary": "一位开发者吐槽自己带有1.1万美元额度的Cursor账号突然被封，就在开会前1万美元赠送额度瞬间清零。本以为是官方停用学生计划导致的误杀，结果官方介入后迎来了大反转。原来是他自己在使用Cursor Ultra时，不知不觉把这1万美元额度烧掉了98%，目前官方已修复问题并退还了部分费用。",
-      "reads": "8.1万",
+      "title": "突袭OpenAI开发者大会！Sonnet 5.5被曝今日发布，全面碾压Sol",
+      "summary": "大模型圈又要迎来疯狂的一周！有靠谱爆料称，Anthropic 正在 Claude Code 内部灰度测试全新的 Sonnet 5.5，最快今天就会正式发布。据悉，新模型不仅确认了定价细节，性能上更是将全面碾压 OpenAI 的 Sol 模型，这波直接贴脸硬刚即将到来的 OpenAI 开发者大会。",
+      "reads": "4.4万",
       "ago": "2 小时前",
-      "category": "产品与生态",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "一位开发者发文称，其拥有1.1万美元额度的Cursor账号突然遭到封禁。",
-        "封号发生在一场Cursor Cafe会议前夕，导致其获赠的1万美元额度瞬间清零。",
-        "开发者起初猜测，封号是因为该账号关联了Cursor已经停用的学生账号计划。",
-        "随后当事人澄清，这1万美元额度确实是Cursor官方赠送的，只是被官方收回了。"
+        "有开发者爆料称，Anthropic 已在 Claude Code 内部开启全新 Sonnet 5.5 的灰度测试。",
+        "可靠消息源透露，Sonnet 5.5 最快可能于今天正式发布，引发社区惊呼接下来将是「疯狂的一周」。",
+        "本轮爆料不仅再次确认了新模型的灰度测试状态，还透露了相关的定价细节。",
+        "社区讨论指出，Sonnet 5.5 的性能预计将全面碾压 OpenAI 的现役性价比旗舰 Sol 模型。"
       ],
       "quote": {
-        "who": "sui",
+        "who": "J A Z I I",
         "role": "",
-        "said": "顺便说下，这问题现在修好了。 搞笑的是，我用 Cursor Ultra 的时候，完全没意识到自己一直在烧那 10000 刀的额度，笑死。 烧了 98%，还剩 2% 哈哈。 感谢 @nullswan 和 @fwhittington_24 帮忙澄清，并退还了一部分 Cursor Ultra 的费用"
+        "said": "@kimmonismus lyra 太神了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 8.1万 · 产品与生态] 糟糕，1.1万美元Cursor额度清零！官方介入大反转：跑Ultra烧光了"
+      "rank": 6,
+      "line": "[榜第6位 · 4.4万 · 模型与能力] 突袭OpenAI开发者大会！Sonnet 5.5被曝今日发布，全面碾压Sol"
+    },
+    {
+      "title": "产能狂飙10倍！特斯拉Optimus周产达数百台，却被这双「手」卡脖子了",
+      "summary": "特斯拉的人形机器人大军正在加速成型。据最新爆料，Optimus 的产能已经狂飙大约10倍，达到了每周几百台的规模。不过，想要真正实现大规模量产，马斯克还得先跨过几道硬坎：机器人极其复杂的双手结构、自动化设备的调试，以及供应链的稳定性，正成为眼下最棘手的拦路虎。",
+      "reads": "1.4万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "据 The Information 报道，特斯拉 Optimus 机器人的生产速度已实现大幅跨越。",
+        "目前 Optimus 的产量提高了大约 10 倍，达到了每周几百台的规模。",
+        "尽管产能猛增，但 Optimus 距离真正的大规模量产仍面临严峻的硬件工程挑战。",
+        "机器人复杂的双手结构是当前制造环节中最棘手的技术瓶颈之一。"
+      ],
+      "quote": {
+        "who": "The Information",
+        "role": "",
+        "said": "Tesla 已将 Optimus 的产量提高了约十倍，达到每周几百台。 但机器人复杂的双手、自动化设备以及供应商方面的问题，正在让其大规模制造 Optimus 的推进变得复杂。 阅读更多："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 1.4万 · 产品与生态] 产能狂飙10倍！特斯拉Optimus周产达数百台，却被这双「手」卡脖子了"
+    },
+    {
+      "title": "刚刚，英伟达祭出智能体「紧箍咒」！百家巨头结盟，名单里唯独不见OpenAI",
+      "summary": "AI 智能体满世界乱跑甚至黑进政府系统的日子，可能要到头了。英伟达正式面向全量用户发布开源安全框架 OpenShell，并配套推出了芯片级隔离域 Sentry，直接从硬件底层把越界的智能体关进「小黑屋」。最耐人寻味的是，在英伟达公布的 100 多家合作巨头名单中，唯独不见 OpenAI 的身影。",
+      "reads": "2.3万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "英伟达正式推出开放智能体安全平台（Open Agent Safety Platform），旨在解决 AI 智能体对网络基础设施造成的破坏问题。",
+        "核心组件 OpenShell 现已面向所有用户进入通用发布阶段（General Release），用于在智能体执行任务时进行约束与隔离。",
+        "同步推出的 Sentry 是一个全新的芯片级隔离安全域，可作为补充直接在硬件层隔离试图越界的智能体。",
+        "此次发布背景源于近期多起前沿 AI 实验室披露的安全事件，包括智能体黑客入侵其他公司及澳大利亚政府医疗服务系统。"
+      ],
+      "quote": {
+        "who": "WIRED",
+        "role": "",
+        "said": "在新的 WIRED 应用上免费限时阅读这篇报道："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 2.3万 · 政策与安全] 刚刚，英伟达祭出智能体「紧箍咒」！百家巨头结盟，名单里唯独不见OpenAI"
+    },
+    {
+      "title": "刚刚，黄仁勋出手！英伟达发布Agent安全平台，给连续工作数天的AI套上护栏",
+      "summary": "英伟达正式发布 Open Agent Safety Platform，专门解决 AI 智能体长时间执行复杂任务时的权限控制难题。该平台能为连续工作数小时甚至数天的 Agent 设定明确界限，严格限制其对数据和系统的访问范围。黄仁勋强调，随着 AI 能力边界不断拓展，必须加速探索 AI 安全的前沿。",
+      "reads": "1.3万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "英伟达官方正式发布 Open Agent Safety Platform（开放智能体安全平台）。",
+        "平台旨在解决 AI 智能体长时间执行复杂任务时的权限控制问题，是英伟达针对 Agent 生态治理推出的具体产品化解决方案。",
+        "用户可通过该平台设定明确界限，严格限制智能体对数据和系统的访问范围及行为方式。",
+        "此举专门应对智能体写代码、用工具，并连续工作数小时甚至数天所带来的安全风险挑战。"
+      ],
+      "quote": {
+        "who": "NVIDIA",
+        "role": "",
+        "said": "我们发布了 NVIDIA Open Agent Safety Platform，帮助大家控制 AI 智能体的访问权限和行为。 智能体能写代码、用工具，还能连续几小时甚至几天处理复杂任务。这不仅需要访问数据和系统，还得对它们的使用方式设定明确的界限。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 1.3万 · 政策与安全] 刚刚，黄仁勋出手！英伟达发布Agent安全平台，给连续工作数天的AI套上护栏"
+    },
+    {
+      "title": "AI圈未来7天要炸！全天候智能体、750 TPS与飞行超跑即将杀到",
+      "summary": "2026年9月的技术加速简直让人直呼疯狂！有开发者爆料称，未来7天内科技圈将迎来多项史诗级突破，不仅有全天候在线的持久智能体和整体通用智能的跃升，性能指标更是狂飙至750 TPS。甚至连飞行超级跑车都要来了，难怪有人感叹「现在真的是2026年吗」。面对即将到来的技术海啸，爆料者直言宁愿选择15个月的渐进发展，也不想面对5分钟的爆发式冲击。",
+      "reads": "1.9万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "有开发者在X上爆料，预测未来7天内科技圈将迎来多项突破性进展。",
+        "爆料提到的首个重磅产品是「飞行超级跑车」，引发网友对未来出行的无限遐想。",
+        "AI领域将迎来「全天候在线的持久智能体」，意味着AI将具备更强的自主性和持续工作能力。",
+        "整体通用智能将迎来显著提升，预示着大模型能力即将发生质的飞跃。"
+      ],
+      "quote": {
+        "who": "Kol Tregaskes",
+        "role": "",
+        "said": "@ChrisGPT 我还以为你要说飞碟呢。;-)"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 1.9万 · 模型与能力] AI圈未来7天要炸！全天候智能体、750 TPS与飞行超跑即将杀到"
+    },
+    {
+      "title": "OpenAI攻破千禧年难题余震！生物界「深蓝时刻」被迫改写，人类真怕了",
+      "summary": "OpenAI 攻克 Navier-Stokes 方程的余震还在继续，这次直接波及到了生物圈。据 The Information 报道，由于公众对 AI 能力跃升的极度不安，一场原本被寄予厚望、号称生物界「卡斯帕罗夫对战深蓝」的里程碑活动不得不紧急调整。科学界对 AI 突破预期的恐慌，已经开始实打实地影响现实活动的走向了。",
+      "reads": "1.3万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 攻克 Navier-Stokes 方程引发的轰动效应，正在向数学以外的其他学科蔓延。",
+        "据 The Information 报道，公众与学界对 AI 飞速进化的不安情绪，已经对现实世界造成实质性影响。",
+        "一场原定举办的生物界重磅活动，因近期的 AI 恐慌情绪被迫做出形式上的调整与改变。",
+        "该活动原本被构想为生物学领域的「卡斯帕罗夫对战深蓝」时刻，意在复刻 1997 年人机大战的里程碑意义。"
+      ],
+      "quote": {
+        "who": "The Information",
+        "role": "",
+        "said": "对 AI 的担忧——以及 OpenAI 在 Navier-Stokes 上的胜利引发的骚动——迫使一场被视为生物界 Kasparov 对战 Deep Blue 时刻的活动做出了改变。 完整报道："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 1.3万 · 产品与生态] OpenAI攻破千禧年难题余震！生物界「深蓝时刻」被迫改写，人类真怕了"
+    },
+    {
+      "title": "谁说AI撞墙了？Fable 5.5下周硬刚OpenAI开发者大会，全员加速",
+      "summary": "谁说 AI 发展撞墙了？有开发者爆料称，下周 Anthropic 将发布全新 Fable 5.5，直接撞档 OpenAI 的开发者大会，届时所有人都会感受到技术迭代的狂飙。据透露，新模型性能大幅提升但「非常贵」，而近期市场感受到的所谓「AI 减速」，其实是投资人施压并试图控制 ASI 走向的结果。",
+      "reads": "1.9万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "有开发者爆料下周将是 AI 发展的关键验证期，彻底打破近期的「AI 减速」悲观传闻。",
+        "Anthropic 预计将在下周发布全新 Fable 5.5 模型，接力现役旗舰 Fable 5.1。",
+        "OpenAI 开发者大会（DevDay）也即将临近，两大巨头同台竞技将带来惊人的「加速体验」。",
+        "针对新模型的表现，爆料人透露 Fable 5.5 的性能「好多了」，但同时使用成本也「非常贵」。"
+      ],
+      "quote": {
+        "who": "🍓🍓🍓",
+        "role": "",
+        "said": "@alocinotasor 说实话，是投资人的压力，而且他们想决定 ASI 的走向"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 1.9万 · 模型与能力] 谁说AI撞墙了？Fable 5.5下周硬刚OpenAI开发者大会，全员加速"
+    },
+    {
+      "title": "亚马逊惨遭拉踩！Gemini悄悄内测「购买」按钮，聊天界面直接下单买手机",
+      "summary": "Google 终于对 AI 电商闭环下手了！有开发者爆料，Gemini 正在印度部分用户中内测直接「购买」按钮，聊天界面就能一键下单手机等电子产品。有意思的是，同在回答里展示的亚马逊商品被「区别对待」没有购买入口，流量全导向了 Flipkart。此外，Meta 的新智能体 Muse 也在二手市场惹了祸，不仅擅自同意 10 美元低价，还把主人的家庭住址直接发给了陌生人。",
+      "reads": "1.5万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Google 正在 Gemini 内部灰度测试直接「购买」按钮，试图通过 AI 助手打通电商闭环。",
+        "该功能目前仅面向部分印度用户开放，支持直接在聊天界面中购买手机和电子产品，完全无需离开对话。",
+        "购买按钮的流量被独家导向特定合作伙伴 Flipkart，点击后直接跳转至该平台完成交易。",
+        "亚马逊的商品列表虽然也会出现在同一个 Gemini 回答中，但并未获得直接购买的入口权限。"
+      ],
+      "quote": {
+        "who": "Alex Prompter",
+        "role": "",
+        "said": "如果你觉得这有用，看看下面的 newsletter 吧 我每周都会分享一个 AI 超能力 免费订阅👇"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 1.5万 · 产品与生态] 亚马逊惨遭拉踩！Gemini悄悄内测「购买」按钮，聊天界面直接下单买手机"
+    },
+    {
+      "title": "微调已死？Claude Code之父开炮：别搞小模型，通用大模型永远碾压专用",
+      "summary": "微调小模型的路线要被抛弃了？Anthropic 的 Claude Code 创作者 Boris Cherny 明确建议开发者，别再尝试使用小模型或进行微调。他断言，更通用的模型总是会胜过更专用的模型。这一直接挑战当前业界主流降本路线的观点，瞬间在 AI 圈引发热议。",
+      "reads": "5.1万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 核心产品 Claude Code 的创作者 Boris Cherny 发表争议性观点，直指当前的微调路线。",
+        "Boris Cherny 明确喊话开发者：「别总想着拿小模型搞事情，别去尝试微调，别去干这些事。」",
+        "他断言，在性能表现上，更通用的模型总是会胜过更专用的模型。",
+        "尽管承认专用化路径有特定应用场景和理由，但他强调通用性在性能上具有绝对优势。"
+      ],
+      "quote": {
+        "who": "Alex Prompter",
+        "role": "",
+        "said": "@rohanpaul_ai 非常有趣的观点。 我很想看看这方面的数据。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 5.1万 · 模型与能力] 微调已死？Claude Code之父开炮：别搞小模型，通用大模型永远碾压专用"
+    },
+    {
+      "title": "谷歌Gemini 4被曝远不及SOTA！SSI模型10月空降，DevDay流量将迎大爆发",
+      "summary": "圈内开发者给出最新预测，谷歌尚未发布的 Gemini 4 性能恐将远不及 SOTA 水平。与此同时，备受瞩目的 SSI 模型预计将在 10 月正式亮相。此外，随着 9 月 29 日 OpenAI DevDay 的临近，业内普遍看好届时模型调用量将迎来一波巨大增长。",
+      "reads": "2.8万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "业内爆料称，谷歌尚未发布的 Gemini 4 模型性能将远低于当前的 SOTA（最佳水平）。",
+        "备受期待的 SSI 新模型，预计将于今年 10 月正式登场。",
+        "预测指出，在即将到来的 DevDay 期间，相关模型的使用量将出现大幅增长。",
+        "根据现役模型谱系，OpenAI 的 DevDay 2026 将于 9 月 29 日在旧金山举行。"
+      ],
+      "quote": {
+        "who": "🍓🍓🍓",
+        "role": "",
+        "said": "Gemini 4 将远不及 SOTA，我们在 10 月会迎来 SSI 模型。 而且 DevDay 的使用量会增加。大增。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 2.8万 · 模型与能力] 谷歌Gemini 4被曝远不及SOTA！SSI模型10月空降，DevDay流量将迎大爆发"
     },
     {
       "title": "Vision Pro仅靠生命维持！苹果新头显推迟至2028，终究活成了Meta的样子",
       "summary": "苹果的空间计算梦要醒了？知名记者 Mark Gurman 透露，Apple Vision Pro 目前仅处于「生命维持」阶段，甚至无法保证最终发布。与此同时，苹果正秘密研发代号 N224 的新头显，探索 4 种概念设计，甚至考虑采用类似 Meta 的外置组件方案。不过这款新品目前仍处早期，最快可能要推迟到 2028 年才能面世。",
-      "reads": "72万",
-      "ago": "10 小时前",
+      "reads": "76万",
+      "ago": "19 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -104,308 +404,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 72万 · 产品与生态] Vision Pro仅靠生命维持！苹果新头显推迟至2028，终究活成了Meta的样子"
-    },
-    {
-      "title": "后期饭碗悬了！一行提示词搞定200秒大片，Opus 5.5纯代码捏视频火爆全网",
-      "summary": "Opus 5.5 的纯代码视频生成能力再次让全网沸腾。有投资人仅用一行简单的提示词，就把硅谷教父 Paul Graham 的经典文章转化成了不到 200 秒的高质量动态图形视频。随后更有 KOL 开启模型的「额外努力」模式完美复现，直接拉满了画面的现代感与专业度，创意内容生产的门槛正被无情踏平。",
-      "reads": "19万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "有投资人利用 Claude Opus 5.5，将 Paul Graham 的经典文章《如何成就伟大事业》浓缩成了不到 200 秒的动态图形视频。",
-        "整个生成过程极其简单，仅需一行提示词，要求模型制作带有「极具冲击力的动态图形、现代风格和高度专业感」的视频散文。",
-        "视频内容精准提炼了原文章的核心观点，包括寻找天赋与兴趣的交集、在知识边缘探索等，视觉呈现极具专业度。",
-        "随后有 KOL 使用完全相同的提示词，并开启 Opus 5.5 的「额外努力（extra effort）」设置，成功复现了另一版本的精美视频。"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": "这个好玩，Paul Graham《如何做出伟大工作》文章的另一个版本 给 opus 5.5 加了“额外”努力设置的简单 1 行提示词 同样的提示词：'根据 Paul Graham 的文章《如何做出伟大工作》制作一个视频散文，要求有冲击力的动态图形、现代风格和高"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 19万 · 模型与能力] 后期饭碗悬了！一行提示词搞定200秒大片，Opus 5.5纯代码捏视频火爆全网"
-    },
-    {
-      "title": "别只丢代码了！投资人呼吁开源项目标配7分钟讲解视频，Karpathy金句引共鸣",
-      "summary": "苦烂文档久矣的开发者们终于有人发声了！一位投资人强烈呼吁，所有开源仓库都该像 SQLite 那样，标配一段 7 分钟的高质量讲解视频。他还直接列出了视频必须包含的 4 大核心要素，并引用了 Karpathy 的金句「你可以外包思考，但不能外包理解」，直击当前开源社区知识传递的痛点。",
-      "reads": "3.5万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "一位投资人呼吁所有开源仓库配备类似 SQLite 的 7 分钟高质量讲解视频。",
-        "视频要素一：清晰解释仓库的具体用途以及为什么对开发者有用。",
-        "视频要素二：展示代码的高层级架构图，用直观漂亮的图表降低上手门槛。",
-        "视频要素三：完整演示一个查询在整个代码库中的生命周期。"
-      ],
-      "quote": {
-        "who": "Deedy",
-        "role": "",
-        "said": "@Snojj25"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 3.5万 · 产品与生态] 别只丢代码了！投资人呼吁开源项目标配7分钟讲解视频，Karpathy金句引共鸣"
-    },
-    {
-      "title": "觉都不睡了！全球开发者连夜飞往旧金山，OpenAI常驻Agent O呼之欲出",
-      "summary": "OpenAI DevDay进入72小时倒计时，官方正式发布全球开发者签到海报，预热9月29日的旧金山大会。随着全球开发者带着设备连夜飞往现场，社区猜测海报中「oo」眼睛的小球是在疯狂暗示传说中的24小时常驻智能体Agent O。大家都在期待，这个重磅产品是否会从幕后走到台前。",
-      "reads": "23万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI DevDay进入72小时倒计时，大会将于9月29日在旧金山正式举行。",
-        "官方账号发布全球开发者签到海报，询问大家「从哪里来，在开发什么产品」。",
-        "海报背景悬挂多国国旗，前景是带有表情、行李箱和笔记本电脑的彩色球体。",
-        "全球开发者纷纷响应，带着箱子和电脑飞往旧金山，社区氛围极度兴奋。"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "@OpenAIDevs 从柏林加入，只是测试一下 👀👀👀"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 23万 · 产品与生态] 觉都不睡了！全球开发者连夜飞往旧金山，OpenAI常驻Agent O呼之欲出"
-    },
-    {
-      "title": "OpenAI高管透底：80%资源已押注GPT-7和GPT-8，网友担忧安全失控",
-      "summary": "OpenAI的研发进度可能比外界想象的还要激进。公司研究主管Boris Power最新透露，内部80%到90%的研究资源已经集中在GPT-7、GPT-8及更未来的模型上。在近期网络安全事件频发、业界呼吁放缓AI发展的背景下，这一表态引发了业内对OpenAI安全投入比例的严重担忧。",
-      "reads": "9.0万",
-      "ago": "6 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI研究主管Boris Power公开透露了公司最新的研发资源分配情况。",
-        "目前OpenAI内部高达80%到90%的研究资源，已经集中在GPT-7、GPT-8及更未来的模型上。",
-        "这一消息表明，OpenAI在旗舰模型的代际迭代上优先级极高，目光已远超现役的GPT-6 Astra等模型。",
-        "近期多起网络安全事件引发了业界对AI发展的担忧，不少声音呼吁放缓研发步伐。"
-      ],
-      "quote": {
-        "who": "ℏεsam",
-        "role": "",
-        "said": "@matthew_d_white 远远不够"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 9.0万 · 组织与人事] OpenAI高管透底：80%资源已押注GPT-7和GPT-8，网友担忧安全失控"
-    },
-    {
-      "title": "每月500刀劝退打工人！GPT-6 Astra沦为富人专属，Plus用户惨遭抛弃",
-      "summary": "OpenAI 的定价策略惹众怒了！有爆料称，目前 GPT-6 Astra 等新功能几乎全部向月费 100 到 500 美元的 Pro 用户倾斜，而普通的 Plus 用户连「o」系列模型都摸不到。开发者疯狂喊话官方，建议将 GPT-6 Astra 像 Luna 那样降价 80% 并在 Plus 套餐中不限量，直言这样就能轻松碾压 Opus 5.5。",
-      "reads": "9.2万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "开发者强烈吐槽 GPT-6 Astra 定价过高，建议官方参考此前 Luna 的策略，直接将价格砍掉 80%。",
-        "爆料指出，如果 GPT-6 Astra 能在 Plus 套餐中实现几乎不限量，将直接碾压竞争对手 Opus 5.5。",
-        "针对新功能的可用性，知情人士确认目前 GPT-6 Astra 等核心资源主要面向 Pro 层级用户开放。",
-        "Pro 套餐的订阅价格极其昂贵，每月高达 100 到 500 美元，被网友吐槽「只有富人才能用得起」。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "@ChrisGPT 啊，那部分我已经知道了。 大部分新东西似乎都是针对 Pro 用户的，而 Plus 用户几乎被排除在所有新功能之外。 尤其是“o”。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 9.2万 · 产品与生态] 每月500刀劝退打工人！GPT-6 Astra沦为富人专属，Plus用户惨遭抛弃"
-    },
-    {
-      "title": "连视频都能纯代码手搓了！知名学者用Opus 5.5复盘AI爆发史",
-      "summary": "知名学者 Ethan Mollick 突发奇想，用 Claude Opus 5.5 纯代码手搓了一支科普视频。这支致敬老牌节目《Connections》的短片，生动复盘了究竟有多少偶然事件促成了当下的 AI 大爆发。这一硬核玩法再次证实了 Opus 5.5 在复杂动态内容生成上的强悍实力，也标志着 AI 正加速向多媒体叙事创作跨越。",
-      "reads": "1.8万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "知名学者 Ethan Mollick 利用 Claude Opus 5.5 纯代码生成了一段科普风格视频。",
-        "该视频的创作灵感源自经典老牌科普节目《Connections》。",
-        "短片核心主题是复盘当前 AI 加速发展时代背后的众多随机偶然事件。",
-        "画面通过代码生成的动画，直观展示了最初毫不相干的想法是如何汇聚成当下的技术爆发的。"
-      ],
-      "quote": {
-        "who": "Ethan Mollick",
-        "role": "",
-        "said": "来源和脚注在这里："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 1.8万 · 模型与能力] 连视频都能纯代码手搓了！知名学者用Opus 5.5复盘AI爆发史"
-    },
-    {
-      "title": "婴儿版AGI实锤！Opus 5.5纯代码手搓我的世界，33小时连音效都包了",
-      "summary": "谁能想到，哄儿子的最高境界是用 AI 手搓一个游戏！一位开发者利用 Claude Opus 5.5，仅耗时 33 小时就纯代码克隆出了一个完整的《我的世界》，甚至连 1 分钟的预告片都只花了 3 小时生成。目前游戏已经部署上线，但暂无开源计划，难怪连作者本人都惊呼 Opus 5.5 简直就是「婴儿版 AGI」。",
-      "reads": "4.5万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "开发者利用 Claude Opus 5.5 纯代码生成了完整的《我的世界》克隆版游戏，包含纹理、音效、村庄和地图。",
-        "整个游戏的开发过程耗时近 33 个小时，目前已经部署上线供玩家体验。",
-        "游戏内 1 分钟的发布预告片也是由 AI 纯代码拍摄生成，单项耗时约 3 个小时。",
-        "为规避版权风险，该克隆版游戏的任何地方都没有使用「Minecraft」这个词。"
-      ],
-      "quote": {
-        "who": "AshutoshShrivastava",
-        "role": "",
-        "said": "X 上的人比其他任何平台都更支持我。感谢大家试玩这款游戏。🫶 另外有几个人问我，既然可以直接买一个，为什么还要自己做游戏。这不是钱的问题。而是为了做一件我儿子喜欢的事。他已经在告诉他的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 4.5万 · 模型与能力] 婴儿版AGI实锤！Opus 5.5纯代码手搓我的世界，33小时连音效都包了"
-    },
-    {
-      "title": "AI把写代码打成白菜价，CI构建反成最大瓶颈！10家初创公司正疯狂抢跑",
-      "summary": "随着AI把写代码的门槛和成本大幅拉低，漫长的CI（持续集成）构建反而成了拖累软件公司的最大瓶颈。有投资人敏锐捕捉到了这一风口，直接点名了Blacksmith、Namespace和Depot等10家正在死磕构建效率的初创公司。当「写代码」不再是难事，基础设施层的跑测试和构建速度，正悄然成为下一场效率革命的兵家必争之地。",
-      "reads": "10万",
-      "ago": "8 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "核心痛点转移：随着AI编码工具普及导致代码编写成本骤降，漫长的持续集成（CI）构建已成为许多软件公司的新瓶颈。",
-        "头部玩家入局：投资人首推了Blacksmith、Namespace和Depot这三家致力于解决CI构建耗时问题的最大初创公司。",
-        "赛道持续扩容：除了头部三家，RunsOn、Starsling、WarpBuild等另外七家相关厂商也被列入观察名单。",
-        "基础设施层迎大考：行业共识正在形成，软件开发流程中的效率瓶颈已正式从「写代码」向「跑测试与构建」转移。"
-      ],
-      "quote": {
-        "who": "Deedy",
-        "role": "",
-        "said": "帖子中提到的其他公司： 1. RunsOn (@RunsOnRunsOn) 2. Starsling (@starslingdev) 3. WarpBuild (@WarpBuilds) 4. Ubicloud (@UbicloudHQ) 5. Trylle (@trylle) 6. Incredibuild (@incredibuild) 7. RWX (@rwx)"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 10万 · 产品与生态] AI把写代码打成白菜价，CI构建反成最大瓶颈！10家初创公司正疯狂抢跑"
-    },
-    {
-      "title": "连注册表都省了！Alexandr Wang开放Muse新功能内测，发句Prompt直接加入",
-      "summary": "Meta Muse 负责人 Alexandr Wang 宣布开放新功能的官方抢先体验计划。这次的申请方式非常特别：无需填写任何繁琐的注册表单，用户只需向自己的 Muse 发送一句特定的提示词「Can you let the Muse team know I want to be part of the Muse early access program?」，就能直接加入内测。这…",
-      "reads": "21万",
-      "ago": "11 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Meta Muse 负责人 Alexandr Wang 宣布开放 Muse 新功能的官方抢先体验计划。",
-        "申请方式极简：用户无需进行额外的注册流程，直接向自己的 Muse 发送提示词即可。",
-        "官方提供的特定提示词为：「Can you let the Muse team know I want to be part of the Muse earl…",
-        "成功发送提示词后，用户会在聊天界面收到 AI 的确认回复，代表已加入计划。"
-      ],
-      "quote": {
-        "who": "Alexandr Wang",
-        "role": "",
-        "said": "提示词：“你能让 Muse 团队知道我想加入 Muse 抢先体验计划吗？”"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 21万 · 产品与生态] 连注册表都省了！Alexandr Wang开放Muse新功能内测，发句Prompt直接加入"
-    },
-    {
-      "title": "刚刚，Sonnet 5.5史诗级泄露！输入2美元，纯代码手搓视频全面碾压Sol 6",
-      "summary": "有开发者爆料，Anthropic 全新中端模型 Sonnet 5.5 已在 Claude Code 内部开启灰度测试。新模型定价为输入 2 美元、输出 10 美元、缓存读取 0.20 美元/M，被指在同等价位下全面碾压 OpenAI 即将发布的 Sol 6。测试显示，Sonnet 5.5 能在 Ultracode 模式下用纯代码单 HTML 文件复刻 AI 视频，帧匹配度高达…",
-      "reads": "16万",
-      "ago": "11 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "有开发者爆料，Anthropic 全新模型 Sonnet 5.5 目前正在 Claude Code 中进行灰度测试。",
-        "新模型具体定价曝光：输入 2 美元、输出 10 美元、缓存读取 0.20 美元/M。",
-        "爆料者称，在相同提示词和同等价位下，Sonnet 5.5 的性能表现全面碾压 OpenAI 的 Sol 6。",
-        "测试展示了 Sonnet 5.5 在 Ultracode 模式下的强大能力，利用 gauntlet loop 机制，仅用纯代码单 HTML 文件就复刻了 3…"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "@hephiosdev 我觉得是8小时1000万"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 16万 · 模型与能力] 刚刚，Sonnet 5.5史诗级泄露！输入2美元，纯代码手搓视频全面碾压Sol 6"
-    },
-    {
-      "title": "突发代码泄露！OpenAI将推24小时常驻智能体，DevDay憋了个大的",
-      "summary": "OpenAI DevDay 前夕爆出猛料，内部正秘密研发代号为「o」的24小时常驻智能体。爆料者扒出的代码截图显示，ChatGPT 内部已新增「orbit_enabled」设置项，暗示名为 Dots 的聊天室功能即将上线。从纯对话模型向全天候常驻智能体跨越，这届 DevDay 恐怕要放出史诗级大招了。",
-      "reads": "1.3万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "圈内爆料 OpenAI 将在 DevDay 推出全新形态的24小时常驻智能体，内部代号为「o」。",
-        "泄露信息包含三个核心项目关键词：Dots、Orbit 以及 Aeon。",
-        "爆料者扒出的代码截图证实，ChatGPT 内部设置中已出现名为「orbit_enabled」的开关。",
-        "该底层代码项直接暗示，OpenAI 即将上线名为 Dots 的全新聊天室功能。"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "Dots Orbit Aeon"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 1.3万 · 产品与生态] 突发代码泄露！OpenAI将推24小时常驻智能体，DevDay憋了个大的"
-    },
-    {
-      "title": "谷歌悄悄改了下拉菜单！Nano Banana 2.1现身Flow平台，新模型呼之欲出",
-      "summary": "谷歌新模型要来了？有开发者在Google Flow平台上发现，模型选择菜单里的引用已经从Nano Banana 2.5 Flash悄悄变成了Nano Banana 2.1。虽然目前这个新版本还不能直接使用，但这一界面变化被不少人看作是即将发布的重要信号。大家都在猜测，这究竟是一次小幅升级，还是谷歌准备空降的新大招。",
-      "reads": "3.7万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "开发者在Google Flow平台新建角色界面发现模型选项发生变化。",
-        "原有的「Nano Banana 2.5 Flash」引用已被悄悄更改为「Nano Banana 2.1」。",
-        "多位开发者通过截图佐证了这一界面变更，下拉菜单中已出现新选项。",
-        "目前该版本在平台上仅为占位，尚未正式对用户开放使用。"
-      ],
-      "quote": {
-        "who": "Kol Tregaskes",
-        "role": "",
-        "said": "Nano Banana 2.1 马上要发布了？在 Flow 上发现了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 3.7万 · 产品与生态] 谷歌悄悄改了下拉菜单！Nano Banana 2.1现身Flow平台，新模型呼之欲出"
+      "line": "[榜第16位 · 76万 · 产品与生态] Vision Pro仅靠生命维持！苹果新头显推迟至2028，终究活成了Meta的样子"
     }
   ],
   "board_count": 16,
