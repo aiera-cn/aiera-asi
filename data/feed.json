@@ -3,10 +3,22 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-28 06:02:54 +0800",
+  "fetched_at": "2026-09-28 08:37:05 +0800",
   "today": "09/28",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
+    {
+      "time": "07:40",
+      "date": "09/28",
+      "title": "谷歌生图模型改名了！Nano Banana 2.1现身Flow",
+      "summary": "Google Flow新一版网页构建里，Nano Banana 2.5 Flash的引用被改成了2.1。模型还不能用，谷歌也未官宣，下一代生图模型或许已经不远。",
+      "source": "新智元",
+      "id": "tgc2adfa",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgc2adfa&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/28 07:40] 谷歌生图模型改名了！Nano Banana 2.1现身Flow · https://www.aiera.com.cn/asi-item.html?id=tgc2adfa&from=yuanyuan"
+    },
     {
       "time": "04:22",
       "date": "09/28",
@@ -198,6 +210,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgb063e0&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/27 08:49] 对标OpenAI！不会代码，也能跑Claude API · https://www.aiera.com.cn/asi-item.html?id=tgb063e0&from=yuanyuan"
+    },
+    {
+      "time": "05:45",
+      "date": "09/28",
+      "title": "14小时干完人类17周的活，闭源Agent一骑绝尘，开源模型这回真掉队了",
+      "summary": "人类工程师要干 17 周的软件活，AI 自己跑了 14 个小时就交了差。 Epoch 做了一次实验，让 Opus 4.7 全程自主运行，把一整个软件包开发完，总共花了 251…",
+      "source": "X/emollick",
+      "id": "484c5735",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=484c5735&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/28 05:45] 14小时干完人类17周的活，闭源Agent一骑绝尘，开源模型这回真掉队了 · https://www.aiera.com.cn/asi-item.html?id=484c5735&from=yuanyuan"
     },
     {
       "time": "04:06",
@@ -702,30 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgc09f96&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/26 12:30] 盖茨警告：AI可致十亿人死亡！教皇痛批「机器天堂」 · https://www.aiera.com.cn/asi-item.html?id=tgc09f96&from=yuanyuan"
-    },
-    {
-      "time": "11:29",
-      "date": "09/26",
-      "title": "音效全用Python合成，Claude Opus 5.5纯靠代码画出9种画风",
-      "summary": "沃顿商学院教授 Ethan Mollick 在 X 上晒出一段视频，主题是解释递归，全片切了 9 种画风，出自 Claude Opus 5.5 之手。 他只给了一段提示词…",
-      "source": "X/emollick",
-      "id": "e06905ee",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=e06905ee&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/26 11:29] 音效全用Python合成，Claude Opus 5.5纯靠代码画出9种画风 · https://www.aiera.com.cn/asi-item.html?id=e06905ee&from=yuanyuan"
-    },
-    {
-      "time": "09:34",
-      "date": "09/26",
-      "title": "平均6天一个新旗舰！大模型更新快到人类跟不上了",
-      "summary": "太疯狂了，短短两天，竟然冒出了4个新模型！前脚，老马的xAI才刚发完Grok 4.7。紧接着，OpenAI突然甩出GPT-6 Sol和Luna，价格直接腰斩。同一天…",
-      "source": "新智元",
-      "id": "tgf7fb1d",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgf7fb1d&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/26 09:34] 平均6天一个新旗舰！大模型更新快到人类跟不上了 · https://www.aiera.com.cn/asi-item.html?id=tgf7fb1d&from=yuanyuan"
     }
   ],
   "feed_count": 60,
