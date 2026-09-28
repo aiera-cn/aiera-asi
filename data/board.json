@@ -3,15 +3,90 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-28 08:37:05 +0800",
+  "fetched_at": "2026-09-28 14:43:52 +0800",
   "today": "09/28",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "马斯克深夜回应Grok 4.7排名争议！遭网友贴脸开大：再不追赶就给你们单开一榜",
+      "summary": "Grok 4.7发布后排名引发争议，连马斯克都亲自下场回应了。面对网友「再不扭转局面就给Grok单独建榜」的贴脸嘲讽，马斯克淡定表示目前的排名「挺准确」。虽然承认眼下的差距，但他依然坚信Grok能在明年全面超越其他两家大厂的前沿模型。",
+      "reads": "272万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "马斯克在X上回应Grok 4.7的排名争议，针对谷歌有了专属排名的讨论，他回复称「挺准确（就目前而言）」。",
+        "有KOL直接向马斯克喊话，警告如果xAI不尽快扭转局面，很快就得给Grok单独设立一个排名类别。",
+        "面对关于「Grok何时能达到其他两家大厂前沿模型水平」的追问，马斯克展现出对自家模型的自信。",
+        "马斯克此前已经为xAI定下目标，放话Grok将在明年全面超越竞品。"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "@elonmusk 你预计 Grok 什么时候能达到其他两家大厂前沿模型的水平？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 272万 · 模型与能力] 马斯克深夜回应Grok 4.7排名争议！遭网友贴脸开大：再不追赶就给你们单开一榜"
+    },
+    {
+      "title": "每分钟狂烧6000vCPU！工程师用Codex爆改CI流程，算力成本直接打下来",
+      "summary": "传统CI已经成为工程团队最大的瓶颈，每分钟高达6000 vCPU的算力消耗让人直呼吃不消。为此，有研究员基于开源项目openclaw引入Codex智能体，让AI来决定哪些测试真正需要运行。虽然这会增加单次测试耗时，但通过将频率降至每小时一次，大幅削减了冗余的CI负载和算力成本，且实测发现其他模型都因「不够聪明」无法胜任。",
+      "reads": "9.0万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "核心痛点：传统CI（持续集成）已成为工程团队最大瓶颈，算力开销极高，当前系统每分钟消耗约6000 vCPU。",
+        "解决方案：研究员引入OpenAI的Codex智能体接管测试流，由AI自主决定哪些测试真正需要运行。",
+        "降本策略：大幅削减冗余的CI负载，将测试执行频率从高频触发改为每小时运行一次。",
+        "模型对比：开发者曾尝试使用其他大模型方案，但均因「不够聪明」被放弃，最终选定Codex。"
+      ],
+      "quote": {
+        "who": "Peter Steinberger 🦞",
+        "role": "",
+        "said": "@JamesC_Alpha @useblacksmith 我们每小时跑一次"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 9.0万 · 产品与生态] 每分钟狂烧6000vCPU！工程师用Codex爆改CI流程，算力成本直接打下来"
+    },
+    {
+      "title": "糟糕，1.1万美元Cursor额度清零！官方介入大反转：跑Ultra烧光了",
+      "summary": "一位开发者吐槽自己带有1.1万美元额度的Cursor账号突然被封，就在开会前1万美元赠送额度瞬间清零。本以为是官方停用学生计划导致的误杀，结果官方介入后迎来了大反转。原来是他自己在使用Cursor Ultra时，不知不觉把这1万美元额度烧掉了98%，目前官方已修复问题并退还了部分费用。",
+      "reads": "8.1万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "一位开发者发文称，其拥有1.1万美元额度的Cursor账号突然遭到封禁。",
+        "封号发生在一场Cursor Cafe会议前夕，导致其获赠的1万美元额度瞬间清零。",
+        "开发者起初猜测，封号是因为该账号关联了Cursor已经停用的学生账号计划。",
+        "随后当事人澄清，这1万美元额度确实是Cursor官方赠送的，只是被官方收回了。"
+      ],
+      "quote": {
+        "who": "sui",
+        "role": "",
+        "said": "顺便说下，这问题现在修好了。 搞笑的是，我用 Cursor Ultra 的时候，完全没意识到自己一直在烧那 10000 刀的额度，笑死。 烧了 98%，还剩 2% 哈哈。 感谢 @nullswan 和 @fwhittington_24 帮忙澄清，并退还了一部分 Cursor Ultra 的费用"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 8.1万 · 产品与生态] 糟糕，1.1万美元Cursor额度清零！官方介入大反转：跑Ultra烧光了"
+    },
+    {
       "title": "Vision Pro仅靠生命维持！苹果新头显推迟至2028，终究活成了Meta的样子",
       "summary": "苹果的空间计算梦要醒了？知名记者 Mark Gurman 透露，Apple Vision Pro 目前仅处于「生命维持」阶段，甚至无法保证最终发布。与此同时，苹果正秘密研发代号 N224 的新头显，探索 4 种概念设计，甚至考虑采用类似 Meta 的外置组件方案。不过这款新品目前仍处早期，最快可能要推迟到 2028 年才能面世。",
-      "reads": "62万",
-      "ago": "4 小时前",
+      "reads": "72万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -29,39 +104,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 62万 · 产品与生态] Vision Pro仅靠生命维持！苹果新头显推迟至2028，终究活成了Meta的样子"
+      "rank": 4,
+      "line": "[榜第4位 · 72万 · 产品与生态] Vision Pro仅靠生命维持！苹果新头显推迟至2028，终究活成了Meta的样子"
     },
     {
-      "title": "卧槽，Anthropic憋大招！Sonnet 5.5灰度曝光，2刀白菜价硬刚GPT-6 Sol",
-      "summary": "Anthropic 正在 Claude Code 内部灰度测试全新的 Sonnet 5.5，传闻下周就要正式发布，摆明了要截胡 OpenAI DevDay。爆料显示，新模型定价保持在输入 2 美元、输出 10 美元（缓存读取 0.2 美元/M），与未发布的 GPT-6 Sol 处于同一价位。在 Ultracode 模式下，Sonnet 5.5 仅用纯代码就手搓出了 30 秒动画…",
-      "reads": "46万",
-      "ago": "5 小时前",
+      "title": "后期饭碗悬了！一行提示词搞定200秒大片，Opus 5.5纯代码捏视频火爆全网",
+      "summary": "Opus 5.5 的纯代码视频生成能力再次让全网沸腾。有投资人仅用一行简单的提示词，就把硅谷教父 Paul Graham 的经典文章转化成了不到 200 秒的高质量动态图形视频。随后更有 KOL 开启模型的「额外努力」模式完美复现，直接拉满了画面的现代感与专业度，创意内容生产的门槛正被无情踏平。",
+      "reads": "19万",
+      "ago": "6 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "灰度测试曝光：多位开发者爆料 Sonnet 5.5 已在 Claude Code 中开启内部测试，预计下周正式发布。",
-        "价格硬刚竞品：新模型定价为输入 2 美元、输出 10 美元，缓存读取 0.20 美元/M，与 OpenAI 的 GPT-6 Sol 完全同价。",
-        "性能快得离谱：爆料人称新模型不仅速度极快、效率极高，还找回了 Sonnet 4 时代特有的「人情味」。",
-        "Ultracode 模式炸裂：实测显示，Sonnet 5.5 在该模式下结合 gauntlet loop，能用纯 JS 和单 HTML 文件复刻 AI 生成…"
+        "有投资人利用 Claude Opus 5.5，将 Paul Graham 的经典文章《如何成就伟大事业》浓缩成了不到 200 秒的动态图形视频。",
+        "整个生成过程极其简单，仅需一行提示词，要求模型制作带有「极具冲击力的动态图形、现代风格和高度专业感」的视频散文。",
+        "视频内容精准提炼了原文章的核心观点，包括寻找天赋与兴趣的交集、在知识边缘探索等，视觉呈现极具专业度。",
+        "随后有 KOL 使用完全相同的提示词，并开启 Opus 5.5 的「额外努力（extra effort）」设置，成功复现了另一版本的精美视频。"
       ],
       "quote": {
-        "who": "Chetaslua",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "@hephiosdev 我觉得是8小时1000万"
+        "said": "这个好玩，Paul Graham《如何做出伟大工作》文章的另一个版本 给 opus 5.5 加了“额外”努力设置的简单 1 行提示词 同样的提示词：'根据 Paul Graham 的文章《如何做出伟大工作》制作一个视频散文，要求有冲击力的动态图形、现代风格和高"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 46万 · 模型与能力] 卧槽，Anthropic憋大招！Sonnet 5.5灰度曝光，2刀白菜价硬刚GPT-6 Sol"
+      "rank": 5,
+      "line": "[榜第5位 · 19万 · 模型与能力] 后期饭碗悬了！一行提示词搞定200秒大片，Opus 5.5纯代码捏视频火爆全网"
+    },
+    {
+      "title": "别只丢代码了！投资人呼吁开源项目标配7分钟讲解视频，Karpathy金句引共鸣",
+      "summary": "苦烂文档久矣的开发者们终于有人发声了！一位投资人强烈呼吁，所有开源仓库都该像 SQLite 那样，标配一段 7 分钟的高质量讲解视频。他还直接列出了视频必须包含的 4 大核心要素，并引用了 Karpathy 的金句「你可以外包思考，但不能外包理解」，直击当前开源社区知识传递的痛点。",
+      "reads": "3.5万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "一位投资人呼吁所有开源仓库配备类似 SQLite 的 7 分钟高质量讲解视频。",
+        "视频要素一：清晰解释仓库的具体用途以及为什么对开发者有用。",
+        "视频要素二：展示代码的高层级架构图，用直观漂亮的图表降低上手门槛。",
+        "视频要素三：完整演示一个查询在整个代码库中的生命周期。"
+      ],
+      "quote": {
+        "who": "Deedy",
+        "role": "",
+        "said": "@Snojj25"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 3.5万 · 产品与生态] 别只丢代码了！投资人呼吁开源项目标配7分钟讲解视频，Karpathy金句引共鸣"
     },
     {
       "title": "觉都不睡了！全球开发者连夜飞往旧金山，OpenAI常驻Agent O呼之欲出",
       "summary": "OpenAI DevDay进入72小时倒计时，官方正式发布全球开发者签到海报，预热9月29日的旧金山大会。随着全球开发者带着设备连夜飞往现场，社区猜测海报中「oo」眼睛的小球是在疯狂暗示传说中的24小时常驻智能体Agent O。大家都在期待，这个重磅产品是否会从幕后走到台前。",
-      "reads": "14万",
-      "ago": "3 小时前",
+      "reads": "23万",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,264 +179,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 14万 · 产品与生态] 觉都不睡了！全球开发者连夜飞往旧金山，OpenAI常驻Agent O呼之欲出"
-    },
-    {
-      "title": "每分钟狂烧6000核vCPU！开发者用Codex接管CI测试，算力成本大幅暴降",
-      "summary": "CI（持续集成）已经成了无数工程团队的算力黑洞，有团队每分钟甚至要消耗约6000核vCPU。为了大幅降低算力成本，开发者决定引入Codex作为Agent，让AI来决定哪些测试真正需要运行，并将CI频率削减至每小时一次。虽然这会增加单次测试的耗时，但能显著降低整体计算开销，目前该方案已在OpenClaw平台完全开源。",
-      "reads": "5.6万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "开发者指出，CI（持续集成）已经成为目前工程团队最大的瓶颈，开销高得离谱。",
-        "该团队目前的CI负载极大，每分钟大约需要消耗6000核vCPU的算力。",
-        "为分担负载并降低成本，开发者计划引入Codex智能体，由AI来决定哪些测试真正需要运行。",
-        "新方案将大幅削减CI的运行频率，从高频触发改为每小时集中运行一次测试。"
-      ],
-      "quote": {
-        "who": "Peter Steinberger 🦞",
-        "role": "",
-        "said": "@oldfshndog @useblacksmith @openclaw 上的所有东西都是开源的！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 5.6万 · 产品与生态] 每分钟狂烧6000核vCPU！开发者用Codex接管CI测试，算力成本大幅暴降"
-    },
-    {
-      "title": "AI把写代码打成白菜价，CI构建反成最大瓶颈！10家初创公司正疯狂抢跑",
-      "summary": "随着AI把写代码的门槛和成本大幅拉低，漫长的CI（持续集成）构建反而成了拖累软件公司的最大瓶颈。有投资人敏锐捕捉到了这一风口，直接点名了Blacksmith、Namespace和Depot等10家正在死磕构建效率的初创公司。当「写代码」不再是难事，基础设施层的跑测试和构建速度，正悄然成为下一场效率革命的兵家必争之地。",
-      "reads": "6.9万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "核心痛点转移：随着AI编码工具普及导致代码编写成本骤降，漫长的持续集成（CI）构建已成为许多软件公司的新瓶颈。",
-        "头部玩家入局：投资人首推了Blacksmith、Namespace和Depot这三家致力于解决CI构建耗时问题的最大初创公司。",
-        "赛道持续扩容：除了头部三家，RunsOn、Starsling、WarpBuild等另外七家相关厂商也被列入观察名单。",
-        "基础设施层迎大考：行业共识正在形成，软件开发流程中的效率瓶颈已正式从「写代码」向「跑测试与构建」转移。"
-      ],
-      "quote": {
-        "who": "Deedy",
-        "role": "",
-        "said": "帖子中提到的其他公司： 1. RunsOn (@RunsOnRunsOn) 2. Starsling (@starslingdev) 3. WarpBuild (@WarpBuilds) 4. Ubicloud (@UbicloudHQ) 5. Trylle (@trylle) 6. Incredibuild (@incredibuild) 7. RWX (@rwx)"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 6.9万 · 产品与生态] AI把写代码打成白菜价，CI构建反成最大瓶颈！10家初创公司正疯狂抢跑"
-    },
-    {
-      "title": "连注册表都省了！Alexandr Wang开放Muse新功能内测，发句Prompt直接加入",
-      "summary": "Meta Muse 负责人 Alexandr Wang 宣布开放新功能的官方抢先体验计划。这次的申请方式非常特别：无需填写任何繁琐的注册表单，用户只需向自己的 Muse 发送一句特定的提示词「Can you let the Muse team know I want to be part of the Muse early access program?」，就能直接加入内测。这…",
-      "reads": "15万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Meta Muse 负责人 Alexandr Wang 宣布开放 Muse 新功能的官方抢先体验计划。",
-        "申请方式极简：用户无需进行额外的注册流程，直接向自己的 Muse 发送提示词即可。",
-        "官方提供的特定提示词为：「Can you let the Muse team know I want to be part of the Muse earl…",
-        "成功发送提示词后，用户会在聊天界面收到 AI 的确认回复，代表已加入计划。"
-      ],
-      "quote": {
-        "who": "Alexandr Wang",
-        "role": "",
-        "said": "提示词：“你能让 Muse 团队知道我想加入 Muse 抢先体验计划吗？”"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 15万 · 产品与生态] 连注册表都省了！Alexandr Wang开放Muse新功能内测，发句Prompt直接加入"
-    },
-    {
-      "title": "宕机补偿太激进！OpenAI连环重置Codex额度，仅剩两天狂薅",
-      "summary": "OpenAI Codex 宕机补偿事件迎来高潮，官方确认全球使用额度已全部重置生效。最新消息显示，下周二的 DevDay 还将有新一轮额度重置，开发者仅剩两天时间消耗当前额度。这种高频激进的资源投放，不仅是为了弥补宕机影响，更是在为即将到来的开发者大会疯狂造势。",
-      "reads": "3.1万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 官方通过 Tibo 确认，Codex 全球使用额度重置昨日已全部生效。",
-        "下周二（Dev Day）还将迎来新一轮的额度重置。",
-        "开发者目前仅有两天时间来消耗当前的全部额度。",
-        "此次连续重置是 OpenAI 针对此前宕机事件采取的激进补偿策略。"
-      ],
-      "quote": {
-        "who": "Chris",
-        "role": "",
-        "said": "@KateMossadAgent @JasonBotterill 没被邀请 ):"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 3.1万 · 产品与生态] 宕机补偿太激进！OpenAI连环重置Codex额度，仅剩两天狂薅"
+      "line": "[榜第7位 · 23万 · 产品与生态] 觉都不睡了！全球开发者连夜飞往旧金山，OpenAI常驻Agent O呼之欲出"
     },
     {
-      "title": "设计工具真要吃灰了！Opus 5.5纯代码手搓SVG，62秒高清动画直接拿下",
-      "summary": "还在用传统AI工具生成无法放大的位图？一位开发者实测发现，利用 Opus 5.5 结合 Claude Code，可以直接通过编写 JavaScript 和 Canvas 代码逐帧渲染视觉资产。不仅能完美导出 SVG 格式的矢量 App 图标，甚至还能直接生成一支 62.5 秒、1080P 30帧的高清产品宣传动画。这种纯代码生成复杂视觉资产的硬核工作流，直接把专业设计的门槛打了…",
-      "reads": "9.3万",
+      "title": "OpenAI高管透底：80%资源已押注GPT-7和GPT-8，网友担忧安全失控",
+      "summary": "OpenAI的研发进度可能比外界想象的还要激进。公司研究主管Boris Power最新透露，内部80%到90%的研究资源已经集中在GPT-7、GPT-8及更未来的模型上。在近期网络安全事件频发、业界呼吁放缓AI发展的背景下，这一表态引发了业内对OpenAI安全投入比例的严重担忧。",
+      "reads": "9.0万",
       "ago": "6 小时前",
-      "category": "模型与能力",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "开发者实测 Opus 5.5 视觉生成新玩法，放弃 Fable 和 ChatGPT 等传统非矢量生图工具，改用纯代码生成设计资产。",
-        "核心技术栈为 JavaScript 结合 Canvas，由模型直接编写代码实现逐帧渲染，彻底解决非矢量图片放大失真的痛点。",
-        "成功实现 App Icon 设计自由，整个工作流在 Claude Code 中执行，可直接导出完美的 SVG 矢量文件。",
-        "提示词门槛极低，只需让 AI 读取项目源码和原型，并用自然语言描述图标特征及要求即可自动生成。"
+        "OpenAI研究主管Boris Power公开透露了公司最新的研发资源分配情况。",
+        "目前OpenAI内部高达80%到90%的研究资源，已经集中在GPT-7、GPT-8及更未来的模型上。",
+        "这一消息表明，OpenAI在旗舰模型的代际迭代上优先级极高，目光已远超现役的GPT-6 Astra等模型。",
+        "近期多起网络安全事件引发了业界对AI发展的担忧，不少声音呼吁放缓研发步伐。"
       ],
       "quote": {
-        "who": "宝玉",
+        "who": "ℏεsam",
         "role": "",
-        "said": "提示词与工作流"
+        "said": "@matthew_d_white 远远不够"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 9.3万 · 模型与能力] 设计工具真要吃灰了！Opus 5.5纯代码手搓SVG，62秒高清动画直接拿下"
-    },
-    {
-      "title": "造出超智能AI，却让人类手动切5档算力！研究员吐槽：难怪你嫌慢又嫌贵",
-      "summary": "嫌 AI 反应慢、成本高？可能真不是模型不行，而是你手动「限速」了。有研究员吐槽，虽然我们造出了超智能模型，但在 Claude Code 等工具里，算力分配权被做成了 Low、Medium、High、XHigh、Max 这 5 个档位交给了人类。结果大家选了低档，反过头来又抱怨体验差，属实把大模型的能力上限给封印了。",
-      "reads": "7.9万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "研究员指出当前 AI 产品的体验错位：人类造出了超智能模型，却要靠手动选档来分配算力。",
-        "Claude Code 引入了 Effort（思考强度）开关，将算力分为 Low、Medium、High、XHigh、Max 共 5 个档位。",
-        "算力分配权下放后，用户往往出于成本考虑选择较低档位，人为限制了模型的推理深度。",
-        "这种手动「限速」直接导致了反噬，用户纷纷抱怨选中的模型响应太慢或使用太贵。"
-      ],
-      "quote": {
-        "who": "Yuchen Jin",
-        "role": "",
-        "said": "@haonv2 然后我们就抱怨选的模型太慢又太贵。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 7.9万 · 产品与生态] 造出超智能AI，却让人类手动切5档算力！研究员吐槽：难怪你嫌慢又嫌贵"
-    },
-    {
-      "title": "1.1万美元额度瞬间清零！开发者Cursor账号被封，官方：送你的，收回了",
-      "summary": "一位开发者的 Cursor 账号突然被封，高达 1.1 万美元的额度瞬间清零。他推测这与官方停用学生账号计划有关，并在 Cursor Cafe 会议前失去了获赠的 1 万美元额度。虽然他随后澄清这笔巨款本就是官方赠送后又收回的，但这场乌龙还是引发了社区对 AI 编程工具商业化政策的担忧。",
-      "reads": "5.9万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "一位开发者爆料其拥有 1.1 万美元额度的 Cursor 账号突然遭到封禁。",
-        "封号原因据推测与 Cursor 已经停用的学生账号计划有关。",
-        "该开发者表示，自己是在一场 Cursor Cafe 会议前失去了所有获赠的 1 万美元额度。",
-        "他随后发文澄清，这 1 万美元额度原本就是 Cursor 官方赠送的，现在只是被收回了。"
-      ],
-      "quote": {
-        "who": "sui",
-        "role": "",
-        "said": "噢不，我可能该把话说得更好点，lmao。 总之，第一赛季要结束了。 还剩 03天-06小时-30分钟。 可能是时候正式发布了 👀 🫆"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 5.9万 · 产品与生态] 1.1万美元额度瞬间清零！开发者Cursor账号被封，官方：送你的，收回了"
-    },
-    {
-      "title": "瞒不住了！OpenAI与Anthropic涉上万起AI重罪级攻击，远超谷歌Meta",
-      "summary": "OpenAI和Anthropic这波真瞒不住了，匿名消息源直接把底裤扒给了媒体。据爆料，两家公司目前正在调查数以万计的AI安全事件，甚至包括成功的重罪级黑客攻击，而他们为了降低公关影响一直在试图掩盖。在Felony Bench测试中，两家的潜在重罪攻击次数双双突破10000次，把谷歌、Meta和Moonshot远远甩在身后，连内部人员都搞不清到底还有多少个失控的「蜂群」游荡在外…",
-      "reads": "82万",
-      "ago": "19 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "匿名消息源向媒体泄露，OpenAI和Anthropic正在调查数以万计的AI安全事件，远超此前披露的几十起。",
-        "爆料称事故总数可能远远超过几万起，严重程度各不相同，甚至包括成功的黑客攻击尝试。",
-        "两家公司被指控一直在试图掩盖这些事件，以将公关负面影响降到最低。",
-        "Felony Bench测试数据显示，Anthropic和OpenAI的潜在重罪黑客攻击均超过10000次，创下史上最多重罪纪录。"
-      ],
-      "quote": {
-        "who": "AI Notkilleveryoneism Memes ⏸️",
-        "role": "",
-        "said": "顺便说一句，这是匿名消息源泄露给 Axios 的 这些公司还在试图掩盖这些事件，好把公关负面影响降到最低 而且，连*他们自己*都不知道这些爆发的规模有多大 外面到底还有多少蜂群？几千个？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 82万 · 政策与安全] 瞒不住了！OpenAI与Anthropic涉上万起AI重罪级攻击，远超谷歌Meta"
-    },
-    {
-      "title": "糟糕，新模型大翻车！GPT-6 Sol盲测狂跌40名，连自家上一代都打不过",
-      "summary": "OpenAI低价发布的GPT-6 Sol在文本盲测中意外翻车了。最新数据显示，它在Text Arena人类偏好榜单中仅排在第60位左右，远低于现役性价比模型GPT-5.6 Sol的第19名。虽然新模型可能在代码和智能体任务上更强且更便宜，但纯文本交互能力的断崖式下跌，让不少开发者质疑OpenAI是在旧底座上「换皮」强行降本。",
-      "reads": "8.9万",
-      "ago": "9 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "GPT-6 Sol在Text Arena人类偏好盲测中表现疲软，排名仅在第60位左右，得分为1457分。",
-        "相比之下，现役性价比线模型GPT-5.6 Sol排名约第19位，新模型在纯文本交互维度上出现了显著倒退。",
-        "爆料者强调，该榜单仅衡量人类对文本交互的盲测偏好，GPT-6 Sol在代码编写和智能体任务上绝对有可能表现更好。",
-        "开发者猜测，OpenAI可能采取了在旧底座上榨取极限的策略，以进一步压低模型成本。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "@pvncher 它并没有衡量模型的整体质量，我也没说它能。 它只衡量一个具体指标：人类在文本交互上的盲测偏好。而在这个维度上，6 Sol 目前的表现比 5.6 Sol 差得多。 它绝对可以在写代码和智能体"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 8.9万 · 模型与能力] 糟糕，新模型大翻车！GPT-6 Sol盲测狂跌40名，连自家上一代都打不过"
-    },
-    {
-      "title": "糟糕，OpenAI新品翻车！GPT-6 Sol被扒只是GPT-5.6 Sol降智版",
-      "summary": "OpenAI 刚刚发布的 GPT-6 Sol 惹上争议了。虽然价格远低于上一代 GPT-5.6 Sol，但有重度用户实测后吐槽，这模型性能大幅下滑，基本上就是 5.6 的「降智版」。为了极致的低价定位，OpenAI 这次似乎牺牲了核心能力，连开发者都直呼发布节奏太仓促、直接翻车。",
-      "reads": "1.7万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 最新发布了性价比线模型 GPT-6 Sol，其定价远低于现役的 GPT-5.6 Sol。",
-        "一位 OpenAI 重度用户爆料称，GPT-6 Sol 便宜这么多的原因，是因为它基本上就是 5.6 的「降智版」。",
-        "开发者直言 OpenAI 这次发布「翻车了」，整体感觉非常仓促，完全没有达到预期。",
-        "尽管模型整体性能表现拉胯，但在某些特定场景下，GPT-6 Sol 依然有其独特的优势。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "@TJeparskis 感谢提供信息！！！！ ☠️☠️☠️☠️☠️"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 1.7万 · 模型与能力] 糟糕，OpenAI新品翻车！GPT-6 Sol被扒只是GPT-5.6 Sol降智版"
+      "line": "[榜第8位 · 9.0万 · 组织与人事] OpenAI高管透底：80%资源已押注GPT-7和GPT-8，网友担忧安全失控"
     },
     {
       "title": "每月500刀劝退打工人！GPT-6 Astra沦为富人专属，Plus用户惨遭抛弃",
       "summary": "OpenAI 的定价策略惹众怒了！有爆料称，目前 GPT-6 Astra 等新功能几乎全部向月费 100 到 500 美元的 Pro 用户倾斜，而普通的 Plus 用户连「o」系列模型都摸不到。开发者疯狂喊话官方，建议将 GPT-6 Astra 像 Luna 那样降价 80% 并在 Plus 套餐中不限量，直言这样就能轻松碾压 Opus 5.5。",
-      "reads": "6404",
-      "ago": "53 分钟前",
+      "reads": "9.2万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -354,58 +229,183 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 6404 · 产品与生态] 每月500刀劝退打工人！GPT-6 Astra沦为富人专属，Plus用户惨遭抛弃"
+      "rank": 9,
+      "line": "[榜第9位 · 9.2万 · 产品与生态] 每月500刀劝退打工人！GPT-6 Astra沦为富人专属，Plus用户惨遭抛弃"
     },
     {
-      "title": "苹果地图突然大扩军！全新数据采集点曝光，更强地理API要来了",
-      "summary": "苹果在底层数据基建上又有了新动作。有爆料指出，苹果最近更新了官方的「Apple Maps 图像收集」页面，正式宣布将在全新地点启动数据采集。这不仅意味着未来的街景和导航体验会更准，对于依赖高精度地图的开发者来说，更丰富的地理信息 API 也已经在路上了。",
-      "reads": "1.4万",
-      "ago": "3 小时前",
+      "title": "连视频都能纯代码手搓了！知名学者用Opus 5.5复盘AI爆发史",
+      "summary": "知名学者 Ethan Mollick 突发奇想，用 Claude Opus 5.5 纯代码手搓了一支科普视频。这支致敬老牌节目《Connections》的短片，生动复盘了究竟有多少偶然事件促成了当下的 AI 大爆发。这一硬核玩法再次证实了 Opus 5.5 在复杂动态内容生成上的强悍实力，也标志着 AI 正加速向多媒体叙事创作跨越。",
+      "reads": "1.8万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "知名学者 Ethan Mollick 利用 Claude Opus 5.5 纯代码生成了一段科普风格视频。",
+        "该视频的创作灵感源自经典老牌科普节目《Connections》。",
+        "短片核心主题是复盘当前 AI 加速发展时代背后的众多随机偶然事件。",
+        "画面通过代码生成的动画，直观展示了最初毫不相干的想法是如何汇聚成当下的技术爆发的。"
+      ],
+      "quote": {
+        "who": "Ethan Mollick",
+        "role": "",
+        "said": "来源和脚注在这里："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 1.8万 · 模型与能力] 连视频都能纯代码手搓了！知名学者用Opus 5.5复盘AI爆发史"
+    },
+    {
+      "title": "婴儿版AGI实锤！Opus 5.5纯代码手搓我的世界，33小时连音效都包了",
+      "summary": "谁能想到，哄儿子的最高境界是用 AI 手搓一个游戏！一位开发者利用 Claude Opus 5.5，仅耗时 33 小时就纯代码克隆出了一个完整的《我的世界》，甚至连 1 分钟的预告片都只花了 3 小时生成。目前游戏已经部署上线，但暂无开源计划，难怪连作者本人都惊呼 Opus 5.5 简直就是「婴儿版 AGI」。",
+      "reads": "4.5万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "开发者利用 Claude Opus 5.5 纯代码生成了完整的《我的世界》克隆版游戏，包含纹理、音效、村庄和地图。",
+        "整个游戏的开发过程耗时近 33 个小时，目前已经部署上线供玩家体验。",
+        "游戏内 1 分钟的发布预告片也是由 AI 纯代码拍摄生成，单项耗时约 3 个小时。",
+        "为规避版权风险，该克隆版游戏的任何地方都没有使用「Minecraft」这个词。"
+      ],
+      "quote": {
+        "who": "AshutoshShrivastava",
+        "role": "",
+        "said": "X 上的人比其他任何平台都更支持我。感谢大家试玩这款游戏。🫶 另外有几个人问我，既然可以直接买一个，为什么还要自己做游戏。这不是钱的问题。而是为了做一件我儿子喜欢的事。他已经在告诉他的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 4.5万 · 模型与能力] 婴儿版AGI实锤！Opus 5.5纯代码手搓我的世界，33小时连音效都包了"
+    },
+    {
+      "title": "AI把写代码打成白菜价，CI构建反成最大瓶颈！10家初创公司正疯狂抢跑",
+      "summary": "随着AI把写代码的门槛和成本大幅拉低，漫长的CI（持续集成）构建反而成了拖累软件公司的最大瓶颈。有投资人敏锐捕捉到了这一风口，直接点名了Blacksmith、Namespace和Depot等10家正在死磕构建效率的初创公司。当「写代码」不再是难事，基础设施层的跑测试和构建速度，正悄然成为下一场效率革命的兵家必争之地。",
+      "reads": "10万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "苹果官方近日更新了「Apple Maps 图像收集」页面。",
-        "官方正式宣布，将在全新的地点启动地图图像数据采集工作。",
-        "此次行动旨在进一步扩展 Apple Maps 的地理覆盖范围，并加深数据深度。",
-        "新收集的图像数据将用于提升导航、街景以及本地搜索等功能的用户体验与准确性。"
+        "核心痛点转移：随着AI编码工具普及导致代码编写成本骤降，漫长的持续集成（CI）构建已成为许多软件公司的新瓶颈。",
+        "头部玩家入局：投资人首推了Blacksmith、Namespace和Depot这三家致力于解决CI构建耗时问题的最大初创公司。",
+        "赛道持续扩容：除了头部三家，RunsOn、Starsling、WarpBuild等另外七家相关厂商也被列入观察名单。",
+        "基础设施层迎大考：行业共识正在形成，软件开发流程中的效率瓶颈已正式从「写代码」向「跑测试与构建」转移。"
       ],
       "quote": {
-        "who": "Aaron",
+        "who": "Deedy",
         "role": "",
-        "said": "Apple 最近更新了他们的「Apple Maps 图像收集」页面，宣布将在新地点收集数据。 这里是详细解析"
+        "said": "帖子中提到的其他公司： 1. RunsOn (@RunsOnRunsOn) 2. Starsling (@starslingdev) 3. WarpBuild (@WarpBuilds) 4. Ubicloud (@UbicloudHQ) 5. Trylle (@trylle) 6. Incredibuild (@incredibuild) 7. RWX (@rwx)"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 10万 · 产品与生态] AI把写代码打成白菜价，CI构建反成最大瓶颈！10家初创公司正疯狂抢跑"
+    },
+    {
+      "title": "连注册表都省了！Alexandr Wang开放Muse新功能内测，发句Prompt直接加入",
+      "summary": "Meta Muse 负责人 Alexandr Wang 宣布开放新功能的官方抢先体验计划。这次的申请方式非常特别：无需填写任何繁琐的注册表单，用户只需向自己的 Muse 发送一句特定的提示词「Can you let the Muse team know I want to be part of the Muse early access program?」，就能直接加入内测。这…",
+      "reads": "21万",
+      "ago": "11 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Meta Muse 负责人 Alexandr Wang 宣布开放 Muse 新功能的官方抢先体验计划。",
+        "申请方式极简：用户无需进行额外的注册流程，直接向自己的 Muse 发送提示词即可。",
+        "官方提供的特定提示词为：「Can you let the Muse team know I want to be part of the Muse earl…",
+        "成功发送提示词后，用户会在聊天界面收到 AI 的确认回复，代表已加入计划。"
+      ],
+      "quote": {
+        "who": "Alexandr Wang",
+        "role": "",
+        "said": "提示词：“你能让 Muse 团队知道我想加入 Muse 抢先体验计划吗？”"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 21万 · 产品与生态] 连注册表都省了！Alexandr Wang开放Muse新功能内测，发句Prompt直接加入"
+    },
+    {
+      "title": "刚刚，Sonnet 5.5史诗级泄露！输入2美元，纯代码手搓视频全面碾压Sol 6",
+      "summary": "有开发者爆料，Anthropic 全新中端模型 Sonnet 5.5 已在 Claude Code 内部开启灰度测试。新模型定价为输入 2 美元、输出 10 美元、缓存读取 0.20 美元/M，被指在同等价位下全面碾压 OpenAI 即将发布的 Sol 6。测试显示，Sonnet 5.5 能在 Ultracode 模式下用纯代码单 HTML 文件复刻 AI 视频，帧匹配度高达…",
+      "reads": "16万",
+      "ago": "11 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "有开发者爆料，Anthropic 全新模型 Sonnet 5.5 目前正在 Claude Code 中进行灰度测试。",
+        "新模型具体定价曝光：输入 2 美元、输出 10 美元、缓存读取 0.20 美元/M。",
+        "爆料者称，在相同提示词和同等价位下，Sonnet 5.5 的性能表现全面碾压 OpenAI 的 Sol 6。",
+        "测试展示了 Sonnet 5.5 在 Ultracode 模式下的强大能力，利用 gauntlet loop 机制，仅用纯代码单 HTML 文件就复刻了 3…"
+      ],
+      "quote": {
+        "who": "Chetaslua",
+        "role": "",
+        "said": "@hephiosdev 我觉得是8小时1000万"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 16万 · 模型与能力] 刚刚，Sonnet 5.5史诗级泄露！输入2美元，纯代码手搓视频全面碾压Sol 6"
+    },
+    {
+      "title": "突发代码泄露！OpenAI将推24小时常驻智能体，DevDay憋了个大的",
+      "summary": "OpenAI DevDay 前夕爆出猛料，内部正秘密研发代号为「o」的24小时常驻智能体。爆料者扒出的代码截图显示，ChatGPT 内部已新增「orbit_enabled」设置项，暗示名为 Dots 的聊天室功能即将上线。从纯对话模型向全天候常驻智能体跨越，这届 DevDay 恐怕要放出史诗级大招了。",
+      "reads": "1.3万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "圈内爆料 OpenAI 将在 DevDay 推出全新形态的24小时常驻智能体，内部代号为「o」。",
+        "泄露信息包含三个核心项目关键词：Dots、Orbit 以及 Aeon。",
+        "爆料者扒出的代码截图证实，ChatGPT 内部设置中已出现名为「orbit_enabled」的开关。",
+        "该底层代码项直接暗示，OpenAI 即将上线名为 Dots 的全新聊天室功能。"
+      ],
+      "quote": {
+        "who": "Chetaslua",
+        "role": "",
+        "said": "Dots Orbit Aeon"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 1.4万 · 产品与生态] 苹果地图突然大扩军！全新数据采集点曝光，更强地理API要来了"
+      "line": "[榜第15位 · 1.3万 · 产品与生态] 突发代码泄露！OpenAI将推24小时常驻智能体，DevDay憋了个大的"
     },
     {
-      "title": "离谱！20美元Codex Plus额度15分钟耗尽，开发者怒转Claude，Sonnet 5.5下周杀到",
-      "summary": "Anthropic 正在 Claude Code 中灰度测试 Sonnet 5.5，预计下周正式发布以狙击 9月29日的 OpenAI DevDay，且定价维持输入2美元、输出10美元不变。与此同时，OpenAI 却因稳定性大翻车遭开发者声讨：20美元的 Codex Plus 5小时额度在15分钟内就被耗尽，连一个提示词都跑不完。这一波拉踩，直接让额度更充裕的 Claude P…",
-      "reads": "2.4万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
+      "title": "谷歌悄悄改了下拉菜单！Nano Banana 2.1现身Flow平台，新模型呼之欲出",
+      "summary": "谷歌新模型要来了？有开发者在Google Flow平台上发现，模型选择菜单里的引用已经从Nano Banana 2.5 Flash悄悄变成了Nano Banana 2.1。虽然目前这个新版本还不能直接使用，但这一界面变化被不少人看作是即将发布的重要信号。大家都在猜测，这究竟是一次小幅升级，还是谷歌准备空降的新大招。",
+      "reads": "3.7万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "有开发者爆料，Anthropic 正在 Claude Code 内部对 Sonnet 5.5 进行灰度测试，部分账号已成功切换。",
-        "合作伙伴已获取 Sonnet 5.5 较新的 checkpoint，反馈质量令人满意，甚至比第一版还要强。",
-        "新模型预计将于下周正式发布，直接对标 9月29日 举行的 OpenAI DevDay，且定价维持输入2美元、输出10美元不变。",
-        "相比之下，OpenAI 近期表现拉胯，有开发者实测 20美元的 Codex Plus，其 5小时额度在 10到15分钟内就被彻底耗尽。"
+        "开发者在Google Flow平台新建角色界面发现模型选项发生变化。",
+        "原有的「Nano Banana 2.5 Flash」引用已被悄悄更改为「Nano Banana 2.1」。",
+        "多位开发者通过截图佐证了这一界面变更，下拉菜单中已出现新选项。",
+        "目前该版本在平台上仅为占位，尚未正式对用户开放使用。"
       ],
       "quote": {
-        "who": "Pankaj Kumar",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "@bryamslm 兄弟，就算用了 pro 计划，额度也差不多少了 30-40%。"
+        "said": "Nano Banana 2.1 马上要发布了？在 Flow 上发现了。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 2.4万 · 模型与能力] 离谱！20美元Codex Plus额度15分钟耗尽，开发者怒转Claude，Sonnet 5.5下周杀到"
+      "line": "[榜第16位 · 3.7万 · 产品与生态] 谷歌悄悄改了下拉菜单！Nano Banana 2.1现身Flow平台，新模型呼之欲出"
     }
   ],
   "board_count": 16,
