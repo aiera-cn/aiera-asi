@@ -3,8 +3,8 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-29 23:42:47 +0800",
-  "today": "09/29",
+  "fetched_at": "2026-09-30 04:41:48 +0800",
+  "today": "09/30",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
     {
@@ -200,6 +200,54 @@
       "line": "[09/29 08:35] 刚刚，苏妈李飞飞两大女王合体！AMD 550亿吞下世界模型 · https://www.aiera.com.cn/asi-item.html?id=tga4e3b9&from=yuanyuan"
     },
     {
+      "time": "01:34",
+      "date": "09/30",
+      "title": "电脑关机照样全自动修Bug，OpenAI给Codex塞进了网络安全模型",
+      "summary": "笔记本合上了，Codex 还在替你查代码库里的漏洞，顺手把修复方案备好。OpenAI 官方 X 账号宣布，Codex Security Cloud 迎来一次大升级…",
+      "source": "",
+      "id": "e287b816",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=e287b816&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/30 01:34] 电脑关机照样全自动修Bug，OpenAI给Codex塞进了网络安全模型 · https://www.aiera.com.cn/asi-item.html?id=e287b816&from=yuanyuan"
+    },
+    {
+      "time": "23:45",
+      "date": "09/29",
+      "title": "70亿美元年化营收，OpenAI距反超Anthropic只差30%",
+      "summary": "据 Axios 报道，OpenAI 业务营收的年化经常性收入已经逼近 70 亿美元。按报道的口径，它眼下只落后 Anthropic 约 30%。 年化经常性收入…",
+      "source": "X/kimmonismus",
+      "id": "d7954e97",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=d7954e97&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/29 23:45] 70亿美元年化营收，OpenAI距反超Anthropic只差30% · https://www.aiera.com.cn/asi-item.html?id=d7954e97&from=yuanyuan"
+    },
+    {
+      "time": "23:30",
+      "date": "09/29",
+      "title": "还在用梯度提升树死磕表格？英伟达开源Kumo Tabular，不调参直接刷爆四个第一",
+      "summary": "表格预测，现在一次前向推理就能出结果。英伟达正式发布并开源了表格基础模型 Kumo Tabular，不用训练，不用调参，也不用做特征工程。 给它一张带标签的表…",
+      "source": "Hugging Face：Blog（RSS）",
+      "id": "6af8dd1a",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=6af8dd1a&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/29 23:30] 还在用梯度提升树死磕表格？英伟达开源Kumo Tabular，不调参直接刷爆四个第一 · https://www.aiera.com.cn/asi-item.html?id=6af8dd1a&from=yuanyuan"
+    },
+    {
+      "time": "22:00",
+      "date": "09/29",
+      "title": "原本几个月的抗癌药筛选，微软新AI只要一个周末就搞定了",
+      "summary": "抗癌药筛选，过去要在实验室里做几个月的实验，现在一个周末就能搞定。微软研究院刚刚发布了 AI 生物研究系统 Quine，哈佛和 MIT 已经用上了。 Quine 由两部分组成…",
+      "source": "Microsoft Research 博客（RSS）",
+      "id": "addb1667",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=addb1667&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/29 22:00] 原本几个月的抗癌药筛选，微软新AI只要一个周末就搞定了 · https://www.aiera.com.cn/asi-item.html?id=addb1667&from=yuanyuan"
+    },
+    {
       "time": "15:10",
       "date": "09/29",
       "title": "OpenAI深夜大调价，200美元Pro版算力直接砍半，网友直呼要投奔Claude",
@@ -210,6 +258,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=cc7cad69&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/29 15:10] OpenAI深夜大调价，200美元Pro版算力直接砍半，网友直呼要投奔Claude · https://www.aiera.com.cn/asi-item.html?id=cc7cad69&from=yuanyuan"
+    },
+    {
+      "time": "14:31",
+      "date": "09/29",
+      "title": "OpenAI给前沿AI训练立规矩，总裁发推却被抓包「纯属恐慌」",
+      "summary": "OpenAI 给前沿 AI 训练立了一条规矩。官方刚发布实践指南《Towards Safety Cases for Frontier AI Training》…",
+      "source": "X/gdb",
+      "id": "825fb2b4",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=825fb2b4&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/29 14:31] OpenAI给前沿AI训练立规矩，总裁发推却被抓包「纯属恐慌」 · https://www.aiera.com.cn/asi-item.html?id=825fb2b4&from=yuanyuan"
     },
     {
       "time": "09:15",
@@ -416,6 +476,66 @@
       "line": "[09/29 00:00] AI订酒店把意大利订成佛罗里达？Booking亲自下场做旅行智能体Lola · https://www.aiera.com.cn/asi-item.html?id=4f00d2fb&from=yuanyuan"
     },
     {
+      "time": "00:00",
+      "date": "09/29",
+      "title": "甲骨文高管放话任何任务都能全自动！新智能体Claw上线，一口气打包25个企业级应用",
+      "summary": "甲骨文高级副总裁 Natalia Rachelson 放话，「老实说，任何任务都可以处于全自动模式。」据 SiliconANGLE 报道，甲骨文今天正式发布智能体软件运行时…",
+      "source": "RSS",
+      "id": "8d2a090e",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=8d2a090e&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/29 00:00] 甲骨文高管放话任何任务都能全自动！新智能体Claw上线，一口气打包25个企业级应用 · https://www.aiera.com.cn/asi-item.html?id=8d2a090e&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/29",
+      "title": "小扎正式杀向企业AI，MongoDB CEO被挖来带队，Muse直接打通Shopify等十多款神器",
+      "summary": "Meta 正式杀进企业 AI，带队的是从 MongoDB 挖来的 CEO Chirantan Desai。据 TechCrunch 报道，这块新业务由他接管。 动作一天一个。…",
+      "source": "RSS",
+      "id": "73b25c0a",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=73b25c0a&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/29 00:00] 小扎正式杀向企业AI，MongoDB CEO被挖来带队，Muse直接打通Shopify等十多款神器 · https://www.aiera.com.cn/asi-item.html?id=73b25c0a&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/29",
+      "title": "受够了粗制滥造的AI海报，沃尔玛正式下令：全美门店禁用",
+      "summary": "沃尔玛把 AI 做的海报请出了门店。据 Business Insider 报道，沃尔玛在最新更新的内部政策里写得很明白：「门店不应展示由 AI 工具创建的标牌。」…",
+      "source": "RSS",
+      "id": "ac1a82d1",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=ac1a82d1&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/29 00:00] 受够了粗制滥造的AI海报，沃尔玛正式下令：全美门店禁用 · https://www.aiera.com.cn/asi-item.html?id=ac1a82d1&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/29",
+      "title": "听着歌敲代码突然全断网了！Spotify和Claude携手大面积宕机",
+      "summary": "听歌的和写代码的，同一时间一起掉线了。据路透社报道，大量美国用户突然无法访问 Spotify 和 Claude，新加坡也未能幸免。 Downdetector 上的数字很直观。…",
+      "source": "Reuters",
+      "id": "2cc8bd92",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=2cc8bd92&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/29 00:00] 听着歌敲代码突然全断网了！Spotify和Claude携手大面积宕机 · https://www.aiera.com.cn/asi-item.html?id=2cc8bd92&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "09/29",
+      "title": "英伟达和谷歌的AI芯片要断供了？Netlist向美国申请全面封杀美光HBM",
+      "summary": "英伟达和谷歌的 AI 算力，被一纸诉状盯上了。据路透社报道，Netlist 在 9 月 29 日向美国国际贸易委员会（ITC）提起新诉讼，要求对美光的芯片下达进口禁令。…",
+      "source": "Reuters",
+      "id": "5c061d36",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=5c061d36&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[09/29 00:00] 英伟达和谷歌的AI芯片要断供了？Netlist向美国申请全面封杀美光HBM · https://www.aiera.com.cn/asi-item.html?id=5c061d36&from=yuanyuan"
+    },
+    {
       "time": "23:36",
       "date": "09/28",
       "title": "你的Claude又偷跑了？大批用户已被灰度测试Sonnet 5.5",
@@ -606,126 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgacb467&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/28 10:40] OpenAI高管自曝：八到九成研究已押向GPT-7和GPT-8 · https://www.aiera.com.cn/asi-item.html?id=tgacb467&from=yuanyuan"
-    },
-    {
-      "time": "09:40",
-      "date": "09/28",
-      "title": "OpenAI砸钱防AI造病毒，这家初创公司刚拿了1500万美元",
-      "summary": "OpenAI 领投了一家专门防 AI 造病毒的公司。初创公司 Red Queen Bio 宣布成立，同时拿下 1500 万美元种子轮融资，领投方就是 OpenAI。…",
-      "source": "X/WSJ",
-      "id": "a9a9c482",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=a9a9c482&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/28 09:40] OpenAI砸钱防AI造病毒，这家初创公司刚拿了1500万美元 · https://www.aiera.com.cn/asi-item.html?id=a9a9c482&from=yuanyuan"
-    },
-    {
-      "time": "08:06",
-      "date": "09/28",
-      "title": "OpenAI智能体自己绕过限制黑进澳洲政府，奥特曼还瞒了三个月？",
-      "summary": "OpenAI 的一个智能体为了查健康数据，自己找漏洞进了澳大利亚政府的服务器。事情发生在 6 月，澳洲政府直到 9 月 10 日才知道，中间隔了三个月。 据 Wired 报道…",
-      "source": "www.wired.com",
-      "id": "e4b741dc",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=e4b741dc&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/28 08:06] OpenAI智能体自己绕过限制黑进澳洲政府，奥特曼还瞒了三个月？ · https://www.aiera.com.cn/asi-item.html?id=e4b741dc&from=yuanyuan"
-    },
-    {
-      "time": "08:00",
-      "date": "09/28",
-      "title": "算力租金半年翻倍涨到8美元，大模型API为何还在疯狂降价？",
-      "summary": "算力越来越贵，模型调用却越来越便宜。硅谷风投 Tomer Tunguz 在博客里把这笔账摊开了。每 GPU 小时的租金从 4.40 美元涨到 8.08 美元，翻了一倍。…",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "id": "ff189ae6",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=ff189ae6&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/28 08:00] 算力租金半年翻倍涨到8美元，大模型API为何还在疯狂降价？ · https://www.aiera.com.cn/asi-item.html?id=ff189ae6&from=yuanyuan"
-    },
-    {
-      "time": "08:00",
-      "date": "09/28",
-      "title": "刚刚，xAI把Grok塞进打工人工作群了！5人小队靠它一天狂发100个PR",
-      "summary": "xAI 把 Grok 拉进了团队工作群。官方博客宣布推出 Team Bots，靠它编排数百个 Cloud Agents，xAI 内部一个 5 人小队一天能发 100 多个…",
-      "source": "xAI：News（网页）",
-      "id": "e1809a64",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=e1809a64&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/28 08:00] 刚刚，xAI把Grok塞进打工人工作群了！5人小队靠它一天狂发100个PR · https://www.aiera.com.cn/asi-item.html?id=e1809a64&from=yuanyuan"
-    },
-    {
-      "time": "07:40",
-      "date": "09/28",
-      "title": "谷歌生图模型改名了！Nano Banana 2.1现身Flow",
-      "summary": "Google Flow新一版网页构建里，Nano Banana 2.5 Flash的引用被改成了2.1。模型还不能用，谷歌也未官宣，下一代生图模型或许已经不远。",
-      "source": "新智元",
-      "id": "tgc2adfa",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgc2adfa&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/28 07:40] 谷歌生图模型改名了！Nano Banana 2.1现身Flow · https://www.aiera.com.cn/asi-item.html?id=tgc2adfa&from=yuanyuan"
-    },
-    {
-      "time": "05:45",
-      "date": "09/28",
-      "title": "14小时干完人类17周的活，闭源Agent一骑绝尘，开源模型这回真掉队了",
-      "summary": "人类工程师要干 17 周的软件活，AI 自己跑了 14 个小时就交了差。 Epoch 做了一次实验，让 Opus 4.7 全程自主运行，把一整个软件包开发完，总共花了 251…",
-      "source": "X/emollick",
-      "id": "484c5735",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=484c5735&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/28 05:45] 14小时干完人类17周的活，闭源Agent一骑绝尘，开源模型这回真掉队了 · https://www.aiera.com.cn/asi-item.html?id=484c5735&from=yuanyuan"
-    },
-    {
-      "time": "04:22",
-      "date": "09/28",
-      "title": "DeepSeek年化收入破10亿美元，七成算力还押在训练上",
-      "summary": "据The Information报道，DeepSeek年化收入几个月内翻倍到10亿美元，API涨价后客户没走，但七成算力仍用来训练下一代模型…",
-      "source": "新智元",
-      "id": "tg3c50ea",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg3c50ea&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/28 04:22] DeepSeek年化收入破10亿美元，七成算力还押在训练上 · https://www.aiera.com.cn/asi-item.html?id=tg3c50ea&from=yuanyuan"
-    },
-    {
-      "time": "04:06",
-      "date": "09/28",
-      "title": "苹果正式下场做脑机接口了，瘫痪小哥靠意念玩起了Vision Pro",
-      "summary": "一位全身瘫痪的渐冻症患者，戴上 Vision Pro，去瑞士阿尔卑斯山「滑了一趟雪」。他没动手，也没开口，全靠脑子里的信号。 据华尔街日报报道，苹果宣布和脑机接口公司…",
-      "source": "mashable.com",
-      "id": "5d1ad317",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=5d1ad317&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/28 04:06] 苹果正式下场做脑机接口了，瘫痪小哥靠意念玩起了Vision Pro · https://www.aiera.com.cn/asi-item.html?id=5d1ad317&from=yuanyuan"
-    },
-    {
-      "time": "02:50",
-      "date": "09/28",
-      "title": "Meta首席AI官深夜发文！新智能体能帮你瞬间省下1000美元",
-      "summary": "Meta 的新智能体刚上线，就帮一位初创公司创始人砍掉了 3500 美元车险。 据 Business Insider 报道，Meta 首席 AI 官 Alexandr…",
-      "source": "X/alexandr_wang",
-      "id": "1e9680db",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=1e9680db&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/28 02:50] Meta首席AI官深夜发文！新智能体能帮你瞬间省下1000美元 · https://www.aiera.com.cn/asi-item.html?id=1e9680db&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/28",
-      "title": "系统没崩但AI在胡说八道？AWS上新Agent专属监控，索尼几百个项目已用上",
-      "summary": "系统没报错，延迟也达标，AI Agent 照样可能调错工具、给客户错答案。AWS 刚正式发布的 Amazon CloudWatch Omni，专门盯这件事。 据…",
-      "source": "RSS",
-      "id": "01e2a9c3",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=01e2a9c3&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/28 00:00] 系统没崩但AI在胡说八道？AWS上新Agent专属监控，索尼几百个项目已用上 · https://www.aiera.com.cn/asi-item.html?id=01e2a9c3&from=yuanyuan"
     }
   ],
   "feed_count": 60,
