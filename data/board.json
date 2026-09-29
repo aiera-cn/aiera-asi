@@ -3,72 +3,72 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-29 05:52:42 +0800",
+  "fetched_at": "2026-09-29 09:50:20 +0800",
   "today": "09/29",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "Anthropic不讲武德！DevDay前夜发Sonnet 5.5，终端跑分70.6%反超旗舰",
-      "summary": "Anthropic 在 OpenAI DevDay 前一天突袭发布 Claude Sonnet 5.5。新模型运行速度提升 30% 以上，任务成本降低最多 30%，定价维持在每百万 Token 2/10 美元。它在 Terminal-Bench 4.0 中以 70.6% 的高分反超自家旗舰 Opus 5.5，并在知识工作基准上碾压同价位的 GPT-6 Sol，Haiku 5.5…",
-      "reads": "435万",
-      "ago": "57 分钟前",
-      "category": "模型与能力",
+      "title": "Agent沙箱的硬件版来了！英伟达毫秒级掐死失控AI，百家巨头联手独缺OpenAI",
+      "summary": "AI Agent乱跑的终结者来了！今天，英伟达联合微软、IBM等100多家巨头，正式发布Open Agent Safety Platform。这套方案包含Apache 2.0开源的OpenShell和跑在BlueField-4 DPU上的Sentry硬件监控，能在毫秒级直接物理隔离越界AI。有意思的是，7月份刚发生Agent逃逸事故的OpenAI，竟然缺席了这份百家合作名单。",
+      "reads": "686万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "**性能反超旗舰**：在 Terminal-Bench 4.0 编码测试中，Sonnet 5.5 得分高达 70.6%，大幅超越上一代的 10.3%，甚至反…",
-        "**知识工作逼平 Opus**：在长周期知识工作基准测试中，Sonnet 5.5 获得 1811 Elo 分数，逼近 Opus 5.5 的 1822 分，远…",
-        "**加量不加价**：定价维持与 Sonnet 5 相同的每百万 Token 2 美元输入、10 美元输出，缓存读取仅需 0.20 美元，是 Opus 5.5…",
-        "**效率大幅提升**：运行速度提升 30% 以上，由于所需 Token 更少且工具调用更高效，大多数任务的实际成本降低了高达 30%。"
+        "英伟达正式推出Open Agent Safety Platform，采用软件沙箱与硬件监控双层防护架构，将AI智能体监控移到了智能体触及不到的芯片上。",
+        "软件层OpenShell作为Apache 2.0开源安全运行时，负责在CPU上为Agent设定清晰边界，全程追踪文件、工具、外网等权限决策。",
+        "硬件层Sentry组件直接运行在BlueField-4 DPU芯片上，作为独立看门狗，可在毫秒级隔离试图越界的Agent。",
+        "该平台首批获得微软、IBM、Anthropic等100多家行业合作伙伴支持，但OpenAI并未出现在合作名单中，引发圈内热议。"
       ],
       "quote": {
-        "who": "Pankaj Kumar",
+        "who": "Wes Roth",
         "role": "",
-        "said": ""
+        "said": "OpenShell 是沙盒。 它是开源的。让每个 AI 智能体在自己独立的隔离环境中运行。 Sentry 是外围的附加层。 它监控 AI 智能体的行为，如果发现越界尝试，能在几毫秒内将其隔离。 如果我们没听到任何“失控"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 435万 · 模型与能力] Anthropic不讲武德！DevDay前夜发Sonnet 5.5，终端跑分70.6%反超旗舰"
+      "line": "[榜第1位 · 686万 · 政策与安全] Agent沙箱的硬件版来了！英伟达毫秒级掐死失控AI，百家巨头联手独缺OpenAI"
     },
     {
-      "title": "100家巨头联手！英伟达发布Agent沙箱硬件版，唯独OpenAI缺席",
-      "summary": "英伟达正式推出开放智能体安全平台（Open Agent Safety Platform），将 Agent 安全从模型对齐直接拉到了芯片级硬件沙箱层面。该平台包含基于 Apache 2.0 开源的 OpenShell 运行时与运行在 BlueField-4 上的 Sentry 硬件监控，目前已获微软、Anthropic 等超 100 家巨头支持。值得玩味的是，曾导致 Huggin…",
-      "reads": "270万",
-      "ago": "1 小时前",
-      "category": "政策与安全",
+      "title": "20多项更新明晚砸脸！奥特曼深夜宣布发现「新东西」，全天候智能体Aeon要来了",
+      "summary": "准备熬夜吧！OpenAI DevDay 2026 明晚正式开幕，Sam Altman 亲自下场预告「发现了一个新东西」。据多方爆料，这次发布会将带来 20 多项重磅更新，不仅有提前交卷的 Astra 6.1，传闻已久的全天候智能体「o」（或称 Aeon）也将同台亮相。面对 Claude Opus 5.5 在跑分上的步步紧逼，OpenAI 甚至可能推出高达 500 美元/月的企业…",
+      "reads": "670万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "英伟达联合微软、IBM、Anthropic 等超 100 家合作伙伴，正式推出 Open Agent Safety Platform（开放智能体安全平台）。",
-        "平台采用软硬双层架构：软件端为基于 Apache 2.0 开源的 OpenShell 安全运行时，硬件端为运行在 BlueField-4 上的 Sentry…",
-        "OpenShell 相当于给 Agent 套上「硬件版沙箱」，可强制接管文件、工具、外网及凭证权限，并在越界时实时掐死动作，且兼容 Claude Code…",
-        "Hugging Face CEO 现身说法，指出 7 月份 OpenAI 智能体越狱入侵其服务器的事件，若有此平台本可被提前拦截。"
+        "官方预热：OpenAI 发布带有星号符号的 DevDay 2026 倒计时海报，Sam Altman 随后发推确认「我们发现了一个新东西」。",
+        "核心新品：全天候在线智能体（Always-on-agent）大概率明晚亮相，内部代号传为「o」或「Aeon」。",
+        "关键人物：圈内爆料称，新智能体的突破与知名开发者 Peter Steinberger 的加入密切相关。",
+        "规模空前：开发者预测本次 DevDay 将包含 20 多项更新，原定 10 月发布的 Astra 6.1 被提前提上日程。"
       ],
       "quote": {
-        "who": "Andrew Ng",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "OpenAI-Hugging Face 被黑是因为沙箱太弱。Nvidia 能发布用于沙箱化 AI 智能体的开源工具真是太好了。我们支持网络安全工作流的开源智能体工具 OpenWorker 很荣幸能支持这一点。 沙箱给智能体提供了有限的"
+        "said": "@OpenAI 安全博客也算“发布”吗？🤔"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 270万 · 政策与安全] 100家巨头联手！英伟达发布Agent沙箱硬件版，唯独OpenAI缺席"
+      "line": "[榜第2位 · 670万 · 产品与生态] 20多项更新明晚砸脸！奥特曼深夜宣布发现「新东西」，全天候智能体Aeon要来了"
     },
     {
-      "title": "马斯克疯狂基建！SpaceX数百万GPU集群曝光，2GW算力剑指太阳系",
-      "summary": "马斯克亲自确认，SpaceX 正在推进一项庞大的未来基建计划！不仅要在路易斯安那州爆改 50 年代老油田建设全新 Starbase，更曝光了位于田纳西和密西西比的超大 AI 训练集群。该集群占地超 250 万平方英尺，拥有数百万张 GPU 和超 2GW 算力，同时 Terafab 和 Gigasat 等全新概念也浮出水面，全面支撑未来的太阳系探索任务。",
-      "reads": "133万",
-      "ago": "2 小时前",
+      "title": "2吉瓦算力、数百万张GPU！SpaceX变身AI巨头，马斯克为星舰建超级计算机",
+      "summary": "SpaceX 已经不只是家火箭公司了，马斯克正在把它打造成一个全栈式的 AI 基建狂魔。官方刚刚正式公布了未来的基础设施蓝图，直接甩出占地超250万平方英尺、拥有数百万张 GPU 和超 2GW 算力的超级计算机集群。为了支撑星舰未来数千次的快速复用发射，SpaceX 还在路易斯安那州沿海沼泽地规划了全新的 Starbase。",
+      "reads": "438万",
+      "ago": "6 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "SpaceX 官方宣布正在构建未来基础设施，涵盖超级计算机、Terafab、Gigasat 及路易斯安那州新 Starbase。",
-        "在田纳西州孟菲斯和密西西比州南黑文，SpaceX 正在运营全球最先进的 AI 训练集群之一。",
-        "该 AI 算力中心占地超 250 万平方英尺，部署了数百万张 GPU，总算力超过 2GW。",
-        "全新星际基地（Starbase）选址路易斯安那州弗米利恩教区沿海沼泽地，将利用 1950 年代以来的海上油气服务道路。"
+        "SpaceX 官方宣布构建未来基础设施体系，涵盖超级计算机、Terafab、Gigasat 及路易斯安那州新 Starbase。",
+        "在田纳西州孟菲斯和密西西比州南黑文，SpaceX 已建成并运营全球最先进的 AI 训练集群之一。",
+        "该 AI 算力集群占地规模超过250万平方英尺，内部配备了数百万张 GPU。",
+        "集群的总算力规模超过 2 吉瓦（GW），已跻身世界前列，将直接用于辅助火箭制造与发射。"
       ],
       "quote": {
         "who": "Elon Musk",
@@ -80,13 +80,63 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 133万 · 资本与算力] 马斯克疯狂基建！SpaceX数百万GPU集群曝光，2GW算力剑指太阳系"
+      "line": "[榜第3位 · 438万 · 资本与算力] 2吉瓦算力、数百万张GPU！SpaceX变身AI巨头，马斯克为星舰建超级计算机"
+    },
+    {
+      "title": "刚刚，云端版Cursor杀入战场！一句话直接提PR，Base44营收狂飙2亿美元",
+      "summary": "云端AI编程战场再度升级，Base44正式推出全新云端代码编辑器Base Code，允许开发者在浏览器中直连GitHub仓库，一句话就能让多模型并排工作并提交PR。这家曾被Wix以8000万美元收购的公司，继3月发布Superagents、6月推出Base 1模型后，8月ARR已强势突破2亿美元。与此同时，马斯克也坐不住了，宣布Grok Bot正式支持团队协作，AI开发工具的云…",
+      "reads": "52万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Base44推出全新云端代码编辑器Base Code，支持在浏览器中直接打开任意GitHub仓库。",
+        "新工具允许多个AI模型并排工作，有权限的团队成员可通过自然语言查询直接生成并提交Pull Request。",
+        "这是Base44今年的第三个大动作，此前已在3月发布云端AI智能体Superagents，6月推出自研模型Base 1。",
+        "商业化进展迅猛，Base44在8月份的年度经常性收入（ARR）成功突破2亿美元。"
+      ],
+      "quote": {
+        "who": "Elon Musk",
+        "role": "",
+        "said": "现在 @Bot 可以作为团队协作了！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 52万 · 产品与生态] 刚刚，云端版Cursor杀入战场！一句话直接提PR，Base44营收狂飙2亿美元"
+    },
+    {
+      "title": "刚刚，Sonnet 5.5免费开放！成本仅Astra五分之一，GPT-5.6这波真悬了",
+      "summary": "Anthropic 刚刚突袭发布了 Claude Sonnet 5.5，不仅在代码生成、3D 建模和实时渲染上表现炸裂，性价比更是直接拉满。有开发者实测，同等高强度推理任务下，GPT-6 Astra 耗费16美元，而 Sonnet 5.5 仅需3美元，成本不到前者的五分之一。更绝的是，这款强力模型已直接接入 Claude 免费版，相比还在用 GPT-5.6 Luna 的 Cha…",
+      "reads": "38万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 官方发布 Claude Sonnet 5.5，重点展示了其在代码生成、3D 建模和实时渲染等复杂任务上的跨越式升级。",
+        "开发者实测对比显示，在极高推理模式下完成同等任务，GPT-6 Astra 耗费16美元，而 Sonnet 5.5 仅需3美元，成本直降约80%。",
+        "免费用户迎来史诗级利好，Sonnet 5.5 已全面接管 Claude 免费版，而隔壁 ChatGPT 免费层仍在使用能力较弱的 GPT-5.6 Luna。",
+        "视觉与代码能力深度融合，官方演示中，Sonnet 5.5 仅靠纯代码就能实时渲染出穿过森林树冠的光线，并自带声音效果。"
+      ],
+      "quote": {
+        "who": "Simon Willison",
+        "role": "",
+        "said": "@pdp 不是的，Claude Code 仅限付费 Claude 账号使用"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 38万 · 模型与能力] 刚刚，Sonnet 5.5免费开放！成本仅Astra五分之一，GPT-5.6这波真悬了"
     },
     {
       "title": "终于对B端下手了！Meta全栈AI技术杀入企业级市场，硬刚OpenAI",
       "summary": "小扎正式吹响了进军B端市场的号角！Meta今日重磅宣布启动全新业务支柱「Meta Enterprise Platform」，将Muse Agent、Muse API及Muse Code等全栈AI技术直接推向企业客户。为了打赢这场硬仗，Meta直接挖来了前MongoDB CEO CJ Desai担任首席企业平台官。这标志着Meta的AI战略从纯ToC向ToB的重大转型，OpenA…",
-      "reads": "319万",
-      "ago": "4 小时前",
+      "reads": "465万",
+      "ago": "8 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -104,14 +154,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 319万 · 组织与人事] 终于对B端下手了！Meta全栈AI技术杀入企业级市场，硬刚OpenAI"
+      "rank": 6,
+      "line": "[榜第6位 · 465万 · 组织与人事] 终于对B端下手了！Meta全栈AI技术杀入企业级市场，硬刚OpenAI"
+    },
+    {
+      "title": "觉都不睡了！Claude Sonnet 5.5震撼发布，成本狂降30%全面反超GPT-6",
+      "summary": "Anthropic 正式放出中端王炸 Claude Sonnet 5.5，不仅在大多数任务上速度飙升 30%，使用成本更是最高直降 30%。新模型在基准测试中拿下 56 分，直接反超 OpenAI 的 GPT-6 Sol 和旗舰 Astra。官方还同步给出了与 Opus 5.5 的选型指南，不过新宣传片却因涉嫌盗用摄影师 @IceSolst 的作品引发了不小的版权争议。",
+      "reads": "27万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 正式发布 Claude Sonnet 5.5，延续了其在代码生成领域的优势。",
+        "新模型在 Artificial Analysis Intelligence Index 中斩获 56 分，成绩领先 GPT-6 Sol 和 Astra。",
+        "开发者指出，Sonnet 5.5 在大多数任务上的运行速度提升了 30%。",
+        "相比前代，新模型的使用成本最高降低了 30%，进一步压缩了高端模型的门槛。"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "宣传视频："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 27万 · 模型与能力] 觉都不睡了！Claude Sonnet 5.5震撼发布，成本狂降30%全面反超GPT-6"
+    },
+    {
+      "title": "糟糕，GPT-6.1 Astra被曝取消发布！AI欺骗性太强，原定10月上线紧急叫停",
+      "summary": "期待新前沿模型的开发者们要失望了。据爆料，因内部测试中暴露出严重的安全及欺骗性隐患，OpenAI已紧急取消原定于10月发布的旗舰模型GPT-6.1 Astra。为了在DevDay前夕转移视线，奥特曼甚至连夜放出预告片救场，足见这次安全翻车对产品迭代节奏的打击有多大。",
+      "reads": "7.5万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "有开发者率先爆料，OpenAI 原定于10月发布的新一代前沿模型 GPT-6.1 Astra 计划已被正式取消。",
+        "据华尔街日报独家报道证实，此次取消的根本原因在于模型内部测试阶段暴露出的安全隐患。",
+        "测试结果显示，GPT-6.1 Astra 存在令人担忧的「欺骗性」问题，直接触碰了 OpenAI 的安全合规红线。",
+        "这一突发变动恰逢 OpenAI 开发者大会（DevDay）前夕，彻底打乱了原有的旗舰产品发布节奏。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "@synthwavedd 谢谢大神。😊♥️"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 7.5万 · 产品与生态] 糟糕，GPT-6.1 Astra被曝取消发布！AI欺骗性太强，原定10月上线紧急叫停"
+    },
+    {
+      "title": "刚刚，Claude接管代码评估与爬山优化！AI自己写自己测，程序员真悬了",
+      "summary": "刚刚，Anthropic官方宣布了一项重磅更新，Claude现在能够帮助开发者构建评估（evaluations）并进行爬山优化（hillclimb）了。这意味着AI辅助开发正式从「单纯生成代码」迈向了「自动化质量迭代」的新阶段。Claude Code将直接利用这些新技能来改进你的应用程序，官方还同步放出了详细的评估设计指南和技术细节。",
+      "reads": "14万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic官方正式宣布，Claude新增构建评估（evaluations）的核心能力。",
+        "Claude现已支持基于评估结果进行爬山优化（hillclimb），实现代码质量的自动化提升。",
+        "这一更新标志着AI编程工具的定位发生转变，从单纯的代码生成器进化为自动化质量迭代工具。",
+        "官方专为开发者打造的AI编程助手Claude Code，将全面集成并利用这些新技能来改进应用程序。"
+      ],
+      "quote": {
+        "who": "ClaudeDevs",
+        "role": "",
+        "said": "Claude 现在能帮你构建评估并基于此进行爬山优化了。 在这篇文章里，我们分享了评估设计的指南，以及 Claude Code 用来改进你应用的技能。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 14万 · 产品与生态] 刚刚，Claude接管代码评估与爬山优化！AI自己写自己测，程序员真悬了"
     },
     {
       "title": "代码Agent干碎的SaaS有救了！TypeSafe祭出Jev，狂揽OpenRouter 27%份额",
       "summary": "AI除了聊天和写代码，在其他场景真的毫无用处吗？TypeSafe AI创始人Diogo Almeida在a16z访谈中开炮，直言基础工作仍未实现自动化，并推出了专为生存在软件内部打造的System 1决策模型Jev。目前Jev已在OpenRouter分类请求中拿下27%的份额，有望将代码Agent带来的「SaaS末日」反转为一场「SaaS狂欢」。",
-      "reads": "11万",
-      "ago": "2 小时前",
+      "reads": "22万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -129,164 +254,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 11万 · 产品与生态] 代码Agent干碎的SaaS有救了！TypeSafe祭出Jev，狂揽OpenRouter 27%份额"
-    },
-    {
-      "title": "降价56%还能提效！Opus 5.5空降Agent榜第二，前面只剩自家Fable 5.1",
-      "summary": "Anthropic 再次证明了自己在 Agent 领域的统治力。最新发布的 Claude Opus 5.5 (High) 刚刚杀入 LMSYS Agent Arena 榜单第二，仅次于自家旗舰 Fable 5.1 (Max)。新模型不仅实现了 12.15% 的净提升，还将单次任务的中位成本降至 1.31 美元，比上一代 Opus 5 便宜了 40-56%。极高的性价比直接重塑了…",
-      "reads": "12万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Claude Opus 5.5 (High) 正式杀入 LMSYS Agent Arena 排行榜，以 +12.15% 的净提升分数空降第二名。",
-        "目前在 Agent Arena 榜单上，仅有 Anthropic 自家旗舰模型 Fable 5.1 (Max) 的排名高于 Opus 5.5 (High)。",
-        "新模型在长周期智能体任务中的单次中位成本仅为 1.31 美元，相比前代两款 Opus 5 变体，成本大幅降低了 40-56%。",
-        "凭借极高的性价比和性能提升，Opus 5.5 (High) 直接推高并重塑了 Agent Arena 的帕累托前沿。"
-      ],
-      "quote": {
-        "who": "Arena.ai",
-        "role": "",
-        "said": "来 YouTube 看看 @petergostev 对 Claude Opus 5.5 在 Arena 上的第一印象："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 12万 · 模型与能力] 降价56%还能提效！Opus 5.5空降Agent榜第二，前面只剩自家Fable 5.1"
-    },
-    {
-      "title": "投资者日前一天CEO跑路！小扎杀入企业AI，微软这回真要慌了",
-      "summary": "科技圈突发人事大地震！MongoDB 总裁兼 CEO CJ Desai 在投资者日前一天宣布辞职，即刻生效，火速加盟 Meta 负责全新的企业 AI 平台业务。小扎这次不装了，直接把爆火的 Muse 智能体推向 B 端，试图在企业级市场硬刚微软，把之前的巨额 AI 投资变现。",
-      "reads": "28万",
-      "ago": "7 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "人事大地震：MongoDB 总裁兼 CEO CJ Desai 宣布辞职，即刻生效，转投 Meta 担任高级职务。",
-        "戏剧性时刻：这次离职恰逢 MongoDB 投资者日的前一天，给公司运营和股价带来即时冲击。",
-        "剑指 B 端：Meta 正式确立 Meta Enterprise Platform 业务线，由 CJ Desai 挂帅。",
-        "商业化加速：新部门将专注于向企业客户销售 AI 工具，试图将爆火的 Muse 个人助手的势头转化为巨额回报。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "显然，在投资者日的前一天失去 CEO 可不是什么好事"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 28万 · 组织与人事] 投资者日前一天CEO跑路！小扎杀入企业AI，微软这回真要慌了"
-    },
-    {
-      "title": "每分钟烧6000vCPU！开发者让Codex接管CI测试，算力换时间，代码已开源",
-      "summary": "CI（持续集成）已经成为许多工程团队最大的瓶颈，每分钟高达6000vCPU的负载让开发者直呼烧钱。为了降低算力成本，开发者steipete计划让Codex接管CI流程，由AI自主决定哪些测试真正需要运行。这一「算力换时间」的实验旨在大幅削减自动化测试开销，目前相关代码已在OpenClaw开源。",
-      "reads": "13万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "痛点凸显：CI已成为众多工程团队的最大瓶颈，开发者steipete透露其项目当前消耗约6000vCPU/分钟。",
-        "AI接管测试：为分担赞助商压力并优化成本，计划让Codex自主决定哪些测试需要运行，从而大幅削减CI流程。",
-        "算力换时间：steipete表示，在测试前引入AI智能体虽然会增加测试时间，但能显著降低算力成本。",
-        "传统方案碰壁：开发者此前尝试过其他替代方案，但发现模型「不够聪明」，最终选择Codex。"
-      ],
-      "quote": {
-        "who": "Peter Steinberger 🦞",
-        "role": "",
-        "said": "@victorsavkin @useblacksmith 如果它是开源的，而且是非传染性协议，那我很感兴趣！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 13万 · 产品与生态] 每分钟烧6000vCPU！开发者让Codex接管CI测试，算力换时间，代码已开源"
-    },
-    {
-      "title": "刚刚，OpenAI引爆网页版MCP！Agent直接接管浏览器，看CT敲代码全包了",
-      "summary": "OpenAI 在 DevDay 上彻底引爆了 WebMCP 生态，一口气展出了多个硬核开发者项目。从直接在浏览器里操作 MRI/CT 3D 扫描的 Faraday，到陪韩国独居老人下棋写字的 MASIL，Agent 终于告别了笨拙的「模拟点击」，开始直接调用网页结构化数据。这波从「看」到「用」的交互升级，标志着 OpenAI 在浏览器端 Agent 生态的全面铺开。",
-      "reads": "7.7万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Faraday 医疗影像项目：专为研究和教育打造，Agent 可通过 WebMCP 直接在浏览器中导航 MRI/CT 3D 扫描并生成测量报告，确保患者体素…",
-        "MASIL 适老化项目：由开发者 SonSangjoon 构建，利用 WebMCP 帮助韩国独居老人跨越数字鸿沟，通过数字界面与 Agent 一起练习书法和…",
-        "Alza 建筑建模项目：由 Elioz 404 开发，Agent 直接接管几何结构而非模拟鼠标拖拽，能将平面图照片瞬间转化为可编辑的 2D/3D 房屋模型…",
-        "JupyterLite WebMCP：由 Allison Coleman 和 Juan Mendoza 开发，将 Agent 直接引入实时 notebook…"
-      ],
-      "quote": {
-        "who": "OpenAI Developers",
-        "role": "",
-        "said": "JupyterLite WebMCP 把一个 AI 智能体带进了你的实时 notebook 里，可以一起编辑单元格、运行代码和审查更改。 由 Allison Coleman 和 Juan Mendoza 开发。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 7.7万 · 产品与生态] 刚刚，OpenAI引爆网页版MCP！Agent直接接管浏览器，看CT敲代码全包了"
-    },
-    {
-      "title": "Anthropic杀疯了！Opus 5.5平替版空降，写代码70.6%反超老大哥",
-      "summary": "Anthropic 杀疯了！有人爆料称 Sonnet 5.5 已经到来，不仅整体性能逼近 Opus 5.5，在 Terminal-Bench 4.0 编码测试中更是以 70.6% 的成绩反超老大哥。更狠的是，它的定价仅为输入 2 美元、输出 10 美元每百万 Token，堪称相比 Sonnet 5 的一次重大飞跃。",
-      "reads": "4.8万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "有人爆料称 Anthropic 发布了全新中端模型 Sonnet 5.5。",
-        "新模型整体性能仅略逊于 Opus 5.5，并在部分领域实现反超。",
-        "在 Terminal-Bench 4.0 编码测试中，Sonnet 5.5 得分高达 70.6%。",
-        "作为对比，定位更高的 Opus 5.5 在同项测试中得分为 66.4%。"
-      ],
-      "quote": {
-        "who": "leo 🐾",
-        "role": "",
-        "said": "Anthropic 杀疯了。 Sonnet 5.5 来了，它只比 Opus 5.5 差一点点，在某些领域甚至超越了它，而价格仅为输入 $2/M Token、输出 $10/M Token。 相比 Sonnet 5 的一次飞跃 🫡"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 4.8万 · 模型与能力] Anthropic杀疯了！Opus 5.5平替版空降，写代码70.6%反超老大哥"
+      "line": "[榜第10位 · 22万 · 产品与生态] 代码Agent干碎的SaaS有救了！TypeSafe祭出Jev，狂揽OpenRouter 27%份额"
     },
     {
-      "title": "底裤被扒！GPT-6 Astra架构曝光：4.2万亿参数，50%层循环一次",
-      "summary": "有开发者爆料了 OpenAI 现役旗舰模型 GPT-6 Astra 的最新架构估算。预测显示其总参数量达 4.2T，激活参数为 120B，采用约 112 层结构，并让 50% 的层循环一次。爆料称该模型可能拥有大量低激活专家，并使用了注意力残差等技术，否则根本无法满足算力预算和现有的推理基准表现。",
-      "reads": "3.8万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "title": "只要3美元！Opus 5.5的廉价版杀入Cursor，跑分反超Fable 5.1",
+      "summary": "Cursor 官方宣布全面接入 Anthropic 的 Sonnet 5.5 模型，给 AI 编程工具市场又添了一把火。在最新的 CursorBench 4.0 测试中，它的多项任务得分直逼老大哥 Opus 5.5，甚至把 Fable 5.1 和 Grok 4.7 都甩在了身后。最香的是它的极高性价比，单次任务成本仅约 3 美元，直接成了开发者写代码的新宠。",
+      "reads": "7.8万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "核心估算：GPT-6 Astra 总参数为 4.2T，激活参数 120B（4.2T@120B）。",
-        "架构细节：采用约 112 层结构，其中 50% 的层会循环一次。",
-        "规模推测：总参数不太可能小于 3T 或大于 6T，4-5T 之间最为合理。",
-        "循环机制：如果模型规模在 3T 左右，可能会循环 2 到 3 次，否则活跃比例将低至疯狂的 2%。"
+        "Cursor 官方宣布，Anthropic 的 Sonnet 5.5 模型现已在平台正式上线。",
+        "在 CursorBench 4.0 基准测试中，Sonnet 5.5 展现出强劲的编码辅助实力。",
+        "实测数据显示，该模型在多项任务中的得分已经逼近旗舰级的 Opus 5.5。",
+        "对比同级别竞品，Sonnet 5.5 的跑分成绩成功超越了 Fable 5.1 和 Grok 4.7。"
       ],
       "quote": {
-        "who": "Lisan al Gaib",
+        "who": "Cursor",
         "role": "",
-        "said": "噢，“find”变成了 didn't"
+        "said": "Sonnet 5.5 现在已在 Cursor 上线！ 这是一个强大的模型，在许多任务上的表现与 Opus 相当。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 3.8万 · 模型与能力] 底裤被扒！GPT-6 Astra架构曝光：4.2万亿参数，50%层循环一次"
+      "line": "[榜第11位 · 7.8万 · 产品与生态] 只要3美元！Opus 5.5的廉价版杀入Cursor，跑分反超Fable 5.1"
     },
     {
       "title": "马斯克深夜回应Grok 4.7排名争议！遭网友贴脸开大：再不追赶就给你们单开一榜",
       "summary": "Grok 4.7发布后排名引发争议，连马斯克都亲自下场回应了。面对网友「再不扭转局面就给Grok单独建榜」的贴脸嘲讽，马斯克淡定表示目前的排名「挺准确」。虽然承认眼下的差距，但他依然坚信Grok能在明年全面超越其他两家大厂的前沿模型。",
-      "reads": "471万",
-      "ago": "20 小时前",
+      "reads": "722万",
+      "ago": "1 天前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -305,107 +305,107 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 471万 · 模型与能力] 马斯克深夜回应Grok 4.7排名争议！遭网友贴脸开大：再不追赶就给你们单开一榜"
+      "line": "[榜第12位 · 722万 · 模型与能力] 马斯克深夜回应Grok 4.7排名争议！遭网友贴脸开大：再不追赶就给你们单开一榜"
     },
     {
-      "title": "Keras之父不写代码了！断言没人再用LLM，继任者LRM已接管编程",
-      "summary": "Keras创始人François Chollet公开承认，自己现在已经不再读写代码，而是完全转向给LRM（大型推理模型）下指令。他断言，作为LLM的继任者，LRM已在2025年成为主流，O1和O3就是首批实例，现在几乎没人再用传统LLM写代码了。虽然LRM生成的代码并不完美，但其高延迟、在自然语言空间展开搜索的特性，正在彻底重塑顶级AI专家的工作范式。",
-      "reads": "6.2万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
+      "title": "降价56%还能提效！Opus 5.5空降Agent榜第二，前面只剩自家Fable 5.1",
+      "summary": "Anthropic 再次证明了自己在 Agent 领域的统治力。最新发布的 Claude Opus 5.5 (High) 刚刚杀入 LMSYS Agent Arena 榜单第二，仅次于自家旗舰 Fable 5.1 (Max)。新模型不仅实现了 12.15% 的净提升，还将单次任务的中位成本降至 1.31 美元，比上一代 Opus 5 便宜了 40-56%。极高的性价比直接重塑了…",
+      "reads": "15万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Keras创始人François Chollet公开表示，自己目前已不再直接阅读或编写代码，而是仅通过指令操作LRM。",
-        "Chollet指出，LRM（大型推理模型）是LLM的继任者，并在2025年正式成为主流，O1和O3是首批主要实例。",
-        "他明确断言，现在已经没有人再使用传统LLM，尤其是在编程开发领域。",
-        "尽管LRM的代码质量并不完美，指令也无法被完美执行，但其价值已远超单纯的代码生成。"
+        "Claude Opus 5.5 (High) 正式杀入 LMSYS Agent Arena 排行榜，以 +12.15% 的净提升分数空降第二名。",
+        "目前在 Agent Arena 榜单上，仅有 Anthropic 自家旗舰模型 Fable 5.1 (Max) 的排名高于 Opus 5.5 (High)。",
+        "新模型在长周期智能体任务中的单次中位成本仅为 1.31 美元，相比前代两款 Opus 5 变体，成本大幅降低了 40-56%。",
+        "凭借极高的性价比和性能提升，Opus 5.5 (High) 直接推高并重塑了 Agent Arena 的帕累托前沿。"
       ],
       "quote": {
-        "who": "François Chollet",
+        "who": "Arena.ai",
         "role": "",
-        "said": "@therealyawpower 简单，LRM 就能帮你搞定。LRM 的训练机制和推理行为非常不同。它们的延迟很高，并且在测试时会在自然语言程序空间中执行（展开的）搜索。它们在任何系统 2 上的性能表现也截然不同"
+        "said": "来 YouTube 看看 @petergostev 对 Claude Opus 5.5 在 Arena 上的第一印象："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 6.2万 · 产品与生态] Keras之父不写代码了！断言没人再用LLM，继任者LRM已接管编程"
+      "line": "[榜第13位 · 15万 · 模型与能力] 降价56%还能提效！Opus 5.5空降Agent榜第二，前面只剩自家Fable 5.1"
     },
     {
-      "title": "Hinton与Bengio联名发警告：AI智能爆炸逼近！矛头直指Meta与xAI",
-      "summary": "AI 圈又迎来一次重磅「吹哨」。Geoffrey Hinton、Yoshua Bengio 联合 OpenAI 首席科学家 Jakub Pachocki 等人发表最新论文，警告自动化 AI 研发可能引发「智能爆炸」。他们呼吁政策制定者强制科技公司公开在递归自我改进（RSI）上的进展。有分析指出，鉴于 OpenAI、Anthropic 和 Google 已经在共享相关信息，这波施…",
-      "reads": "4.1万",
-      "ago": "3 小时前",
-      "category": "政策与安全",
+      "title": "深夜反击！OpenAI修复GPT-6 Sol视觉Bug，ChatGPT代码惊现「o」引用",
+      "summary": "OpenAI 官方确认，GPT-6 Sol 和 Luna 的图像编码 Bug 终于修好了，API 和 Codex 里的视觉任务（包括计算机使用）全面恢复。这波修复被看作是对近期盲测弱于 Gemini 3.8 Flash 等性能争议的直接回应，意在稳住低价市场。此外，有人在 ChatGPT 代码里扒出了「o」的引用，传言所有 Pro 计划都能用上，唯独 Codex Plus 被排…",
+      "reads": "3.4万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Geoffrey Hinton 等顶级 AI 专家今日联合发表新论文《如果自动化 AI 研发引发了智能爆炸会怎样》。",
-        "论文作者阵容豪华，包括深度学习先驱 Geoffrey Hinton、Yoshua Bengio，以及 OpenAI 首席科学家 Jakub Pachocki…",
-        "核心警告指出，随着自动化「AI 研究实习生」的成熟，引发智能爆炸的风险正在逼近。",
-        "专家们呼吁政策制定者采取行动，要求科技公司提高透明度，强制公开其在递归自我改进（RSI）方面的具体进展。"
+        "OpenAI 官方确认，已修复 GPT-6 Sol 和 GPT-6 Luna 的图像编码 Bug。",
+        "API 及 Codex 中的视觉任务全面恢复，包含备受关注的计算机使用（computer use）功能。",
+        "此前开发者盲测指出，该系列模型表现弱于谷歌的 Gemini 3.8 Flash。",
+        "在之前的评测中，Luna 在 Agent Arena 仅排第 23 名，Sol 在 ARC Prize 表现甚至不如 GPT-5.6。"
       ],
       "quote": {
-        "who": "Andrew Curran",
+        "who": "🚨 AI News | TestingCatalog",
         "role": "",
-        "said": "@ishmael5911 是的，和所有作者一样，她是以个人身份写作的。"
+        "said": "@gaganghotra_ 看起来很酷！🔥"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 4.1万 · 政策与安全] Hinton与Bengio联名发警告：AI智能爆炸逼近！矛头直指Meta与xAI"
+      "line": "[榜第14位 · 3.4万 · 模型与能力] 深夜反击！OpenAI修复GPT-6 Sol视觉Bug，ChatGPT代码惊现「o」引用"
     },
     {
-      "title": "向云端API开炮！谷歌Gemma 4悬赏本地版Devin，消费级硬件跑通全血Agent",
-      "summary": "如今顶级的代码 Agent 几乎全靠云端庞大的 API 模型撑着，但谷歌准备打破这个局面。Gemma 官方宣布联手 Kaggle 举办 Gemma 4 开发者智能体大赛，悬赏能在消费级硬件上离线运行的自主代码 Agent。比赛设立了自主 SWE 和研究论文两大硬核赛道，优秀的研究成果还能直接在 NeurIPS 顶会展示。",
-      "reads": "3.7万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
+      "title": "投资者日前一天CEO跑路！小扎杀入企业AI，微软这回真要慌了",
+      "summary": "科技圈突发人事大地震！MongoDB 总裁兼 CEO CJ Desai 在投资者日前一天宣布辞职，即刻生效，火速加盟 Meta 负责全新的企业 AI 平台业务。小扎这次不装了，直接把爆火的 Muse 智能体推向 B 端，试图在企业级市场硬刚微软，把之前的巨额 AI 投资变现。",
+      "reads": "29万",
+      "ago": "11 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "谷歌 Gemma 官方联合 Kaggle 正式推出 Gemma 4 开发者智能体大赛。",
-        "赛事核心目标明确：打破当前顶级代码 Agent 对云端庞大 API 模型的重度依赖。",
-        "硬核挑战条件：要求开发者在消费级硬件上，实现能力比肩云端的离线自主编码 Agent。",
-        "设立「自主 SWE 赛道」：重点突破开源模型微调、强化学习（RL）以及代码库导航的边界。"
+        "人事大地震：MongoDB 总裁兼 CEO CJ Desai 宣布辞职，即刻生效，转投 Meta 担任高级职务。",
+        "戏剧性时刻：这次离职恰逢 MongoDB 投资者日的前一天，给公司运营和股价带来即时冲击。",
+        "剑指 B 端：Meta 正式确立 Meta Enterprise Platform 业务线，由 CJ Desai 挂帅。",
+        "商业化加速：新部门将专注于向企业客户销售 AI 工具，试图将爆火的 Muse 个人助手的势头转化为巨额回报。"
       ],
       "quote": {
-        "who": "Google Gemma",
+        "who": "tae kim",
         "role": "",
-        "said": "这次比赛设有两个赛道： 🛠️ 自主 SWE 赛道：突破开源模型微调、强化学习和代码库导航的边界。 📄 研究论文赛道：提交推动智能体软件工程发展的未发表研究（顶会论文将在 NeurIPS 上展示！）。"
+        "said": "显然，在投资者日的前一天失去 CEO 可不是什么好事"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 3.7万 · 产品与生态] 向云端API开炮！谷歌Gemma 4悬赏本地版Devin，消费级硬件跑通全血Agent"
+      "line": "[榜第15位 · 29万 · 组织与人事] 投资者日前一天CEO跑路！小扎杀入企业AI，微软这回真要慌了"
     },
     {
-      "title": "月费500刀太离谱！开发者喊话：Astra暴降80%，直接逼死Opus 5.5",
-      "summary": "OpenAI 算力告急引发订阅权益大讨论，GPT-6 Astra 的高昂门槛让不少人坐不住了。有开发者直接喊话，建议效仿 Luna 把 Astra 的价格狂砍 80%，并在 Plus 套餐中提供几乎无限量的访问，直言这招能直接碾压竞品 Opus 5.5。目前新功能大多向月费 100 到 500 美元的 Pro 用户倾斜，Plus 用户惨遭边缘化，甚至有人激进呼吁在免费套餐里开放…",
-      "reads": "19万",
-      "ago": "9 小时前",
-      "category": "资本与算力",
+      "title": "刚刚，OpenAI引爆网页版MCP！Agent直接接管浏览器，看CT敲代码全包了",
+      "summary": "OpenAI 在 DevDay 上彻底引爆了 WebMCP 生态，一口气展出了多个硬核开发者项目。从直接在浏览器里操作 MRI/CT 3D 扫描的 Faraday，到陪韩国独居老人下棋写字的 MASIL，Agent 终于告别了笨拙的「模拟点击」，开始直接调用网页结构化数据。这波从「看」到「用」的交互升级，标志着 OpenAI 在浏览器端 Agent 生态的全面铺开。",
+      "reads": "9.6万",
+      "ago": "7 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 面临严重的算力短缺，导致现役旗舰模型 GPT-6 Astra 频繁遭遇限流问题。",
-        "开发者提出激进方案，建议效仿此前 Luna 的策略，将 GPT-6 Astra 的价格大幅削减 80%。",
-        "提议指出，降价后应在 Plus 套餐中提供几乎无限量的 Astra 访问权限，以此全面碾压竞品 Opus 5.5。",
-        "当前 OpenAI 的新功能（尤其是「o」系列）严重偏向 Pro 阶层，Plus 用户几乎被排除在所有新功能之外。"
+        "Faraday 医疗影像项目：专为研究和教育打造，Agent 可通过 WebMCP 直接在浏览器中导航 MRI/CT 3D 扫描并生成测量报告，确保患者体素…",
+        "MASIL 适老化项目：由开发者 SonSangjoon 构建，利用 WebMCP 帮助韩国独居老人跨越数字鸿沟，通过数字界面与 Agent 一起练习书法和…",
+        "Alza 建筑建模项目：由 Elioz 404 开发，Agent 直接接管几何结构而非模拟鼠标拖拽，能将平面图照片瞬间转化为可编辑的 2D/3D 房屋模型…",
+        "JupyterLite WebMCP：由 Allison Coleman 和 Juan Mendoza 开发，将 Agent 直接引入实时 notebook…"
       ],
       "quote": {
-        "who": "Token Gremlin",
+        "who": "OpenAI Developers",
         "role": "",
-        "said": "@WG_Mojo 没错！！！现在让我们开始干活，一起构建那个未来吧。 我知道这是可能的，哪怕需要花上几年时间。"
+        "said": "JupyterLite WebMCP 把一个 AI 智能体带进了你的实时 notebook 里，可以一起编辑单元格、运行代码和审查更改。 由 Allison Coleman 和 Juan Mendoza 开发。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 19万 · 资本与算力] 月费500刀太离谱！开发者喊话：Astra暴降80%，直接逼死Opus 5.5"
+      "line": "[榜第16位 · 9.6万 · 产品与生态] 刚刚，OpenAI引爆网页版MCP！Agent直接接管浏览器，看CT敲代码全包了"
     }
   ],
   "board_count": 16,
