@@ -3,90 +3,315 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-01 03:10:01 +0800",
+  "fetched_at": "2026-10-01 07:42:14 +0800",
   "today": "10/01",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "两周内上新！OpenAI全网征集Dots新功能，独立版呼声最高",
-      "summary": "DevDay 刚结束，OpenAI 就开始在线听劝了。官方研究员公开征集未来两周内大家希望在 Dots 和 Space 上看到的新功能，试图缓解社区对新产品线权限混乱的吐槽。目前呼声最高的是尽快将 Dots 下放至 Plus 套餐，以及推出独立版应用。",
-      "reads": "8.6万",
-      "ago": "27 分钟前",
-      "category": "产品与生态",
+      "title": "刚刚，谷歌Gemini 4 Argon突袭！比Astra便宜5倍，跑分直接秒杀GPT-6",
+      "summary": "谷歌今日突发前沿模型 Gemini 4 Argon，率先向网络防御者开放。新模型主打极具攻击性的定价，首发期输入 2 美元、输出 10 美元，比 GPT-6 Astra 便宜整整 5 倍。性能上不仅在 CWE-bench v1 网安基准中以 68% 并列第一，平均得分更是反超 Astra 和 Opus 5.5，标志着 AI 巨头之争重回三足鼎立格局。",
+      "reads": "87万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI 研究员公开在 X 上发帖，征集用户对 Dots 和 Space 产品的改进建议。",
-        "官方明确给出了「未来两周」的时间窗口，暗示近期将有密集的功能上线与优化。",
-        "此次互动发生在 DevDay 发布 Dots 助手之后，旨在收集开发者关于权限混乱及产品线重叠的反馈。",
-        "有用户强烈建议，尽快将 Dots 功能下放至现有的 Plus 订阅套餐中。"
+        "谷歌正式推出前沿模型 Gemini 4 Argon，今日起率先向网络防御者推送，后续将尽快扩大开放范围。",
+        "定价策略极具攻击性，首发体验价为输入 2 美元、输出 10 美元，比 GPT-6 Astra 便宜 5 倍，比 Opus 5.5 便宜 2 倍。",
+        "首发期结束后，Argon 价格将恢复至输入 4 美元、输出 20 美元，基本与 Claude Opus 5.5 持平。",
+        "网络安全能力顶尖，在 CWE-bench v1 测试中以 68% 的成绩并列第一，具备发现、验证漏洞及生成 PoC 证据的能力。"
       ],
       "quote": {
-        "who": "tae kim",
+        "who": "Mark Kretschmann",
         "role": "",
-        "said": "@AndrewMayne @thsottiaux 是的，独立版会很棒。"
+        "said": "@OfficialLoganK 绝地反击！Google 回来了。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 8.6万 · 产品与生态] 两周内上新！OpenAI全网征集Dots新功能，独立版呼声最高"
+      "line": "[榜第1位 · 87万 · 模型与能力] 刚刚，谷歌Gemini 4 Argon突袭！比Astra便宜5倍，跑分直接秒杀GPT-6"
     },
     {
-      "title": "刚刚，GPT-6.1极速版被曝换芯！英伟达硬扛300 tok/s，Cerebras悬了",
-      "summary": "OpenAI 最新上线的 GPT-6.1 Sol Ultrafast 模式被曝并未运行在合作伙伴 Cerebras 的芯片上，而是靠英伟达 GPU（疑似 GB300）以极低 batch size 硬扛出了约 300 tokens/sec 的极速。此前双方曾专门针对超低延迟推理达成合作，且上一代模型在 Cerebras 上打出过约 750 tok/s 的高光，如今承诺的 Cere…",
-      "reads": "62万",
-      "ago": "5 小时前",
-      "category": "资本与算力",
+      "title": "反击Astra！谷歌祭出Gemini 4 Argon，100万输出长推理炸场",
+      "summary": "谷歌深夜突然放出大招，正式发布全新前沿模型 Gemini 4 Argon！这款主打复杂长周期推理的新旗舰，直接将输出上限拉爆到 100 万 Token，首发定价为输入 2 美元、输出 10 美元。虽然在多项基准测试中跑分碾压了 GPT-6 Astra 和 Claude Fable 5.1，但内部爆料称其在编程表现上依然有些挣扎。",
+      "reads": "38万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "据 SemiAnalysis 爆料，OpenAI 最新的 GPT-6.1 Sol Ultrafast 模式并未运行在 Cerebras 芯片上。",
-        "该极速模式实际上是跑在 NVIDIA GPU 上，通过极低的 batch size 实现了约 300 tokens/sec 的推理速度。",
-        "业内猜测，OpenAI 此次使用的很可能是英伟达 Blackwell 架构的 GB300 级别硬件。",
-        "这一发现引发圈内哗然，因为 OpenAI 此前专门为了超低延迟推理与 Cerebras 达成了合作预期。"
+        "Google DeepMind 官宣新前沿模型 Gemini 4 Argon，专攻真实世界软件工程、法律金融等复杂长周期工作流。",
+        "模型输出上限高达 100 万 Token，首发定价为每百万 Token 输入 2 美元、输出 10 美元。",
+        "官方基准测试成绩亮眼，在 Vals Index（68.9%）和 DeepSWE v1.1（77.9%）中得分均领先于现役旗舰 GPT-6 Astra 和 C…",
+        "据曝光的内部测试显示，尽管官方宣称其网络防御性能前沿，但 Argon 在实际编程表现上仍存在挣扎。"
       ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "Chetaslua",
         "role": "",
-        "said": "🤨怪不得速度这么快！OpenAI最新GPT-6.1 Sol Ultrafast并没有跑在Cerebras上，而是用NVIDIA GPU、低batch size硬扛极速。 随后NVIDIA AI官方只回了一个 👀 这个表情比任何新闻稿都狠。 上一代GPT-5.6 Sol Ultrafast，Cerebras打出过约750 tok/s的高光。"
+        "said": "@ClassicMain 是的，我懂，我是在比较梯队 比如 Google Flash : Sonnet : Luna Google Argon : Opus : Sol Ultra : Fable : Astra 这就是我说的，如果他们发布终极大招，我们就又重回巅峰了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 62万 · 资本与算力] 刚刚，GPT-6.1极速版被曝换芯！英伟达硬扛300 tok/s，Cerebras悬了"
+      "line": "[榜第2位 · 38万 · 模型与能力] 反击Astra！谷歌祭出Gemini 4 Argon，100万输出长推理炸场"
     },
     {
-      "title": "夺笋！马斯克嘲讽达美航空没网：给AI做沙盒测试的最佳地点",
-      "summary": "马斯克又在 X 上整活了！他发帖调侃称，给 AI 做沙盒测试最好的办法就是把它扔到达美航空的航班上，因为那里绝对连不上网。这波「夺笋」发言的背后，是达美航空此前拒绝了马斯克的 StarLink 高速机上 WiFi，转而选择了亚马逊的 Leo 卫星网络。尴尬的是，亚马逊的服务预计要到 2028 年才能正式可用，这意味着乘客还要在长达 10 小时的航班上忍受好几年的「断网」折磨。",
-      "reads": "495万",
-      "ago": "14 小时前",
-      "category": "产品与生态",
+      "title": "100万输出Token！谷歌Gemini 4追平GPT-6 Astra，单任务成本仅六折",
+      "summary": "谷歌正式发布前沿模型 Gemini 4 Argon，输出上限高达 100 万 Token。新模型标准定价为每百万输入/输出 Token 4/20 美元，配合 95% 的缓存折扣，单任务成本仅为 GPT-6 Astra 的 60%。在基准测试中，Gemini 4 Argon 智能指数拿到 53 分追平 Astra，标志着谷歌强势杀回大模型第一梯队。",
+      "reads": "27万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "马斯克在 X 上发帖调侃，称达美航空的航班是给 AI 做沙盒测试的「最佳地点」，因为绝对连不上网。",
-        "这一嘲讽源于达美航空此前的商业选择：他们拒绝了马斯克旗下 StarLink 提供的高速机上 WiFi 方案。",
-        "达美航空最终选择了亚马逊的 Leo 卫星网络作为替代，但该服务预计要到 2028 年才能正式投入使用。",
-        "在长达 4 年的过渡期内，达美航空的乘客将面临严重的网络连接缺失或质量低下问题。"
+        "谷歌发布前沿模型 Gemini 4 Argon，输出上限达到 100 万 Token，重回智能水平前三大实验室之列。",
+        "在 Artificial Analysis 智能指数上，Gemini 4 Argon 以 53 分追平 OpenAI 旗舰 GPT-6 Astra，并领先…",
+        "新模型标准定价为每百万输入/输出 Token 4/20 美元，缓存输入 Token 可享受 95% 折扣。",
+        "凭借高额缓存折扣，Gemini 4 Argon 的折后单任务成本仅为 GPT-6 Astra 的 60%。"
       ],
       "quote": {
-        "who": "sui",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "哈哈哈哈哈哈绝了。背景信息：达美航空拒绝了 Elon 速度很快的 StarLink 机上 WiFi，选了亚马逊的 leo，而后者要到 2028 年才能用。想象一下在 10 小时的航班上用着烂 WiFi 💀 赶走顾客的最佳方式。"
+        "said": "即使在 AAI 指数上，Gemini 4 看起来也真的非常非常棒！Fable 级别的模型。Gemini 4 Argon 在 Artificial Analysis 的 Intelligence Index 上追平了 GPT-6 Astra。 拿到了 53 分，对比 Astra 的 53 分和 GPT-6.1 Sol 的 52 分。它还拿下了 AutomationBench-AA 的第一名。 在 AA-Omniscie…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 495万 · 产品与生态] 夺笋！马斯克嘲讽达美航空没网：给AI做沙盒测试的最佳地点"
+      "line": "[榜第3位 · 27万 · 模型与能力] 100万输出Token！谷歌Gemini 4追平GPT-6 Astra，单任务成本仅六折"
+    },
+    {
+      "title": "发布当天惨遭自家员工背刺！Gemini 4实测写代码翻车，谷歌内部乱成一锅粥",
+      "summary": "谷歌全新前沿模型 Gemini 4 Argon 正式发布，输出上限高达 100 万 Token，首发价输入 2 美元、输出 10 美元，跑分直接追平 GPT-6 Astra。然而发布当天就惨遭自家员工「背刺」：据爆料，该模型在实际工作中的编程表现相当挣扎，让内部员工大为光火。这波操作不仅暴露了模型在真实生产力场景下的短板，更让谷歌失调的内部文化彻底摆上台面。",
+      "reads": "22万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Google DeepMind 正式推出全新前沿模型 Gemini 4 Argon，输出上限达到 100 万 Token。",
+        "新模型首发定价为输入 2 美元、输出 10 美元，在企业软件工程与网络防御中展现前沿性能。",
+        "基准测试表现亮眼，Gemini 4 Argon 在 AA 智能指数上成功追平 OpenAI 的现役旗舰 GPT-6 Astra。",
+        "据彭博社曝光，内部测试显示该模型在实际投入使用时表现不佳，尤其在处理特定编程任务时非常挣扎。"
+      ],
+      "quote": {
+        "who": "tae kim",
+        "role": "",
+        "said": "想想 Google 的内部文化得有多失调和崩溃，才会让现任员工感到如此恼火，以至于在 Gemini 4 发布的当天就向彭博社记者泄露它其实没那么好。太疯狂了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 22万 · 模型与能力] 发布当天惨遭自家员工背刺！Gemini 4实测写代码翻车，谷歌内部乱成一锅粥"
+    },
+    {
+      "title": "开发者大本营来了！Anthropic上线claude.dev，还藏了复古像素游戏彩蛋",
+      "summary": "Anthropic 官方正式上线了开发者专属新家 claude.dev。这个新站点不仅打包了工程深度解析、Claude Code 和 API 指南，还汇集了研发团队的独家技巧。更有意思的是，官方还在里面埋了彩蛋——一款名为「CLAUDE'S QUEST」的复古像素风游戏，属实把开发者生态玩明白了。",
+      "reads": "20万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 官方宣布启用全新域名 claude.dev，定位为使用 Claude 构建应用的开发者新家。",
+        "站点内集中提供了详细的工程深度解析，帮助开发者更好理解底层逻辑。",
+        "核心资源包括完整的 Claude Code 和 API 指南，方便开发者一站式查阅。",
+        "官方研发团队亲自下场，在站点内分享构建 Claude 过程中的实用技巧。"
+      ],
+      "quote": {
+        "who": "ClaudeDevs",
+        "role": "",
+        "said": "是我们为使用 Claude 构建应用的开发者准备的新家。 你可以在这里找到工程深度解析、Claude Code 和 API 指南、Claude 研发团队的技巧分享，还有一些有趣的彩蛋。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 20万 · 产品与生态] 开发者大本营来了！Anthropic上线claude.dev，还藏了复古像素游戏彩蛋"
+    },
+    {
+      "title": "OpenAI在线听劝！Dots两周内迎重磅上新，全网血书求下放Plus套餐",
+      "summary": "OpenAI 官方罕见在线听劝，公开向社区征集 Dots 和 Space 未来两周的更新建议。这是继 DevDay 发布后，官方首次直接收集短期迭代需求。评论区瞬间被开发者攻占，呼声最高的需求包括尽快将 Dots 下放至 Plus 套餐（目前仅限 Pro 及以上）、推出独立版应用，以及与 Codex 深度整合，实现通过短信和电话全权管理生活。",
+      "reads": "30万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 研究员在 X 上公开征集 Dots 和 Space 在未来两周内的上新建议。",
+        "这是自 DevDay 发布 Dots 以来，官方首次直接面向社区收集短期迭代需求。",
+        "大量用户在评论区呼吁，希望尽快将 Dots 的使用权限从 Pro 套餐下放至 Plus 套餐。",
+        "开发者强烈建议为 Dots 推出独立版应用，以提升日常使用体验。"
+      ],
+      "quote": {
+        "who": "🍓🍓🍓",
+        "role": "",
+        "said": "@thsottiaux @jessyseonoob 和 codex 深度整合，这样我就能搞定一切，只需通过和我的 dot 发短信打电话就能管理我的生活了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 30万 · 产品与生态] OpenAI在线听劝！Dots两周内迎重磅上新，全网血书求下放Plus套餐"
+    },
+    {
+      "title": "价格脚踝斩！谷歌Gemini 4 Argon杀疯了，1.99刀硬刚GPT-6 Astra",
+      "summary": "谷歌DeepMind正式祭出前沿模型Gemini 4 Argon，直接把输入成本打到了1.99美元，比GPT-6 Astra便宜近一半。不仅价格脚踝斩，它的输出上限更是高达100万Token，在知识工作和长程工程测试中双双拿下SOTA，把前沿模型的性价比战争推向了新高潮。",
+      "reads": "6.3万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "谷歌DeepMind正式发布Gemini 4 Argon，输出上限达到惊人的100万Token。",
+        "输入成本仅1.99美元，远低于GPT-6 Astra的3.26美元和Claude Opus 5.5的6-7美元以上，主打极致性价比。",
+        "AA智能指数拿下53分，成功追平GPT-6 Astra并卡在帕累托最优线上。",
+        "知识工作基准Vals Index得分68.9%，反超Claude Opus 5.5（67.0%）和GPT-6 Astra（63.1%）。"
+      ],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "🚨提前剧透？！川普昨天把Sundar叫“怪物”，今天Google就放出真正让人害怕的怪物Gemini 4 Argon！ 白宫现场： 川普：“This guy is a MONSTER, and nobody knows him. What a great life!” Sundar秒回：“Hopefully a better tagline than I’m a monster!” 结果24小时后： Gemini 4…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 6.3万 · 模型与能力] 价格脚踝斩！谷歌Gemini 4 Argon杀疯了，1.99刀硬刚GPT-6 Astra"
+    },
+    {
+      "title": "谷歌杀回来了！Gemini 4 Argon接管自家数据中心，干出300TiB内存，运维悬了",
+      "summary": "谷歌这波真的杀回来了！最新披露显示，拥有100万Token输出上限的Gemini 4 Argon智能体，已经开始接管并优化谷歌自家的底层基础设施。通过自动分析性能数据并修改代码，AI硬生生在数据中心里释放了超过300 TiB的内存资源，大模型正式从内容生成跨越到了硬核的自动化运维阶段。",
+      "reads": "10万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "谷歌官方披露了前沿模型 Gemini 4 Argon 的最新内部硬核应用成果。",
+        "该模型具备高达 100 万 Token 的输出上限，为其处理复杂系统级任务提供支撑。",
+        "AI 智能体已经深入谷歌数据中心底层，开始自主优化自家的基础设施。",
+        "通过自动分析性能分析（profiling）数据，AI 成功定位并找到了内存优化方案。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@niklaslenz_ai 可能是这样。但这说明了一件事：Google 回来了！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 10万 · 模型与能力] 谷歌杀回来了！Gemini 4 Argon接管自家数据中心，干出300TiB内存，运维悬了"
+    },
+    {
+      "title": "价格脚踝斩！GPT-6.1 Sol狂飙70分杀入前三，Agent开发成本彻底打下来了",
+      "summary": "大模型性价比之战彻底白热化！OpenAI 刚刚发布的 GPT-6.1 Sol (Max) 以 1759 分空降代码榜第三，较上代狂飙 70 分。更离谱的是，它的混合价格仅为 8 美元/百万 Token，直接把成本打到了 Astra 的五分之一。与此同时，谷歌 Gemini 4 Argon 也以同等白菜价刷新了文本榜纪录，Agent 开发的成本结构正在被全面重塑。",
+      "reads": "4.8万",
+      "ago": "56 分钟前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 推出性价比旗舰 GPT-6.1 Sol (Max)，在 Code Arena: WebDev 榜单以 1759 分斩获第 3 名。",
+        "该模型较上一代 GPT-6 Sol (Max) 性能提升 70 分，展现出强大的逆向工程与代码编写能力。",
+        "GPT-6.1 Sol 混合定价仅为 8 美元/百万 Token（输入 2 美元/输出 10 美元），成本降至 Astra 的约五分之一。",
+        "谷歌同日发力，Gemini 4 Argon (High) 凭借 1525 分的成绩重塑了 Text Arena 的帕累托前沿，混合价格同为 8 美元/百万…"
+      ],
+      "quote": {
+        "who": "Arena.ai",
+        "role": "",
+        "said": "@HiDream_AI 的 Hidream-O1-Video-1.0 刚刚空降图生视频竞技场第 7 名，拿下 1456 分！ 这个模型可以在 @vivago_ai 上体验，距离 gemini-omni-flash 只差 8 分，和 dreamina-seedance-2.0 及 2.5 的分差都在 20 分以内。 恭喜 @HiDream_AI 发布新模型！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 4.8万 · 模型与能力] 价格脚踝斩！GPT-6.1 Sol狂飙70分杀入前三，Agent开发成本彻底打下来了"
+    },
+    {
+      "title": "搞起线下了！Anthropic杀入旧金山科技周，首个Claude开发者之家开张",
+      "summary": "Anthropic 正在将触角从纯软件服务延伸至线下开发者生态。官方今日宣布，Claude Founder House 将于 10 月 6 日至 8 日登陆旧金山科技周，并于 10 月 14 日在斯德哥尔摩举办。活动专为创始人、CEO 及开发者打造，提供核心团队演讲、工作坊及面对面答疑，目前两地注册通道均已正式开放。",
+      "reads": "17万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 官宣举办线下活动 Claude Founder House，标志着其从纯软件服务向深度用户社群运营延伸。",
+        "旧金山场次将作为旧金山科技周（SF Tech Week）的一部分，于 10 月 6 日至 8 日举行。",
+        "欧洲场次定档瑞典斯德哥尔摩，将于 10 月 14 日正式开启。",
+        "活动受众精准定向 AI 领域的创始人、CEO 以及使用 Claude 构建产品的开发者。"
+      ],
+      "quote": {
+        "who": "Claude",
+        "role": "",
+        "said": "注册旧金山场： 注册斯德哥尔摩场："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 17万 · 产品与生态] 搞起线下了！Anthropic杀入旧金山科技周，首个Claude开发者之家开张"
+    },
+    {
+      "title": "刚刚，GPT-6 Astra性价比版炸场！ARC-AGI狂砍96.4%，推理成本暴降77%",
+      "summary": "ARC Prize 刚刚公布了 OpenAI 性价比旗舰 GPT-6.1 Sol 的官方验证成绩。在 ARC-AGI-3 基准测试中，它以 96.4% 的高分紧咬自家旗舰 Astra（99.9%），但推理成本直接暴降 77%。官方表示，Sol 在高推理层级下能做出更优决策，通关动作更少，从而大幅降低了总开销。",
+      "reads": "7.5万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "ARC Prize 官方公布 OpenAI GPT-6.1 Sol 在 ARC-AGI 系列基准上的验证结果。",
+        "在 ARC-AGI-3 测试中，使用 provider adapter 框架取得 96.4% 高分，成本为 $4.4K。",
+        "这一成绩与自家旗舰 GPT-6 Astra 的 99.9% 相当，但推理成本大幅降低 77%。",
+        "在 ARC-AGI-2 上，GPT-6.1 Sol 最高分达 94.2%，单任务成本仅 $0.25，同样比 Astra 便宜 77%。"
+      ],
+      "quote": {
+        "who": "Lisan al Gaib",
+        "role": "",
+        "said": "也许它们被称为 loopers，是因为它们在 ARC-AGI-3 上向后弯曲"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 7.5万 · 模型与能力] 刚刚，GPT-6 Astra性价比版炸场！ARC-AGI狂砍96.4%，推理成本暴降77%"
+    },
+    {
+      "title": "暴涨6倍！OpenAI最新报告：中小企业AI Agent用量飙升至70%，官方下场送培训",
+      "summary": "OpenAI 官方发布最新报告，揭示了小团队正在大规模采用 AI Agent 承担核心工作。数据显示，2026年1月至8月间，中小企业在 AI Agent Token 使用量中的占比从约 10% 狂飙至近 70%。为此，OpenAI 宣布与美国小企业管理局（ASBDC）达成合作，提供实操培训和本地指导，全面发力长尾商业场景。",
+      "reads": "13万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 官方发布新报告，探讨小企业如何利用 AI Agent 处理从获客到财务管理的业务。",
+        "数据显示，2026年1月至8月间，中小企业在 AI Agent Token 使用量中的占比从约 10% 飙升至近 70%。",
+        "这一数据表明，小团队正大规模采用 AI 承担核心工作，长尾商业场景迎来爆发。",
+        "为支持这一趋势，OpenAI 宣布与美国小企业管理局（ASBDC）达成新合作伙伴关系。"
+      ],
+      "quote": {
+        "who": "OpenAI",
+        "role": "",
+        "said": "小团队正用 AI 承担更多工作——从寻找客户到打造产品和管理财务。 我们的新报告探讨了小企业如何让 AI 智能体投入工作。通过与 @ASBDC 的新合作，我们带来了实操 AI 培训和本地指导"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 13万 · 产品与生态] 暴涨6倍！OpenAI最新报告：中小企业AI Agent用量飙升至70%，官方下场送培训"
     },
     {
       "title": "连蛋白质都能打水印了！生物版SynthID登Nature，Hassabis开源防线",
       "summary": "AI 时代的生物安全防线又厚了一层。Google DeepMind 团队成功合成了兼具功能与水印的 AI 设计蛋白质，这项把 SynthID 引入生物学的突破性成果今日正式登上「Nature」。为了应对潜在的生物安全风险，CEO Demis Hassabis 宣布全面开源 SynthID Bio 工具，让全球研究者都能给「生命基石」打上可追溯的烙印。",
-      "reads": "4.5万",
-      "ago": "59 分钟前",
+      "reads": "20万",
+      "ago": "6 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -104,308 +329,83 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 4.5万 · 政策与安全] 连蛋白质都能打水印了！生物版SynthID登Nature，Hassabis开源防线"
+      "rank": 13,
+      "line": "[榜第13位 · 20万 · 政策与安全] 连蛋白质都能打水印了！生物版SynthID登Nature，Hassabis开源防线"
     },
     {
-      "title": "Gems成历史！谷歌Gemini全球上线Skills，支持主动触发与多技能叠加",
-      "summary": "谷歌 Gemini 今天迎来重大更新，全新功能 Skills 正式在全球上线！它不仅能帮你把常用的提示词存成快捷方式，还支持主动触发和多技能叠加。官方宣布，Skills 将全面取代现有的 Gems，个人用户从 11 月起自动迁移，企业客户则在 2027 年 3 月完成替换。",
-      "reads": "7.3万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "谷歌正式宣布 Gemini 全新功能 Skills 今日在全球范围内上线，目前已面向个人用户开放。",
-        "Skills 相当于特定任务的指令集快捷方式，可帮助用户跳过重复的提示词输入，直接获取结果。",
-        "具备主动性：Gemini 能根据聊天内容自动构建自定义 Skills，并在提示词匹配时自动触发。",
-        "支持可叠加性（stackable）：用户可以同时叠加多个 Skills 来处理复杂任务，例如结合个人写作风格。"
-      ],
-      "quote": {
-        "who": "Google Gemini",
-        "role": "",
-        "said": "Skills 也是主动且可叠加的。 Gemini 可以帮你从聊天中构建自定义 skills，如果你的提示词与之匹配，它会自动使用已保存的 skill。对于更大的任务，你可以同时叠加多个 skills，比如结合你个人的写作风格"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 7.3万 · 产品与生态] Gems成历史！谷歌Gemini全球上线Skills，支持主动触发与多技能叠加"
-    },
-    {
-      "title": "糟糕，OpenAI大砍额度！GPT-6.1 Sol实测出炉，大V直言转投Opus",
-      "summary": "GPT-6.1 Sol 上线后，实测口碑出炉：虽然速度稍慢，但效率极高。然而 OpenAI 近期悄悄大砍订阅使用额度，直接引发了核心用户的不满。有大V担忧，缩水后的配额根本无法支撑未来延期发布的 GPT-6.1 Astra 等前沿模型，并直言自己目前已经更倾向于使用 Anthropic 的 Opus 了。",
-      "reads": "5.3万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "KOL 实测反馈出炉：认为 GPT-6.1 Sol 是一个优秀且高效的模型，尽管速度上稍微有些慢。",
-        "OpenAI 近期收紧了订阅计划，大幅削减了用户的使用额度（usage limits），引发社区不满。",
-        "针对额度缩水，大V直言「这可是件非常糟糕的事」，认为高效的模型也难以弥补配额减少带来的体验下降。",
-        "用户对未来的前沿模型消耗表示担忧，特别是目前已经延期发布的旗舰模型 GPT-6.1 Astra。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@elshayib_ 这可是件非常糟糕的事。。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 5.3万 · 产品与生态] 糟糕，OpenAI大砍额度！GPT-6.1 Sol实测出炉，大V直言转投Opus"
-    },
-    {
-      "title": "80%打工人悬了！Anthropic更新失业图表，机器人加持下仅五分之一幸免",
-      "summary": "Anthropic 今早发布最新报告，将机器人系统与大语言模型结合的影响纳入考量，更新了劳动力冲击图表。数据显示，在具身智能的加持下，全球高达 80%（除五分之一外）的就业岗位都将面临冲击，其中出租车司机以 2.2 的暴露度和 4.1 万就业人数首当其冲。业内人士指出，这种全面覆盖的劳动力替代预期，正是支撑 Anthropic 高达 2 万亿美元估值的核心逻辑。",
-      "reads": "3.5万",
-      "ago": "54 分钟前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 发布最新报告，首次将「机器人系统+大语言模型」的组合纳入劳动力影响评估，更新了此前的预测图表。",
-        "报告断言，在具身智能的冲击下，除了五分之一的幸存者，其余所有就业岗位都将面临不同程度的暴露和替代风险。",
-        "出租车司机成为受冲击最严重的职业，暴露度高达 2.2，涉及 4.1 万就业人数，Waymo 等自动驾驶系统被列为典型替代案例。",
-        "开发者指出，这种对全球劳动力市场的全面覆盖和替代潜力，是 Anthropic 估值飙升至 2 万亿美元的关键原因。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "@GranadoEspada7 他们预计某些行业会通过保护性立法来阻挠，而且在某些工作上人类会更倾向于选择人类。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 3.5万 · 模型与能力] 80%打工人悬了！Anthropic更新失业图表，机器人加持下仅五分之一幸免"
-    },
-    {
-      "title": "太疯狂了！英伟达GPU成最强理财产品，B200残值飙至158%，空头彻底绝望",
-      "summary": "英伟达 GPU 根本不是消耗品，而是地表最强理财产品！最新曝光的折旧分析显示，Nvidia GPU 的残值远超加速折旧曲线，其中 B200 残值高达 158%，H100 为 58%，A100 为 25%。随着 B200 租金飙至 5.69 美元/小时，算力资产不仅没贬值反而越来越值钱，直接粉碎了市场看跌者的悲观预期。",
-      "reads": "4.9万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "有记者发布 Nvidia GPU 折旧分析图表，直指这是「看跌者的噩梦」。",
-        "数据显示，英伟达 GPU 的残值远远超过了传统的加速折旧曲线。",
-        "最新 B200 的残值率高达惊人的 158%，实现逆势增值。",
-        "H100 GPU 残值仍有 58%，老将 A100 残值也保持在 25%。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "GPU 随着时间推移变得越来越值钱了。太疯狂了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 4.9万 · 资本与算力] 太疯狂了！英伟达GPU成最强理财产品，B200残值飙至158%，空头彻底绝望"
-    },
-    {
-      "title": "SaaS圈慌了！Grok等智能体开始全网退订，专治「忘了取消」",
-      "summary": "靠大家「忘了退订」躺赚的日子到头了。斯坦福研究显示，整个订阅经济中约有50%的收入来自用户遗忘取消，而现在Muse、Instinct和Grok Bot等AI智能体已经能自动遍历账户，精准找出并干掉这些隐性支出。这一趋势将直接打碎SaaS厂商依赖「惰性留存」的商业模型，订阅制经济或将迎来大洗牌。",
-      "reads": "4.1万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "业内开发者发出警告，AI智能体（Agent）的普及很可能会彻底打破现有的整个订阅经济模型。",
-        "斯坦福大学（Stanford）研究表明，高达约50%的订阅收入仅仅是因为用户「忘了取消」。",
-        "与人类的健忘不同，AI智能体永远不会遗忘，能够精准且无情地管理用户的各项订阅支出。",
-        "目前，Muse、Instinct和Grok Bot等智能体已经具备遍历用户账户、找出所有订阅项并自动执行取消的能力。"
-      ],
-      "quote": {
-        "who": "Ole Lehmann",
-        "role": "",
-        "said": "@Raress96_ 兄弟，我有太多银行账户/卡之类的了，有时候真的乱得要命 😂"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 4.1万 · 产品与生态] SaaS圈慌了！Grok等智能体开始全网退订，专治「忘了取消」"
-    },
-    {
-      "title": "价格脚踝斩！OpenAI突发Sol 6.1，只要Astra五分之一，自研芯片2027年上线",
-      "summary": "OpenAI在DevDay 2026上大招频出！全新性价比模型Sol 6.1突发上线，价格直接脚踝斩，仅为旗舰Astra的五分之一。Sam Altman更是重磅剧透，OpenAI定制芯片将于2027年上半年点亮，带来巨大推理优势。此外，高管口误意外曝光了新产品Dots，并确认ChatGPT Work的最终形态正在重构中。",
-      "reads": "12万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "**Sol 6.1突发上线**：主打极致性价比，价格仅为旗舰模型Astra的五分之一，并深度集成记忆功能。",
-        "**自研芯片时间表敲定**：Sam Altman透露，OpenAI定制芯片将于2027年上半年开始上线，将带来巨大的推理优势。",
-        "**高管口误泄露新机密**：CFO Sarah Friar在演讲中不小心将新产品Dots称为Muse，随后澄清Dots将利用记忆功能理解用户行为。",
-        "**算力焦虑依然存在**：Sarah Friar坦言，尽管早期投资避免了业务放缓，但OpenAI目前仍需要更多算力来支撑高速增长。"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": "Sam Altman 透露，OpenAI 的定制芯片将于 2027 年上半年开始上线，带来“巨大的推理优势” “为了建立更多的算力。OpenAI 有一件事没有得到太多关注，那就是我们的芯片项目，它将在上半年开始上线"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 12万 · 产品与生态] 价格脚踝斩！OpenAI突发Sol 6.1，只要Astra五分之一，自研芯片2027年上线"
-    },
-    {
-      "title": "史上最强 Astra 平替！GPT-6.1 Sol 突袭，花 Luna 的钱买旗舰体验",
-      "summary": "OpenAI 在 DevDay 发布的 GPT-6.1 Sol 让开发者圈子彻底沸腾了。这款新模型虽然在绝对智能上略逊于 Opus 5.5 和自家旗舰 GPT-6 Astra，但却做到了「Luna 的价格，Astra 级别的质量」，价格仅为旗舰的五分之一。这种极其罕见的顶级质量与亲民价格组合，被业内人士盛赞为 OpenAI 历史上最棒的发布之一。",
-      "reads": "3.3万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 在 DevDay 上正式推出全新性价比模型 GPT-6.1 Sol，引发开发者强烈正面反响。",
-        "有开发者体验后直言，这可能是 OpenAI 历史上「最棒的一次发布」，可能仅次于旗舰 GPT-6 Astra。",
-        "新模型最大的杀手锏是极其夸张的性价比：以 Luna 级别的低廉价格，提供了接近 Astra 级别的输出质量。",
-        "据测算，GPT-6.1 Sol 的使用成本仅为旗舰模型的五分之一，被视为对现有高端模型定价体系的有力挑战。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "仔细想想，我真的觉得 GPT-6.1 Sol 可能是 OpenAI 史上最棒的一次发布。 它给了我一种非常不寻常的感觉，我几乎从未在其他模型上体验过： Luna 的价格，Astra 级别的质量。 就是... 我真不知道他们到底对这玩意做了什么"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 3.3万 · 模型与能力] 史上最强 Astra 平替！GPT-6.1 Sol 突袭，花 Luna 的钱买旗舰体验"
-    },
-    {
-      "title": "OpenAI高管刚叫错名，Meta直接贴脸开大！Alexandr Wang高调官宣Muse",
-      "summary": "OpenAI高管前脚刚在直播里把自家新品Dots叫成「Muse」，Meta后脚就贴脸开大了。Alexandr Wang直接在X上晒出团队狂欢合照，高调宣布「欢迎来到Muse」。这款定位为AI资讯早报视频生成工具的新品，正借着这波乌龙事件疯狂收割开发者的注意力，Meta在多模态应用层的野心根本藏不住了。",
-      "reads": "1.5万",
-      "ago": "46 分钟前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Alexandr Wang 发布推文「欢迎来到 muse」，正式欢迎用户使用 Meta Muse。",
-        "推文配图展示了团队的狂欢场景：昏暗房间里一群人在电脑前热烈鼓掌欢呼，中间站着一个拿着信封的米色毛绒卡通吉祥物。",
-        "此次官宣时机极为巧妙，紧随 OpenAI CFO Sarah Friar 在直播中口误将自家新品 Dots 称为 Muse 的乌龙事件之后。",
-        "Alexandr Wang 此前就已发文调侃过 OpenAI 的口误，这次更是直接把竞品混淆的争议转化为自家产品的曝光度。"
-      ],
-      "quote": {
-        "who": "J A Z I I",
-        "role": "",
-        "said": "@alexandr_wang Muse 才是真正的 GOAT"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 1.5万 · 产品与生态] OpenAI高管刚叫错名，Meta直接贴脸开大！Alexandr Wang高调官宣Muse"
-    },
-    {
-      "title": "1秒掐麦掩盖翻车！OpenAI大会直播实时消音，网友甩出手机录屏铁证",
-      "summary": "OpenAI DevDay 2026 开发者大会现场演示大翻车，官方制作团队竟在直播中实时掐断了故障片段的音频。面对社区「无证据」的质疑，有参会者直接甩出手机原始录屏作为铁证，画面显示音频在失败瞬间被精准切断。目前官方回放仍处于消音状态，这波掩盖操作直接引爆了社区对 OpenAI 透明度的强烈质疑。",
-      "reads": "5.3万",
+      "title": "刚刚，苹果偷偷上线AI标签！安卓版音乐App大改，AI歌曲无处遁形",
+      "summary": "苹果动作频频！不仅 Apple Pay 历经 12 年终于在印度上线，安卓版 Apple Music 也迎来了 7.0.0 beta 1 重磅更新。新版不仅引入了全新的 Liquid Glass 设计元素，还悄悄上线了 AI 标签功能。以后只要曲目包含 AI 生成内容，就会被明确打上「Created with AI」的标记，连来源和具体特性都标得清清楚楚。",
+      "reads": "11万",
       "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI DevDay 2026 开发者大会现场演示出现严重翻车，引发社区关注。",
-        "爆料者指出，OpenAI 制作团队在官方直播中，实时将故障片段的音频静音。",
-        "面对社区关于「没有证据表明音频被剪」的质疑，爆料者直接公布了手机拍摄的现场原始录屏。",
-        "录屏铁证显示，在演示失败的瞬间，直播音频被精准掐断。"
+        "据后端数据爆料，Apple Pay 在历经 12 年后，终于正式在印度市场上线。",
+        "此次 Apple Pay 落地印度是与 Axis Bank 合作的结果，界面显示新增了印度（IN）地区并启用了「Tap to Prove」功能。",
+        "苹果发布了 Android 版 Apple Music 7.0.0 beta 1，对应用界面进行了重新设计。",
+        "新版 Apple Music 引入了全新的 Liquid Glass 设计元素，艺人页面和播放列表控制更加清爽。"
       ],
       "quote": {
-        "who": "NIK",
+        "who": "Aaron",
         "role": "",
-        "said": "@thomasjeans 好吧，那你两点都说错了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 5.3万 · 产品与生态] 1秒掐麦掩盖翻车！OpenAI大会直播实时消音，网友甩出手机录屏铁证"
-    },
-    {
-      "title": "上下文管理的苦涩教训！CLM让大模型原生编辑上下文，人类设计的SOTA被碾压",
-      "summary": "还在用死板的外部框架给大模型外挂记忆？研究人员最新提出的 Context Language Models（CLMs）框架，直接让大模型把上下文当成文件来原生编辑。实测表明，让模型在权重中自己学习管理策略，不仅长程记忆表现碾压人类设计的 SOTA 方法，整体 FLOP 效率也更高。这被业内视为上下文管理领域的又一次「苦涩教训」——放弃人工设计，把控制权还给模型才是正解。",
-      "reads": "3.5万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "研究人员提出全新 Context Language Models（CLMs）框架，打破当前大模型管理自身上下文的死板限制。",
-        "CLM 允许大语言模型直接编辑上下文，将其视为文件进行原生处理。",
-        "模型直接在权重中学习上下文管理策略，彻底摆脱对外部 harness（测试/管理框架）的依赖。",
-        "实验证明，该方法能实现更好的长程记忆和 FLOP 高效适配。"
-      ],
-      "quote": {
-        "who": "Nathan Lambert",
-        "role": "",
-        "said": "@maxencefrenette @TheZachMueller 它是独立的东西。我觉得 CLM 是个更聪明的改动，但也从 RLM 的成功里吸取了很多灵感"
+        "said": "Apple Music 7.0.0 测试版的另一个新功能：AI 标签 当曲目包含 AI 元素时，歌曲信息会增加一个部分。标题是“Created with AI”，副标题说明该信息来自艺术家、厂牌或发行商，每个元素都有类型、名称和描述。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 3.5万 · 模型与能力] 上下文管理的苦涩教训！CLM让大模型原生编辑上下文，人类设计的SOTA被碾压"
+      "line": "[榜第14位 · 11万 · 产品与生态] 刚刚，苹果偷偷上线AI标签！安卓版音乐App大改，AI歌曲无处遁形"
     },
     {
-      "title": "限时48小时！Claude Sonnet 5.5空降竞技场，Anthropic突袭发新",
-      "summary": "Anthropic又悄悄搞突袭了！太平洋时间9月30日早8点起，Claude Sonnet 5.5正式空降Arena竞技场，开启为期48小时的限时测试。作为Claude 5.5家族的第二款模型，这次上线的高性能版本（High）允许用户在直接模式下零距离体验。测试窗口仅开放到10月2日，想尝鲜的开发者得抓紧去摸底了。",
-      "reads": "3.3万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
+      "title": "谷歌杀回第一梯队！Gemini 4 Argon追平Astra，单任务1.99刀，幻觉几乎清零",
+      "summary": "谷歌DeepMind正式推出前沿模型Gemini 4 Argon，在AA智能指数上拿下53分，直接追平GPT-6 Astra和Fable 5.1。新模型主打高性价比，单任务成本仅1.99美元，比Astra的3.26美元便宜不少，同时Token效率比上代3.8 Flash提升13%。最让人惊喜的是，谷歌这次几乎消灭了幻觉问题，目前该模型仅支持High推理档位。",
+      "reads": "4.2万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "模型上新：Anthropic正式推出Claude Sonnet 5.5，标志着Claude 5.5家族迎来了第二款模型。",
-        "限时测试：新模型在Arena平台开启为期48小时的限时测试，时间为太平洋时间9月30日早8点至10月2日。",
-        "访问路径：用户需进入Arena的「Direct Mode」（直接模式），从下拉菜单中选择「claude-sonnet-5.5」即可开始对话。",
-        "版本细节：本次在竞技场提供测试的是Claude Sonnet 5.5的高性能版本（High）。"
+        "谷歌DeepMind推出Gemini 4 Argon，在AA智能指数得分53，追平GPT-6 Astra和Fable 5.1，领先GPT-6.1 Sol 1…",
+        "新模型性价比极高，单任务成本约1.99美元，远低于GPT-6 Astra的3.26美元、Opus 5.5的5.98美元和Fable 5.1的7.63美元。",
+        "Token效率显著提升，相比前代Gemini 3.8 Flash少用了13%的Token，改善了此前消耗过大的问题。",
+        "最大升级在于减少幻觉，相比3.8 Flash，谷歌几乎消灭了Gemini模型长期存在的幻觉弱点。"
       ],
       "quote": {
-        "who": "Arena.ai",
+        "who": "Haider.",
         "role": "",
-        "said": "现在就可以在 Arena 的 Direct Mode 中使用 Claude Sonnet 5.5："
+        "said": "@ZryMiller 因为这个"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 3.3万 · 产品与生态] 限时48小时！Claude Sonnet 5.5空降竞技场，Anthropic突袭发新"
+      "line": "[榜第15位 · 4.2万 · 模型与能力] 谷歌杀回第一梯队！Gemini 4 Argon追平Astra，单任务1.99刀，幻觉几乎清零"
     },
     {
-      "title": "惹众怒！OpenAI订阅额度直接腰斩，开发者怒斥48小时公关简直是灾难",
-      "summary": "OpenAI 过去 48 小时的对外沟通被开发者怒批为一场「灾难」。不仅订阅计划的额度突遭腰斩引发社区强烈不满，还出现了因疑似不存在的帖子而指控他人犯下严重过错的荒诞戏码。在算力短缺的背景下，官方强硬的资源收紧策略与糟糕的危机公关，正让开发者们的愤怒值达到顶点。",
-      "reads": "6.5万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
+      "title": "刚刚，Perplexity祭出RAG全局上下文版！存储降8倍碾压Voyage，盲测登顶",
+      "summary": "Perplexity 刚刚在 Hugging Face 上线了全新的 pplx-embed-v2-context-9b-preview 模型。它采用了一种全新的训练方法，在编码文档块时能直接看到整个文档的上下文，彻底告别了传统「黄金块」的限制。实测不仅在 ConTEB 和 TurboPuffer 私有盲测中创下 SOTA，还在块检索上击败了 voyage-context-4，且…",
+      "reads": "9.3万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "知名开发者发文怒斥，OpenAI 过去 48 小时的对外沟通简直是一场「灾难」。",
-        "官方将订阅计划的额度直接腰斩（halving），引发了社区的巨大争议和强烈不满。",
-        "除了额度削减，还出现了因一篇大概率不存在的帖子被指控犯下严重过错的荒诞事件。",
-        "有开发者在交流中提到，希望能重定向到正确的网站，而不是去「犯重罪」。"
+        "Perplexity 宣布推出 pplx-embed-v2-context-9b-preview，目前已在 Hugging Face 上线预览版。",
+        "模型采用全新训练方法，在编码文档的每个块时都能看到整个文档，解决了传统检索系统切块丢失上下文的痛点。",
+        "通过从查询感知的上下文压缩模型中提取相关性分数，克服了传统「黄金块」（gold-chunk）监督的限制。",
+        "在 ConTEB 基准测试中，该预览版在所有测试模型中拿下了最高的平均 nDCG@10 分数。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Perplexity",
         "role": "",
-        "said": "@avynsrc 不，订阅计划的削减简直是个灾难"
+        "said": "在 Hugging Face 上查看 pplx-embed-v2-context-9b-preview："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 6.5万 · 产品与生态] 惹众怒！OpenAI订阅额度直接腰斩，开发者怒斥48小时公关简直是灾难"
+      "line": "[榜第16位 · 9.3万 · 模型与能力] 刚刚，Perplexity祭出RAG全局上下文版！存储降8倍碾压Voyage，盲测登顶"
     }
   ],
   "board_count": 16,
