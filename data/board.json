@@ -3,65 +3,65 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-09-30 21:36:52 +0800",
-  "today": "09/30",
+  "fetched_at": "2026-10-01 03:10:01 +0800",
+  "today": "10/01",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "惹众怒！OpenAI研究员指控开发者「犯重罪」，网友：你家可是侵权金牌得主",
-      "summary": "OpenAI 刚发完个人助手 Dots，官方研究员 Tibo 就在 X 上怒喷用户重定向是「犯重罪」，直接把社区点燃了。结合此前 Pro 100 订阅计划突然砍半，多位 KOL 怒批 OpenAI 过去 48 小时的公关简直是场灾难。更有网友无情嘲讽：OpenAI 自己就是「重罪基准测试」的金牌得主，现在居然跑来指控别人，甚至有人直接喊话奥特曼「快来管管你的人」。",
-      "reads": "59万",
-      "ago": "32 分钟前",
+      "title": "两周内上新！OpenAI全网征集Dots新功能，独立版呼声最高",
+      "summary": "DevDay 刚结束，OpenAI 就开始在线听劝了。官方研究员公开征集未来两周内大家希望在 Dots 和 Space 上看到的新功能，试图缓解社区对新产品线权限混乱的吐槽。目前呼声最高的是尽快将 Dots 下放至 Plus 套餐，以及推出独立版应用。",
+      "reads": "8.6万",
+      "ago": "27 分钟前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 官方研究员 Tibo 在 X 上公开回复用户，指责其重定向网站的行为是「犯重罪」（committing a felony）。",
-        "这一极端措辞迅速引爆社区，多位 KOL 怒批 OpenAI 过去 48 小时的对外沟通「简直是场灾难」。",
-        "社区的愤怒不仅针对此次指控，还叠加了此前 OpenAI 将 Pro 100 订阅计划突然砍半引发的强烈不满。",
-        "有网友无情嘲讽，OpenAI 自己明明是「重罪基准测试」（Felony Bench）的金牌得主，现在却来指控别人。"
+        "OpenAI 研究员公开在 X 上发帖，征集用户对 Dots 和 Space 产品的改进建议。",
+        "官方明确给出了「未来两周」的时间窗口，暗示近期将有密集的功能上线与优化。",
+        "此次互动发生在 DevDay 发布 Dots 助手之后，旨在收集开发者关于权限混乱及产品线重叠的反馈。",
+        "有用户强烈建议，尽快将 Dots 功能下放至现有的 Plus 订阅套餐中。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "tae kim",
         "role": "",
-        "said": "@avynsrc 不，订阅计划的削减简直是个灾难"
+        "said": "@AndrewMayne @thsottiaux 是的，独立版会很棒。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 59万 · 产品与生态] 惹众怒！OpenAI研究员指控开发者「犯重罪」，网友：你家可是侵权金牌得主"
+      "line": "[榜第1位 · 8.6万 · 产品与生态] 两周内上新！OpenAI全网征集Dots新功能，独立版呼声最高"
     },
     {
-      "title": "突发！OpenAI极速版抛弃Cerebras，全靠英伟达GB300硬撑GPT-6.1 Sol",
-      "summary": "OpenAI最新的GPT-6.1 Sol Ultrafast模式底牌曝光！知名机构爆料称，该模式并未如预期运行在Cerebras硬件上，而是靠英伟达GPU（疑似Blackwell级GB300）以极小的Batch Size硬拉。目前实测速度仅为300 Token/s，远低于此前承诺的Cerebras版本750 Token/s，暗示Cerebras在大规模部署上可能仍未准备就绪。",
-      "reads": "58万",
-      "ago": "46 分钟前",
+      "title": "刚刚，GPT-6.1极速版被曝换芯！英伟达硬扛300 tok/s，Cerebras悬了",
+      "summary": "OpenAI 最新上线的 GPT-6.1 Sol Ultrafast 模式被曝并未运行在合作伙伴 Cerebras 的芯片上，而是靠英伟达 GPU（疑似 GB300）以极低 batch size 硬扛出了约 300 tokens/sec 的极速。此前双方曾专门针对超低延迟推理达成合作，且上一代模型在 Cerebras 上打出过约 750 tok/s 的高光，如今承诺的 Cere…",
+      "reads": "62万",
+      "ago": "5 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "知名机构爆料，OpenAI最新的GPT-6.1 Sol Ultrafast模式并未运行在Cerebras芯片上。",
-        "该极速模式实际上是跑在英伟达GPU上，业内推测很可能是Blackwell架构的GB300级硬件。",
-        "为了实现超低延迟，OpenAI在英伟达GPU上采用了极小的Batch Size（批处理大小）来提供服务。",
-        "目前Ultrafast模式的实测速度约为300 Token/s，远未达到此前宣传的Cerebras版本750 Token/s的潜力。"
+        "据 SemiAnalysis 爆料，OpenAI 最新的 GPT-6.1 Sol Ultrafast 模式并未运行在 Cerebras 芯片上。",
+        "该极速模式实际上是跑在 NVIDIA GPU 上，通过极低的 batch size 实现了约 300 tokens/sec 的推理速度。",
+        "业内猜测，OpenAI 此次使用的很可能是英伟达 Blackwell 架构的 GB300 级别硬件。",
+        "这一发现引发圈内哗然，因为 OpenAI 此前专门为了超低延迟推理与 Cerebras 达成了合作预期。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "SuSu_酥酥",
         "role": "",
-        "said": "OpenAI 宣布 Ultrafast 每秒最高可达 300 个 Token。据 SemiAnalysis 称，它运行在 NVIDIA GPU 上。考虑到他们专门为了超低延迟推理与 Cerebras 达成了合作，这就特别有意思了。 据 SemiAnalysis 称，OpenAI 正在使用"
+        "said": "🤨怪不得速度这么快！OpenAI最新GPT-6.1 Sol Ultrafast并没有跑在Cerebras上，而是用NVIDIA GPU、低batch size硬扛极速。 随后NVIDIA AI官方只回了一个 👀 这个表情比任何新闻稿都狠。 上一代GPT-5.6 Sol Ultrafast，Cerebras打出过约750 tok/s的高光。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 58万 · 资本与算力] 突发！OpenAI极速版抛弃Cerebras，全靠英伟达GB300硬撑GPT-6.1 Sol"
+      "line": "[榜第2位 · 62万 · 资本与算力] 刚刚，GPT-6.1极速版被曝换芯！英伟达硬扛300 tok/s，Cerebras悬了"
     },
     {
       "title": "夺笋！马斯克嘲讽达美航空没网：给AI做沙盒测试的最佳地点",
       "summary": "马斯克又在 X 上整活了！他发帖调侃称，给 AI 做沙盒测试最好的办法就是把它扔到达美航空的航班上，因为那里绝对连不上网。这波「夺笋」发言的背后，是达美航空此前拒绝了马斯克的 StarLink 高速机上 WiFi，转而选择了亚马逊的 Leo 卫星网络。尴尬的是，亚马逊的服务预计要到 2028 年才能正式可用，这意味着乘客还要在长达 10 小时的航班上忍受好几年的「断网」折磨。",
-      "reads": "449万",
-      "ago": "9 小时前",
+      "reads": "495万",
+      "ago": "14 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -80,332 +80,332 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 449万 · 产品与生态] 夺笋！马斯克嘲讽达美航空没网：给AI做沙盒测试的最佳地点"
+      "line": "[榜第3位 · 495万 · 产品与生态] 夺笋！马斯克嘲讽达美航空没网：给AI做沙盒测试的最佳地点"
     },
     {
-      "title": "觉都不睡了！OpenAI狂发11项大更新，GPT-6.1 Sol与极速版Astra空降",
-      "summary": "OpenAI 在 DevDay 2026 上扔出了一枚重磅炸弹，一口气发布了 11 项全新产品与功能更新。不仅推出了全新的 GPT-6.1 Sol 和极速版 GPT-6 Astra Ultrafast 两款大模型，还上线了 Pro 500 订阅计划。此外，Dots、ChatGPT Space 等生产力工具全面铺开，现在甚至能在 Slack 和 Microsoft Teams 里…",
-      "reads": "14万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
+      "title": "连蛋白质都能打水印了！生物版SynthID登Nature，Hassabis开源防线",
+      "summary": "AI 时代的生物安全防线又厚了一层。Google DeepMind 团队成功合成了兼具功能与水印的 AI 设计蛋白质，这项把 SynthID 引入生物学的突破性成果今日正式登上「Nature」。为了应对潜在的生物安全风险，CEO Demis Hassabis 宣布全面开源 SynthID Bio 工具，让全球研究者都能给「生命基石」打上可追溯的烙印。",
+      "reads": "4.5万",
+      "ago": "59 分钟前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "模型矩阵再升级：正式推出 GPT-6.1 Sol 与 GPT-6 Astra Ultrafast 两款全新模型。",
-        "生产力工具全家桶：全新上线 Dots、ChatGPT Space 以及 Pages 功能。",
-        "办公生态深度打通：支持在 Slack 和 Microsoft Teams 中通过 @ChatGPT 直接调用模型能力。",
-        "团队协作大强化：推出 Teams 及团队自动化功能，并上线 Meetings 插件（测试版）与可共享的个人资料。"
+        "Google DeepMind 团队成功合成兼具功能与水印的 AI 设计蛋白质，突破了生成生物学边界。",
+        "该突破性成果今日正式发表于顶级学术期刊「Nature」。",
+        "这是科学界首次实现对「生命基石」（蛋白质）的概念验证水印处理。",
+        "DeepMind 宣布全面开源 SynthID Bio 工具，供全球研究社区在此基础上继续开发。"
       ],
       "quote": {
-        "who": "J A Z I I",
+        "who": "Demis Hassabis",
         "role": "",
-        "said": "@reach_vb 我很享受 6.1 sol 太神了"
+        "said": "生物安全是 AI 时代最紧迫的挑战之一。将 SynthID 引入生物学，为 AI 生成的蛋白质加水印是关键一步——我们正在开源 SynthID Bio 工具，以便研究社区能在此基础上继续开发。今天发表在 @Nature 上，"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 14万 · 产品与生态] 觉都不睡了！OpenAI狂发11项大更新，GPT-6.1 Sol与极速版Astra空降"
+      "line": "[榜第4位 · 4.5万 · 政策与安全] 连蛋白质都能打水印了！生物版SynthID登Nature，Hassabis开源防线"
     },
     {
-      "title": "终于！ChatGPT版GitHub主页上线，连绿格子都有，全员免费开放",
-      "summary": "OpenAI在DevDay 2026上正式推出了ChatGPT可分享个人主页功能，堪称「ChatGPT版GitHub主页」。现在，所有Free、Go和Plus用户都能把自己的Sites和插件集中展示，甚至还有类似GitHub的「绿格子」活动热力图。这不仅打破了Pro用户的专属壁垒，还让AI技能的分享与复用变得前所未有地简单。不过也有人吐槽，这波操作又被Perplexity抢先了…",
-      "reads": "6.7万",
-      "ago": "24 分钟前",
+      "title": "Gems成历史！谷歌Gemini全球上线Skills，支持主动触发与多技能叠加",
+      "summary": "谷歌 Gemini 今天迎来重大更新，全新功能 Skills 正式在全球上线！它不仅能帮你把常用的提示词存成快捷方式，还支持主动触发和多技能叠加。官方宣布，Skills 将全面取代现有的 Gems，个人用户从 11 月起自动迁移，企业客户则在 2027 年 3 月完成替换。",
+      "reads": "7.3万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI在DevDay 2026期间正式推出ChatGPT可分享个人主页（Shareable Profiles）功能。",
-        "新功能允许用户将自己构建的Sites和插件集中展示，方便他人发现并一键复用。",
-        "个人主页界面包含类似GitHub的活动热力图，以及Slack等插件和Osmos等作品展示区。",
-        "团队成员之间分享的技能将安全保留在专属工作区内，兼顾公开展示与内部协作。"
+        "谷歌正式宣布 Gemini 全新功能 Skills 今日在全球范围内上线，目前已面向个人用户开放。",
+        "Skills 相当于特定任务的指令集快捷方式，可帮助用户跳过重复的提示词输入，直接获取结果。",
+        "具备主动性：Gemini 能根据聊天内容自动构建自定义 Skills，并在提示词匹配时自动触发。",
+        "支持可叠加性（stackable）：用户可以同时叠加多个 Skills 来处理复杂任务，例如结合个人写作风格。"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "Google Gemini",
         "role": "",
-        "said": "ChatGPT 个人主页现在新增了 Top Plugins 和 Showcase with Sites 版块。用户可以配置要展示的网站列表，并将其公开。 终于给非 Pro 用户来了点东西 👀 有趣的是，Perplexity 在这方面又一次领先了 -"
+        "said": "Skills 也是主动且可叠加的。 Gemini 可以帮你从聊天中构建自定义 skills，如果你的提示词与之匹配，它会自动使用已保存的 skill。对于更大的任务，你可以同时叠加多个 skills，比如结合你个人的写作风格"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 6.7万 · 产品与生态] 终于！ChatGPT版GitHub主页上线，连绿格子都有，全员免费开放"
+      "line": "[榜第5位 · 7.3万 · 产品与生态] Gems成历史！谷歌Gemini全球上线Skills，支持主动触发与多技能叠加"
     },
     {
-      "title": "抓包实录！OpenAI发布会Demo翻车，官方急掐音频，现场录屏流出实锤",
-      "summary": "OpenAI DevDay 2026 现场演示翻车，官方直播竟在失败瞬间掐断音频掩饰！有现场观众放出手机原始录屏实锤，直接打脸官方。与此同时，高盛预计 2026 年全球 AI 投资将达 1.019 万亿美元，巨大的资本缺口正引发华尔街对流动性和资产重估的担忧。",
-      "reads": "4.0万",
+      "title": "糟糕，OpenAI大砍额度！GPT-6.1 Sol实测出炉，大V直言转投Opus",
+      "summary": "GPT-6.1 Sol 上线后，实测口碑出炉：虽然速度稍慢，但效率极高。然而 OpenAI 近期悄悄大砍订阅使用额度，直接引发了核心用户的不满。有大V担忧，缩水后的配额根本无法支撑未来延期发布的 GPT-6.1 Astra 等前沿模型，并直言自己目前已经更倾向于使用 Anthropic 的 Opus 了。",
+      "reads": "5.3万",
       "ago": "1 小时前",
-      "category": "资本与算力",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "有网友爆料，OpenAI DevDay 2026 演讲现场的 Demo 演示出现翻车，而官方直播在失败瞬间直接掐断了音频。",
-        "针对「没有证据表明音频被剪」的质疑，爆料者直接放出了手机录制的现场大屏原始视频作为实锤。",
-        "视频显示，演讲者在说出「This is a live demo, and it looks...」后演示失败，音频随即被精准切断。",
-        "另一方面，高盛预计 2026 年全球 AI 投资将高达 1.019 万亿美元，比云厂商公开数据高出约 2000 亿美元。"
+        "KOL 实测反馈出炉：认为 GPT-6.1 Sol 是一个优秀且高效的模型，尽管速度上稍微有些慢。",
+        "OpenAI 近期收紧了订阅计划，大幅削减了用户的使用额度（usage limits），引发社区不满。",
+        "针对额度缩水，大V直言「这可是件非常糟糕的事」，认为高效的模型也难以弥补配额减少带来的体验下降。",
+        "用户对未来的前沿模型消耗表示担忧，特别是目前已经延期发布的旗舰模型 GPT-6.1 Astra。"
       ],
       "quote": {
-        "who": "NIK",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "@512x512 @Suhail 这个观点的信息量太低了"
+        "said": "@elshayib_ 这可是件非常糟糕的事。。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 4.0万 · 资本与算力] 抓包实录！OpenAI发布会Demo翻车，官方急掐音频，现场录屏流出实锤"
+      "line": "[榜第6位 · 5.3万 · 产品与生态] 糟糕，OpenAI大砍额度！GPT-6.1 Sol实测出炉，大V直言转投Opus"
     },
     {
-      "title": "刚刚，OpenAI第二套模型Guardian曝光！专盯主Agent，电脑操控提速10倍",
-      "summary": "OpenAI DevDay 期间猛料不断！Tibo 首次曝光内部第二套模型 Guardian，专门作为「监工」盯着主 Agent，配合 Astra 优化，让 Computer Use 一年提速 10 倍。同时，OpenAI Dots 正式向 100 美元 Pro 用户开放；Sam Altman 也在 Bloomberg 放话开启 GPT 价格战，直言 Luna 降价 80% 后…",
-      "reads": "9.0万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
+      "title": "80%打工人悬了！Anthropic更新失业图表，机器人加持下仅五分之一幸免",
+      "summary": "Anthropic 今早发布最新报告，将机器人系统与大语言模型结合的影响纳入考量，更新了劳动力冲击图表。数据显示，在具身智能的加持下，全球高达 80%（除五分之一外）的就业岗位都将面临冲击，其中出租车司机以 2.2 的暴露度和 4.1 万就业人数首当其冲。业内人士指出，这种全面覆盖的劳动力替代预期，正是支撑 Anthropic 高达 2 万亿美元估值的核心逻辑。",
+      "reads": "3.5万",
+      "ago": "54 分钟前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Tibo 在 DevDay 首次曝光 OpenAI 内部第二套模型 Guardian，其作为独立 Agent 专门监控主 Agent 的操作安全。",
-        "Computer Use 一年内提速 10 倍，核心在于优化 harness 与模型对「下一步动作」的思考预算，而非单纯提升吐字速度。",
-        "现役旗舰 Astra 被用于大规模优化并行处理、砍卡顿，并大幅压缩模型决策延迟。",
-        "OpenAI Dots 正式向 100 美元 Pro 用户开放，实测能无缝衔接旧 ChatGPT 上下文，执行每日两次的复杂库存监控任务。"
+        "Anthropic 发布最新报告，首次将「机器人系统+大语言模型」的组合纳入劳动力影响评估，更新了此前的预测图表。",
+        "报告断言，在具身智能的冲击下，除了五分之一的幸存者，其余所有就业岗位都将面临不同程度的暴露和替代风险。",
+        "出租车司机成为受冲击最严重的职业，暴露度高达 2.2，涉及 4.1 万就业人数，Waymo 等自动驾驶系统被列为典型替代案例。",
+        "开发者指出，这种对全球劳动力市场的全面覆盖和替代潜力，是 Anthropic 估值飙升至 2 万亿美元的关键原因。"
       ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "Sam Altman刚在Bloomberg放话：将开启GPT模型价格战！ “我们会把智能越做越强，同时把价格打得越来越低。” 他的底层逻辑只有一句话：AI越强，用的人越多，大家愿意花的钱也越多。 所以OpenAI现在就一件事：永远站在性价比曲线最前面。 7月Luna已经砍了80%，用量暴涨14倍，收入还涨了。"
+        "said": "@GranadoEspada7 他们预计某些行业会通过保护性立法来阻挠，而且在某些工作上人类会更倾向于选择人类。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 9.0万 · 产品与生态] 刚刚，OpenAI第二套模型Guardian曝光！专盯主Agent，电脑操控提速10倍"
+      "line": "[榜第7位 · 3.5万 · 模型与能力] 80%打工人悬了！Anthropic更新失业图表，机器人加持下仅五分之一幸免"
     },
     {
-      "title": "等了个寂寞！OpenAI首款硬件DevDay全程隐身，Meta反成先行者",
-      "summary": "刚刚结束的DevDay上，OpenAI对与传奇设计师Jony Ive合作的硬件产品只字未提，让不少满怀期待的开发者等了个寂寞。据多方消息，这款备受瞩目的AI硬件预计将在2027年发布。面对OpenAI在硬件上的「隐身」，有开发者直言，Meta现在反而成了AI硬件赛道的先行者。",
-      "reads": "2.7万",
-      "ago": "54 分钟前",
-      "category": "产品与生态",
+      "title": "太疯狂了！英伟达GPU成最强理财产品，B200残值飙至158%，空头彻底绝望",
+      "summary": "英伟达 GPU 根本不是消耗品，而是地表最强理财产品！最新曝光的折旧分析显示，Nvidia GPU 的残值远超加速折旧曲线，其中 B200 残值高达 158%，H100 为 58%，A100 为 25%。随着 B200 租金飙至 5.69 美元/小时，算力资产不仅没贬值反而越来越值钱，直接粉碎了市场看跌者的悲观预期。",
+      "reads": "4.9万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "OpenAI在DevDay上未展示任何硬件产品信息，引发开发者社区困惑。",
-        "该硬件由OpenAI与传奇设计师Jony Ive联手打造，备受业界瞩目。",
-        "据多方消息透露，这款AI硬件的预计发布时间定在2027年。",
-        "KOL认为DevDay本应是展示该硬件的绝佳时机，对零曝光感到惊讶。"
+        "有记者发布 Nvidia GPU 折旧分析图表，直指这是「看跌者的噩梦」。",
+        "数据显示，英伟达 GPU 的残值远远超过了传统的加速折旧曲线。",
+        "最新 B200 的残值率高达惊人的 158%，实现逆势增值。",
+        "H100 GPU 残值仍有 58%，老将 A100 残值也保持在 25%。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "tae kim",
         "role": "",
-        "said": "@TheRealAdamG 谢谢分享视频。但老实说，这反而印证了我的观点。我很惊讶 DevDay 居然没有用来展示任何关于 OpenAI 硬件的东西，特别是如果它打算在 2027 年发布的话。无论如何，我保持乐观并充满期待 :)"
+        "said": "GPU 随着时间推移变得越来越值钱了。太疯狂了。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 2.7万 · 产品与生态] 等了个寂寞！OpenAI首款硬件DevDay全程隐身，Meta反成先行者"
+      "line": "[榜第8位 · 4.9万 · 资本与算力] 太疯狂了！英伟达GPU成最强理财产品，B200残值飙至158%，空头彻底绝望"
     },
     {
-      "title": "杀手锏来了！OpenAI版Claw空降DevDay，打包进Pro 100套餐",
-      "summary": "OpenAI在DevDay上正式祭出大招，推出全天候个人助手Dots，并直接打包进了Pro 100套餐中。Sam Altman将其定义为AI的全新用法，而知名KOL Ethan Mollick体验后直言，这款对标Meta Muse的「Clawlike」产品极具实用性，未来还能在Slack里直接委派工作。凭借OpenAI强大的底层模型优势，开发者社区普遍看好Dots能在这条赛道上…",
-      "reads": "3.1万",
+      "title": "SaaS圈慌了！Grok等智能体开始全网退订，专治「忘了取消」",
+      "summary": "靠大家「忘了退订」躺赚的日子到头了。斯坦福研究显示，整个订阅经济中约有50%的收入来自用户遗忘取消，而现在Muse、Instinct和Grok Bot等AI智能体已经能自动遍历账户，精准找出并干掉这些隐性支出。这一趋势将直接打碎SaaS厂商依赖「惰性留存」的商业模型，订阅制经济或将迎来大洗牌。",
+      "reads": "4.1万",
       "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI在DevDay正式发布个人助手Dots，Sam Altman称其为全天候工作的AI新用法。",
-        "商业化落地明确，Dots已确认包含在Pro 100套餐中，直接面向高频用户。",
-        "知名KOL Ethan Mollick在发布前进行了短暂测试，认为其表现良好且极具实用性。",
-        "Dots被归类为快速扩张的「Clawlike」产品，与Meta Muse和Grok Bot同属一个赛道。"
+        "业内开发者发出警告，AI智能体（Agent）的普及很可能会彻底打破现有的整个订阅经济模型。",
+        "斯坦福大学（Stanford）研究表明，高达约50%的订阅收入仅仅是因为用户「忘了取消」。",
+        "与人类的健忘不同，AI智能体永远不会遗忘，能够精准且无情地管理用户的各项订阅支出。",
+        "目前，Muse、Instinct和Grok Bot等智能体已经具备遍历用户账户、找出所有订阅项并自动执行取消的能力。"
       ],
       "quote": {
-        "who": "Alex Prompter",
+        "who": "Ole Lehmann",
         "role": "",
-        "said": "@mardehaym 团队干得漂亮"
+        "said": "@Raress96_ 兄弟，我有太多银行账户/卡之类的了，有时候真的乱得要命 😂"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 3.1万 · 产品与生态] 杀手锏来了！OpenAI版Claw空降DevDay，打包进Pro 100套餐"
+      "line": "[榜第9位 · 4.1万 · 产品与生态] SaaS圈慌了！Grok等智能体开始全网退订，专治「忘了取消」"
     },
     {
-      "title": "太狠了！GPT-6.1 Sol空降，便宜33%比肩旗舰，Sonnet 5.5被打爆",
-      "summary": "OpenAI 在 DevDay 上正式放出了主打极致性价比的 GPT-6.1 Sol。新模型不仅在智力指数上和旗舰 GPT-6 Astra 并驾齐驱，价格更是低到离谱：Max 推理模式下每任务成本仅 0.72 美元。相比之下，Anthropic 的 Sonnet 5.5 显得像个「灾难」——不仅比 6.1 Sol 贵了 33%，输出 Token 消耗量还翻了一倍，这波开发者可谓…",
-      "reads": "8.5万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
+      "title": "价格脚踝斩！OpenAI突发Sol 6.1，只要Astra五分之一，自研芯片2027年上线",
+      "summary": "OpenAI在DevDay 2026上大招频出！全新性价比模型Sol 6.1突发上线，价格直接脚踝斩，仅为旗舰Astra的五分之一。Sam Altman更是重磅剧透，OpenAI定制芯片将于2027年上半年点亮，带来巨大推理优势。此外，高管口误意外曝光了新产品Dots，并确认ChatGPT Work的最终形态正在重构中。",
+      "reads": "12万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 在 DevDay 正式发布 GPT-6.1 Sol，主打极致性价比，性能显著超越前代 GPT-6 Sol。",
-        "在 Artificial Analysis Intelligence Index 测试中，GPT-6.1 Sol 得分与旗舰 GPT-6 Astra 及 A…",
-        "价格优势明显：GPT-6.1 Sol Max 模式每任务成本仅 0.72 美元，比 Sonnet 5.5 High 模式（1.08 美元）便宜 33%。",
-        "Token 消耗大幅降低：在 Medium 档位下，GPT-6.1 Sol 消耗 8k Token 获得 48 分，而 Sonnet 5.5 消耗 19k…"
+        "**Sol 6.1突发上线**：主打极致性价比，价格仅为旗舰模型Astra的五分之一，并深度集成记忆功能。",
+        "**自研芯片时间表敲定**：Sam Altman透露，OpenAI定制芯片将于2027年上半年开始上线，将带来巨大的推理优势。",
+        "**高管口误泄露新机密**：CFO Sarah Friar在演讲中不小心将新产品Dots称为Muse，随后澄清Dots将利用记忆功能理解用户行为。",
+        "**算力焦虑依然存在**：Sarah Friar坦言，尽管早期投资避免了业务放缓，但OpenAI目前仍需要更多算力来支撑高速增长。"
       ],
       "quote": {
-        "who": "Alex Prompter",
+        "who": "Fireside Alpha",
         "role": "",
-        "said": "@haider1 我说了这话还被人喷了。 Sonnet 并不是一个多好的模型。"
+        "said": "Sam Altman 透露，OpenAI 的定制芯片将于 2027 年上半年开始上线，带来“巨大的推理优势” “为了建立更多的算力。OpenAI 有一件事没有得到太多关注，那就是我们的芯片项目，它将在上半年开始上线"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 8.5万 · 模型与能力] 太狠了！GPT-6.1 Sol空降，便宜33%比肩旗舰，Sonnet 5.5被打爆"
+      "line": "[榜第10位 · 12万 · 产品与生态] 价格脚踝斩！OpenAI突发Sol 6.1，只要Astra五分之一，自研芯片2027年上线"
     },
     {
-      "title": "苹果打工人悬了！新CEO上任先拿硬件部门开刀，6名总监卷铺盖走人",
-      "summary": "苹果新任 CEO John Ternus 刚上任就烧起了三把火，正着手对公司进行大刀阔斧的改革。为了让公司运转更快、更精简，苹果刚刚在硬件部门裁掉了大量项目经理和 6 名总监，未来几个月预计还有更多裁员。虽然此前取消了裁撤 5000 名 AppleCare 员工的计划，但现在产品开发组正面临巨大压力，被要求在更短时间内交付更多新品。",
-      "reads": "240万",
-      "ago": "22 小时前",
-      "category": "组织与人事",
+      "title": "史上最强 Astra 平替！GPT-6.1 Sol 突袭，花 Luna 的钱买旗舰体验",
+      "summary": "OpenAI 在 DevDay 发布的 GPT-6.1 Sol 让开发者圈子彻底沸腾了。这款新模型虽然在绝对智能上略逊于 Opus 5.5 和自家旗舰 GPT-6 Astra，但却做到了「Luna 的价格，Astra 级别的质量」，价格仅为旗舰的五分之一。这种极其罕见的顶级质量与亲民价格组合，被业内人士盛赞为 OpenAI 历史上最棒的发布之一。",
+      "reads": "3.3万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "苹果新任 CEO John Ternus 正推动公司全面改革，目标是让公司运转更快、更精简。",
-        "改革核心措施包括减少管理层级，硬件部门刚刚裁掉了大量 EPM（项目经理）及 6 名总监。",
-        "内部员工预计，未来几个月苹果还将进行更多小规模裁员。",
-        "苹果最近几个月曾计划大规模裁员约 5000 名 AppleCare 员工，但最终取消了该计划。"
+        "OpenAI 在 DevDay 上正式推出全新性价比模型 GPT-6.1 Sol，引发开发者强烈正面反响。",
+        "有开发者体验后直言，这可能是 OpenAI 历史上「最棒的一次发布」，可能仅次于旗舰 GPT-6 Astra。",
+        "新模型最大的杀手锏是极其夸张的性价比：以 Luna 级别的低廉价格，提供了接近 Astra 级别的输出质量。",
+        "据测算，GPT-6.1 Sol 的使用成本仅为旗舰模型的五分之一，被视为对现有高端模型定价体系的有力挑战。"
       ],
       "quote": {
-        "who": "Mark Gurman",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "“现在一切都比以前更需要亲力亲为了，”一位知情人士说。“现在非常忙碌。”该人士和其他人表示，产品开发组的经理们正被施压，要求在更短的时间内更频繁地交付更多产品。"
+        "said": "仔细想想，我真的觉得 GPT-6.1 Sol 可能是 OpenAI 史上最棒的一次发布。 它给了我一种非常不寻常的感觉，我几乎从未在其他模型上体验过： Luna 的价格，Astra 级别的质量。 就是... 我真不知道他们到底对这玩意做了什么"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 240万 · 组织与人事] 苹果打工人悬了！新CEO上任先拿硬件部门开刀，6名总监卷铺盖走人"
+      "line": "[榜第11位 · 3.3万 · 模型与能力] 史上最强 Astra 平替！GPT-6.1 Sol 突袭，花 Luna 的钱买旗舰体验"
     },
     {
-      "title": "OpenAI全天候Agent杀到！Dots开启24小时打工模式，却被抓包忘买域名",
-      "summary": "OpenAI 在 DevDay 前夕正式发布全天候个人助手 Dots！这款 24/7 永远在线的 Agent 已直接包含在 Pro 计划中。CEO 奥特曼亲自发文，称其将帮用户夺回时间和注意力。虽然现场演示曾遭遇翻车，甚至被网友抓包忘了买域名，但这标志着 OpenAI 正式从对话式 AI 迈向持续运行型智能体时代。",
-      "reads": "138万",
-      "ago": "19 小时前",
+      "title": "OpenAI高管刚叫错名，Meta直接贴脸开大！Alexandr Wang高调官宣Muse",
+      "summary": "OpenAI高管前脚刚在直播里把自家新品Dots叫成「Muse」，Meta后脚就贴脸开大了。Alexandr Wang直接在X上晒出团队狂欢合照，高调宣布「欢迎来到Muse」。这款定位为AI资讯早报视频生成工具的新品，正借着这波乌龙事件疯狂收割开发者的注意力，Meta在多模态应用层的野心根本藏不住了。",
+      "reads": "1.5万",
+      "ago": "46 分钟前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 在 DevDay 前夕正式发布全天候个人助手 Dots，该功能已直接包含在 Pro 计划中。",
-        "CEO 奥特曼发推宣布，Dots 将 24/7 为用户工作，帮助夺回时间和注意力投入更高层次工作。",
-        "此次发布证实了社区中关于 OpenAI 将推出「永远在线 AI 智能体」的传言。",
-        "尽管现场演示曾遭遇翻车尴尬，官方依然按原定节奏推出了 Dots 的核心功能。"
+        "Alexandr Wang 发布推文「欢迎来到 muse」，正式欢迎用户使用 Meta Muse。",
+        "推文配图展示了团队的狂欢场景：昏暗房间里一群人在电脑前热烈鼓掌欢呼，中间站着一个拿着信封的米色毛绒卡通吉祥物。",
+        "此次官宣时机极为巧妙，紧随 OpenAI CFO Sarah Friar 在直播中口误将自家新品 Dots 称为 Muse 的乌龙事件之后。",
+        "Alexandr Wang 此前就已发文调侃过 OpenAI 的口误，这次更是直接把竞品混淆的争议转化为自家产品的曝光度。"
       ],
       "quote": {
-        "who": "sui",
+        "who": "J A Z I I",
         "role": "",
-        "said": "@sama 你们忘了买 哈哈哈"
+        "said": "@alexandr_wang Muse 才是真正的 GOAT"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 138万 · 产品与生态] OpenAI全天候Agent杀到！Dots开启24小时打工模式，却被抓包忘买域名"
+      "line": "[榜第12位 · 1.5万 · 产品与生态] OpenAI高管刚叫错名，Meta直接贴脸开大！Alexandr Wang高调官宣Muse"
     },
     {
-      "title": "嫌慢就加钱！OpenAI推出500刀终极套餐，8倍速狂飙每秒300词",
-      "summary": "OpenAI今天正式把算力分级玩出了新花样，只要加钱就能享受「飞一般」的体验。全新推出的Ultrafast速度层让Codex直接提速8倍达到每秒300词，API端也有6倍提升，目前已支持GPT-6 Astra。为了匹配这波提速，官方不仅重开了200美元的Pro订阅，还祭出了高达500美元的Pro 500套餐，直接给到Plus用户25倍的额度。此外，拥有接近旗舰实力的GPT-6.…",
-      "reads": "93万",
-      "ago": "19 小时前",
+      "title": "1秒掐麦掩盖翻车！OpenAI大会直播实时消音，网友甩出手机录屏铁证",
+      "summary": "OpenAI DevDay 2026 开发者大会现场演示大翻车，官方制作团队竟在直播中实时掐断了故障片段的音频。面对社区「无证据」的质疑，有参会者直接甩出手机原始录屏作为铁证，画面显示音频在失败瞬间被精准切断。目前官方回放仍处于消音状态，这波掩盖操作直接引爆了社区对 OpenAI 透明度的强烈质疑。",
+      "reads": "5.3万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Ultrafast速度层今日上线，在Codex中实现最高8倍提速，达到每秒300个Token。",
-        "API端的Token生成速度同样获得大幅提升，最高可达标准模式的6倍。",
-        "目前Ultrafast已在Codex、ChatGPT Work和API中开放，首批支持现役旗舰模型GPT-6 Astra。",
-        "OpenAI同步推出每月500美元的Pro 500全新套餐，提供高达Plus版本25倍的使用额度，并包含Ultrafast访问权限。"
+        "OpenAI DevDay 2026 开发者大会现场演示出现严重翻车，引发社区关注。",
+        "爆料者指出，OpenAI 制作团队在官方直播中，实时将故障片段的音频静音。",
+        "面对社区关于「没有证据表明音频被剪」的质疑，爆料者直接公布了手机拍摄的现场原始录屏。",
+        "录屏铁证显示，在演示失败的瞬间，直播音频被精准掐断。"
       ],
       "quote": {
-        "who": "OpenAI",
+        "who": "NIK",
         "role": "",
-        "said": "这就是 Ultrafast。 作为我们的高级速度层，Ultrafast 在 Codex 中的 Token 生成速度最高可达 8 倍（每秒 300 个 Token），在 API 中最高可达 6 倍。"
+        "said": "@thomasjeans 好吧，那你两点都说错了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 93万 · 产品与生态] 嫌慢就加钱！OpenAI推出500刀终极套餐，8倍速狂飙每秒300词"
+      "line": "[榜第13位 · 5.3万 · 产品与生态] 1秒掐麦掩盖翻车！OpenAI大会直播实时消音，网友甩出手机录屏铁证"
     },
     {
-      "title": "巨头下场养龙虾！OpenAI、英伟达入局，OpenClaw企业版开源且永久免费",
-      "summary": "龙虾（OpenClaw）正式杀入企业级市场！今天，OpenClaw 基金会宣布与 RedHat、NVIDIA 和 OpenAI 强强联手，推出开源的 OpenClaw Enterprise。这款专为持久化智能体打造的企业级控制平面，不仅支持在自有基础设施上运行，而且主打一个永久免费。NVIDIA 也火速响应，宣布其开源工具 OpenShell 可直接作为治理选项接入。",
-      "reads": "25万",
-      "ago": "13 小时前",
-      "category": "产品与生态",
+      "title": "上下文管理的苦涩教训！CLM让大模型原生编辑上下文，人类设计的SOTA被碾压",
+      "summary": "还在用死板的外部框架给大模型外挂记忆？研究人员最新提出的 Context Language Models（CLMs）框架，直接让大模型把上下文当成文件来原生编辑。实测表明，让模型在权重中自己学习管理策略，不仅长程记忆表现碾压人类设计的 SOTA 方法，整体 FLOP 效率也更高。这被业内视为上下文管理领域的又一次「苦涩教训」——放弃人工设计，把控制权还给模型才是正解。",
+      "reads": "3.5万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenClaw 基金会正式推出 OpenClaw Enterprise，标志着开源智能体架构进入企业级市场。",
-        "该项目由 RedHat、NVIDIA 和 OpenAI 三大巨头合作开发，生态阵容豪华。",
-        "产品定位为「强大的企业级控制平面」，专为管理持久化 AI 智能体（persistent agents）而设计。",
-        "主打数据隐私与控制权，支持在企业自有基础设施上直接运行。"
+        "研究人员提出全新 Context Language Models（CLMs）框架，打破当前大模型管理自身上下文的死板限制。",
+        "CLM 允许大语言模型直接编辑上下文，将其视为文件进行原生处理。",
+        "模型直接在权重中学习上下文管理策略，彻底摆脱对外部 harness（测试/管理框架）的依赖。",
+        "实验证明，该方法能实现更好的长程记忆和 FLOP 高效适配。"
       ],
       "quote": {
-        "who": "NVIDIA AI",
+        "who": "Nathan Lambert",
         "role": "",
-        "said": "祝贺 OpenClaw 社区发布 OpenClaw Enterprise！🦞 企业可以使用 NVIDIA OpenShell 这个开源选项，配合 OpenClaw Enterprise 来管理 AI 智能体。很高兴能继续与社区合作，让 AI 智能体变得更安全。"
+        "said": "@maxencefrenette @TheZachMueller 它是独立的东西。我觉得 CLM 是个更聪明的改动，但也从 RLM 的成功里吸取了很多灵感"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 25万 · 产品与生态] 巨头下场养龙虾！OpenAI、英伟达入局，OpenClaw企业版开源且永久免费"
+      "line": "[榜第14位 · 3.5万 · 模型与能力] 上下文管理的苦涩教训！CLM让大模型原生编辑上下文，人类设计的SOTA被碾压"
     },
     {
-      "title": "越更新越懵！OpenAI生态陷入大混乱，Dot、Pages和语音模式互相打架",
-      "summary": "OpenAI 刚想把工作流统一到 ChatGPT，结果新助手 Dot 一出，产品线又乱成了一锅粥。知名博主 Ethan Mollick 忍不住吐槽，现在 Dot、Spaces、Pages 以及本地和云端的 ChatGPT Work 功能严重重叠。用户根本搞不清哪个工具在什么设备上有权限，连建个定时任务或对话，Dot 和语音模式都在互相「打架」。",
-      "reads": "3.9万",
-      "ago": "6 小时前",
+      "title": "限时48小时！Claude Sonnet 5.5空降竞技场，Anthropic突袭发新",
+      "summary": "Anthropic又悄悄搞突袭了！太平洋时间9月30日早8点起，Claude Sonnet 5.5正式空降Arena竞技场，开启为期48小时的限时测试。作为Claude 5.5家族的第二款模型，这次上线的高性能版本（High）允许用户在直接模式下零距离体验。测试窗口仅开放到10月2日，想尝鲜的开发者得抓紧去摸底了。",
+      "reads": "3.3万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "知名博主 Ethan Mollick 发文吐槽 OpenAI 产品线再次陷入混乱，打破了此前围绕 ChatGPT 应用统一工作流的短暂局面。",
-        "新助手 Dot 发布后，与现有的 Spaces、Pages 以及本地/云端的 ChatGPT Work 出现严重的功能重叠。",
-        "任务调度功能变得异常复杂，云端定时任务、电脑本地定时任务以及新加入的接管能力让用户无所适从。",
-        "跨设备权限边界彻底模糊，用户直言「根本不知道哪个工具在哪些设备上有权限做什么」。"
+        "模型上新：Anthropic正式推出Claude Sonnet 5.5，标志着Claude 5.5家族迎来了第二款模型。",
+        "限时测试：新模型在Arena平台开启为期48小时的限时测试，时间为太平洋时间9月30日早8点至10月2日。",
+        "访问路径：用户需进入Arena的「Direct Mode」（直接模式），从下拉菜单中选择「claude-sonnet-5.5」即可开始对话。",
+        "版本细节：本次在竞技场提供测试的是Claude Sonnet 5.5的高性能版本（High）。"
       ],
       "quote": {
-        "who": "Ethan Mollick",
+        "who": "Arena.ai",
         "role": "",
-        "said": "我甚至都不知道哪个工具在哪些设备上有权限做什么。比如 Dot 可以在 Codex/ChatGPT 应用里创建对话和任务，语音模式也会创建对话，有时候这些对话会继续，有时候又被废弃了，现在这一切都非常混乱。"
+        "said": "现在就可以在 Arena 的 Direct Mode 中使用 Claude Sonnet 5.5："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 3.9万 · 产品与生态] 越更新越懵！OpenAI生态陷入大混乱，Dot、Pages和语音模式互相打架"
+      "line": "[榜第15位 · 3.3万 · 产品与生态] 限时48小时！Claude Sonnet 5.5空降竞技场，Anthropic突袭发新"
     },
     {
-      "title": "史上最大DevDay定档！OpenAI单日狂发20项更新，永远在线Agent要来了",
-      "summary": "OpenAI 官方正式宣布，将于 9 月 29 日在旧金山举办其史上规模最大的 DevDay 开发者大会，并喊话大家「别迟到」。据社区传闻，这次大会预计将在单日密集推出超过 20 项全新功能，其中代号为「Dots」的永远在线 AI 智能体和多智能体系统将是绝对核心。随着爆料人晒出《小魔怪》剧照暗示多智能体的疯狂繁殖能力，全网开发者都在搓手期待月底的大招。",
-      "reads": "65万",
-      "ago": "20 小时前",
+      "title": "惹众怒！OpenAI订阅额度直接腰斩，开发者怒斥48小时公关简直是灾难",
+      "summary": "OpenAI 过去 48 小时的对外沟通被开发者怒批为一场「灾难」。不仅订阅计划的额度突遭腰斩引发社区强烈不满，还出现了因疑似不存在的帖子而指控他人犯下严重过错的荒诞戏码。在算力短缺的背景下，官方强硬的资源收紧策略与糟糕的危机公关，正让开发者们的愤怒值达到顶点。",
+      "reads": "6.5万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 官方发布预告，宣布将举办史上最盛大的 DevDay 开发者大会，并配文「别迟到」。",
-        "大会已正式定档 2026 年 9 月 29 日，举办地点位于旧金山。",
-        "社区传言称，本次发布会预计将在单日密集推出超过 20 项全新功能。",
-        "市场焦点集中在代号为「Dots」的永远在线 AI 智能体，预计将在大会上正式亮相并公布上线细节。"
+        "知名开发者发文怒斥，OpenAI 过去 48 小时的对外沟通简直是一场「灾难」。",
+        "官方将订阅计划的额度直接腰斩（halving），引发了社区的巨大争议和强烈不满。",
+        "除了额度削减，还出现了因一篇大概率不存在的帖子被指控犯下严重过错的荒诞事件。",
+        "有开发者在交流中提到，希望能重定向到正确的网站，而不是去「犯重罪」。"
       ],
       "quote": {
-        "who": "Token Gremlin",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "@OpenAI"
+        "said": "@avynsrc 不，订阅计划的削减简直是个灾难"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 65万 · 产品与生态] 史上最大DevDay定档！OpenAI单日狂发20项更新，永远在线Agent要来了"
+      "line": "[榜第16位 · 6.5万 · 产品与生态] 惹众怒！OpenAI订阅额度直接腰斩，开发者怒斥48小时公关简直是灾难"
     }
   ],
   "board_count": 16,
