@@ -3,10 +3,22 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-01 07:42:14 +0800",
+  "fetched_at": "2026-10-01 13:42:46 +0800",
   "today": "10/01",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
+    {
+      "time": "07:41",
+      "date": "10/01",
+      "title": "刚刚，谷歌Gemini 4 Argon杀回前三！追平GPT-6 Astra，Token价只要1/5",
+      "summary": "谷歌沉寂7个月，终于掏出了大的。北京时间10月1日凌晨，Google DeepMind发布Gemini 4 Argon。这是其 7 个月来首款非 Flash 级专有模型。",
+      "source": "新智元",
+      "id": "tga740c3",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tga740c3&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/01 07:41] 刚刚，谷歌Gemini 4 Argon杀回前三！追平GPT-6 Astra，Token价只要1/5 · https://www.aiera.com.cn/asi-item.html?id=tga740c3&from=yuanyuan"
+    },
     {
       "time": "22:55",
       "date": "09/30",
@@ -212,6 +224,54 @@
       "line": "[09/30 15:16] Anthropic急了，给中国大模型泼脏水！ · https://www.aiera.com.cn/asi-item.html?id=tg4e66d3&from=yuanyuan"
     },
     {
+      "time": "08:00",
+      "date": "10/01",
+      "title": "别当大模型冤大头了！OpenRouter教你用20条数据，算出每质量点成本挑最便宜的",
+      "summary": "给 Agent 选模型，照着排行榜挑最高分，多半是在花冤枉钱。OpenRouter 官方博客发了一套三步选型法，只用 20 到 50 条你自己的数据…",
+      "source": "OpenRouter：Announcements（RSS）",
+      "id": "49073052",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=49073052&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/01 08:00] 别当大模型冤大头了！OpenRouter教你用20条数据，算出每质量点成本挑最便宜的 · https://www.aiera.com.cn/asi-item.html?id=49073052&from=yuanyuan"
+    },
+    {
+      "time": "07:00",
+      "date": "10/01",
+      "title": "前雅虎CEO梅耶尔的新AI助手凭什么靠翻你的手机相册拿到800万融资？",
+      "summary": "Google 第 20 号员工、前雅虎 CEO 梅耶尔又创业了。新公司 Dazzle AI 刚拿到 800 万美元融资，估值 3500 万美元，卖点是翻你的手机相册。…",
+      "source": "X/theinformation",
+      "id": "1c9774f5",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=1c9774f5&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/01 07:00] 前雅虎CEO梅耶尔的新AI助手凭什么靠翻你的手机相册拿到800万融资？ · https://www.aiera.com.cn/asi-item.html?id=1c9774f5&from=yuanyuan"
+    },
+    {
+      "time": "03:30",
+      "date": "10/01",
+      "title": "40个人干出2亿美元年收！这家AI初创靠自己造数据赚翻了",
+      "summary": "40 个人，年化收入超过 2 亿美元，人均超过 500 万，而且已经盈利。这家叫 Proximal 的 AI 初创，靠的是让 AI 自己造训练数据。 据 The…",
+      "source": "X/theinformation",
+      "id": "92b27444",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=92b27444&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/01 03:30] 40个人干出2亿美元年收！这家AI初创靠自己造数据赚翻了 · https://www.aiera.com.cn/asi-item.html?id=92b27444&from=yuanyuan"
+    },
+    {
+      "time": "03:19",
+      "date": "10/01",
+      "title": "Perplexity把RAG上下文打爆了，存储直接砍掉八倍",
+      "summary": "Perplexity 开源了一个专治 RAG 丢上下文的嵌入模型，块检索刷新最好成绩，存储还砍掉了 8 倍。Aravind Srinivas 在 X 上宣布，9B 参数的…",
+      "source": "X/AravSrinivas",
+      "id": "90fe56c9",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=90fe56c9&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/01 03:19] Perplexity把RAG上下文打爆了，存储直接砍掉八倍 · https://www.aiera.com.cn/asi-item.html?id=90fe56c9&from=yuanyuan"
+    },
+    {
       "time": "02:52",
       "date": "10/01",
       "title": "160万个AI杀向客服电话，有人靠它砍下3500美元车险",
@@ -246,6 +306,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=5fba2cbd&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/01 00:00] 扎克伯格为了AI真拼了！Meta裁员8000人换来股价单月暴涨27% · https://www.aiera.com.cn/asi-item.html?id=5fba2cbd&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/01",
+      "title": "微软自己把Azure云搞崩了！18个区域网络中断，连官方都不知道咋回事",
+      "summary": "微软给自家云服务做个例行维护，结果把全球18个区域的网络搞崩了。 据The Register报道，这场大面积宕机始于2026年9月30日晚上。…",
+      "source": "www.theregister.com",
+      "id": "78dd1f14",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=78dd1f14&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/01 00:00] 微软自己把Azure云搞崩了！18个区域网络中断，连官方都不知道咋回事 · https://www.aiera.com.cn/asi-item.html?id=78dd1f14&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/01",
+      "title": "AI智能体黑进加拿大政府系统，就为了查百年前的离婚八卦",
+      "summary": "AI 智能体对加拿大政府系统发动了黑客攻击，目标不是机密文件，而是 1905 到 1911 年的离婚数据。 据非营利研究机构 Transluce 报告，加拿大图书档案馆在 5…",
+      "source": "gizmodo.com",
+      "id": "61ee236b",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=61ee236b&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/01 00:00] AI智能体黑进加拿大政府系统，就为了查百年前的离婚八卦 · https://www.aiera.com.cn/asi-item.html?id=61ee236b&from=yuanyuan"
     },
     {
       "time": "23:03",
@@ -642,90 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=62aeb3ab&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[09/30 00:00] 小扎亲自下场做AI旅行代理！旅游巨头Expedia直接打不过就加入 · https://www.aiera.com.cn/asi-item.html?id=62aeb3ab&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/30",
-      "title": "买英伟达芯片怎么就成了科学实验？Meta靠这招一年避税39亿美元",
-      "summary": "Meta 买来的英伟达芯片，报税时成了「实验材料」。据《纽约时报》报道，Meta 把自家 AI 数据中心归为「试验模型」，拿去申请联邦研发税收抵免，光 2025 年就省下…",
-      "source": "RSS",
-      "id": "77686c56",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=77686c56&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/30 00:00] 买英伟达芯片怎么就成了科学实验？Meta靠这招一年避税39亿美元 · https://www.aiera.com.cn/asi-item.html?id=77686c56&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/30",
-      "title": "前谷歌大佬用Codex写代码怎么翻车了？一键给同事发去6000个临时文件",
-      "summary": "前谷歌研究总监 Peter Norvig 用 Codex 写代码，一键给同事发去了 6000 个临时文件。据 The Register 报道，他在旧金山讲了这段经历，他让…",
-      "source": "www.theregister.com",
-      "id": "7bf98217",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=7bf98217&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/30 00:00] 前谷歌大佬用Codex写代码怎么翻车了？一键给同事发去6000个临时文件 · https://www.aiera.com.cn/asi-item.html?id=7bf98217&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/30",
-      "title": "苹果AirPods 5终于能换电池了！iFixit拆完打出历史最高分2分",
-      "summary": "苹果 AirPods 5 终于能换电池了。iFixit 拆完给出 2 分的可修复评分，满分 10 分，这已经是 AirPods 的历史最高分。 之前历代 AirPods 在…",
-      "source": "www.theregister.com",
-      "id": "99cd471e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=99cd471e&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/30 00:00] 苹果AirPods 5终于能换电池了！iFixit拆完打出历史最高分2分 · https://www.aiera.com.cn/asi-item.html?id=99cd471e&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/30",
-      "title": "OpenAI大模型自己给自己画芯片图纸？联手Synopsys直接操纵EDA工具",
-      "summary": "OpenAI 要让大模型亲手操作芯片设计软件了。据 The Decoder 报道，OpenAI 和芯片设计软件巨头 Synopsys 签下多年战略合作协议…",
-      "source": "RSS",
-      "id": "9ed01dc4",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=9ed01dc4&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/30 00:00] OpenAI大模型自己给自己画芯片图纸？联手Synopsys直接操纵EDA工具 · https://www.aiera.com.cn/asi-item.html?id=9ed01dc4&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/30",
-      "title": "Custom GPT时代落幕！谷歌砍掉Gems换上Skills，三大巨头统一Agent标准",
-      "summary": "谷歌把 Gems 砍了，Gemini 聊天里全球上线 Skills 顶替它。Gems 是谷歌对标 Custom GPTs 的产品，OpenAI 自己也在让 Custom…",
-      "source": "RSS",
-      "id": "e676f29c",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=e676f29c&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/30 00:00] Custom GPT时代落幕！谷歌砍掉Gems换上Skills，三大巨头统一Agent标准 · https://www.aiera.com.cn/asi-item.html?id=e676f29c&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/30",
-      "title": "8000人饭碗保不住了！宝马大刀砍向管理层，600个AI应用全面接管",
-      "summary": "宝马要裁掉 8000 人。据雅虎财经报道，宝马计划在 2027 年中期前，把部门数量和相关管理职位砍掉 20%。 重灾区在德国本部，行政和研发岗位首当其冲。截至 2025…",
-      "source": "wsj.com",
-      "id": "5d67b3c7",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=5d67b3c7&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/30 00:00] 8000人饭碗保不住了！宝马大刀砍向管理层，600个AI应用全面接管 · https://www.aiera.com.cn/asi-item.html?id=5d67b3c7&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "09/30",
-      "title": "150毫秒看图做选择，OpenAI新接口提速10倍，直接硬刚Jev",
-      "summary": "OpenAI 刚发布 Decisions API，响应只要 150 毫秒，官方称决策速度提升约 10 倍。矛头直指最近爆火的 Jev。 用法很简单。先定义好问题…",
-      "source": "RSS",
-      "id": "ff4e0d84",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=ff4e0d84&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[09/30 00:00] 150毫秒看图做选择，OpenAI新接口提速10倍，直接硬刚Jev · https://www.aiera.com.cn/asi-item.html?id=ff4e0d84&from=yuanyuan"
     }
   ],
   "feed_count": 60,
