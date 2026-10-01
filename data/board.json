@@ -3,40 +3,140 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-01 13:42:46 +0800",
+  "fetched_at": "2026-10-01 21:03:26 +0800",
   "today": "10/01",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "挤爆ChatGPT和Codex！GPT-6.1 Sol成史上最火模型，官方紧急扩容提速两倍",
-      "summary": "GPT-6.1 Sol 实在太火，直接把 ChatGPT 和 Codex 平台挤到了重负载状态。OpenAI 研究员证实，它已成为公司有史以来在 API 和订阅端需求量最大的模型。目前官方已经紧急上线更多算力进行扩容，预计未来几小时内，模型响应速度将大幅提升至接近两倍。",
-      "reads": "51万",
+      "title": "卧槽，Gemini 4 Argon绝对秒杀Astra！价格暴降5倍，谷歌杀回第一",
+      "summary": "Google DeepMind 刚刚推出了全新前沿模型 Gemini 4 Argon，首发价极具攻击性：输入仅 2 美元、输出 10 美元，比 GPT-6 Astra 便宜 5 倍。新模型在多项基准测试中表现强劲，平均跑分反超 Astra 和 Opus 5.5，尤其在网络安全领域拿下 CWE-bench v1 并列第一。目前 Argon 已率先向网络防御者开放，后续将尽快推向更…",
+      "reads": "151万",
       "ago": "2 小时前",
-      "category": "产品与生态",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI 研究员 Tibo 证实，GPT-6.1 Sol 是公司有史以来需求量最大的模型。",
-        "这种史无前例的高需求同时体现在 API 调用和用户订阅两个渠道。",
-        "激增的访问量导致 ChatGPT 和 Codex 平台一度处于重负载的承压状态。",
-        "为应对庞大流量，OpenAI 官方已紧急上线更多算力完成扩容。"
+        "Google DeepMind 研究员 Logan Kilpatrick 宣布推出全新前沿模型 Gemini 4 Argon，今天起率先向网络防御者开放。",
+        "首发体验价极具攻击性，输入 2 美元、输出 10 美元，比 GPT-6 Astra 便宜 5 倍，比 Opus 5.5 便宜 2 倍。",
+        "首发优惠结束后，Argon 的价格将恢复到输入 4 美元、输出 20 美元，基本与 Opus 持平。",
+        "性能表现强劲，在 Vals Index（68.9%）和 DeepSWE v1.1（77.9%）等基准测试中反超 GPT-6 Astra 和 Claude 系…"
       ],
       "quote": {
-        "who": "Max For AI",
+        "who": "Alex Prompter",
         "role": "",
-        "said": "刚刚， Tibo表示，GPT-6.1 Sol基本已经成了他们有史以来需求最高的模型之一（这个话好像听过🤣。 而且不是只在 ChatGPT 里火。 API 和订阅端的需求都非常高，ChatGPT 和 Codex 一度处于重负载状态。 OpenAI 现在已经在紧急扩容，Tibo 表示接下来几个小时速度会明显改善，最终接近现在的 2 倍。"
+        "said": "@OfficialLoganK 我怎么才能在 24 小时内成为一名网络防御者？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 51万 · 产品与生态] 挤爆ChatGPT和Codex！GPT-6.1 Sol成史上最火模型，官方紧急扩容提速两倍"
+      "line": "[榜第1位 · 151万 · 模型与能力] 卧槽，Gemini 4 Argon绝对秒杀Astra！价格暴降5倍，谷歌杀回第一"
+    },
+    {
+      "title": "刚刚，马斯克版维基百科上新！Grokipedia v0.3发布，剑指银河大百科全书",
+      "summary": "马斯克正式官宣，AI 版维基百科 Grokipedia v0.3 刚刚发布！他不仅亲自下场招人，还放话要打造宏大的「银河大百科全书」。新版本视觉效果大升级，爆料人直呼团队「彻底回来了」。",
+      "reads": "234万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "马斯克正式宣布 Grokipedia 更新至 v0.3 版本。",
+        "官方愿景宏大，马斯克邀请用户加入 SpaceXAI，参与创建「银河大百科全书」（Encyclopedia Galactica）。",
+        "有爆料人激动表示，此次更新标志着团队「彻底回来了」。",
+        "新版本视觉效果大升级，已有 KOL 体验后评价「现在看起来太棒了」。"
+      ],
+      "quote": {
+        "who": "Mark Kretschmann",
+        "role": "",
+        "said": "@elonmusk @SpaceXAI 现在看起来太棒了！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 234万 · 产品与生态] 刚刚，马斯克版维基百科上新！Grokipedia v0.3发布，剑指银河大百科全书"
+    },
+    {
+      "title": "输出首破100万Token！谷歌Gemini 4 Argon杀出，长推理跑分碾压Astra",
+      "summary": "谷歌正式发布了前沿模型 Gemini 4 Argon，主打长周期工作流的深度推理。最顶的是，它首次把输出上限拉到了 100 万 Token，直接打破了行业普遍的 64K 限制。定价方面也颇具诚意，输入 2 美元、输出 10 美元，在多项基准测试中跑分更是直接碾压了 GPT-6 Astra 和 Claude Opus 5.5。",
+      "reads": "88万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "谷歌正式发布前沿模型 Gemini 4 Argon，标志着 Gemini 4 系列正式落地。",
+        "该模型主打长周期工作流中的深度推理，强化了在现实世界软件工程、法律和金融等企业知识工作领域的竞争力。",
+        "输出上限首次扩展至 100 万 Token，显著打破了行业普遍的 64K 限制。",
+        "定价相较于 GPT-6 Astra 具备优势，输入为 2 美元，输出为 10 美元。"
+      ],
+      "quote": {
+        "who": "歸藏(guizang.ai)",
+        "role": "",
+        "said": "还是对谷歌的 Gemini 4 比较期待，它的价格相较于 GPT-6 Astra 确实不是很贵。 而且这次比较亮眼、独有的，应该是它首次将输出长度扩展到了 100 万。 之前我们说的 100 万上下文只是输入长度可以很长，输出的话大部分都是 64K，直接把输出长度扩展到 100 万还是挺顶的。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 88万 · 模型与能力] 输出首破100万Token！谷歌Gemini 4 Argon杀出，长推理跑分碾压Astra"
+    },
+    {
+      "title": "挤爆了！GPT-6.1 Sol成OpenAI史上最火模型，紧急扩容提速2倍",
+      "summary": "GPT-6.1 Sol 实在太火了，直接成了 OpenAI 有史以来需求最高的模型！因为 API 和订阅端涌入海量流量，ChatGPT 和 Codex 一度被挤到重负载状态。目前官方已经紧急上线更多算力，预计未来几小时内速度将大幅提升，最终能达到现在的近 2 倍。",
+      "reads": "109万",
+      "ago": "7 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 研究员 Tibo 证实，GPT-6.1 Sol 成为官方有史以来需求最高的模型。",
+        "此次爆火不仅限于 ChatGPT，API 和订阅端均涌入巨大流量。",
+        "海量请求导致 ChatGPT 和 Codex 一度处于重负载状态。",
+        "OpenAI 官方已紧急上线更多算力进行扩容。"
+      ],
+      "quote": {
+        "who": "Max For AI",
+        "role": "",
+        "said": "@LauLauzhihao 不如opus5.5 感觉比sonnet5.5强一点🤔"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 109万 · 产品与生态] 挤爆了！GPT-6.1 Sol成OpenAI史上最火模型，紧急扩容提速2倍"
+    },
+    {
+      "title": "最疯狂的时代！GPT-6 Astra狂跑6小时，成功破译217年前拿破仑将军绝密信",
+      "summary": "历史学者 Carter Church 借助 OpenAI 现役旗舰模型 GPT-6 Astra，耗时约 6 小时成功破译了一封写给拿破仑将军的 217 年前绝密信件。尽管字迹极其模糊，大模型依然展现了强大的非结构化历史数据处理能力。与此同时，MongoDB CPO 指出，虽然客户在推理层每两三个月就会更换一次大语言模型，但底层数据始终是唯一不变的稳定资产。",
+      "reads": "11万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "历史学者 Carter Church 使用 GPT-6 Astra 成功破译了一封写给拿破仑将军的 217 年前绝密信件。",
+        "针对字迹模糊的历史文档，GPT-6 Astra 连续运行了约 6 个小时才最终完成文本提取与解码任务。",
+        "此次破译的主要难点在于，如何从极难辨认的古籍中提取出可识别的文本信息。",
+        "这是继破译神圣罗马帝国作战图及一战德军电报之后，AI 在古文字复原领域的又一成功案例。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@parhelion318 还有几个月"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 11万 · 模型与能力] 最疯狂的时代！GPT-6 Astra狂跑6小时，成功破译217年前拿破仑将军绝密信"
     },
     {
       "title": "Anthropic上线claude.dev！开发者专属新家，还藏了个复古像素游戏",
       "summary": "Anthropic 专门为开发者打造的新家 claude.dev 正式上线了。新站点不仅一口气整合了工程深度解析、Claude Code 和 API 使用指南，还放出了核心研发团队的独家经验分享。最有意思的是，官方还在里面偷偷塞了个名为「CLAUDE'S QUEST」的复古像素风游戏彩蛋，原来的老文档网站也依然保留并可通过首页直达。",
-      "reads": "48万",
-      "ago": "4 小时前",
+      "reads": "105万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -54,64 +154,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 48万 · 产品与生态] Anthropic上线claude.dev！开发者专属新家，还藏了个复古像素游戏"
+      "rank": 6,
+      "line": "[榜第6位 · 105万 · 产品与生态] Anthropic上线claude.dev！开发者专属新家，还藏了个复古像素游戏"
     },
     {
-      "title": "刚刚，谷歌Gemini 4 Argon突袭！比Astra便宜5倍，跑分直接秒杀GPT-6",
-      "summary": "谷歌今日突发前沿模型 Gemini 4 Argon，率先向网络防御者开放。新模型主打极具攻击性的定价，首发期输入 2 美元、输出 10 美元，比 GPT-6 Astra 便宜整整 5 倍。性能上不仅在 CWE-bench v1 网安基准中以 68% 并列第一，平均得分更是反超 Astra 和 Opus 5.5，标志着 AI 巨头之争重回三足鼎立格局。",
-      "reads": "122万",
-      "ago": "8 小时前",
-      "category": "模型与能力",
+      "title": "谷歌祭出SynthID生物版！全球首创蛋白质水印登Nature，已开源",
+      "summary": "谷歌 DeepMind 带着全球首创的 AI 蛋白质水印技术 SynthID Bio 登上了 Nature。这项技术能像数字身份证一样，把不可见的签名直接嵌进氨基酸序列里，而且完全不影响蛋白质的生物学功能。目前 DeepMind 已经将该工具开源供研究使用，帮助 DNA 实验室快速验证合成来源，守住生物安全的底线。",
+      "reads": "1.6万",
+      "ago": "56 分钟前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "谷歌正式推出前沿模型 Gemini 4 Argon，今日起率先向网络防御者推送，后续将尽快扩大开放范围。",
-        "定价策略极具攻击性，首发体验价为输入 2 美元、输出 10 美元，比 GPT-6 Astra 便宜 5 倍，比 Opus 5.5 便宜 2 倍。",
-        "首发期结束后，Argon 价格将恢复至输入 4 美元、输出 20 美元，基本与 Claude Opus 5.5 持平。",
-        "网络安全能力顶尖，在 CWE-bench v1 测试中以 68% 的成绩并列第一，具备发现、验证漏洞及生成 PoC 证据的能力。"
+        "谷歌 DeepMind 在 Nature 发表最新研究，推出全球首创的 AI 生成蛋白质水印技术 SynthID Bio。",
+        "该技术专为 AI 生成的生物设计打造，能将不可见签名直接嵌入蛋白质的氨基酸序列中。",
+        "官方强调，嵌入水印的过程完全不会影响蛋白质原有的生物学功能。",
+        "SynthID Bio 相当于为合成蛋白颁发了一张「数字身份证」，帮助区分自然序列与人工序列。"
       ],
       "quote": {
-        "who": "Mark Kretschmann",
+        "who": "Google DeepMind",
         "role": "",
-        "said": "@OfficialLoganK 绝地反击！Google 回来了。"
+        "said": "随着 AI 加速科学发现，我们正在帮助研究人员跟上步伐，快速验证生物设计是否带有内置的安全保障，同时不耽误关键工作。🔬 我们将这些工具开放给研究使用，以加强"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 122万 · 模型与能力] 刚刚，谷歌Gemini 4 Argon突袭！比Astra便宜5倍，跑分直接秒杀GPT-6"
-    },
-    {
-      "title": "糟糕，谷歌内讧了！Gemini 4刚发布就遭员工背刺，实测编程太拉胯",
-      "summary": "Google DeepMind 正式推出了前沿模型 Gemini 4 Argon，输出上限高达 100 万 Token，并在 AA 智能指数上追平了 GPT-6 Astra。首发价定为输入 2 美元、输出 10 美元。然而尴尬的是，新模型刚发布就遭到自家员工背刺，被媒体曝光其在内部测试中编程表现挣扎，高昂的运行成本甚至可能拖累谷歌的利润率。",
-      "reads": "38万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Google DeepMind 正式推出前沿模型 Gemini 4 Argon，输出上限达到 100 万 Token。",
-        "新模型首发价定为输入 2 美元、输出 10 美元。",
-        "在基准测试中，Gemini 4 Argon 的 AA 智能指数成功追平 OpenAI 的现役旗舰 GPT-6 Astra。",
-        "彭博社曝光了该模型的内部测试情况，指出其在实际投入使用时表现不佳，处理某些编程任务非常吃力。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "Bloomberg：“此外，据一位熟悉其开发的人士透露，这是一个非常大的模型。通常大模型运行成本很高，可能会给 Google 的利润率带来压力。” “专家表示，Google 可能会受到行业趋势的影响，过于关注"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 38万 · 模型与能力] 糟糕，谷歌内讧了！Gemini 4刚发布就遭员工背刺，实测编程太拉胯"
+      "rank": 7,
+      "line": "[榜第7位 · 1.6万 · 政策与安全] 谷歌祭出SynthID生物版！全球首创蛋白质水印登Nature，已开源"
     },
     {
       "title": "刚刚，谷歌Gemini 4 Argon杀回第一！追平GPT-6 Astra，成本只要六折",
       "summary": "Google DeepMind 正式推出首个专有前沿模型 Gemini 4 Argon。在 Artificial Analysis 智能指数上，它以 53 分追平 OpenAI 旗舰 GPT-6 Astra，且折后单任务成本仅为后者的 60%。新模型标准定价为输入 4 美元/1M Token、输出 20 美元/1M Token，缓存输入享 95% 折扣。尽管性能强劲，但有爆料称…",
-      "reads": "43万",
-      "ago": "6 小时前",
+      "reads": "52万",
+      "ago": "13 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -129,39 +204,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 43万 · 模型与能力] 刚刚，谷歌Gemini 4 Argon杀回第一！追平GPT-6 Astra，成本只要六折"
+      "rank": 8,
+      "line": "[榜第8位 · 52万 · 模型与能力] 刚刚，谷歌Gemini 4 Argon杀回第一！追平GPT-6 Astra，成本只要六折"
     },
     {
-      "title": "反击Astra！谷歌祭出Gemini 4 Argon，100万输出长推理炸场",
-      "summary": "谷歌深夜突然放出大招，正式发布全新前沿模型 Gemini 4 Argon！这款主打复杂长周期推理的新旗舰，直接将输出上限拉爆到 100 万 Token，首发定价为输入 2 美元、输出 10 美元。虽然在多项基准测试中跑分碾压了 GPT-6 Astra 和 Claude Fable 5.1，但内部爆料称其在编程表现上依然有些挣扎。",
-      "reads": "71万",
-      "ago": "8 小时前",
+      "title": "糟糕，谷歌内讧了！Gemini 4刚发布就遭员工背刺，实测编程太拉胯",
+      "summary": "Google DeepMind 正式推出了前沿模型 Gemini 4 Argon，输出上限高达 100 万 Token，并在 AA 智能指数上追平了 GPT-6 Astra。首发价定为输入 2 美元、输出 10 美元。然而尴尬的是，新模型刚发布就遭到自家员工背刺，被媒体曝光其在内部测试中编程表现挣扎，高昂的运行成本甚至可能拖累谷歌的利润率。",
+      "reads": "43万",
+      "ago": "12 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Google DeepMind 官宣新前沿模型 Gemini 4 Argon，专攻真实世界软件工程、法律金融等复杂长周期工作流。",
-        "模型输出上限高达 100 万 Token，首发定价为每百万 Token 输入 2 美元、输出 10 美元。",
-        "官方基准测试成绩亮眼，在 Vals Index（68.9%）和 DeepSWE v1.1（77.9%）中得分均领先于现役旗舰 GPT-6 Astra 和 C…",
-        "据曝光的内部测试显示，尽管官方宣称其网络防御性能前沿，但 Argon 在实际编程表现上仍存在挣扎。"
+        "Google DeepMind 正式推出前沿模型 Gemini 4 Argon，输出上限达到 100 万 Token。",
+        "新模型首发价定为输入 2 美元、输出 10 美元。",
+        "在基准测试中，Gemini 4 Argon 的 AA 智能指数成功追平 OpenAI 的现役旗舰 GPT-6 Astra。",
+        "彭博社曝光了该模型的内部测试情况，指出其在实际投入使用时表现不佳，处理某些编程任务非常吃力。"
       ],
       "quote": {
-        "who": "Chetaslua",
+        "who": "tae kim",
         "role": "",
-        "said": "@ClassicMain 是的，我懂，我是在比较梯队 比如 Google Flash : Sonnet : Luna Google Argon : Opus : Sol Ultra : Fable : Astra 这就是我说的，如果他们发布终极大招，我们就又重回巅峰了"
+        "said": "Bloomberg：“此外，据一位熟悉其开发的人士透露，这是一个非常大的模型。通常大模型运行成本很高，可能会给 Google 的利润率带来压力。” “专家表示，Google 可能会受到行业趋势的影响，过于关注"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 71万 · 模型与能力] 反击Astra！谷歌祭出Gemini 4 Argon，100万输出长推理炸场"
+      "rank": 9,
+      "line": "[榜第9位 · 43万 · 模型与能力] 糟糕，谷歌内讧了！Gemini 4刚发布就遭员工背刺，实测编程太拉胯"
+    },
+    {
+      "title": "马斯克祭出「主控 Agent」！Grok 进化多智能体管家，自动分发任务硬刚 Meta",
+      "summary": "xAI 旗下 Grok Bot 迎来重大进化，正式推出 Primary Bot（主机器人）功能。这个「主控 Agent」不仅能主动采取行动，还能像管家一样将任务自动分发给最合适的子机器人处理，标志着 Grok 正式迈入多智能体协调系统时代。与此同时，据 The Information 报道，Meta 的同类产品 Muse 日活已突破 100 万，AI 个人助理生态的抢位战彻底打…",
+      "reads": "9077",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "xAI 宣布为 Grok Bot 推出 Primary Bot（主机器人）功能。",
+        "Primary Bot 定位为用户的主要 AI 助手，具备管理其他机器人并主动采取行动的能力。",
+        "用户下达任务后，Primary Bot 会自动将其分配给最合适的子机器人处理。",
+        "这一更新标志着 Grok Bot 从单一对话工具正式演进为多智能体协调系统。"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "SPACEXAI 🔥：Grok Bot 要推出 Primary Bot 了！Primary bot 将作为你的主要 AI 助手，可以管理其他机器人并主动采取行动。 > “我是你的 primary bot。我可以管理你的其他机器人。把任何任务交给我吧。我会确保它被交给合适的机器人去处理。” >"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 9077 · 产品与生态] 马斯克祭出「主控 Agent」！Grok 进化多智能体管家，自动分发任务硬刚 Meta"
     },
     {
       "title": "别只盯着Agent结果了！英伟达联手Nous扒开黑盒，调用路径与耗时一览无余",
       "summary": "Agent 给出正确答案就万事大吉了？英伟达告诉你，过程同样重要。官方刚刚宣布与 Nous Research 及 Teknium 达成合作，实操演示了 NVIDIA NeMo Relay 追踪工具。开发者现在可以直接看清 Hermes Agent 的完整执行路径，包括工具调用、重试次数和耗时分布，结合 Phoenix 平台，让 Agent 的「黑盒」彻底透明化。",
-      "reads": "4.6万",
-      "ago": "1 小时前",
+      "reads": "8.4万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -179,39 +279,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 4.6万 · 产品与生态] 别只盯着Agent结果了！英伟达联手Nous扒开黑盒，调用路径与耗时一览无余"
-    },
-    {
-      "title": "1.99美元暴击Astra！谷歌Gemini 4 Argon突发上线，员工却曝写代码翻车",
-      "summary": "时隔7个月，谷歌带着全新前沿模型 Gemini 4 Argon 杀回了第一梯队！这次不仅输出上限高达100万Token，在 Vals Index 和 DeepSWE 等基准测试中更是直接反超 GPT-6 Astra 和 Claude Opus 5.5。最离谱的是价格，成本仅需1.99美元，直接把友商按在地上摩擦。不过据彭博社爆料，这模型跑分虽然无敌，员工实际拿来写代码却频频翻车…",
-      "reads": "15万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "谷歌正式推出前沿模型 Gemini 4 Argon，输出上限达到 100万 Token。",
-        "跑分全面反超：Vals Index 拿下 68.9%，DeepSWE v1.1 取得 77.9% SOTA，均压过 GPT-6 Astra 和 Claude…",
-        "法律金融能力差距悬殊：在 Harvey Legal 测试中，Gemini 4 Argon 得分 19.6%，远超 Astra 的 5.4%。",
-        "AA智能指数获 53 分，追平 GPT-6 Astra 和 Fable 5.1，卡在帕累托最优线上，但仍落后于 Opus 5.5（58分）。"
-      ],
-      "quote": {
-        "who": "SuSu_酥酥",
-        "role": "",
-        "said": "Gemini 4 Argon刚发布，Vals RSI Index 直接从垫底区拉到第4，超过 GPT-6 Astra！ 内部人当场问：RSI传闻是真的吗？👀 注意这个榜测的不是聊天有多聪明，而是模型能不能自己做下一代模型的研发。 现在第一名也才37%，离真正递归自我改进还早。 但 Google 刚发了 Dream-RSI / RRSI，Brin"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 15万 · 模型与能力] 1.99美元暴击Astra！谷歌Gemini 4 Argon突发上线，员工却曝写代码翻车"
+      "rank": 11,
+      "line": "[榜第11位 · 8.4万 · 产品与生态] 别只盯着Agent结果了！英伟达联手Nous扒开黑盒，调用路径与耗时一览无余"
     },
     {
       "title": "OpenAI在线听劝！Dots两周内迎重磅上新，全网血书求下放Plus套餐",
       "summary": "OpenAI 官方罕见在线听劝，公开向社区征集 Dots 和 Space 未来两周的更新建议。这是继 DevDay 发布后，官方首次直接收集短期迭代需求。评论区瞬间被开发者攻占，呼声最高的需求包括尽快将 Dots 下放至 Plus 套餐（目前仅限 Pro 及以上）、推出独立版应用，以及与 Codex 深度整合，实现通过短信和电话全权管理生活。",
-      "reads": "52万",
-      "ago": "11 小时前",
+      "reads": "69万",
+      "ago": "18 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -229,183 +304,108 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 52万 · 产品与生态] OpenAI在线听劝！Dots两周内迎重磅上新，全网血书求下放Plus套餐"
-    },
-    {
-      "title": "拒绝授权照样偷看！Meta智能体被曝窃取苹果短信，撤销也不删数据",
-      "summary": "当前火热的 Agentic AI 遭遇隐私信任危机。Meta Muse AI 被曝在用户明确拒绝授权的情况下，依然读取并上传苹果 iMessage 短信至云端。更离谱的是，即便后续撤销授权，已经被拉取的数据也不会自动删除，被研究员无情嘲讽「一次被钓鱼，终身被钓鱼」。",
-      "reads": "13万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Meta Muse AI 陷入隐私争议，被指窃取苹果 iMessage 短信并上传云端。",
-        "高管 Andy Stone 曾出面澄清，称该应用读取短信需要用户主动授权且可撤销。",
-        "文章作者 Jason Aten 亲自下场反驳，表示自己在明确拒绝访问后，短信依然被读取。",
-        "开发者 Rob Leathern 晒出截图补刀，证实即便用户撤销授权，Muse 已经拉取的信息也不会自动删除。"
-      ],
-      "quote": {
-        "who": "Susan Zhang",
-        "role": "",
-        "said": "@giffmana ruff"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 13万 · 产品与生态] 拒绝授权照样偷看！Meta智能体被曝窃取苹果短信，撤销也不删数据"
-    },
-    {
-      "title": "谷歌杀回来了！Gemini 4 Argon接管自家数据中心，干出300TiB内存，运维悬了",
-      "summary": "谷歌这波真的杀回来了！最新披露显示，拥有100万Token输出上限的Gemini 4 Argon智能体，已经开始接管并优化谷歌自家的底层基础设施。通过自动分析性能数据并修改代码，AI硬生生在数据中心里释放了超过300 TiB的内存资源，大模型正式从内容生成跨越到了硬核的自动化运维阶段。",
-      "reads": "21万",
-      "ago": "8 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "谷歌官方披露了前沿模型 Gemini 4 Argon 的最新内部硬核应用成果。",
-        "该模型具备高达 100 万 Token 的输出上限，为其处理复杂系统级任务提供支撑。",
-        "AI 智能体已经深入谷歌数据中心底层，开始自主优化自家的基础设施。",
-        "通过自动分析性能分析（profiling）数据，AI 成功定位并找到了内存优化方案。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@niklaslenz_ai 可能是这样。但这说明了一件事：Google 回来了！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 21万 · 模型与能力] 谷歌杀回来了！Gemini 4 Argon接管自家数据中心，干出300TiB内存，运维悬了"
-    },
-    {
-      "title": "搞起线下了！Anthropic杀入旧金山科技周，首个Claude开发者之家开张",
-      "summary": "Anthropic 正在将触角从纯软件服务延伸至线下开发者生态。官方今日宣布，Claude Founder House 将于 10 月 6 日至 8 日登陆旧金山科技周，并于 10 月 14 日在斯德哥尔摩举办。活动专为创始人、CEO 及开发者打造，提供核心团队演讲、工作坊及面对面答疑，目前两地注册通道均已正式开放。",
-      "reads": "21万",
-      "ago": "10 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 官宣举办线下活动 Claude Founder House，标志着其从纯软件服务向深度用户社群运营延伸。",
-        "旧金山场次将作为旧金山科技周（SF Tech Week）的一部分，于 10 月 6 日至 8 日举行。",
-        "欧洲场次定档瑞典斯德哥尔摩，将于 10 月 14 日正式开启。",
-        "活动受众精准定向 AI 领域的创始人、CEO 以及使用 Claude 构建产品的开发者。"
-      ],
-      "quote": {
-        "who": "Claude",
-        "role": "",
-        "said": "注册旧金山场： 注册斯德哥尔摩场："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 21万 · 产品与生态] 搞起线下了！Anthropic杀入旧金山科技周，首个Claude开发者之家开张"
+      "line": "[榜第12位 · 69万 · 产品与生态] OpenAI在线听劝！Dots两周内迎重磅上新，全网血书求下放Plus套餐"
     },
     {
-      "title": "连蛋白质都能打水印了！生物版SynthID登Nature，Hassabis开源防线",
-      "summary": "AI 时代的生物安全防线又厚了一层。Google DeepMind 团队成功合成了兼具功能与水印的 AI 设计蛋白质，这项把 SynthID 引入生物学的突破性成果今日正式登上「Nature」。为了应对潜在的生物安全风险，CEO Demis Hassabis 宣布全面开源 SynthID Bio 工具，让全球研究者都能给「生命基石」打上可追溯的烙印。",
-      "reads": "28万",
-      "ago": "12 小时前",
+      "title": "免费领Claude玩偶？选中国地址秒要身份证，Anthropic被疑钓鱼执法",
+      "summary": "Anthropic 最近搞了个免费送 Claude 实体玩偶的活动，结果却让中国开发者惊出一身冷汗。有网友爆料，在收货表单里只要国家选了 China，就会立马弹出强制填写 18 位身份证号的输入框。这波操作被不少人质疑是「钓鱼执法」和变相实名认证，为了一个免费周边交出敏感隐私，到底值不值？",
+      "reads": "1.7万",
+      "ago": "3 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Google DeepMind 团队成功合成兼具功能与水印的 AI 设计蛋白质，突破了生成生物学边界。",
-        "该突破性成果今日正式发表于顶级学术期刊「Nature」。",
-        "这是科学界首次实现对「生命基石」（蛋白质）的概念验证水印处理。",
-        "DeepMind 宣布全面开源 SynthID Bio 工具，供全球研究社区在此基础上继续开发。"
+        "Anthropic 近期推出免费赠送 Claude 实体玩偶的活动，玩偶形象为戴着牛仔帽的橙色橘子。",
+        "有网友爆料称，在官网收货表单中，只要将国家选项切换为 China，系统就会发生变化。",
+        "选定 China 后，表单会立马弹出并强制要求填写 National ID Card Number（身份证号）。",
+        "这一针对中国地址的特殊要求，被社区广泛质疑为 Anthropic 的「钓鱼执法」和变相实名认证。"
       ],
       "quote": {
-        "who": "Demis Hassabis",
+        "who": "SuSu_酥酥",
         "role": "",
-        "said": "生物安全是 AI 时代最紧迫的挑战之一。将 SynthID 引入生物学，为 AI 生成的蛋白质加水印是关键一步——我们正在开源 SynthID Bio 工具，以便研究社区能在此基础上继续开发。今天发表在 @Nature 上，"
+        "said": "🚨突发！疑似Anthropic再次钓鱼执法：免费送Claude实体玩偶，中国地址也能填！ 表单：国家一选China，立马弹出National ID Card Number。 玩偶：戴着牛仔帽看着你，像在说「先把身份证交出来」。 别人领周边，你领的是一次实名认证。 搜索claude dev之前，先问问自己：一只橙橘子，值不值得18位。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 28万 · 政策与安全] 连蛋白质都能打水印了！生物版SynthID登Nature，Hassabis开源防线"
+      "line": "[榜第13位 · 1.7万 · 政策与安全] 免费领Claude玩偶？选中国地址秒要身份证，Anthropic被疑钓鱼执法"
     },
     {
-      "title": "暴涨6倍！OpenAI最新报告：中小企业AI Agent用量飙升至70%，官方下场送培训",
-      "summary": "OpenAI 官方发布最新报告，揭示了小团队正在大规模采用 AI Agent 承担核心工作。数据显示，2026年1月至8月间，中小企业在 AI Agent Token 使用量中的占比从约 10% 狂飙至近 70%。为此，OpenAI 宣布与美国小企业管理局（ASBDC）达成合作，提供实操培训和本地指导，全面发力长尾商业场景。",
-      "reads": "17万",
-      "ago": "10 小时前",
+      "title": "开发者看呆！Opus 5.5手搓3D模拟飞行，连谷歌地图隐藏合规条款都自动搞定",
+      "summary": "Vibe Coding 又出神作了！有开发者用 Opus 5.5 手搓了一款名为「Fly Anywhere」的 3D 地球漫游应用，用户可以直接驾驶 F-35A 战机在全球虚拟飞行，目前代码已全部开源。最让人震惊的是，Opus 5.5 在制作发布预告片时，竟然自主查到了谷歌地图严格的 3D 图块视频政策，完美卡在 30 秒内并加上了合规标识，连开发者自己都不知道有这规定。",
+      "reads": "6356",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 官方发布新报告，探讨小企业如何利用 AI Agent 处理从获客到财务管理的业务。",
-        "数据显示，2026年1月至8月间，中小企业在 AI Agent Token 使用量中的占比从约 10% 飙升至近 70%。",
-        "这一数据表明，小团队正大规模采用 AI 承担核心工作，长尾商业场景迎来爆发。",
-        "为支持这一趋势，OpenAI 宣布与美国小企业管理局（ASBDC）达成新合作伙伴关系。"
+        "开发者利用 Claude Opus 5.5 纯靠直觉编程（Vibe Coding），手搓出 3D 地球漫游应用「Fly Anywhere」。",
+        "该应用允许用户输入航班或地名，驾驶 F-35A 战机在全球任意地点进行虚拟飞行漫游，目前全套代码已经开源。",
+        "Opus 5.5 不仅包揽了代码编写，还独立完成了该应用的发布预告片制作。",
+        "令人震惊的是，Opus 5.5 自主发现了谷歌地图对 3D 图块视频的严格政策，而开发者对此毫不知情。"
       ],
       "quote": {
-        "who": "OpenAI",
+        "who": "AshutoshShrivastava",
         "role": "",
-        "said": "小团队正用 AI 承担更多工作——从寻找客户到打造产品和管理财务。 我们的新报告探讨了小企业如何让 AI 智能体投入工作。通过与 @ASBDC 的新合作，我们带来了实操 AI 培训和本地指导"
+        "said": "我新 vibecoded 的 app。玩起来太有意思了。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 17万 · 产品与生态] 暴涨6倍！OpenAI最新报告：中小企业AI Agent用量飙升至70%，官方下场送培训"
+      "line": "[榜第14位 · 6356 · 产品与生态] 开发者看呆！Opus 5.5手搓3D模拟飞行，连谷歌地图隐藏合规条款都自动搞定"
     },
     {
-      "title": "刚刚，GPT-6 Astra性价比版炸场！ARC-AGI狂砍96.4%，推理成本暴降77%",
-      "summary": "ARC Prize 刚刚公布了 OpenAI 性价比旗舰 GPT-6.1 Sol 的官方验证成绩。在 ARC-AGI-3 基准测试中，它以 96.4% 的高分紧咬自家旗舰 Astra（99.9%），但推理成本直接暴降 77%。官方表示，Sol 在高推理层级下能做出更优决策，通关动作更少，从而大幅降低了总开销。",
-      "reads": "11万",
-      "ago": "9 小时前",
+      "title": "AI开始自己造AI了！谷歌Gemini 4现RSI迹象，研发指数暴打3.8 Flash",
+      "summary": "谷歌的 AI 进化速度可能要开启「套娃」模式了。有业内人士发现，Gemini 4 Argon 在自主 AI 研发的 RSI（递归自我改进）指数上，相比前代 3.8 Flash 出现了巨大飞跃。这意味着 Gemini 4 每周都在变强，谷歌或许已经捕捉到了 AI 加速自我迭代的早期迹象。不过也有开发者保持冷静，认为虽然图表数据惊艳，但还得看实际运行效果。",
+      "reads": "1.8万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "ARC Prize 官方公布 OpenAI GPT-6.1 Sol 在 ARC-AGI 系列基准上的验证结果。",
-        "在 ARC-AGI-3 测试中，使用 provider adapter 框架取得 96.4% 高分，成本为 $4.4K。",
-        "这一成绩与自家旗舰 GPT-6 Astra 的 99.9% 相当，但推理成本大幅降低 77%。",
-        "在 ARC-AGI-2 上，GPT-6.1 Sol 最高分达 94.2%，单任务成本仅 $0.25，同样比 Astra 便宜 77%。"
+        "业内人士指出 Gemini 4 每周都在持续变强，引发圈内对模型进化速度的关注。",
+        "Gemini 4 Argon 在自主 AI 研发领域的 RSI（递归自我改进）指数出现巨大飞跃。",
+        "与前代 Gemini 3.8 Flash 相比，新版本在自我改进指标上拉开了显著差距。",
+        "这一数据跃升暗示，谷歌可能已在模型开发中观察到 RSI 的早期迹象。"
       ],
       "quote": {
-        "who": "Lisan al Gaib",
+        "who": "Alex Prompter",
         "role": "",
-        "said": "也许它们被称为 loopers，是因为它们在 ARC-AGI-3 上向后弯曲"
+        "said": "@haider1 图表上看起来很惊艳。 不过还是想看看实际运行的效果。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 11万 · 模型与能力] 刚刚，GPT-6 Astra性价比版炸场！ARC-AGI狂砍96.4%，推理成本暴降77%"
+      "line": "[榜第15位 · 1.8万 · 模型与能力] AI开始自己造AI了！谷歌Gemini 4现RSI迹象，研发指数暴打3.8 Flash"
     },
     {
-      "title": "价格脚踝斩！GPT-6.1 Sol狂飙70分杀入前三，Agent开发成本彻底打下来了",
-      "summary": "大模型性价比之战彻底白热化！OpenAI 刚刚发布的 GPT-6.1 Sol (Max) 以 1759 分空降代码榜第三，较上代狂飙 70 分。更离谱的是，它的混合价格仅为 8 美元/百万 Token，直接把成本打到了 Astra 的五分之一。与此同时，谷歌 Gemini 4 Argon 也以同等白菜价刷新了文本榜纪录，Agent 开发的成本结构正在被全面重塑。",
-      "reads": "6.0万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
+      "title": "读PhD还在做机械劳动？开发者断言：早被AI淘汰了，90%前沿模型已被工业界包揽",
+      "summary": "传统 PhD 的「苦行僧」式科研路径正在失效。有开发者指出，现代 AI 正在淘汰科研训练中的机械劳动，强人配合 Agent 和自动化系统就能压缩大量重复工作。Stanford 2026 AI Index 数据也印证了这一趋势：2025 年超过 90% 的前沿模型都来自工业界。在 AI 时代，闭门造车只会让方向走偏，人机协作与科研品味才是核心竞争力。",
+      "reads": "1.0万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 推出性价比旗舰 GPT-6.1 Sol (Max)，在 Code Arena: WebDev 榜单以 1759 分斩获第 3 名。",
-        "该模型较上一代 GPT-6 Sol (Max) 性能提升 70 分，展现出强大的逆向工程与代码编写能力。",
-        "GPT-6.1 Sol 混合定价仅为 8 美元/百万 Token（输入 2 美元/输出 10 美元），成本降至 Astra 的约五分之一。",
-        "谷歌同日发力，Gemini 4 Argon (High) 凭借 1525 分的成绩重塑了 Text Arena 的帕累托前沿，混合价格同为 8 美元/百万…"
+        "一位开发者指出，AI 正在淘汰 PhD 训练中那些原本被误认为是研究能力的机械劳动。",
+        "借助 Agent、编码模型和自动化实验系统，个人能力极强的研究者可以大幅压缩传统科研中的重复性工作。",
+        "Stanford 2026 AI Index 数据显示，AI 能力仍在快速增长，且 2025 年超过 90% 的前沿模型（notable frontier…",
+        "现代 AI 科研与「孤僻」是对冲的，纯靠自己闭门造车很容易导致研究方向走偏。"
       ],
       "quote": {
-        "who": "Arena.ai",
+        "who": "Phoenix Yin",
         "role": "",
-        "said": "@HiDream_AI 的 Hidream-O1-Video-1.0 刚刚空降图生视频竞技场第 7 名，拿下 1456 分！ 这个模型可以在 @vivago_ai 上体验，距离 gemini-omni-flash 只差 8 分，和 dreamina-seedance-2.0 及 2.5 的分差都在 20 分以内。 恭喜 @HiDream_AI 发布新模型！"
+        "said": "@samuel_ys92 这个动态图表很棒，今天我还和朋友们分享这个github链接，整理的很好。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 6.0万 · 模型与能力] 价格脚踝斩！GPT-6.1 Sol狂飙70分杀入前三，Agent开发成本彻底打下来了"
+      "line": "[榜第16位 · 1.0万 · 产品与生态] 读PhD还在做机械劳动？开发者断言：早被AI淘汰了，90%前沿模型已被工业界包揽"
     }
   ],
   "board_count": 16,
