@@ -3,190 +3,365 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-02 02:49:49 +0800",
+  "fetched_at": "2026-10-02 07:07:02 +0800",
   "today": "10/02",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "深夜突袭！马斯克祭出Grok的Agent版，@一下就能写代码，SaaS平台悬了",
-      "summary": "马斯克亲自发推带货，最新的 Grok @Bot 迎来重大升级！现在你可以直接在 Slack 里创建一个「团队工程师」，@ 它就能自动写代码、建项目。这款云端 AI 智能体不仅填补了 Meta Muse 和 OpenAI dots 留下的空白，更是直接杀入了企业级自动化场景，传统 SaaS 协作平台这波真要慌了。",
-      "reads": "223万",
-      "ago": "43 分钟前",
+      "title": "马斯克版维基百科上新！Grokipedia v0.3发布，目标「银河大百科全书」",
+      "summary": "马斯克宣布，Grokipedia v0.3 正式发布！他向全网发出邀请，号召大家加入 SpaceXAI，共同创建「银河大百科全书」。新版本不仅大幅提升了可读性，还加入了大量图文与 3D 动画，惊艳的前端视觉效果让开发者直呼「太棒了」。",
+      "reads": "306万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "马斯克在 X 上正式宣布并推广最新 Grok @Bot，强调其包含多项重大升级。",
-        "核心新玩法：用户可创建「团队工程师」bot 并直接集成至 Slack 工作流中。",
-        "操控极简：有开发者实测，只需通过 @bot 指令，就能让 AI 直接编写代码或创建 Projects 分组。",
-        "定位大转变：Grok 正式从单一对话助手，演进为云端 AI 智能体工作流管理工具，旨在接管日常开发与财务任务。"
+        "马斯克官宣 Grokipedia v0.3 正式发布，邀请用户加入 SpaceXAI。",
+        "终极目标曝光：马斯克号召大家共同创建「银河大百科全书」（Encyclopedia Galactica）。",
+        "新版本在可读性上大幅提升，新增了大量图文与 3D 动画内容。",
+        "前端视觉效果引发热议，有开发者惊叹「现在看起来太棒了」「前端是怎么做的」。"
       ],
       "quote": {
-        "who": "Elon Musk",
+        "who": "can",
         "role": "",
-        "said": "试试 Grok @Bot！"
+        "said": "@Angaisb_ 哇，前端是怎么做的？看起来太棒了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 223万 · 产品与生态] 深夜突袭！马斯克祭出Grok的Agent版，@一下就能写代码，SaaS平台悬了"
+      "line": "[榜第1位 · 306万 · 产品与生态] 马斯克版维基百科上新！Grokipedia v0.3发布，目标「银河大百科全书」"
     },
     {
-      "title": "刚刚，谷歌Gemini 4发布！追平Astra，却遭员工背刺：实测编程太吃力",
-      "summary": "谷歌DeepMind正式发布旗舰模型Gemini 4 Argon，输出上限直接扩至100万Token，定价为输入2美元、输出10美元。虽然它在AA智能指数上拿下53分，一举追平OpenAI的GPT-6 Astra，但发布当天就遭自家员工向彭博社背刺。爆料称其在实际编程任务中表现吃力，巨大的参数量和高昂的运行成本甚至可能拖垮谷歌利润率，市场纷纷冷嘲这又是一个「刷分」模型。",
-      "reads": "45万",
+      "title": "OpenAI版Computer Use来了！官方补发Dots演示，却被Windows端Bug抢戏",
+      "summary": "OpenAI 官方补发了个人智能体 Dots 的演示视频，一雪前耻展示了其通过语音指令自主规划行程的强大能力。研究员澄清，Dots 拥有独立计算环境，绝非简单的语音助手，且正推进在欧盟和英国落地。不过，新功能在 Windows 端遭遇了无法调用截图工具的 Bug，官方已紧急介入排查，推测与客户端版本未更新至 26.929 有关。",
+      "reads": "158万",
       "ago": "1 小时前",
-      "category": "模型与能力",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "谷歌DeepMind发布旗舰模型Gemini 4 Argon，输出上限扩展至100万Token。",
-        "模型定价公布：输入2美元，输出10美元。",
-        "基准测试表现亮眼，在AA智能指数中获得53分，成功追平OpenAI现役旗舰GPT-6 Astra。",
-        "彭博社爆料称，谷歌内部员工实测发现该模型在处理某些编程任务时非常吃力，实际表现不如跑分。"
+        "OpenAI 官方发布 Dots 演示视频，展示其通过语音指令自主处理行程规划等复杂任务，弥补了此前因 WiFi 故障导致的演示失败。",
+        "研究员澄清 Dots 与语音助手的本质区别：Dots 拥有独立的计算机，能够编排线程并连接到用户的电脑，而语音只是其单向输出的功能之一。",
+        "官方确认正与相关监管机构合作，计划尽快将 Dots 引入欧盟、欧洲经济区（EEA）及英国市场。",
+        "多位 Windows 用户反馈 Dots 存在 Computer Use 功能缺失的 Bug，新建任务无法获取原生运行时，导致无法调用截图和输入工具。"
       ],
       "quote": {
-        "who": "tae kim",
+        "who": "Chris",
         "role": "",
-        "said": "吹了一整晚牛之后，播客圈那帮看客现在安静得可怕。 市场的结论是，这又是一个像之前所有 Gemini 模型一样专门刷基准测试的模型。市场是对的。"
+        "said": "@reach_vb 另外我又收到了一个更新，但我还在 26.928 不是 929 ):"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 45万 · 模型与能力] 刚刚，谷歌Gemini 4发布！追平Astra，却遭员工背刺：实测编程太吃力"
+      "line": "[榜第2位 · 158万 · 产品与生态] OpenAI版Computer Use来了！官方补发Dots演示，却被Windows端Bug抢戏"
     },
     {
-      "title": "翻车后连夜找补！OpenAI重发Dots演示，自带独立电脑的AI员工真来了",
-      "summary": "OpenAI在DevDay首日演示Dots翻车后，官方火速补发了实机演示视频，并幽默调侃「现在WiFi变好了」。视频展示了Dots通过电话指令，一气呵成地处理洛杉矶行程规划等真实工作场景。研究员特别澄清，Dots绝非单纯的语音助手，它拥有独立的计算机，能够编排线程并连接到用户的电脑。此外，官方确认正与相关部门合作，计划尽快将该服务引入欧盟和英国市场。",
-      "reads": "14万",
-      "ago": "43 分钟前",
+      "title": "刚刚，Claude Code开放Mod！几行代码自定义AI，还能拦截rm -rf",
+      "summary": "Anthropic 正式宣布 Claude Code 支持 Mod（模组）机制，开发者只需几行 TypeScript 或一句提示词，就能完全自定义 AI 的行为、UI 和功能。官方同步推出了可拦截 rm -rf 等高危命令的 Blast Radius，以及预报上下文占用的 Token Weather。Anthropic 研究员表示，Mod 甚至支持派生分支智能体，软件正变得越来…",
+      "reads": "145万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "官方玩梗救场：OpenAI发布Dots补录视频，配文「现在WiFi变好了」，回应首日演示翻车事故。",
-        "真实场景演示：视频展示了用户通过电话告知「明天要去洛杉矶」，Dots随即接管并处理相关行程规划。",
-        "核心定位澄清：OpenAI研究员强调，Dots拥有独立的计算机，能够编排线程并连接用户电脑，语音只是其功能之一。",
-        "单向语音机制：官方指出Dots的语音输出是单向的，即只有在用户主动要求时才会触发工作。"
+        "**Mod 机制上线**：Claude Code 正式支持 Mod，允许开发者通过几行 TypeScript 改变 AI 行为、自定义 UI 或替换功能。",
+        "**AI 帮你写插件**：开发者可以直接通过提示词让 Claude 自动生成 Mod，并通过 /plugin 命令在 CLI 或桌面端安装。",
+        "**高危命令拦截**：官方推出 Blast Radius 模组，可在执行 rm -rf、git reset --hard 等危险命令前进行拦截，并在侧边栏显…",
+        "**上下文预报**：新增 Token Weather 模组，实时显示上下文窗口占用率，并提供过去 12 轮对话的迷你走势图。"
       ],
       "quote": {
-        "who": "AshutoshShrivastava",
+        "who": "Boris Cherny",
         "role": "",
-        "said": "很高兴看到她带着现场演示回归。为她点赞。现场演示总是充满风险，很容易出各种岔子。"
+        "said": "Mods 简直太疯狂了。你现在只需通过提示词，就能把 Claude 定制成你想要的工作方式和外观。 每个人的工作方式都不同，所以没理由让所有人都用一模一样的 Claude。打造你专属的 Claude，并把 mods 当作插件分享，让其他人"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 14万 · 产品与生态] 翻车后连夜找补！OpenAI重发Dots演示，自带独立电脑的AI员工真来了"
+      "line": "[榜第3位 · 145万 · 产品与生态] 刚刚，Claude Code开放Mod！几行代码自定义AI，还能拦截rm -rf"
     },
     {
-      "title": "服务器被挤爆了！GPT-6 Astra廉价版成史上增长最快模型，奥特曼紧急扩容",
-      "summary": "OpenAI CEO 奥特曼亲自确认，GPT-6.1 Sol 已经成为公司史上增长最快的模型。由于近期需求量爆棚导致负载过高，模型响应速度一度变慢，不过目前官方已紧急扩容并恢复速度。与此同时，OpenAI 的年度经常性收入（ARR）已接近 700 亿美元，AI Agent 正成为拉动这波爆发式增长的核心驱动力。",
-      "reads": "27万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "title": "突发！Fable 5.5网页端悄悄上线，纯代码手搓超人动画，超级智能来了？",
+      "summary": "Anthropic 悄悄在网页端开启了 Fable 5.5 的灰度测试，大量用户的查询被自动路由到了这个未发布的新版本。爆料显示，Fable 5.5 在断网状态下依然能准确回答最新热梗，纯靠代码就能生成 20 种不同画风的超人连续动画，SVG 能力远超现役旗舰 Fable 5.1。目前全网都在连夜测试，不少开发者直呼「超级智能时代来了」，并祈祷新模型能做到几乎和 Sonnet…",
+      "reads": "38万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI CEO Sam Altman 宣布，GPT-6.1 Sol 成为公司有史以来增长最快的模型。",
-        "由于近期使用量激增导致负载过高，GPT-6.1 Sol 的响应速度一度受到影响变慢。",
-        "官方现已完成紧急扩容，Altman 确认目前模型速度已经得到显著改善，并得到多位开发者实测证实。",
-        "据记者透露，OpenAI 的年度经常性收入（ARR）已经接近 700 亿美元大关。"
+        "大量用户报告，他们在网页端的查询被自动路由到了未发布的 Fable 5.5 版本。",
+        "在无网络搜索的情况下，Fable 5.5 依然能返回最新结果，甚至在零提示词下准确识别出「tibo reset guy」等网络热梗。",
+        "爆料人展示了 Fable 5.5 仅用纯代码（无 MCP、无 skills、无插件）生成的超人连续动画，涵盖了从公元前 3000 年到 2020 年代的 2…",
+        "初步的 SVG 测试结果显示，Fable 5.5 的表现远超现役旗舰模型 Fable 5.1。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Chetaslua",
         "role": "",
-        "said": "@sama 是的，可以确认。现在快多了。"
+        "said": "蜘蛛侠版本正在酝酿中，一个由代码构成的开放世界 < 我是说真正的实时开放世界，在这里你的想法能变成现实，求求来个富哥砸点 Token 吧，这玩意绝对会火 >"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 27万 · 产品与生态] 服务器被挤爆了！GPT-6 Astra廉价版成史上增长最快模型，奥特曼紧急扩容"
+      "line": "[榜第4位 · 38万 · 模型与能力] 突发！Fable 5.5网页端悄悄上线，纯代码手搓超人动画，超级智能来了？"
     },
     {
-      "title": "一天建一个公司！奥特曼被DevDay开发者震撼，力推「ChatGPT登录」",
-      "summary": "OpenAI DevDay 2026 现场的疯狂热情，直接把奥特曼震撼到了。他深夜发文感慨，看到开发者们利用新发布的 AI 工具，一天之内就能构建出一个完整的初创公司，直呼「太不可思议」。同时他亲自划重点，强调「使用 ChatGPT 登录」和插件扩展的潜力远超大家目前的认知，AI 创业的门槛正在被彻底重塑。",
-      "reads": "22万",
-      "ago": "2 小时前",
+      "title": "挤爆了！6.1 Sol成OpenAI史上增长最快模型，奥特曼官宣紧急扩容完成",
+      "summary": "OpenAI CEO奥特曼刚刚官宣，6.1 Sol成为公司有史以来增长最快的模型！此前因需求激增导致的API和订阅端限速问题，目前已完成紧急扩容，速度全面恢复。与此同时，OpenAI的年经常性收入（ARR）已逼近700亿美元，AI智能体正成为算力需求爆发的全新驱动力。",
+      "reads": "38万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI CEO Sam Altman 在 DevDay 2026 后发文，惊叹现场开发者的热情「太疯狂了」。",
-        "奥特曼特别提到，看到人们利用新工具在一天内就搞出一个完整的初创公司，让他感到不可思议。",
-        "官方亲自划重点：Altman 强调「使用 ChatGPT 登录」（Sign In With ChatGPT）和插件扩展的潜力，远超当前大众的认知。",
-        "现场参会学者证实了这种狂热氛围，表示无数人抱着笔记本电脑，直接用刚发布的 AI 工具现场搞开发。"
+        "OpenAI CEO Sam Altman发文确认，6.1 Sol是公司有史以来增长最快的模型。",
+        "针对此前负载过高导致的限速和延迟问题，奥特曼表示目前已完成紧急扩容，速度已恢复正常。",
+        "有记者透露，OpenAI目前的年经常性收入（ARR）已经接近700亿美元。",
+        "AI智能体（Agents）正成为新的长期需求驱动力，直接引爆了模型使用量。"
       ],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "tae kim",
         "role": "",
-        "said": "@sama 太棒了！我现在还能感受到那种兴奋和正能量！"
+        "said": "投资者们开始意识到，在 AI 算力飙升的大环境下，在一场数万亿美元的历史性 IPO 之前，当每一个数据点都极其看涨时，以 5 倍远期市盈率、380% 的销售额增长和 11 倍的净利润增长买入 Micron 也许是个不错的选择。也许吧。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 22万 · 产品与生态] 一天建一个公司！奥特曼被DevDay开发者震撼，力推「ChatGPT登录」"
+      "line": "[榜第5位 · 38万 · 产品与生态] 挤爆了！6.1 Sol成OpenAI史上增长最快模型，奥特曼官宣紧急扩容完成"
     },
     {
-      "title": "卧槽，Gemini 4 Argon绝对秒杀Astra！价格暴降5倍，谷歌杀回第一",
-      "summary": "Google DeepMind 刚刚推出了全新前沿模型 Gemini 4 Argon，首发价极具攻击性：输入仅 2 美元、输出 10 美元，比 GPT-6 Astra 便宜 5 倍。新模型在多项基准测试中表现强劲，平均跑分反超 Astra 和 Opus 5.5，尤其在网络安全领域拿下 CWE-bench v1 并列第一。目前 Argon 已率先向网络防御者开放，后续将尽快推向更…",
-      "reads": "163万",
-      "ago": "8 小时前",
-      "category": "模型与能力",
+      "title": "一夜暴涨23%！埃森哲狂揽221亿新订单，AI转型让专业服务赢麻了",
+      "summary": "埃森哲最新公布的2026财年第四季度财报全面超预期，营收达到187亿美元，新订单额高达221.7亿美元，直接推动股价单日暴涨23%至224.68美元。相比之下，同期发布财报的耐克营收不及预期，并大幅下调了全年指引。这波财报的「冰火两重天」，充分证明了在企业AI转型的大背景下，专业服务领域依然具备极强的韧性和吸金能力。",
+      "reads": "14万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Google DeepMind 研究员 Logan Kilpatrick 宣布推出全新前沿模型 Gemini 4 Argon，今天起率先向网络防御者开放。",
-        "首发体验价极具攻击性，输入 2 美元、输出 10 美元，比 GPT-6 Astra 便宜 5 倍，比 Opus 5.5 便宜 2 倍。",
-        "首发优惠结束后，Argon 的价格将恢复到输入 4 美元、输出 20 美元，基本与 Opus 持平。",
-        "性能表现强劲，在 Vals Index（68.9%）和 DeepSWE v1.1（77.9%）等基准测试中反超 GPT-6 Astra 和 Claude 系…"
+        "埃森哲公布26财年Q4财报，营收达187亿美元（预期180.3亿美元），同比增长6%。",
+        "每股收益（EPS）为3.29美元（预期3.18美元），调整后同比增长9%。",
+        "业务基本盘稳固，新订单额表现强劲，达到221.7亿美元，同比增长4%。",
+        "受财报全面超预期影响，埃森哲股价单日暴涨23%（+41.31美元），收于224.68美元。"
       ],
       "quote": {
-        "who": "Alex Prompter",
+        "who": "Wall St Engine",
         "role": "",
-        "said": "@OfficialLoganK 我怎么才能在 24 小时内成为一名网络防御者？"
+        "said": "NIKE $NKE 27财年第一季度财报亮点 🔹 营收：112.1亿美元（预期113.2亿美元）🔴；同比-4% 🔹 每股收益：0.48美元（预期0.43美元）🟢；同比-2% 🔹 毛利率：42.8%（预期42.2%）🟢 🔹 净利润：7亿美元；同比-2% 27财年指引： 🔹 调整后每股收益：1.15-1.35美元（预期1.65美元）🔴 🔹 营收：高个位数下滑"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 163万 · 模型与能力] 卧槽，Gemini 4 Argon绝对秒杀Astra！价格暴降5倍，谷歌杀回第一"
+      "line": "[榜第6位 · 14万 · 资本与算力] 一夜暴涨23%！埃森哲狂揽221亿新订单，AI转型让专业服务赢麻了"
     },
     {
-      "title": "刚刚，马斯克版维基百科上新！Grokipedia v0.3发布，剑指银河大百科全书",
-      "summary": "马斯克正式官宣，AI 版维基百科 Grokipedia v0.3 刚刚发布！他不仅亲自下场招人，还放话要打造宏大的「银河大百科全书」。新版本视觉效果大升级，爆料人直呼团队「彻底回来了」。",
-      "reads": "306万",
-      "ago": "11 小时前",
+      "title": "刚刚，奥特曼强推「AI版谷歌登录」！一天建一家公司，ChatGPT终极入口来了",
+      "summary": "OpenAI DevDay 2026 刚落幕，Sam Altman 就发文感叹开发者热情太疯狂，直言「一天建一家初创公司」让人觉得不可思议。他特别点名「使用 ChatGPT 登录」和插件扩展，认为其潜力远超预期，俨然要打造 AI 时代的统一入口。与此同时，新工具 Dots 也在严肃工作场景中大受好评，被学界人士认为比 Grok 更好用。",
+      "reads": "30万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "马斯克正式宣布 Grokipedia 更新至 v0.3 版本。",
-        "官方愿景宏大，马斯克邀请用户加入 SpaceXAI，参与创建「银河大百科全书」（Encyclopedia Galactica）。",
-        "有爆料人激动表示，此次更新标志着团队「彻底回来了」。",
-        "新版本视觉效果大升级，已有 KOL 体验后评价「现在看起来太棒了」。"
+        "Sam Altman 在 DevDay 2026 后发文，盛赞开发者的疯狂热情，对人们一天内构建出完整的初创公司感到不可思议。",
+        "Altman 特别强调，「使用 ChatGPT 登录」（Sign In With ChatGPT）和插件扩展的潜力比想象中大得多。",
+        "有网友向 Altman 提问，长远来看 ChatGPT 和 World 哪个登录方式会是更好的选择。",
+        "学界人士反馈 DevDay 现场氛围极佳，无数人抱着笔记本电脑用新发布的 AI 工具连夜搞开发。"
       ],
       "quote": {
-        "who": "Mark Kretschmann",
+        "who": "Derya Unutmaz, MD",
         "role": "",
-        "said": "@elonmusk @SpaceXAI 现在看起来太棒了！"
+        "said": "@rezmeram 你说残废了是什么意思？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 306万 · 产品与生态] 刚刚，马斯克版维基百科上新！Grokipedia v0.3发布，剑指银河大百科全书"
+      "line": "[榜第7位 · 30万 · 产品与生态] 刚刚，奥特曼强推「AI版谷歌登录」！一天建一家公司，ChatGPT终极入口来了"
+    },
+    {
+      "title": "砸锅卖铁投OpenAI！孙正义清仓英伟达，狂发111亿垃圾债券凑齐尾款",
+      "summary": "软银投资 OpenAI 的巨额交易终于落地，最后的 100 亿美元尾款已正式汇入。为了这笔投资，孙正义不仅清仓了手里全部的英伟达股份来付首付，还因为杠杆太高，不得不发行 111 亿美元的垃圾债券来凑齐尾款。这波「砸锅卖铁」的操作后，软银最终拿下了 OpenAI 约 13% 的股份。",
+      "reads": "17万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "软银（SoftBank）已正式向 OpenAI 汇入最后一笔 100 亿美元资金，标志着该轮巨额融资彻底落地。",
+        "为了支付这笔投资的首付款，孙正义（Masa）卖掉了其持有的全部 Nvidia（英伟达）股份。",
+        "据爆料者透露，由于杠杆率极高，软银甚至不得不发行高达 111 亿美元的垃圾债券，才得以开出这最后一张支票。",
+        "这笔交易全部完成后，软银目前确立了在 OpenAI 股东结构中的重要地位，持有约 13% 的股份。"
+      ],
+      "quote": {
+        "who": "NIK",
+        "role": "",
+        "said": "SoftBank 今天的新闻稿："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 17万 · 资本与算力] 砸锅卖铁投OpenAI！孙正义清仓英伟达，狂发111亿垃圾债券凑齐尾款"
+    },
+    {
+      "title": "大模型搞科研为何这么难？Anthropic官方发文：卡在了「阻抗不匹配」",
+      "summary": "大模型明明能力超强，为什么在科研工作流里总是格格不入？Anthropic官方最新发布了一篇由哈佛物理学家撰写的长文，直指AI与科学领域存在严重的「阻抗不匹配」。这并非单纯的模型能力缺失，而是大模型在落地科学发现时面临的结构性局限。",
+      "reads": "14万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic官方发布Science Blog客座文章，探讨AI在科学领域的落地难题。",
+        "文章作者为哈佛大学物理学家Matthew Schwartz。",
+        "核心观点：AI与科学领域存在类似物理学中的「阻抗不匹配」现象。",
+        "物理学中的「阻抗不匹配」是指两个系统各自运行良好，但相互之间匹配极差。"
+      ],
+      "quote": {
+        "who": "Anthropic",
+        "role": "",
+        "said": "在物理学中，当两个系统各自运行良好但匹配不佳时，就会出现“阻抗不匹配”。 在这篇 Science Blog 的客座文章中，哈佛物理学家 Matthew Schwartz 认为，AI 和科学领域也正在发生类似的事情。大语言模型在很多方面都很能干，但在工作"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 14万 · 模型与能力] 大模型搞科研为何这么难？Anthropic官方发文：卡在了「阻抗不匹配」"
+    },
+    {
+      "title": "突发人事地震！OpenAI连开三名安全元老，议员怒批：这就是在解决吹哨人",
+      "summary": "OpenAI 突发人事大地震，三名对齐与安全研究员因涉嫌向第三方 AI 安全组织泄露敏感信息被直接扫地出门。被开除的包括极具影响力的 CoT 可监控性论文一作 Tomek 和 Mikita。此举直接惹怒了国会议员 Greg Casar，他公开炮轰 OpenAI 是在「开除吹哨人」并要求彻查，而核心人物 Joshua Achiam 也无奈表示这看起来像个「乌龙球」。",
+      "reads": "16万",
+      "ago": "4 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 已解雇三名对齐与安全研究员，原因是他们涉嫌向一家第三方 AI 安全组织分享了敏感信息。",
+        "被开除的员工包括 Tomek 和 Mikita，两人是极具影响力的思维链（CoT）可监控性论文的第一作者。",
+        "国会议员 Greg Casar 公开谴责这一解雇行为，直言这看起来简直就是「开除吹哨人」，并质问 OpenAI 到底在隐藏什么，承诺将要求其提供透明度。",
+        "OpenAI 核心人物 Joshua Achiam 对此回应称，打算等更多信息出来后再下定论，但乍一看这真像是一个「乌龙球」。"
+      ],
+      "quote": {
+        "who": "Andrew Curran",
+        "role": "",
+        "said": "关于第四个名字有很多猜测："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 16万 · 组织与人事] 突发人事地震！OpenAI连开三名安全元老，议员怒批：这就是在解决吹哨人"
+    },
+    {
+      "title": "Suleyman官宣微软王炸！最准实时语音模型登顶，0.13秒响应暴击ElevenLabs",
+      "summary": "微软今日正式发布流式语音转文本模型 MAI-Transcribe-2-Streaming，一举拿下 AA-WER Streaming 基准测试双料冠军。该模型在语音结束后仅需 0.13 秒即可实现 2.5% 的词错率，Mustafa Suleyman 更是直言其比 ElevenLabs 快 55% 且便宜 60%。目前新模型已在 Microsoft Foundry 上线，定价为…",
+      "reads": "14万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "微软发布全新流式语音转文本模型 MAI-Transcribe-2-Streaming，旨在为实时 AI Agent 构建提供底层支持。",
+        "在 AA-WER Streaming 基准测试的 38 个模型中，该模型斩获最终转录和首次部分转录准确率双料第一。",
+        "最终转录性能极佳，在语音结束后 0.13 秒即可实现 2.5% 的词错率（WER），超越 Grok Voice Transcribe 2.0（2.7%）和…",
+        "首次部分转录同样表现优异，0.12 秒延迟下实现 2.5% WER，准确率领先于 ElevenLabs Scribe v2 Realtime（3.6%）。"
+      ],
+      "quote": {
+        "who": "Kol Tregaskes",
+        "role": "",
+        "said": "@mustafasuleyman 太棒了，请问我们什么时候能在 Copilot 里看到这个？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 14万 · 产品与生态] Suleyman官宣微软王炸！最准实时语音模型登顶，0.13秒响应暴击ElevenLabs"
+    },
+    {
+      "title": "顶着华尔街砍价强推IPO！Anthropic誓要感恩节前敲钟，2万亿估值迎大考",
+      "summary": "Anthropic 正在全速冲刺资本市场，定下目标要在11月26日感恩节前完成 IPO。为了应对数据中心的巨额开支和市场对 AI 估值的担忧，公司将于10月14日在旧金山总部召开闭门会议，向精选机构投资者交底。尽管华尔街对其2万亿美元的估值颇有微词，认为砍到1.5万亿才合理，Anthropic 依然决定最快在11月9日当周启动正式路演，试图在年底前通过公开市场验证其商业价值。",
+      "reads": "5.2万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "上市时间表：Anthropic 目标在11月26日（感恩节）假期前正式挂牌交易。",
+        "机构闭门会：10月14日将在旧金山总部举行会议，部分精选机构投资者将有机会向高管提问并查看招股书。",
+        "路演节点：正式的 IPO 路演最快将于11月9日当周启动。",
+        "估值博弈：公司正面临华尔街的估值质疑，市场认为其2万亿美元的估值偏高，更合理的定价应在1.5万亿美元左右。"
+      ],
+      "quote": {
+        "who": "Wall St Engine",
+        "role": "",
+        "said": "Bloomberg 报道，Anthropic 将于 10 月 14 日在旧金山总部会见潜在的 IPO 投资者。 据说在可能于 11 月上市之前，部分精选机构投资者将有机会向高管提问。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 5.2万 · 资本与算力] 顶着华尔街砍价强推IPO！Anthropic誓要感恩节前敲钟，2万亿估值迎大考"
+    },
+    {
+      "title": "刚刚，Grok 4.7上线！Primary Bot接管所有机器人，AI学会主动干活了",
+      "summary": "马斯克的 xAI 又悄悄上大招了！有开发者爆料，Grok 4.7 已经开始在 App 和网页端全平台推送，并开放了账号关联功能。这次最大的亮点是新增了「Primary Bot」主机器人，它不仅能作为核心入口自动把任务路由给其他机器人，还具备了罕见的主动性——比如发现日程冲突时，会自己跳出来提醒你重新安排。Grok 正在从一个被动问答的工具，彻底进化成全能的 AI 大管家。",
+      "reads": "6.2万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Grok 4.7 现已在 App 和平台端同步上线，并向用户开放了账号关联选项。",
+        "xAI 正式推出「Primary Bot」（主机器人）功能，定位为用户的核心 AI 助手，目前正逐步向用户推送。",
+        "Primary Bot 具备强大的路由管理能力，用户下达任何任务，它都能自动识别并分发给最合适的专属机器人处理。",
+        "新版 Grok 获得了「主动出击」的能力，不再局限于被动回答，而是能自行提出有用建议。"
+      ],
+      "quote": {
+        "who": "Andrew Curran",
+        "role": "",
+        "said": "@neogio3d 我发帖前都用 Grok 找新闻，Grok 的搜索是世界级的。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 6.2万 · 产品与生态] 刚刚，Grok 4.7上线！Primary Bot接管所有机器人，AI学会主动干活了"
+    },
+    {
+      "title": "苹果新规惹众怒！知名开发者叫停所有开源发布，Linux和Windows无辜躺枪",
+      "summary": "苹果的一个新协议，直接把跨平台开源项目给干趴下了。知名开发者 steipete 宣布，由于苹果推出了新的开发者协议，他被迫暂停了包括 OpenClaw 在内的所有开源项目发布。更让人无奈的是，因为发布流程是同步进行的，这不仅卡死了 iOS 和 macOS 端，连带着 Linux 和 Windows 平台的更新也全被堵死了。跨平台生态的脆弱性，在这一刻暴露无遗。",
+      "reads": "6.3万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "开发者 steipete 宣布全面暂停其所有开源项目的发布，其中包括知名项目 OpenClaw。",
+        "停更的核心导火索是 Apple（苹果）近期推出了一项全新的开发者协议。",
+        "由于该项目的发布流程采用同步机制（lockstep），苹果的限制直接引发了连锁反应。",
+        "这一变动不仅堵死了 iOS 和 macOS 端的更新路径，还连带阻断了 Linux 和 Windows 平台的版本推送。"
+      ],
+      "quote": {
+        "who": "Peter Steinberger 🦞",
+        "role": "",
+        "said": "@mobfigacrypto 有几个组织、双重认证和用户"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 6.3万 · 产品与生态] 苹果新规惹众怒！知名开发者叫停所有开源发布，Linux和Windows无辜躺枪"
     },
     {
       "title": "刚刚，OpenAI「背刺」开发者！GPT-6 Pro额度腰斩，为IPO强行省钱",
       "summary": "OpenAI 突然宣布，自 2026 年 10 月 30 日起，GPT-6 Pro 订阅套餐的每周消息上限将从 200 条直接腰斩至 100 条。这一举动瞬间引爆了开发者社区的怒火，毕竟 OpenAI 之前还拿费率优势拉踩过 Anthropic。有业内人士一针见血地指出，这波操作纯粹是为了在 IPO 前控制烧钱速度，让账面财务数据更好看。",
       "reads": "16万",
-      "ago": "2 小时前",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -204,14 +379,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 16万 · 产品与生态] 刚刚，OpenAI「背刺」开发者！GPT-6 Pro额度腰斩，为IPO强行省钱"
+      "rank": 15,
+      "line": "[榜第15位 · 16万 · 产品与生态] 刚刚，OpenAI「背刺」开发者！GPT-6 Pro额度腰斩，为IPO强行省钱"
     },
     {
       "title": "OpenAI内部模型攻破千禧年难题！圈内却不买账：一个月了对深度学习毫无用处",
       "summary": "OpenAI 一个未发布的内部模型据称已经解决了 Navier-Stokes 等千禧年难题以及数百个数学开放问题，展现出史无前例的数学推理能力。然而，圈内大佬们对此却并不买账，焦点迅速转移到了该模型在 AI 研发上的实际效用。有研究员指出，学习理论的结果很少对实际的前沿系统产生影响，甚至有人质疑其一个月来都未能产出对深度学习有实质帮助的理论成果。",
       "reads": "18万",
-      "ago": "3 小时前",
+      "ago": "7 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -229,183 +404,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 18万 · 模型与能力] OpenAI内部模型攻破千禧年难题！圈内却不买账：一个月了对深度学习毫无用处"
-    },
-    {
-      "title": "深夜突发！OpenAI开除3名安全研究员，涉嫌向第三方泄密，前联创直呼「乌龙球」",
-      "summary": "OpenAI 内部又起波澜！据 WSJ 报道，因涉嫌向第三方 AI 安全组织分享敏感信息，OpenAI 今日解雇了 3 名对齐与安全研究员。前联合创始人 Joshua Achiam 对此直呼这是一个「乌龙球」，感叹当前超级智能安全领域正处于一个历史性的奇怪时刻。",
-      "reads": "7.9万",
-      "ago": "1 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "据 WSJ 报道，OpenAI 今日解雇了 3 名对齐与安全研究员。",
-        "离职原因被指为向第三方 AI 安全组织分享了敏感信息。",
-        "这一人事变动在正式报道发布前，就已经在 X 平台上引发了广泛讨论。",
-        "前 OpenAI 联合创始人 Joshua Achiam 对此表示震惊，称这看起来像是一个「乌龙球」。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "作者："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 7.9万 · 组织与人事] 深夜突发！OpenAI开除3名安全研究员，涉嫌向第三方泄密，前联创直呼「乌龙球」"
-    },
-    {
-      "title": "Anthropic杀疯了！Opus 5.5登顶险胜GPT-6 Astra，中杯追平旗舰",
-      "summary": "Anthropic 又来炸场了！最新数据显示，Claude Opus 5.5 以 167 分登顶 ECI 榜单，微弱优势险胜 OpenAI 的 GPT-6 Astra。不仅如此，中杯模型 Sonnet 5.5 拿下 165 分，直接追平了自家旗舰 Fable 5.1。在代码能力上，Claude 5.5 系列几乎不偏科，而 GPT-6 Astra 的代码分数却比通用分数低了约 2…",
-      "reads": "7.9万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Epoch AI Research 更新 ECI 榜单，Claude Opus 5.5 以 167 分成功登顶。",
-        "Opus 5.5 以微弱优势领先 OpenAI 现役旗舰 GPT-6 Astra，拿下榜首。",
-        "中杯模型 Claude Sonnet 5.5 获得约 165 分，基本追平自家现役旗舰 Fable 5.1。",
-        "在代码能力（SWE ECI）上，Opus 和 Sonnet 5.5 与通用分数的差距极小，不到 1 分。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@koltregaskes 是啊，你都不知道我对 Fable 5.5 有多期待"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 7.9万 · 模型与能力] Anthropic杀疯了！Opus 5.5登顶险胜GPT-6 Astra，中杯追平旗舰"
-    },
-    {
-      "title": "苹果爆料一哥Gurman专栏播客版上线！首期直指Siri AI接管全家野心",
-      "summary": "苹果爆料一哥 Mark Gurman 的知名专栏 Power On 终于出播客版了！首期节目直接把目光瞄准了苹果的智能家居战略，硬核探讨 Siri AI 到底有没有能力接管你的全家设备。目前这档播客已经同步登陆 Apple、Spotify、YouTube 和 Bloomberg 网站，想听内部爆料的果粉们有新阵地了。",
-      "reads": "6.8万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "知名记者 Mark Gurman 正式推出 Power On 播客，标志着其从单一文字报道向视频化、多媒体转型。",
-        "首期节目主题聚焦 Apple 智能家居战略，探讨苹果接管用户家庭的野心。",
-        "核心议题直指 Siri AI，深度分析其是否已具备接管用户家庭设备的能力。",
-        "播客内容将全面覆盖 Apple 及消费科技领域，为读者提供内部视角与行业洞察。"
-      ],
-      "quote": {
-        "who": "Mark Gurman",
-        "role": "",
-        "said": "YouTube"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 6.8万 · 产品与生态] 苹果爆料一哥Gurman专栏播客版上线！首期直指Siri AI接管全家野心"
-    },
-    {
-      "title": "输出首破100万Token！谷歌Gemini 4 Argon杀出，长推理跑分碾压Astra",
-      "summary": "谷歌正式发布了前沿模型 Gemini 4 Argon，主打长周期工作流的深度推理。最顶的是，它首次把输出上限拉到了 100 万 Token，直接打破了行业普遍的 64K 限制。定价方面也颇具诚意，输入 2 美元、输出 10 美元，在多项基准测试中跑分更是直接碾压了 GPT-6 Astra 和 Claude Opus 5.5。",
-      "reads": "96万",
-      "ago": "10 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "谷歌正式发布前沿模型 Gemini 4 Argon，标志着 Gemini 4 系列正式落地。",
-        "该模型主打长周期工作流中的深度推理，强化了在现实世界软件工程、法律和金融等企业知识工作领域的竞争力。",
-        "输出上限首次扩展至 100 万 Token，显著打破了行业普遍的 64K 限制。",
-        "定价相较于 GPT-6 Astra 具备优势，输入为 2 美元，输出为 10 美元。"
-      ],
-      "quote": {
-        "who": "歸藏(guizang.ai)",
-        "role": "",
-        "said": "还是对谷歌的 Gemini 4 比较期待，它的价格相较于 GPT-6 Astra 确实不是很贵。 而且这次比较亮眼、独有的，应该是它首次将输出长度扩展到了 100 万。 之前我们说的 100 万上下文只是输入长度可以很长，输出的话大部分都是 64K，直接把输出长度扩展到 100 万还是挺顶的。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 96万 · 模型与能力] 输出首破100万Token！谷歌Gemini 4 Argon杀出，长推理跑分碾压Astra"
-    },
-    {
-      "title": "0.13秒极速响应！微软最强实时转录登顶，Mustafa自嗨便宜60%遭数据打脸",
-      "summary": "微软今天正式放出大招，发布了全新的流式语音转文本模型 MAI-Transcribe-2-Streaming，直接在 AA-WER Streaming 基准测试中拿下双料第一。新模型在语音结束后仅需 0.13 秒就能实现 2.5% 的词错率，微软 AI 负责人 Mustafa Suleyman 更是高调宣称其比 ElevenLabs 快 55%、便宜 60%。不过尴尬的是，第三方…",
-      "reads": "5.4万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Microsoft AI 发布全新流式语音转文本模型 MAI-Transcribe-2-Streaming，在 AA-WER Streaming 基准测试中…",
-        "在最终转录性能上，该模型在语音结束后 0.13 秒实现 2.5% 的词错率（WER），准确率超越 Grok Voice Transcribe 2.0（2.7…",
-        "在首次部分转录上，模型在语音结束后 0.12 秒实现 2.5% WER，领先于 Grok Voice Transcribe 2.0 的 3.4% WER，并…",
-        "微软 AI 负责人 Mustafa Suleyman 发文宣称，新模型是全球最准确的实时转录模型，且比 ElevenLabs 快 55%、便宜 60%。"
-      ],
-      "quote": {
-        "who": "Mustafa Suleyman",
-        "role": "",
-        "said": "所有模型今天都在 Microsoft Foundry 上线了。 我们也很高兴能把这些模型引入到你每天都在用的工具里，比如 Vercel 和 OpenRouter。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 5.4万 · 产品与生态] 0.13秒极速响应！微软最强实时转录登顶，Mustafa自嗨便宜60%遭数据打脸"
-    },
-    {
-      "title": "GPT-6.1 Sol遭开发者嫌弃！Opus 5.5凭「品味」反杀，前端圈集体倒戈",
-      "summary": "GPT-6.1 Sol 效率虽高，但在前端开发者眼里却输在了「品味」上。近日，知名开发者发文吐槽 Sol 缺乏设计感，坦言目前更偏好 Anthropic 的 Opus 5.5 和 Sonnet 5.5。这一观点引发社区强烈共鸣，不少人认为 Claude 在设计与视觉层面已经稳赢，OpenAI 的计算机使用魔法也难以弥补审美上的短板。",
-      "reads": "7.2万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "知名开发者发文指出，虽然 GPT-6.1 Sol 非常高效，但目前更偏好 Opus 5.5 和 Sonnet 5.5。",
-        "Anthropic 成功找回了 Claude 极佳的「品味」，新模型在速度和效率上表现优异。",
-        "该开发者直言，GPT-6.1 Sol 缺乏良好的品味，在前端设计与美学层面表现不足。",
-        "社区对这一观点产生强烈共鸣，多位开发者附和称 Claude 模型在设计和视觉方面已经胜出。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@BenPielstick 是啊，特别是 Sol 品味太差了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 7.2万 · 模型与能力] GPT-6.1 Sol遭开发者嫌弃！Opus 5.5凭「品味」反杀，前端圈集体倒戈"
-    },
-    {
-      "title": "马斯克深夜祭出主控Agent！Grok Bot变身大管家，连Cursor都塞进全家桶了",
-      "summary": "马斯克的 xAI 开始搞生态闭环了。最新爆料显示，Grok Bot 即将上线「Primary Bot」主控 Agent，能主动帮你把任务分发给最合适的子 Bot。同时曝光的还有全新统一订阅服务 𝕏Pass，一口气打包了 𝕏Premium、Grok、Cursor 和 Grok Bot 四大神器，不过具体定价和上线时间还得等官方揭晓。",
-      "reads": "5.4万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "xAI 曝光全新主控机器人「Primary Bot」，定位为管理其他机器人的核心 AI 助手。",
-        "Primary Bot 具备主动执行能力，用户只需下达任务，它会自动路由分发给最合适的子 Bot 处理。",
-        "统一订阅服务 𝕏Pass 界面流出，主打「一个订阅搞定一切」的捆绑策略。",
-        "𝕏Pass 确认整合四大核心产品：𝕏Premium、Grok、Cursor 以及 Grok Bot。"
-      ],
-      "quote": {
-        "who": "Kol Tregaskes",
-        "role": "",
-        "said": "@nima_owji 为什么不在 Premium 里加个 Grok Bot？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 5.4万 · 产品与生态] 马斯克深夜祭出主控Agent！Grok Bot变身大管家，连Cursor都塞进全家桶了"
+      "line": "[榜第16位 · 18万 · 模型与能力] OpenAI内部模型攻破千禧年难题！圈内却不买账：一个月了对深度学习毫无用处"
     }
   ],
   "board_count": 16,
