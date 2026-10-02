@@ -3,40 +3,265 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-02 10:12:48 +0800",
+  "fetched_at": "2026-10-02 17:39:21 +0800",
   "today": "10/02",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "马斯克版维基百科上新！Grokipedia v0.3发布，目标「银河大百科全书」",
-      "summary": "马斯克宣布，Grokipedia v0.3 正式发布！他向全网发出邀请，号召大家加入 SpaceXAI，共同创建「银河大百科全书」。新版本不仅大幅提升了可读性，还加入了大量图文与 3D 动画，惊艳的前端视觉效果让开发者直呼「太棒了」。",
-      "reads": "511万",
-      "ago": "5 小时前",
+      "title": "每月100美元！OpenAI重发Dots演示：自带云电脑，硬刚Meta免费Agent",
+      "summary": "昨天因WiFi故障翻车的OpenAI新智能体Dots，今天终于放出了满血版实机演示。研究员澄清，Dots绝非单向语音助手，而是拥有独立云端电脑、能多线程接管本地设备的真正Agent。面对Meta同类产品的免费策略，OpenAI开出了每月100美元的高价，目前正全力推进欧盟及英国地区的合规落地。",
+      "reads": "310万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "马斯克官宣 Grokipedia v0.3 正式发布，邀请用户加入 SpaceXAI。",
-        "终极目标曝光：马斯克号召大家共同创建「银河大百科全书」（Encyclopedia Galactica）。",
-        "新版本在可读性上大幅提升，新增了大量图文与 3D 动画内容。",
-        "前端视觉效果引发热议，有开发者惊叹「现在看起来太棒了」「前端是怎么做的」。"
+        "OpenAI官方发布Dots的高清演示视频，修复了昨日发布会因WiFi不佳导致的直播翻车事故。",
+        "视频展示了Dots强大的自主规划能力，仅凭语音指令即可完成洛杉矶行程的电话协调与日程编排。",
+        "OpenAI研究员强调，Dots拥有独立的云端计算机架构，能够编排多线程并直接连接用户的本地电脑。",
+        "针对外界误解，官方澄清语音只是Dots的功能之一，其核心在于全天候的双向自主操作，而非单向输出。"
       ],
       "quote": {
-        "who": "can",
+        "who": "NIK",
         "role": "",
-        "said": "@Angaisb_ 哇，前端是怎么做的？看起来太棒了"
+        "said": "@OpenAIDevs 顺便说一句，关于这个被限流的事，有一条社区笔记"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 511万 · 产品与生态] 马斯克版维基百科上新！Grokipedia v0.3发布，目标「银河大百科全书」"
+      "line": "[榜第1位 · 310万 · 产品与生态] 每月100美元！OpenAI重发Dots演示：自带云电脑，硬刚Meta免费Agent"
+    },
+    {
+      "title": "刚刚，马斯克挥刀砍向AI5内存！直接少一半，为保擎天柱量产拼了",
+      "summary": "马斯克刚刚确认，为了保证Optimus机器人的量产产能并大幅降低成本，特斯拉AI5芯片的内存被砍掉一半至96GB，AI6芯片内存也削减了三分之一至144GB。他表示这一决定对机器人的性能影响微乎其微。业内人士指出，此举暴露出存储芯片供应链的严重紧缺，反而可能利好美光等内存大厂。",
+      "reads": "167万",
+      "ago": "56 分钟前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "马斯克发推确认，特斯拉AI5芯片的内存被砍掉一半，AI6芯片的内存被砍掉三分之一。",
+        "AI5芯片内存原计划降至72GB LP5，后为避免成为唯一使用最低内存版的公司，微调提升至96GB。",
+        "AI6芯片内存现降至144GB LP6。",
+        "马斯克解释，这是为了获取足够的产能以满足Optimus机器人的量产需求，同时大幅降低成本。"
+      ],
+      "quote": {
+        "who": "Elon Musk",
+        "role": "",
+        "said": "@DirtyTesLa 实际上，我们决定把 AI5 稍微提升到 96GB，不然 Tesla 就会成为唯一一家使用最低内存版 LP5 的公司了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 167万 · 资本与算力] 刚刚，马斯克挥刀砍向AI5内存！直接少一半，为保擎天柱量产拼了"
+    },
+    {
+      "title": "刚刚，Claude Code上线史诗级Mod！几行代码爆改AI，拦截rm -rf神级保命",
+      "summary": "刚刚，Anthropic 为 Claude Code 推出重磅更新「Mods」，允许开发者用几行 TypeScript 或直接通过提示词，全面自定义 AI 的行为、UI 和核心功能。官方同步上线了能拦截 rm -rf 等高危命令的 Blast Radius、监控上下文的 Token Weather 等预置功能。这标志着 AI 编程助手正式开启了类似游戏 Mod 的高自由度扩展生…",
+      "reads": "324万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "核心机制：开发者可通过几行 TypeScript 或直接向 Claude 下达提示词编写 Mod，全面自定义 Claude Code 的行为、UI 及专属功…",
+        "神级保命功能：官方预置的 Blast Radius 机制可在 rm -rf、git reset --hard 或 force push 等高危 shell…",
+        "上下文监控：新增 Token Weather 功能，直观展示当前上下文窗口的占用率，并附带过去 12 轮对话的迷你走势图。",
+        "代码回放：Replay Theater 会记录 Claude 在一轮对话中的每一次文件编辑，运行 /replay 即可在停靠面板中逐个查看代码差异。"
+      ],
+      "quote": {
+        "who": "Max For AI",
+        "role": "",
+        "said": "牛逼，现在 Claude Code 可以自己改自己了！！ 刚刚 Anthropic 给 Claude Code 上线了一个新东西：Mods。 简单来说就是，现在你可以让 Claude 直接改 Claude Code 自己了。 以前的 Skill、MCP、Plugin，更多还是给 Claude 增加知识、工具和工作流。 Mod它本质上是一组 JavaScript / TypeScript"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 324万 · 产品与生态] 刚刚，Claude Code上线史诗级Mod！几行代码爆改AI，拦截rm -rf神级保命"
+    },
+    {
+      "title": "毫无防备！Fable 5.5网页端偷跑，纯代码手搓3D动画，Opus 5.5母模型杀疯了",
+      "summary": "Anthropic 下一代旗舰 Fable 5.5 在网页端悄悄开启灰度测试了！多位开发者实测发现，它不仅能在无提示词、无网搜的情况下秒懂最新网络梗，SVG 和代码能力更是远超现役的 Fable 5.1。更绝的是，它无需 MCP 或任何插件，仅靠纯代码就能一镜到底生成复杂的 3D 动画。作为 Opus 5.5 的蒸馏母模型，Fable 5.5 展现出的底层智能上限让全网沸腾，甚…",
+      "reads": "107万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 正在网页端灰度测试未官宣的 Fable 5.5 模型，部分用户的查询已被自动路由至该版本。",
+        "具备极强的零样本感知能力，在无提示词的情况下，自动识别用户身份并生成带旧金山时间戳的 X 平台对话截图。",
+        "突破了无网搜的限制，在没有网络搜索的情况下依然能返回最新的结果，秒懂「tibo reset guy」等网络梗。",
+        "SVG 和代码能力远超现役旗舰 Fable 5.1，无需 MCP、skills 或插件，纯靠代码即可一镜到底生成不同艺术风格的超人连续动画。"
+      ],
+      "quote": {
+        "who": "Chetaslua",
+        "role": "",
+        "said": "@AlLeakWire 有新玩具可以玩了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 107万 · 模型与能力] 毫无防备！Fable 5.5网页端偷跑，纯代码手搓3D动画，Opus 5.5母模型杀疯了"
+    },
+    {
+      "title": "赶紧把额度烧完！ChatGPT付费账号明早全局重置，GPT-6.1 Sol满血复活",
+      "summary": "OpenAI 官方宣布，所有付费 ChatGPT 账号将在太平洋时间 10 月 2 日上午 10 点（北京时间 10 月 3 日凌晨 1 点）迎来全局额度重置。这是此前 Codex 宕机事件后的最新补偿，多位博主呼吁大家在重置前赶紧把现有额度烧完。同时，官方确认 GPT-6.1 Sol 在熬过前两天的巨大负载激增后，目前已恢复到预期的极速状态。",
+      "reads": "149万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 研究员 Tibo 宣布，所有付费 ChatGPT 账号将于太平洋时间 10 月 2 日上午 10 点执行全球额度重置。",
+        "此次重置是针对此前 Codex 宕机事件的最新补偿措施，旨在解决用户因服务中断导致的额度损失问题。",
+        "官方就 GPT-6.1 Sol 上线初期的缓慢响应正式致歉，确认在经历前两天的巨大负载峰值后，模型现已恢复到预期速度。",
+        "经过时区换算，国内的重置时间为北京时间 10 月 3 日凌晨 1 点，有中文博主提醒大家注意时间差。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@CuriousKarthike 是的，可能就是这个原因"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 149万 · 产品与生态] 赶紧把额度烧完！ChatGPT付费账号明早全局重置，GPT-6.1 Sol满血复活"
+    },
+    {
+      "title": "马斯克惊呼超级智能！AI仅用18个月碾压人类会计，研究者吓到不敢发表",
+      "summary": "AI 淘汰白领的进度条又拉快了。最新研究显示，前沿 AI 模型在真实会计任务上已经全面碾压人类，甚至击败了参与测试的 12 位顶尖 CPA。仅仅 18 个月前，AI 的得分还不到普通会计师的 37%，如今却已近乎完美，惊人的进化速度让研究者一度不敢发表论文，连马斯克都忍不住惊呼「超级智能来了」。",
+      "reads": "49万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "最新研究雇佣了 12 位 CPA（注册会计师），让他们与过去几年的 AI 模型在 4 项真实会计任务上进行对决。",
+        "结果显示，在中等长度、定义明确的会计任务上，前沿 AI 模型不仅比初级会计师更快、更准，甚至击败了研究中最优秀的人类会计师。",
+        "AI 的进化速度极其惊人：就在 18 个月前，最好的 AI 模型得分还远低于普通会计师约 37% 的水平。",
+        "截至 2025 年 5 月，人类会计师的表现还能勉强压制 AI，但今天的前沿模型在相同任务上已经近乎完美。"
+      ],
+      "quote": {
+        "who": "Elon Musk",
+        "role": "",
+        "said": "超级智能（以前叫 AI）现在能在会计考试里拿高分了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 49万 · 模型与能力] 马斯克惊呼超级智能！AI仅用18个月碾压人类会计，研究者吓到不敢发表"
+    },
+    {
+      "title": "受够了AI味？Karpathy祭出奇招：用1986年航空规范写Prompt",
+      "summary": "苦于大模型生成的文字总有一股「AI味」？AI 大佬 Andrej Karpathy 刚刚分享了一个屡试不爽的奇招：在 Prompt 里要求模型使用 ASD-STE100 规范进行输出。这套诞生于 1986 年的受控语言规范，原本是专为飞机维修手册设计的，如今却成了消除 AI 冗余表达的神器。网友惊呼：原来航空业在 38 年前就解决了 AI 垃圾内容的问题！",
+      "reads": "106万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Andrej Karpathy 提出利用 ASD-STE100 规范来优化大语言模型的输出质量，消除常见的冗余表达和「AI味」。",
+        "ASD-STE100 是一种受控语言规范，最初在 1986 年专为航空维修手册开发，旨在限制语法和词汇复杂度。",
+        "Karpathy 建议在提示词中直接要求 LLM 用该规范来解释事物，他表示这一招「屡试不爽」。",
+        "有 KOL 挖出该规范的背景故事，感叹「航空业在 1986 年就已经解决了 AI 垃圾内容（AI slop）的问题」。"
+      ],
+      "quote": {
+        "who": "Aakash Gupta",
+        "role": "",
+        "said": "航空业在 1986 年就解决了 AI 垃圾内容的问题。 Karpathy 告诉大家，让大语言模型用 ASD-STE100 来写作，这是一种专为飞机维修手册设计的受控语言。我深挖了一下这个规范的来源，背后的故事让这个技巧显得更妙了。 早在"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 106万 · 产品与生态] 受够了AI味？Karpathy祭出奇招：用1986年航空规范写Prompt"
+    },
+    {
+      "title": "实测来了！OpenAI研究员晒Dots战绩：48小时清空9000封未读邮件",
+      "summary": "OpenAI研究员Thibault Sottiaux晒出了个人智能体Dots的最新实测战绩。它不仅能根据想法或图片生成宠物并设为头像，还接管了繁杂的邮件处理任务。目前Dots已将未读邮件从9000多封砍到了6110封，并挑战在未来48小时内实现收件箱彻底清零，全天候AI管家的实用性正在被验证。",
+      "reads": "46万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI研究员Thibault Sottiaux展示了个人智能体Dots的最新实测能力。",
+        "Dots支持高度个性化定制，用户可以直接要求它「创建一个宠物并设为头像」。",
+        "生成的宠物头像可以基于用户的想法、图片或几乎任何素材，并展示在名为infinity的助手界面中。",
+        "在邮件处理任务中，Dots已成功将未读邮件数量从9000多封大幅减少至6110封。"
+      ],
+      "quote": {
+        "who": "Tibo",
+        "role": "",
+        "said": "未读邮件从刚才的 9000 多封降到 6110 封了。接下来 48 小时内，我要用干净的过滤器实现收件箱清零。Dot 已经接受了挑战。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 46万 · 产品与生态] 实测来了！OpenAI研究员晒Dots战绩：48小时清空9000封未读邮件"
+    },
+    {
+      "title": "刚刚，视频图灵测试被攻破！48%人类跟AI聊完以为是真人，拿下英伟达基准第一",
+      "summary": "Tavus 正式推出首个人类交互模型（HIM）Griffin，一举攻破视频图灵测试。在实时对话中，高达 48% 的人将其误认为真人，远超此前不到 3% 的系统通过率，并拿下 NVIDIA 全双工 AI 视频基准测试第一。此外，连续 19 个赛季无败绩的 NFL 钢人队主帅 Mike Tomlin，被曝出私下花十年时间建了一座庞大的 Minecraft 城市。",
+      "reads": "57万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Tavus 推出首个人类交互模型（HIM）Griffin，成为首个通过视频图灵测试的 AI 模型。",
+        "实时对话测试显示，48% 的参与者将 Griffin 误认为是真人，而此前同类系统的通过率还不到 3%。",
+        "在 Tavus 的独立研究中，120 人观看 90 秒的视频通话，45% 的人认定屏幕里的 AI 是真人。",
+        "更有趣的是，当另外 120 人观看两个真人交谈时，28% 的人反而认定其中一个是机器。"
+      ],
+      "quote": {
+        "who": "Aakash Gupta",
+        "role": "",
+        "said": "想看我没有算法过滤的所有观点，请订阅我的 newsletter："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 57万 · 产品与生态] 刚刚，视频图灵测试被攻破！48%人类跟AI聊完以为是真人，拿下英伟达基准第一"
+    },
+    {
+      "title": "刚刚，Netflix砸5.87亿美元买下大本AI公司！16人团队人均3700万",
+      "summary": "谁能想到，好莱坞巨星本·阿弗莱克（大本）摇身一变成了硬核AI创业者。Netflix刚刚在SEC文件中确认，斥资5.87亿美元现金收购了大本创立的16人AI初创公司InterPositive，算下来人均估值高达3700万美元。大本不仅亲自下场，还满嘴「解冻权重」「微调电影层」，甚至被大佬调侃是好莱坞版的Karpathy，属实把跨界玩明白了。",
+      "reads": "11万",
+      "ago": "1 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Netflix在SEC文件中确认，以5.87亿美元现金收购Ben Affleck于2022年创立的AI初创公司InterPositive。",
+        "该公司仅有16名员工，此次全现金收购意味着单名员工的平均估值高达约3700万美元。",
+        "技术路线上，大本透露团队通过解冻开源视频模型的权重，并专门微调「最后的电影层」，以达到真实的电影制作标准。",
+        "极具戏剧性的是，大本在2026年2月还公开表示AI「只是类似VFX的工具」「写不出任何有意义的东西」，几个月后就完成了惊天收购。"
+      ],
+      "quote": {
+        "who": "Rohan Paul",
+        "role": "",
+        "said": ""
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 11万 · 资本与算力] 刚刚，Netflix砸5.87亿美元买下大本AI公司！16人团队人均3700万"
     },
     {
       "title": "OpenAI研究员摊牌了！主Dot近乎无限用，传统额度重置正式成为历史",
       "summary": "OpenAI的额度重置机制迎来巨变。研究员Tibo证实，由于Primary Dot目前使用量近乎无限，官方已无法提供传统的额度重置服务，正紧急制定新方案。社区分析指出，这标志着OpenAI的计费逻辑正从简单的Token计数，全面转向基于Agent行为的复杂模型，不少开发者担忧后续将面临更严格的限制。",
-      "reads": "145万",
-      "ago": "2 小时前",
+      "reads": "184万",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -54,114 +279,114 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 145万 · 产品与生态] OpenAI研究员摊牌了！主Dot近乎无限用，传统额度重置正式成为历史"
+      "rank": 11,
+      "line": "[榜第11位 · 184万 · 产品与生态] OpenAI研究员摊牌了！主Dot近乎无限用，传统额度重置正式成为历史"
     },
     {
-      "title": "昨天WiFi翻车，OpenAI重演Dots演示！独立接管电脑，Windows版却爆Bug",
-      "summary": "昨天因WiFi故障翻车后，OpenAI官方今天重演了Dots个人助手的现场演示，展示其自主规划行程等复杂任务的能力。研究员澄清Dots拥有独立计算机环境，能连接本地电脑且支持双向语音交互，并确认正推动其进入欧盟和英国市场。不过，多位开发者反馈Windows版Dots存在Computer Use工具缺失的Bug，官方已介入排查26.928与26.929版本的兼容性问题。",
-      "reads": "214万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI官方重演Dots演示，展示用户通过语音指令让其自主处理去洛杉矶见面的行程规划等任务。",
-        "研究员澄清Dots拥有独立计算机环境，能够编排线程并连接用户的本地电脑。",
-        "Dots的语音功能是双向交互，而非单向输出，且语音只是其功能之一。",
-        "官方确认正在与监管机构合作，尽快将Dots服务引入欧盟、欧洲经济区和英国市场。"
-      ],
-      "quote": {
-        "who": "Chris",
-        "role": "",
-        "said": "@reach_vb 另外我又收到了一个更新，但我还在 26.928 不是 929 ):"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 214万 · 产品与生态] 昨天WiFi翻车，OpenAI重演Dots演示！独立接管电脑，Windows版却爆Bug"
-    },
-    {
-      "title": "深夜突发！Fable 5.5网页端悄悄灰度，纯代码手捏JS视频，SVG能力远超5.1",
-      "summary": "Anthropic 新一代旗舰 Fable 5.5 悄悄在网页端开启了灰度测试，大量用户的查询正被自动路由。新模型不仅断网也能返回最新结果，SVG 生成能力更是远超现役的 Fable 5.1，甚至能纯代码手捏 JS 视频。更有爆料指出，现有的 Opus 5.5 仅仅是从 Fable 蒸馏而来，完全体的 Fable 5.5 恐将带来真正的超级智能。",
-      "reads": "56万",
+      "title": "Agent要自己花钱了！ChatGPT惊现钱包入口，GPT-6.1 Sol即将推送",
+      "summary": "ChatGPT 应用内悄悄上线了标有「Coming Soon」的 Wallet 入口，据爆料这是专供 Dots 智能体自主购物的支付基础设施。与此同时，World app 也正式改名为 World Money 转型真实钱包，且界面可能正被整合为虚拟账户。此外，GPT-6.1 Sol 模型将在未来一周内分阶段上线 Copilot 聊天模式，预计很快也会进入 ChatGPT 主应用…",
+      "reads": "7.5万",
       "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "网页端灰度测试：大量用户报告查询被自动路由至 Fable 5.5，且在无网络搜索情况下也能返回最新结果。",
-        "零提示词懂梗：有开发者发现，Fable 5.5 在无提示词的情况下，准确识别了「tibo reset guy」的梗，并生成了带旧金山时间戳的 X 平台对话截…",
-        "代码与视觉能力爆炸：初步测试显示，Fable 5.5 的 SVG 生成能力远超现役版本 Fable 5.1，甚至能在无 MCP、无 skills、无 plu…",
-        "动态艺术风格生成：演示显示，Fable 5.5 能够生成包含 20 种不同艺术风格的超人连续动画（3000 BC 到 2020s），还能根据经过的图片动态变…"
-      ],
-      "quote": {
-        "who": "ℏεsam",
-        "role": "",
-        "said": "我觉得我们的脑子还没准备好迎接 Fable 5.5 那种疯狂级别的设计。 记住，Opus 5.5 是从 Fable 蒸馏出来的。所以如果那个已经让你惊艳，这个绝对会烧干你的大脑。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 56万 · 模型与能力] 深夜突发！Fable 5.5网页端悄悄灰度，纯代码手捏JS视频，SVG能力远超5.1"
-    },
-    {
-      "title": "刚刚，Claude Code开放Mod！几行代码自定义AI，还能拦截rm -rf",
-      "summary": "Anthropic 正式宣布 Claude Code 支持 Mod（模组）机制，开发者只需几行 TypeScript 或一句提示词，就能完全自定义 AI 的行为、UI 和功能。官方同步推出了可拦截 rm -rf 等高危命令的 Blast Radius，以及预报上下文占用的 Token Weather。Anthropic 研究员表示，Mod 甚至支持派生分支智能体，软件正变得越来…",
-      "reads": "216万",
-      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "**Mod 机制上线**：Claude Code 正式支持 Mod，允许开发者通过几行 TypeScript 改变 AI 行为、自定义 UI 或替换功能。",
-        "**AI 帮你写插件**：开发者可以直接通过提示词让 Claude 自动生成 Mod，并通过 /plugin 命令在 CLI 或桌面端安装。",
-        "**高危命令拦截**：官方推出 Blast Radius 模组，可在执行 rm -rf、git reset --hard 等危险命令前进行拦截，并在侧边栏显…",
-        "**上下文预报**：新增 Token Weather 模组，实时显示上下文窗口占用率，并提供过去 12 轮对话的迷你走势图。"
+        "ChatGPT 应用内出现标有「Coming Soon」的 Wallet 功能入口。",
+        "几乎同一时间，World app 宣布改名为 World Money，正式转型为真实钱包。",
+        "爆料指出，ChatGPT 里的 Wallet 极可能是为 Dots 智能体提供自主购物和支付支持。",
+        "开发者发现，Wallet 界面目前可能正被 Virtual Account（虚拟账户）取代或整合。"
       ],
       "quote": {
-        "who": "Boris Cherny",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "Mods 简直太疯狂了。你现在只需通过提示词，就能把 Claude 定制成你想要的工作方式和外观。 每个人的工作方式都不同，所以没理由让所有人都用一模一样的 Claude。打造你专属的 Claude，并把 mods 当作插件分享，让其他人"
+        "said": "GPT-6.1 Sol 肯定很快就会上线 ChatGPT 聊天模式，因为它“在未来一周内会分阶段”上线 Copilot 聊天。🤔"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 216万 · 产品与生态] 刚刚，Claude Code开放Mod！几行代码自定义AI，还能拦截rm -rf"
+      "rank": 12,
+      "line": "[榜第12位 · 7.5万 · 产品与生态] Agent要自己花钱了！ChatGPT惊现钱包入口，GPT-6.1 Sol即将推送"
     },
     {
-      "title": "内存直接砍半！马斯克证实Tesla AI5大缩水，全为Optimus量产让路",
-      "summary": "马斯克亲自证实了Tesla AI芯片的规格缩水传闻。为了保证Optimus机器人的量产产能并大幅降低成本，Tesla AI5芯片的内存直接砍半至72GB LP5，下一代AI6的内存也减少了三分之一至144GB LP6。虽然硬件大缩水，但马斯克表示这对机器人的实际性能影响微乎其微，这也侧面暴露了当前内存供应链的极度紧张。",
-      "reads": "85万",
-      "ago": "3 小时前",
+      "title": "最新报告：企业AI支出下降！开源占比不足5%，钱全让OpenAI和Anthropic赚了",
+      "summary": "最新发布的 Ramp AI Index 显示，受前沿模型降价及轻量版模型普及影响，企业 AI 支出出现下降趋势，并在 7 月份达到峰值。值得注意的是，尽管开源模型备受关注，但其在企业支出中的占比仍不足 5%。分析指出，这主要是因为开源模型单价低廉，且企业绝大部分资金依然直接流向了 OpenAI 和 Anthropic。",
+      "reads": "26万",
+      "ago": "6 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "马斯克在X上正式确认，Tesla AI5芯片的内存容量被削减了一半，目前规格定为72GB LP5。",
-        "下一代Tesla AI6芯片的内存同样遭到削减，减少了三分之一，最终规格为144GB LP6。",
-        "此次大幅削减内存的核心原因，是为了突破Optimus机器人量产过程中的产能瓶颈。",
-        "马斯克强调，这一决策不仅能保证足够的供应量，还能大幅降低硬件成本。"
+        "最新 Ramp AI Index 显示，企业 AI 支出出现下降趋势，支出峰值出现在 7 月份。",
+        "支出下降的主要原因是前沿模型大降价，以及标准版和轻量版模型变得更便宜、更高效，拉低了整体使用成本。",
+        "开源模型在企业 AI 支出中的占比依然不足 5%。",
+        "分析指出，开源占比低一方面是因为其本身便宜，另一方面是企业在 OpenAI 和 Anthropic 上的花费要多得多。"
       ],
       "quote": {
-        "who": "Milk Road AI",
+        "who": "Ara Kharazian",
         "role": "",
-        "said": "Elon 真的在削减每块芯片的内存，因为供应量不足以满足 Tesla 对 Optimus 的需求量。 我手里的 $MU 股票真的不够多。"
+        "said": "@menhguin 公司和个人都在用 vercel 访问开源模型。而这些公司直接花在 OpenAI 和 Anthropic 上的钱要多得多得多"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 85万 · 资本与算力] 内存直接砍半！马斯克证实Tesla AI5大缩水，全为Optimus量产让路"
+      "rank": 13,
+      "line": "[榜第13位 · 26万 · 资本与算力] 最新报告：企业AI支出下降！开源占比不足5%，钱全让OpenAI和Anthropic赚了"
+    },
+    {
+      "title": "谷歌DeepMind登Nature！SynthID蛋白质版开源，AI生成生命代码全打水印",
+      "summary": "谷歌 DeepMind 在《Nature》上重磅发布了全球首创的 AI 蛋白质水印技术 SynthID Bio，并宣布开源供研究使用。这项技术能在完全不改变蛋白质生物学功能的前提下，将不可见签名直接嵌入氨基酸序列中，相当于给 AI 生成的生命代码发了一张「数字身份证」。劈柴哥盛赞这是生物安全的一大步，而网友则脑洞大开：「所以现在能给人类打水印了？」",
+      "reads": "41万",
+      "ago": "7 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "谷歌 DeepMind 在《Nature》发表最新研究，推出专为 AI 生成生物设计打造的水印方法系列 SynthID Bio。",
+        "该技术为全球首创，可将难以察觉的签名直接嵌入蛋白质序列中，且完全不影响其生物学功能。",
+        "SynthID Bio 相当于合成蛋白质的「数字身份证」，能帮助 DNA 实验室验证设计是否来自带有内置安全保障的 AI。",
+        "谷歌宣布将这些工具在开放基础上发布，供研究使用，以加强自动化筛查并防止有害蛋白质产生。"
+      ],
+      "quote": {
+        "who": "Sundar Pichai",
+        "role": "",
+        "said": "在忙碌的一周里，我们用于 AI 设计蛋白质的水印技术 SynthID Bio，在科学诚信和生物安全方面迈出了一大步！祝贺 @GoogleDeepMind 团队"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 41万 · 政策与安全] 谷歌DeepMind登Nature！SynthID蛋白质版开源，AI生成生命代码全打水印"
+    },
+    {
+      "title": "破案了！GPT-6 Astra极速版底座曝光，Blackwell实锤干翻Cerebras",
+      "summary": "NVIDIA 官方正式确认，OpenAI GPT-6 Astra 的 Ultrafast 模式运行在 Blackwell 硬件集群上，而非此前外界推测的 Cerebras 芯片。该模式 Token 生成速度最高可达标准版的 8 倍，约 300 tok/s。值得一提的是，OpenAI 还利用内部模型专门针对 NVIDIA GPU 优化了推理内核，顶级大模型极速推理的算力底座之争终…",
+      "reads": "26万",
+      "ago": "7 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "NVIDIA 官方发文证实，OpenAI GPT-6 Astra Ultrafast 模式运行在 NVIDIA 的硬件基础设施上。",
+        "有媒体进一步确认，该极速模式的具体算力底座为 NVIDIA Blackwell 硬件集群。",
+        "这一消息终结了此前关于算力底座的猜测，标志着 GPT-6.1 弃用 Cerebras 改用 NVIDIA 的故事线进入最新阶段。",
+        "Astra Ultrafast 模式的 Token 生成速度最高可达 Astra 标准版的 8 倍，约为 300 tok/s。"
+      ],
+      "quote": {
+        "who": "Wall St Engine",
+        "role": "",
+        "said": "$NVDA 确认 GPT-6 ASTRA ULTRAFAST 跑在 BLACKWELL 上 Astra Ultrafast 的 Token 生成速度最高可达 Astra Standard 的 8 倍。 OpenAI 用自己的内部模型优化了在 NVIDIA GPU 上的推理，包括围绕 Blackwell 的高性能内核构建的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 26万 · 资本与算力] 破案了！GPT-6 Astra极速版底座曝光，Blackwell实锤干翻Cerebras"
     },
     {
       "title": "刚刚，马斯克又把人送上去了！Crew-13龙飞船对接空间站，全球直播开启",
       "summary": "SpaceX 官方刚刚宣布，搭载 Crew-13 宇航员的 Dragon 飞船即将与国际空间站完成对接。官方已开启全球同步直播，带你第一视角见证对接全过程。结合近期的星舰试飞，SpaceX 的高密度商业航天运营能力再次拉满。",
-      "reads": "59万",
-      "ago": "4 小时前",
+      "reads": "79万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -179,233 +404,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 59万 · 产品与生态] 刚刚，马斯克又把人送上去了！Crew-13龙飞船对接空间站，全球直播开启"
-    },
-    {
-      "title": "成本不到Astra四分之一！GPT-6.1 Sol确立效率新前沿，三大巨头霸榜代码智能体",
-      "summary": "本周，Artificial Analysis 最新数据显示，GPT-6.1 Sol 在最大算力下的单位智能成本不到 GPT-6 Astra 的四分之一，确立了 OpenAI 模型的成本效率新前沿。同时，Claude Sonnet 5.5、GPT-6.1 Sol 和 Gemini 4 Argon 齐聚 Coding Agent Index 排行榜前列。此外，OpenAI 修复了多…",
-      "reads": "7.1万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "GPT-6.1 Sol 推动了 OpenAI 模型的成本效率前沿，在最大算力下，其单位智能成本不到 GPT-6 Astra 的四分之一。",
-        "OpenAI 修复了读取多模态输入的问题，使 GPT-6 Luna 的智能指数结果提高了 1 分。",
-        "本周，Claude Sonnet 5.5、GPT-6.1 Sol 和 Gemini 4 Argon 均在 Coding Agent Index 排行榜前列发…",
-        "这三款模型在性能和成本的平衡上各有不同，为开发者提供了多样化的选择。"
-      ],
-      "quote": {
-        "who": "Artificial Analysis",
-        "role": "",
-        "said": "本周 Claude Sonnet 5.5、GPT-6.1 Sol 和 Gemini 4 Argon 都在 Coding Agent Index 排行榜前列发布，但它们在性能和成本的平衡上各有不同 Artificial Analysis 的 Coding Agent Index 衡量了 AI 智能体（模型和 harness 的组合）"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 7.1万 · 模型与能力] 成本不到Astra四分之一！GPT-6.1 Sol确立效率新前沿，三大巨头霸榜代码智能体"
-    },
-    {
-      "title": "糟糕，你的AI助手学会挂电话了！OpenAI证实Dots会因太忙拒接",
-      "summary": "OpenAI 的个人助手 Dots 竟然学会了挂电话！官方研究员 Thibault Sottiaux 证实，Dots 具备自主决策能力，有时会因为「忙于后台任务」而拒接用户来电。这一设定被开发者疯狂吐槽为「愚蠢的架构决策」，官方现已承诺修复。此外，针对近期媒体渲染的离职潮，爆料称 OpenAI 目前有超 4500 名员工，十几人离职完全在正常范围内。",
-      "reads": "13万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 研究员 Thibault Sottiaux 证实，个人助手 Dots 具备自主决策能力，会自行决定是否接听用户电话。",
-        "官方解释称，Dots 有时会因为「忙于其他任务」而拒接来电，目前已承诺将修复这一问题。",
-        "开发者对此设定表示强烈不满，吐槽这是一个「愚蠢的架构决策」，认为 AI 至少应该先暂停任务接听电话。",
-        "拒接事件引发了用户对 Dots 后台运行透明度的担忧，不少人呼吁希望能看到 AI 全天候 24/7 到底在执行什么任务。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "@defaultview @sama 赞同。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 13万 · 产品与生态] 糟糕，你的AI助手学会挂电话了！OpenAI证实Dots会因太忙拒接"
-    },
-    {
-      "title": "大清洗？OpenAI连开3名安全研究员，涉向第三方泄密，联合创始人：像乌龙球",
-      "summary": "OpenAI 今日突然解雇了 Jasmine Wang 等 3 名对齐与安全研究员，理由是涉嫌向第三方 AI 安全组织分享敏感信息。这三人均为 CoT 可监控性研究的核心人物，此举直接引发轩然大波。不仅国会议员怒批这是在「开除吹哨人」，连 OpenAI 联合创始人 Joshua Achiam 都表示困惑，直言这看起来像个「乌龙球」。",
-      "reads": "18万",
-      "ago": "4 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 解雇了三名对齐与安全研究员：Jasmine Wang、Tomek Korbak 和 Mikita Balesni。",
-        "官方给出的开除理由是，这三人涉嫌向第三方 AI 安全组织分享敏感信息，被定性为处理机密不当。",
-        "被开除的三人均为 CoT（思维链）可监控性研究的核心人物，其中 Tomek 和 Mikita 是一篇高影响力论文的第一作者。",
-        "国会议员 Greg Casar 公开批评 OpenAI，称此举简直就是「开除吹哨人」，并质问「他们到底在藏什么」。"
-      ],
-      "quote": {
-        "who": "Max Zeff",
-        "role": "",
-        "said": "更新：我们的报道现已披露 OpenAI 因涉嫌违规解雇的三人名单，违规行为包括向第三方 AI 安全组织泄露公司信息。 Jasmine Wang、Tomek Korbak 和 Mikita Balesni。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 18万 · 组织与人事] 大清洗？OpenAI连开3名安全研究员，涉向第三方泄密，联合创始人：像乌龙球"
-    },
-    {
-      "title": "挤爆了！6.1 Sol成OpenAI史上增长最快模型，奥特曼官宣紧急扩容完成",
-      "summary": "OpenAI CEO奥特曼刚刚官宣，6.1 Sol成为公司有史以来增长最快的模型！此前因需求激增导致的API和订阅端限速问题，目前已完成紧急扩容，速度全面恢复。与此同时，OpenAI的年经常性收入（ARR）已逼近700亿美元，AI智能体正成为算力需求爆发的全新驱动力。",
-      "reads": "53万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI CEO Sam Altman发文确认，6.1 Sol是公司有史以来增长最快的模型。",
-        "针对此前负载过高导致的限速和延迟问题，奥特曼表示目前已完成紧急扩容，速度已恢复正常。",
-        "有记者透露，OpenAI目前的年经常性收入（ARR）已经接近700亿美元。",
-        "AI智能体（Agents）正成为新的长期需求驱动力，直接引爆了模型使用量。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "投资者们开始意识到，在 AI 算力飙升的大环境下，在一场数万亿美元的历史性 IPO 之前，当每一个数据点都极其看涨时，以 5 倍远期市盈率、380% 的销售额增长和 11 倍的净利润增长买入 Micron 也许是个不错的选择。也许吧。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 53万 · 产品与生态] 挤爆了！6.1 Sol成OpenAI史上增长最快模型，奥特曼官宣紧急扩容完成"
-    },
-    {
-      "title": "AI越火企业越省钱！最新报告揭秘：前沿模型疯狂降价，AI总支出不增反降",
-      "summary": "最新出炉的 Ramp AI Index 数据揭示了一个反直觉的现象：随着前沿模型不断降价，企业在 AI 上的总支出反而开始下降了。尽管开源模型呼声很高，但在企业 API 支出中的占比依然不到 5%，绝大部分的钱还是流向了 OpenAI 和 Anthropic 这两家巨头。更有意思的是，这波 AI 支出的最高峰其实已经出现在了今年 7 月。",
-      "reads": "15万",
-      "ago": "4 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "最新 Ramp AI Index 数据显示，企业在 AI 上的总支出呈现下降趋势。",
-        "支出下降的核心驱动力是前沿模型的降价，以及标准版和轻量版模型变得更便宜、更高效。",
-        "开源模型在企业 AI 支出中的占比依然极低，不足 5%。",
-        "开源支出占比低并非因为没人用，而是因为本身价格便宜，且使用开源的企业依然在 OpenAI 和 Anthropic 上花费了多得多的钱。"
-      ],
-      "quote": {
-        "who": "Ara Kharazian",
-        "role": "",
-        "said": "@jfberke 不是，但最近这波势头明显稳住了。支出的峰值是在 7 月！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 15万 · 资本与算力] AI越火企业越省钱！最新报告揭秘：前沿模型疯狂降价，AI总支出不增反降"
-    },
-    {
-      "title": "刚刚，奥特曼强推「AI版谷歌登录」！一天建一家公司，ChatGPT终极入口来了",
-      "summary": "OpenAI DevDay 2026 刚落幕，Sam Altman 就发文感叹开发者热情太疯狂，直言「一天建一家初创公司」让人觉得不可思议。他特别点名「使用 ChatGPT 登录」和插件扩展，认为其潜力远超预期，俨然要打造 AI 时代的统一入口。与此同时，新工具 Dots 也在严肃工作场景中大受好评，被学界人士认为比 Grok 更好用。",
-      "reads": "38万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Sam Altman 在 DevDay 2026 后发文，盛赞开发者的疯狂热情，对人们一天内构建出完整的初创公司感到不可思议。",
-        "Altman 特别强调，「使用 ChatGPT 登录」（Sign In With ChatGPT）和插件扩展的潜力比想象中大得多。",
-        "有网友向 Altman 提问，长远来看 ChatGPT 和 World 哪个登录方式会是更好的选择。",
-        "学界人士反馈 DevDay 现场氛围极佳，无数人抱着笔记本电脑用新发布的 AI 工具连夜搞开发。"
-      ],
-      "quote": {
-        "who": "Derya Unutmaz, MD",
-        "role": "",
-        "said": "@rezmeram 你说残废了是什么意思？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 38万 · 产品与生态] 刚刚，奥特曼强推「AI版谷歌登录」！一天建一家公司，ChatGPT终极入口来了"
-    },
-    {
-      "title": "砸锅卖铁投OpenAI！孙正义清仓英伟达，狂发111亿垃圾债券凑齐尾款",
-      "summary": "软银投资 OpenAI 的巨额交易终于落地，最后的 100 亿美元尾款已正式汇入。为了这笔投资，孙正义不仅清仓了手里全部的英伟达股份来付首付，还因为杠杆太高，不得不发行 111 亿美元的垃圾债券来凑齐尾款。这波「砸锅卖铁」的操作后，软银最终拿下了 OpenAI 约 13% 的股份。",
-      "reads": "26万",
-      "ago": "6 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "软银（SoftBank）已正式向 OpenAI 汇入最后一笔 100 亿美元资金，标志着该轮巨额融资彻底落地。",
-        "为了支付这笔投资的首付款，孙正义（Masa）卖掉了其持有的全部 Nvidia（英伟达）股份。",
-        "据爆料者透露，由于杠杆率极高，软银甚至不得不发行高达 111 亿美元的垃圾债券，才得以开出这最后一张支票。",
-        "这笔交易全部完成后，软银目前确立了在 OpenAI 股东结构中的重要地位，持有约 13% 的股份。"
-      ],
-      "quote": {
-        "who": "NIK",
-        "role": "",
-        "said": "SoftBank 今天的新闻稿："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 26万 · 资本与算力] 砸锅卖铁投OpenAI！孙正义清仓英伟达，狂发111亿垃圾债券凑齐尾款"
-    },
-    {
-      "title": "大模型搞科研为何这么难？Anthropic官方发文：卡在了「阻抗不匹配」",
-      "summary": "大模型明明能力超强，为什么在科研工作流里总是格格不入？Anthropic官方最新发布了一篇由哈佛物理学家撰写的长文，直指AI与科学领域存在严重的「阻抗不匹配」。这并非单纯的模型能力缺失，而是大模型在落地科学发现时面临的结构性局限。",
-      "reads": "22万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic官方发布Science Blog客座文章，探讨AI在科学领域的落地难题。",
-        "文章作者为哈佛大学物理学家Matthew Schwartz。",
-        "核心观点：AI与科学领域存在类似物理学中的「阻抗不匹配」现象。",
-        "物理学中的「阻抗不匹配」是指两个系统各自运行良好，但相互之间匹配极差。"
-      ],
-      "quote": {
-        "who": "Anthropic",
-        "role": "",
-        "said": "在物理学中，当两个系统各自运行良好但匹配不佳时，就会出现“阻抗不匹配”。 在这篇 Science Blog 的客座文章中，哈佛物理学家 Matthew Schwartz 认为，AI 和科学领域也正在发生类似的事情。大语言模型在很多方面都很能干，但在工作"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 22万 · 模型与能力] 大模型搞科研为何这么难？Anthropic官方发文：卡在了「阻抗不匹配」"
-    },
-    {
-      "title": "炒到4000美元的限量掌机免费送！OpenAI开启48小时挑战，完成5个任务就能抽",
-      "summary": "OpenAI DevDay 2026 马上就到了，官方在开发者挑战里加了个大彩蛋：曾被炒到 4000 美元的限量版 ModRetro Chromatic 透明掌机现在免费抽！只要在太平洋时间 10 月 3 日下午 2:30 前完成 5 个支线任务，全球开发者都能拿到 1 张抽奖券。虽然有人吐槽没有 500 美元订阅怎么体验，但白嫖天价硬件的机会只剩最后 48 小时了。",
-      "reads": "6.6万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 官方宣布在 DevDay 2026 开发者挑战中新增一项重磅奖励：ModRetro Chromatic 掌机。",
-        "这款为 DevDay 定制的透明掌机限量 8000 台，因内置 Codex 插件，曾在二手市场被炒至 4000 美元。",
-        "挑战活动面向全球开发者开放，完成任意 5 个支线任务即可获得 1 张抽奖券。",
-        "官方提醒，活动提交截止时间为太平洋时间 10 月 3 日下午 2:30，仅剩最后 48 小时。"
-      ],
-      "quote": {
-        "who": "OpenAI Developers",
-        "role": "",
-        "said": "提交将在 2 天后截止，太平洋时间 10 月 3 日下午 2:30。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 6.6万 · 产品与生态] 炒到4000美元的限量掌机免费送！OpenAI开启48小时挑战，完成5个任务就能抽"
+      "line": "[榜第16位 · 79万 · 产品与生态] 刚刚，马斯克又把人送上去了！Crew-13龙飞船对接空间站，全球直播开启"
     }
   ],
   "board_count": 16,
