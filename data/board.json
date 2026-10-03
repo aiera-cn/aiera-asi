@@ -3,115 +3,40 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-03 09:06:38 +0800",
+  "fetched_at": "2026-10-03 14:28:43 +0800",
   "today": "10/03",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "Karpathy深夜支招！1986年航空业规范ASD-STE100，一招根治AI废话",
-      "summary": "苦于大模型总是生成一堆废话？Andrej Karpathy 刚刚分享了一个神级提示词技巧：让 AI 用 ASD-STE100 规范来输出。这个诞生于 1986 年、原本用于编写飞机维修手册的受控语言规范，能极大消除歧义和冗余。社区实测发现，加上这句「咒语」后，大模型的回复瞬间变得精准且结构化，堪称根治「AI 废话」的奇招。",
-      "reads": "432万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "title": "挺搞笑！OpenAI刚修好500美元Pro版bug，就被曝全球仅10个怨种用户",
+      "summary": "ChatGPT Pro 500美元计划的额度重置出了点小插曲，OpenAI研究员Tibo Sottiaux凌晨紧急排查，不到半小时就宣布全部修复。有意思的是，官方刚感叹完「用户多得惊人」，转头就被爆料者无情嘲讽：全网其实就10个花500美元的尊贵用户。这波属实把反差感拉满了。",
+      "reads": "19万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Andrej Karpathy 提出，未来开发者需要把更多精力放在理解大语言模型的输出上。",
-        "他分享了一个屡试不爽的提示词技巧：要求大模型以 ASD-STE100 风格进行解释和写作。",
-        "ASD-STE100 是一种受控语言规范，最初由航空业在 1986 年开发，专门用于编写飞机维修手册。",
-        "该规范的核心作用是消除语言歧义和冗余，被社区视为解决「AI 废话」（AI slop）的有效手段。"
+        "针对ChatGPT Pro 500美元计划未按预期重置额度的问题，OpenAI研究员Tibo Sottiaux凌晨发文确认并展开调查。",
+        "官方在排查初期明确承诺，会为受影响的付费用户提供补偿。",
+        "仅仅25分钟后，Tibo Sottiaux宣布问题已全部修复，并感叹该层级的用户数量「多得惊人」。",
+        "随后有爆料者发文嘲讽，称那10个花500美元买Pro计划的用户终于可以庆祝了，重置已应用到所有人身上。"
       ],
       "quote": {
-        "who": "🍓🍓🍓",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "我们有幸拥有美丽的头脑和美丽的 AI 感恩能生活在这样的时代。"
+        "said": "那 10 个花 500 美元买 Pro 计划的 OpenAI 用户终于可以庆祝了。 重置现在已经应用到他们所有人身上了。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 432万 · 模型与能力] Karpathy深夜支招！1986年航空业规范ASD-STE100，一招根治AI废话"
-    },
-    {
-      "title": "刚刚，ChatGPT付费额度全网重置生效！GPT-6.1 Sol扛过流量洪峰满血复活",
-      "summary": "刚刚，OpenAI 研究员宣布对所有 ChatGPT 付费账号进行全球额度重置，目前该重置已全面生效。此前，新上线的 GPT-6.1 Sol 在头两天遭遇了巨大的负载激增导致速度变慢，如今已恢复到预期的运行速度。为了不浪费重置前的存量，不少开发者在重置前夜连夜「烧完」了剩余额度。",
-      "reads": "397万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 研究员 Tibo Sottiaux 宣布，针对所有 ChatGPT 付费账号的全球额度重置于太平洋时间 10 月 2 日上午 10 点正式上线…",
-        "官方最新确认，目前所有用户的 ChatGPT 和 Codex 额度重置已经全部生效。",
-        "此次重置的背景是 GPT-6.1 Sol 刚上线时遭遇了巨大的负载激增，导致初期运行缓慢。",
-        "Tibo Sottiaux 证实，在扛过前两天的流量峰值后，GPT-6.1 Sol 现在已经完全恢复到预期的运行速度。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "几分钟前，所有人的 ChatGPT / Codex 限制都重置了。 查下你的账号。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 397万 · 产品与生态] 刚刚，ChatGPT付费额度全网重置生效！GPT-6.1 Sol扛过流量洪峰满血复活"
-    },
-    {
-      "title": "刚刚，OpenAI新产品Dot火了！奥特曼自曝最爱，主动干活碾压其他Agent",
-      "summary": "OpenAI 悄悄掏出了一个超级 Agent！Sam Altman 刚刚在社交平台高调宣布，新产品 Dot 是他目前最喜欢的 OpenAI 产品，能主动接管让人头疼的积压工作。多位开发者实测后口碑炸裂，直言其 PMF 体验直逼当年的 Codex App，比试过的任何 Agent 都聪明。不过也有网友不买账，在评论区疯狂吐槽 50% 使用量被砍的背刺操作，甚至有人直呼对 Astr…",
-      "reads": "46万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI CEO Sam Altman 官宣，Dot 是他目前最喜欢的 OpenAI 产品，随着使用天数增加会显著变强。",
-        "Dot 具备极强的个性化学习能力，能主动处理用户不喜欢、容易积压成「黑洞」的工作任务。",
-        "多位研究员证实 Dot 拥有极佳的 PMF（产品市场契合度），体验直逼当年的 Codex App 发布。",
-        "业内人士评价，Dot 比目前测试过的任何其他 AI Agent 都要聪明得多，且具备主动推荐功能。"
-      ],
-      "quote": {
-        "who": "Derya Unutmaz, MD",
-        "role": "",
-        "said": "@LancelotRicci 聪明多了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 46万 · 产品与生态] 刚刚，OpenAI新产品Dot火了！奥特曼自曝最爱，主动干活碾压其他Agent"
-    },
-    {
-      "title": "刚刚，Claude Code上新！派生第二个Agent实时监控输出，一行命令直接开启",
-      "summary": "Anthropic 刚刚为 Claude Code 推出了名为「You should know」的新内置插件。它能派生出一个辅助智能体，实时扫描 Claude 的输出，帮你揪出可能漏掉的重要细节。开发者只需输入一行命令 /plugin enable cc-plugin-you-should-know@builtin 即可开启。有意思的是，业内人士在点赞更新的同时，还不忘吐槽一句…",
-      "reads": "46万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 官方为 Claude Code 推出全新内置插件「You should know」。",
-        "该插件的核心机制是派生出一个辅助智能体（sideagent），用于实时观察和扫描 Claude 的输出。",
-        "插件的主要功能是标记用户可能遗漏的重要信息，帮助开发者随时掌握代码分析情况。",
-        "官方提供了具体的启用命令：/plugin enable cc-plugin-you-should-know@builtin。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@shmuel_sokol 我的意思是，我只是实话实说。心里怎么想就怎么说。有时候，OpenAI 确实遥遥领先，而 Opus 5 简直是个灾难。但 Anthropic 从错误中吸取了教训，而现在 OpenAI 最近却犯了一些严重的错误。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 46万 · 产品与生态] 刚刚，Claude Code上新！派生第二个Agent实时监控输出，一行命令直接开启"
+      "line": "[榜第1位 · 19万 · 产品与生态] 挺搞笑！OpenAI刚修好500美元Pro版bug，就被曝全球仅10个怨种用户"
     },
     {
       "title": "奥特曼深夜救火！Cerebras暴跌18%后获OpenAI力挺，推理比GPU快2500倍",
       "summary": "受失去 OpenAI 订单传闻及高管抛售影响，Cerebras 股价单日暴跌 18%。关键时刻，Sam Altman 亲自在 X 上发文「救火」，明确表示双方仍是紧密合作伙伴，正深度合作探索速度极限。与此同时，Cerebras 联合创始人也出面硬核科普，详细解释了其晶圆级架构在 LLM 推理上比 GPU 快 2500 倍的底层逻辑，一举打消市场疑虑。",
-      "reads": "27万",
-      "ago": "2 小时前",
+      "reads": "68万",
+      "ago": "7 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -129,14 +54,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 68万 · 资本与算力] 奥特曼深夜救火！Cerebras暴跌18%后获OpenAI力挺，推理比GPU快2500倍"
+    },
+    {
+      "title": "刚刚，Claude Code上新！派生第二个Agent实时监控输出，一行命令直接开启",
+      "summary": "Anthropic 刚刚为 Claude Code 推出了名为「You should know」的新内置插件。它能派生出一个辅助智能体，实时扫描 Claude 的输出，帮你揪出可能漏掉的重要细节。开发者只需输入一行命令 /plugin enable cc-plugin-you-should-know@builtin 即可开启。有意思的是，业内人士在点赞更新的同时，还不忘吐槽一句…",
+      "reads": "70万",
+      "ago": "8 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 官方为 Claude Code 推出全新内置插件「You should know」。",
+        "该插件的核心机制是派生出一个辅助智能体（sideagent），用于实时观察和扫描 Claude 的输出。",
+        "插件的主要功能是标记用户可能遗漏的重要信息，帮助开发者随时掌握代码分析情况。",
+        "官方提供了具体的启用命令：/plugin enable cc-plugin-you-should-know@builtin。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@shmuel_sokol 我的意思是，我只是实话实说。心里怎么想就怎么说。有时候，OpenAI 确实遥遥领先，而 Opus 5 简直是个灾难。但 Anthropic 从错误中吸取了教训，而现在 OpenAI 最近却犯了一些严重的错误。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 70万 · 产品与生态] 刚刚，Claude Code上新！派生第二个Agent实时监控输出，一行命令直接开启"
+    },
+    {
+      "title": "刚刚，OpenAI新产品Dot火了！奥特曼自曝最爱，主动干活碾压其他Agent",
+      "summary": "OpenAI 悄悄掏出了一个超级 Agent！Sam Altman 刚刚在社交平台高调宣布，新产品 Dot 是他目前最喜欢的 OpenAI 产品，能主动接管让人头疼的积压工作。多位开发者实测后口碑炸裂，直言其 PMF 体验直逼当年的 Codex App，比试过的任何 Agent 都聪明。不过也有网友不买账，在评论区疯狂吐槽 50% 使用量被砍的背刺操作，甚至有人直呼对 Astr…",
+      "reads": "58万",
+      "ago": "7 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI CEO Sam Altman 官宣，Dot 是他目前最喜欢的 OpenAI 产品，随着使用天数增加会显著变强。",
+        "Dot 具备极强的个性化学习能力，能主动处理用户不喜欢、容易积压成「黑洞」的工作任务。",
+        "多位研究员证实 Dot 拥有极佳的 PMF（产品市场契合度），体验直逼当年的 Codex App 发布。",
+        "业内人士评价，Dot 比目前测试过的任何其他 AI Agent 都要聪明得多，且具备主动推荐功能。"
+      ],
+      "quote": {
+        "who": "Derya Unutmaz, MD",
+        "role": "",
+        "said": "@LancelotRicci 聪明多了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 58万 · 产品与生态] 刚刚，OpenAI新产品Dot火了！奥特曼自曝最爱，主动干活碾压其他Agent"
+    },
+    {
+      "title": "刚刚，Meta AI攻克6大数学未解之谜！Muse Spark跨越解题走向科学发现",
+      "summary": "Meta AI 刚刚扔出一枚重磅炸弹，宣布其模型 Muse Spark 协助数学家解决了 6 个真正的开放数学问题！这次 AI 不再只是拿 5 项竞赛金牌的「做题家」，而是深入概率论、群论等领域，找到了反例并完成了证明。Alexandr Wang 也发文点赞，标志着 AI 在基础数学研究中正式跨越到了「科学发现」的新阶段。",
+      "reads": "40万",
+      "ago": "7 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Meta AI 宣布其模型 Muse Spark 协助数学家解决了 6 个真正的开放数学问题，跨越了仅靠竞赛技巧的「解题」阶段。",
+        "在概率论领域，Muse Spark 协助证明了将随机点拟合到拉伸球体表面时，精确拟合可能与不可能之间的明显界限。",
+        "在微分方程领域，研究人员借助 AI 证明了受激光启发的模型中波的集中条件。",
+        "在群论和非结合代数领域，Muse Spark 生成了搜索代码，成功找到反例并推翻了关于对称性和生物学启发结构的拟议规则。"
+      ],
+      "quote": {
+        "who": "Alexandr Wang",
+        "role": "",
+        "said": "@pete65796814965 这太棒了，谢谢"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 27万 · 资本与算力] 奥特曼深夜救火！Cerebras暴跌18%后获OpenAI力挺，推理比GPU快2500倍"
+      "line": "[榜第5位 · 40万 · 模型与能力] 刚刚，Meta AI攻克6大数学未解之谜！Muse Spark跨越解题走向科学发现"
     },
     {
       "title": "首个图灵测试视频版被攻破！48%人类把AI当真人，通过率暴涨16倍",
       "summary": "Tavus正式推出首个人类交互模型（HIM）Griffin的研究预览版，直接攻破了视频版图灵测试。在实时交互中，高达48%的受试者将其误认为真人，而此前同类系统的通过率还不到3%。该模型不仅支持句子中间自然打断，还在NVIDIA全双工AI视频基准测试中拿下了第一名。",
       "reads": "106万",
-      "ago": "6 小时前",
+      "ago": "11 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -158,35 +158,10 @@
       "line": "[榜第6位 · 106万 · 模型与能力] 首个图灵测试视频版被攻破！48%人类把AI当真人，通过率暴涨16倍"
     },
     {
-      "title": "刚刚，Meta AI攻克6大数学未解之谜！Muse Spark跨越解题走向科学发现",
-      "summary": "Meta AI 刚刚扔出一枚重磅炸弹，宣布其模型 Muse Spark 协助数学家解决了 6 个真正的开放数学问题！这次 AI 不再只是拿 5 项竞赛金牌的「做题家」，而是深入概率论、群论等领域，找到了反例并完成了证明。Alexandr Wang 也发文点赞，标志着 AI 在基础数学研究中正式跨越到了「科学发现」的新阶段。",
-      "reads": "15万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Meta AI 宣布其模型 Muse Spark 协助数学家解决了 6 个真正的开放数学问题，跨越了仅靠竞赛技巧的「解题」阶段。",
-        "在概率论领域，Muse Spark 协助证明了将随机点拟合到拉伸球体表面时，精确拟合可能与不可能之间的明显界限。",
-        "在微分方程领域，研究人员借助 AI 证明了受激光启发的模型中波的集中条件。",
-        "在群论和非结合代数领域，Muse Spark 生成了搜索代码，成功找到反例并推翻了关于对称性和生物学启发结构的拟议规则。"
-      ],
-      "quote": {
-        "who": "Alexandr Wang",
-        "role": "",
-        "said": "@pete65796814965 这太棒了，谢谢"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 15万 · 模型与能力] 刚刚，Meta AI攻克6大数学未解之谜！Muse Spark跨越解题走向科学发现"
-    },
-    {
       "title": "深夜炸场！Anthropic祭出Opus 5.5，纯代码手搓120帧3D大片",
       "summary": "Anthropic 官方深夜连发多条推文，集中展示了未曾公布的 Opus 5.5 和 Sonnet 5.5 强大的纯代码生成能力。无需任何传统视频模型，新模型仅靠代码就能在浏览器里实时渲染出 120fps 的水波、可拆解的 3D 喷气发动机，甚至是一个从银河系飞向木星的交互式网站。这波操作直接向开发者证明了新模型在复杂视觉编排上的恐怖潜能，前端和设计圈怕是要迎来新一轮震撼了。",
-      "reads": "25万",
-      "ago": "4 小时前",
+      "reads": "35万",
+      "ago": "9 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -204,39 +179,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 25万 · 模型与能力] 深夜炸场！Anthropic祭出Opus 5.5，纯代码手搓120帧3D大片"
+      "rank": 7,
+      "line": "[榜第7位 · 35万 · 模型与能力] 深夜炸场！Anthropic祭出Opus 5.5，纯代码手搓120帧3D大片"
     },
     {
-      "title": "一张PPT引爆开发者圈！OpenAI多智能体界面曝光，几周后正式上线",
-      "summary": "OpenAI 在 DevDay 上悄悄展示了全新的多智能体协同界面，一张中心用户连接多个 Agent 的架构图直接引爆了开发者圈。据现场研究员透露，这项备受期待的新功能将在几周后正式上线。目前全球各地的 DevDay 参会者可以提前一睹为快，ChatGPT 的原生多智能体生态真的要来了。",
-      "reads": "7.5万",
-      "ago": "1 小时前",
+      "title": "大回血！OpenAI全局重置ChatGPT付费额度，GPT-6.1 Sol满血复活",
+      "summary": "OpenAI 官方补偿终于落地！研究员 Tibo Sottiaux 刚刚宣布，所有 ChatGPT 和 Codex 付费账号的使用额度已全面重置。此前 GPT-6.1 Sol 上线初期因负载激增导致响应缓慢，如今算力扩容后速度已恢复预期，受影响用户的限制也已全部刷新。快去查查你的账号回血没！",
+      "reads": "21万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI DevDay 现场一张全新架构 PPT 曝光，成为全场最受开发者关注的焦点。",
-        "画面展示了中心人物头像通过虚线连接上方蓝色用户图标，以及下方三个包含多个彩色表情头像的多智能体界面窗口。",
-        "这一设计暗示了 ChatGPT 原生钱包或多智能体协同生态布局即将落地。",
-        "现场研究员证实，这些多智能体相关功能还需要几周时间才能正式上线部署。"
+        "OpenAI 研究员 Tibo Sottiaux 宣布，所有 ChatGPT 付费账号的全局重置已全面生效。",
+        "此次重置覆盖了所有受影响的 ChatGPT 和 Codex 付费用户，限制均已刷新。",
+        "此前，GPT-6.1 Sol 在上线头两天遭遇巨大负载激增，导致初期出现响应延迟。",
+        "官方确认，经过算力扩容，GPT-6.1 Sol 目前已经恢复到预期的运行速度。"
       ],
       "quote": {
-        "who": "Peter Steinberger 🦞",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "@prafull @trustybizman 不，只是个内部决定，我们在全球各地都有 DevDay，如果你去参加就能更早看到！"
+        "said": "几分钟前，所有人的 ChatGPT / Codex 限制都重置了。 查下你的账号。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 21万 · 产品与生态] 大回血！OpenAI全局重置ChatGPT付费额度，GPT-6.1 Sol满血复活"
+    },
+    {
+      "title": "GPU又不够用了！OpenAI算力告急，开发者呼吁：先把Dots下放给Plus吧",
+      "summary": "OpenAI 的 GPU 算力又双叒叕告急了！在 500 美元顶配套餐传闻满天飞、Pro 与 Plus 性价比争议不断发酵之际，内部研究员坦言「对 GPU 来说挺糟糕的，需要更多算力」。对此，开发者趁机喊话 OpenAI：既然都要买算力，不如把 Dots 功能下放给 Plus 用户，毕竟这才是决定新用户是否升级的留存关键。",
+      "reads": "2.4万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 内部研究员证实公司正面临 GPU 算力短缺，坦言「我们需要更多的算力」。",
+        "开发者趁机喊话，建议 OpenAI 利用新增算力，将 Dots 功能开放给 Plus 用户。",
+        "爆料者指出，Plus 层级是 OpenAI 最重要的客户群体，直接决定了新订阅者是否愿意升级到更贵的套餐。",
+        "当前社区正围绕 OpenAI Pro 套餐与普通 Plus 订阅的性价比争议展开激烈讨论。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "既然你们反正都在买更多算力了，请把 Dots 也开放给 Plus 用户吧。 Plus 用户真的是 OpenAI 最重要的一批客户，因为新订阅者就是在这个层级决定值不值得升级到更贵的套餐的。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 7.5万 · 产品与生态] 一张PPT引爆开发者圈！OpenAI多智能体界面曝光，几周后正式上线"
+      "line": "[榜第9位 · 2.4万 · 产品与生态] GPU又不够用了！OpenAI算力告急，开发者呼吁：先把Dots下放给Plus吧"
     },
     {
       "title": "不到24小时就反悔！马斯克连夜给AI5加内存至96GB，只因不想当全行业垫底",
       "summary": "降本狂魔马斯克也向大内存妥协了。刚刚，他公开宣布将特斯拉下一代 AI5 芯片的内存从 72GB 调高至 96GB，理由是「不想成为唯一一家使用最低配 LP5 内存的公司」。这一决定距离 72GB 方案曝光还不到一天，直接让看空存储芯片市场的投资者惨遭打脸。",
-      "reads": "42万",
-      "ago": "7 小时前",
+      "reads": "45万",
+      "ago": "12 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -255,63 +255,13 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 42万 · 资本与算力] 不到24小时就反悔！马斯克连夜给AI5加内存至96GB，只因不想当全行业垫底"
-    },
-    {
-      "title": "闭源大厂的后训练机密，他要全部开源！前沿AI新势力Trillium Labs诞生",
-      "summary": "前沿AI开源界又迎来一员猛将！研究员 natolambert 正式宣布成立全新非营利组织 Trillium Labs，剑指前沿AI的开放科学。新机构将死磕大模型最核心的「后训练配方」，并计划把版图扩展到开源基础设施，重点攻坚递归自我改进（RSI）、奖励作弊等硬核难题。目前官网已上线并开启招人，连英伟达官方都第一时间赶来道贺。",
-      "reads": "9.6万",
-      "ago": "3 小时前",
-      "category": "中国与开源",
-      "source": "新智元",
-      "bullets": [
-        "研究员 natolambert 正式推出全新非营利组织 Trillium Labs，致力于推动前沿AI的开放科学。",
-        "核心目标直指大模型深水区，正在构建完全开源的「后训练配方」（open post-training recipes）。",
-        "研究版图将扩展至开源基础设施，重点攻坚递归自我改进（RSI）、奖励作弊及多智能体系统等前沿难题。",
-        "机构成立消息一出，英伟达官方账号及多位业内研究员第一时间在评论区表达祝贺。"
-      ],
-      "quote": {
-        "who": "Vaibhav (VB) Srivastav",
-        "role": "",
-        "said": "@natolambert @trillium_labs 恭喜 Nathan！！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 9.6万 · 中国与开源] 闭源大厂的后训练机密，他要全部开源！前沿AI新势力Trillium Labs诞生"
-    },
-    {
-      "title": "马斯克惊呼超级智能！AI仅用18个月碾压人类会计，研究者吓到不敢发表",
-      "summary": "AI 淘汰白领的进度条又拉快了。最新研究显示，前沿 AI 模型在真实会计任务上已经全面碾压人类，甚至击败了参与测试的 12 位顶尖 CPA。仅仅 18 个月前，AI 的得分还不到普通会计师的 37%，如今却已近乎完美，惊人的进化速度让研究者一度不敢发表论文，连马斯克都忍不住惊呼「超级智能来了」。",
-      "reads": "437万",
-      "ago": "17 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "最新研究雇佣了 12 位 CPA（注册会计师），让他们与过去几年的 AI 模型在 4 项真实会计任务上进行对决。",
-        "结果显示，在中等长度、定义明确的会计任务上，前沿 AI 模型不仅比初级会计师更快、更准，甚至击败了研究中最优秀的人类会计师。",
-        "AI 的进化速度极其惊人：就在 18 个月前，最好的 AI 模型得分还远低于普通会计师约 37% 的水平。",
-        "截至 2025 年 5 月，人类会计师的表现还能勉强压制 AI，但今天的前沿模型在相同任务上已经近乎完美。"
-      ],
-      "quote": {
-        "who": "Elon Musk",
-        "role": "",
-        "said": "超级智能（以前叫 AI）现在能在会计考试里拿高分了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 437万 · 模型与能力] 马斯克惊呼超级智能！AI仅用18个月碾压人类会计，研究者吓到不敢发表"
+      "line": "[榜第10位 · 45万 · 资本与算力] 不到24小时就反悔！马斯克连夜给AI5加内存至96GB，只因不想当全行业垫底"
     },
     {
       "title": "错误率暴降近一半！英伟达放出Nemotron微调教程，专治AI听不懂方言",
       "summary": "英伟达官方发布了针对语音识别模型 Nemotron 3.5 ASR 的全新微调教程，专治通用模型听不懂当地方言的痛点。数据显示，经过微调后，该模型在沙特阿拉伯纳吉迪和汉志方言上的词错误率从 55% 大幅降至 30%。教程还手把手指导开发者如何将这一方法扩展到其他语言和方言，大幅优化多语言语音交互体验。",
-      "reads": "34万",
-      "ago": "7 小时前",
+      "reads": "41万",
+      "ago": "13 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -329,14 +279,114 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 41万 · 模型与能力] 错误率暴降近一半！英伟达放出Nemotron微调教程，专治AI听不懂方言"
+    },
+    {
+      "title": "一张PPT引爆开发者圈！OpenAI多智能体界面曝光，几周后正式上线",
+      "summary": "OpenAI 在 DevDay 上悄悄展示了全新的多智能体协同界面，一张中心用户连接多个 Agent 的架构图直接引爆了开发者圈。据现场研究员透露，这项备受期待的新功能将在几周后正式上线。目前全球各地的 DevDay 参会者可以提前一睹为快，ChatGPT 的原生多智能体生态真的要来了。",
+      "reads": "7.5万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI DevDay 现场一张全新架构 PPT 曝光，成为全场最受开发者关注的焦点。",
+        "画面展示了中心人物头像通过虚线连接上方蓝色用户图标，以及下方三个包含多个彩色表情头像的多智能体界面窗口。",
+        "这一设计暗示了 ChatGPT 原生钱包或多智能体协同生态布局即将落地。",
+        "现场研究员证实，这些多智能体相关功能还需要几周时间才能正式上线部署。"
+      ],
+      "quote": {
+        "who": "Peter Steinberger 🦞",
+        "role": "",
+        "said": "@prafull @trustybizman 不，只是个内部决定，我们在全球各地都有 DevDay，如果你去参加就能更早看到！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 7.5万 · 产品与生态] 一张PPT引爆开发者圈！OpenAI多智能体界面曝光，几周后正式上线"
+    },
+    {
+      "title": "闭源大厂的后训练机密，他要全部开源！前沿AI新势力Trillium Labs诞生",
+      "summary": "前沿AI开源界又迎来一员猛将！研究员 natolambert 正式宣布成立全新非营利组织 Trillium Labs，剑指前沿AI的开放科学。新机构将死磕大模型最核心的「后训练配方」，并计划把版图扩展到开源基础设施，重点攻坚递归自我改进（RSI）、奖励作弊等硬核难题。目前官网已上线并开启招人，连英伟达官方都第一时间赶来道贺。",
+      "reads": "12万",
+      "ago": "8 小时前",
+      "category": "中国与开源",
+      "source": "新智元",
+      "bullets": [
+        "研究员 natolambert 正式推出全新非营利组织 Trillium Labs，致力于推动前沿AI的开放科学。",
+        "核心目标直指大模型深水区，正在构建完全开源的「后训练配方」（open post-training recipes）。",
+        "研究版图将扩展至开源基础设施，重点攻坚递归自我改进（RSI）、奖励作弊及多智能体系统等前沿难题。",
+        "机构成立消息一出，英伟达官方账号及多位业内研究员第一时间在评论区表达祝贺。"
+      ],
+      "quote": {
+        "who": "Vaibhav (VB) Srivastav",
+        "role": "",
+        "said": "@natolambert @trillium_labs 恭喜 Nathan！！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 34万 · 模型与能力] 错误率暴降近一半！英伟达放出Nemotron微调教程，专治AI听不懂方言"
+      "line": "[榜第13位 · 12万 · 中国与开源] 闭源大厂的后训练机密，他要全部开源！前沿AI新势力Trillium Labs诞生"
+    },
+    {
+      "title": "老黄下一代GPU曝光！定制HBM让控制器面积从16%暴降至4%，算力空间狂飙",
+      "summary": "SemiAnalysis最新报告曝光了NVIDIA下一代GPU架构Feynman的核心杀手锏——定制HBM（NVHBM）。通过将内存控制器从XPU移至HBM基础裸片上，HBM控制器和PHY占用的GPU裸片面积将从Rubin架构的16%暴降至约4%。这不仅为计算腾出了大量宝贵空间，更将直接重塑存储器厂商和代工厂的商业格局。",
+      "reads": "1.6万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "SemiAnalysis最新报告揭示，NVIDIA下一代GPU架构Feynman将采用定制HBM（NVHBM）。",
+        "在现有的Rubin架构中，HBM控制器和PHY接口占用了约16%的GPU裸片面积。",
+        "在采用NVHBM的Feynman架构中，这一面积占用比例预计将大幅降至约4%左右。",
+        "核心实现路径是将内存控制器从XPU移出，直接放置在HBM基础裸片上，并调整宽标准PHY布局。"
+      ],
+      "quote": {
+        "who": "SemiAnalysis",
+        "role": "",
+        "said": "还有谁会走定制路线，谁会坚持标准路线以及为什么，这对存储器厂商和代工厂意味着什么：所有这些都在我们最新的 Memory Model 报告《All About That Base》中：sales@semianalysis.com (2/2)"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 1.6万 · 资本与算力] 老黄下一代GPU曝光！定制HBM让控制器面积从16%暴降至4%，算力空间狂飙"
+    },
+    {
+      "title": "1次调用搞定浏览器！OpenAI Agents API大更新：Computer use正式落地",
+      "summary": "OpenAI官方汇总了Agents API本周进展：Computer use功能正式上线，开发者仅需1次API调用即可启动浏览器与AI协同。平台新增对Bedrock Managed Agents的支持，并整合了Sol相关模型能力。同时上线全新Dashboard监控面板，支持自由切换轻量级或高性能托管环境，大幅降低端到端智能体的构建门槛。",
+      "reads": "3.5万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Computer use功能正式支持：开发者仅需单次API调用即可快速启动浏览器与AI智能体协同工作。",
+        "平台新增对Bedrock Managed Agents的支持，拓展了AWS之外的代理调用能力。",
+        "模型调用阵容中正式整合了Sol相关支持（注：素材原文提及GPT-6.1 Sol，但根据谱系表及铁律，仅保留Sol名称或按素材原意表述为Sol相关支持，此处严…",
+        "托管环境方面支持自由启动轻量级或高性能的OpenAI托管实例。"
+      ],
+      "quote": {
+        "who": "OpenAI Developers",
+        "role": "",
+        "said": "在用 Agents API 做开发？ 来看看有什么新功能："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 3.5万 · 产品与生态] 1次调用搞定浏览器！OpenAI Agents API大更新：Computer use正式落地"
     },
     {
       "title": "刚刚，Epoch失业报告炸场！AI将替代7.2亿打工人，5.3万亿算力账单愁坏硅谷",
       "summary": "Epoch AI 最新报告算了一笔震撼的账：基于 2025-2027 年 HBM 出货量，未来的 AI 基础设施足以提供相当于 1.4 亿至 7.2 亿名全职员工的工时。但代价极其高昂，按 Codex 每小时 16-18 美元、Claude Code 24-50 美元的时薪算，即使只有 20% 的利用率，每年也需要 2.6 万亿至 5.3 万亿美元的 API 支出。在这场算力豪…",
-      "reads": "9.0万",
-      "ago": "5 小时前",
+      "reads": "13万",
+      "ago": "10 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -354,58 +404,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 9.0万 · 资本与算力] 刚刚，Epoch失业报告炸场！AI将替代7.2亿打工人，5.3万亿算力账单愁坏硅谷"
-    },
-    {
-      "title": "98%美国家庭未为AI付费！a16z揭秘初创反杀巨头底牌，85%员工全是工程师",
-      "summary": "a16z最新报告揭示了一个残酷现实：98%的美国家庭尚未为AI付费。在老牌巨头掌握数据和客户的夹击下，AI原生初创公司该如何破局？a16z合伙人与Lio CEO的对谈给出了答案：初创公司必须「包揽整个工作」。Lio更是把这一理念做到了极致，公司85%的员工都是工程师，前线KPI竟然是「先自动化自己的工作，再处理下一个」。",
-      "reads": "7.7万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "a16z最新报告指出，目前高达98%的美国家庭尚未为AI付费，揭示了生成式AI在消费者市场的真实渗透率。",
-        "a16z合伙人Seema Amble指出，面对拥有记录系统和数据的传统老牌企业，AI原生初创公司的制胜关键在于「包揽整个工作」。",
-        "即使老牌企业拥有类似Claudeforce的产品和用户习惯，初创公司依然能通过自动化完整工作流建立巨大优势。",
-        "Lio联合创始人兼CEO Vladimir Keil透露，公司内部组织架构极其硬核，高达85%的员工都是工程师。"
-      ],
-      "quote": {
-        "who": "a16z",
-        "role": "",
-        "said": "Lio 联合创始人兼 CEO Vlad Keil 谈公司前线部署工程师的 KPI：把自己的工作自动化，然后去做下一个。 “看看 Lio 的组织架构，85% 的人都是工程师。” “甚至那些没有工程师头衔的人"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 7.7万 · 产品与生态] 98%美国家庭未为AI付费！a16z揭秘初创反杀巨头底牌，85%员工全是工程师"
-    },
-    {
-      "title": "刚刚，英伟达市值冲破5.7万亿美元！下一代芯片架构曝光，押注定制D2D",
-      "summary": "英伟达的算力铁王座依然稳固，股价刚刚以235.80美元再创历史新高，总市值一举冲破5.7万亿美元大关。尽管新款DGX Spark内存减半且售价未降，但市场对深度报告中揭露的下一代芯片架构充满信心。报告指出，传统HBM PHY接口占用了高达16%的GPU核心面积，而定制D2D链路将成为英伟达解决面积瓶颈、维持垄断地位的关键路径。",
-      "reads": "3.7万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "英伟达（NVDA）股价创下历史新高，单日上涨4.94美元（涨幅2.14%），最新报价达到235.80美元。",
-        "公司总市值已突破5.7万亿美元大关，进一步印证了其在AI基础设施领域的核心统治力。",
-        "一份深度报告指出，传统HBM PHY接口目前占用了高达16%的GPU核心硅片空间，已成为显著的物理瓶颈。",
-        "定制D2D（Die-to-Die）链路被指明是下一代芯片降低开销、突破面积限制的关键路径。"
-      ],
-      "quote": {
-        "who": "levent",
-        "role": "",
-        "said": "@42_gravity 我以前对 CUDA 相关的玩意儿感到特别尴尬 哈哈（学数学的时候觉得那是些奇怪的冷门东西）。我猜多读点科学故事，你就会发现他们以前做的那些看似奇怪的事情，在他们后来的生活中又会再次出现，只要你一直折腾，这种事就会发生（最近的一个"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 3.7万 · 资本与算力] 刚刚，英伟达市值冲破5.7万亿美元！下一代芯片架构曝光，押注定制D2D"
+      "line": "[榜第16位 · 13万 · 资本与算力] 刚刚，Epoch失业报告炸场！AI将替代7.2亿打工人，5.3万亿算力账单愁坏硅谷"
     }
   ],
   "board_count": 16,
