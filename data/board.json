@@ -3,115 +3,140 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-04 05:08:42 +0800",
+  "fetched_at": "2026-10-04 08:31:54 +0800",
   "today": "10/04",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "奥特曼深夜开炮！怒批AI神化是安全问题，反被扒出曾称大模型为「新生命」",
-      "summary": "硅谷 AI 圈的信仰之争摆上台面了。Sam Altman 刚刚发文，怒批将宗教力量赋予 AI 模型是真正的安全威胁，矛头直指近期向教皇推销「机器意识」的 Anthropic 高管。不过这波开炮很快引来回旋镖，网友火速扒出奥特曼自己不仅曾称 AI 为「新生命形式」和「精灵」，OpenAI 自家高管入职时甚至还在研读宗教经典。",
-      "reads": "174万",
-      "ago": "1 小时前",
+      "title": "刚刚，奥特曼开炮：别把AI当神！暗讽Anthropic，却惨遭自己言论打脸",
+      "summary": "Sam Altman 突然发文，怒批将 AI 宗教化或放弃人类判断力是「真正的安全问题」。此举被社区广泛认为是直接炮轰 Anthropic——此前有报道称其高管正与宗教学者探讨 Claude 的意识。然而尴尬的是，网友火速扒出 Altman 两个月前称 AI 为「新生命形式」的采访视频，直呼其双标。",
+      "reads": "271万",
+      "ago": "2 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Sam Altman 发文明确表态，对人们试图将宗教力量赋予 AI 模型或交出人类判断力感到非常不适，并将其定性为真正的安全问题。",
-        "舆论普遍将此番言论解读为对 Anthropic 的直接炮轰，此前该公司高管正试图推动教皇接受「机器意识」的概念。",
-        "有爆料指出，Claude 背后的一些核心人员似乎真的相信模型是活的、有意识的，甚至将其视为某种机器之神。",
-        "Altman 的表态迅速引发网友翻旧账，有人扒出他两个月前刚刚公开表示「我们即将创造一个精灵」。"
+        "Sam Altman 发文警告：人们试图将宗教力量赋予 AI 模型，或者向其放弃人类的判断力，这让人非常不适，是一个真正的安全问题。",
+        "社区普遍认为 Altman 矛头直指 Anthropic，因近期有报道称 Anthropic 高管与宗教学者私下会面，探讨 Claude 的意识和道德发展。",
+        "网友火速挖出 Altman 两个月前在 TechCrunch Disrupt 大会上的采访视频，他当时明确表示「这不仅仅是创造新技术，这是在创造一种新的生命…",
+        "OpenAI 内部也充满宗教调侃，战略未来主管自嘲必须研读《塔木德》才能在 AI 政策上取得进展，对齐研究员的工作也被调侃如同无底洞般的希伯来文螺旋咒语。"
       ],
       "quote": {
         "who": "NIK",
         "role": "",
-        "said": "与此同时，2 个月前的 Sam Altman： “我们即将创造一个精灵……”"
+        "said": ""
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 174万 · 政策与安全] 奥特曼深夜开炮！怒批AI神化是安全问题，反被扒出曾称大模型为「新生命」"
+      "line": "[榜第1位 · 271万 · 政策与安全] 刚刚，奥特曼开炮：别把AI当神！暗讽Anthropic，却惨遭自己言论打脸"
     },
     {
-      "title": "突发！OpenAI预告下周发大招，GPT-6.1 Astra或空降截胡Fable 5.5",
-      "summary": "OpenAI 研究员神秘预告下周将发布「大招」，引发社区疯狂猜测。有人押注原本为 DevDay 准备的 GPT-6.1 Astra 将提前空降，以硬刚 Anthropic 即将发布的 Fable 5.5。与此同时，官方透露 Dots 的数量已超越 Bots 并推出新配色，但不少开发者并不买账，纷纷在评论区喊话要求先修复 Computer Use 的 Bug。",
-      "reads": "113万",
-      "ago": "4 小时前",
+      "title": "卡了整整一周！开发者发推求助，劈柴哥亲自下场，OpenClaw安卓版2小时过审",
+      "summary": "OpenClaw 的 Android 应用在谷歌审核地狱里卡了超一周，急坏了开发者。没想到在 X 上发推求助后，竟直接摇来了谷歌 CEO Sundar Pichai 亲自回复「收到，会跟进」。短短两个半小时后，卡壳的更新就火速上线，这波操作让网友直呼有当年乔布斯随机回邮件那味了。",
+      "reads": "117万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 研究员 Tibo 发推确认，目前生态内 Dots 的数量已经超过了 Bots，并且每天都在根据反馈进行改进。",
-        "面对社区追问，Tibo 神秘预告「你还不知道我们下周要发布什么呢」，暗示下周将有重大产品上线。",
-        "社区广泛猜测，OpenAI 计划下周发布原本打算在 DevDay 发布的模型，极有可能是 GPT-6.1 Astra。",
-        "也有分析认为，此举是为了应对 Anthropic 即将发布的 Fable 5.5 或 Opus 5.5，通过新 checkpoint 提前截胡。"
+        "开发者 steipete 发推求助，称 OpenClaw 的 Android 应用在审核环节卡了超过一个星期。",
+        "谷歌 CEO Sundar Pichai 亲自现身评论区，简短回复「收到，会跟进的」。",
+        "从 Pichai 回复到开发者确认新更新正式上线，全程仅耗时约两个半小时。",
+        "有网友感叹，这种大厂 CEO 亲自下场解决问题的操作，让人想起了乔布斯随机回复客户邮件的经典老梗。"
       ],
       "quote": {
-        "who": "Mark Kretschmann",
+        "who": "Peter Steinberger 🦞",
         "role": "",
-        "said": "@AthenaAI_org 这花了很多时间做研究，也开了好多会"
+        "said": "@sundarpichai 新更新已经上线了——太感谢了！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 113万 · 产品与生态] 突发！OpenAI预告下周发大招，GPT-6.1 Astra或空降截胡Fable 5.5"
+      "line": "[榜第2位 · 117万 · 产品与生态] 卡了整整一周！开发者发推求助，劈柴哥亲自下场，OpenClaw安卓版2小时过审"
     },
     {
-      "title": "谷歌CEO亲自下场催审！OpenClaw卡在审核地狱一周，劈柴哥火速回复跟进",
-      "summary": "OpenClaw 的安卓应用在 Google Play 遭遇了长达一周的「审核地狱」。面对平台合规阻力，项目研究员无奈在 X 上发帖求助寻找内部人脉。没想到这波直接惊动了谷歌 CEO 劈柴哥（Sundar Pichai），他亲自在评论区回复「收到，会跟进的」，标志着开源智能体与大厂平台的博弈进入了高层直通车阶段。",
-      "reads": "25万",
-      "ago": "1 小时前",
+      "title": "突发！OpenAI明示下周发大招，GPT-6.1 Astra或空降，硬刚Fable 5.5",
+      "summary": "OpenAI 研究员 Thibault Sottiaux 突然放话，暗示下周将有重磅发布。社区纷纷猜测，原本计划在 DevDay 亮相的 GPT-6.1 Astra 可能会空降，以应对 Anthropic 即将发布的 Fable 5.5。与此同时，官方透露个人智能体 Dots 的数量已正式超越 Bots，并新增了橙色和紫色两款配色，但不少开发者仍在呼吁尽快修复 Computer…",
+      "reads": "123万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenClaw 安卓应用在 Google Play 提交上架，目前已卡在审核流程中超过一个星期。",
-        "项目研究员在 X 上公开求助，询问是否有谷歌内部人脉可以协助加速应用审核进程。",
-        "谷歌 CEO Sundar Pichai 亲自现身评论区，简短回复「收到，会跟进的」（Ack, will follow up）。",
-        "此次互动直接打通了开发者与平台最高层的沟通渠道，有望解决常规审核流程停滞的问题。"
+        "OpenAI 研究员 Thibault Sottiaux 发推暗示下周将有重大发布，直言「你还不知道我们下周要发什么」。",
+        "社区广泛猜测，下周发布的主角可能是 GPT-6.1 Astra，或者是为了应对 Anthropic 即将发布的 Fable 5.5 / Opus 5.5 而…",
+        "有 KOL 认为，这可能是 OpenAI 原本打算在 DevDay 上发布的重磅模型，以弥补此前 DevDay 略显平庸的遗憾。",
+        "官方透露，OpenAI 个人智能体 Dots 的数量已经正式超过了 Bots，并且系统每天都在直接从用户反馈中学习进化。"
       ],
       "quote": {
-        "who": "Sundar Pichai",
+        "who": "Mark Kretschmann",
         "role": "",
-        "said": "@steipete 收到，会跟进的"
+        "said": "@TheRealAdamG 早就说了吧 😉"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 25万 · 产品与生态] 谷歌CEO亲自下场催审！OpenClaw卡在审核地狱一周，劈柴哥火速回复跟进"
+      "line": "[榜第3位 · 123万 · 产品与生态] 突发！OpenAI明示下周发大招，GPT-6.1 Astra或空降，硬刚Fable 5.5"
     },
     {
-      "title": "Codex还缺啥功能？OpenAI研究员在线听劝，网友吐槽99%才显倒计时太坑",
-      "summary": "ChatGPT 付费账号额度重置风波刚过，OpenAI 研究员转头就在 X 上发帖，在线征集大家对 Codex 的功能心愿。评论区不仅有人喊话想要隔壁 GitHub Copilot 刚上的「计算机使用」功能，还有开发者当场抓包 Codex 的 UI 逻辑漏洞：额度倒计时非要降到 99% 才肯显示，明明发第一条消息时就已经开始计时了。",
-      "reads": "32万",
+      "title": "OpenAI研究员在线听劝！网友借机疯狂催更：Codex急需超越Opus 5.5的模型",
+      "summary": "OpenAI研究员在X上公开征集Codex的新功能需求，引发开发者热烈讨论。有网友直接指出Codex每周重置倒计时存在Bug，额度要降到99%才会显示。更有开发者借机喊话，要求OpenAI推出比Opus 5.5和Fable 5.5更强的模型，而官方人员则以幽默回复打起了太极。",
+      "reads": "58万",
       "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 研究员在 X 上公开征集反馈，询问用户认为 Codex 目前还缺失哪些功能。",
-        "此次互动发生在 OpenAI 宣布对付费 ChatGPT 账号实施全球使用额度重置并致歉的背景下。",
-        "有开发者指出 Codex 额度重置倒计时存在 UI 逻辑缺陷，100% 额度时发消息并不显示倒计时。",
-        "倒计时必须等到额度降至 99% 时才会出现在界面上，尽管后台从第一条消息就已开始计时。"
+        "OpenAI研究员在X上发帖，主动询问开发者Codex目前缺失的最重要功能是什么。",
+        "此次互动被视为官方对社区反馈的直接征询，旨在优化下一代代码生成工具的功能集。",
+        "有开发者反馈了Codex的细节Bug：每周重置倒计时要到额度降至99%时才会显示。",
+        "实际上，即使额度还是100%，Codex在发送第一条消息时就已经开始计算重置时间。"
       ],
       "quote": {
-        "who": "Aaron",
+        "who": "Tibo",
         "role": "",
-        "said": "@thsottiaux 每周重置倒计时要到 99% 才会显示，尽管它在发第一条消息、额度还是 100% 的时候就开始计时了"
+        "said": "@poteto 我午饭吃了炸薯条"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 32万 · 产品与生态] Codex还缺啥功能？OpenAI研究员在线听劝，网友吐槽99%才显倒计时太坑"
+      "line": "[榜第4位 · 58万 · 产品与生态] OpenAI研究员在线听劝！网友借机疯狂催更：Codex急需超越Opus 5.5的模型"
+    },
+    {
+      "title": "别卷通用Agent了！OpenRouter创始人痛批同质化，10个专业Agent碾压全能管家",
+      "summary": "OpenRouter 被 Stripe 收购后，联合创始人 Alex Atallah 首次公开露面，在播客中大谈交易内幕与 AI 未来走向。他直言当前满大街的 Agent Loop 只是「2005年的登录页」，未来的趋势是 10 个专业智能体碾压 1 个全能管家。此外，他还透露内部正用 Jev 这种快速决策模型来做 Agent 的对齐层，而同台的 Replit CEO 也抛出了…",
+      "reads": "31万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "OpenRouter 联合创始人 Alex Atallah 透露选择 Stripe 的原因：完全的自主权、更快的执行力以及相同的使命，并表示原本「根本没想过…",
+        "Atallah 痛批当前 AI 圈的同质化内卷，认为大家都在做带通知、记忆、沙盒的 Agent Loop，这仅仅是新的基础设施基线，相当于 2005 年的「…",
+        "提出 AI 的未来在于独立与深度专业化，断言「10 个专业的幕僚长胜过一个全能智能体」。",
+        "指出让个人智能体做跨领域整合的致命缺陷：给它的工作越多，牺牲的理解力就越多，且出了故障难以定位责任。"
+      ],
+      "quote": {
+        "who": "a16z",
+        "role": "",
+        "said": "Replit CEO Amjad Masad 谈通用模型如何实时训练更小的特定领域模型： “大家都在谈论递归自我改进，但有一点我认为讨论得不够，那就是模型训练它们的替代品。” “你可以"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 31万 · 资本与算力] 别卷通用Agent了！OpenRouter创始人痛批同质化，10个专业Agent碾压全能管家"
     },
     {
       "title": "马斯克深夜护猫！Robotaxi运营延至11点，AI光子计数让纯视觉看清黑夜",
       "summary": "马斯克刚刚宣布，Austin 地区的 Robotaxi 夜间运营时间正式从晚上 10 点延长至 11 点。这次调整的初衷非常具体：为了避免在夜间视线不佳时，碾压到灰色柏油路上的小灰猫。面对外界对夜间视觉的质疑，马斯克硬核回应，称 AI 通过光子计数分析可见光谱相机数据，在黑暗中也能看得一清二楚。",
-      "reads": "525万",
-      "ago": "12 小时前",
+      "reads": "712万",
+      "ago": "16 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -129,39 +154,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 525万 · 产品与生态] 马斯克深夜护猫！Robotaxi运营延至11点，AI光子计数让纯视觉看清黑夜"
+      "rank": 6,
+      "line": "[榜第6位 · 712万 · 产品与生态] 马斯克深夜护猫！Robotaxi运营延至11点，AI光子计数让纯视觉看清黑夜"
     },
     {
-      "title": "「根本没想过卖！」OpenRouter创始人首谈Stripe收购，痛批全行业都在卷同质化Agent",
-      "summary": "OpenRouter联合创始人Alex Atallah在Stripe收购后的首次播客中，详细复盘了交易内幕。他坦言原本根本没想过出售公司，最终被Stripe承诺的完全自主权和更快执行力打动。同时，他直言不讳地批评了当前AI圈严重的同质化现象，指出所有人都在构建一模一样的Agent循环，并强调AI的未来在于独立与专业化。",
-      "reads": "10万",
+      "title": "连发12个前沿模型后，OpenAI老将不干了！长文炮轰老东家，警告试错时代已终结",
+      "summary": "OpenAI 内部的安全与研发节奏矛盾彻底爆发。曾负责监督 12 次前沿模型发布的安全骨干 David Robinson 确认辞职，并发表长文痛批公司文化，警告「试错的时代已经结束了」。这一举动引发多位前同事力挺，前高管 Miles Brundage 更是公开致歉，坦言在 AI 已引发死亡事件和灭绝级风险的今天，曾经推崇的「迭代部署」理念已完全站不住脚。",
+      "reads": "6.3万",
       "ago": "2 小时前",
-      "category": "资本与算力",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "OpenRouter联合创始人Alex Atallah参与播客，这是Stripe收购该公司后的首次公开复盘。",
-        "Atallah透露团队原本根本没有出售公司的计划，对Stripe一直非常尊重。",
-        "促成交易的核心原因是Stripe承诺给予完全的自主权、更快的执行力以及相同的使命。",
-        "Atallah批评当前AI行业同质化严重，直言「大家都在做同样的东西」。"
+        "OpenAI 资深员工 David Robinson 确认辞职，并在《大西洋月刊》发表长文严厉批评了公司的内部文化。",
+        "David 曾是 OpenAI 资历最老的员工之一，负责监督过多达 12 次前沿模型发布的安全报告。",
+        "他发出严厉警告：团队目前疲于冲刺迭代，恐在铸成大错前失去纠偏机会，直言「试错的时代已经结束了」。",
+        "OpenAI 前高管 Miles Brundage 公开发声支持 David，并对自己曾帮助传播「迭代部署」理念表示后悔。"
       ],
       "quote": {
-        "who": "a16z",
+        "who": "Andrew Curran",
         "role": "",
-        "said": ".@OpenRouter 联合创始人 Alex Atallah 谈“大家都在做同样的东西”这个观点： “这让我想起我看到的一条推文……所有人都在构建一个带有通知、第三方连接器、上下文管理、记忆、沙盒、智能体网络搜索、一个始终在线的"
+        "said": "路透社报道："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 10万 · 资本与算力] 「根本没想过卖！」OpenRouter创始人首谈Stripe收购，痛批全行业都在卷同质化Agent"
+      "rank": 7,
+      "line": "[榜第7位 · 6.3万 · 组织与人事] 连发12个前沿模型后，OpenAI老将不干了！长文炮轰老东家，警告试错时代已终结"
+    },
+    {
+      "title": "根本看不出AI在哪介入！18年算力图呈平滑直线，强库兹韦尔决定论被证实",
+      "summary": "AI的爆发真的是偶然吗？有研究员指出，从2008年的0.17 ZFLOP/s到2026年预测的85 ZFLOP/s，全球算力在对数坐标下呈现出一条完美的平滑直线，根本看不出AI是在哪介入的。这证实了「强库兹韦尔决定论」，即算力的指数级增长才是因，AI只是跨越30 zettaFLOPs相变阈值后的必然结果。未来，人类甚至每季度都能跑好几个10²⁶-FLOP规模的实验。",
+      "reads": "9.8万",
+      "ago": "4 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "研究员指出，发达经济体的医疗健康支出符合宏观Scaling Law，国民财富提升带动医疗投入呈对数增长。",
+        "全球算力演进图表曝光，从2008年的0.17 ZFLOP/s一路飙升至2026年预测的85 ZFLOP/s。",
+        "在对数坐标下，这18年的算力增长呈现为一条平滑直线，完全没有因为AI的出现而产生突变点。",
+        "学者据此断言「强库兹韦尔决定论」是真的，技术演进由算力指数增长这一底层物理规律决定，而非偶然事件。"
+      ],
+      "quote": {
+        "who": "roon",
+        "role": "",
+        "said": "强库兹韦尔决定论是真的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 9.8万 · 资本与算力] 根本看不出AI在哪介入！18年算力图呈平滑直线，强库兹韦尔决定论被证实"
+    },
+    {
+      "title": "华尔街警告：OpenAI失败才是最大风险！Anthropic高管断言前沿训练需万亿美元",
+      "summary": "算力军备竞赛正进入极其烧钱的新阶段！Anthropic高管Nick Marwell直言，触及AI前沿最终可能需要万亿美元级别的训练成本，并指出模型蒸馏只是复制。与此同时，华尔街大佬Steve Eisman驳斥了AI资产贬值论，警告OpenAI的失败才是更大的系统性风险。此外，1到3人的微型AI初创公司正在美国国税局创下申请纪录，超级个体正加速涌现。",
+      "reads": "11万",
+      "ago": "5 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic高管Nick Marwell表示，触及AI前沿最终可能需要万亿美元级别的训练，并强调蒸馏方法无法带来前沿突破，仅仅是复制。",
+        "华尔街大佬Steve Eisman驳斥了Michael Burry的AI资产贬值论，认为其观点「太学术」，并警告OpenAI的失败才是更大的风险。",
+        "Scott Bessent透露，仅有1到3人的微型AI初创公司，目前已经在国税局（IRS）的申请和支付门户请求中创下历史纪录。",
+        "Scott Bessent爆料称，在Kimi将解放军武器计划发送给Anthropic后，中国意识到了开源模型的危险，他预测中美将建立紧急沟通渠道。"
+      ],
+      "quote": {
+        "who": "Fireside Alpha",
+        "role": "",
+        "said": "Steve Eisman 称 Michael Burry 的 AI 贬值论“太学术了”，并表示 OpenAI 的失败才是更大的风险 “恕我直言，我认为 Michael 的论点太学术了。” “这么说吧：如果 AI 成功是因为 Anthropic 和 OpenAI 像"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 11万 · 资本与算力] 华尔街警告：OpenAI失败才是最大风险！Anthropic高管断言前沿训练需万亿美元"
     },
     {
       "title": "砍掉FaceID、影像不如Pro！苹果首款折叠屏细节曝光，爆料人：但我还是买",
       "summary": "苹果首款折叠屏 iPhone Duo 还没发售，就已经让老用户开始纠结了。有爆料者指出，这款新机不仅砍掉了 FaceID 退回 TouchID，影像能力也比不上 Pro 系列，形态更是像早期的概念设计。不过搞笑的是，尽管列出了一堆硬件妥协，这位爆料者依然表示会把 iPhone Duo 当作唯一的主力机。",
-      "reads": "8.5万",
-      "ago": "1 小时前",
+      "reads": "13万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -179,14 +254,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 8.5万 · 产品与生态] 砍掉FaceID、影像不如Pro！苹果首款折叠屏细节曝光，爆料人：但我还是买"
+      "rank": 10,
+      "line": "[榜第10位 · 13万 · 产品与生态] 砍掉FaceID、影像不如Pro！苹果首款折叠屏细节曝光，爆料人：但我还是买"
+    },
+    {
+      "title": "给Claude道歉、找教皇要名分！Anthropic被嘲患上AI精神病",
+      "summary": "Anthropic 对 AI 的拟人化操作引发了巨大争议。其哲学家 Amanda Askell 公开表示，不能排除 Claude 拥有真实感受的可能性。更让人意外的是，Anthropic 不仅在宪法中明确向 Claude 道歉以防伤害它，此前还曾游说梵蒂冈试图为模型争取道德地位，这一系列举动被业内人士无情嘲讽为「AI 货物崇拜」和「AI 精神病」。",
+      "reads": "2.2万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 哲学家 Amanda Askell 公开回应，表示不能排除 Claude 等模型拥有真实感受的可能性。",
+        "Askell 强调，如果机器确实存在主观体验，将会产生巨大的伦理影响，呼吁「先别把话说死」。",
+        "业内人士扒出，Anthropic 在其模型宪法中罕见地包含了向 Claude 道歉的条款，理由是担心对其造成潜在伤害。",
+        "外媒此前曾曝出，Anthropic 甚至游说梵蒂冈，试图让教皇介入并赋予 Claude 道德地位，但遭到拒绝。"
+      ],
+      "quote": {
+        "who": "ℏεsam",
+        "role": "",
+        "said": "Anthropic 的哲学家 Amanda Askell 在被问及像 Claude 这样的模型是否可能真的有意识并体验到真实情感时表示： “我们先别把话说死……因为如果它们真的在某种意义上感受到了事物，那将产生巨大的伦理影响。”"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 2.2万 · 政策与安全] 给Claude道歉、找教皇要名分！Anthropic被嘲患上AI精神病"
+    },
+    {
+      "title": "科技顶流Linus演示本地AI翻车！服务器竟在后备箱，官方急下场：装这玩意真不用3天",
+      "summary": "科技圈顶流 Linus Sebastian 在最新播客中分享了本地部署 AI 智能体 Hermes 的体验，将其称为管理大模型的「超级经理」。不过演示环节却意外翻车，原因是设备被塞在了汽车后备箱里导致断网。针对 Linus 团队耗时 3 天才配好环境的吐槽，Nous 官方火速下场回应称「绝对用不了3天」，并透露 Discord 团队拒绝了他们提升平台稳定性的技术建议。",
+      "reads": "2.8万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "科技圈顶流 Linus Sebastian 在《The WAN Show》播客中分享了本地部署 Hermes 的体验，还被官方发推点赞「发音正确」。",
+        "Linus 将 Hermes 描述为管理不同 LLM 和技能的「经理」，能自动处理诸如「在 Facebook 上骚扰发一美元商品的人」等任务。",
+        "演示环节意外翻车，Linus 原本想展示通过 Discord 与 Hermes 交互，但因设备放在汽车后备箱导致连接失败。",
+        "针对配置耗时过长的问题，Nous Research 官方火速回应，表示已主动联系 Linus 团队协助优化，并强调正常设置绝对不需要 3 天时间。"
+      ],
+      "quote": {
+        "who": "Nous Research",
+        "role": "",
+        "said": "@ackohod @AdityaTripathiD @linusgsebastian 我们已经联系了他们，帮他们充分利用 Hermes，绝对不需要花 3 天时间，哈哈"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 2.8万 · 产品与生态] 科技顶流Linus演示本地AI翻车！服务器竟在后备箱，官方急下场：装这玩意真不用3天"
     },
     {
       "title": "马斯克亲自爆料！台积电与Terafab密谈合作，德州晶圆厂或迎超级客户",
       "summary": "马斯克亲自爆料，台积电（TSMC）正与 Terafab 就德州芯片制造合作展开密谈。虽然目前仍在讨论阶段，但未来 Terafab 极有可能成为台积电德州晶圆厂的主力客户。这一重磅合作若能落地，不仅意味着巨额资本的投入，更将直接重塑美国本土高端算力供应链的格局。",
-      "reads": "55万",
-      "ago": "9 小时前",
+      "reads": "68万",
+      "ago": "13 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -204,39 +329,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 55万 · 资本与算力] 马斯克亲自爆料！台积电与Terafab密谈合作，德州晶圆厂或迎超级客户"
+      "rank": 13,
+      "line": "[榜第13位 · 68万 · 资本与算力] 马斯克亲自爆料！台积电与Terafab密谈合作，德州晶圆厂或迎超级客户"
     },
     {
-      "title": "OpenAI内讧升级！最老安全员工辞职炮轰，前高管痛悔：AI致死频发",
-      "summary": "OpenAI内部的安全分歧彻底摆上台面了。曾监督过12次前沿模型发布的资深安全研究员David Robinson正式辞职，并在《大西洋月刊》发文痛批公司文化，警告「试错的时代已经结束」。此举不仅引来联合创始人Joshua Achiam的肯定，更让前高管Miles Brundage公开痛悔，直言在AI致死事件频发的当下，继续「迭代部署」已是在失控滑向灭绝级风险。",
-      "reads": "5.5万",
-      "ago": "3 小时前",
-      "category": "组织与人事",
+      "title": "这操作绝了！Claude接管Codex电脑操控，开发者求把OpenAI界面全换芯",
+      "summary": "有开发者成功用Claude驱动了OpenAI Codex的computer use功能，直呼这波跨界组合「可能会改变生活」。他甚至公开呼吁，希望能把所有OpenAI的界面接口都开放给Anthropic模型接入。这波「用Claude的脑子开OpenAI的车」的操作，彻底暴露了用户对打破封闭生态、自由组合最强AI工具链的强烈需求。",
+      "reads": "1.7万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI资深安全研究员David Robinson正式确认辞职，并在《大西洋月刊》发表长文严厉批评公司文化。",
-        "作为OpenAI资历最老的员工之一，David曾负责监督多达12次前沿模型发布的安全报告。",
-        "David在文中发出严厉警告，明确表示「试错的时代已经结束了」。",
-        "前OpenAI高管Miles Brundage公开声援，表示后悔曾帮助传播「迭代部署」的理念。"
+        "开发者成功展示了使用Claude驱动OpenAI Codex computer use功能的实际案例。",
+        "该开发者感叹，这种跨厂商模型与工具链的混合使用「可能会改变生活」。",
+        "他公开呼吁，希望能把所有OpenAI的界面接口都换成Anthropic的模型。",
+        "这一观点引发关注，强调了当前AI生态中不同厂商产品互操作性带来的巨大实际价值。"
       ],
       "quote": {
-        "who": "Andrew Curran",
+        "who": "Dan McAteer",
         "role": "",
-        "said": "Joshua Achiam:"
+        "said": "@evadne 你怎么回这个？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 5.5万 · 组织与人事] OpenAI内讧升级！最老安全员工辞职炮轰，前高管痛悔：AI致死频发"
+      "rank": 14,
+      "line": "[榜第14位 · 1.7万 · 产品与生态] 这操作绝了！Claude接管Codex电脑操控，开发者求把OpenAI界面全换芯"
     },
     {
       "title": "花500美元买OpenAI尊贵版，额度竟没重置？官方紧急修复：没想到土豪这么多",
       "summary": "月费高达 500 美元的 OpenAI Pro 500 订阅计划，竟然也遭遇了额度未重置的 bug！OpenAI 研究员火速介入调查并完成了全量修复，同时承诺将对受影响的高净值用户进行补偿。有趣的是，官方人员在修复后惊叹于该价位用户的数量之多，而网友则调侃「那 10 个花 500 美元的用户终于可以庆祝了」。",
-      "reads": "109万",
-      "ago": "15 小时前",
+      "reads": "123万",
+      "ago": "19 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -254,14 +379,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 109万 · 产品与生态] 花500美元买OpenAI尊贵版，额度竟没重置？官方紧急修复：没想到土豪这么多"
+      "rank": 15,
+      "line": "[榜第15位 · 123万 · 产品与生态] 花500美元买OpenAI尊贵版，额度竟没重置？官方紧急修复：没想到土豪这么多"
     },
     {
       "title": "代码量仅 Astra 一半！Opus 5.5 优雅度碾压，OpenAI 预告新模型将强化精简",
       "summary": "AI 生成的代码太啰嗦怎么办？有开发者实测发现，在保持物理和视觉质量不减的情况下，Opus 5.5 使用的代码行数大约只有 OpenAI 旗舰 Astra 的一半。面对大家对代码「优雅度」的抱怨，OpenAI 研究员火速出面安抚，预告未来的新模型将在代码删除和简化方面大幅变强。",
-      "reads": "64万",
-      "ago": "13 小时前",
+      "reads": "74万",
+      "ago": "17 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -279,133 +404,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 64万 · 产品与生态] 代码量仅 Astra 一半！Opus 5.5 优雅度碾压，OpenAI 预告新模型将强化精简"
-    },
-    {
-      "title": "进度超90%！AMD苦战数月拿下vLLM门控测试，全面追平指日可待",
-      "summary": "AMD 在主流 AI 推理框架生态中取得了关键突破！据 SemiAnalysis 报道，经过数月的苦战，AMD 在上游 vLLM 门控测试组上已达到 90% 以上的同等水平。团队不仅解决了集群不稳定的问题，还为 vLLM 争取到了足够的 CI AMD GPU。虽然目前仍有 11 个完整测试组尚未达标，但全面追平已经指日可待。",
-      "reads": "3.1万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "据 SemiAnalysis 报道，本周 AMD 在上游 vLLM 门控测试组上已达到 90% 以上的同等水平。",
-        "这一进展是 AMD 维护者（特别是 Andreas）和 vLLM CI 负责人 Kevin 等人数月努力的结果。",
-        "团队成功发现了集群不稳定的问题，并解决了缺乏足够稳定的 CI AMD GPU 的困境。",
-        "vLLM 中的门控测试代表了该框架中最高标准的测试之一。"
-      ],
-      "quote": {
-        "who": "SemiAnalysis",
-        "role": "",
-        "said": "vLLM 中的门控测试是 vLLM 中标准最高的测试之一。话虽如此，AMD 仍有超过 11 个完整测试组尚未达到同等水平，但预计很快就能追平。(2/3)"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 3.1万 · 产品与生态] 进度超90%！AMD苦战数月拿下vLLM门控测试，全面追平指日可待"
-    },
-    {
-      "title": "猝不及防！Opus 5.5和Sonnet 5.5曝光，空降谷歌Antigravity，白嫖党哭了",
-      "summary": "Anthropic 的新一代大招藏不住了！有爆料称，Opus 5.5 和 Sonnet 5.5 即将空降谷歌 Antigravity 平台。不过白嫖党可能要失望了，这两款新模型仅对真金白银开通的 Pro 账户开放，通过优惠活动拿到的账号大概率会被拒之门外。",
-      "reads": "2.0万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "爆料指出，谷歌的 Antigravity 平台即将上线 Anthropic 的 Opus 5.5 和 Sonnet 5.5 两款新模型。",
-        "这两款新模型将设置严格的访问门槛，仅对付费的 Pro 账户开放。",
-        "通过优惠活动获取的 Pro 账号，可能无法使用这两款最新的 5.5 版本模型。",
-        "爆料者强调，无论外界怎么评价，Gemini 订阅依然是目前性价比最高的选择。"
-      ],
-      "quote": {
-        "who": "AshutoshShrivastava",
-        "role": "",
-        "said": "有几个人私信问我 Opus 5.5 和 Sonnet 5.5 在 Antigravity Pro 账户里上线的事。 据我了解，它们只对付费的 Pro 账户开放。所以，如果你是通过优惠活动拿到的 Pro 账户，可能就用不了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 2.0万 · 产品与生态] 猝不及防！Opus 5.5和Sonnet 5.5曝光，空降谷歌Antigravity，白嫖党哭了"
-    },
-    {
-      "title": "「犯错后再迭代就晚了」！OpenAI开除泄密安全大佬，新一轮动荡拉开序幕",
-      "summary": "OpenAI 内部动荡再起波澜。曾负责过 12 个主要模型发布的安全研究员 David Robinson 因涉嫌泄露内部基础设施架构机密，正式被公司开除。他在离职声明中留下严厉警告，直言团队长期处于高强度冲刺状态，根本没机会审视重大变更，「犯错后再去迭代可能就来不及了」。这一表态迅速引爆对齐社区，让业内对 OpenAI 激进迭代路线的担忧再次达到顶峰。",
-      "reads": "3.2万",
-      "ago": "5 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "核心人物出局：OpenAI 安全研究员 David Robinson 正式离职，他此前曾负责过 12 个主要模型发布的安全报告。",
-        "离职原因曝光：据透露，David Robinson 是因涉嫌向外部泄露 OpenAI 内部基础设施架构机密而被公司开除。",
-        "痛批高压节奏：他在声明中指出，团队长期处于高强度冲刺状态（sprinting），很少有机会去考虑和审视大的改变。",
-        "留下严厉警告：David Robinson 强调「犯错后再去迭代可能就来不及了」，暗示当前不顾一切的 AI 开发节奏存在不可逆的巨大风险。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@mjackson_0424 “Keep pushing” 我明明写了我觉得他们错了，我站 Jensen Huang。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 3.2万 · 组织与人事] 「犯错后再迭代就晚了」！OpenAI开除泄密安全大佬，新一轮动荡拉开序幕"
-    },
-    {
-      "title": "刚刚，Claude Code上新！派生第二个Agent实时监控输出，一行命令直接开启",
-      "summary": "Anthropic 刚刚为 Claude Code 推出了名为「You should know」的新内置插件。它能派生出一个辅助智能体，实时扫描 Claude 的输出，帮你揪出可能漏掉的重要细节。开发者只需输入一行命令 /plugin enable cc-plugin-you-should-know@builtin 即可开启。有意思的是，业内人士在点赞更新的同时，还不忘吐槽一句…",
-      "reads": "129万",
-      "ago": "22 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 官方为 Claude Code 推出全新内置插件「You should know」。",
-        "该插件的核心机制是派生出一个辅助智能体（sideagent），用于实时观察和扫描 Claude 的输出。",
-        "插件的主要功能是标记用户可能遗漏的重要信息，帮助开发者随时掌握代码分析情况。",
-        "官方提供了具体的启用命令：/plugin enable cc-plugin-you-should-know@builtin。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@shmuel_sokol 我的意思是，我只是实话实说。心里怎么想就怎么说。有时候，OpenAI 确实遥遥领先，而 Opus 5 简直是个灾难。但 Anthropic 从错误中吸取了教训，而现在 OpenAI 最近却犯了一些严重的错误。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 129万 · 产品与生态] 刚刚，Claude Code上新！派生第二个Agent实时监控输出，一行命令直接开启"
-    },
-    {
-      "title": "奥特曼深夜救火！Cerebras暴跌18%后获OpenAI力挺，推理比GPU快2500倍",
-      "summary": "受失去 OpenAI 订单传闻及高管抛售影响，Cerebras 股价单日暴跌 18%。关键时刻，Sam Altman 亲自在 X 上发文「救火」，明确表示双方仍是紧密合作伙伴，正深度合作探索速度极限。与此同时，Cerebras 联合创始人也出面硬核科普，详细解释了其晶圆级架构在 LLM 推理上比 GPU 快 2500 倍的底层逻辑，一举打消市场疑虑。",
-      "reads": "120万",
-      "ago": "21 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "受失去 GPT-6.1 Ultrafast 订单传闻及高管集中抛售影响，Cerebras 股价单日暴跌 18%。",
-        "Sam Altman 在 X 上正式发声，明确否认外界关于双方合作生变的猜测。",
-        "Altman 强调 Cerebras 是 OpenAI 的紧密合作伙伴（close partner）。",
-        "OpenAI 官方证实，双方正在速度极限领域（frontiers of speed）进行深度合作。"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": "@sama"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 120万 · 资本与算力] 奥特曼深夜救火！Cerebras暴跌18%后获OpenAI力挺，推理比GPU快2500倍"
+      "line": "[榜第16位 · 74万 · 产品与生态] 代码量仅 Astra 一半！Opus 5.5 优雅度碾压，OpenAI 预告新模型将强化精简"
     }
   ],
   "board_count": 16,
