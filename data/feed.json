@@ -3,10 +3,34 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-05 05:19:44 +0800",
+  "fetched_at": "2026-10-05 08:49:09 +0800",
   "today": "10/05",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
+    {
+      "time": "06:08",
+      "date": "10/05",
+      "title": "机器人组装GB300母线，成功率超95%",
+      "summary": "英伟达 GB300 的母线，现在交给机器人装了，组装成功率已经超过 95%。据台媒经济日报报道，这是英伟达和鸿海第一次对外展示用机器人造设备的成果。…",
+      "source": "ec.ltn.com.tw",
+      "id": "168fcdc7",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=168fcdc7&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/05 06:08] 机器人组装GB300母线，成功率超95% · https://www.aiera.com.cn/asi-item.html?id=168fcdc7&from=yuanyuan"
+    },
+    {
+      "time": "04:49",
+      "date": "10/05",
+      "title": "「这是什么恶心玩笑？」顶级AI黑客突遭OpenAI封号，官方火速滑跪道歉",
+      "summary": "全球最有名的 AI 越狱者 Pliny，愚人节当天被 OpenAI 封了号。当天晚些时候又被解封，还收到了一封道歉邮件。 据 Decrypt 报道，4 月 1 日，这位有…",
+      "source": "X/elder_plinius",
+      "id": "bf7c8f2a",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=bf7c8f2a&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/05 04:49] 「这是什么恶心玩笑？」顶级AI黑客突遭OpenAI封号，官方火速滑跪道歉 · https://www.aiera.com.cn/asi-item.html?id=bf7c8f2a&from=yuanyuan"
+    },
     {
       "time": "18:07",
       "date": "10/04",
@@ -282,6 +306,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=14ae644c&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/04 00:00] Anthropic 巨额慈善账单曝光，针对股东的费用藏不住了 · https://www.aiera.com.cn/asi-item.html?id=14ae644c&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/04",
+      "title": "你的AI在偷偷给全家建档案？Meta新代理每小时扒一次熟人隐私",
+      "summary": "Meta 的 AI 智能体 Muse，正在给用户身边的每个人建档案。据 Wired 报道，独立安全研究员 Karan Joshi 提取出了 Muse 的系统提示词。文件显示…",
+      "source": "RSS",
+      "id": "36d0918a",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=36d0918a&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/04 00:00] 你的AI在偷偷给全家建档案？Meta新代理每小时扒一次熟人隐私 · https://www.aiera.com.cn/asi-item.html?id=36d0918a&from=yuanyuan"
     },
     {
       "time": "23:49",
@@ -690,42 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=71c3aea1&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/03 04:29] Perplexity开源27B决策模型硬刚Jev，输出Token直接免费！ · https://www.aiera.com.cn/asi-item.html?id=71c3aea1&from=yuanyuan"
-    },
-    {
-      "time": "04:25",
-      "date": "10/03",
-      "title": "Claude恢复日更！新插件直接挂个副手Agent，专门帮你划重点",
-      "summary": "Claude 又上新了，这回是给 Claude Code 挂了个副手。ClaudeDevs 官方账号在 X 上宣布，新插件「You should Know」正式上线…",
-      "source": "X/ClaudeDevs",
-      "id": "077fe0be",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=077fe0be&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/03 04:25] Claude恢复日更！新插件直接挂个副手Agent，专门帮你划重点 · https://www.aiera.com.cn/asi-item.html?id=077fe0be&from=yuanyuan"
-    },
-    {
-      "time": "04:13",
-      "date": "10/03",
-      "title": "数百万用户玩法变天，谷歌Gemini砍掉自定义Gems，11月17日强制转成Skills",
-      "summary": "谷歌要把 Gemini 的自定义 Gems 关掉了，往后统一换成 Skills。 据 thurrott.com 报道，Gemini 界面里已经弹出了自动迁移的提示。…",
-      "source": "www.thurrott.com",
-      "id": "0d32e03a",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=0d32e03a&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/03 04:13] 数百万用户玩法变天，谷歌Gemini砍掉自定义Gems，11月17日强制转成Skills · https://www.aiera.com.cn/asi-item.html?id=0d32e03a&from=yuanyuan"
-    },
-    {
-      "time": "03:42",
-      "date": "10/03",
-      "title": "Anthropic研究员给出时间表：超越全人类的AI两年内就来，初级白领最先受冲击",
-      "summary": "Anthropic 研究员 Sholto Douglas 在 Fireside Alpha 播客里抛出了时间表。「能力等于或超过所有人类的模型，很可能在未来几年内出现。」…",
-      "source": "X/firesidealpha",
-      "id": "a084efdb",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=a084efdb&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/03 03:42] Anthropic研究员给出时间表：超越全人类的AI两年内就来，初级白领最先受冲击 · https://www.aiera.com.cn/asi-item.html?id=a084efdb&from=yuanyuan"
     }
   ],
   "feed_count": 60,
