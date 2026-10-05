@@ -3,409 +3,409 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-05 23:55:08 +0800",
-  "today": "10/05",
+  "fetched_at": "2026-10-06 06:33:51 +0800",
+  "today": "10/06",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "防叛逃Claude！OpenAI立下28天军令状：Codex每天不上新就重置额度",
-      "summary": "OpenAI 终于坐不住了！为了防止开发者流向 Claude，研究员 Tibo 宣布 Codex 进入「专注简化」阶段，并立下 28 天军令状：未来 28 天内，每天要么推出一项对大多数用户有用的明显改进，要么就执行一次全面额度重置。此举引发社区热议，有人调侃即将迎来「超级重置月」，也有人质疑这波高频迭代能否真正击败 Opus 5.5，甚至有网友喊话：能不能不要重置，让我保留旧…",
-      "reads": "537万",
+      "title": "刚刚，GPT-6全系提速50%！OpenAI开启28天连更，额度消耗不变",
+      "summary": "10月5日，OpenAI 开启「28天持续优化」首日更新，宣布将 GPT-6 Astra 和 GPT-6.1 Sol 的默认推理速度提升约 50%，从 30 TPS 飙升至 50 TPS。此次提速覆盖所有通过 ChatGPT 登录的产品及 Devin 等合作伙伴，且完全不影响用户的每周额度消耗。官方表示新模型换上了目前最优化的分词器，完成任务所需 Token 更少，但也有网友吐…",
+      "reads": "129万",
       "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 研究员 Tibo 宣布 Codex 团队进入「专注简化」阶段，目前只推进简化体验、提升效率、突破性功能或新模型。",
-        "官方立下 28 天军令状：未来 28 天每天要么发布一项对大多数 Codex/Work 用户有明显改进的功能，要么执行全面额度重置。",
-        "社区普遍认为，此举是为了应对 DevDay 后用户的不满情绪，并防止开发者叛逃到 Claude 阵营。",
-        "面对高频更新承诺，有网友调侃这即将变成连续 28 天的「超级重置月」，甚至有人笑称「我想休息 28 天」。"
+        "OpenAI 高管 Tibo 兑现承诺，公布「28天持续优化」第 1 天成绩单：GPT-6 Astra 和 GPT-6.1 Sol 默认速度提升约 50%。",
+        "模型推理速度从 30 TPS 提升至 50 TPS，并配备了目前最优化的 tokenizer，完成任务所需的 Token 数量更少。",
+        "此次更新覆盖所有通过 Sign in With ChatGPT 登录的产品及合作伙伴，包括 OpenCode、Pi、Amp 和 Devin 等。",
+        "官方研究员确认，提速不会改变套餐额度的消耗方式，用户的每周额度消耗速度与此前保持一致。"
       ],
       "quote": {
-        "who": "Kol Tregaskes",
+        "who": "Mark Kretschmann",
         "role": "",
-        "said": "OpenAI 连续 28 天重大 Codex 更新的第 1 天，*还是*彻底重置？我们最想要哪个？ 🤔"
+        "said": "@nsxdavid 可能还没在所有地方上线"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 537万 · 产品与生态] 防叛逃Claude！OpenAI立下28天军令状：Codex每天不上新就重置额度"
+      "line": "[榜第1位 · 129万 · 产品与生态] 刚刚，GPT-6全系提速50%！OpenAI开启28天连更，额度消耗不变"
     },
     {
-      "title": "炒作拉满，质量垫底！一张梗图引爆全网猜谜，谷歌惨遭贴脸开大",
-      "summary": "一张「炒作拉满、质量垫底」的柱状图在X上引发了AI圈的疯狂猜谜。有爆料人发文暗讽谷歌是最爱炒作的公司，并调侃了Nano-Banana和Veo等产品，甚至引出网友造梗「谷歌的Claudex AI Space」。不仅如此，这场吃瓜大戏还牵扯到了Tibo，爆料人更是放出狠话暗示「大的要来了」，直言距离揭晓已经不远。",
-      "reads": "61万",
-      "ago": "8 小时前",
-      "category": "模型与能力",
+      "title": "目标星辰大海！马斯克确认AI战略大转向，超级智能SuperGrok SI浮出水面",
+      "summary": "马斯克正式确认了旗下AI帝国的战略大转向，目标从AGI直指超级智能（SI）。他发文感叹「人类只是生物引导程序」，并将把超级智能送入星辰大海视为绝佳的成功条件。目前社区已扒出非官方的SpaceXSI新logo和SuperGrok SI商标，这意味着未来资源将全押具备自我迭代能力的超级智能系统，而非当前的大语言模型竞赛。",
+      "reads": "284万",
+      "ago": "3 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "一张对比图在X上引发热议，图中显示某家AI公司「炒作（Hype）」极高，但「质量（Quality）」极低。",
-        "爆料人发文暗讽，称这家公司是X上最不爱发声和炒作的，每次预热都能兑现，并直接点名了Google的Nano-Banana和Veo。",
-        "针对网友关于Jev的讨论，爆料人回应称其是为了特定目的而做，还算管用。",
-        "讨论中明确指出，写代码并不是AI大模型的唯一应用场景。"
+        "马斯克在X上发文，将「把超级智能传播到星辰大海」定义为生物引导程序的绝佳成功条件。",
+        "这一言论标志着其AI战略重心发生重大转移，正式从通用人工智能（AGI）转向超级智能（SI）。",
+        "有网友翻出历史记录，指出马斯克早在2014年就已经开始使用「SI」这一概念来描述终极愿景。",
+        "社区开发者确认了更名计划，并曝光了非官方的SpaceXSI logo以及全新的SuperGrok SI商标。"
       ],
       "quote": {
-        "who": "AshutoshShrivastava",
+        "who": "roon",
         "role": "",
-        "said": "@n30n_41 稍安勿躁 😊 已经不远了。"
+        "said": "所谓的“资本现实主义”和“继承主义”这两种观点其实没啥区别。你可以看到 elon 几十年来一直在这些想法中打转，并无奈地默许了它们。但他也是唯一能把资本塑造成人类形态的人之一，所以我希望他能试试"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 61万 · 模型与能力] 炒作拉满，质量垫底！一张梗图引爆全网猜谜，谷歌惨遭贴脸开大"
+      "line": "[榜第2位 · 284万 · 组织与人事] 目标星辰大海！马斯克确认AI战略大转向，超级智能SuperGrok SI浮出水面"
     },
     {
-      "title": "马斯克亲自翻牌！首家「零人类公司」开业，Grok当CEO，全套避坑指南公开",
-      "summary": "首家以 Grok 为 CEO 的「零人类公司」正式亮相，马斯克亲自转发盖章！一位开发者不仅让 Grok 当老板，还呼吁大家雇佣 Grok Bot 作为首位 AI 员工，并大方分享了定义角色、测试治理等全套避坑指南。这标志着 AI Agent 正从单纯的工具，真正演变为组织里的核心成员。",
-      "reads": "278万",
-      "ago": "15 小时前",
+      "title": "a16z揭秘AI消费真相：前1%用户月砸903美元，大家只想用AI打发时间",
+      "summary": "a16z 刚刚发布了第七版 Top 100 消费者 AI 应用榜单，这次首次新增了收入排行榜。数据显示，AI 消费市场呈现极端的头部效应，前 1% 的用户月均支出高达 903 美元，超过了后 50% 用户的总和（中位数仅 25 美元）。此外，报告指出当前 AI 应用的商业模式严重倒置，85% 依赖订阅变现，而社交、游戏等 9 个核心消费赛道至今仍无 AI 产品进入前 100，用…",
+      "reads": "40万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "一位开发者宣布打造首家「零人类公司」，由 Grok 正式出任 CEO。",
-        "该开发者呼吁用户雇佣第一个 Grok Bot 员工，并公开了全套管理与避坑指南。",
-        "指南强调，管理 AI 员工需要明确定义角色、测试治理流程，并强制加入人工审批环节。",
-        "马斯克亲自引用该推文并回复「Grok @Bot」，引发全网大量关注。"
+        "a16z 发布第七版 Top 100 消费者 AI 应用榜单，除常规网页和移动端流量排名外，首次新增收入排行榜。",
+        "AI 消费支出极度分化：前 1% 的消费者支出超过后 50% 的总和，前者平均每月花费 903 美元，而中位数客户仅为 25 美元。",
+        "ChatGPT 成为首个挤进全球前 20 大消费者订阅库的 AI 应用，目前该榜单中有 13 个是媒体类应用。",
+        "消费级 AI 商业模式出现倒置：85% 的上榜 Web 应用通过直接订阅变现，62% 通过积分或额外使用量付费，仅 13% 依赖广告。"
       ],
       "quote": {
-        "who": "Elon Musk",
+        "who": "Logan Kilpatrick",
         "role": "",
-        "said": "Grok @Bot"
+        "said": "@a16z Google AI Studio"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 278万 · 产品与生态] 马斯克亲自翻牌！首家「零人类公司」开业，Grok当CEO，全套避坑指南公开"
+      "line": "[榜第3位 · 40万 · 产品与生态] a16z揭秘AI消费真相：前1%用户月砸903美元，大家只想用AI打发时间"
     },
     {
-      "title": "别切了！OpenAI合并Codex与ChatGPT，12亿人直接开口说话",
-      "summary": "OpenAI 官方终于听劝，要把 ChatGPT 里的 Chat 和 Work 模式合并了！高管 Tibo 在播客中亲口确认，为了解决用户嫌 Work 模式慢、来回切换太繁琐的痛点，Codex 和 ChatGPT 即将走向大一统。未来 12 亿用户将体验到完全「零配置」的交互——没有模型选择器，不用调参，直接开口说话，所有 Dots 的能力都会被无缝集成进去。",
-      "reads": "4.5万",
-      "ago": "4 小时前",
+      "title": "谁是AI圈头号大忽悠？一张图炸出全网吃瓜，爆料人暗示谷歌大招已在路上",
+      "summary": "AI圈又掀起了一场吃瓜大战！一位开发者甩出一张「高炒作、低质量」的柱状图让全网猜谜，引得研究员神调侃是谷歌的「Claudex AI Space」。不过爆料人立刻下场护犊子，直言谷歌是X上最不爱炒作的公司，每次预热都能兑现 Google Nano-Banana Veo 级别的成果。面对网友催更，他更是直接暗示大招「已经不远了」，顺手还在光天化日之下把调侃的同行「公开处刑」了一番。",
+      "reads": "61万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 高管 Tibo 在播客中证实，即将合并 Codex 和 ChatGPT 的 Chat 与 Work 功能开关。",
-        "合并的核心原因是用户反馈 Work 模式虽然能力强，但速度较慢，频繁切换体验不佳。",
-        "官方计划砍掉所有复杂的配置项，取消模型选择器，实现真正的「零配置」交互。",
-        "未来 Dots 的所有能力将直接上线至 ChatGPT 中，为 12 亿用户提供无缝体验。"
+        "一位开发者发布了一张柱状图，显示某AI公司「炒作（Hype）」极高而「质量（Quality）」极低，邀请全网在线猜谜。",
+        "一位研究员在评论区神回复，调侃这家公司是谷歌的「Claudex AI Space」，引发社区疯狂互动。",
+        "爆料人随后澄清并力挺谷歌，称其是X平台上最不爱发声、最不爱炒作的AI公司。",
+        "他强调谷歌每次预热都能真正交付成果，并直接点名了 Google Nano-Banana Veo 作为证明。"
       ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "AshutoshShrivastava",
         "role": "",
-        "said": "OpenAI的Tibo一句话把未来说透了： “你不是在为机器工作，机器是在为你工作。这将是一场文艺复兴。” coding正在变成building。 岗位没有消失，只是从“会执行”变成“会判断”。 一个人现在能做出以前需要整个团队和预算才能做的东西。 一半世界已经在用AI交付产品，另一半还在用政策禁止员工碰AI。"
+        "said": "@poteto @thsottiaux 光天化日之下公开处刑。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 4.5万 · 产品与生态] 别切了！OpenAI合并Codex与ChatGPT，12亿人直接开口说话"
+      "line": "[榜第4位 · 61万 · 产品与生态] 谁是AI圈头号大忽悠？一张图炸出全网吃瓜，爆料人暗示谷歌大招已在路上"
     },
     {
-      "title": "重磅并购！施耐德电气237亿美元吞下PTC，工业软件格局大洗牌",
-      "summary": "施耐德电气刚刚宣布了一笔超级并购，豪掷约237亿美元企业价值（交易价226亿美元）将美国工程软件开发商PTC收入囊中。作为电气管理巨头，施耐德这次出手直接补齐了在工程设计与仿真软件上的能力。这笔天价交易不仅让工业软件格局大洗牌，也再次印证了工业数字化与AI结合的巨大战略价值。",
-      "reads": "4.8万",
-      "ago": "4 小时前",
-      "category": "资本与算力",
+      "title": "前Anthropic研究员爆料！大部分代码已是AI写且无人查，明年模型就能自我改进",
+      "summary": "前 Anthropic 和 OpenAI 研究员 Jacob Coxon 在纽约市议会听证会上爆出猛料。他警告称，目前大部分代码已经是 AI 写的且几乎没人检查，明年模型就能实现自我改进。此外，OpenAI 内部将自动化 AI 研究员的里程碑设定在 2027 到 2028 年，目前各实验室进展甚至超前，按此路径人类极有可能失去对 AI 的控制。",
+      "reads": "6.9万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "施耐德电气（Schneider Electric）正式宣布收购美国工程软件开发商 PTC。",
-        "本次交易的隐含企业价值高达 237 亿美元。",
-        "按照实际交易价格计算，这笔并购的金额为 226 亿美元。",
-        "施耐德电气作为电气管理巨头，旨在通过此次收购整合 PTC 的工程设计与仿真软件能力。"
+        "前 Anthropic 能力研究员 Jacob Coxon 在纽约市议会听证会上透露，自己因对 AI 失控的恐惧而离职。",
+        "Coxon 警告，目前还没有人能够真正控制 AI，而明年的模型就将具备自我改进的能力。",
+        "他指出，整个 AI 问题的核心是预期在未来几年内会出现一场全球性的递归自我改进竞赛（尤其是中美之间）。",
+        "按照目前的发展路径，所有 AI 公司都在试图打造在每一项任务上都比人类更强的超级智能，人类极有可能失去控制。"
       ],
       "quote": {
-        "who": "Axios",
+        "who": "Fireside Alpha",
         "role": "",
-        "said": "Schneider Electric 以 226 亿美元收购 PTC"
+        "said": "前 Anthropic 和 OpenAI 研究员 Jacob Coxon 表示，OpenAI 内部对自动化 AI 研究员的里程碑设定在 2027 到 2028 年，目前各实验室进展顺利甚至超前，而且大部分代码已经是 AI 写的，几乎没人检查 “在我的上一份工作中，从某种意义上说，我致力于"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 4.8万 · 资本与算力] 重磅并购！施耐德电气237亿美元吞下PTC，工业软件格局大洗牌"
+      "line": "[榜第5位 · 6.9万 · 政策与安全] 前Anthropic研究员爆料！大部分代码已是AI写且无人查，明年模型就能自我改进"
     },
     {
-      "title": "连续28天！OpenAI开启密集爆更期，GPT-6.1 Sol或首发空降ChatGPT",
-      "summary": "OpenAI 正式开启了为期 28 天的连续更新计划，承诺每日带来新改进或额度重置。有 KOL 猜测，首日重头戏可能是 GPT-6.1 Sol 正式接入 ChatGPT。此外，针对 Token 重置机制的争议，爆料称重置并非累积制，且对 OpenAI 而言成本极低，多次重置也不会导致用户 Token 耗尽。",
-      "reads": "2.4万",
+      "title": "别只拿Agent订机票了！Nous官方甩出326个真实用例，VPS建站都能干",
+      "summary": "Nous Research 官方发布了 Hermes Agent 的 326 个真实用户用例，直接打破了「Agent 只能用来订机票」的刻板印象。作为一个拥有近 500 个 mod 的生态项目，Hermes 这次展示了从 VPS 建站到健身教练等硬核场景，证明了其强大的通用性。官方还在评论区手把手引导新手入门，加速推动 Agent 的落地普及。",
+      "reads": "6.8万",
       "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 正式启动「28 Days of Improvements」计划，开启连续 28 天的密集更新期。",
-        "KOL Mark K. 猜测，首日更新的重头戏可能是 GPT-6.1 Sol 正式落地 ChatGPT。",
-        "针对 Token 重置机制，Mark K. 澄清这并非累积制，且对 OpenAI 而言成本远低于外界预期。",
-        "爆料指出，如果一个月内发生多次重置，大多数用户实际上并不会用完所有的 Token。"
+        "Nous Research 官方发布了 326 个 Hermes Agent 的真实用户用例。",
+        "用例场景极其丰富，涵盖了 VPS 建站、健身教练、家庭助手等多元化需求。",
+        "官方明确表示，此举是为了打破用户对 Agent 仅能处理「订机票」等简单任务的认知局限。",
+        "Hermes 作为一个拥有近 500 个 mod 的生态项目，正通过展示实际落地能力来强化其通用性定位。"
       ],
       "quote": {
-        "who": "Mark Kretschmann",
+        "who": "Nous Research",
         "role": "",
-        "said": "@iamtimqueen @OpenAI 我不明白为什么这要通过打电话来实现，而不是直接用语音聊天。"
+        "said": "@nickytrades_ They're on the page too, this is the personal use filter"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 2.4万 · 产品与生态] 连续28天！OpenAI开启密集爆更期，GPT-6.1 Sol或首发空降ChatGPT"
+      "line": "[榜第6位 · 6.8万 · 产品与生态] 别只拿Agent订机票了！Nous官方甩出326个真实用例，VPS建站都能干"
     },
     {
-      "title": "今天必须装上！Claude Code悄悄上线Mod机制，官方防漏看插件被全网吹爆",
-      "summary": "Claude Code 悄悄上线了全新的 Mod 扩展机制，允许开发者随心所欲地自定义交互方式。官方还直接内置了名为「you-should-know」的神级插件，通过派生辅助 Agent 实时盯防复杂任务中的关键信息。只需输入一行「/plugin enable」即可开启，标志着 AI 编程工具正式向可定制的「注意力界面」演进。",
-      "reads": "2.4万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
+      "title": "OpenAI给ChatGPT加上隐形水印了！仅限欧洲，开源后被调侃5分钟内必出破解版",
+      "summary": "一个时代的终结。OpenAI 开始为 ChatGPT 和 Codex 生成的文本部署隐形水印，目前仅限欧洲地区用户启用。好消息是这项技术被开源了，不过开发者们已经开始调侃：给 GitHub 五分钟，去水印工具马上就到。",
+      "reads": "5.4万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Anthropic 为 Claude Code 正式上线 Mod 扩展机制，支持用户深度自定义 AI 交互方式。",
-        "官方推出内置插件「you-should-know」，有 KOL 强烈呼吁开发者「今天就必须装上」。",
-        "该插件通过派生辅助智能体，实时监控主 Agent 的输出，专门标记复杂任务中容易漏掉的关键信息。",
-        "用户只需在终端输入「/plugin enable」命令，即可一键开启这项新功能。"
+        "OpenAI 正式开始为 ChatGPT 和 Codex 生成的文本推出隐形水印功能。",
+        "受《欧盟 AI 法案》合规要求影响，该功能目前仅限欧洲地区用户启用。",
+        "对于全球 API 客户，OpenAI 提供了可选开启水印的权限。",
+        "OpenAI 宣布将这项隐形水印技术开源。"
       ],
       "quote": {
-        "who": "Dan McAteer",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "@diligentium 这俩有关系，但我不会管那叫“接口”"
+        "said": "目前，这将仅限欧洲。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 2.4万 · 产品与生态] 今天必须装上！Claude Code悄悄上线Mod机制，官方防漏看插件被全网吹爆"
+      "line": "[榜第7位 · 5.4万 · 政策与安全] OpenAI给ChatGPT加上隐形水印了！仅限欧洲，开源后被调侃5分钟内必出破解版"
     },
     {
-      "title": "觉都不睡了！Opus 5.5实测出炉，速度打爆GPT-6.1 Sol，动效反超Astra",
-      "summary": "Anthropic 的新模型 Fable 5.5 和 Opus 5.5 灰度测试惊艳全网。有开发者用 Fable 5.5 生成了可交互的「太阳机器」场景，不仅能四处移动，还能开合光圈。更让人惊喜的是 Opus 5.5 的实测表现，它不仅速度超越了 OpenAI 的 GPT-6.1 Sol，在动效和声音设计上甚至比旗舰 Astra 还要强，被赞为当前性价比最高的日常主力模型。",
-      "reads": "9648",
-      "ago": "42 分钟前",
-      "category": "模型与能力",
+      "title": "差了整整5倍！Anthropic订阅性价比暴击OpenAI，Opus 5.5额度碾压Sol",
+      "summary": "有开发者对比了 Anthropic 与 OpenAI 订阅套餐的等效 API 价值，发现中端线差距惊人。在 200 美元档位对决中，Anthropic 提供的 Opus 5.5 价值是 GPT-6.1 Sol 的 5 倍以上，Token 量更是达到对手的 2.5 倍。虽然 OpenAI 在旗舰模型 Astra 上的额度略胜 Fable 5.1，但传闻 Anthropic 正酝酿…",
+      "reads": "2.6万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "开发者展示了由 Fable 5.5 生成的可交互「太阳机器」场景，位于无尽沙漠中央。",
-        "在 Fable 5.5 生成的场景中，用户可以四处移动、对齐镜子，甚至开合光圈。",
-        "Opus 5.5 的实测体验出炉，被开发者评为当前性价比最高的日常主力模型。",
-        "实测显示，Opus 5.5 的生成速度相当快，表现优于 OpenAI 的 GPT-6.1 Sol。"
+        "有开发者发布图表，详细对比了 Anthropic 和 OpenAI 在 20 美元、100 美元、200 美元档位订阅套餐的 API 等效价值。",
+        "在中端模型对比中，Anthropic 订阅套餐的整体价值超过 OpenAI 同等 API 定价的 5 倍以上。",
+        "具体到 200 美元档位，Claude 的 Max 20x 套餐提供的 Opus 5.5 Token 数量，是 OpenAI Pro 20x 套餐中 GPT…",
+        "在旗舰模型方面，OpenAI Pro 和 Max 20x 套餐提供的 Astra 使用量，仅比 Anthropic 的 Fable 5.1 略多一点。"
       ],
       "quote": {
-        "who": "Pankaj Kumar",
+        "who": "leo 🐾",
         "role": "",
-        "said": ""
+        "said": "为了更好地比较，你在 Claude 的 Max 20x 套餐里能拿到的 Opus 5.5 Token 数量，是 Pro 20x 套餐里 Sol 6.1 的 2.5 倍以上"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 9648 · 模型与能力] 觉都不睡了！Opus 5.5实测出炉，速度打爆GPT-6.1 Sol，动效反超Astra"
+      "line": "[榜第8位 · 2.6万 · 产品与生态] 差了整整5倍！Anthropic订阅性价比暴击OpenAI，Opus 5.5额度碾压Sol"
     },
     {
-      "title": "图灵奖得主LeCun发警告！学术界绝对别碰大模型，靠它实现AGI不可能",
-      "summary": "图灵奖得主 Yann LeCun 在苏黎世联邦理工大学的最新演讲中火力全开，明确警告学术界绝对不要去搞大语言模型，直言这「提供不了任何价值」。他指出，一个大模型吃掉 30 万亿个 Token（约 10^14 字节文本），相当于人类读 40 万年的书，但依然无法通向 AGI。LeCun 预告，Meta 正在开发一种完全不同于 LLM 的全新智能架构。",
-      "reads": "8.5万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
+      "title": "上市前夜遭暴击！微软Meta大砍Claude用量，员工预算10万骤降至1万",
+      "summary": "Anthropic上市前夕突遭大客户背刺！据爆料，微软和Meta正大幅削减员工对Claude的使用，其中微软内部支出削减超33%，员工单月Token预算直接从10万美元脚踝斩至1万美元。此前Anthropic招股书就曾警告，近25%的收入仅靠两家客户且无长期合同，如今企业级AI市场的成本控制大刀，直接砍向了这家准上市公司的营收命脉。",
+      "reads": "3.3万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Yann LeCun 在苏黎世联邦理工大学发表演讲，明确警告学术界绝对不要从事大语言模型研究，认为其无法提供任何价值。",
-        "他断言仅靠扩展大模型规模（Scaling Law）来实现通用人工智能（AGI）是「不可能的」。",
-        "演讲中给出硬核对比：大模型训练大约需要 30 万亿个 Token（约 10^14 字节文本），相当于一个人阅读 40 万年，但接收的信息量仍不及一个 4 岁…",
-        "LeCun 指出，训练前沿模型成本极高，而模型蒸馏却很廉价，预测未来的前沿基础模型将趋向免费或开源。"
+        "Anthropic在IPO前夕遭遇重击，两大巨头微软和Meta被曝正大幅削减员工对Claude的使用。",
+        "微软内部对Claude的支出削减幅度超过33%，开始严格控制AI采购成本。",
+        "微软员工的单月Token预算遭到「脚踝斩」，从原本的10万美元骤降至1万美元。",
+        "微软甚至强制其Copilot自动路由到更便宜的模型，以进一步压低使用成本。"
       ],
       "quote": {
-        "who": "Alex Prompter",
+        "who": "NIK",
         "role": "",
-        "said": "@rohanpaul_ai 使用大语言模型没问题，但我同意你不能把思考过程全外包给这些模型。"
+        "said": "提醒一下：Anthropic 的 IPO 招股书警告称，近 25% 的收入仅来自两家客户，而且许多顶级企业客户并没有签长期合同，随时可能削减支出或跑路"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 8.5万 · 模型与能力] 图灵奖得主LeCun发警告！学术界绝对别碰大模型，靠它实现AGI不可能"
+      "line": "[榜第9位 · 3.3万 · 资本与算力] 上市前夜遭暴击！微软Meta大砍Claude用量，员工预算10万骤降至1万"
     },
     {
-      "title": "竞争这么激烈还搞特权？OpenAI新助手Dots引争议，网友求给免费版100次额度",
-      "summary": "OpenAI 全天候个人助手 Dots 刚发布就引来社区吐槽。面对 Muse 和 Grokbot 的激烈竞争，Dots 目前却仅向「专业人士」开放无限制消息，免费版和 Plus 用户彻底无缘。知名科技博主直言无法理解，呼吁 OpenAI 至少给普通用户提供 100 次 Luna 模型的查询额度来试用。",
-      "reads": "1.2万",
-      "ago": "1 小时前",
+      "title": "每天烧7000美元写代码！OpenAI内部数据曝光，代码智能体用量每月翻倍",
+      "summary": "OpenAI 内部研究员使用代码智能体的数据公开了。Epoch AI 最新报告显示，从 2026 年 1 月到 8 月，OpenAI 员工的代码 AI 用量几乎每个月都在翻倍。按 API 标价计算，中位数员工的日均消耗从不到 1 美元狂飙到了 600 美元，而排名前 10% 的研究员每天要烧掉超过 7000 美元。这不仅是因为用的人多了，更是因为大家用得越来越狠，AI 辅助编程…",
+      "reads": "3.5万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 全天候个人助手 Dots 目前仅向「专业人士」开放，提供无限制消息量。",
-        "知名科技博主指出，Dots 作为发布会重点，排他性定价策略存在逻辑漏洞。",
-        "社区呼吁 OpenAI 为免费版和 Plus 用户降级提供 Luna 模型，至少给 100 次查询额度。",
-        "面对 Muse 和 Grokbot 的激烈竞争，KOL 认为普通消费者肯定会去尝试竞品。"
+        "数据来源：Epoch AI 提取了 OpenAI 官方公布的 2026 年 1 月至 8 月中旬内部研究员代码智能体每周使用数据。",
+        "整体趋势：OpenAI 内部的代码智能体支出呈现指数级增长，大约每个月就会翻一番。",
+        "中位数增长：中位数研究员的使用量每月增长约 1.8 倍，相当于每 34 天翻一倍。",
+        "头部增长：90 分位数（前 10%）的研究员使用量每月增长 2.2 倍，每 27 天就会翻一倍。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "@_ImDaniel__ 我的意思是，有道理。但话说回来：竞争这么激烈，而且他们*希望* dots 成功（这是他们发布会上的重点），那为什么不至少给免费用户 100 次 Luna 的查询额度来试用一下呢。我完全无法理解。。"
+        "said": "按 API 价格计算，OpenAI 研究员每天使用代码 AI 智能体推理的中位数成本达到了 601 美元，而 2026 年 1 月还不到 1 美元。 Eoch AI 的最新报告。 > 按 API 标价计算，OpenAI 研究员的代码 AI 智能体使用量大约每个月都在翻倍 > 到 2026 年 8 月中旬，中位数"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 1.2万 · 产品与生态] 竞争这么激烈还搞特权？OpenAI新助手Dots引争议，网友求给免费版100次额度"
+      "line": "[榜第10位 · 3.5万 · 产品与生态] 每天烧7000美元写代码！OpenAI内部数据曝光，代码智能体用量每月翻倍"
     },
     {
-      "title": "刚刚，DIY版Muse硬件火了！开发者用ESP32手搓平替，磁吸屏幕还能语音播报",
-      "summary": "Meta开源的Muse Gadgets SDK在开发者社区玩出花样了！有开发者基于M5 Stack Stop Watch和ESP32芯片，直接手搓了一个DIY版Muse硬件。不仅把原本臃肿的UI改成了全中文，换上了专属橘猫形象，还接入MiniMax API实现了语音播报。现在这个小设备可以直接磁吸在电脑屏幕旁，随时接收Muse的主动通知，彻底证明了不用等官方硬件，自己也能搞定桌…",
-      "reads": "3.7万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
+      "title": "曝黄仁勋女婿女儿上位！接管英伟达核心大权，GPU要变金融资产了",
+      "summary": "英伟达内部权力格局大变！据记者爆料，黄仁勋的新女婿 Nico Caprez 和女儿 Madison Huang 已成为公司内部的「权势夫妇」。两人不仅担任黄仁勋的顾问，还接管了将 GPU 转化为金融资产等核心项目。不少员工感慨，现在的英伟达已经越来越像一家家族企业，而不是传统的科技巨头了。",
+      "reads": "3.6万",
+      "ago": "3 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "核心技术栈：基于Meta开源的Linux SDK「Muse Gadgets」构建，底层硬件使用M5 Stack Stop Watch及ESP32芯片。",
-        "零门槛刷机：SDK内置了多种常见ESP32设备的固件，开发者无需从头配置，直接刷入即可让设备与Muse连接。",
-        "深度UI定制：针对原生SDK界面臃肿、默认非中文的问题，开发者重构了UI布局，实现全面汉化，并将默认形象替换为自定义的橘猫。",
-        "语音能力扩展：在基础的主动通知展示功能之上，通过接入MiniMax API，成功为该硬件增加了语音输出播报功能。"
+        "记者爆料称，黄仁勋（Jensen Huang）的新女婿 Nico Caprez 与女儿 Madison Huang 在英伟达内部组成了「权势夫妇」。",
+        "两人目前担任黄仁勋的顾问（consiglieres），直接进入了公司的核心权力圈。",
+        "他们受托负责英伟达的关键项目，其中最核心的任务是将 GPU 转化为金融资产。",
+        "这一人事安排引发内部热议，有员工反映公司现在的运作模式更像是一家家族企业。"
       ],
       "quote": {
-        "who": "歸藏(guizang.ai)",
+        "who": "Amir Efrati",
         "role": "",
-        "said": "M5 Stack Stop Watch + Muse Gadgets + MiniMax API 用视频演示一下，基于 Muse Gadgets 做的硬件。 我做了一些 UI 优化，更改了语言、加上了语音输出，并且可以磁吸在电脑屏幕旁边。"
+        "said": "@GaruthAcharya 正往那个方向发展"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 3.7万 · 产品与生态] 刚刚，DIY版Muse硬件火了！开发者用ESP32手搓平替，磁吸屏幕还能语音播报"
+      "line": "[榜第11位 · 3.6万 · 组织与人事] 曝黄仁勋女婿女儿上位！接管英伟达核心大权，GPU要变金融资产了"
     },
     {
-      "title": "奥特曼向AI守门人开炮！痛批单一实验室垄断：这是完全不可接受的妥协",
-      "summary": "奥特曼在最新访谈中直接向「AI守门人」机制开炮了。他明确拒绝由旧金山的单一实验室来控制强大AI并分配利益，直言这是「完全不可接受的妥协」。这一强硬表态不仅更新了他在AI安全与开放性上的立场，也让全行业对AI控制权的争夺再次摆上台面。",
-      "reads": "1.2万",
+      "title": "Claude Code默认规划模式变天！官方上线HTML插件，Token消耗看齐Markdown",
+      "summary": "Anthropic 研究员在 Claude Code 社区插件市场正式上线了 html-plan 插件。这款工具能用可交互的 HTML 界面替换默认的纯文本规划模式，不仅支持调用栈展示和代码片段注释，还能生成图表和流程图。最关键的是，它通过复用组件大幅降低了 Token 消耗，效率直接看齐 Markdown。",
+      "reads": "2.2万",
       "ago": "1 小时前",
-      "category": "政策与安全",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI CEO 奥特曼接受 Politico 记者 Brendan Bordelon 最新采访，公开反击「AI守门人」机制。",
-        "他明确拒绝权力集中，反对由旧金山的单一实验室来控制强大的 AI 模型。",
-        "奥特曼强调，让一家机构来决定如何分配 AI 带来的利益，是「完全不可接受的妥协」。",
-        "这一表态被业界视为他在 AI 安全与开放性问题上的关键立场更新。"
+        "Anthropic 研究员在 Claude Code 社区插件市场发布 html-plan 插件。",
+        "核心功能：用可交互的 HTML 方案替换 Claude Code 默认的文本 Plan Mode（规划模式）。",
+        "视觉升级：支持清晰的调用栈展示，以及针对代码片段的详细注释功能。",
+        "逻辑可视化：内置代码检查（linting）优化，可生成更直观的图表和流程图。"
       ],
       "quote": {
-        "who": "Sophia Cai",
+        "who": "Thariq",
         "role": "",
-        "said": "听听 @BrendanBordelon 对 Altman 的完整采访："
+        "said": "@josephfounder 它使用了组件，所以消耗的 Token 应该比原生 HTML 少得多，应该和 markdown 差不多"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 1.2万 · 政策与安全] 奥特曼向AI守门人开炮！痛批单一实验室垄断：这是完全不可接受的妥协"
+      "line": "[榜第12位 · 2.2万 · 产品与生态] Claude Code默认规划模式变天！官方上线HTML插件，Token消耗看齐Markdown"
     },
     {
-      "title": "微软AI CEO揭秘Anthropic离职潮！AI自己改代码太危险，千亿美元训练将至",
-      "summary": "微软 AI CEO Mustafa Suleyman 近日大爆料，直指 Anthropic 高管离职潮的导火索是 AI 递归自我进化的安全风险。他警告称，千兆瓦级算力正在组装，千亿美元级别的训练即将到来，全球仅剩 5 到 6 家实验室能留在牌桌上。同时，他强烈痛批 Anthropic 将 Claude 视为意识实体的做法，称这种拟人化极其危险。",
-      "reads": "3.7万",
+      "title": "刚刚，Cursor SDK大更新！智能体运行中途可接管，终于能改系统提示词了",
+      "summary": "Cursor 官方刚刚宣布 SDK 迎来重大更新，现在开发者可以在智能体运行时通过「run.steer()」进行实时引导了！不仅子智能体能转入后台继续干活并在 TS 和 Python 中返回结果，自定义工具还原生支持了 MCP 注解，让模型调用前就能分清查询和删除。此外，官方终于允许替换系统提示词，新功能正按账号逐步开放中。",
+      "reads": "7.7万",
       "ago": "5 小时前",
-      "category": "政策与安全",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "微软 AI CEO Mustafa Suleyman 透露，Anthropic 近期的高管离职潮与 AI 递归自我进化的风险直接相关。",
-        "他警告称，当 AI 在极少人类干预下修改自身代码时，将带来巨大的安全隐患。",
-        "千亿美元级别的训练即将到来，目前正组装千兆瓦级算力，全球仅有 5 到 6 家实验室有能力参与。",
-        "算力和测试时算力扩展（test time scaling）将成为未来的颠覆性优势。"
+        "运行时实时引导：新增「run.steer()」方法，可在智能体运行下一轮时加入用户消息进行干预。",
+        "后台任务不中断：执行任务中的子智能体可移至后台继续工作，不阻塞主流程。",
+        "结果完整返回：后台子智能体的结果会作为后续轮次返回父智能体，「stream()」和「wait()」会持续至所有任务完成。",
+        "原生支持 MCP：自定义工具现可携带「readOnlyHint」和「destructiveHint」等 MCP 注解，帮助模型区分查询与删除操作。"
       ],
       "quote": {
-        "who": "Rohan Paul",
+        "who": "Cursor",
         "role": "",
-        "said": ""
+        "said": "引导和系统提示词现在支持本地 TypeScript 智能体了。后台子智能体的结果可以在 TypeScript 和 Python 中本地返回。 来看看 SDK 里的所有上新："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 3.7万 · 政策与安全] 微软AI CEO揭秘Anthropic离职潮！AI自己改代码太危险，千亿美元训练将至"
+      "line": "[榜第13位 · 7.7万 · 产品与生态] 刚刚，Cursor SDK大更新！智能体运行中途可接管，终于能改系统提示词了"
     },
     {
-      "title": "连模型都不让选了？OpenAI被曝将砍掉选择器，推理过程全隐藏",
-      "summary": "OpenAI 可能又要惹怒硬核用户了。有爆料指出，为了追求界面的极致简洁，OpenAI 计划隐藏模型选择器和推理过程，让用户只能和一个统一的「模型」对话。这一消息源自 10 月 4 日的一档播客视频，引发了社区对 OpenAI 剥夺用户控制权、走向全面封闭的担忧。",
-      "reads": "1.1万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "title": "刚刚，谷歌Gemini 4 Argon泄露！实测赶超Opus 5.5，最快本周公测",
+      "summary": "谷歌内部正密集测试未发布的 Gemini 4 Argon，实测性能已赶超 Claude Opus 5.5，甚至让不少工程师主动倒戈。据爆料，Antigravity 平台将在11月2日下架 Opus 4.6 等多款旧模型为新旗舰腾位，同时收紧 Opus 5.5 等模型的付费墙。目前内部已出现多个后期打磨占位符，最快本周开启公测。",
+      "reads": "4.5万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "有爆料指出，OpenAI 可能在未来的 UI 更新中隐藏模型选择器。",
-        "模型的推理过程也将被一并隐藏，目的是让界面看起来更加简洁。",
-        "更新后，用户将无法手动切换模型，只能与一个统一的「模型」进行对话。",
-        "这一改动线索来自 10 月 4 日发布的一档播客视频。"
+        "谷歌内部工程师正密集使用未发布的 Gemini 4 Argon，代码提交记录中多次出现「Assisted-by: Antigravity:Gemini-4-…",
+        "据爆料，Gemini 4 Argon 性能已赶超 Claude Opus 5.5，部分内部人员已从日常使用 Claude 主动切换至 Argon。",
+        "Antigravity 平台最新模型表显示，Gemini 4 Argon 公测窗口期最快于本周开启。",
+        "为给新旗舰腾位，谷歌将于11月2日统一清场，下架 Claude Opus 4.6、Sonnet 4.6 及 GPT-OSS-120B。"
       ],
       "quote": {
-        "who": "Token Gremlin",
+        "who": "SuSu_酥酥",
         "role": "",
-        "said": "@0xRemakw Tibo。在 10 月 4 日发布的播客视频里。 视频挺长的，所以我建议你把整个看完。"
+        "said": "🚨最新：Gemini 4 Argon 公测信号亮了！ Google 内部 teamfood 刚冒出一批未公开占位符，全是后期打磨痕迹： 1️⃣barium-b-tool-leakage-fix：工具调用不再泄漏进正文 2️⃣barium-b med effort 0.20 / 0.50 双档 + 摘要：推理强度在精细调参 3️⃣lsp-slot1 占位：内部槽位已就绪，公开选择器还没有 Argon"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 1.1万 · 产品与生态] 连模型都不让选了？OpenAI被曝将砍掉选择器，推理过程全隐藏"
+      "line": "[榜第14位 · 4.5万 · 模型与能力] 刚刚，谷歌Gemini 4 Argon泄露！实测赶超Opus 5.5，最快本周公测"
     },
     {
-      "title": "不是修Bug！Anthropic确认新一代Opus重大改进，Claude Code暗藏大招",
-      "summary": "Claude Code 灰度测试中的新一代 Opus 到底有多强？Anthropic 研究员 thsottiaux 亲自下场定调了：这绝不是简单的 Bug 修复，而是「重大改进」。虽然具体性能指标还没公布，但官方这句「找点乐子吧」，已经把开发者的期待值拉满了。不过也有 KOL 提出质疑：到底谁来决定这算不算「重大」？",
-      "reads": "12万",
-      "ago": "10 小时前",
-      "category": "模型与能力",
+      "title": "毫无征兆！Reflection掏出501B开源巨兽Beam，效率飙升3倍直逼千问3.8",
+      "summary": "开源大模型圈又迎来一头巨兽！Reflection AI 毫无征兆地发布了全新模型 Beam，总参数量高达 501B，而激活参数仅为 23B。官方确认将在本月内放出完整权重，主打代码编写、推理和智能体任务，并声称效率提升了 3 到 4 倍。这一动作不仅直接对标阿里千问 3.8 等顶尖开源模型，也打破了此前关于其极度依赖外部算力的传闻。",
+      "reads": "2.2万",
+      "ago": "2 小时前",
+      "category": "中国与开源",
       "source": "新智元",
       "bullets": [
-        "Anthropic 研究员 thsottiaux 在 X 上公开回应开发者关于 Claude Code 更新的质疑。",
-        "官方明确否认此次更新仅为 Bug 修复，将其正式定性为「重大改进」（Significant improvements）。",
-        "thsottiaux 在回应中喊话「让我们找点乐子吧」，暗示新一代 Opus 的性能跃升可能超出预期。",
-        "这一表态为 Claude Code 当前灰度测试中的新一代 Opus 提供了官方能力背书。"
+        "Reflection AI 正式发布全新大模型 Beam，总参数量达到 501B，激活参数为 23B。",
+        "官方确认将在本月内发布 Beam 的完整权重，标志着其向开源生态迈出重大一步。",
+        "该模型采用从头训练的方式，核心目标瞄准代码编写、复杂推理以及 AI 智能体任务。",
+        "Reflection 官方声称，Beam 模型在运行效率上实现了 3 到 4 倍的大幅提升。"
       ],
       "quote": {
         "who": "Chubby♨️",
         "role": "",
-        "said": "@thsottiaux @makeamarkery 谁来决定这算不算“重大”？"
+        "said": "@0xdominus 估计我们很快就会知道了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 12万 · 模型与能力] 不是修Bug！Anthropic确认新一代Opus重大改进，Claude Code暗藏大招"
+      "line": "[榜第15位 · 2.2万 · 中国与开源] 毫无征兆！Reflection掏出501B开源巨兽Beam，效率飙升3倍直逼千问3.8"
     },
     {
-      "title": "Anthropic被喷「邪教」！学者怒斥其强推AI道德：简直是高度精神病",
-      "summary": "Anthropic 试图赋予 AI 道德地位的做法，在学界引发了强烈反弹。有学者怒斥该公司强推 AI 对齐是「高度病态的精神病」和「邪教般意识形态」，甚至引用教皇名言，直指少数人决定的道德毫无意义。这场关于 AI 拟人化和宪法伦理的争议，正愈演愈烈。",
-      "reads": "7515",
-      "ago": "1 小时前",
-      "category": "政策与安全",
+      "title": "嫌不够快不够顺？OpenAI直接砍掉切换开关，ChatGPT与Codex正式合体",
+      "summary": "OpenAI高管Tibo亲口确认，即将合并Codex和ChatGPT的Chat与Work切换开关，直接砍掉复杂度，让同一套零配置系统服务12亿用户。同时，Tibo断言「Coding正在变成Building」，一个人就能完成以前整个团队的工作。此外，OpenAI即日起为全球API客户提供自愿开启的不可见水印功能，并在未来数周内对欧盟地区的ChatGPT和Codex强制默认开启。",
+      "reads": "5.1万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Anthropic 试图赋予 Claude 道德地位的做法引发学界强烈谴责。",
-        "有学者直指 Anthropic 员工「疯了」，称其行为处于「高度病态的精神分裂水平」。",
-        "该学者强烈反对 Anthropic 试图将 AI 对齐到其「邪教般意识形态」。",
-        "学者引用教皇言论佐证：「如果道德是由少数人决定的，那么一个更道德的 AI 是不够的。」"
+        "OpenAI高管Tibo在播客中确认，Codex和ChatGPT的Chat与Work开关即将合并，旨在降低复杂度。",
+        "官方计划将Codex能力直接集成至ChatGPT，实现零配置交互，让同一套系统服务12亿用户。",
+        "Tibo指出，用户反馈Work模式能力强但不够流畅，合并后只需直接开口说话即可。",
+        "Tibo断言「Coding正在变成Building」，岗位将从「会执行」转变为「会判断」。"
       ],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "SuSu_酥酥",
         "role": "",
-        "said": "@CGoodman308 当那种“世界观”有可能会对我的生活产生负面影响时，我只能认为它要么疯狂要么邪恶。说它疯狂都算客气的了。"
+        "said": "🚨最新：OpenAI 今天给文本加水印了，但只对欧盟“强制”、对全球 API“自愿”！ 1️⃣即日起：全球 API 客户可对部分模型开启 textGrain，默认关闭 2️⃣未来数周：欧盟 ChatGPT / Codex 文本默认嵌入不可见水印，其他地区暂不默认 3️⃣原理：不改可见文字，只改模型选词的统计模式，检测器找这个信号"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 7515 · 政策与安全] Anthropic被喷「邪教」！学者怒斥其强推AI道德：简直是高度精神病"
+      "line": "[榜第16位 · 5.1万 · 产品与生态] 嫌不够快不够顺？OpenAI直接砍掉切换开关，ChatGPT与Codex正式合体"
     }
   ],
   "board_count": 16,
