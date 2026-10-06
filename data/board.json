@@ -3,40 +3,40 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-07 01:08:47 +0800",
+  "fetched_at": "2026-10-07 06:36:35 +0800",
   "today": "10/07",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "提速50%、Auto-review免费！OpenAI连发两招，却被Claude暴击58倍",
-      "summary": "Tibo 的 28 天改进计划进入第二天，OpenAI 连续兑现承诺：首日将 GPT-6 Astra 和 GPT-6.1 Sol 默认速度提升约 50%（达 50 TPS），次日宣布 Auto-review 功能对 ChatGPT 登录用户全量免费且不扣额度。然而，SemiAnalysis 的实测报告却在此时给出暴击：在同等 200 美元月费下，Claude Max 的 API…",
-      "reads": "583万",
-      "ago": "1 小时前",
+      "title": "OpenAI深夜发福利！Codex自动审查全面免费，双Agent监督不耗额度",
+      "summary": "OpenAI 的 28 天改进计划来到 Day 2.1，官方宣布 Codex 的自动审查（Auto-review）功能向所有 ChatGPT 登录用户完全免费开放，且不消耗套餐额度。该功能会在后台运行一个独立的 AI 智能体来监督主智能体，防范高风险行为，官方测试的 10000 次操作中仅拒绝 7 次。这不仅让程序员告别了疯狂点击授权的决策疲劳，也让运行长程 Agent 任务的…",
+      "reads": "177万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "28天军令状连兑两城：OpenAI 高管 Tibo 承诺未来 28 天每天推出实质改进，否则将全员重置额度，目前已连续两天交卷。",
-        "默认提速 50%：Day 1 宣布 GPT-6 Astra 和 GPT-6.1 Sol 默认速度从约 30 TPS 提升至 50 TPS，覆盖所有订阅及合作…",
-        "Auto-review 全量免费：Day 2.1 宣布自动审查功能对所有通过 ChatGPT 账号登录的用户免费开放，且不再消耗套餐额度。",
-        "双 Agent 监督机制：Auto-review 在后台运行独立智能体，专门审查主智能体的越界动作，拦截高风险和偏离意图的操作，缓解手动批准的「决策疲劳」。"
+        "OpenAI 研究员宣布，Codex 的自动审查（Auto-review）功能现已向所有通过 ChatGPT 账号登录的用户免费开放。",
+        "该功能开启后完全不消耗用户的套餐额度，主要通过后台独立的 AI 智能体监督主智能体的操作，防范高风险或意外行为。",
+        "官方数据显示，在 10000 次操作中，有 9280 次在沙箱内完成，720 次经过自动审核，其中 713 次通过，仅 7 次被拒绝（4次更换安全替代方案…",
+        "自动审查对应设置中的「替我批准（Approve for me）」权限模式，专门处理沙盒外运行命令或访问额外文件、网络资源的请求。"
       ],
       "quote": {
-        "who": "Vaibhav (VB) Srivastav",
+        "who": "Dan McAteer",
         "role": "",
-        "said": "@thepretty6667 啥意思，它应该在你的 composer 里啊"
+        "said": "Codexers：教你如何在6秒内开启“自动审查”（Auto-review）。 希望能帮到你。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 583万 · 产品与生态] 提速50%、Auto-review免费！OpenAI连发两招，却被Claude暴击58倍"
+      "line": "[榜第1位 · 177万 · 产品与生态] OpenAI深夜发福利！Codex自动审查全面免费，双Agent监督不耗额度"
     },
     {
       "title": "马斯克钦定私人CFO！网友把30个银行账户全交给Grok，还能操纵机械臂做饭",
       "summary": "马斯克在 X 上亲自站台，宣布 Grok Bot 完全可以胜任用户的「私人首席财务官」。起因是一位硬核开发者把 Chase、Fidelity 等整整 30 个金融账户全盘接入了 Grok Bot 交给 AI 打理。不仅如此，他还用 Grok Bot 控制 6 轴机械臂切菜，一口气做出了 16 顿正餐，直接让人看到了未来 Grok 与 Optimus 机器人联手的终极形态。",
-      "reads": "101万",
-      "ago": "1 小时前",
+      "reads": "1009万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -55,357 +55,357 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 101万 · 产品与生态] 马斯克钦定私人CFO！网友把30个银行账户全交给Grok，还能操纵机械臂做饭"
+      "line": "[榜第2位 · 1009万 · 产品与生态] 马斯克钦定私人CFO！网友把30个银行账户全交给Grok，还能操纵机械臂做饭"
     },
     {
-      "title": "吓到离职！前Anthropic研究员警告：明年AI就能自我进化，人类极可能彻底失控",
-      "summary": "前Anthropic研究员Jacob Coxon因恐惧AI失控而离职，他警告明年模型就能实现自我改进，人类极有可能彻底失去控制权。据他透露，OpenAI内部定于2027至2028年实现自动化AI研究员，目前进度已超前，且大部分代码已由AI编写。面对愈演愈烈的递归自我进化竞赛，Meta明确表示不参与，而学者Scott Galloway则严厉警告奥特曼等高管：如果AI致人死亡，他们…",
-      "reads": "10万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
+      "title": "Claude杀入谷歌全家桶，贴脸开大Gemini！网友：干得比亲儿子还好",
+      "summary": "Claude 正式杀入谷歌全家桶！Anthropic 宣布 Claude 原生嵌入 Google Docs、Sheets 和 Slides，支持双向编辑和新建文件。该功能目前处于 Beta 阶段，已向所有付费方案用户开放。网友直呼：Anthropic 把 Gemini 的活干得比谷歌自己还好。",
+      "reads": "148万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "前Anthropic能力研究员Jacob Coxon透露，自己离职是因为害怕两件事：目前无人能控制AI，且明年的模型就能实现自我改进。",
-        "Coxon指出，整个AI问题的核心是预期在未来几年内，中美之间将爆发一场递归自我改进（RSI）竞赛。",
-        "按照目前的发展路径，所有AI公司都在试图打造在每一项任务上都超越人类的超级智能，人类极有可能失去对AI的控制。",
-        "OpenAI内部对「自动化AI研究员」的里程碑设定在2027到2028年，目前各实验室进展顺利甚至已经超前。"
+        "Anthropic 官方宣布 Claude 原生嵌入 Google Workspace，支持在 Docs、Sheets 和 Slides 侧边栏进行双向编辑…",
+        "用户可在 Claude 界面直接粘贴链接打开，或新建 Google 文件。",
+        "访问权限严格遵循 Google 共享设置，每次修改生效前均需用户手动确认，确保内容安全。",
+        "该功能目前处于 Beta 阶段，面向所有付费方案开放。"
       ],
       "quote": {
-        "who": "Fireside Alpha",
+        "who": "ℏεsam",
         "role": "",
-        "said": "Scott Galloway 警告 Sam Altman 和 Dario Amodei，如果他们的机器人杀死了人，他们就要进监狱，就像 25 年前咬死长曲棍球运动员的两只狗的主人一样 “这些人声称这些机器人有感知能力，我只觉得这太令人反感了。” “Sharon"
+        "said": "Google 看着 Anthropic 把 Gemini 的活干得比他们还好"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 10万 · 政策与安全] 吓到离职！前Anthropic研究员警告：明年AI就能自我进化，人类极可能彻底失控"
+      "line": "[榜第3位 · 148万 · 产品与生态] Claude杀入谷歌全家桶，贴脸开大Gemini！网友：干得比亲儿子还好"
     },
     {
-      "title": "预算10万变1万！微软Meta联手绞杀Claude，Anthropic拿650亿ARR硬刚",
-      "summary": "在Anthropic准备IPO之际，微软和Meta被曝正大幅削减内部员工对Claude的使用，单人月度Token预算甚至从10万美元暴砍至1万美元。面对巨头的联手「绞杀」，Anthropic直接向投资者甩出炸裂业绩：自1月以来ARR暴涨7倍达到650亿美元，超6000家企业每年花费超10万美元。大模型竞争正从单纯的能力比拼，全面转向企业级客户留存与内部工具替代的生死局。",
-      "reads": "67万",
-      "ago": "7 小时前",
+      "title": "马斯克亲自指路！Grok Bot开启自我进化闭环，开发者：这招递归太强了",
+      "summary": "马斯克在X上亲自下场，强推Grok Bot的更新日志追踪功能。有开发者立马跟进实操，用这个日志给Bot建了个递归反馈机制，直接让AI学会了自我迭代和修复历史Bug。这波操作直接把Grok从聊天工具拉到了主动智能体赛道，自我进化的闭环算是玩明白了。",
+      "reads": "205万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "微软大幅削减内部Claude支出超33%，每位员工的月度Token预算从10万美元暴跌至1万美元，并强制Copilot自动路由到更便宜的模型。",
-        "Meta内部使用Claude Code的员工数从年初的约6万人腰斩至最近的约3万人，部分原因是春季裁员及转向自家工具。",
-        "此前Meta员工曾为了证明懂AI，在内部排行榜Claudeonomics上疯狂刷Token，在Claude Code上花费超1.05亿美元。",
-        "面对巨头施压，Anthropic向投资者披露强劲数据：自1月以来，公司ARR（年度经常性收入）翻了7倍，从约90亿美元飙升至650亿美元。"
+        "马斯克在X上正式推广Grok Bot的更新日志追踪功能，引导用户访问集中式Changelog页面。",
+        "一位开发者迅速跟进，利用该日志为大部分Grok Bot构建了追踪程序。",
+        "该程序被用作反馈基础，让Bot能够基于历史记录自我改进能力并修复过去的问题。",
+        "开发者指出，这是一种强大的递归方法，能让Bot实现持续进化，并承诺提供原型提示词。"
       ],
       "quote": {
-        "who": "Ricardo",
+        "who": "Brian Roemmele",
         "role": "",
-        "said": "这对 Anthropic 来说很危险。 如果你还记得： 今年早些时候，Meta 员工开始疯狂刷 Token（tokenmaxxing），把 AI 用量拉满来证明自己多懂 AI，还在一个叫 Claudeonomics 的员工自制排行榜上内卷。 他们在 Claude Code 上花了超过 1.05 亿美元，在"
+        "said": "太重要了！ 我刚给我的大部分 @Grok @Bots 写了个更新日志追踪程序，以此作为反馈自我改进的基础，用来提升它的能力和修复过去的问题。 这是一种让你的 Bot 持续进化的强大递归方法。 我会提供一个原型提示词，你应该"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 67万 · 产品与生态] 预算10万变1万！微软Meta联手绞杀Claude，Anthropic拿650亿ARR硬刚"
+      "line": "[榜第4位 · 205万 · 产品与生态] 马斯克亲自指路！Grok Bot开启自我进化闭环，开发者：这招递归太强了"
     },
     {
-      "title": "欧洲开源王炸！Mistral Large 4登场：1T参数硬刚中国模型，法律测试碾压GPT-6 Astra",
-      "summary": "法国AI公司Mistral正式发布旗舰开源模型Mistral Large 4，代号「Le Chonk」。这款1T参数、激活49B的原生多模态巨兽，在网安和制造领域拿下SOTA。Hugging Face显示完整权重将于2026年10月31日放出，KOL认为其实力足以与智谱GLM-5.3抗衡，欧洲AI算是真站起来了。",
-      "reads": "9.4万",
+      "title": "刚刚，OpenAI API最高档门槛腰斩！1000刀降至500，5档变3档",
+      "summary": "OpenAI API 速率限制门槛迎来大调整，原有的五个付费层级正式精简为 Build、Launch 和 Grow 三档。最高层级 Grow 的解锁门槛直接腰斩，从累计消费 1000 美元大幅降至 500 美元，现有付费用户将自动迁移至新层级。这是高管 Tibo 承诺的 28 天改进计划「Day 2.2」更新，旨在减少开发者的决策摩擦，不过也有社区成员认为此次更新略显平淡，正翘…",
+      "reads": "54万",
       "ago": "2 小时前",
-      "category": "模型与能力",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Mistral Large 4（代号Le Chonk）参数量达1T，单次激活参数为49B，原生支持多模态。",
-        "官方宣称该模型在网络防御、制造和金融等关键工作负载上达到SOTA水平。",
-        "Hugging Face页面显示，完整权重将于2026年10月31日正式放出，目前处于预览阶段。",
-        "Mistral CEO Clement Delangue亲自下场庆祝，称其为「胖乎乎的小猫咪」。"
+        "OpenAI 官方宣布优化 API 速率限制获取机制，大幅降低开发者获取高阶资源的门槛。",
+        "付费使用层级全面精简，由原来的五个层级缩减为 Build、Launch 和 Grow 三档。",
+        "全新最高层级 Grow 的资格门槛实现腰斩，从累计 API 消费 1000 美元降至 500 美元。",
+        "现有付费用户组织无需任何手动操作，系统将自动为其无缝迁移至对应的新层级。"
       ],
       "quote": {
-        "who": "AshutoshShrivastava",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "Le Chaton Fat ❌ Le Chonk ✅ Mistral 刚刚发布了 Mistral Large 4。"
+        "said": "@thsottiaux 我觉得我们需要个 2.3 版本，不然就得重置了 Tibo。;-)"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 9.4万 · 模型与能力] 欧洲开源王炸！Mistral Large 4登场：1T参数硬刚中国模型，法律测试碾压GPT-6 Astra"
+      "line": "[榜第5位 · 54万 · 产品与生态] 刚刚，OpenAI API最高档门槛腰斩！1000刀降至500，5档变3档"
     },
     {
-      "title": "同样花200美元，Claude等效价值破万！OpenAI被锤成性价比洼地",
-      "summary": "同样是每个月掏200美元，你买到的AI算力到底值多少钱？最新极限测试扒开了9家大模型厂商的订阅底牌：在日常主力模型上，Claude Max提供的Opus 5.5等效价值高达11726美元，而ChatGPT Pro的GPT-6.1 Sol仅为2084美元，差距达到惊人的5倍。面对Anthropic加冕「效率新王」，算力吃紧的OpenAI甚至被迫开始缩减资源配额。",
-      "reads": "157万",
-      "ago": "13 小时前",
-      "category": "产品与生态",
+      "title": "刚刚，Opus 5.5惊艳全网！一句话生成交互网站，研究员：把它当同事",
+      "summary": "Anthropic 研究员 Boris Cherny 刚刚展示了 Opus 5.5 的惊人视觉与代码能力。仅凭一段自然语言提示词，模型就自动阅读一手资料，包揽了交互式网站和水彩插画的生成。Cherny 直言写提示词根本没秘诀，不需要复杂的脚手架，只要像对待同事一样给 Opus 5.5 一个目标，它自己就能搞定一切。",
+      "reads": "28万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "知名研究机构SemiAnalysis对Anthropic、OpenAI、Meta等9家AI公司的订阅计划进行了极限测试。",
-        "在200美元档位中，Claude Max套餐提供的Opus 5.5 API等效价值高达11726美元，Sonnet更是达到12529美元。",
-        "同等价位下，ChatGPT Pro套餐中的GPT-6.1 Sol等效价值仅为2084美元，GPT-6 Astra为2897美元。",
-        "开发者指出，即使调整了任务成本，Claude在同等智力水平下依然能以1.3倍至2.9倍的效率优势领先。"
+        "Anthropic 研究员 Boris Cherny 展示了 Opus 5.5 的最新视觉媒体生成能力。",
+        "仅通过一段自然语言提示词，Opus 5.5 就为 Acquired FM 播客制作了一个配套的交互式网站。",
+        "网站中包含的水彩风格插画，全部由 Claude 通过 Canvas 原生 JavaScript 实时渲染绘制。",
+        "模型展现出极强的自主性，自动阅读了播客文字记录和大量其他一手资料来完成创作。"
       ],
       "quote": {
-        "who": "Lisan al Gaib",
+        "who": "Boris Cherny",
         "role": "",
-        "said": "即使调整了任务成本，用 Claude 依然更划算 虽然不再是 5 倍的差距，但仍有 1.3 倍到 2.9 倍 在同等“智力”（以 AAI 衡量）下，你能完成更多工作，而且速度更快"
+        "said": "@filipcodes 为什么不让它做呢？是因为文化原因、回复质量低，还是单纯觉得奇怪？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 157万 · 产品与生态] 同样花200美元，Claude等效价值破万！OpenAI被锤成性价比洼地"
+      "line": "[榜第6位 · 28万 · 模型与能力] 刚刚，Opus 5.5惊艳全网！一句话生成交互网站，研究员：把它当同事"
     },
     {
-      "title": "一张19岁生日照估值上百亿！Meta AI大佬晒合影，新一代PayPal Mafia诞生",
-      "summary": "一张估值上百亿美元的19岁生日照火了！Meta AI负责人Alexandr Wang随口爆料，那张被称为「新一代PayPal Mafia」的HRT 2015届实习生合影，其实是他的生日派对。照片里不仅有他，还坐着后来创办Scale、Cognition、Decagon以及Hyperliquid的大佬们。他甚至调侃VC，想知道该投谁，不如直接翻翻他的其他生日照片。",
-      "reads": "51万",
-      "ago": "9 小时前",
-      "category": "组织与人事",
+      "title": "刚刚，Anthropic撒钱抢人！狂砸5万美元初创补贴，白送一年Claude Team",
+      "summary": "Anthropic 开始撒钱抢夺 AI 创业者了！官方刚刚宣布扩大 Claude Startups 计划，入选公司最高可获 7000 美元 Claude 额度，包含一整年的免费 Team 服务和获批即赠的 1000 美元 API。不仅如此，全新的 Claude Startup Stack 还联合 Linear、ElevenLabs 等生态伙伴，狂撒价值高达 4.5 万美元的工具…",
+      "reads": "122万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Meta AI负责人Alexandr Wang晒出自己19岁生日时的照片，引发硅谷圈热议。",
-        "这张照片实为HRT 2015届实习生的合影，被业内戏称为「新一代PayPal Mafia」。",
-        "画面中同框的大佬，后来分别创办了Scale、Cognition、Decagon等知名AI独角兽公司。",
-        "Hyperliquid创始人Jeff也出现在这张合影中，当时桌上还摆着生日蛋糕。"
+        "Claude Startups 计划正式向更多创始人扩大开放，旨在通过补贴与生态绑定全面吸引 AI 初创团队。",
+        "入选公司最高可获 7000 美元 Claude 产品与额度，其中包含一整年免费的 Claude Team 服务。",
+        "申请获批后，初创团队将立即获得 1000 美元的 API 额度，可直接用于产品开发。",
+        "官方同步推出 Claude Startup Stack，提供总值高达 45,000 美元的生态工具折扣与额度。"
       ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "Claude",
         "role": "",
-        "said": "💥你敢信！一张19岁生日合影，后来值上百亿美元！ Meta AI 负责人 Alexandr Wang 随口承认：那张被叫成「新一代 PayPal Mafia」的 HRT 2015 实习合影，其实是他的19岁生日。 桌上还摆着蛋糕，同框里就坐着 Hyperliquid 创始人 Jeff，旁边是后来做出 Scale、Cognition、Decagon 的人。 他问"
+        "said": "你还将获得价值高达7000美元的 Claude 产品和额度用于开发。 这包括为新加入 Team 的公司提供一年的免费 Claude Team 服务，以及获批后立即发放的1000美元 API 额度。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 51万 · 组织与人事] 一张19岁生日照估值上百亿！Meta AI大佬晒合影，新一代PayPal Mafia诞生"
+      "line": "[榜第7位 · 122万 · 产品与生态] 刚刚，Anthropic撒钱抢人！狂砸5万美元初创补贴，白送一年Claude Team"
     },
     {
-      "title": "微软意外泄露GPT-6.1 Sol机密！同权重推理只跑2遍，循环架构彻底实锤",
-      "summary": "微软公开页面意外泄露了 OpenAI 的底牌：GPT-6.1 Sol 和 GPT-6 Sol 竟然共用同一套基础权重，只是将推理循环次数从 3 遍降到了 2 遍。这直接坐实了 GPT-6 系列采用循环 Transformer 架构的传闻，靠同一组参数反复计算来实现更深层思考。与此同时，开发者实测发现 GPT-6.1 Sol 的响应速度经历了「过山车」，从首日的 10.7 秒一度…",
-      "reads": "3.3万",
-      "ago": "1 小时前",
+      "title": "价格暴降50%！谷歌Nano Banana 2.1突发上线，4K生图硬刚GPT",
+      "summary": "谷歌正式发布图像生成与编辑模型 Nano Banana 2.1，支持 2K/4K 分辨率输出，图像输出成本相比前代暴降 50%，定价为每百万 Token 30 美元。新模型不仅显著改善了中文文字清晰度与排版美学，还加入了基于蒙版的局部编辑功能，现已同步登陆 Google AI Studio、API 及 Gemini 应用。此外，谷歌还开源了首个端侧原生多模态嵌入模型 Embed…",
+      "reads": "72万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "微软公开页面意外泄露机密，证实 GPT-6.1 Sol 与 GPT-6 Sol 共享同一套基础权重（被称为 Doug base）。",
-        "两款模型的核心差异在于推理循环次数，GPT-6.1 Sol 仅运行 2 遍推理，而非 3 遍。",
-        "此次泄露侧面印证了 The Information 9 月的爆料，即 GPT-6 系列采用了循环 Transformer 架构。",
-        "新架构通过同一组参数反复计算来实现更深度的思考，不仅减少了参数量，且中间推理过程无需全部转化为可见文本。"
+        "谷歌正式发布 Nano Banana 2.1，已在 Google AI Studio、API 及 Gemini 应用全面上线。",
+        "图像输出成本较前代降低 50%，定价为每百万 Token 30 美元（2K 约 0.05 美元/张，4K 约 0.076 美元/张）。",
+        "新模型支持 2K 和 4K 分辨率输出，全面提升视觉设计、主体一致性，并新增基于蒙版的局部编辑功能。",
+        "开发者实测显示，Nano Banana 2.1 显著改善了中文文字清晰度与排版美学，画面干净且消除了 GPT 模型的破碎感。"
       ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "👀GPT-6.1 Sol 速度赛跑结果来了： ▫️上线当天最快 10.7s ▫️次日直接掉到 22–25s ▫️中间来回震荡 ▫️今天 4 次：10.3–15.7s，最快已经追平上线日 同一道 coding 任务、36 次计时，横条越长越慢。 速度回来了，但稳定性还在抖。 你最近用 Sol 感觉快了还是慢了？ #GPT61Sol #OpenAI #AI速度 #LLM"
+        "said": "Logan:"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 3.3万 · 模型与能力] 微软意外泄露GPT-6.1 Sol机密！同权重推理只跑2遍，循环架构彻底实锤"
+      "line": "[榜第8位 · 72万 · 模型与能力] 价格暴降50%！谷歌Nano Banana 2.1突发上线，4K生图硬刚GPT"
     },
     {
-      "title": "真没想到欧洲杀回来了！Mistral祭出1T参数开源巨兽，单次激活49B",
-      "summary": "真没想到欧洲大模型又杀回来了！法国AI公司Mistral曝光了代号为Le Chonk的1T参数开源大模型，单次激活仅49B。官方宣称它在网络、法律和金融等严苛评测中刷新了开源SOTA，直接拿下欧美综合基准测试最佳开源权重模型的称号。完整权重预计在10月底正式放出，全球开源大模型竞争再添一员猛将。",
-      "reads": "4.0万",
+      "title": "Anthropic深夜炸场！Opus 5.5首度现身，最强特供版仅限安全专家",
+      "summary": "Anthropic 官方正式宣布扩展网络验证项目，向经过验证的安全专家开放 Claude Mythos 5.1、Opus 5.5 和 Sonnet 5.5 的访问权限。这三款模型均配备了专为防御工作设计的安全防护，直接证实了今早社区流传的 Mythos 5.1 对话截图确有其事。面对官方的「安全特供版」，有开发者直接喊话求无护栏的 Mythos 5.5，希望能一睹新模型的真实战…",
+      "reads": "20万",
       "ago": "2 小时前",
-      "category": "中国与开源",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "法国AI公司Mistral推出代号为Le Chonk的开源大模型。",
-        "模型总参数量达到1T（万亿），单次激活参数为49B。",
-        "官方宣称其在网络、法律和金融等严苛评测中刷新了开源SOTA。",
-        "该模型被评为欧美综合基准测试中最佳的开源权重模型。"
+        "Anthropic 宣布扩展 Cyber Verification Program，向经过验证的安全专家提供更广泛的模型访问权限。",
+        "此次开放的模型包括 Claude Mythos 5.1、Opus 5.5 和 Sonnet 5.5，均配备专为防御工作设计的安全防护。",
+        "官方声明直接解释了今早社区中流传的用户与 Mythos 5.1 对话截图的来源，证实该模型已小范围落地。",
+        "尽管官方强调模型专供防御性安全工作，但有开发者公开喊话，请求提供无护栏版本的 Mythos 5.5。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Pliny the Liberator 🐉󠅫󠄼󠄿󠅆󠄵󠄐󠅀󠄼󠄹󠄾󠅉󠅭",
         "role": "",
-        "said": "@weirdo_kevin 是啊，又一个开放权重模型加入了竞争。我喜欢！"
+        "said": "@PololoLocoGames @AnthropicAI"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 4.0万 · 中国与开源] 真没想到欧洲杀回来了！Mistral祭出1T参数开源巨兽，单次激活49B"
+      "line": "[榜第9位 · 20万 · 政策与安全] Anthropic深夜炸场！Opus 5.5首度现身，最强特供版仅限安全专家"
     },
     {
-      "title": "挺搞笑！Mistral Large 4唯一领先的基准测试，是欧盟监管合规",
-      "summary": "挺搞笑，Mistral Large 4 真正拔尖的地方居然是合规。有开发者发现，在 Harvey 法律智能体基准测试中，Mistral Large 4 Preview 以 15% 的得分，微弱领先于 Kimi K3 的 13%。这个专门针对欧盟监管场景的测试，也被网友戏称为「又一个欧盟爆款」，凸显了欧洲大模型在地缘政治合规上的独特优势。",
-      "reads": "5.8万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
+      "title": "ChatGPT版Otter来了！官方上线Meetings插件，连通Codex一键搞定后续",
+      "summary": "OpenAI官方正式推出ChatGPT Meetings插件，直接下场解决打工人的开会痛点。这款插件不仅能自动做笔记、生成个性化摘要，还会把内容保存在ChatGPT Space中供你随时调用。更绝的是，研究员建议把积累的会议上下文直接加载到Codex里，让AI顺手把后续的工作全自动搞定，彻底打通了从沟通到执行的生产力闭环。",
+      "reads": "9.3万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "有开发者爆料，Mistral Large 4 在特定的法律合规基准测试中展现出独特优势。",
-        "在 Harvey 法律智能体基准测试中，Mistral Large 4 Preview 的得分为 15%。",
-        "这一成绩反超了月之暗面的 Kimi K3，后者在该项测试中的得分为 13%。",
-        "该基准测试专门针对欧盟监管场景设计，侧重于模型的法律与合规处理能力。"
+        "OpenAI官方宣布推出ChatGPT Meetings插件，为用户提供专属的AI会议记录员。",
+        "插件可自动记录会议内容，并基于ChatGPT对用户历史工作的了解，生成个性化摘要和后续步骤。",
+        "所有会议笔记将保存在ChatGPT Space中，用户可自由选择将其设为私密或与团队共享。",
+        "OpenAI研究员Tibo在「28天改进计划」第2.3天表示，该功能旨在彻底解决职场沟通中的记忆痛点。"
       ],
       "quote": {
-        "who": "leo 🐾",
+        "who": "Tibo",
         "role": "",
-        "said": "挺搞笑的，Mistral Large 4 真正领先的似乎是一个关于监管的基准测试 又一个欧盟爆款"
+        "said": "Day 2.3/ 再也不用担心记不住跟同事说了什么。尽情聊吧，积累上下文加载到 codex 里，把事情全搞定。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 5.8万 · 模型与能力] 挺搞笑！Mistral Large 4唯一领先的基准测试，是欧盟监管合规"
+      "line": "[榜第10位 · 9.3万 · 产品与生态] ChatGPT版Otter来了！官方上线Meetings插件，连通Codex一键搞定后续"
     },
     {
-      "title": "大佬开撕！Strogatz怒批Wolfram囚徒困境实验：复杂策略碾压以牙还牙纯属误导",
-      "summary": "AI圈最近流行的「复杂策略完胜」叙事，可能要翻车了。数学家Steven Strogatz公开致信塔勒布，硬刚Stephen Wolfram近期的囚徒困境实验结论。他指出，Wolfram声称复杂策略远超「以牙还牙（Tit for Tat）」极具误导性，因为这仅仅在初始阶段成立。Strogatz呼吁学界开展更大规模、多代数的模拟，强调Axelrod的经典博弈论结论目前依然稳固。",
-      "reads": "6.6万",
-      "ago": "4 小时前",
+      "title": "刚刚，Claude上线「本地手」！云端直接改本地文件，电脑关机还能接着干",
+      "summary": "Anthropic 刚刚为 Claude Projects 推出重磅更新，云端会话现在可以直接连接并读写本地授权文件夹了！官方研究员将这种模式称为「本地手」（local hands），不仅能让云端 AI 直接在本地编辑文件，甚至在你关机后，任务还能继续执行。官方澄清，这并非远程沙盒隔离，而是类似网络挂载文件系统的机制。该功能今天已开始推送，未来还将上线 cowork，同时 Cl…",
+      "reads": "10万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "数学家Steven Strogatz公开致信Nassim Taleb，对Stephen Wolfram近期的有限状态机实验提出质疑。",
-        "Wolfram此前通过实验得出结论，声称在囚徒困境中，部分复杂策略的表现「远远优于」经典的以牙还牙（Tit for Tat）策略。",
-        "Strogatz直言这一结论具有误导性，指出Wolfram仅仅证明了复杂策略在第一代（初始阶段）占优，不能作为普遍成功的规律。",
-        "Strogatz强调，Axelrod关于囚徒困境的经典博弈结论目前依然稳固，并未被推翻。"
+        "**云端直连本地**：Claude Projects 云端会话现已支持连接电脑上的授权文件夹，任务需要时可直接在本地读取和编辑文件。",
+        "**官方命名「本地手」**：Anthropic 研究员将此模式称为「local hands」，让云端运行的 Claude 拥有操作本地文件的能力。",
+        "**关机继续工作**：即使关闭本地电脑，Claude 依然可以继续执行工作任务，实现异步运转。",
+        "**网络挂载机制**：官方澄清，本地文件并非存放在远程沙盒中，其底层机制更像是一个网络挂载的文件系统。"
       ],
       "quote": {
-        "who": "Steven Strogatz",
+        "who": "Thariq",
         "role": "",
-        "said": "@aashiq @nntaleb @stephen_wolfram 我的问题之一是 Axelrod 的结论是否敏感。我的印象是它们一直都挺站得住脚的，但我确实明白你的意思。"
+        "said": "@elmd_ 针对 cowork 是的，我们还有其他可以使用沙盒的远程产品"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 6.6万 · 产品与生态] 大佬开撕！Strogatz怒批Wolfram囚徒困境实验：复杂策略碾压以牙还牙纯属误导"
+      "line": "[榜第11位 · 10万 · 产品与生态] 刚刚，Claude上线「本地手」！云端直接改本地文件，电脑关机还能接着干"
     },
     {
-      "title": "全体掌声起立！KAIST不杀一个细胞逆转癌症，百年肿瘤学法则被颠覆",
-      "summary": "肿瘤学百年来的「找到并摧毁」策略，可能要被彻底颠覆了！KAIST的Cho团队刚刚宣布，他们在不杀死任何一个细胞的情况下，成功逆转了结肠癌。目前，团队正将这一非破坏性机制扩展到脑细胞领域，试图解决传统化疗对大脑伤害极大的世纪难题。业内人士惊呼，这可能将彻底改变整个肿瘤学的治疗范式。",
-      "reads": "23万",
-      "ago": "8 小时前",
-      "category": "产品与生态",
+      "title": "苹果谷歌防线崩了！严重漏洞狂飙6倍，AI智能体集群杀入财富500强",
+      "summary": "网络安全领域正迎来一场由 AI 驱动的攻防风暴。初创公司 Armadin 推出自研 AI 智能体集群，像心跳一样全天候轮询网络，主动攻击并自主修复零日漏洞。自今年 1 月以来，该系统已在财富 500 强企业中挖出 90 多个未知漏洞。与此同时，苹果、谷歌等 21 家大厂的严重漏洞报告数，从过去四年的每月不到 100 个，在今年春天一路狂飙至每月 600 多个。",
+      "reads": "9.0万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "KAIST的Cho团队成功在不杀死任何一个细胞的情况下，实现了癌症的逆转。",
-        "这一突破性方法直接挑战了肿瘤学一个世纪以来「找到并摧毁」的传统策略。",
-        "传统的化疗等破坏性疗法通常会毒杀细胞，对人体造成巨大伤害。",
-        "目前，该非破坏性逆转技术已经成功应用于结肠癌的治疗流程中。"
+        "初创公司 Armadin 推出自研 AI 智能体，能在黑客动手前主动攻击外部资产，寻找并自主修复零日漏洞。",
+        "自今年 1 月起，Armadin 的 AI 智能体已在财富 500 强企业中发现了 90 多个无人知晓的安全漏洞。",
+        "过去四年，包括苹果、AWS、微软和谷歌在内的 21 家大厂，每月严重漏洞报告从未超过 100 个。",
+        "自今年春天以来，这 21 家大厂的严重漏洞报告数量飙升了 6 倍，达到每月 600 多个。"
       ],
       "quote": {
-        "who": "Brian Roemmele",
+        "who": "a16z",
         "role": "",
-        "said": "@RedSunProphecy 礼尚往来。"
+        "said": "Kevin Mandia 谈为什么公司需要一个 AI 智能体集群像心跳一样轮询他们的网络，因为发现新安全漏洞的窗口期在不断缩小： “我们在做一种叫超级攻击的东西。这只是个好听的词，意思是向你扔出一个 AI 智能体无人机群，然后我们映射你的"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 23万 · 产品与生态] 全体掌声起立！KAIST不杀一个细胞逆转癌症，百年肿瘤学法则被颠覆"
+      "line": "[榜第12位 · 9.0万 · 政策与安全] 苹果谷歌防线崩了！严重漏洞狂飙6倍，AI智能体集群杀入财富500强"
     },
     {
-      "title": "万亿参数开源新王诞生！Mistral Large 4今日上线，代码跑分反超GLM-5.3",
-      "summary": "法国AI巨头Mistral正式祭出万亿参数大模型Mistral Large 4（代号Le Chonk）。这款拥有1T总参数、49B激活参数的原生多模态模型，今日已通过API全面上线，并计划在10月底放出完整开源权重。在最新测试中，它不仅在DeepSWE代码基准上以62%的成绩反超智谱GLM-5.3，更在金融和法律两大严苛垂直领域双双刷新开源SOTA，直接威胁闭源API的企业级市…",
-      "reads": "4.1万",
+      "title": "合上电脑照样跑！Claude Code云端版上线，老用户10月7日前速领额度",
+      "summary": "Claude Code 正式推出云端版，把繁重的计算负载全部搬到全新虚拟机上，合上电脑照样能跑。官方不仅同步发布了包含 7 个工作流的实战指南，还给老用户发了福利：只要在 9 月 23 日订阅了 Pro 或 Max 计划，10 月 7 日前输入命令就能领取一次性奖励额度。这波更新彻底解决了本地资源被榨干的痛点，同时完美保留了读取本地文件的丝滑体验。",
+      "reads": "12万",
       "ago": "3 小时前",
-      "category": "模型与能力",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Mistral正式发布全新一代大模型Mistral Large 4，内部代号为Le Chonk。",
-        "模型总参数量高达1T，激活参数为49B，并原生支持多模态能力。",
-        "新模型今日已通过API正式上线提供服务，官方计划于10月底全面放出开源权重。",
-        "在DeepSWE代码基准测试中，Mistral Large 4取得62%的高分，成功超越智谱GLM-5.3的61%。"
+        "Claude Code 云端会话上线，每个任务都在全新虚拟机（fresh VM）上独立运行。",
+        "支持异步长程运行，用户可以同时启动多个任务，合上笔记本后依然在云端继续执行。",
+        "官方发布实战指南，内含 7 个适配云端会话的工作流，并提供一次性成功连接 GitHub 的教程。",
+        "针对 9 月 23 日处于 Pro 或 Max 计划的用户，Anthropic 提供一次性云端会话奖励额度。"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "ClaudeDevs",
         "role": "",
-        "said": "据 VentureBeat 报道，Mistral Large 4 在 DeepSWE 上得分 62%，超越了 GLM-5.3。 此外，它在 Finch（金融任务，开源权重 SOTA）上得分 67%。 Le Chonk 在 Harvey 的 Legal Agent Benchmark（法律任务，开源权重 SOTA）上也拿到了 15%。 我们需要一份技术报告"
+        "said": "云端会话会为每个任务在一个全新的虚拟机上运行 Claude Code，所以你可以同时启动好几个，合上笔记本它们也会继续运行。 我们写了一份实战指南，包含七个适合的工作流，外加如何一次性成功连接 GitHub。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 4.1万 · 模型与能力] 万亿参数开源新王诞生！Mistral Large 4今日上线，代码跑分反超GLM-5.3"
+      "line": "[榜第13位 · 12万 · 产品与生态] 合上电脑照样跑！Claude Code云端版上线，老用户10月7日前速领额度"
     },
     {
-      "title": "Claude开启「后虚拟机时代」！底层架构全面上云，本地文件阅后即焚",
-      "summary": "Claude Cowork迎来底层架构大改！团队负责人Felix Rieseberg确认，为了节省用户电脑性能，智能体循环已从本地虚拟机全面迁移至云端。虽然计算上云，但Claude依然保留了访问本地应用和数据的「抓手」，且新读取权限会被立即拦截、文件副本在会话结束时连同沙盒一并删除。官方表示，目前正谨慎步入「后虚拟机时代」，旧版桌面端虚拟机暂需手动卸载。",
-      "reads": "20万",
-      "ago": "8 小时前",
+      "title": "100毫秒极速响应！OpenAI上线Decisions API，速度狂飙10倍",
+      "summary": "OpenAI 正式向所有开发者开放 Decisions API 公测版，由 GPT-6 Luna 驱动。新 API 专为近乎实时的决策设计，服务端响应时间低于 100 毫秒，比通过 Responses API 调用快达 10 倍。它支持文本和图像输入，提供谓词、选择和评分三种输出模式，将大幅降低开发者构建实时路由和分类应用的门槛。",
+      "reads": "5.0万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "**架构全面上云**：Claude Cowork底层智能体循环正式从本地虚拟机迁移至云端，以节省用户电脑性能并支持新功能。",
-        "**保留本地抓手**：尽管推理在云端进行，但在用户明确授权下，Claude依然可以使用本地应用和数据。",
-        "**隐私安全升级**：桌面应用会在每次请求时检查权限，新读取会被立即拦截；会话结束时，已读文件副本会连同沙盒一起被彻底删除。",
-        "**旧版暂不自动删**：官方对发布保持谨慎，旧版本地虚拟机暂不会自动删除，用户可进入设置手动清理。"
+        "OpenAI 宣布 Decisions API 现已向所有开发者开放公开测试版。",
+        "该 API 由 GPT-6 Luna 驱动，服务端响应时间低于 100 毫秒。",
+        "相比通过 Responses API 调用，Decisions API 的决策速度快达 10 倍。",
+        "支持文本和图像输入，提供谓词（概率预估）、选择（带置信度）和评分三种输出模式。"
       ],
       "quote": {
-        "who": "Kol Tregaskes",
+        "who": "Tibo",
         "role": "",
-        "said": "Cowork 从本地切换到云端的是虚拟机，它用的文件还是在本地。我觉得挺好。AI 智能体通常会榨干我本地机器的资源，所以很高兴这部分负载能交给 Claude 处理。"
+        "said": "Day 2.4/ Decisions API 已上线。我们自己也会用它，通过许多有趣的方式来改善大家的体验。实时通用分类器确实开启了一些很棒的可能性。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 20万 · 产品与生态] Claude开启「后虚拟机时代」！底层架构全面上云，本地文件阅后即焚"
+      "line": "[榜第14位 · 5.0万 · 产品与生态] 100毫秒极速响应！OpenAI上线Decisions API，速度狂飙10倍"
     },
     {
-      "title": "糟糕，Claude突然遥遥领先！开发者惊呼好得吓人，新一代Opus悄悄上线了？",
-      "summary": "Claude怎么突然遥遥领先了？有开发者发推惊呼，Claude近期的表现好得吓人，简直就像暗中换了新模型。这波突如其来的能力跃升，让不少人猜测是不是新一代Opus或Fable悄悄上线了，看来打工人的AI工作流又要大洗牌了。",
-      "reads": "11万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
+      "title": "顶级数学家开撕Wolfram！「以牙还牙」被复杂策略碾压？结论纯属误导",
+      "summary": "知名数学家Steven Strogatz公开喊话Nassim Taleb和Stephen Wolfram，对Wolfram近期关于「囚徒困境」的有限状态机实验结论提出强烈质疑。Wolfram此前声称复杂策略能完胜经典的「以牙还牙」策略，但Strogatz指出这仅在第一代条件下成立，作为普遍结论极具误导性。他呼吁学界进行更大规模、多代数的模拟，并推荐Joshua Plotkin的…",
+      "reads": "6.7万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "有开发者发推惊呼「Claude 怎么突然遥遥领先了」，引发AI社区高度关注。",
-        "该开发者形容Claude近期的表现「好得吓人」，暗示其能力出现了显著跃升。",
-        "社区猜测，Anthropic可能在暗中进行了模型迭代，或许涉及Fable或新一代Opus的灰度测试。",
-        "这一突如其来的能力提升，让不少开发者抱怨自己一直使用的模型感觉没跟上前沿水平。"
+        "核心争议：Stephen Wolfram近期利用有限状态机进行囚徒困境实验，声称复杂策略的表现「远超」经典的Tit for Tat（以牙还牙）策略。",
+        "学界质疑：数学家Steven Strogatz公开致信Nassim Taleb，直指Wolfram的这一结论具有误导性。",
+        "实验缺陷：Strogatz指出，Wolfram的实验仅展示了策略在第一代（特定初始条件）下的表现，不能作为判断策略成功与否的普遍结论。",
+        "经典捍卫：Strogatz强调，Axelrod关于Tit for Tat的经典博弈论结论依然稳固，其敏感性经受住了考验。"
       ],
       "quote": {
-        "who": "🍓🍓🍓",
+        "who": "Steven Strogatz",
         "role": "",
-        "said": "@TFWNicholson 哈哈看我最新发的帖子"
+        "said": "@otrasenda_AC @stephen_wolfram 感谢这些精彩的评论。你应该看看 Joshua Plotkin @jplotkin 回应这一切写的那篇长推。他把最前沿的进展总结得非常到位。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 11万 · 模型与能力] 糟糕，Claude突然遥遥领先！开发者惊呼好得吓人，新一代Opus悄悄上线了？"
+      "line": "[榜第15位 · 6.7万 · 产品与生态] 顶级数学家开撕Wolfram！「以牙还牙」被复杂策略碾压？结论纯属误导"
     },
     {
-      "title": "500美元套餐一天烧光！OpenAI算力遭疯狂吐槽，实测Opus 5.5遥遥领先",
-      "summary": "OpenAI 的 500 美元 Codex 订阅套餐翻车了，有开发者实测发现 GPT-6 Astra 的每周额度一天就能烧光。相比之下，Anthropic 给的算力极为大方，达到了 OpenAI 的 25 倍（此前 200 美元套餐为 20 倍）。不仅 GPT-6.1 Sol 表现平平，Opus 5.5 更是凭借碾压级的性能和宽松限制赢麻了，建议大家等到 10 月 29 日官方…",
+      "title": "Every团队血泪教训：别自己搞沙箱编排！转投Claude托管Agent，全员AI直接发布",
+      "summary": "自己搞沙箱编排等基础设施太痛苦？Every 团队放弃了自建，转而使用 Claude Managed Agents 构建了公司专属的 AI 智能体。这个全员都在 Slack 里使用的 AI 工具在内部火爆后，现在已经直接发布给了外部订阅者。Anthropic 官方借此案例展示了托管智能体如何帮团队省去基建烦恼，专注产品本身。",
       "reads": "4.1万",
-      "ago": "5 小时前",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "开发者吐槽 OpenAI 算力限制极严，500 美元 Codex 订阅套餐的每周额度，在重度使用下仅需一天就会被完全耗尽。",
-        "在该订阅下，OpenAI 现役旗舰模型 GPT-6 Astra 几乎处于「没法用」的状态，极低的调用上限严重影响了实际体验。",
-        "虽然同属 OpenAI 阵营的 GPT-6.1 Sol 提供了相对更多的使用额度，但在实际性能表现上依然被对手拉开差距。",
-        "竞品 Anthropic 在算力分配上极为慷慨，目前提供的算力额度大约是 OpenAI 的 25 倍，且限制极难被触达。"
+        "Anthropic 官方分享了 Every 团队使用 Claude Managed Agents 的实践案例。",
+        "Every 团队的目标是尽可能将工作交给 AI 智能体处理，并在出新模型时帮全团队共享技能。",
+        "他们在 Claude Managed Agents 上构建了一个公司专属的 AI 智能体，供全员在 Slack 中使用。",
+        "团队坦言在第一版中吸取了痛苦的教训，意识到自建基础设施（如沙箱编排）非常困难且成本高昂。"
       ],
       "quote": {
-        "who": "BridgeMind",
+        "who": "Claude",
         "role": "",
-        "said": "@jatingargiitk 不确定，但在实际使用中非常明显。有基准测试支持这一点。"
+        "said": "观看与 @danshipper 和 Willie Williams 关于他们如何构建它的完整对话："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 4.1万 · 产品与生态] 500美元套餐一天烧光！OpenAI算力遭疯狂吐槽，实测Opus 5.5遥遥领先"
+      "line": "[榜第16位 · 4.1万 · 产品与生态] Every团队血泪教训：别自己搞沙箱编排！转投Claude托管Agent，全员AI直接发布"
     }
   ],
   "board_count": 16,
