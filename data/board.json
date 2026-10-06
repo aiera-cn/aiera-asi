@@ -3,90 +3,215 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-06 10:54:21 +0800",
+  "fetched_at": "2026-10-06 18:07:18 +0800",
   "today": "10/06",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "OpenAI首日交卷！Astra提速50%，性价比却被Claude碾压5倍",
-      "summary": "OpenAI「28天改进计划」第一天正式交卷，高管Tibo宣布GPT-6 Astra和GPT-6.1 Sol默认速度提升约50%，达到50 TPS。此次提速覆盖所有订阅产品且不改变额度消耗，但并未如网友期待般重置额度。与此同时，最新实测报告给OpenAI泼了盆冷水：在每月打满的API等价价值上，Claude订阅的性价比比ChatGPT高出5倍以上（最高达11726美元对2084…",
-      "reads": "219万",
-      "ago": "2 小时前",
+      "title": "OpenAI开启28天连更！GPT-6提速50%，Auto-review全面免费不耗额度",
+      "summary": "OpenAI 开启连续 28 天的重大更新。首日，GPT-6 Astra 和 GPT-6.1 Sol 默认速度提升 50% 至 50 TPS；第二天，Auto-review 功能向所有 ChatGPT 登录用户免费开放，且不再消耗套餐额度。与此同时，第三方评测指出，在 200 美元档位下，Claude 订阅的 API 等价价值高达 11726 美元，性价比是 ChatGPT P…",
+      "reads": "376万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI高管Tibo公布「28天改进」首日动作：GPT-6 Astra和GPT-6.1 Sol默认速度提升约50%，从30 TPS增至50 TPS。",
-        "提速覆盖所有通过Sign in With ChatGPT登录的产品和合作伙伴，包括OpenCode、Pi、Amp、Devin等，两小时内自动生效。",
-        "官方明确表示，此次提速配备了目前最优化的分词器，且不会改变现有套餐每周额度的消耗速率。",
-        "社区对首日未进行「额度重置」感到失望，有爆料者指出提速后的Astra仍只有Anthropic Opus 5.5速度的三分之二。"
+        "OpenAI 研究员 Tibo 宣布开启连续 28 天的更新计划，承诺每天推出切实改进或直接全面重置额度。",
+        "Day 1 更新：GPT-6 Astra 和 GPT-6.1 Sol 默认速度提升约 50%，从 30 TPS 飙升至 50 TPS。",
+        "提速覆盖所有使用「通过 ChatGPT 登录」的产品和合作伙伴，包括 OpenCode、Pi、Amp 和 Devin 等。",
+        "Day 2.1 更新：Auto-review 功能向所有通过 ChatGPT 账号登录的用户免费开放，且不再消耗套餐额度。"
       ],
       "quote": {
-        "who": "Wes Roth",
+        "who": "Vaibhav (VB) Srivastav",
         "role": "",
-        "said": "GPT-6 Astra 和 GPT-6.1 Sol 现在用起来应该感觉明显变快了，在 OpenCode、Pi、Amp 和 Devin 等受支持的订阅产品和合作伙伴中，默认速度从每秒大约 30 Token 提升到了 50 Token。"
+        "said": "@FabianFran52130 哈，它现在真的不消耗你的额度了——这才是重点。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 219万 · 产品与生态] OpenAI首日交卷！Astra提速50%，性价比却被Claude碾压5倍"
+      "line": "[榜第1位 · 376万 · 产品与生态] OpenAI开启28天连更！GPT-6提速50%，Auto-review全面免费不耗额度"
     },
     {
-      "title": "前1%土豪月砸903美元！a16z最新AI百强榜出炉，一人花销顶后半段59人总和",
-      "summary": "a16z 发布了第七版 Top 100 消费者 AI 应用榜单，这次首次加入了收入排行榜。数据显示，消费级 AI 市场呈现出极端的头部效应：仅有约 4.5% 的美国消费者为 AI 付费，但前 1% 的重度用户月均支出高达 903 美元，超过了后 50% 用户的总和。此外，a16z 指出当前 AI 应用过度依赖订阅模式，而在社交、游戏等 9 个「消磨时间」的黄金赛道中，竟然没有一…",
-      "reads": "89万",
-      "ago": "1 小时前",
+      "title": "前1%用户月砸903美元！a16z最新AI消费榜出炉，单个工程师一年狂烧1000万",
+      "summary": "a16z 刚刚发布了第七版 Top 100 消费者 AI 应用榜单，首次新增收入排行榜。数据显示，消费级 AI 的支出极度集中，前 1% 的重度用户平均每月花费 903 美元，直接超过了后 50% 用户的总和（中位数仅 25 美元）。Perplexity CEO 更是爆料，有单个工程师每年在编程工具上狂烧 1000 万美元算力。报告同时指出，当前 85% 的 Web 端 AI…",
+      "reads": "157万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "a16z 发布第七版 Top 100 消费者 AI 应用榜单，首次新增收入排行榜，揭示消费者到底在为什么买单。",
-        "消费级 AI 市场呈现极端头部效应：前 1% 的付费用户平均每月花费 903 美元，而中位数用户仅花费 25 美元。",
-        "少数重度用户撑起市场：一个前 1% 付费用户的开销，大约相当于 59 个排名后半段用户的总和。",
-        "目前仅有约 4.5% 的美国消费者为 AI 订阅付费，但这一群体贡献了绝大部分收入。"
+        "a16z 发布第七版 Top 100 消费者 AI 应用榜单，首次在网页和移动端流量排名之外，新增了收入排行榜。",
+        "AI 消费呈现极度两极分化：前 1% 的付费用户平均每月花费 903 美元，支出总额超过了后 50% 用户的总和（中位数仅 25 美元）。",
+        "Perplexity CEO Aravind Srinivas 爆料，Meta 等公司的单个工程师每年在 AI 编程工具上消耗的算力成本高达 1000 万美…",
+        "商业模式与传统互联网完全相反：85% 的 Web 端 AI 应用依赖直接订阅变现，62% 依赖积分或额外使用费，仅有 13% 采用广告模式。"
       ],
       "quote": {
-        "who": "Rohan Paul",
+        "who": "Aakash Gupta",
         "role": "",
-        "said": "重度用户正在推动消费级 AI 市场的增长。 美国排名前 1% 的消费级 AI 付费用户平均每月花费 903 美元，而固定套餐让中位数保持在 25 美元。 平均来看，一个前 1% 的付费用户的开销大约相当于 59 个排名后半段用户的总和。 中位数支出几乎没怎么动，而平均"
+        "said": "前 1% 的 AI 消费者现在每月在个人信用卡上刷 903 美元。a16z 研究了他们到底在买什么，这改变了整个故事。最大的开销项目是 n8n、fal、Manus 和 Hermes Agent。自动化流水线、推理 API、自主 AI 智能体。 你不需要"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 89万 · 产品与生态] 前1%土豪月砸903美元！a16z最新AI百强榜出炉，一人花销顶后半段59人总和"
+      "line": "[榜第2位 · 157万 · 产品与生态] 前1%用户月砸903美元！a16z最新AI消费榜出炉，单个工程师一年狂烧1000万"
     },
     {
-      "title": "同样花200美元，Claude用量暴打OpenAI 5倍！Opus 5.5碾压GPT-6.1 Sol",
-      "summary": "SemiAnalysis 极限测试了九家 AI 订阅计划，结果让人大跌眼镜。在 200 美元档位下，Claude Opus 5.5 的月度 Token 配额是 GPT-6.1 Sol 的 2.8 倍，API 折算价值更是高达 11726 美元，是 OpenAI 旗舰 Astra 的 5 倍以上。Anthropic 借此一跃成为效率王者，而 OpenAI 则因算力限制被迫将套餐用…",
-      "reads": "69万",
-      "ago": "2 小时前",
+      "title": "同样花200美元，Claude等效价值破万！OpenAI被锤成性价比洼地",
+      "summary": "同样是每个月掏200美元，你买到的AI算力到底值多少钱？最新极限测试扒开了9家大模型厂商的订阅底牌：在日常主力模型上，Claude Max提供的Opus 5.5等效价值高达11726美元，而ChatGPT Pro的GPT-6.1 Sol仅为2084美元，差距达到惊人的5倍。面对Anthropic加冕「效率新王」，算力吃紧的OpenAI甚至被迫开始缩减资源配额。",
+      "reads": "122万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "SemiAnalysis 极限测试了 Anthropic、OpenAI、Meta 等九家 AI 公司的订阅计划，发现同等价格下 Anthropic 的 AP…",
-        "在 200 美元档位中，Claude Opus 5.5 的月度 Token 配额达 28.6B，约为 GPT-6.1 Sol（10.2B）的 2.8 倍。",
-        "价值折算方面，200 美元套餐下 Opus 5.5 的 API 等效价值高达 11726 美元，远超 OpenAI 旗舰 GPT-6 Astra 的 289…",
-        "开发者对测试结果反应强烈，认为 Anthropic 已经成为新的效率王者，整个游戏规则在短短几周内被彻底改变。"
+        "知名研究机构SemiAnalysis对Anthropic、OpenAI、Meta等9家AI公司的订阅计划进行了极限测试。",
+        "在200美元档位中，Claude Max套餐提供的Opus 5.5 API等效价值高达11726美元，Sonnet更是达到12529美元。",
+        "同等价位下，ChatGPT Pro套餐中的GPT-6.1 Sol等效价值仅为2084美元，GPT-6 Astra为2897美元。",
+        "开发者指出，即使调整了任务成本，Claude在同等智力水平下依然能以1.3倍至2.9倍的效率优势领先。"
       ],
       "quote": {
-        "who": "Token Gremlin",
+        "who": "Lisan al Gaib",
         "role": "",
-        "said": "@Denisewhore @MichaelM_117 @kimmonismus ♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️"
+        "said": "即使调整了任务成本，用 Claude 依然更划算 虽然不再是 5 倍的差距，但仍有 1.3 倍到 2.9 倍 在同等“智力”（以 AAI 衡量）下，你能完成更多工作，而且速度更快"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 69万 · 产品与生态] 同样花200美元，Claude用量暴打OpenAI 5倍！Opus 5.5碾压GPT-6.1 Sol"
+      "line": "[榜第3位 · 122万 · 产品与生态] 同样花200美元，Claude等效价值破万！OpenAI被锤成性价比洼地"
+    },
+    {
+      "title": "一张19岁生日照估值上百亿！Meta AI大佬晒合影，新一代PayPal Mafia诞生",
+      "summary": "一张估值上百亿美元的19岁生日照火了！Meta AI负责人Alexandr Wang随口爆料，那张被称为「新一代PayPal Mafia」的HRT 2015届实习生合影，其实是他的生日派对。照片里不仅有他，还坐着后来创办Scale、Cognition、Decagon以及Hyperliquid的大佬们。他甚至调侃VC，想知道该投谁，不如直接翻翻他的其他生日照片。",
+      "reads": "20万",
+      "ago": "2 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "Meta AI负责人Alexandr Wang晒出自己19岁生日时的照片，引发硅谷圈热议。",
+        "这张照片实为HRT 2015届实习生的合影，被业内戏称为「新一代PayPal Mafia」。",
+        "画面中同框的大佬，后来分别创办了Scale、Cognition、Decagon等知名AI独角兽公司。",
+        "Hyperliquid创始人Jeff也出现在这张合影中，当时桌上还摆着生日蛋糕。"
+      ],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "💥你敢信！一张19岁生日合影，后来值上百亿美元！ Meta AI 负责人 Alexandr Wang 随口承认：那张被叫成「新一代 PayPal Mafia」的 HRT 2015 实习合影，其实是他的19岁生日。 桌上还摆着蛋糕，同框里就坐着 Hyperliquid 创始人 Jeff，旁边是后来做出 Scale、Cognition、Decagon 的人。 他问"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 20万 · 组织与人事] 一张19岁生日照估值上百亿！Meta AI大佬晒合影，新一代PayPal Mafia诞生"
+    },
+    {
+      "title": "日耗7000刀！OpenAI内部Token账单曝光，微软Meta却在狂砍Claude",
+      "summary": "OpenAI 内部的 Token 账单彻底压不住了！Epoch AI 最新报告显示，OpenAI 研究员的编程 Agent 消耗大约每月翻倍，90 分位大佬日均消耗超 7000 美元，年化高达 200 万美元。有趣的是，行业正呈现冰火两重天：微软和 Meta 正在削减内部的 Claude 支出，而 Airbnb CEO 却高呼 Token 花费超预期但 ROI 极高，正全面转型…",
+      "reads": "13万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Epoch AI 提取 2026 年 1 月至 8 月中旬数据，发现 OpenAI 研究员的编程 Agent 支出大约每月翻倍。",
+        "中位数研究员日均消耗从 1 月的不足 1 美元，飙升至 8 月中旬的 601 美元（年化约 180 万美元）。",
+        "90 分位顶尖研究员的日均消耗更是超过 7000 美元，按 260 个工作日计算，年化消耗高达 200 万美元。",
+        "行业出现分化，Meta 和微软正在削减员工对 Claude 的使用，微软甚至将今年 10 亿美元的内部 Claude 预算砍掉了 33% 以上。"
+      ],
+      "quote": {
+        "who": "Rohan Paul",
+        "role": "",
+        "said": "这 200 万美元属于 OpenAI 收入达到 90 分位的研究员：7047 美元 × 约 260 个工作日"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 13万 · 产品与生态] 日耗7000刀！OpenAI内部Token账单曝光，微软Meta却在狂砍Claude"
+    },
+    {
+      "title": "Anthropic深夜回应！Claude桌面端推理全面上云，正式迈入「后虚拟机时代」",
+      "summary": "针对近期 Claude 桌面端权限和虚拟机去留的争议，Anthropic 团队负责人深夜发文回应。新架构下，底层智能体循环已全面迁移至云端以节省本地性能，但依然保留了「本地抓手」，用户明确授权后仍可访问本地应用和数据。官方强调，桌面端会在每次请求时检查权限，会话结束后临时文件副本将被彻底删除，目前尚未自动清理旧版虚拟机。",
+      "reads": "17万",
+      "ago": "7 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 团队负责人 Felix Rieseberg 官方回应 Claude 桌面端权限争议，确认受影响用户已收到邮件和应用内通知。",
+        "底层 AI 智能体循环（Agent Loop）已迁移至云端，旨在节省用户电脑性能并支持更多新功能。",
+        "桌面端保留了本地工具授权机制，用户明确授权后，Claude 依然可以使用本地应用和数据。",
+        "桌面应用会在每次请求时检查权限，新的未授权读取会被立即拦截。"
+      ],
+      "quote": {
+        "who": "Felix Rieseberg",
+        "role": "",
+        "said": "@Green360Info @GergelyOrosz 好问题！答案可能有点过于硬核，但听我慢慢说： - 在旧版本中，你的电脑上有一个虚拟机。你的文件其实都不在虚拟机*里面*：我们让 Claude 在那里运行代码，但每当 Claude 想要读取或写入文件时，我们就会让"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 17万 · 产品与生态] Anthropic深夜回应！Claude桌面端推理全面上云，正式迈入「后虚拟机时代」"
+    },
+    {
+      "title": "不憋大招了！OpenAI开启28天连更，Astra提速50%，GPT-6.1 Sol呼之欲出",
+      "summary": "OpenAI 正式开启为期 28 天的「持续改进」活动，改走小步快跑的迭代路线。活动首日就放出了速度优化，GPT-6 Astra 和 GPT-6.1 Sol 的速度大幅提升约 50%。社区纷纷猜测，接下来的重头戏很可能是 ChatGPT 正式接入 GPT-6.1 Sol。",
+      "reads": "3.8万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 启动为期 28 天的「持续改进」（Improvements）活动，通过连续小步快跑式迭代提升体验。",
+        "活动首日即推出默认速度优化，GPT-6 Astra 和 GPT-6.1 Sol 的速度提升了约 50%。",
+        "有社区 KOL 发起讨论，猜测首个重大更新可能是 ChatGPT 接入 GPT-6.1 Sol。",
+        "此次活动标志着 OpenAI 策略的转变，不再依赖一次性的大版本发布。"
+      ],
+      "quote": {
+        "who": "Mark Kretschmann",
+        "role": "",
+        "said": "@MakJoris @OpenAI 哈哈哈有点太晚了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 3.8万 · 产品与生态] 不憋大招了！OpenAI开启28天连更，Astra提速50%，GPT-6.1 Sol呼之欲出"
+    },
+    {
+      "title": "百年肿瘤学被颠覆！KAIST团队成功逆转癌症，一个细胞都没杀",
+      "summary": "延续了一个世纪的「发现并摧毁」癌症治疗策略，今天被彻底颠覆了。KAIST大学Cho团队宣布，他们在不杀死任何一个细胞的情况下成功逆转了癌症。这项技术通过改变癌细胞的「主调控因子」让其恢复正常功能，目前该管线已经从结肠扩展到脑细胞领域，有望为对传统化疗极其敏感的大脑带来革命性新疗法。",
+      "reads": "12万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "KAIST大学Cho团队取得重大医学突破，宣布在不杀死任何细胞的前提下成功逆转癌症。",
+        "新疗法彻底颠覆了肿瘤学百年来「找到并摧毁」的传统策略，不再依赖化疗毒杀。",
+        "该方法的核心机制是识别并改变癌细胞的「主调控因子」，使其恢复正常功能。",
+        "研究人员指出，这种改变治疗范式的新方法，其意义甚至可能超越了逆转癌症这一结果本身。"
+      ],
+      "quote": {
+        "who": "Brian Roemmele",
+        "role": "",
+        "said": "2/2 Cho 的团队已经将同样的流程应用到结肠以外的地方。他们开始在脑细胞中寻找类似的主调控因子——这个方向意义重大，因为大脑是传统破坏性疗法造成伤害最大的器官"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 12万 · 产品与生态] 百年肿瘤学被颠覆！KAIST团队成功逆转癌症，一个细胞都没杀"
     },
     {
       "title": "突发，微软Meta联手绞杀Claude！单人预算狂砍90%，Anthropic携650亿ARR冲刺IPO",
       "summary": "Anthropic 冲刺 IPO 前夕，硅谷巨头们的防御战悄然打响。爆料称微软已将内部 Claude 支出削减超 33%，单人预算从每月 10 万美元狂砍至 1 万美元；Meta 内部使用 Claude Code 的员工也从 6 万人腰斩至 3 万人。与此同时，Anthropic 向投资者交出了炸裂的成绩单：自 1 月以来 ARR 翻了 7 倍高达 650 亿美元，超百家企业巨…",
-      "reads": "34万",
-      "ago": "4 小时前",
+      "reads": "56万",
+      "ago": "11 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -104,308 +229,183 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 34万 · 资本与算力] 突发，微软Meta联手绞杀Claude！单人预算狂砍90%，Anthropic携650亿ARR冲刺IPO"
-    },
-    {
-      "title": "Anthropic回应Claude权限担忧！新Projects暗藏专属云端VM，KOL直呼太复杂",
-      "summary": "Anthropic 旗下 Cowork 团队负责人 Felix Rieseberg 正式回应了用户对 Claude 权限的担忧，明确表示 Claude 目前无法直接执行主机命令，除非配置自定义 MCP 服务器，并推荐需要该功能的用户转向 Claude Code。与此同时，有 KOL 透露新版 Claude Projects 实际上是在与一个专属云端 VM 持续对话，虽然体验大幅…",
-      "reads": "9.7万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Cowork 团队负责人 Felix Rieseberg 确认，受影响用户已收到关于 Claude 权限的邮件和应用内通知，团队希望用户确切知道 Claud…",
-        "官方澄清，Claude 目前无法直接在主机上运行命令，除非用户为其配置自定义 MCP 服务器。",
-        "针对需要在主机直接执行命令的开发者，官方强烈推荐使用专属工具 Claude Code。",
-        "有 KOL 透露，新版 Claude Projects 与旧版完全不同，其本质是与一个专属的云端虚拟机（VM）进行持续对话。"
-      ],
-      "quote": {
-        "who": "Simon Willison",
-        "role": "",
-        "said": "@felixrieseberg @GergelyOrosz 如果我升级 Claude 桌面端应用，那个虚拟机会被删掉吗？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 9.7万 · 产品与生态] Anthropic回应Claude权限担忧！新Projects暗藏专属云端VM，KOL直呼太复杂"
-    },
-    {
-      "title": "谁是AI圈头号大忽悠？一张图炸出全网吃瓜，爆料人暗示谷歌大招已在路上",
-      "summary": "AI圈又掀起了一场吃瓜大战！一位开发者甩出一张「高炒作、低质量」的柱状图让全网猜谜，引得研究员神调侃是谷歌的「Claudex AI Space」。不过爆料人立刻下场护犊子，直言谷歌是X上最不爱炒作的公司，每次预热都能兑现 Google Nano-Banana Veo 级别的成果。面对网友催更，他更是直接暗示大招「已经不远了」，顺手还在光天化日之下把调侃的同行「公开处刑」了一番。",
-      "reads": "66万",
-      "ago": "8 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "一位开发者发布了一张柱状图，显示某AI公司「炒作（Hype）」极高而「质量（Quality）」极低，邀请全网在线猜谜。",
-        "一位研究员在评论区神回复，调侃这家公司是谷歌的「Claudex AI Space」，引发社区疯狂互动。",
-        "爆料人随后澄清并力挺谷歌，称其是X平台上最不爱发声、最不爱炒作的AI公司。",
-        "他强调谷歌每次预热都能真正交付成果，并直接点名了 Google Nano-Banana Veo 作为证明。"
-      ],
-      "quote": {
-        "who": "AshutoshShrivastava",
-        "role": "",
-        "said": "@poteto @thsottiaux 光天化日之下公开处刑。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 66万 · 产品与生态] 谁是AI圈头号大忽悠？一张图炸出全网吃瓜，爆料人暗示谷歌大招已在路上"
-    },
-    {
-      "title": "日均狂烧7000美元！OpenAI内部智能体用量每月翻倍，微软Meta却在砍预算",
-      "summary": "顶级 AI 实验室的内部开销到底有多夸张？Epoch AI 最新报告显示，从 2026 年 1 月到 8 月中旬，OpenAI 研究员使用编程智能体的 API 支出每个月都在翻倍。截至 8 月中旬，中位数员工日均消耗 600 美元，前 10% 的核心人员一天就能烧掉 7000 美元。与此同时行业却出现两极分化：Airbnb 宣布不计成本拥抱 AI，而微软和 Meta 却因成本压…",
-      "reads": "7.9万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Epoch AI 提取了 OpenAI 内部 2026 年 1 月至 8 月中旬的数据，发现研究员的编程智能体支出大约每月翻一番。",
-        "按 API 标价计算，中位数研究员的日均使用量从 1 月的不到 1 美元，飙升至 8 月中旬的 600 美元（年化约 180 万美元）。",
-        "头部用户的消耗更为惊人，90 分位研究员的日均 API 费用已经超过 7000 美元，翻倍时间仅需 27 天。",
-        "与 OpenAI 内部的狂热不同，Meta 和微软正在削减员工对 Claude 的使用预算。"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": ""
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 7.9万 · 产品与生态] 日均狂烧7000美元！OpenAI内部智能体用量每月翻倍，微软Meta却在砍预算"
-    },
-    {
-      "title": "差了整整5倍！Anthropic订阅性价比暴击OpenAI，Opus 5.5额度碾压Sol",
-      "summary": "有开发者对比了 Anthropic 与 OpenAI 订阅套餐的等效 API 价值，发现中端线差距惊人。在 200 美元档位对决中，Anthropic 提供的 Opus 5.5 价值是 GPT-6.1 Sol 的 5 倍以上，Token 量更是达到对手的 2.5 倍。虽然 OpenAI 在旗舰模型 Astra 上的额度略胜 Fable 5.1，但传闻 Anthropic 正酝酿…",
-      "reads": "14万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "有开发者发布图表，详细对比了 Anthropic 和 OpenAI 在 20 美元、100 美元、200 美元档位订阅套餐的 API 等效价值。",
-        "在中端模型对比中，Anthropic 订阅套餐的整体价值超过 OpenAI 同等 API 定价的 5 倍以上。",
-        "具体到 200 美元档位，Claude 的 Max 20x 套餐提供的 Opus 5.5 Token 数量，是 OpenAI Pro 20x 套餐中 GPT…",
-        "在旗舰模型方面，OpenAI Pro 和 Max 20x 套餐提供的 Astra 使用量，仅比 Anthropic 的 Fable 5.1 略多一点。"
-      ],
-      "quote": {
-        "who": "leo 🐾",
-        "role": "",
-        "said": "为了更好地比较，你在 Claude 的 Max 20x 套餐里能拿到的 Opus 5.5 Token 数量，是 Pro 20x 套餐里 Sol 6.1 的 2.5 倍以上"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 14万 · 产品与生态] 差了整整5倍！Anthropic订阅性价比暴击OpenAI，Opus 5.5额度碾压Sol"
-    },
-    {
-      "title": "吓到离职！前Anthropic研究员发警告：明年模型将自我进化，人类极可能失去控制",
-      "summary": "前 Anthropic 和 OpenAI 研究员 Jacob Coxon 最近吓得直接离职了。他爆料称，OpenAI 内部定下的自动化 AI 研究员里程碑是 2027 到 2028 年，目前进度不仅顺利甚至还超前了，大部分代码已经是 AI 写的且几乎没人检查。他警告说，明年的模型就能实现自我改进，在递归自我进化竞赛的背景下，人类极有可能彻底失去对 AI 的控制；而 Meta 高…",
-      "reads": "9.6万",
-      "ago": "5 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "前 Anthropic 能力研究员 Jacob Coxon 确认离职，离职原因是恐惧「目前还没人能控制 AI」以及「明年的模型就能自我改进」。",
-        "Coxon 认为整个 AI 问题的核心，是预期在未来几年内会出现一场全球性（尤其是中美之间）的递归自我改进（RSI）竞赛。",
-        "他警告，按照目前所有 AI 公司都在试图打造超级智能（在每一项任务上都比人类强）的发展路径，人类极有可能失去对 AI 的控制。",
-        "Coxon 曾在 OpenAI 工作，他透露 OpenAI 内部对自动化 AI 研究员的里程碑设定在 2027 到 2028 年。"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": "Meta 的 Shane Cahill 表示，$META 已经把大部分算力投入到服务用户上，而不是去卷递归自我进化。 “非常感谢你的提问。关于你刚才念的那段 Altman 先生的话，我的看法不太一样。我们绝对"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 9.6万 · 政策与安全] 吓到离职！前Anthropic研究员发警告：明年模型将自我进化，人类极可能失去控制"
+      "line": "[榜第9位 · 56万 · 资本与算力] 突发，微软Meta联手绞杀Claude！单人预算狂砍90%，Anthropic携650亿ARR冲刺IPO"
     },
     {
-      "title": "关机也能跑！Claude Code 祭出云端版 MCP，AI 彻底接管本地文件",
-      "summary": "AI 助手终于进化成了「全天候打工人」。Anthropic 研究员 @trq212 刚刚披露了 Claude Code 的全新交互模式「local hands」，允许云端运行的 Claude 直接访问本地文件。最离谱的是，它支持异步工作流——即使用户关了电脑，云端任务依然能继续执行并处理本地数据。这一功能即将集成到 Anthropic 的协作平台 cowork 中。",
-      "reads": "4.1万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
+      "title": "绝了！Opus 5.5纯靠JS画出小篆印章，精确到每一笔坐标",
+      "summary": "Opus 5.5 的代码渲染能力又玩出新高度了！有开发者完全不依赖传统生图模型，仅靠提示词让 Opus 5.5 用 JS 和 Canvas 纯代码画出了一枚繁体「宝玉」篆书印章。字形不仅严格遵循《说文》小篆，而且连字体都没调用，每一笔全靠坐标精准算出再加粗，大模型底层逻辑控制视觉输出的潜力彻底藏不住了。",
+      "reads": "2.4万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "全新交互模式：Anthropic 研究员 @trq212 披露 Claude Code 新模式，命名为「local hands」。",
-        "云边协同突破：Claude 在云端运行的同时，可以直接访问并操作用户的本地文件。",
-        "关机继续干活：支持异步工作流，用户关闭电脑后，云端任务仍可继续执行并处理本地数据。",
-        "生态持续扩张：该功能即将集成到 Anthropic 的协作平台 cowork 中。"
+        "开发者展示 Claude Opus 5.5 最新能力，完全不依赖传统视频或图像生成大模型实现复杂视觉输出。",
+        "核心案例为纯靠 JS 和 Canvas 代码，直接绘制出一枚自右向左读的繁体「宝玉」篆书印章。",
+        "提示词要求极高：字形需严格遵循《说文》小篆，且明确禁止调用现有字体文件。",
+        "渲染方式极其硬核：印章的每一笔每一划，均由大模型通过计算坐标精确绘制并加粗。"
       ],
       "quote": {
-        "who": "Thariq",
+        "who": "宝玉",
         "role": "",
-        "said": "@thejamesmcaulay 关机后它还能继续工作"
+        "said": "@jinchuanai 不是，对话了几次"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 4.1万 · 产品与生态] 关机也能跑！Claude Code 祭出云端版 MCP，AI 彻底接管本地文件"
+      "line": "[榜第10位 · 2.4万 · 模型与能力] 绝了！Opus 5.5纯靠JS画出小篆印章，精确到每一笔坐标"
     },
     {
-      "title": "别只拿Agent订机票了！Nous官方甩出326个真实用例，VPS建站都能干",
-      "summary": "Nous Research 官方发布了 Hermes Agent 的 326 个真实用户用例，直接打破了「Agent 只能用来订机票」的刻板印象。作为一个拥有近 500 个 mod 的生态项目，Hermes 这次展示了从 VPS 建站到健身教练等硬核场景，证明了其强大的通用性。官方还在评论区手把手引导新手入门，加速推动 Agent 的落地普及。",
-      "reads": "11万",
-      "ago": "7 小时前",
+      "title": "刚刚，OpenAI原生搜索成绩单出炉！首秀仅排第5，单次成本0.05美元",
+      "summary": "OpenAI 原生搜索的真实战斗力曝光了。在 Artificial Analysis 最新搜索榜单中，OpenAI Web Search 首秀得分 74，落后于 Perplexity 仅排第 5。数据显示，其单次任务成本约 0.05 美元，平均耗时 31 秒处于中游水平，这也是榜单上首个集成的第一方搜索工具。",
+      "reads": "2.6万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Nous Research 官方发布了 326 个 Hermes Agent 的真实用户用例。",
-        "用例场景极其丰富，涵盖了 VPS 建站、健身教练、家庭助手等多元化需求。",
-        "官方明确表示，此举是为了打破用户对 Agent 仅能处理「订机票」等简单任务的认知局限。",
-        "Hermes 作为一个拥有近 500 个 mod 的生态项目，正通过展示实际落地能力来强化其通用性定位。"
+        "OpenAI Web Search 在 Artificial Analysis 搜索指数榜单首次亮相，得分 74，位列第 5。",
+        "排名落后于 Perplexity、Octen、Parallel 和 Brave，但它是榜单上首个集成的第一方搜索工具，区别于调用 API 的第三方智能体。",
+        "单次任务总成本约 0.05 美元，其中搜索成本约 0.04 美元，模型推理成本约 0.009 美元。",
+        "搜索费用（每 1000 次调用 10 美元）占总成本的 80%，略高于 Search API 74% 的行业中位数。"
       ],
       "quote": {
-        "who": "Nous Research",
+        "who": "Artificial Analysis",
         "role": "",
-        "said": "@nickytrades_ 它们也在页面上，这是个人用途筛选器"
+        "said": "➤ 排行榜： ➤ 方法论，包括我们如何运行 OpenAI Web Search： ➤ Stirrup，我们用于所有 Search API 行的开源 AI 智能体框架： Search API 提供商可以联系我们以被纳入"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 11万 · 产品与生态] 别只拿Agent订机票了！Nous官方甩出326个真实用例，VPS建站都能干"
+      "line": "[榜第11位 · 2.6万 · 产品与生态] 刚刚，OpenAI原生搜索成绩单出炉！首秀仅排第5，单次成本0.05美元"
     },
     {
-      "title": "官方下场发流量！OpenAI「支线任务」大开奖，下一波挑战预告已出",
-      "summary": "OpenAI 开发者官方账号刚刚公布了「支线任务」（Side Quests）的获胜者名单，并配上了一张抓娃娃机喷洒五彩纸屑的庆祝图。官方同时预告，未来还会推出更多类似的挑战活动。这一游戏化的运营机制，不仅能激励社区开发者基于 OpenAI 平台构建创新应用，更意味着获胜的独立开发者和初创团队将获得官方背书与宝贵的流量倾斜。",
-      "reads": "5.6万",
+      "title": "三大佬隔空互呛！Strogatz致信塔勒布：Wolfram的囚徒困境实验纯属误导",
+      "summary": "学界三大佬因为「囚徒困境」吵起来了。数学家 Steven Strogatz 公开致信塔勒布，直接反驳了 Stephen Wolfram 近期的实验结论。Strogatz 认为，Wolfram 宣称复杂策略远超「以牙还牙」具有误导性，这种优势仅仅在第一轮有效，根本不能算作普遍规律。",
+      "reads": "4.4万",
       "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 开发者官方账号正式宣布了「支线任务」（Side Quests）的最终获胜者名单。",
-        "官方推文以「成就解锁」为题，配图展示了一台装满彩色球的抓娃娃机爆发五彩纸屑的庆祝画面。",
-        "官方在后续推文中明确预告，未来还将推出更多「支线任务」活动，呼吁开发者保持关注。",
-        "此次活动的核心目的在于激励社区开发者积极参与，展示基于 OpenAI 平台构建的各类创新应用。"
+        "数学家 Steven Strogatz 在 X 上公开致信 Nassim Taleb。",
+        "争论焦点是 Stephen Wolfram 近期利用有限状态机进行的「囚徒困境」实验。",
+        "Wolfram 认为部分复杂策略的表现「远超」经典的「以牙还牙（Tit for Tat）」策略。",
+        "Strogatz 明确指出这一结论具有误导性，不能作为策略成功的普遍规律。"
       ],
       "quote": {
-        "who": "OpenAI Developers",
+        "who": "Steven Strogatz",
         "role": "",
-        "said": "敬请期待更多支线任务 😉"
+        "said": "@nntaleb 我的想法 -->"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 5.6万 · 产品与生态] 官方下场发流量！OpenAI「支线任务」大开奖，下一波挑战预告已出"
+      "line": "[榜第12位 · 4.4万 · 产品与生态] 三大佬隔空互呛！Strogatz致信塔勒布：Wolfram的囚徒困境实验纯属误导"
     },
     {
-      "title": "卖不动了！iPhone 18 Pro在美需求下滑，Duo产能告急，苹果遭双重暴击",
-      "summary": "苹果这波有点难受了。分析机构指出，iPhone 18 Pro 和 18 Pro Max 在美国市场的同比需求出现低个位数下滑，本季度前两个月营收略低于预期。更头疼的是，虽然折叠屏 iPhone Duo 抢走了大量高端需求，但受限于产能，苹果今年根本造不出足够的 Duo 来弥补缺口。再加上内存芯片价格飙升疯狂挤压利润，苹果正面临双重打击。",
-      "reads": "2.6万",
-      "ago": "3 小时前",
+      "title": "别光顾着刷新定理了！学者痛批AI正让数学变天书，呼吁设立「最优雅证明」赛道",
+      "summary": "AI 攻克数学难题固然让人兴奋，但无休止的技术堆叠正让数学文献变成人类看不懂的天书。近日有学者发文痛批，当前 AI 模型根本写不出「人类可解释」的优雅证明，只会制造晦涩难懂的学术垃圾。为此他呼吁学术界设立专门的「教科书级」证明赛道，审稿门槛极高——必须让审稿人觉得「不可能再简化了」，以此激励大家用 AI 来清理和优化现有的数学文献。",
+      "reads": "2.7万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Bernstein 分析师指出，iPhone 18 Pro 和 18 Pro Max 在美国市场的同比需求出现低个位数下滑。",
-        "机构预测，苹果本季度前两个月的营收将「略低于」预期。",
-        "内存芯片价格飙升正在严重挤压苹果的利润空间。",
-        "分析师认为，需求下滑叠加利润空间被挤压，给苹果带来了双重打击。"
+        "学者指出，目前 AI 用于数学的重点几乎都在得出新结果，却极少有人关注用 AI 为旧定理寻找更简单、优雅的论证。",
+        "这种现象源于当前的发表文化：荣誉往往归于首发者，而简化已有定理的工作通常无法发表（Dinur 的 PCP 定理等少数例外除外）。",
+        "当前 AI 模型在生成「人类可解释」的优雅解决方案上表现不佳，即使去除了 AI 味的废话，也只是在叠加技术修改，让人越来越难以直观理解。",
+        "学者警告，随着 AI 驱动的研究相互叠加，整个解决方案会变得令人费解，这种混淆的累积正在破坏数学文献的可读性。"
       ],
       "quote": {
-        "who": "tae kim",
+        "who": "Gautam Kamath",
         "role": "",
-        "said": "@highyieldYT @santygegen 同意 Duo 正在抢走很大一部分 Pro Max 的高端需求。今年的问题是他们造不出足够的 Duo 来弥补"
+        "said": "@sarielhp SOSA 可能是目前唯一的渠道，除非有重大突破。但我认为这种情况会改变，而且可能非常快。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 2.6万 · 产品与生态] 卖不动了！iPhone 18 Pro在美需求下滑，Duo产能告急，苹果遭双重暴击"
+      "line": "[榜第13位 · 2.7万 · 产品与生态] 别光顾着刷新定理了！学者痛批AI正让数学变天书，呼吁设立「最优雅证明」赛道"
     },
     {
-      "title": "苹果护城河变牢笼？Ben Thompson长文：AI时代，围墙花园成了限制",
-      "summary": "知名科技分析师 Ben Thompson 发布长文《Apple 与黑客的未来》，直言在 AI 时代，苹果引以为傲的「围墙花园」已经从保护伞变成了限制创新的牢笼。这一观点引发圈内热议，甚至有网友直接喊话建议换用 AI 优先的 Omarchy Linux 系统。对于依赖苹果生态的开发者来说，未来可能需要寻找能突破封闭限制的 AI 集成方案。",
-      "reads": "3.9万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
+      "title": "微软意外泄露GPT-6底牌！Sol系列同源权重曝光，循环Transformer架构实锤",
+      "summary": "微软公开页面意外泄露了 OpenAI 的底牌！GPT-6.1 Sol 和 GPT-6 Sol 被证实共享同一套基础权重，两者的核心差异仅仅是推理循环次数：前者跑 2 遍，后者跑 3 遍。这一失误直接坐实了此前关于 GPT-6 系列采用循环 Transformer 架构的爆料，同一组参数反复计算，不仅能实现更深思考，还大幅减少了参数量。",
+      "reads": "1.0万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "知名科技媒体 Stratechery 发布文章《Apple 与黑客的未来》，探讨苹果生态在 AI 时代的局限性。",
-        "作者 Ben Thompson 表示，自己多年来在苹果的「围墙花园」里过得很开心，但有了 AI 之后，这些保护措施感觉就像是限制。",
-        "文章暗示，苹果的护城河可能在 AI 开放协作的趋势下，成为阻碍创新的瓶颈。",
-        "依赖苹果生态的企业和开发者，未来可能需要重新评估对单一平台的依赖程度，寻找突破限制的方案。"
+        "微软公开页面意外泄露 GPT-6 系列机密，证实 GPT-6.1 Sol 与 GPT-6 Sol 共享同一套基础权重。",
+        "两款模型的核心差异在于推理循环次数：GPT-6.1 Sol 仅运行 2 遍，而 GPT-6 Sol 运行 3 遍。",
+        "这一泄露侧面印证了 The Information 在 9 月份的爆料，即 GPT-6 系列采用了循环 Transformer（Looping Transf…",
+        "循环 Transformer 架构允许同一组参数反复计算，从而在减少参数量的同时实现更深层次的思考。"
       ],
       "quote": {
-        "who": "Mark Kretschmann",
+        "who": "J A Z I I",
         "role": "",
-        "said": "@stratechery 换成 Omarchy Linux 吧，一个 AI 优先的操作系统！"
+        "said": "@NFT_Chen 是啊，还是同一个 Doug 基础 他们需要用新的基础 ato"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 3.9万 · 产品与生态] 苹果护城河变牢笼？Ben Thompson长文：AI时代，围墙花园成了限制"
+      "line": "[榜第14位 · 1.0万 · 模型与能力] 微软意外泄露GPT-6底牌！Sol系列同源权重曝光，循环Transformer架构实锤"
     },
     {
-      "title": "38个字母的神秘AI曝光！知名安全专家在线寻人：谁家的新旗舰？",
-      "summary": "知名AI安全研究员 elder_plinius 深夜抛出一个长达38个字母的神秘代号「SUPERCALIFRAGILISTICEXPIALINTELLIGENCE」，并公开追问背后的开发者是谁。这个极具辨识度的名字疑似某家头部大厂未发布的内部测试模型或新旗舰。目前尚无官方认领，但这一线索已经引发了社区对新一轮技术迭代的强烈猜测。",
+      "title": "估值1.4万亿美元！OpenAI洽谈300亿融资，中东基金与BlackRock入局",
+      "summary": "彭博社最新爆料，OpenAI 正在与阿联酋投资基金及 BlackRock 洽谈新一轮融资。据悉，本轮融资规模至少达 300 亿美元，而 OpenAI 的投前估值更是飙升至惊人的 1.4 万亿美元。中东主权财富基金的巨额押注，再次刷新了 AI 领域的吸金纪录。",
       "reads": "2.1万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
+      "ago": "4 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "AI安全研究员 elder_plinius 在社交媒体曝光了一个神秘的系统代号。",
-        "该代号为「SUPERCALIFRAGILISTICEXPIALINTELLIGENCE」，由整整38个字母组成。",
-        "爆料者直接抛出该名称并追问「谁在做这个？」，引发了社区的广泛猜测与讨论。",
-        "该名称极具辨识度，疑似某家头部厂商未发布的内部测试模型或新旗舰代号。"
+        "据彭博社报道，OpenAI 正在洽谈一轮至少 300 亿美元的新融资。",
+        "本轮融资的投前估值高达 1.4 万亿美元（即不包含新注入的现金）。",
+        "谈判对象包括多家阿联酋投资基金，其中总部位于阿布扎比的 MGX 有望领投。",
+        "资管巨头 BlackRock 也在讨论与阿联酋基金一同加入本轮融资。"
       ],
       "quote": {
-        "who": "Pliny the Liberator 🐉󠅫󠄼󠄿󠅆󠄵󠄐󠅀󠄼󠄹󠄾󠅉󠅭",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "谁在做这个？"
+        "said": "Bloomberg：OpenAI 正在与来自阿联酋的几家投资基金（包括总部位在阿布扎比的 MGX）谈判，寻求以 1.4 万亿美元的投前估值（即不包括新现金）敲定一轮 300 亿美元的融资 BlackRock 正在讨论与他们一起加入，而现有的支持者"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 2.1万 · 产品与生态] 38个字母的神秘AI曝光！知名安全专家在线寻人：谁家的新旗舰？"
+      "line": "[榜第15位 · 2.1万 · 资本与算力] 估值1.4万亿美元！OpenAI洽谈300亿融资，中东基金与BlackRock入局"
     },
     {
-      "title": "曝黄仁勋女婿女儿上位！接管英伟达核心大权，GPU要变金融资产了",
-      "summary": "英伟达内部权力格局大变！据记者爆料，黄仁勋的新女婿 Nico Caprez 和女儿 Madison Huang 已成为公司内部的「权势夫妇」。两人不仅担任黄仁勋的顾问，还接管了将 GPU 转化为金融资产等核心项目。不少员工感慨，现在的英伟达已经越来越像一家家族企业，而不是传统的科技巨头了。",
-      "reads": "7.6万",
-      "ago": "8 小时前",
-      "category": "组织与人事",
+      "title": "连上GitHub直接改代码！开发者力荐Claude Projects，独立记忆加技能太香了",
+      "summary": "知名开发者近日强烈推荐了 Anthropic 的 Claude Projects 功能，直言其在编程工作流中极为实用。该功能不仅支持为每个项目设置独立的 System Prompt 和记忆，还能直接连通 GitHub 进行代码访问、修改与提交，所有子任务均以 Thread 形式优雅展开。此外，针对网友尝试用 glm-5.3-flash 逆向破解其提示词的举动，开发者大方回应称相…",
+      "reads": "2.7万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "记者爆料称，黄仁勋（Jensen Huang）的新女婿 Nico Caprez 与女儿 Madison Huang 在英伟达内部组成了「权势夫妇」。",
-        "两人目前担任黄仁勋的顾问（consiglieres），直接进入了公司的核心权力圈。",
-        "他们受托负责英伟达的关键项目，其中最核心的任务是将 GPU 转化为金融资产。",
-        "这一人事安排引发内部热议，有员工反映公司现在的运作模式更像是一家家族企业。"
+        "知名开发者强烈推荐 Claude Projects，肯定其在 AI 编程与项目级管理中的实用价值。",
+        "每个 Project 均可配置独立的 System Prompt 和专属记忆，并支持调用各类 Skills。",
+        "任务管理高度集成，项目下的所有任务都在单一会话中进行，子任务会通过 Thread 形式自动展开。",
+        "具备强大的 GitHub 联动能力，授权连接后，AI 可直接访问、修改代码并完成提交动作。"
       ],
       "quote": {
-        "who": "Amir Efrati",
+        "who": "宝玉",
         "role": "",
-        "said": "@GaruthAcharya 正往那个方向发展"
+        "said": "@xDinoDeer 其实是一样的，只是交互方式不一样"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 7.6万 · 组织与人事] 曝黄仁勋女婿女儿上位！接管英伟达核心大权，GPU要变金融资产了"
+      "line": "[榜第16位 · 2.7万 · 产品与生态] 连上GitHub直接改代码！开发者力荐Claude Projects，独立记忆加技能太香了"
     }
   ],
   "board_count": 16,
