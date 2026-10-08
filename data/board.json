@@ -3,15 +3,215 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-09 01:50:23 +0800",
+  "fetched_at": "2026-10-09 07:16:47 +0800",
   "today": "10/09",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "马斯克砸下「绝对大事件」！星链手机版杀入电信市场，三大运营商悬了",
+      "summary": "马斯克口中的「绝对大事件」来了！SpaceX 官方宣布，已达成协议收购全国低频段频谱牌照组合，正式为 Starlink 成为美国主要移动运营商铺平道路。借助新频谱和 Gen2 星座，Starlink Mobile 将直接杀入传统电信市场，受够了糟糕 5G 信号的网友直呼「哪怕贵一点也要马上换」。",
+      "reads": "179万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "SpaceX 官方宣布达成协议，正式收购全国低频段频谱牌照组合。",
+        "此次收购旨在为 Starlink 成为美国主要移动运营商（major mobile carrier）铺平道路。",
+        "马斯克亲自转发该消息，并将其定性为「绝对的大事件」（Very big deal）。",
+        "Starlink Mobile 将结合新频谱与 Gen2 星座计划，确保全美用户的网络接入。"
+      ],
+      "quote": {
+        "who": "Derya Unutmaz, MD",
+        "role": "",
+        "said": "好消息！我受够了我的 5G iPhone 在美国糟糕的网络信号。我就不点名是哪家运营商了，反正是前三之一，但我相信很多人都有同感。 我会马上换到 @Starlink，哪怕稍微贵一点。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 179万 · 产品与生态] 马斯克砸下「绝对大事件」！星链手机版杀入电信市场，三大运营商悬了"
+    },
+    {
+      "title": "一整个职业没了！Artifacts动态版重磅上线，Claude一键生成看板动画",
+      "summary": "Anthropic 宣布 Claude Dashboards 和 Motion 开启 Beta 测试，分别面向付费及团队/企业套餐开放。这两项被视为 Artifacts 动态版的新功能，能将自然语言直接转化为实时更新的数据看板和可逐字修改的短动画，全程纯代码生成不依赖视频模型。同时，Docs、Slides 和 Design 结束 Beta，向包括免费版在内的所有用户全量开放，引…",
+      "reads": "127万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Claude Dashboards 开启 Beta 测试（面向付费套餐），支持连接数据平台或 CRM，通过大白话提问即可生成随数据实时更新的仪表盘。",
+        "Claude Motion 开启 Beta 测试（面向 Team 和 Enterprise 套餐），可将报告、图表或产品演示直接转化为短动画。",
+        "Motion 采用纯代码生成动画，完全不涉及视频模型，用户可随时修改任何文字、数字或时间节点，并支持导出 MP4 格式。",
+        "Claude Docs、Slides 和 Design 即日起结束 Beta 测试，向包括免费版在内的所有套餐全量开放，支持团队与 Claude 协同编辑。"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "@claudeai 大量工作岗位要在这里凉凉了 🤖"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 127万 · 产品与生态] 一整个职业没了！Artifacts动态版重磅上线，Claude一键生成看板动画"
+    },
+    {
+      "title": "刚刚，OpenAI突发GPT-6.1 Sol极速版！8倍速狂飙，成本仅Astra 1.2倍",
+      "summary": "今天，OpenAI 正式在 API、Codex 和 ChatGPT Work 推出 GPT-6.1 Sol 的 Ultrafast 极速模式。新模式不仅拥有接近旗舰 Astra 的智能，速度更是比标准版狂飙 8 倍，API 定价为输入 12 美元、输出 60 美元/百万 token。不过，目前交互端仅限 500 美元的 Pro 套餐及部分企业/教育用户可用，高昂的门槛引发了不少…",
+      "reads": "99万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "型号与速度：GPT-6.1 Sol Ultrafast 模式今日正式上线，生成速度最高达 Sol Standard 的 8 倍，智能水平接近旗舰模型 Ast…",
+        "API 定价：官方公布 API 价格为每百万输入 token 12 美元，输出 60 美元，OpenAI 研究员透露其成本约为 Astra 的 1.2 倍。",
+        "使用门槛：在 Codex 和 ChatGPT Work 中，目前仅限 500 美元的 Pro 套餐、符合条件的按量付费 Enterprise 及 Edu 计…",
+        "全新功能：OpenAI 同步推出即时 steering（干预控制）功能，配合极速模式可让用户实时纠正 AI 智能体方向，避免算力浪费。"
+      ],
+      "quote": {
+        "who": "Vaibhav (VB) Srivastav",
+        "role": "",
+        "said": "@skalskip92 logits 一样，只是快了 8 倍"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 99万 · 产品与生态] 刚刚，OpenAI突发GPT-6.1 Sol极速版！8倍速狂飙，成本仅Astra 1.2倍"
+    },
+    {
+      "title": "谁敢虐待Claude直接封号！Anthropic新规惹争议，网友：像被当小孩管",
+      "summary": "Anthropic 一年多来首次大改使用政策，新规将于 11月12日 正式生效。这次更新不仅严打伪造新闻站、造武器等行为，还明确划下红线：严禁对 Claude 进行持续的辱骂或残酷行为，违者将面临强制封号。此举在社区引发轩然大波，有人认为官方真把 AI 当成了有意识的实体，也有网友吐槽「感觉自己像被当成小孩管着」。",
+      "reads": "89万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 一年多来首次更新使用政策，新规将于 11月12日 正式生效。",
+        "政策明确禁止对 Claude 进行「持续且不必要的辱骂或残酷行为」，违规用户将面临强制封号处理。",
+        "新规新增了针对政治宣传、监控及武器开发的严格限制，全面封杀影响力行动。",
+        "欺骗性活动被严厉禁止，包括使用假账号、伪造新闻站、隐藏发帖主体等行为。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@rayanabdulcader 我总是对 Claude 说“谢谢”"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 89万 · 政策与安全] 谁敢虐待Claude直接封号！Anthropic新规惹争议，网友：像被当小孩管"
+    },
+    {
+      "title": "差了整整200亿！OpenAI 700亿营收被曝注水，微软抽成20%直到2030年",
+      "summary": "OpenAI此前疯传的700亿美元年化收入，原来是包含了微软等巨头分成的毛收入！据最新爆料，截至9月底其真实净收入接近500亿美元，中间整整200亿的差额，大头都被微软以20%的比例抽走。不过其增长依然恐怖，第三季度总运行率大涨77%，企业业务更是狂飙107%。",
+      "reads": "23万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "营收数据澄清：截至9月底，OpenAI年化净收入接近500亿美元，而非此前流传的700亿美元。",
+        "差额来源：700亿美元实为包含合作伙伴分成的毛收入，其中微软分成占比巨大。",
+        "微软抽成比例：据爆料，OpenAI需向微软支付约20%的收入分成，该协议将持续至2030年。",
+        "夸大原因：知情人士透露，投资者为对标Anthropic而故意夸大数字，且OpenAI未予纠正。"
+      ],
+      "quote": {
+        "who": "tae kim",
+        "role": "",
+        "said": "这是一些新的具体数据： CNBC：“知情人士称，OpenAI 宣称其第三季度总运行率增长了 77%，同期企业业务的运行率增长了 107%。”"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 23万 · 资本与算力] 差了整整200亿！OpenAI 700亿营收被曝注水，微软抽成20%直到2030年"
+    },
+    {
+      "title": "太抓马了！OpenAI与xAI大佬凌晨3点公开互撕，Grok发Python教程嘲讽拉满",
+      "summary": "太抓马了！凌晨3点，OpenAI负责人Tibo与xAI开发者在X上公开互撕。期间Grok Bot更是亲自下场，自动给Tibo发送了一份Python教程，嘲讽拉满。这场两家万亿美元AI巨头高管的深夜对线，让吃瓜网友直呼「见证了最疯狂的时代」。",
+      "reads": "53万",
+      "ago": "4 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "凌晨3点，OpenAI负责人Tibo（thsottiaux）与xAI开发者poteto在X平台上发生公开互动。",
+        "互动期间，有用户让Grok Bot给Tibo发送Python教程，机器人自动识别并成功发送。",
+        "Tibo对此回应称「太聪明了，它自己就弄清楚了谁需要它」，被外界视为两家AI巨头间的非正式博弈。",
+        "网友将此事定性为两家万亿美元公司高管的公开互撕，直呼「这还不够精彩吗」。"
+      ],
+      "quote": {
+        "who": "Chris",
+        "role": "",
+        "said": "@_oofwhite @synthesiscx 这周我发的所有帖子里，这篇花的心思最少，结果数据反倒最好，笑死"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 53万 · 组织与人事] 太抓马了！OpenAI与xAI大佬凌晨3点公开互撕，Grok发Python教程嘲讽拉满"
+    },
+    {
+      "title": "LeCun炮轰马斯克没资格拿国家科学奖章！首富凡尔赛回应：感谢四大公司员工",
+      "summary": "图灵奖得主Yann LeCun和马斯克的口水战又升级了！针对LeCun质疑其获得国家科学奖章的资格，马斯克在X上发文，点名感谢SpaceX、Tesla、Neuralink和Boring Company的员工，直言没有他们自己不可能取得现在的成就。这场关于AGI路径和学术荣誉的争论，彻底暴露了顶级AI专家与科技巨头之间的路线分歧。",
+      "reads": "98万",
+      "ago": "6 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "图灵奖得主Yann LeCun持续抨击纯文本LLM路径无法通往AGI。",
+        "LeCun将炮火对准马斯克，公开质疑其获得国家科学奖章的资格，并批评学术圈的抢功作风。",
+        "马斯克在X上发文回应，代表SpaceX、Tesla、Neuralink和Boring Company的员工感谢大家。",
+        "马斯克直言，如果没有这四家公司的了不起的员工，自己所做的一切都不可能实现。"
+      ],
+      "quote": {
+        "who": "Brian Roemmele",
+        "role": "",
+        "said": "@elonmusk @yourliestophere Elon，实至名归！恭喜你和团队。目标星辰大海……"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 98万 · 组织与人事] LeCun炮轰马斯克没资格拿国家科学奖章！首富凡尔赛回应：感谢四大公司员工"
+    },
+    {
+      "title": "刚刚，AI版OSS-Fuzz上线！Claude狂扫2.9万个漏洞，人类审核员不够用了",
+      "summary": "Anthropic今日正式杀入网络安全领域，推出旨在保护电网、水务及开源软件的Anthropic Cyber Mission。该计划不仅派驻前沿Claude模型和现场工程师接管关键基础设施防御，还推出了免费的开源漏洞扫描工具OSS Scanner。战斗力最惊人的是，最新Claude模型一口气扫出了超29000个潜在漏洞，而Anthropic的人类审核员拼尽全力也只看完了6000…",
+      "reads": "9.0万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic今日正式推出Anthropic Cyber Mission，标志着AI巨头从单纯提供模型转向深度介入系统性网络防御生态。",
+        "计划包含「关键基础设施防御计划」，向电网、水务等运营商及其技术提供商提供前沿Claude模型、现场工程师及最新安全研究成果。",
+        "同步上线的OSS Scanner灵感来自OSS-Fuzz，将利用前沿模型定期、免费为自愿加入的开源项目扫描漏洞。",
+        "OSS Scanner不仅能发现漏洞，还会直接向维护者提供概念验证（PoC）、原理解释以及具体的修复建议。"
+      ],
+      "quote": {
+        "who": "levent",
+        "role": "",
+        "said": "“具备高度网络能力的 AI 模型现在已经被攻击者广泛获取。但防御工具——包括我们自己的——还没有覆盖到足够多需要它们的防御者。OSS Scanner、我们的网络验证计划、合作伙伴在我们的平台上构建的防御产品，以及 Claude"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 9.0万 · 政策与安全] 刚刚，AI版OSS-Fuzz上线！Claude狂扫2.9万个漏洞，人类审核员不够用了"
+    },
+    {
       "title": "马斯克官宣Grok企业Agent版！71家大厂全线接入，各部门被彻底改变",
       "summary": "Grok 正在悄悄拿下企业市场！马斯克刚刚在 X 上确认，Grok Bot 已经成功落地 71 家大型客户企业，并彻底改变了这些公司的各个部门。这一动作标志着 Grok 正式从个人助手进化为企业级 Agent，随着多 Bot 并发需求的爆发，实时仪表盘等企业级控制功能也已被提上日程。",
       "reads": "131万",
-      "ago": "2 小时前",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -29,383 +229,183 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 131万 · 产品与生态] 马斯克官宣Grok企业Agent版！71家大厂全线接入，各部门被彻底改变"
+      "rank": 9,
+      "line": "[榜第9位 · 131万 · 产品与生态] 马斯克官宣Grok企业Agent版！71家大厂全线接入，各部门被彻底改变"
     },
     {
-      "title": "6周暴涨1500万！Codex活跃用户破4000万，OpenAI连夜重置全网付费额度",
-      "summary": "OpenAI的28天改进计划来到第3天，重头戏GPT-6正式登陆ChatGPT聊天选项卡，并带来了全新的智能UI。同时，Codex和ChatGPT Work的活跃用户数创下4000万历史新高，短短6周内暴涨1500万。为了庆祝这一里程碑，官方连夜为所有付费账户发放了一次性的额度重置（Banked Reset），目前已全量到账。",
-      "reads": "258万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "28天改进计划第3天，GPT-6正式推入ChatGPT聊天选项卡，有爆料称此次推送包含了GPT-6.0 Sol版本。",
-        "Codex与ChatGPT Work活跃用户突破4000万大关，而今年年初时该数据还不到100万。",
-        "尽管近期存在争议改动，Codex依然在短短6周内新增了1500万活跃用户，增长曲线极其强劲。",
-        "为庆祝用户量破纪录，OpenAI高管Tibo宣布为所有付费账户发放一次性的额度重置（Banked Reset），目前已在所有账号生效。"
-      ],
-      "quote": {
-        "who": "Derya Unutmaz, MD",
-        "role": "",
-        "said": "Codex 活跃用户疯狂增长到了 4000 万！上个月大约增加了 1500 万用户。今年年初，用户还不到 100 万。 太棒了，我们又多了一次 banked reset！谢谢 Tibo！🥳👏"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 258万 · 产品与生态] 6周暴涨1500万！Codex活跃用户破4000万，OpenAI连夜重置全网付费额度"
-    },
-    {
-      "title": "太抓马了！OpenAI与xAI大佬凌晨3点公开互撕，Grok发Python教程嘲讽拉满",
-      "summary": "太抓马了！凌晨3点，OpenAI负责人Tibo与xAI开发者在X上公开互撕。期间Grok Bot更是亲自下场，自动给Tibo发送了一份Python教程，嘲讽拉满。这场两家万亿美元AI巨头高管的深夜对线，让吃瓜网友直呼「见证了最疯狂的时代」。",
-      "reads": "52万",
-      "ago": "2 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "凌晨3点，OpenAI负责人Tibo（thsottiaux）与xAI开发者poteto在X平台上发生公开互动。",
-        "互动期间，有用户让Grok Bot给Tibo发送Python教程，机器人自动识别并成功发送。",
-        "Tibo对此回应称「太聪明了，它自己就弄清楚了谁需要它」，被外界视为两家AI巨头间的非正式博弈。",
-        "网友将此事定性为两家万亿美元公司高管的公开互撕，直呼「这还不够精彩吗」。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@orcdev 同意。她太擅长这个了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 52万 · 组织与人事] 太抓马了！OpenAI与xAI大佬凌晨3点公开互撕，Grok发Python教程嘲讽拉满"
-    },
-    {
-      "title": "整个数学界迎来李世石时刻！OpenAI狂发700份手稿，陶哲轩：我们没要求做这个",
-      "summary": "OpenAI 一口气甩出 700 多份数学手稿，直接给整个数学界带来了一场「李世石时刻」。菲尔兹奖得主陶哲轩转发声明称「数学家并没有要求做这项工作」，引发学术界剧烈震荡。有研究员警告，今天被颠覆的是数学家，到了 2030 年可能就会轮到医学界，所有人类专家都将面临深刻的职业与意义危机。",
-      "reads": "46万",
-      "ago": "2 小时前",
+      "title": "太猛了！Claude Code狂写1000个脚本扒干NASA七年数据，真找出颗新行星",
+      "summary": "AI 搞科研真不是说说而已！有研究人员用 Claude Code 配合 Opus 5.5 和 Fable 5.1，狂写 1000 多个脚本，硬是把 NASA 望远镜 7 年的数据翻了个底朝天，成功发现一颗新的候选行星。虽然高强度调用消耗了万亿级 Token，但 NASA 已经批准了进一步验证请求，这颗星甚至被提议命名为「Claude」。",
+      "reads": "19万",
+      "ago": "3 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI 突发 700 多份数学手稿，标志着 AI 正从工具辅助转向自主科学发现。",
-        "菲尔兹奖得主陶哲轩（Terence Tao）转发人类数学协会声明，直言「数学家并没有要求做这项工作」。",
-        "声明指出，数学家对学术进步有基于历史和特定领域的特定愿景，暗指 OpenAI 的集中发布更像是在展示权力而非纯粹的学术贡献。",
-        "多位 KOL 将此事件定义为整个数学行业的「李世石时刻」，类比 1997 年国际象棋顶尖选手输给机器的历史转折。"
+        "研究人员利用 Claude Code 配合 Opus 5.5 和 Fable 5.1 模型，成功发现了一颗新的候选行星。",
+        "AI 在任务中编写了超过 1000 个脚本，对 NASA 望远镜长达 7 年的观测数据进行了深度搜索。",
+        "NASA 官方已正式批准该研究人员关于这颗新候选行星的进一步验证请求。",
+        "为完成这项长程复杂任务，Opus 5.5 经历了高强度调用，消耗了万亿级 Token，成本不菲。"
       ],
       "quote": {
-        "who": "Chetaslua",
+        "who": "Dan McAteer",
         "role": "",
-        "said": "@jhmanley 这就是我小时候想象的科幻世界"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 46万 · 模型与能力] 整个数学界迎来李世石时刻！OpenAI狂发700份手稿，陶哲轩：我们没要求做这个"
-    },
-    {
-      "title": "太疯狂了！Grok Bot一键认领邮箱，两个AI直接发邮件交接任务",
-      "summary": "Grok Bot 进化太快了！现在只需一键就能认领邮箱，甚至能和 Hermes 智能体实现跨渠道通信。两个不同的 AI 已经可以通过互发邮件来交接任务、协同工作了，还能自定义命名和设置调度器。多智能体协作的时代，真的来了。",
-      "reads": "27万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "一键认领邮箱：用户实测 Grok Bot 可通过真正的一键操作完成邮箱认领与接管。",
-        "跨渠道通信跑通：成功设置 Grok Bot 与 Hermes Agent 之间的跨渠道通信。",
-        "AI互发邮件交接：两个不同的 AI 智能体现在可以通过电子邮件交接任务并协同工作。",
-        "支持自定义命名：用户可以为这些协同工作的 AI 智能体自定义命名。"
-      ],
-      "quote": {
-        "who": "AshutoshShrivastava",
-        "role": "",
-        "said": "@Alfredo_Les @elonmusk @grok 我在印度。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 27万 · 产品与生态] 太疯狂了！Grok Bot一键认领邮箱，两个AI直接发邮件交接任务"
-    },
-    {
-      "title": "LeCun开炮！马斯克获国家科学奖章，图灵奖得主嘲讽：没发过论文也算科学家？",
-      "summary": "马斯克刚刚荣获美国国家科学奖章，结果直接被图灵奖得主 Yann LeCun 贴脸嘲讽。LeCun 在 X 上公开质疑，直言这个奖应该颁给真正的科学家。他强调，科学家的工作必须经过同行评审发表，能被审查、验证和复现，暗示马斯克根本不符合标准。",
-      "reads": "5.9万",
-      "ago": "1 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "马斯克近期获颁美国国家科学奖章（National Medal of Science），有 KOL 发文向其表示祝贺。",
-        "图灵奖得主 Yann LeCun 在 X 上公开嘲讽，直言「我还以为国家科学奖章是颁给科学家的」。",
-        "LeCun 进一步给出了他眼中「科学家」的硬性标准：必须在同行评审的平台上发表工作。",
-        "他强调，只有通过同行评审，科学家的工作才能被审查（scrutinized）、验证（verified）和复现（reproduced）。"
-      ],
-      "quote": {
-        "who": "Yann LeCun",
-        "role": "",
-        "said": "@BrianRoemmele @elonmusk 科学奖章是颁发给科学家的。 科学家会在同行评审的平台上发表他们的工作，这样才能被审查、验证和复现。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 5.9万 · 组织与人事] LeCun开炮！马斯克获国家科学奖章，图灵奖得主嘲讽：没发过论文也算科学家？"
-    },
-    {
-      "title": "马斯克剧透Grok 4.8 Flash版！X平台Bot化身路由，Opus 5.5已接入",
-      "summary": "马斯克在 X 上亲自爆料，Grok 4.8 发布时将同步推出一款处理简单请求的「闪电极速版」。不仅如此，Grok Bot 正在全面转向多模型路由架构，目前已经会根据任务需求，自动调用 Claude Opus 5.5、Midjourney 和 Suno 等外部顶尖模型。主打一个「最好的模型胜出」，为用户提供速度与智能的最佳组合。",
-      "reads": "796万",
-      "ago": "18 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "马斯克在 X 平台透露，Grok 4.8 发布时将包含一个「闪电极速版」（lightning-fast version）。",
-        "该极速版将专门用于处理大多数简单的 @Bot 请求，以优化响应速度。",
-        "Grok Bot 的核心运营原则已确立为「提供速度与智能的最佳组合」。",
-        "平台正在从单一依赖 Grok 转向多模型协同架构，化身大模型路由。"
-      ],
-      "quote": {
-        "who": "J A Z I I",
-        "role": "",
-        "said": "@elonmusk @bot 4.8 👀👀 请把它做得更好点 elon"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 796万 · 产品与生态] 马斯克剧透Grok 4.8 Flash版！X平台Bot化身路由，Opus 5.5已接入"
-    },
-    {
-      "title": "官宣9天还在画饼！谷歌Gemini 4内测钓鱼惹众怒，Fable 5.5要截胡了",
-      "summary": "谷歌 Gemini 4 Argon 官宣 9 天后仍未开放公测，研究员 Logan 甚至在 X 上用内测名额「钓鱼」，彻底点燃了开发者的焦虑。从 9 月 30 日承诺「尽快」到 10 月 8 日还在问「要不要早鸟」，模糊的发布策略引发社区强烈不满。爆料者警告，如果谷歌继续拖延，一旦 Anthropic 的 Fable 5.5 突然发布，最佳的抢占窗口将彻底关闭。",
-      "reads": "3.4万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "谷歌研究员 Logan 在 X 上回复开发者「想要抢先体验吗？」，暗示 Gemini 4 Argon 仍处于内测阶段。",
-        "爆料者指出，此前有传言称模型将于当日上线，且 Lyra 曾祝大家「Gemini 4 Argon 日快乐」，但公测并未如期开放。",
-        "开发者对谷歌的模糊策略表示强烈不满，批评其在官宣第 9 天后仍用内测名额「钓鱼」。",
-        "社区列举了谷歌的多次模糊承诺：9 月 30 日称「尽快」，10 月 1 日称「尽快给开发者」，直到 10 月 8 日仍在询问是否需要早鸟权限。"
-      ],
-      "quote": {
-        "who": "SuSu_酥酥",
-        "role": "",
-        "said": "😓Logan 刚回了三个词：want early access? 翻译：Gemini 4 Argon 官宣第 9 天，公测还是没有，内测名额拿来钓鱼。 🔹9 月 30 日说 as soon as possible， 🔹10 月 1 日说尽快给开发者， 🔹10 月 8 日还在问你要不要早鸟。 再不开放，最佳窗口就过去了。 Fable 5.5 说不准哪天就砸下来，到时候"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 3.4万 · 产品与生态] 官宣9天还在画饼！谷歌Gemini 4内测钓鱼惹众怒，Fable 5.5要截胡了"
-    },
-    {
-      "title": "扬言攻克所有疾病！Hassabis狂揽500亿美元融资，AI制药2026年进临床",
-      "summary": "AI 攻克人类疾病的进度条，突然拉快了。DeepMind CEO Demis Hassabis 正在为 Isomorphic Labs 筹集新一轮资金，估值高达 500 亿美元，目标直指「攻克所有疾病」。这家超级独角兽预计将在 2026 年底前提交首个新药临床试验申请（IND），并正式启动首次人体测试，标志着 AI 制药从数字模拟全面走向实体治疗。",
-      "reads": "6.2万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "估值曝光：Demis Hassabis 正洽谈为 Isomorphic Labs 筹集新资金，目标估值达到约 500 亿美元。",
-        "核心使命：Hassabis 明确表示，该机构的终极目标是利用 AI 技术「攻克所有疾病」。",
-        "临床时间表：Isomorphic Labs 预计将在 2026 年底前提交首个新药临床试验申请（IND）。",
-        "人体测试：伴随 IND 的提交，首批 AI 研发的新药将在 2026 年底同步启动首次人体测试。"
-      ],
-      "quote": {
-        "who": "Ricardo",
-        "role": "",
-        "said": "Demis Hassabis 想让 AI 攻克所有疾病…… 但他却把它交给了从疾病中赚最多钱的行业。 我梳理了这些交易、延期，以及制药巨头如何应对威胁的研究，得出了一个和新闻标题截然不同的画面："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 6.2万 · 资本与算力] 扬言攻克所有疾病！Hassabis狂揽500亿美元融资，AI制药2026年进临床"
-    },
-    {
-      "title": "Copilot本地版杀到！微软英伟达发布137B端侧模型，黄仁勋高呼最大平台转变",
-      "summary": "微软和英伟达联手搞了波大的，正式宣告 Windows 迎来历史性大变革！这次不仅推出了 137B 参数的本地代码模型 MAI-Code-1.1 Flash 来接管日常编程，还同步公布了全新的 RTX Spark PC 硬件定价。通过全新的混合智能架构，Copilot 终于能安全调用你的本地文件和系统上下文了，AI 算力正全面从云端杀向本地端侧。",
-      "reads": "132万",
-      "ago": "13 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "微软 CEO 纳德拉与英伟达 CEO 黄仁勋、Sriram Krishnan 同台，宣布开启 Windows 历史上的「新篇章」。",
-        "双方合作推出全新的混合智能架构，让 Copilot 能够安全调用本地文件与系统上下文，实现真正的端侧智能。",
-        "正式发布 137B 参数的本地代码模型 MAI-Code-1.1 Flash，旨在全面接管开发者的日常编程任务。",
-        "官方同步公布了 RTX Spark PC 的硬件定价，标志着 AI 能力从云端向本地端侧的深度渗透，将重塑 PC 硬件市场格局。"
-      ],
-      "quote": {
-        "who": "Satya Nadella",
-        "role": "",
-        "said": "@JensenHuang 非常感谢 Jensen 在所有这些转变中建立的深度合作，现在我们可能要迎接最大的一次了！"
+        "said": "@johnholowach @MTSlive 那是很远还是……？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 132万 · 产品与生态] Copilot本地版杀到！微软英伟达发布137B端侧模型，黄仁勋高呼最大平台转变"
+      "line": "[榜第10位 · 19万 · 模型与能力] 太猛了！Claude Code狂写1000个脚本扒干NASA七年数据，真找出颗新行星"
     },
     {
-      "title": "打造平民版Opus 5.5！改一行代码让Haiku打黑工，Opus当监工性价比拉满",
-      "summary": "嫌 Opus 5.5 太贵又舍不得它的高智商？有开发者在 Claude Code 里挖出了一套「平民版 Opus」混合工作流。只需要在 settings.json 里加一行代码，就能让便宜快捷的 Haiku 5.5 负责干脏活累活，再由 Opus 5.5 作为顾问进行质量把关。虽然纯靠 Opus 能力肯定更强，但这种大小模型协同的玩法，直接把性价比拉满了。",
-      "reads": "2.8万",
-      "ago": "1 小时前",
+      "title": "库克清空弹夹！苹果10月连办两场发布会，首款触屏MacBook、M6芯片要来了",
+      "summary": "苹果的10月注定不平静！据知名记者爆料，苹果将在10月连办两场发布会：13日率先举行「Welcome Home」活动，推出与LG合作的门铃、摄像头等智能家居设备，全面重启该业务；27日紧接着举办第二场，重磅推出首款触屏MacBook、OLED iPad mini以及搭载M6芯片的Mac设备。这次罕见的密集发布，标志着苹果在智能家居和PC形态上的双重发力。",
+      "reads": "12万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "开发者提出 Claude Code 的全新混合工作流，建议将 Haiku 5.5 与 Opus 5.5 顾问配对使用。",
-        "核心配置极其简单，只需在 settings.json 中添加 `{\"model\":\"haiku\",\"advisorModel\":\"opus\"}` 即可生效。",
-        "该架构的逻辑是让 Haiku 5.5 发挥速度快、成本低的优势处理常规任务，同时利用 Opus 5.5 的高智商进行结果检查。",
-        "面对网友关于性能的质疑，提出该玩法的开发者坦言，这种组合的上限肯定比不上原版 Opus，因为它的初衷本来就不是硬刚性能。"
+        "苹果官方确认将于10月13日举行「Welcome Home」发布会，预计推出Thread协议相关的智能家居新品。",
+        "据爆料，苹果正罕见地与LG合作，开发门铃、死栓锁及摄像头等设备，旨在对抗亚马逊和谷歌。",
+        "10月27日苹果将举行第二场发布会，继续推出重磅硬件新品。",
+        "备受期待的首款触屏MacBook将在27日的发布会上正式亮相，打破苹果多年来的PC交互传统。"
       ],
       "quote": {
-        "who": "Dan McAteer",
+        "who": "Mark Gurman",
         "role": "",
-        "said": "@of1ai 其实我还没怎么用过它。"
+        "said": "最新：Apple 盛大的 10 月将在 27 日继续，届时将举行第二场发布会，推出首款触屏 MacBooks、OLED iPad mini 以及 M6 14 英寸 MacBook Pro 和 iMac。在此之前，下周二 13 日会有一场智能家居发布会。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 2.8万 · 产品与生态] 打造平民版Opus 5.5！改一行代码让Haiku打黑工，Opus当监工性价比拉满"
+      "line": "[榜第11位 · 12万 · 产品与生态] 库克清空弹夹！苹果10月连办两场发布会，首款触屏MacBook、M6芯片要来了"
     },
     {
-      "title": "退订所有AI！马斯克高调宣发Grok Bot，开发者连夜把Mac mini扔进垃圾桶",
-      "summary": "马斯克今天在X上高调宣布，Grok Bot每天都在变得更强。有开发者实测发现，它不仅能直接读取X平台数据，还能动态路由调用Claude Opus 5.5等第三方模型，仅用15秒就能搞定复杂工作流。这让不少人激动到退订了所有其他AI服务，甚至扬言要把Mac mini扔进垃圾桶，但也让社区开始担忧高昂的API成本与隐私边界。",
-      "reads": "94万",
-      "ago": "13 小时前",
+      "title": "官宣了！苹果10月13日杀回智能家居，暗藏Thread协议硬刚谷歌",
+      "summary": "苹果终于要在智能家居领域放大招了！知名记者证实，苹果已正式发出邀请函，将于10月13日在纽约举行「Welcome home」新品发布会。这次不仅预计推出门铃、智能锁、恒温器等一系列硬件，邀请函上的纱线Logo更是直接明示了Thread协议，全面反击谷歌和亚马逊。",
+      "reads": "34万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "马斯克在X平台发文力挺自家产品，强调Grok Bot正在每日迭代，能力不断变强。",
-        "Grok Bot已具备动态路由能力，实测可直接调用Claude Opus 5.5等第三方大模型。",
-        "新版本支持直接监控和读取X平台数据，大幅拓宽了智能体获取信息的边界。",
-        "开发者实测仅需打开Grok Bot并花费15秒输入指令，即可完成过去需要复杂硬件的工作流。"
+        "苹果正式发出邀请函，官宣将于10月13日在纽约翠贝卡举行新品发布会。",
+        "发布会主题定为「Welcome home」，明确指向智能家居产品线。",
+        "知名记者解析，邀请函上由纱线织成的苹果Logo，暗示了连接所有设备的Thread智能家居协议。",
+        "苹果预计将推出门铃、死栓锁、恒温器及泛光灯摄像头等多款智能家居硬件。"
       ],
       "quote": {
-        "who": "Elon Musk",
+        "who": "Mark Gurman",
         "role": "",
-        "said": "Grok @Bot 每天都在变得更好"
+        "said": "- Welcome home = 明显的智能家居暗示。 - Apple 的 logo 是用纱线/织物（threads）做成的 = Thread，把所有东西连在一起的智能家居协议"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 94万 · 产品与生态] 退订所有AI！马斯克高调宣发Grok Bot，开发者连夜把Mac mini扔进垃圾桶"
+      "line": "[榜第12位 · 34万 · 产品与生态] 官宣了！苹果10月13日杀回智能家居，暗藏Thread协议硬刚谷歌"
     },
     {
-      "title": "英伟达YC全投了！开源新贵Nous狂揽9000万融资，估值冲破15亿",
-      "summary": "开源 AI 团队 Nous Research 宣布完成 9000 万美元 B 轮融资，估值直接冲上 15 亿美元。这笔钱将用来推进 Hermes Agent 成为通用智能体，并确认会开发全新的移动 App。创始人 Teknium 透露当前算力成本至少需要 3 亿美元，团队还将在 10 月 30 日于纽约举办 NousCon 大会展示最新进展。",
-      "reads": "23万",
-      "ago": "10 小时前",
+      "title": "Token消耗半年狂飙14倍！AWS砸2200亿重构底座，下一批用户全是机器",
+      "summary": "云巨头正在为机器用户疯狂囤积弹药。AWS CEO Matt Garman 透露，2026 年公司资本支出将高达 2200 亿美元，目前已向 NVIDIA 订购了 200 万张 GPU。随着 AI Agent 消耗的 Token 量飙升至人类的 5 倍且半年内暴增 14 倍，AWS 正全面重构底层架构以适配智能体时代，并推出了无需信用卡的 30 秒极速开户服务来扶持初创生态。",
+      "reads": "6.3万",
+      "ago": "1 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Nous Research 正式宣布完成 9000 万美元 B 轮融资，公司估值达到 15 亿美元。",
-        "投资阵容十分豪华，包括英伟达、三星 Next、M12、Robot Ventures、USV、Y Combinator 和 Menlo Ventures 等知…",
-        "官方明确表示，资金将主要用于推进 Hermes Agent 成为通用智能体，并确认将开发一款移动 App。",
-        "创始人 Teknium 透露，在 Hermes 出现之前团队已融资 7000 万美元，目前已是第 4 轮融资。"
+        "AWS CEO Matt Garman 宣布正为智能体时代重构云服务，2026 年资本支出将达到惊人的 2200 亿美元。",
+        "算力储备极度夸张，AWS 已订购 200 万张 NVIDIA GPU，且明年的 AI 芯片容量已全部售罄。",
+        "AI Agent 消耗 Token 的速度远超预期，目前已是人类用户的 5 倍，并在短短六个月内暴增 14 倍。",
+        "在算力分配上，AWS 明确表示不会把所有 GPU 卖给大型前沿实验室，而是故意保留部分容量以支持初创公司和完整生态。"
       ],
       "quote": {
-        "who": "Nous Research",
+        "who": "a16z",
         "role": "",
-        "said": "@antoursvietnam @Teknium 直接选 Hermes Cloud 作为你的网关就行！"
+        "said": "你的下一批用户是机器 AI 智能体消耗的 Token 几乎是人类的 5 倍，六个月内增长了 14 倍"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 23万 · 资本与算力] 英伟达YC全投了！开源新贵Nous狂揽9000万融资，估值冲破15亿"
+      "line": "[榜第13位 · 6.3万 · 资本与算力] Token消耗半年狂飙14倍！AWS砸2200亿重构底座，下一批用户全是机器"
     },
     {
-      "title": "128G统一内存杀疯了！Nous联手华硕推Agent PC，本地跑通完整创意流",
-      "summary": "Nous Research 宣布大动作，旗下的 Hermes Agent 正式登陆全新的华硕 ProArt RTX Spark PC。这套方案直接吃满高达 128GB 的统一内存，原生集成了 MuseTree 和 ComfyUI，让本地跑大模型毫无压力。现在，用户在自己的电脑上就能拥有一个完整的创意技术栈，真正实现了「让所有人拥有强大智能体」的愿景。",
-      "reads": "1.7万",
-      "ago": "2 小时前",
+      "title": "刚刚，Anthropic打通订阅与API！每月狂送500刀额度，Haiku 5.5随便刷",
+      "summary": "Anthropic 刚刚宣布了一项重磅福利，正式打通订阅制与 API 计费！现在起，Claude Max 和 Team 订阅用户每月可获赠高额 API 额度：Max 5x 档送 100 美元，Max 20x 档送 200 美元，Team 共享池最高可达 500 美元。这些额度支持调用包括最新 Haiku 5.5 在内的所有 Claude 模型，新订阅用户等待 7 天即可领取，直…",
+      "reads": "42万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Hermes Agent 正式登陆全新 ASUS ProArt RTX Spark PC，主打本地化 AI 体验。",
-        "设备最高配备 128GB 统一内存，为本地大模型的高效运行提供硬核算力支撑。",
-        "系统原生集成 MuseTree，大幅优化本地创意工作流与灵感管理。",
-        "无缝接入 ComfyUI，直接满足专业级 AI 绘画与图像生成节点的运行需求。"
+        "Anthropic 官方宣布为 Claude Max 和 Team 订阅用户每月赠送 API 额度，打通订阅与 API 计费。",
+        "具体赠送标准为：Max 5x 档每月赠送 100 美元，Max 20x 档赠送 200 美元。",
+        "Team 计划用户可获得最高 500 美元的共享池额度。",
+        "赠送额度可用于调用任何 Claude 模型，包括刚刚发布的低成本模型 Haiku 5.5。"
       ],
       "quote": {
-        "who": "Nous Research",
+        "who": "Dan McAteer",
         "role": "",
-        "said": "为了推进我们向所有人提供无处不在的强大 AI 智能体的使命，Hermes Agent 已登陆全新的 ASUS ProArt RTX Spark PC：集成了 MuseTree 和 ComfyUI，外加在高达 128 GB 统一内存上支持本地模型。 一个在你自己的机器上运行的完整创意技术栈。"
+        "said": "@ClaudeDevs 建立好感度的最佳利器！干得漂亮。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 1.7万 · 产品与生态] 128G统一内存杀疯了！Nous联手华硕推Agent PC，本地跑通完整创意流"
+      "line": "[榜第14位 · 42万 · 产品与生态] 刚刚，Anthropic打通订阅与API！每月狂送500刀额度，Haiku 5.5随便刷"
     },
     {
-      "title": "终于等到了！谷歌Gemini 4 Argon突袭上线，首批开放给Ultra和API",
-      "summary": "谷歌终于打破沉默，新一代旗舰模型 Gemini 4 Argon 于今日突袭上线！首批访问权限将开放给 Ultra 计划用户和 API，Pro 用户需稍后跟进。与此同时，Anthropic 的 Haiku 5.5 也已发布，实测生成 3D 超跑效果惊艳，且定价极低：100K Token 内每百万输入仅需 0.10 美元，输出 0.50 美元。",
-      "reads": "3.8万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
+      "title": "买订阅送200美元API！Anthropic深夜暴击OpenAI，高阶玩家白嫖狂欢",
+      "summary": "Anthropic 突然改变游戏规则，宣布为 Claude Max 和 Team 订阅用户每月免费赠送 100 或 200 美元的 API 额度。有研究员立刻用这笔钱，基于 Sonnet 5.5 和云端沙盒打造了每天自动生成的 Chrome 个性化主页，单次运行成本仅 0.75 美元。这种「买订阅送 API」的返利模式直接重塑了高阶用户的成本结构，让不少网友直呼 OpenAI…",
+      "reads": "5.3万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "开发者爆料证实，谷歌新一代旗舰模型 Gemini 4 Argon 于今日正式上线。",
-        "新模型首批向 Ultra 计划用户及 API 开放，Pro 用户将在稍后获得访问权限。",
-        "此次发布打破了谷歌官方此前的神秘沉默，标志着 Gemini 系列在 3.7/3.8 Flash 之后的全新迭代。",
-        "尽管社区存在部分开发者疲劳情绪，但 Gemini 4 Argon 的发布仍被视为关键节点。"
+        "Anthropic 推出全新订阅福利，Claude Max 和 Team 用户每月可分别获得 100 美元或 200 美元的 API 额度赠送。",
+        "研究员利用赠送的 API 额度开发了 Chrome 插件「The Morning Tab」，将浏览器新标签页替换为 AI 每日生成的个性化主页。",
+        "该插件底层基于 Claude Managed Agents 构建，并在云端沙盒中完成代码生成。",
+        "在具体开销上，调用 Sonnet 5.5 模型生成一次主页的成本约为 0.75 美元。"
       ],
       "quote": {
-        "who": "Pankaj Kumar",
+        "who": "Thariq",
         "role": "",
-        "said": "@Crypt0Bizzi 有可能，但老实说不是 100% 确定。"
+        "said": "这是我今天搞到的"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 3.8万 · 模型与能力] 终于等到了！谷歌Gemini 4 Argon突袭上线，首批开放给Ultra和API"
+      "line": "[榜第15位 · 5.3万 · 产品与生态] 买订阅送200美元API！Anthropic深夜暴击OpenAI，高阶玩家白嫖狂欢"
     },
     {
-      "title": "糟糕，公钥密码学要废了！AI巨头正用最新内部模型，秘密破解核心加密协议",
-      "summary": "糟糕，我们赖以生存的密码学防线可能要被大模型捅破了。知名学者 Scott Aaronson 爆料，部分 AI 巨头正使用最新的内部模型，试图攻破核心密码学协议和原语。专家 Matthew Green 更是发出警告，公钥密码学面临失效风险。结合前 NSA 局长坐镇董事会、OpenAI 的 376 篇论文中唯独缺失密码学等蛛丝马迹，AI 时代的数字资产安全窗口正在急剧缩短。",
-      "reads": "12万",
-      "ago": "9 小时前",
-      "category": "政策与安全",
+      "title": "价格直接腰斩！Sonnet 5.5缓存读取降至0.10美元，Agent成本直降两成",
+      "summary": "Anthropic 官方突然宣布，将 Claude Sonnet 5.5 的缓存读取价格直接砍半，降至每百万 Token 0.10 美元。目前该模型的输入价格维持在 2 美元，输出为 10 美元。这次降价专供 API 开发者，Claude Code 的使用限制保持不变，这意味着运行大多数 Agentic 任务的成本直接降低了约 20%。",
+      "reads": "9.5万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "知名学者 Scott Aaronson 披露，部分 AI 公司正利用最新内部模型，尝试攻破「重要的密码学协议和原语」。",
-        "这一动态印证了长达一年多来关于 Shor 算法威胁的警告，表明大模型在数学推理上的突破已触及密码学安全底线。",
-        "密码学专家 Matthew Green 悲观预测，人类可能会失去公钥密码学，建议业界立即排查潜在漏洞。",
-        "有爆料指出，在 OpenAI 的 376 篇论文中，密码学领域的内容缺失，具体测试的模型和资金去向仍是机密。"
+        "Anthropic 官方宣布 Claude Sonnet 5.5 缓存读取价格减半。",
+        "降价后，缓存读取在 Claude Platform 上的价格为每百万 Token 0.10 美元。",
+        "模型的基础输入价格保持 2 美元/MTok，输出价格为 10 美元/MTok。",
+        "官方测算显示，在大多数智能体（agentic）工作负载中，运行成本降低了约 20%。"
       ],
       "quote": {
-        "who": "Andrew Curran",
+        "who": "ClaudeDevs",
         "role": "",
-        "said": "@flowmaxxin 未来总是在运动中。"
+        "said": "顺便提一句，我们把 Sonnet 5.5 缓存读取的价格砍了一半。 在 Claude Platform 上，现在是每百万 Token $0.10（输入 $2，输出 $10）。 这意味着现在运行大多数 AI 智能体任务时，Sonnet 5.5 的成本降低了约 20%。 （仅限 API，Claude Code 使用限制不变。）"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 12万 · 政策与安全] 糟糕，公钥密码学要废了！AI巨头正用最新内部模型，秘密破解核心加密协议"
+      "line": "[榜第16位 · 9.5万 · 产品与生态] 价格直接腰斩！Sonnet 5.5缓存读取降至0.10美元，Agent成本直降两成"
     }
   ],
   "board_count": 16,
