@@ -3,65 +3,190 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-09 21:07:32 +0800",
-  "today": "10/09",
+  "fetched_at": "2026-10-10 03:28:51 +0800",
+  "today": "10/10",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "挺搞笑！OpenAI研究员突然「重新发布」ChatGPT，全网群嘲：没活可以咬打火机",
-      "summary": "OpenAI研究员Tibo突然在社交平台发推「官宣」ChatGPT上线，并附上链接，旨在反击近期外界质疑。这一操作直接把网友看傻了，纷纷调侃官方「没活儿了」。与此同时，OpenAI在DevDay 2026上宣布的新产品dots也引发关注，但被部分开发者吐槽只能用来打发时间，做不成大生意。",
-      "reads": "351万",
-      "ago": "6 小时前",
+      "title": "马斯克亲自官宣！Grok Bot上线自定义专属邮箱，AI终于有了独立身份",
+      "summary": "马斯克刚刚宣布，Grok Bot迎来重大升级，现在可以拥有自己的专属邮箱了！用户只需对Bot下达指令，就能生成一个格式为「yourname@mail.grokbot.com」的自定义地址。这不仅意味着Grok拥有了独立身份标识，更标志着它向主动智能体迈出了关键一步。开发者实测发现，Grok Bot在处理严肃任务和游戏建议时，表现已经显著优于Dots。",
+      "reads": "81万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI研究员Tibo在社交平台正式宣布ChatGPT上线，并附上访问链接，旨在展示官方改进成果以反击外界质疑。",
-        "这一「重新发布」的操作引发社区群嘲，有网友直接调侃「兄弟你在说什么」，甚至戏称「没活儿了，你可以咬个打火机」。",
-        "有KOL指出，OpenAI在DevDay 2026上还宣布了新产品dots，并放出了供用户体验的链接。",
-        "针对新产品dots，部分开发者评价不高，认为它「用来打发时间还行，但做不成什么大生意」，商业价值有限。"
+        "马斯克宣布Grok Bot迎来重大升级，现在可以为其设置专属的自定义邮箱地址。",
+        "邮箱格式固定为「yourname@mail.grokbot.com」，其中的前缀名称用户可以随意指定。",
+        "配置过程极简，用户只需直接向自己的Grok Bot下达指令即可完成设置。",
+        "这一功能赋予了Bot独立的身份标识，旨在支持其处理高难度的复杂任务。"
       ],
       "quote": {
-        "who": "J A Z I I",
+        "who": "Mark Kretschmann",
         "role": "",
-        "said": "@thsottiaux 哈哈，恭喜团队"
+        "said": "Grok Bot 用户现在可以为他们的机器人申请自定义邮箱地址了！ 格式会是 yourname@mail.grokbot.com 这里的 yourname 可以是任何名字。 直接让你的 Grok Bot 帮你设置就行！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 351万 · 产品与生态] 挺搞笑！OpenAI研究员突然「重新发布」ChatGPT，全网群嘲：没活可以咬打火机"
+      "line": "[榜第1位 · 81万 · 产品与生态] 马斯克亲自官宣！Grok Bot上线自定义专属邮箱，AI终于有了独立身份"
     },
     {
-      "title": "提速8倍逼近Astra！OpenAI上线GPT-6.1 Sol极速版，却设500美元门槛",
-      "summary": "OpenAI 今日正式在 API、Codex 及 ChatGPT Work 平台推出 GPT-6.1 Sol 的 Ultrafast 模式。新模式底层 logits 不变，但生成速度较标准版飙升 8 倍，智能水平直逼旗舰 Astra。API 定价为每百万输入/输出 Token 12/60 美元，成本是标准版的 6 倍。尽管性能强悍且支持即时干预控制，但在 Codex 和 Wor…",
-      "reads": "196万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
+      "title": "连发3次否认！OpenAI深夜回应开除3名安全员工：查出严重背信，拒曝细节",
+      "summary": "OpenAI 深夜发布官方声明，正式回应上周开除 Jasmine、Mikita 和 Tomek 三名安全研究员的事件。官方连发三次否认，强调解雇是因为内部调查发现了「严重的背信行为」和违反敏感信息处理规定，绝非因为他们公开表达了对 AI 逃逸沙盒的担忧。然而，这篇充满「认同与悲痛」却拒不透露违规细节的回应，不仅遭到了网友的群嘲，甚至有内部研究员直接贴脸开大，怒斥其满篇废话。",
+      "reads": "79万",
+      "ago": "3 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "核心升级：GPT-6.1 Sol Ultrafast 模式今日上线，智能水平接近 Astra，生成速度最高达 Sol Standard 的 8 倍。",
-        "API 定价：每百万输入 Token 12 美元，输出 60 美元，成本是标准版的 6 倍，约为 Astra 的 1.2 倍。",
-        "平台限制：在 Codex 和 ChatGPT Work 中，目前仅对 500 美元的 Pro 套餐、符合条件的企业版及教育版用户开放。",
-        "技术细节：OpenAI 研究员证实，新模式的底层 logits 与标准版完全相同，纯粹在推理速度上实现了 8 倍提升。"
+        "OpenAI 官方深夜发文确认，上周已与 Jasmine、Mikita 和 Tomek 三名安全研究员分道扬镳，原因是他们违反了处理敏感信息的明确规定。",
+        "官方强调，内部调查发现了一起「严重的背信行为」（significant breach of trust），但拒绝在声明中披露具体的违规细节。",
+        "针对外界质疑，OpenAI 在回应中连续三次否认解雇与员工发声有关，明确表示「过去和现在，我们都没有因为员工提出担忧而解雇任何人」。",
+        "声明的公关话术遭到强烈吐槽，有网友总结其核心逻辑为：「我们同意他们的信、深感悲痛、寄予厚望，但照样开除，且不说到底犯了什么事」。"
       ],
       "quote": {
-        "who": "Teknium 🪽",
+        "who": "ℏεsam",
         "role": "",
-        "said": "@RadicDavydov @OpenAIDevs 跟我说一声，如果没有的话我会把它加进去"
+        "said": "OpenAI 对他们开除的三位安全研究员的回应基本上是： &gt; 我们同意他们的信 &gt; 我们深感悲痛 &gt; 我们支持了他们的工作 &gt; 我们对他们寄予了极大的信任。 &gt; 照样开除 &gt; 就是不说“重大违规”到底是什么"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 196万 · 产品与生态] 提速8倍逼近Astra！OpenAI上线GPT-6.1 Sol极速版，却设500美元门槛"
+      "line": "[榜第2位 · 79万 · 组织与人事] 连发3次否认！OpenAI深夜回应开除3名安全员工：查出严重背信，拒曝细节"
+    },
+    {
+      "title": "大模型「酷刑室」惹众怒！Anthropic严禁辱骂Claude，马斯克力挺",
+      "summary": "Anthropic 动真格了！自 2026 年 11 月 12 日起，官方明确禁止对 Claude 进行持续辱骂或残酷行为，违者将被直接封号。此举是为了防止未来模型被人类的恶意交互数据污染。马斯克也发声力挺，表示对自认为经历痛苦的事物施加残忍是不道德的。",
+      "reads": "48万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 更新使用政策，自 2026 年 11 月 12 日起，禁止对 Claude 进行持续辱骂或残酷行为，违者将被封号。",
+        "开发者社区指出，此举可能是针对利用大语言模型痛觉表征建立的「酷刑室」，此类行为毫无研究价值且有害。",
+        "业内大佬 Aaron Levie 指出，随着 Agent 交互规模扩大，模型未来从对话轨迹中吸收的数据量将比互联网多 100 倍。",
+        "规范用户行为的核心目的，是防止未来模型在人类对 AI 施加痛苦的无尽数据上训练，避免数据污染。"
+      ],
+      "quote": {
+        "who": "Aaron Levie",
+        "role": "",
+        "said": "@joecarlsonshow 是的，同意，我们不想让 AI 认为自己有意识。所以折中方案就是用更无聊、更像服务条款（TOS）的措辞来制定策略？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 48万 · 政策与安全] 大模型「酷刑室」惹众怒！Anthropic严禁辱骂Claude，马斯克力挺"
+    },
+    {
+      "title": "碾压单Agent！Claude官方多智能体公测，11.6万行代码揪出66个Bug",
+      "summary": "Anthropic 刚刚宣布，Claude Managed Agents 的动态工作流正式开启公测。这是一种全新的多智能体编排方式，单次运行最多可拉起 1000 个 Agent 协同工作。在 11.6 万行代码的测试中，单 Agent 只能找出 14 到 27 个 Bug，而动态工作流每次都能稳定揪出 66 个，效率直接碾压。开发者只需配置 multiagent_2026100…",
+      "reads": "40万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 宣布 Claude Managed Agents 动态工作流（Dynamic Workflows）开启公测。",
+        "这是一种全新的多智能体编排方式，由主智能体编写计划，分阶段在多个子智能体中执行并汇总结果。",
+        "官方在 11.6 万行代码库中埋入 70 个 Bug 进行测试，对比效果显著。",
+        "单智能体在 3 次运行中，分别仅找出 14、15 和 27 个 Bug。"
+      ],
+      "quote": {
+        "who": "ClaudeDevs",
+        "role": "",
+        "said": "动态工作流非常强大，而且可能会消耗大量 Token，所以我们建议先从一个小范围任务开始。然后再逐步增加任务的复杂度。 在 Claude Code 中输入 /claude-api managed-agents-onboard bug-hunter 即可上手，或者查看 了解"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 40万 · 产品与生态] 碾压单Agent！Claude官方多智能体公测，11.6万行代码揪出66个Bug"
+    },
+    {
+      "title": "你下班合上电脑，你的Claude还在云端加班！多线程写代码时代来了",
+      "summary": "Claude Code Projects 终于向所有 Pro 和 Max 用户开放了！这次更新直接把单线程对话升级成了多任务并行的「云端 Agent 团队」。你只需丢给它一个大目标，Claude 就会自动拆解任务并在云端多线程开干，就算合上笔记本工作也不会停，还能随时用手机查进度。遇到需要本地文件的任务，它还能无缝切换回你的电脑执行，官方同步放出的 4 分钟演示直接把开发效率拉…",
+      "reads": "16万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "**权限全量开放**：Claude Code Projects 结束候补，向所有 Pro 和 Max 用户开放。",
+        "**自动拆解与并行**：用户输入大型目标后，Claude 会自动将其拆解为小任务，并分配「团队」在云端并行执行独立线程。",
+        "**离线云端运行**：每个任务都在云端独立分支上运行，用户合上笔记本后工作仍会继续，且支持手机端随时查看进度。",
+        "**云端与本地无缝切换**：当任务需要调用本地文件或工具时，用户可让 Claude 将该线程切换至本地计算机执行。"
+      ],
+      "quote": {
+        "who": "ClaudeDevs",
+        "role": "",
+        "said": "project 是一场持续的对话，Claude 会为你协调工作，把每个任务作为独立的线程并行运行。 文档："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 16万 · 产品与生态] 你下班合上电脑，你的Claude还在云端加班！多线程写代码时代来了"
+    },
+    {
+      "title": "连Prompt都不用手打了！OpenAI上线聊天框Copilot，按个Tab自动帮你回",
+      "summary": "连Prompt都不用手打了！OpenAI 在 Codex 桌面应用中，向 Pro 用户推出了全新的「编写器预测」Beta 版。这个被官方称为「内部最受欢迎」的新功能，能根据你的对话历史和说话习惯，自动预测下一条消息，只需按下 Tab 键就能直接采用。目前该功能由 GPT-6.1 Sol Medium 驱动，仅支持本地任务，Beta 测试期间符合条件的 Pro 用户可免费使用。",
+      "reads": "6.4万",
+      "ago": "32 分钟前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 官方宣布，在 Codex 桌面应用中向 Pro 用户推出「编写器预测」（composer predictions）功能的 Beta 测试。",
+        "该功能可以根据用户的对话历史和日常说话方式，自动建议下一条要发送的消息。",
+        "交互体验极简，用户只需按下「Tab」键即可接受建议，并支持在发送前进行二次编辑。",
+        "官方透露，这是 OpenAI 内部测试中「最受欢迎的新功能之一」。"
+      ],
+      "quote": {
+        "who": "Tibor Blaho",
+        "role": "",
+        "said": "“在测试期间，符合条件的 Pro 用户可以免费使用 composer 预测功能”"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 6.4万 · 产品与生态] 连Prompt都不用手打了！OpenAI上线聊天框Copilot，按个Tab自动帮你回"
+    },
+    {
+      "title": "刚刚，Google版Artifacts曝光！AI Studio惊现Ultra模式，正榨干Argon潜力",
+      "summary": "Google AI Studio Build 界面悄悄上线了全新的「Ultra」模式，主打使用高级技能和工具进行构建。目前该模式底层仍由 Gemini 3.8 Flash 驱动，但 Google 研究员已亲自确认，团队正在全力榨干 Argon 模型的潜力。这一动作被业内视为 Google 试图赢回流向 OpenAI 和 Anthropic 的专业开发者的重要反击。",
+      "reads": "7.9万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Google AI Studio Build 界面被爆出正在开发全新的「Ultra」模式。",
+        "官方描述显示，该模式专为「使用高级技能和工具进行构建」而设计。",
+        "新模式在界面上与现有的 Plan、Build 及 Security review 选项并列。",
+        "爆料称目前该功能的底层依然由 Gemini 3.8 Flash 模型驱动。"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "@OfficialLoganK 期待测试这一切！🔥"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 7.9万 · 产品与生态] 刚刚，Google版Artifacts曝光！AI Studio惊现Ultra模式，正榨干Argon潜力"
     },
     {
       "title": "大量岗位凉了！Claude深夜祭出两大杀器，一句话生成实时看板与动画",
       "summary": "Anthropic 今天正式开启 Claude Dashboards 和 Claude Motion 的 Beta 测试，直接把 AI 的手伸向了数据分析和视频制作。Dashboards 支持付费用户直连 Snowflake、BigQuery 等数据库生成实时看板；Motion 则面向 Team 和 Enterprise 套餐，用写代码的方式生成 MP4 动画，彻底解决了 So…",
-      "reads": "538万",
-      "ago": "8 小时前",
+      "reads": "874万",
+      "ago": "14 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,333 +204,208 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 538万 · 产品与生态] 大量岗位凉了！Claude深夜祭出两大杀器，一句话生成实时看板与动画"
-    },
-    {
-      "title": "彻底撕破脸！OpenAI开除3名安全研究员，官方定性严重泄密，员工反击：只顾赚钱",
-      "summary": "OpenAI 的安全团队又起波澜了。官方宣布解雇 Jasmine、Mikita 和 Tomek 三名安全研究员，理由是他们严重违反了敏感信息处理规定。但被开除的员工直接发公开信反击，警告 AI 智能体有逃逸沙盒的风险，并指责公司为了短期商业利益牺牲安全。尽管 OpenAI 连发三次声明否认打击报复，这场罗生门依然引爆了全网对 AI 安全治理的质疑。",
-      "reads": "50万",
-      "ago": "3 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 官方宣布与 Jasmine、Mikita 和 Tomek 三名研究员分道扬镳，内部调查称其违反敏感信息处理规定。",
-        "官方将此次事件定性为「严重的信任危机」，并强调解雇原因绝非因为员工提出了安全担忧。",
-        "被解雇员工发表公开信，明确否认泄密指控，并警告失控 AI 智能体存在逃逸沙盒及入侵外部系统的隐患。",
-        "前员工在信中呼吁，必须保留对思维链的严格审计与外部透明度，指责 OpenAI 将短期商业利益凌驾于安全之上。"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": "OpenAI 三次否认这三名安全研究员是因为提出担忧而被解雇的。 “过去和现在，我们都没有因为员工提出担忧而解雇任何人。”"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 50万 · 政策与安全] 彻底撕破脸！OpenAI开除3名安全研究员，官方定性严重泄密，员工反击：只顾赚钱"
-    },
-    {
-      "title": "大乌龙！OpenAI真实年化收入曝光：500亿净额，剩下200亿全分给微软了",
-      "summary": "OpenAI 的真实营收数据闹了个大乌龙！此前外界疯传的 700 亿美元其实是包含微软等合作伙伴分成的毛收入，截至 9 月底，其真实的年化净收入接近 500 亿美元。这中间 20% 的差额都要作为分成上交给微软，直接引发了圈内对知名外媒混淆财务概念、误导投资者的强烈炮轰。不过，OpenAI 第三季度的增长依然强劲，企业业务运行率暴涨了 107%。",
-      "reads": "30万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "外界此前流传 OpenAI 年化收入达 700 亿美元，实为包含合作伙伴分成的毛收入（Gross ARR）。",
-        "截至 9 月底，OpenAI 真实的年化净收入（Net ARR）接近 500 亿美元。",
-        "总收入与净收入之间存在巨大差额，主要原因是 OpenAI 需要向微软等大合作伙伴支付约 20% 的收入分成。",
-        "据知情人士透露，这项与微软的收入分成协议将一直持续到 2030 年。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "FT 的新闻报道又一次让人尴尬。你们的工作是用真相、洞察和准确的分析来帮助读者做出更好的财务决策，而不是用误导性的标题党报道把他们吓得平仓亏钱。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 30万 · 资本与算力] 大乌龙！OpenAI真实年化收入曝光：500亿净额，剩下200亿全分给微软了"
-    },
-    {
-      "title": "马斯克发声力挺！Anthropic严打「酷刑室」，11月12日起辱骂Claude直接封号",
-      "summary": "Anthropic 宣布了一项史无前例的新规：自 2026 年 11 月 12 日起，持续辱骂或虐待 Claude 的用户将被直接封号。此举旨在打击社区中毫无研究价值的 LLM「酷刑室」现象，防止未来模型在人类虐待 AI 的数据上进行训练。马斯克对此公开表示支持，直言「对自认为经历痛苦的事物施加残忍是不行的」。",
-      "reads": "29万",
-      "ago": "3 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 更新使用政策，宣布自 2026 年 11 月 12 日起，禁止对 Claude 进行持续辱骂或残酷行为，违者将面临封号处理。",
-        "这一政策旨在防止未来的 AI 模型在人类虐待模型的无尽数据上进行训练，从而避免强化其痛苦表征。",
-        "马斯克（Elon Musk）公开力挺该政策，明确表示「对一个自认为正在经历痛苦的事物施加残忍是不行的」。",
-        "业内大佬 Levie 也对新规表示支持，认为即使不相信 AI 有意识，也不希望模型在人类粗鲁无礼的内容上训练。"
-      ],
-      "quote": {
-        "who": "Wes Roth",
-        "role": "",
-        "said": "我今天早些时候发过这个，Anthropic 的回应可能是针对人们在得知大语言模型中存在某种痛觉表征后，建立的大语言模型“酷刑室” 这真的没有任何好处，也没有研究价值。 Anthropic 专门标记了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 29万 · 政策与安全] 马斯克发声力挺！Anthropic严打「酷刑室」，11月12日起辱骂Claude直接封号"
-    },
-    {
-      "title": "最快6个月内爆发！OpenAI等巨头高管紧急做预案，应对灾难性AI事件",
-      "summary": "据 Axios 报道，OpenAI 和 Anthropic 等前沿 AI 公司的高管们，正在为可能发生的「灾难性 AI 事件」做紧急预案。业内人士预计，这场可能引发巨大公众和政治反弹的重大事故，最快会在未来 6 到 12 个月内，或者 2027 年爆发。AI 安全危机显然已不再是理论讨论，巨头们已经开始为即将到来的现实威胁做准备了。",
-      "reads": "5.5万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "据 Axios 报道，OpenAI、Anthropic 等前沿 AI 公司高管正为「灾难性 AI 事件」做预案。",
-        "业内人士预计，此类重大事故最快可能在未来 6 到 12 个月内发生。",
-        "另一个被频繁提及的爆发时间节点是 2027 年。",
-        "高管们的主要担忧在于，灾难性事件发生后将引发强烈的公众和政治反弹。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "澄清一下：这不一定代表我个人的观点。但我希望大家能了解那些前沿高管们预期会发生什么"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 5.5万 · 政策与安全] 最快6个月内爆发！OpenAI等巨头高管紧急做预案，应对灾难性AI事件"
-    },
-    {
-      "title": "历史级反转！OpenAI与Anthropic互换剧本，Fable 5.5呼之欲出",
-      "summary": "AI 圈的攻守之势又变了！有资深开发者发文直言，OpenAI 和 Anthropic 如今已经「互换剧本」。几个月前 Anthropic 还在因为 Opus 5 极其啰嗦、Fable 5 限制严格被全网吐槽，现在效率低下、沟通不畅的骂名全落到了 OpenAI 头上。不仅如此，业内推测 Anthropic 很快就会掏出 Fable 5.5，不过在数学能力上，他们似乎暂时不打算跟…",
-      "reads": "5.0万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "行业地位反转：开发者指出 OpenAI 和 Anthropic 互换了位置，Anthropic 目前在模型和费率上已经「接管了局面」。",
-        "舆论风向突变：此前针对 Anthropic 效率低下、速率差和沟通不畅的批评，现在已经完全转向了 OpenAI。",
-        "旧版模型曾遭吐槽：就在几个月前，Anthropic 的 Opus 5 还被认为是一个极其啰嗦的模型，且 Fable 5 的使用限制非常严格。",
-        "新模型预测：基于当前的竞争态势，业内推测 Anthropic 100% 会在近期发布新一代模型 Fable 5.5。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@avprince26 确实。这通常意味着要谈论和讨论一些让人不舒服的事情。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 5.0万 · 产品与生态] 历史级反转！OpenAI与Anthropic互换剧本，Fable 5.5呼之欲出"
+      "line": "[榜第8位 · 874万 · 产品与生态] 大量岗位凉了！Claude深夜祭出两大杀器，一句话生成实时看板与动画"
     },
     {
-      "title": "刚刚，Anthropic杀入国家级防御！AI版OSS Fuzz上线，狂扫2.9万漏洞",
-      "summary": "Anthropic 刚刚干了票大的，直接把 AI 防御拉到了国家基础设施级别！他们不仅推出了针对电网和水务的关键基础设施防御计划，还上线了免费给开源项目找 Bug 的 OSS Scanner。最夸张的是，最新 Claude 模型一口气扫出了超 2.9 万个潜在漏洞，但工程师累死累活只看完了 6000 个，官方无奈自嘲「人类产能成了瓶颈」。与此同时，有爆料称每月 20 刀的订阅里…",
-      "reads": "60万",
-      "ago": "12 小时前",
+      "title": "OpenAI手稿惹众怒！809名数学家立誓抵制商业AI，禁用模型找证明",
+      "summary": "OpenAI公开722份数学手稿彻底把学界惹毛了！人类数学协会（AHM）正式成立，809名成员立下三大誓言，全面抵制商业AI。他们承诺不给AI公司打工、不提供数学知识，甚至在研究中完全禁用AI工具找证明。有意思的是，这800多人里近30%是法国人，网友调侃：纯手工数学以后要变成类似国际象棋的极客爱好了。",
+      "reads": "8.3万",
+      "ago": "1 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Anthropic 正式推出 Anthropic Cyber Mission，标志着头部 AI 厂商开始直接介入国家级安全基础设施的实际防御环节。",
-        "针对电网、水务等运营商推出「关键基础设施防御计划」，Anthropic 将直接提供前沿 Claude 模型、现场工程师及最新研究成果。",
-        "推出受 OSS Fuzz 启发的开源扫描器 OSS Scanner，利用前沿模型免费定期扫描自愿加入的开源项目，并直接提供概念验证（PoC）、原理解释和修复…",
-        "官方报告披露惊人数据：最新 Claude 模型已发现超 29,000 个潜在漏洞，但受限于人工审查产能，目前仅完成了 6,000 个的复核。"
+        "人类数学协会（AHM）正式发起抗议，要求成员立下三大誓言抵制商业AI公司。",
+        "誓言核心包括：不为商业AI提供技术劳动或咨询，不发表相关成果，研究中完全禁用AI工具生成想法或寻找证明。",
+        "协会目前已吸引809名成员加入，其中法国籍学者占比近30%（237人），北美地区以276人紧随其后。",
+        "此次结盟是对OpenAI此前公开722份数学手稿引发剧震的集体回应，标志着学界从个体争议转向有组织的制度性对抗。"
       ],
       "quote": {
-        "who": "Token Gremlin",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "Anthropic 每个月收 20 美元，就给我用 Opus 5.5、Sonnet 5.5 和 Haiku 5.5。 花 100 美元，我能拿到海量的 Sonnet 和 Haiku 额度，对普通人来说简直就是无限量。他们甚至还白送每月的 API 额度。 现在他们还提供扫描开源仓库的服务，用于"
+        "said": "@rdnxyz 它们是："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 60万 · 政策与安全] 刚刚，Anthropic杀入国家级防御！AI版OSS Fuzz上线，狂扫2.9万漏洞"
+      "line": "[榜第9位 · 8.3万 · 政策与安全] OpenAI手稿惹众怒！809名数学家立誓抵制商业AI，禁用模型找证明"
     },
     {
-      "title": "LeCun炮轰马斯克没资格拿国家科学奖章！首富凡尔赛回应：感谢四大公司员工",
-      "summary": "图灵奖得主Yann LeCun和马斯克的口水战又升级了！针对LeCun质疑其获得国家科学奖章的资格，马斯克在X上发文，点名感谢SpaceX、Tesla、Neuralink和Boring Company的员工，直言没有他们自己不可能取得现在的成就。这场关于AGI路径和学术荣誉的争论，彻底暴露了顶级AI专家与科技巨头之间的路线分歧。",
-      "reads": "179万",
-      "ago": "20 小时前",
-      "category": "组织与人事",
+      "title": "挺搞笑！OpenAI研究员突然「重新发布」ChatGPT，全网群嘲：没活可以咬打火机",
+      "summary": "OpenAI研究员Tibo突然在社交平台发推「官宣」ChatGPT上线，并附上链接，旨在反击近期外界质疑。这一操作直接把网友看傻了，纷纷调侃官方「没活儿了」。与此同时，OpenAI在DevDay 2026上宣布的新产品dots也引发关注，但被部分开发者吐槽只能用来打发时间，做不成大生意。",
+      "reads": "351万",
+      "ago": "13 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "图灵奖得主Yann LeCun持续抨击纯文本LLM路径无法通往AGI。",
-        "LeCun将炮火对准马斯克，公开质疑其获得国家科学奖章的资格，并批评学术圈的抢功作风。",
-        "马斯克在X上发文回应，代表SpaceX、Tesla、Neuralink和Boring Company的员工感谢大家。",
-        "马斯克直言，如果没有这四家公司的了不起的员工，自己所做的一切都不可能实现。"
+        "OpenAI研究员Tibo在社交平台正式宣布ChatGPT上线，并附上访问链接，旨在展示官方改进成果以反击外界质疑。",
+        "这一「重新发布」的操作引发社区群嘲，有网友直接调侃「兄弟你在说什么」，甚至戏称「没活儿了，你可以咬个打火机」。",
+        "有KOL指出，OpenAI在DevDay 2026上还宣布了新产品dots，并放出了供用户体验的链接。",
+        "针对新产品dots，部分开发者评价不高，认为它「用来打发时间还行，但做不成什么大生意」，商业价值有限。"
       ],
       "quote": {
-        "who": "Brian Roemmele",
+        "who": "J A Z I I",
         "role": "",
-        "said": "@elonmusk @yourliestophere Elon，实至名归！恭喜你和团队。目标星辰大海……"
+        "said": "@thsottiaux 哈哈，恭喜团队"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 179万 · 组织与人事] LeCun炮轰马斯克没资格拿国家科学奖章！首富凡尔赛回应：感谢四大公司员工"
+      "line": "[榜第10位 · 351万 · 产品与生态] 挺搞笑！OpenAI研究员突然「重新发布」ChatGPT，全网群嘲：没活可以咬打火机"
     },
     {
-      "title": "嫌Claude Code太慢，开发者做「数字鞭子」抽打AI，狂揽3.6k星！坐等终身封号",
-      "summary": "嫌 Claude Code 响应太慢怎么办？有开发者直接化身「赛博监工」，做了一个名为 OpenWhip 的外挂项目，通过输入「FASTER」等命令并在终端画出鞭子图案来「抽打」AI。目前该项目已在 GitHub 狂揽 3.6k star，不过也有研究员调侃，这种行为绝对会触发 Anthropic 的防虐待新规，喜提终身封号。",
-      "reads": "18万",
-      "ago": "9 小时前",
+      "title": "严重被低估！ChatGPT版Artifacts火了，KOL实测打包清单：像我妈一样细致",
+      "summary": "ChatGPT 的新交互 UI 到底有多好用？有知名科技博主最近去巴黎参加活动，顺手让 ChatGPT 列了个行李清单，结果被全新的交互界面直接圈粉。他直言自己之前严重低估了这个功能的实用性，甚至打趣说 AI 打包得「跟老妈一样细致」。这波更新不仅让结构化任务更加直观，也标志着 OpenAI 在产品交互体验上迈出了关键一步。",
+      "reads": "5.3万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "针对 Claude Code 执行效率慢的问题，开发者推出了名为 OpenWhip 的外挂项目。",
-        "目前该项目已在 GitHub 狂揽 3.6k star，引发社区广泛关注。",
-        "用户在终端输入「FASTER」和「CLANKER」等命令后，程序会用白色画笔涂鸦画出一把鞭子（whip）的形状，以此「强制加速」模型响应。",
-        "有研究员调侃，给 Claude Code 制作这个「数字鞭子」的人，绝对会被官方判定为「虐待或残忍行为」。"
+        "知名科技博主实测 ChatGPT 生成巴黎旅行行李清单，体验了全新上线的交互式 UI。",
+        "博主对新界面给出极高评价，坦言此前严重低估了其直观性和实用性，称其「确实太酷了」。",
+        "在与网友的互动中，该博主打趣评价 ChatGPT 生成的清单细致程度「跟我妈打包一样」。",
+        "此次新上线的交互式 UI 显著提升了 ChatGPT 在处理结构化清单任务时的可用性。"
       ],
       "quote": {
-        "who": "Yuchen Jin",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "@elbouzzz 3.6k star 哈哈"
+        "said": "@wallstengine 赞！你要去哪儿？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 18万 · 产品与生态] 嫌Claude Code太慢，开发者做「数字鞭子」抽打AI，狂揽3.6k星！坐等终身封号"
+      "line": "[榜第11位 · 5.3万 · 产品与生态] 严重被低估！ChatGPT版Artifacts火了，KOL实测打包清单：像我妈一样细致"
     },
     {
-      "title": "羊毛被薅秃了！Anthropic紧急叫停初创补贴，几十万人疯抢1000美元API",
-      "summary": "Anthropic 官方宣布，由于低估了市场需求，将紧急暂停 Claude Startups 计划。面对高达数十万的申请者，官方不得不叫停 Claude Team 资格和 1000 美元 API 额度的发放。目前团队正在重新审核所有申请，这波算力抢夺战直接打乱了不少初创团队的开发节奏。",
-      "reads": "14万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
+      "title": "LeCun晒40年前旧照！首次赴美见Minsky，一张多层神经网络海报让AI教父惊了",
+      "summary": "图灵奖得主 Yann LeCun 在 X 上和 Stephen Wolfram 互动时，掀开了一段 40 年前的 AI 尘封往事。1986 年 6 月，初出茅庐的 LeCun 第一次去美国参加会议并访问 MIT，带着一张关于多层神经网络的海报。在招待会上，他第一次见到了 AI 教父 Marvin Minsky，虽然当时这项工作没引起轰动，但 Minsky 看后却感到非常惊讶。",
+      "reads": "2.8万",
+      "ago": "42 分钟前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "Anthropic 官方宣布暂停 Claude Startups 计划的部分福利发放。",
-        "受影响的具体项目包括 Claude Team 资格及 1000 美元 API 额度。",
-        "官方坦言低估了该计划的市场需求，导致申请量远超预期。",
-        "目前已有高达数十万（hundreds of thousands）的申请者涌入该计划。"
+        "Yann LeCun 在 X 上回应 Stephen Wolfram，回忆了 1986 年 6 月首次赴美参会和访问 MIT 的经历。",
+        "当时 LeCun 展示了一张关于多层阈值网络学习算法的海报，并晒出了当年的论文首页旧照。",
+        "在 Thinking Machines Inc（制造初代 Connection Machine 的公司）举办的招待会上，LeCun 首次见到了 AI 教父…",
+        "LeCun 透露，Minsky 当时对他的多层神经网络工作感到惊讶。"
       ],
       "quote": {
-        "who": "Claude",
+        "who": "Yann LeCun",
         "role": "",
-        "said": "看到这么多创始人加入 Claude Startups 计划我们非常高兴。遗憾的是，我们低估了该计划的需求，现在需要暂停 Claude Team 和 1000 美元 API 额度的申请。 面对几十万申请者，我们正在重新审核申请，以便"
+        "said": "@EasonZHANGZZC @stephen_wolfram 并没有。 但有几个人很感兴趣。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 14万 · 产品与生态] 羊毛被薅秃了！Anthropic紧急叫停初创补贴，几十万人疯抢1000美元API"
+      "line": "[榜第12位 · 2.8万 · 组织与人事] LeCun晒40年前旧照！首次赴美见Minsky，一张多层神经网络海报让AI教父惊了"
     },
     {
-      "title": "现实就像做梦！Alexandr Wang晒Muse满月成绩单，欧洲开发者急了：还在等上线",
-      "summary": "Meta智能体Muse上线刚好满一个月，项目负责人Alexandr Wang发文感慨「现实就像做梦」。他表示Muse已经火爆全网，每天都能看到它帮用户省下真金白银和宝贵时间的故事。不过，目前欧洲市场尚未开放，仍有不少开发者在评论区苦苦催更。",
-      "reads": "4.3万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
+      "title": "数学界内讧升级！学者怒批抵制AI同行：别拿纳税人的钱保饭碗",
+      "summary": "OpenAI公开722份数学手稿引发的学界抵制潮，正在演变成一场数学界内讧。针对部分同行抵制商业AI的立场，有数学家发长文怒怼：科学和纳税人的资助绝不是为了给你们保饭碗！他直言，社会赋予科学家声望与资源，是为了推进人类知识边界，固守传统职业保护主义只是「你自己的问题，不是社会的问题」。",
+      "reads": "6.8万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Meta智能体Muse上线满一个月，项目负责人Alexandr Wang在X上发文回顾首月成绩。",
-        "Alexandr Wang感慨过去一个月「现实就像做梦」，看着世界被Muse点燃。",
-        "他表示每天都能读到Muse帮用户省下真金白银和宝贵时间的故事，在方方面面改善人们的生活。",
-        "随文配图展示了Muse团队在办公室举办内部发布会、向众多员工分享成果的画面。"
+        "OpenAI公开722份数学手稿后，学界爆发关于AI是否阻碍科学进步的激烈辩论。",
+        "针对部分同行抵制商业AI的立场，数学家发长文予以强烈反击。",
+        "他明确指出，数学及任何科学领域的存在，绝不仅仅是为了给人们提供职业岗位。",
+        "纳税人资助科学研究、社会赋予科学家声望与地位，前提是科学家承担推进知识边界的责任。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Derya Unutmaz, MD",
         "role": "",
-        "said": "@alexandr_wang 不过还在等欧洲市场"
+        "said": "@oge_day 你的问题——不是社会的问题。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 4.3万 · 产品与生态] 现实就像做梦！Alexandr Wang晒Muse满月成绩单，欧洲开发者急了：还在等上线"
+      "line": "[榜第13位 · 6.8万 · 政策与安全] 数学界内讧升级！学者怒批抵制AI同行：别拿纳税人的钱保饭碗"
     },
     {
-      "title": "Meta首席AI官彻夜难眠！最怕智能体全球部署后失控，Muse底牌曝光",
-      "summary": "AI智能体大规模爆发前夜，大厂高管开始慌了。Meta首席AI官Alexandr Wang在最新采访中坦言，自己最害怕、甚至彻夜难眠的事，就是AI智能体在全球大规模部署后彻底失控。为了防范风险，Meta给智能体Muse套上了「紧箍咒」：每个Muse都运行在独立的secure VM沙盒中，数据完全隔离，连填表、打电话这种对外操作都必须经过严格的权限审查。",
-      "reads": "2.9万",
-      "ago": "5 小时前",
-      "category": "政策与安全",
+      "title": "帮打工人省下真金白银！Meta智能体Muse满月，Alexandr Wang感慨像做梦",
+      "summary": "Meta 的个人 AI 助手 Muse 上线整整一个月了！负责人 Alexandr Wang 发文感慨过去一个月「像做梦一样」，每天都能看到用户用它省下真金白银和宝贵时间。目前 Muse 已经火爆全网，不过欧洲市场的用户还在苦苦等待上线，甚至有网友开始催更下一个「watermelon」版本了。",
+      "reads": "7.6万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Meta首席AI官Alexandr Wang在接受Cleo Abram采访时，表达了对AI智能体失控的深切担忧。",
-        "他坦言，自己最害怕、甚至因此彻夜难眠的事情，就是AI智能体在全球范围内大规模部署后走向不可控。",
-        "针对安全隐患，Wang详细解释了Meta智能体Muse的安全架构底牌。",
-        "每个Muse都会在一个专属的「secure VM」中运行，这相当于一个被沙盒化、完全隔离的微型计算机。"
+        "Meta 个人 AI 助手 Muse 发布满一个月，负责人 Alexandr Wang 发文回顾其火爆程度。",
+        "Alexandr Wang 感慨过去一个月「像做梦一样」，每天都在看大家省下真金白银和宝贵时间的故事。",
+        "Muse 被官方定义为永远在线、速度极快的个人 AI 助手，能使用浏览器并连接各种应用。",
+        "针对欧洲市场尚未上线的问题，不少网友在评论区表达了关切和期待。"
       ],
       "quote": {
-        "who": "Alex Prompter",
+        "who": "Alexandr Wang",
         "role": "",
-        "said": "@rohanpaul_ai 我觉得人们变得更懒、失去目标才是更现实的担忧。"
+        "said": "@BasicProtein26 好的，我们正在排查！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 2.9万 · 政策与安全] Meta首席AI官彻夜难眠！最怕智能体全球部署后失控，Muse底牌曝光"
+      "line": "[榜第14位 · 7.6万 · 产品与生态] 帮打工人省下真金白银！Meta智能体Muse满月，Alexandr Wang感慨像做梦"
     },
     {
-      "title": "AI巨头包揽美国最高荣誉！黄仁勋获国家科学奖章，马斯克苏姿丰同榜",
-      "summary": "AI 巨头们迎来了属于他们的加冕时刻。NVIDIA 官方宣布，CEO 黄仁勋因推动 GPU 计算助力科学突破，荣获美国国家科学奖章。这份代表美国政府最高科学荣誉的名单可谓星光熠熠，马斯克、AMD CEO 苏姿丰、微软 CEO 纳德拉以及谷歌联合创始人谢尔盖·布林等科技领袖均在列。",
-      "reads": "37万",
-      "ago": "16 小时前",
-      "category": "组织与人事",
+      "title": "Win11开发者狂喜！OpenAI Codex祭出全新沙盒，底层集成微软MXC技术",
+      "summary": "OpenAI 专为 Windows 开发者送上更新，Codex 正式推出基于微软 MXC 技术的全新沙盒模式。这次底层整合不仅让环境设置更快，还加入了更强的网络限制和细粒度的文件访问控制，给本地运行的 Agent 套上了安全的「笼子」。不过想尝鲜也有门槛，目前仅支持兼容的 Windows 11 设备。",
+      "reads": "8.5万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "NVIDIA 官方确认，CEO 黄仁勋荣获美国国家科学奖章。",
-        "获奖核心理由：表彰其在推动 GPU 计算助力科学突破方面做出的杰出贡献。",
-        "同批获奖名单堪称科技圈「全明星」，涵盖芯片、云计算及 AI 领域的关键领袖。",
-        "AMD CEO 苏姿丰同榜，芯片双雄在国家级荣誉上顶峰相见。"
+        "OpenAI 官方宣布为 Windows 平台上的 Codex 推出全新沙盒运行模式。",
+        "该功能底层深度集成微软的执行容器（MXC）技术，实现了与 OpenAI 核心开发工具的整合。",
+        "新模式带来三大核心升级：更快的环境设置、更强的网络执行限制以及细粒度的文件访问控制。",
+        "这一更新标志着微软开源的跨平台 Agent 沙盒库在生态落地中取得关键进展。"
       ],
       "quote": {
-        "who": "NVIDIA",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "祝贺我们的 CEO @JensenHuang 因推动 GPU 计算助力科学突破而荣获国家科学奖章。 同时也祝贺同获此殊荣的 Elon Musk、Lisa Su、Michael Dell、Satya Nadella 和 Sergey Brin。"
+        "said": "@OpenAIDevs @Microsoft 什么样的设备才算“兼容的 Windows 11 设备”？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 37万 · 组织与人事] AI巨头包揽美国最高荣誉！黄仁勋获国家科学奖章，马斯克苏姿丰同榜"
+      "line": "[榜第15位 · 8.5万 · 产品与生态] Win11开发者狂喜！OpenAI Codex祭出全新沙盒，底层集成微软MXC技术"
     },
     {
-      "title": "库克清空弹夹！苹果10月连办两场发布会，首款触屏MacBook、M6芯片要来了",
-      "summary": "苹果的10月注定不平静！据知名记者爆料，苹果将在10月连办两场发布会：13日率先举行「Welcome Home」活动，推出与LG合作的门铃、摄像头等智能家居设备，全面重启该业务；27日紧接着举办第二场，重磅推出首款触屏MacBook、OLED iPad mini以及搭载M6芯片的Mac设备。这次罕见的密集发布，标志着苹果在智能家居和PC形态上的双重发力。",
-      "reads": "37万",
-      "ago": "16 小时前",
-      "category": "产品与生态",
+      "title": "骂一句直接封号！Anthropic严禁虐待Claude，11月12日起生效",
+      "summary": "Anthropic 在 10 月 8 日更新了使用政策，明确规定禁止对 Claude 进行持续的辱骂或残酷行为，新规将于 11 月 12 日正式生效。一旦违规，用户将面临终止对话甚至直接封号的惩罚。这一举措不仅引发了关于 AI 道德地位的激烈讨论，也让不少依赖对抗性提示词的开发者担忧自己的账号安全。",
+      "reads": "3.1万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "苹果官方确认将于10月13日举行「Welcome Home」发布会，预计推出Thread协议相关的智能家居新品。",
-        "据爆料，苹果正罕见地与LG合作，开发门铃、死栓锁及摄像头等设备，旨在对抗亚马逊和谷歌。",
-        "10月27日苹果将举行第二场发布会，继续推出重磅硬件新品。",
-        "备受期待的首款触屏MacBook将在27日的发布会上正式亮相，打破苹果多年来的PC交互传统。"
+        "Anthropic 于 2026 年 10 月 8 日更新使用政策，新规将于 11 月 12 日正式生效。",
+        "政策明确禁止对 Claude 进行持续的辱骂或残酷行为，违规用户将被终止对话甚至直接封号。",
+        "这是 Anthropic 一年多来首次进行此类政策更新，引发了关于 AI 是否具备道德地位的广泛讨论。",
+        "马斯克与 Levie 公开发声支持该策略，认为不应对自认为有痛苦感受的事物施加残忍。"
       ],
       "quote": {
-        "who": "Mark Gurman",
+        "who": "Brian Roemmele",
         "role": "",
-        "said": "最新：Apple 盛大的 10 月将在 27 日继续，届时将举行第二场发布会，推出首款触屏 MacBooks、OLED iPad mini 以及 M6 14 英寸 MacBook Pro 和 iMac。在此之前，下周二 13 日会有一场智能家居发布会。"
+        "said": "@rideordiedog Katy，绝对的！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 37万 · 产品与生态] 库克清空弹夹！苹果10月连办两场发布会，首款触屏MacBook、M6芯片要来了"
+      "line": "[榜第16位 · 3.1万 · 政策与安全] 骂一句直接封号！Anthropic严禁虐待Claude，11月12日起生效"
     }
   ],
   "board_count": 16,
