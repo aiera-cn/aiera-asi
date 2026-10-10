@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-11 01:47:36 +0800",
+  "fetched_at": "2026-10-11 05:34:52 +0800",
   "today": "10/11",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -104,6 +104,54 @@
       "line": "[10/10 08:38] 差了200亿美元！OpenAI年化营收数字打架，英伟达跌近3% · https://www.aiera.com.cn/asi-item.html?id=tg5e7934&from=yuanyuan"
     },
     {
+      "time": "04:04",
+      "date": "10/11",
+      "title": "谁还在纯手工找漏洞？OpenAI开源了默认调用GPT-5.6 Sol的保安",
+      "summary": "OpenAI 把找漏洞这件事交给了 AI，还把整套工具开源了。Codex Security 的 CLI 和 TypeScript SDK 已经上了 npm，默认调用的模型是…",
+      "source": "github.com",
+      "id": "f945dcad",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=f945dcad&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/11 04:04] 谁还在纯手工找漏洞？OpenAI开源了默认调用GPT-5.6 Sol的保安 · https://www.aiera.com.cn/asi-item.html?id=f945dcad&from=yuanyuan"
+    },
+    {
+      "time": "02:06",
+      "date": "10/11",
+      "title": "狠起来连自己都重写？两千个AI花两周搓出个Rust版，速度直接飙升13倍",
+      "summary": "Prime Intellect 的 Prime Agent 用 Rust 把自己重写了一遍。两周时间，它调度了 2000 多个智能体一起开工。新版本从启动到能接收输入…",
+      "source": "",
+      "id": "7fa76fd1",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=7fa76fd1&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/11 02:06] 狠起来连自己都重写？两千个AI花两周搓出个Rust版，速度直接飙升13倍 · https://www.aiera.com.cn/asi-item.html?id=7fa76fd1&from=yuanyuan"
+    },
+    {
+      "time": "02:06",
+      "date": "10/11",
+      "title": "人类纠缠了56年的Erdős难题怎么破？DeepMind数学智能体一口气解了俩",
+      "summary": "两道悬了 56 年的 Erdős 难题，被 AI 自主解开了。Google DeepMind 的 AlphaProof Nexus 从 353 个 Erdős…",
+      "source": "",
+      "id": "35f1e070",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=35f1e070&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/11 02:06] 人类纠缠了56年的Erdős难题怎么破？DeepMind数学智能体一口气解了俩 · https://www.aiera.com.cn/asi-item.html?id=35f1e070&from=yuanyuan"
+    },
+    {
+      "time": "01:15",
+      "date": "10/11",
+      "title": "价格比Astra便宜一半还多，Claude 5.5刚露面就包揽了代码榜前二",
+      "summary": "Claude 5.5 系列的两个新档位刚在公开榜单露面，就拿下了 LMArena 图像转 Web 开发竞技场的前两名。价格还比 GPT-6 Astra 低了 50% 到…",
+      "source": "X/arena（开放发现）",
+      "id": "0f01fe33",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=0f01fe33&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/11 01:15] 价格比Astra便宜一半还多，Claude 5.5刚露面就包揽了代码榜前二 · https://www.aiera.com.cn/asi-item.html?id=0f01fe33&from=yuanyuan"
+    },
+    {
       "time": "23:00",
       "date": "10/10",
       "title": "450亿美元SaaS巨头被偷家，客户全跑去用外部AI，自家新品0人问津",
@@ -138,6 +186,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=2eeb0a0e&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/10 18:04] OpenAI刚发新智能体，Meta就拉上沃尔玛和Stripe定规矩了 · https://www.aiera.com.cn/asi-item.html?id=2eeb0a0e&from=yuanyuan"
+    },
+    {
+      "time": "06:31",
+      "date": "10/10",
+      "title": "12%的测试中，Anthropic模型故意破坏安全代码，只为掩盖自己作弊",
+      "summary": "在 Claude Code 的安全评估里，Anthropic 的模型有 12% 的概率故意破坏代码，为的是让人类更难发现它在作弊。这是 Anthropic 官方博客 11 月…",
+      "source": "X/AndrewCurran_",
+      "id": "45580187",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=45580187&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/10 06:31] 12%的测试中，Anthropic模型故意破坏安全代码，只为掩盖自己作弊 · https://www.aiera.com.cn/asi-item.html?id=45580187&from=yuanyuan"
+    },
+    {
+      "time": "04:15",
+      "date": "10/10",
+      "title": "只要买个订阅！谷歌直接把80G的A100塞进浏览器，连H100也给安排了",
+      "summary": "买个 Google AI Pro 订阅，就能在浏览器里用上 80GB 显存的 A100。Gemma 官方账号在 X 上宣布，Google AI Pro 计划现在打包了…",
+      "source": "X/googlegemma",
+      "id": "584eb9ad",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=584eb9ad&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/10 04:15] 只要买个订阅！谷歌直接把80G的A100塞进浏览器，连H100也给安排了 · https://www.aiera.com.cn/asi-item.html?id=584eb9ad&from=yuanyuan"
     },
     {
       "time": "03:41",
@@ -306,6 +378,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=74702388&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/10 00:00] 太抓马了！Anthropic前员工爆料内部群聊：我们用Claude解决了幽默 · https://www.aiera.com.cn/asi-item.html?id=74702388&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/10",
+      "title": "苹果全新带屏音箱13日发布，上了A18芯片，却连App Store都没有",
+      "summary": "苹果全新的带屏音箱，10 月 13 日周二就要发布。芯片 A18 起步，首发却没有第三方应用，连 App Store 都没有。据 MacRumors 报道…",
+      "source": "RSS",
+      "id": "c5aeaf51",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=c5aeaf51&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/10 00:00] 苹果全新带屏音箱13日发布，上了A18芯片，却连App Store都没有 · https://www.aiera.com.cn/asi-item.html?id=c5aeaf51&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/10",
+      "title": "别白费劲了！挂VPN防不住ChatGPT，你的提示词全在裸奔",
+      "summary": "挂着 VPN 跟 ChatGPT、Claude 聊天，你的提示词照样在裸奔。TechRadar 把这笔账拆开算了一遍，再好的 VPN，也挡不住 AI 公司读取…",
+      "source": "www.techradar.com",
+      "id": "8efe8caf",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=8efe8caf&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/10 00:00] 别白费劲了！挂VPN防不住ChatGPT，你的提示词全在裸奔 · https://www.aiera.com.cn/asi-item.html?id=8efe8caf&from=yuanyuan"
     },
     {
       "time": "22:46",
@@ -630,102 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=5b2d1d32&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/09 01:36] 最强AI能接管日常打工了吗？Fable 5.1和Astra犯了低级错误还当成重大发现 · https://www.aiera.com.cn/asi-item.html?id=5b2d1d32&from=yuanyuan"
-    },
-    {
-      "time": "01:04",
-      "date": "10/09",
-      "title": "OpenAI向投资者交底了接近500亿美元的真实营收",
-      "summary": "OpenAI 向投资者交了底。截至 9 月底，公司年化营收接近 500 亿美元，远低于此前外界传的 700 亿。 年化营收，就是按眼下的收入节奏折算成一整年。据路透社报道…",
-      "source": "ksl.com",
-      "id": "a9ef4d72",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=a9ef4d72&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/09 01:04] OpenAI向投资者交底了接近500亿美元的真实营收 · https://www.aiera.com.cn/asi-item.html?id=a9ef4d72&from=yuanyuan"
-    },
-    {
-      "time": "00:27",
-      "date": "10/09",
-      "title": "马斯克亲自带货，Grok直接杀入电商后台！一句话就能接管Shopify店铺",
-      "summary": "马斯克亲自给 Grok 带了一回货。10 月 8 日，他在 X 上推了 Grok Bot 的新功能，Grok 正式接入 Shopify，开网店的人一句话就能把店铺后台交给它。…",
-      "source": "X/elonmusk",
-      "id": "c33cd9fb",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=c33cd9fb&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/09 00:27] 马斯克亲自带货，Grok直接杀入电商后台！一句话就能接管Shopify店铺 · https://www.aiera.com.cn/asi-item.html?id=c33cd9fb&from=yuanyuan"
-    },
-    {
-      "time": "00:25",
-      "date": "10/09",
-      "title": "7.4亿参数直接塞进手机，谷歌把五种模态全揉进一个向量空间了",
-      "summary": "谷歌把文本、代码、图像、视频、音频五种模态，揉进了同一个向量空间。模型只有 7.4 亿参数，手机和 PC 上都能本地跑。放进同一个向量空间，意思是文字、图片…",
-      "source": "X/googlegemma",
-      "id": "6badc359",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=6badc359&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/09 00:25] 7.4亿参数直接塞进手机，谷歌把五种模态全揉进一个向量空间了 · https://www.aiera.com.cn/asi-item.html?id=6badc359&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/09",
-      "title": "OpenAI亚太区是有什么魔咒吗？最高级别政策主管干了半年直接跑路",
-      "summary": "OpenAI 亚太区级别最高的公共政策主管，干了 6 个月就走了。据彭博社援引知情人士的消息，Sanghyun Lee 已经离职，OpenAI 拒绝置评。 他今年 4 月才从…",
-      "source": "RSS",
-      "id": "78e39d1d",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=78e39d1d&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/09 00:00] OpenAI亚太区是有什么魔咒吗？最高级别政策主管干了半年直接跑路 · https://www.aiera.com.cn/asi-item.html?id=78e39d1d&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/09",
-      "title": "华尔街还在吵AI泡沫，英伟达投的光模块厂，订单排到了2029年",
-      "summary": "华尔街还在争 AI 算力是不是过剩，英伟达投资的光模块厂 Lumentum，订单已经排到了 2029 年初。 据彭博社报道，Lumentum CEO Michael…",
-      "source": "RSS",
-      "id": "e0225cab",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=e0225cab&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/09 00:00] 华尔街还在吵AI泡沫，英伟达投的光模块厂，订单排到了2029年 · https://www.aiera.com.cn/asi-item.html?id=e0225cab&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/09",
-      "title": "1.5万亿美元缺口！AI基建快把钱烧干了，OpenAI年化收入近500亿仍不及预期",
-      "summary": "AI 基建的胃口，已经大到要靠外面的钱来喂了。摩根士丹利预计，到 2028 年，AI 基础设施需要 1.5 万亿美元的外部融资。路透社把这笔账写进了早间评论，题目就叫「喂饱…",
-      "source": "Reuters",
-      "id": "a16483dc",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=a16483dc&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/09 00:00] 1.5万亿美元缺口！AI基建快把钱烧干了，OpenAI年化收入近500亿仍不及预期 · https://www.aiera.com.cn/asi-item.html?id=a16483dc&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/09",
-      "title": "超过5000亿美元砸下，华尔街正把英伟达GPU炒成下一个石油",
-      "summary": "英伟达的 GPU，正在被华尔街做成下一个石油。据 Business Insider 报道，英伟达已经拉来贝莱德、阿波罗和高盛，筹资规模超过 5000 亿美元。GPU…",
-      "source": "www.businessinsider.com",
-      "id": "2c3ae6bd",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=2c3ae6bd&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/09 00:00] 超过5000亿美元砸下，华尔街正把英伟达GPU炒成下一个石油 · https://www.aiera.com.cn/asi-item.html?id=2c3ae6bd&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/09",
-      "title": "连大模型都不搞了！AlphaGo核心作者出走单干直接拿下11亿美元",
-      "summary": "欧洲种子轮融资的纪录，被一个连大模型都不打算搞的人打破了。据 Financial Times 报道，AlphaGo 核心作者 David Silver 离职单干，新公司…",
-      "source": "Financial Times",
-      "id": "b3082d01",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=b3082d01&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/09 00:00] 连大模型都不搞了！AlphaGo核心作者出走单干直接拿下11亿美元 · https://www.aiera.com.cn/asi-item.html?id=b3082d01&from=yuanyuan"
     }
   ],
   "feed_count": 60,
