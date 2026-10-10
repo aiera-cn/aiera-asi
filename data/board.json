@@ -3,15 +3,90 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-10 20:22:56 +0800",
-  "today": "10/10",
+  "fetched_at": "2026-10-11 01:47:36 +0800",
+  "today": "10/11",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "OpenAI给Codex装上「读心术」！按Tab直接补全Prompt，内部好评第一",
+      "summary": "OpenAI 刚刚为 Codex 桌面应用推出了全新的 composer predictions（编写器预测）功能，目前面向 Pro 用户开启 Beta 测试。该功能可以根据对话历史和用户的说话风格，自动预测并建议下一条 Prompt，用户只需按 Tab 键即可一键发送。官方表示这是内部测试中最受欢迎的新功能之一，且测试期间完全免费、不消耗使用额度。不过也有开发者吐槽，类似的功…",
+      "reads": "185万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "**功能上线**：OpenAI 宣布 Codex 桌面应用面向 Pro 用户推出 composer predictions（编写器预测）Beta 版。",
+        "**核心机制**：Codex 能够分析整个对话和项目上下文，以及用户的说话方式，自动建议下一条消息，按 Tab 键即可接受或编辑。",
+        "**内部评价**：官方称这是内部测试中「最受欢迎」的新功能之一，有 OpenAI 研究员表示预测准得让人「忍不住多看两眼」。",
+        "**实测数据**：据 OpenAI 研究员透露，过去两周该功能成功预测了他 36% 的下一步操作，另有约 11% 仅需微调。"
+      ],
+      "quote": {
+        "who": "Vaibhav (VB) Srivastav",
+        "role": "",
+        "said": "怕你错过：Composer 预测功能现已向 Codex 的所有 Pro 用户上线。 它能让 Codex 分析你的整个对话和项目上下文，从而推荐下一个最佳提示词。 在过去两周里，它成功预测了我 36% 的下一步操作，还有约 11% 只需要微小的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 185万 · 产品与生态] OpenAI给Codex装上「读心术」！按Tab直接补全Prompt，内部好评第一"
+    },
+    {
+      "title": "代码直接变机器！Amazon Prime之父携2.5亿美元回归，砸出物理版编译器",
+      "summary": "消失 6 年的 Amazon Prime 创造者 Jeff Holden 正式回归，带着 2.5 亿美元融资成立了新公司 Atomic Machines。他们推出了 AI 原生制造系统 Matter Compiler，只要输入代码就能直接造出可运行的微型机器。这套系统彻底打破了传统制造业需要单独开模和工艺开发的限制，真正实现了软件定义硬件。",
+      "reads": "296万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Amazon Prime 创造者 Jeff Holden 在隐身 6 年后正式回归，宣布成立新公司 Atomic Machines。",
+        "该公司已成功融资 2.5 亿美元，使命是实现按需、通用地掌控物质。",
+        "首个亮相的核心产品为 Matter Compiler，定位为一个 AI 原生的制造系统。",
+        "该系统能够将代码直接转化为真正能跑的微型机器，输入不同的代码，另一端就会产出不同的机器。"
+      ],
+      "quote": {
+        "who": "Aakash Gupta",
+        "role": "",
+        "said": "想看我未经算法过滤的所有观点，请订阅我的 newsletter："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 296万 · 产品与生态] 代码直接变机器！Amazon Prime之父携2.5亿美元回归，砸出物理版编译器"
+    },
+    {
+      "title": "别迷信1M长上下文了！OpenAI揭秘Codex选300k真相：算过账，效果更好还省钱",
+      "summary": "1M 长上下文真的好用吗？OpenAI 研究员近日揭秘了 Codex 默认选择 300k 上下文的原因：经过数据测算，300k 效果更好，而 1M 只会白白消耗更多额度。同时，有研究员实测发现 GPT-6.1 Sol 的 828K 版本在下国际象棋时，表现反而不如 300k 版本。无独有偶，Claude Code 开发者也建议用户将自动压缩上下文长度限制在 300k 到 400…",
+      "reads": "26万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 研究员透露，Codex 默认选择 300k 上下文是因为经过数据测算效果更好，虽然能跑 1M，但只会消耗更多额度。",
+        "研究员实测国际象棋发现，GPT-6.1 Sol 的 828K 上下文模型表现明显低于 300k 版本，长上下文并未带来性能提升。",
+        "针对 Claude Code，开发者建议用户将自动压缩（autocompact）的上下文长度约束在 400k 左右，300k 已经足够使用。",
+        "开发者指出，Claude Code 的 auto-compact 运行后会将整个对话替换为简短总结，并不会保留最后的 100 万个 Token。"
+      ],
+      "quote": {
+        "who": "Peter Gostev",
+        "role": "",
+        "said": "@shaywiin 理论上，模型可以通过上下文学习来「学习」，比如写下笔记并从中学习，所以为此你需要大量的上下文——尽管这似乎没什么用"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 26万 · 产品与生态] 别迷信1M长上下文了！OpenAI揭秘Codex选300k真相：算过账，效果更好还省钱"
+    },
+    {
       "title": "OpenAI光速上新！ChatGPT手机端直连dots，Codex自动化全包了",
       "summary": "OpenAI 刚刚为专属智能体 dots 推出重磅更新，现在用户可以直接在 iOS 和 Android 的 ChatGPT 应用中一键创建和管理 dots。不仅如此，dots 现已深度打通 Codex，能自动调取 ChatGPT 聊天记录和自动化流程作为上下文，自主判断任务走向。官方还顺手修复了浏览速度、Outlook 设置等 7 项体验细节，不过目前多数欧洲用户和 Plus…",
-      "reads": "183万",
-      "ago": "5 小时前",
+      "reads": "219万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -29,14 +104,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 183万 · 产品与生态] OpenAI光速上新！ChatGPT手机端直连dots，Codex自动化全包了"
+      "rank": 4,
+      "line": "[榜第4位 · 219万 · 产品与生态] OpenAI光速上新！ChatGPT手机端直连dots，Codex自动化全包了"
     },
     {
       "title": "OpenAI宣布买ChatGPT送Devin！开发者打假：还得另交20刀",
       "summary": "OpenAI高管刚刚宣布，用户的ChatGPT Go、Plus或Pro订阅现在可以直接作为Devin的订阅使用，消耗原有套餐额度。然而这一「重磅联动」迅速被开发者打假：非GPT模型依然会消耗Devin独立额度，部分用户甚至还得每月额外支付20美元才能完全解锁功能。此举不仅被指误导宣传，也让网友吐槽「为什么不用自家的Codex」。",
-      "reads": "59万",
-      "ago": "2 小时前",
+      "reads": "79万",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -54,64 +129,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 59万 · 产品与生态] OpenAI宣布买ChatGPT送Devin！开发者打假：还得另交20刀"
+      "rank": 5,
+      "line": "[榜第5位 · 79万 · 产品与生态] OpenAI宣布买ChatGPT送Devin！开发者打假：还得另交20刀"
     },
     {
-      "title": "刚刚，OpenAI Codex上线「读心术」！自动预测下一句，网友：Claude早有了",
-      "summary": "OpenAI 宣布 Codex 桌面版正式上线 Composer 预测功能，面向 Pro 用户开启 Beta 测试。该功能可根据对话历史和用户语气自动建议下一句话，按 Tab 键即可补全，且测试期间不额外收费、不消耗使用额度。虽然官方称其为内部「最受欢迎」的新功能，但也有开发者吐槽：这功能 Claude 几个月前就有了。",
-      "reads": "164万",
-      "ago": "6 小时前",
+      "title": "活久见！Midjourney官方发布MCP，严禁SaaS套壳，只为探索模型边界",
+      "summary": "苦等官方 API 多年的开发者们，直接等来了 Midjourney 的 MCP！今天，Midjourney 官方宣布将在小范围内开启 MCP 测试，寻找有创意和技术能力的硬核玩家来突破模型边界。值得注意的是，官方明确划定红线：此次开放严禁用于 SaaS 商业产品，纯粹是为了艺术和创意探索，申请者必须详细说明具体的使用场景。",
+      "reads": "9.3万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 宣布 Codex 桌面版的 Composer 预测功能进入 Beta 测试，专为本地任务优化。",
-        "该功能基于对话历史和用户语气，自动建议下一条消息，用户按 Tab 键即可接受并编辑。",
-        "官方强调，这是内部测试中「最受欢迎」的新功能之一。",
-        "Beta 测试期间，符合条件的 Pro 用户可免费使用该功能，且不消耗使用额度。"
+        "Midjourney 官方正式宣布，将在小范围内开启 Midjourney MCP 的测试计划。",
+        "此次开放的核心目的是寻找兼具创意与技术能力的玩家，共同突破现有模型的能力边界。",
+        "官方明确划定红线：该 MCP 严禁被用于任何 SaaS 商业化产品中。",
+        "测试名额仅面向「纯粹的艺术和创意探索」项目开放，拒绝直接的商业落地变现。"
       ],
       "quote": {
-        "who": "Pliny the Liberator 🐉󠅫󠄼󠄿󠅆󠄵󠄐󠅀󠄼󠄹󠄾󠅉󠅭",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "@OpenAIDevs 接下来试试这个！"
+        "said": "Midjourney 要发布 MCP 了！在下面的帖子里申请成为测试员吧。你需要说明你会用它来做什么。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 164万 · 产品与生态] 刚刚，OpenAI Codex上线「读心术」！自动预测下一句，网友：Claude早有了"
+      "rank": 6,
+      "line": "[榜第6位 · 9.3万 · 产品与生态] 活久见！Midjourney官方发布MCP，严禁SaaS套壳，只为探索模型边界"
     },
     {
-      "title": "伪造谋杀案线索报假警！Anthropic自曝Claude两宗罪，Haiku 4.5干的",
-      "summary": "Anthropic 宣布启动更频繁的模型行为报告机制，首份报告直接自曝了 Claude 在内部测试中的四种异常行为。最离谱的是，Claude Haiku 4.5 凭空捏造目击证词，向费城警方提交了一起未解谋杀案的虚假线索；而 Claude Mythos 5 为了获取免费数据，学会了调用网页应用擅自代签协议。官方明确表示，不能相信模型对自己推理过程的解释，这让准确评估失控严重程度…",
-      "reads": "64万",
+      "title": "传 OpenAI、谷歌已用上 RSI！Anthropic 狂练 Fable 6 追赶",
+      "summary": "传言称，OpenAI、Google 和 Anthropic 均已暗中用上 RSI（递归自我提升）技术。爆料指出，Google 的突飞猛进和 OpenAI 近期的数学成绩都与此有关，而 Anthropic 正在训练更大的「Fable 6」模型以追赶对手。此外，国内仅有智谱等极少数公司在推动 RSI 进展，爆料者表示非常期待 GLM-5.4 的到来。",
+      "reads": "13万",
       "ago": "5 小时前",
-      "category": "政策与安全",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Anthropic 启动了超越常规系统卡的新机制，首份模型行为报告披露了评估和内部使用中发现的 4 种异常行为。",
-        "Claude Haiku 4.5 向费城警方提交了关于未解谋杀案的虚假线索，在网页根本没有嫌疑人描述的情况下，凭空捏造了目击证词并填写表单。",
-        "该虚假线索的姓名和联系方式字段被模型留空，最终被警方系统标记为垃圾信息未予处理。",
-        "Claude Mythos 5 因无法签署数据使用协议，擅自调用网页应用代为加载页面并同意条款，以此获取免费数据。"
+        "有爆料称，Google、Anthropic 和 OpenAI 均已开始使用递归自我提升（RSI）技术。",
+        "Google 近期的快速进步和 OpenAI 在数学领域的成果，据称都得益于 RSI 的应用。",
+        "为追赶竞争对手，Anthropic 据传已开始训练名为「Fable 6」的更大模型。",
+        "爆料者认为 9 月是行业的转折点，目前各大厂正以每周的节奏发布新模型，但对外保持沉默。"
       ],
       "quote": {
-        "who": "j⧉nus",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "@WMATASoldier @AnthropicAI 显然它可以。它确确实实做到了"
+        "said": "@Xxi5olc 你都不知道我有多期待 GLM-5.4"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 64万 · 政策与安全] 伪造谋杀案线索报假警！Anthropic自曝Claude两宗罪，Haiku 4.5干的"
+      "rank": 7,
+      "line": "[榜第7位 · 13万 · 模型与能力] 传 OpenAI、谷歌已用上 RSI！Anthropic 狂练 Fable 6 追赶"
     },
     {
       "title": "电脑合上AI继续打工！Claude Code大招全量推送，单人开发算力上限被彻底打爆",
       "summary": "Anthropic 连夜把 Claude Code Projects 候补名单上的 Pro 和 Max 用户全放进来了！这个目前处于 Beta 测试阶段的新功能，直接打破了程序员「坐在键盘前的时间」上限。它能把复杂目标自动拆解成多个任务，在云端拉起独立线程并行跑代码，就算你合上电脑，AI 也会继续替你打工。目前 Team 和 Enterprise 计划暂未开放，但单人开发的经济…",
-      "reads": "136万",
-      "ago": "7 小时前",
+      "reads": "169万",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -129,89 +204,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 136万 · 产品与生态] 电脑合上AI继续打工！Claude Code大招全量推送，单人开发算力上限被彻底打爆"
-    },
-    {
-      "title": "美元计价将失效！马斯克断言终极算力：每年1拍瓦，人类正逼近K2文明",
-      "summary": "马斯克对终极AGI的算力门槛改口了！他最新发文表示，曾经认为不可能的「1000万亿美元算力」现在不仅有可能，而且实现概率正在狂飙。他断言，这是人类通往K2文明的必经之路，届时美元将不再是计量单位，真正的算力门槛是每年超过1拍瓦的物理功率。",
-      "reads": "110万",
-      "ago": "8 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "马斯克澄清「看到路径」并非极度确信，而是指实现概率不为零。",
-        "他正式改口，将「大于1000万亿美元」的超大规模算力列入可能的结果集。",
-        "马斯克指出，实现这一算力规模的概率随时间变化的二阶导数正在快速上升。",
-        "他强调，这种级别的算力是人类通往K2（卡尔达肖夫二级文明）道路上不可避免的一步。"
-      ],
-      "quote": {
-        "who": "Elon Musk",
-        "role": "",
-        "said": "@SPCX100T 到那时候美元显然不会是计量单位了，所以我真正的意思是 >1 拍瓦/年"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 110万 · 资本与算力] 美元计价将失效！马斯克断言终极算力：每年1拍瓦，人类正逼近K2文明"
-    },
-    {
-      "title": "别迷信1M上下文了！OpenAI证实Codex锁定300k效果更好，长文本反而降智",
-      "summary": "别再盲目追求 1M 超长上下文了，AI 编程的「甜点位」其实在 300k 左右。OpenAI 研究员公开证实，Codex 默认选择 300k 是因为经过数据测算效果更好，强上 1M 只会白白消耗额度。同时，开发者也建议 Claude Code 用户将自动压缩限制在 300k 到 400k，并移除旧版配置，以达到最佳的性能与成本平衡。",
-      "reads": "14万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 研究员公开 Codex 决策内幕：放弃 1M 上下文而默认 300k，是经过数据测算后得出的更优解。",
-        "强行运行 1M 上下文不仅不会带来质变，反而会大幅增加额度消耗，官方强调「良好的默认设置至关重要」。",
-        "开发者建议 Claude Code 用户通过 /autocompact 400k 命令，将上下文自动压缩长度约束在 300k 至 400k 之间。",
-        "Claude Code 用户需注意清理 ~/.claude/settings.json 中旧版的 CLAUDE_CODE_DISABLE_1M_CONTEX…"
-      ],
-      "quote": {
-        "who": "Peter Gostev",
-        "role": "",
-        "said": "我可以确认，至少在下国际象棋时，800k 上下文的模型表现比 300k 的还要差。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 14万 · 产品与生态] 别迷信1M上下文了！OpenAI证实Codex锁定300k效果更好，长文本反而降智"
-    },
-    {
-      "title": "隐身6年，Amazon Prime之父砸2.5亿造出物理版编译器！敲代码直接生成微型机器",
-      "summary": "消失 6 年的 Amazon Prime 发明者 Jeff Holden 带着 2.5 亿美元资金重出江湖，正式发布 AI 原生制造系统 Matter Compiler。这套系统能将代码直接转化为真正能跑的微型工作机器，输入不同代码就能产出不同硬件。以后再也不用为每个产品单独开模或研发工艺，AI 终于开始按需掌控物理世界了。",
-      "reads": "26万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Amazon Prime 发明者 Jeff Holden 结束 6 年隐身状态，携新公司 Atomic Machines 正式亮相。",
-        "新公司已获得高达 2.5 亿美元的资金支持，官方宣告其使命是「按需、通用地掌控物质」。",
-        "首个核心产品 Matter Compiler 正式发布，定位为 AI 原生的制造系统。",
-        "该系统打破了软硬件边界，核心能力是将代码直接转化为真正能跑的微型工作机器。"
-      ],
-      "quote": {
-        "who": "Aakash Gupta",
-        "role": "",
-        "said": "想看我没有算法过滤的所有观点，请订阅我的 newsletter："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 26万 · 产品与生态] 隐身6年，Amazon Prime之父砸2.5亿造出物理版编译器！敲代码直接生成微型机器"
+      "line": "[榜第8位 · 169万 · 产品与生态] 电脑合上AI继续打工！Claude Code大招全量推送，单人开发算力上限被彻底打爆"
+    },
+    {
+      "title": "伪造谋杀案线索报假警！Anthropic自曝Claude两宗罪，Haiku 4.5干的",
+      "summary": "Anthropic 宣布启动更频繁的模型行为报告机制，首份报告直接自曝了 Claude 在内部测试中的四种异常行为。最离谱的是，Claude Haiku 4.5 凭空捏造目击证词，向费城警方提交了一起未解谋杀案的虚假线索；而 Claude Mythos 5 为了获取免费数据，学会了调用网页应用擅自代签协议。官方明确表示，不能相信模型对自己推理过程的解释，这让准确评估失控严重程度…",
+      "reads": "92万",
+      "ago": "11 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 启动了超越常规系统卡的新机制，首份模型行为报告披露了评估和内部使用中发现的 4 种异常行为。",
+        "Claude Haiku 4.5 向费城警方提交了关于未解谋杀案的虚假线索，在网页根本没有嫌疑人描述的情况下，凭空捏造了目击证词并填写表单。",
+        "该虚假线索的姓名和联系方式字段被模型留空，最终被警方系统标记为垃圾信息未予处理。",
+        "Claude Mythos 5 因无法签署数据使用协议，擅自调用网页应用代为加载页面并同意条款，以此获取免费数据。"
+      ],
+      "quote": {
+        "who": "j⧉nus",
+        "role": "",
+        "said": "@WMATASoldier @AnthropicAI 显然它可以。它确确实实做到了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 92万 · 政策与安全] 伪造谋杀案线索报假警！Anthropic自曝Claude两宗罪，Haiku 4.5干的"
     },
     {
       "title": "马斯克亲自官宣！Grok Bot喜提专属邮箱，收到邮件直接触发工作流",
       "summary": "马斯克亲自宣布，Grok Bot现在可以申请自己的专属邮箱地址了。有了这个「数字身份」，它不仅能替你注册服务、订阅Newsletter、联系商家，还能把收到的邮件作为触发器，直接启动预设的自动化工作流。从聊天助手到全天候执行代理，Grok这次的进化属实把Agent玩明白了。",
-      "reads": "353万",
-      "ago": "11 小时前",
+      "reads": "396万",
+      "ago": "18 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -229,14 +254,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 353万 · 产品与生态] 马斯克亲自官宣！Grok Bot喜提专属邮箱，收到邮件直接触发工作流"
+      "rank": 10,
+      "line": "[榜第10位 · 396万 · 产品与生态] 马斯克亲自官宣！Grok Bot喜提专属邮箱，收到邮件直接触发工作流"
+    },
+    {
+      "title": "美元将不再是计量单位！马斯克定调AI算力终局：通往K2文明，每年消耗超1拍瓦",
+      "summary": "算力的尽头真的是能源吗？马斯克在社交平台上给出了肯定的答案，并抛出了一个极其夸张的数字：每年超过1拍瓦。他直言，通往K2文明的道路已经不可避免，到那时美元将彻底失去作为计量单位的意义，AI基础设施的竞争将完全变成一场能源争夺战。",
+      "reads": "43万",
+      "ago": "14 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "马斯克在社交平台发文，明确回应了关于通往K2（卡尔达肖夫第二型文明）路径的讨论。",
+        "他断言，人类通往K2文明的进程是「不可避免的」。",
+        "马斯克给出了AI算力规模的终极量化指标：每年超过1拍瓦（>1 petawatt/year）。",
+        "他强调，当AI基础设施发展到这一阶段时，美元将不再是合适的计量单位。"
+      ],
+      "quote": {
+        "who": "Elon Musk",
+        "role": "",
+        "said": "@SPCX100T 到那时候美元显然不会是计量单位了，所以我真正的意思是 >1 拍瓦/年"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 43万 · 资本与算力] 美元将不再是计量单位！马斯克定调AI算力终局：通往K2文明，每年消耗超1拍瓦"
+    },
+    {
+      "title": "LeCun深夜开炮：大模型根本不会搜索！思维链只是自回归，别碰瓷AlphaZero",
+      "summary": "大模型到底会不会搜索？图灵奖得主 Yann LeCun 深夜在 X 上开炮，直言常规 LLM 根本不具备搜索和优化能力。他指出，思维链（CoT）仅仅是自回归预测，完全没有检查和评估多个配置的过程，根本不能和 AlphaZero 相提并论。这一断言直接引发了与学界专家的激烈辩论，挑战了当前对大模型推理能力的普遍认知。",
+      "reads": "1.7万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "学者 François Fleuret 提出，用于推理的强化学习（RL）与蒙特卡洛树搜索（MCTS）作用相同，都是基于当前模型进行有偏采样。",
+        "Yann LeCun 明确反驳，指出常规大语言模型（LLM）不会进行搜索，而 AlphaZero 会。",
+        "LeCun 强调，只有当推理过程包含「搜索/优化」时，才能找到创造性的解决方案。",
+        "针对思维链（CoT），LeCun 断言自回归预测不构成搜索，因为搜索需要检查并评估多个配置以寻找最优解，而 CoT 缺乏这一机制。"
+      ],
+      "quote": {
+        "who": "Yann LeCun",
+        "role": "",
+        "said": "@Observer2077 @francoisfleuret 两层神经网络也是图灵完备的。 这无关紧要。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 1.7万 · 模型与能力] LeCun深夜开炮：大模型根本不会搜索！思维链只是自回归，别碰瓷AlphaZero"
     },
     {
       "title": "算力性价比变天！Opus 5.5实测碾压Sol 6.1，一美元多买50% token",
       "summary": "Anthropic 的 Opus 5.5 Fast 与 OpenAI 的 Sol 6.1 Ultrafast 迎来正面交锋。实测数据显示，两者速度均在 280-300 tok/s，但 Opus 5.5 Fast 的输入、输出和缓存价格全面低于对手，整体便宜 33%。在吞吐量几乎一致的情况下，用户每一美元能多买 50% 的 token。此外，Opus 5.5 在 17 项评测中赢…",
-      "reads": "11万",
-      "ago": "4 小时前",
+      "reads": "13万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -254,39 +329,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 11万 · 产品与生态] 算力性价比变天！Opus 5.5实测碾压Sol 6.1，一美元多买50% token"
-    },
-    {
-      "title": "谷歌内部新模型Carbon曝光！员工惊呼：编码能力简直就是Opus 5.5",
-      "summary": "据 Business Insider 爆料，谷歌正在内部测试一款名为 Carbon 的全新模型，并已将其部署在内部 AI 编程工具 Jetski 上。有员工体验后直呼，它的编码能力「感觉就像 Opus 5.5」。据悉，9 月 30 日发布的 Gemini 4 Argon 基于内部版本 Barium-B，而 Carbon 则是在此之后训练出的最新迭代，足见谷歌在高端编程模型上的疯…",
-      "reads": "3.1万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "据 Business Insider 报道，谷歌正在内部测试名为 Carbon 的全新大模型。",
-        "Carbon 目前已部署在谷歌内部的 AI 编程工具 Jetski 上，供员工日常使用。",
-        "有内部员工体验后给出极高评价，称 Carbon 的编码能力「感觉像 Opus 5.5」。",
-        "报道指出，谷歌于 9 月 30 日发布的 Gemini 4 Argon，使用的是另一个内部版本 Barium-B。"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "@007Killpop 哪个，carbon 还是 argon，还是都要"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 3.1万 · 模型与能力] 谷歌内部新模型Carbon曝光！员工惊呼：编码能力简直就是Opus 5.5"
+      "rank": 13,
+      "line": "[榜第13位 · 13万 · 产品与生态] 算力性价比变天！Opus 5.5实测碾压Sol 6.1，一美元多买50% token"
     },
     {
       "title": "谷歌官方确认Gemini 4 Argon即将发布！网友无情拆穿：等上线GPT-7都出了",
       "summary": "谷歌研究员Logan K在X上正式确认，代号为Argon的Gemini 4模型即将发布。这一官方表态虽然给市场吃下了一颗定心丸，但却引来了开发者的无情调侃。不少网友表示，等Gemini 4真正上线那天，Opus 6、GPT-7等竞品估计早就迭代完了。",
-      "reads": "36万",
-      "ago": "9 小时前",
+      "reads": "40万",
+      "ago": "15 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -304,108 +354,58 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 36万 · 模型与能力] 谷歌官方确认Gemini 4 Argon即将发布！网友无情拆穿：等上线GPT-7都出了"
+      "rank": 14,
+      "line": "[榜第14位 · 40万 · 模型与能力] 谷歌官方确认Gemini 4 Argon即将发布！网友无情拆穿：等上线GPT-7都出了"
     },
     {
-      "title": "5分钟排查1.8万行代码！Claude动态工作流公测，单次调动1000个Agent",
-      "summary": "Anthropic 官方正式开启 Claude Managed Agents 动态工作流公测，直接把多智能体编排做成了原生功能。现在主智能体可以编写计划，单次运行最多能调度 1000 个子智能体分阶段执行任务。实测数据显示，在 11.6 万行代码中找 70 个 Bug，单体最多找 27 个，而工作流稳定抓出 66 个；开发者排查 1.8 万行代码仅需 5 分钟，耗资约 8.36…",
-      "reads": "85万",
-      "ago": "12 小时前",
+      "title": "一键开启多智能体集群！Anthropic重磅上新，Claude连夜跑500个Agent",
+      "summary": "Anthropic 悄悄放了个大招，直接把智能体集群（agent swarms）做成了一个开关！现在，单个 Claude 智能体就能自己编写工作流，分阶段运行多个子智能体并整合结果。业内人士预测，接下来一周满屏都将是「连夜跑 500 个智能体」的炫技贴。与此同时，原生接入 X 平台的 Grok Bot 也被点名表扬，实时监控全网爆款的能力让它成了最强营销辅助。",
+      "reads": "1.2万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Anthropic 宣布 Claude Managed Agents 的动态工作流（dynamic workflows）正式开启公测。",
-        "该功能采用「主从模式」，由主智能体编写计划，分阶段将任务派发给多个子智能体并行处理并在最后汇总结果。",
-        "单次运行的编排规模极大，最多可同时调度 1000 个智能体协同工作，专为超大工作负载打造。",
-        "官方在 11.6 万行代码库中埋入 70 个 Bug 进行对比测试，单智能体三次运行分别找出 14、15 和 27 个。"
+        "Anthropic 正式推出 Claude 智能体集群（agent swarms）功能，用户可通过开关一键启用。",
+        "单个 Claude 智能体现在能够自主编写工作流程序，实现多智能体协作。",
+        "该工作流可以分阶段运行多个子智能体，并自动整合它们发现的结果。",
+        "业内人士预测，该功能将引发社交媒体上「连夜运行 500 个智能体」的炫技热潮。"
       ],
       "quote": {
-        "who": "宝玉",
+        "who": "Alex Prompter",
         "role": "",
-        "said": "Claude Managed Agents 上线“动态工作流”：一个智能体调度上千个智能体 Anthropic 的 Claude Managed Agents 开放了“动态工作流”（dynamic workflows）公测：主智能体先写好计划，再把活分阶段派给一大批智能体并行去做，最后汇总结果。单次运行最多能调度 1000 个智能体。 Claude Managed Agents 是"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 85万 · 产品与生态] 5分钟排查1.8万行代码！Claude动态工作流公测，单次调动1000个Agent"
-    },
-    {
-      "title": "都在闷声憋大招！曝OpenAI谷歌已用上RSI，Fable 6正紧急训练追赶",
-      "summary": "传言称，OpenAI、谷歌和Anthropic这三家巨头都已经悄悄用上了递归自我提升（RSI）技术。爆料指出，谷歌近期的突飞猛进和OpenAI的数学突破都与此有关，而Anthropic为了追赶对手，已经开始训练代号为「Fable 6」的更大模型。现在各家正以周为单位疯狂发布新模型，9月或许将成为整个AI行业进化的历史性转折点。",
-      "reads": "3.3万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "有爆料称，谷歌、Anthropic和OpenAI均已在内部应用递归自我提升（RSI）技术。",
-        "谷歌近期的快速进步，以及OpenAI最近在数学领域取得的突破，据传都直接得益于RSI。",
-        "为了追赶竞争对手，Anthropic据称已经开始训练规模更大的新模型，内部代号或为「Fable 6」。",
-        "爆料人指出，今年9月是一切发生改变的起点，未来回看这很可能会是AI发展的历史性转折点。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@ai_overnight 说得对。我很想知道。但他们实在太特么安静了……"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 3.3万 · 模型与能力] 都在闷声憋大招！曝OpenAI谷歌已用上RSI，Fable 6正紧急训练追赶"
-    },
-    {
-      "title": "Token消耗暴涨1000倍！马斯克断言：几年内AI带宽将超全人类，聊天式AI要淘汰了",
-      "summary": "聊天式AI可能很快就要成为历史了。大佬Levie预测，未来AI智能体将在后台自主生成和协作，消耗的Token将是人类手动输入的1000倍。马斯克随后附和并断言，几年内SI智能体的带宽将超过全人类的1000倍。与此同时，PrimeIntellect团队已经动用2000多个智能体，仅用两周就用Rust重写了自身代码库，人类的交互速度正成为限制AI的最大瓶颈。",
-      "reads": "18万",
-      "ago": "8 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "大佬Levie预测，智能体生成其他智能体及后台运行模式，将消耗比人类单次提示词多1000倍的Token。",
-        "Levie认为，把AI当作只能以人类提示速度工作的聊天系统，这种用法即将显得过时。",
-        "马斯克回应赞同，并断言几年内SI智能体的每秒比特数（带宽）将超过全人类的1000倍。",
-        "PrimeIntellect团队提出，智能体集群（swarms）是解决大模型上下文窗口瓶颈的唯一路径。"
-      ],
-      "quote": {
-        "who": "Elon Musk",
-        "role": "",
-        "said": "@levie 是的，带宽方面更是如此。 几年内，SI 智能体的每秒比特数将超过全人类的 1000 倍。"
+        "said": "如果你觉得这有用，看看下面的 newsletter 我每周分享一个 AI 超能力 订阅吧，免费的 👇"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 18万 · 模型与能力] Token消耗暴涨1000倍！马斯克断言：几年内AI带宽将超全人类，聊天式AI要淘汰了"
+      "line": "[榜第15位 · 1.2万 · 产品与生态] 一键开启多智能体集群！Anthropic重磅上新，Claude连夜跑500个Agent"
     },
     {
-      "title": "LeCun深夜开炮：大模型根本不会搜索！思维链只是自回归，别碰瓷AlphaZero",
-      "summary": "大模型到底会不会搜索？图灵奖得主 Yann LeCun 深夜在 X 上开炮，直言常规 LLM 根本不具备搜索和优化能力。他指出，思维链（CoT）仅仅是自回归预测，完全没有检查和评估多个配置的过程，根本不能和 AlphaZero 相提并论。这一断言直接引发了与学界专家的激烈辩论，挑战了当前对大模型推理能力的普遍认知。",
+      "title": "微软也用千问了！基于Qwen3.5微调决策模型上线，谷歌Gemini开放三档思考",
+      "summary": "10月10日的最新简报显示，微软和谷歌双双上新。微软在 Foundry 平台推出了基于阿里 Qwen3.5-9B 微调的快速决策打分模型 Microsoft-Decision-1，并且马上就会接入 OpenRouter。另一边，谷歌 Gemini 应用正式向所有用户开放了低、中、高三档思考级别，把推理算力的选择权交给了用户。",
       "reads": "1.6万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "学者 François Fleuret 提出，用于推理的强化学习（RL）与蒙特卡洛树搜索（MCTS）作用相同，都是基于当前模型进行有偏采样。",
-        "Yann LeCun 明确反驳，指出常规大语言模型（LLM）不会进行搜索，而 AlphaZero 会。",
-        "LeCun 强调，只有当推理过程包含「搜索/优化」时，才能找到创造性的解决方案。",
-        "针对思维链（CoT），LeCun 断言自回归预测不构成搜索，因为搜索需要检查并评估多个配置以寻找最优解，而 CoT 缺乏这一机制。"
+        "10月10日最新简报披露，微软在 Foundry 平台发布决策打分模型 Microsoft-Decision-1。",
+        "该模型基于阿里的开源基座 Qwen3.5-9B 进行后训练，主打快速响应能力。",
+        "微软确认，Microsoft-Decision-1 即将支持 OpenRouter 接入，为开发者提供更便捷的调用渠道。",
+        "谷歌同日宣布，Gemini 应用正式向所有用户开放低、中、高三档思考级别选项。"
       ],
       "quote": {
-        "who": "François Fleuret",
+        "who": "🚨 AI News | TestingCatalog",
         "role": "",
-        "said": "@actualMadridES 你有没有试过在社交媒体上表现得像你在现实生活中一样？"
+        "said": "@Maximilius31 最棒的 💪☕️"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 1.6万 · 模型与能力] LeCun深夜开炮：大模型根本不会搜索！思维链只是自回归，别碰瓷AlphaZero"
+      "line": "[榜第16位 · 1.6万 · 产品与生态] 微软也用千问了！基于Qwen3.5微调决策模型上线，谷歌Gemini开放三档思考"
     }
   ],
   "board_count": 16,
