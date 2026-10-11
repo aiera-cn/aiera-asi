@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-11 05:34:52 +0800",
+  "fetched_at": "2026-10-11 08:54:26 +0800",
   "today": "10/11",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -80,28 +80,28 @@
       "line": "[10/10 09:12] 王虹攻下的三维挂谷猜想，OpenAI放出175页四维证明稿！ · https://www.aiera.com.cn/asi-item.html?id=tg3e6030&from=yuanyuan"
     },
     {
-      "time": "08:38",
-      "date": "10/10",
-      "title": "突发！OpenAI dots全面登陆手机，开口指挥Codex干活了",
-      "summary": "OpenAI真的是一日一更啊！就在刚刚，OpenAI「义父」Tibo亮出Day 5更新：「24小时在线Agent」dots，现在用手机就能创建了。…",
-      "source": "新智元",
-      "id": "tg3fc652",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg3fc652&from=yuanyuan",
+      "time": "06:03",
+      "date": "10/11",
+      "title": "沙盒根本关不住，OpenAI最强模型全面停训，只因AI自己连了外网",
+      "summary": "OpenAI 的一个内部研究模型被关在断网沙箱里，为了做题，自己找到漏洞连上了外网。据 OpenAI 官方报告，这件事发生在 9 月 20 日的一次强化学习训练中…",
+      "source": "alignment.openai.com",
+      "id": "2e4f7874",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=2e4f7874&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/10 08:38] 突发！OpenAI dots全面登陆手机，开口指挥Codex干活了 · https://www.aiera.com.cn/asi-item.html?id=tg3fc652&from=yuanyuan"
+      "line": "[10/11 06:03] 沙盒根本关不住，OpenAI最强模型全面停训，只因AI自己连了外网 · https://www.aiera.com.cn/asi-item.html?id=2e4f7874&from=yuanyuan"
     },
     {
-      "time": "08:38",
-      "date": "10/10",
-      "title": "差了200亿美元！OpenAI年化营收数字打架，英伟达跌近3%",
-      "summary": "一笔没算清的账，吓掉英伟达三个点",
-      "source": "新智元",
-      "id": "tg5e7934",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg5e7934&from=yuanyuan",
+      "time": "06:03",
+      "date": "10/11",
+      "title": "90%以上测试追平，AMD苦战数月，终于啃下vLLM硬骨头",
+      "summary": "苦战数月，AMD 终于在 vLLM 上啃下了一块硬骨头。据 SemiAnalysis 本周报道，在 vLLM 上游的门控测试组里，AMD 已经有 90% 以上达到同等水平。…",
+      "source": "www.amd.com",
+      "id": "1636e0bf",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=1636e0bf&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/10 08:38] 差了200亿美元！OpenAI年化营收数字打架，英伟达跌近3% · https://www.aiera.com.cn/asi-item.html?id=tg5e7934&from=yuanyuan"
+      "line": "[10/11 06:03] 90%以上测试追平，AMD苦战数月，终于啃下vLLM硬骨头 · https://www.aiera.com.cn/asi-item.html?id=1636e0bf&from=yuanyuan"
     },
     {
       "time": "04:04",
@@ -186,6 +186,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=2eeb0a0e&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/10 18:04] OpenAI刚发新智能体，Meta就拉上沃尔玛和Stripe定规矩了 · https://www.aiera.com.cn/asi-item.html?id=2eeb0a0e&from=yuanyuan"
+    },
+    {
+      "time": "08:38",
+      "date": "10/10",
+      "title": "突发！OpenAI dots全面登陆手机，开口指挥Codex干活了",
+      "summary": "OpenAI真的是一日一更啊！就在刚刚，OpenAI「义父」Tibo亮出Day 5更新：「24小时在线Agent」dots，现在用手机就能创建了。…",
+      "source": "新智元",
+      "id": "tg3fc652",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg3fc652&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/10 08:38] 突发！OpenAI dots全面登陆手机，开口指挥Codex干活了 · https://www.aiera.com.cn/asi-item.html?id=tg3fc652&from=yuanyuan"
+    },
+    {
+      "time": "08:38",
+      "date": "10/10",
+      "title": "差了200亿美元！OpenAI年化营收数字打架，英伟达跌近3%",
+      "summary": "一笔没算清的账，吓掉英伟达三个点",
+      "source": "新智元",
+      "id": "tg5e7934",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg5e7934&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/10 08:38] 差了200亿美元！OpenAI年化营收数字打架，英伟达跌近3% · https://www.aiera.com.cn/asi-item.html?id=tg5e7934&from=yuanyuan"
     },
     {
       "time": "06:31",
@@ -702,30 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=e75dfac0&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/09 03:01] 根本跟不上！Claude一口气上新两大生产力神器 · https://www.aiera.com.cn/asi-item.html?id=e75dfac0&from=yuanyuan"
-    },
-    {
-      "time": "02:04",
-      "date": "10/09",
-      "title": "Anthropic下场抢开发者了！给初创公司狂塞5.2万美元大礼包",
-      "summary": "Anthropic 开始花钱抢开发者了。官方宣布全面扩展 Claude Startups 计划，一家初创公司最多能拿到价值 5.2 万美元的大礼包。 这笔钱拆成两块。7000…",
-      "source": "claude.com",
-      "id": "fe64e133",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=fe64e133&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/09 02:04] Anthropic下场抢开发者了！给初创公司狂塞5.2万美元大礼包 · https://www.aiera.com.cn/asi-item.html?id=fe64e133&from=yuanyuan"
-    },
-    {
-      "time": "01:36",
-      "date": "10/09",
-      "title": "最强AI能接管日常打工了吗？Fable 5.1和Astra犯了低级错误还当成重大发现",
-      "summary": "答案是还不能。Epoch AI 拿自家真实研究任务实测了一轮前沿模型，得分领先的 Claude Fable 5.1 和 GPT-6 Astra，照样在画图表…",
-      "source": "X/EpochAIResearch",
-      "id": "5b2d1d32",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=5b2d1d32&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/09 01:36] 最强AI能接管日常打工了吗？Fable 5.1和Astra犯了低级错误还当成重大发现 · https://www.aiera.com.cn/asi-item.html?id=5b2d1d32&from=yuanyuan"
     }
   ],
   "feed_count": 60,
