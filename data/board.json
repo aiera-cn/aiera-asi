@@ -3,409 +3,409 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-13 04:14:25 +0800",
+  "fetched_at": "2026-10-13 10:32:06 +0800",
   "today": "10/13",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "刚刚，小扎杀回前沿！Muse Wonder击败Opus 5.5，输出高达20刀",
-      "summary": "Meta正式发布了前沿模型Muse Wonder系列，包含主打速度的标准版和完整版Muse Wonder Full。新模型在14项基准测试中有8项击败了Claude Opus 5.5，并在长周期软件工程上超越了GPT-6 Astra，直接把还没发Gemini 4 Argon的谷歌挤出了前三。虽然性能炸裂，但定价也相当昂贵，输入4美元、缓存0.2美元、输出高达20美元每百万tok…",
-      "reads": "228万",
-      "ago": "25 分钟前",
-      "category": "模型与能力",
+      "title": "Cursor被吞了！马斯克大一统订阅上线，$30顶过去$90用量",
+      "summary": "SpaceXAI正式推出The X Subscription，将Grok、Cursor和X Premium整合为Free至Ultra（$200）的五档统一订阅。主打自家模型高性价比，例如$30档位提供此前组合价$90的用量，且Cursor在Grok模型上的编码用量翻倍。注意：新套餐不再包含Claude、GPT等第三方模型额度，需按API原价付费；目前处于灰度上线阶段，部分用户可…",
+      "reads": "187万",
+      "ago": "57 分钟前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Meta发布Muse Wonder和Muse Wonder Full两款模型，主打个人超级智能，具备主动记忆（Active Memory）和主动聚焦（Act…",
-        "性能全面屠榜，在Artificial Analysis智能指数中得分56分，超越GPT-6 Astra和Gemini 4 Argon。",
-        "在14项已公布的基准测试中，Muse Wonder Full有8项击败了Anthropic的现役旗舰Claude Opus 5.5。",
-        "定价极其昂贵，输入4美元、缓存0.2美元、输出高达20美元/百万token。"
+        "SpaceXAI官方宣布推出The X Subscription，统一了Grok、Cursor和X Premium的订阅计划。",
+        "新套餐共五档：Free、Plus（$8）、Premium（$30）、Super（$100）、Ultra（$200）。",
+        "$30的Premium档位提供4倍用量，官方称此前同等功能组合价为$90/月。",
+        "$100的Super档位提供15倍用量，使用Grok模型编码的量至少是同等Cursor计划的两倍。"
       ],
       "quote": {
-        "who": "Chetaslua",
+        "who": "Wes Roth",
         "role": "",
-        "said": "@alexandr_wang 能不能给我个订阅 😭 我的额度用完了，还想测一下 3d 功能"
+        "said": "SpaceXSI launched The X Subscription, bringing Grok, Cursor and X Premium benefits into one subscription lineup. Monthly tiers are Free, Plus at $8, Premium at $30, Super at $100 and Ultra a…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 228万 · 模型与能力] 刚刚，小扎杀回前沿！Muse Wonder击败Opus 5.5，输出高达20刀"
+      "line": "[榜第1位 · 187万 · 产品与生态] Cursor被吞了！马斯克大一统订阅上线，$30顶过去$90用量"
     },
     {
-      "title": "现实比电影离谱！史泰龙想演自己创造的洛奇，还得向95岁制片人申请许可",
-      "summary": "Sylvester Stallone 亲手创造了经典角色 Rocky，但他自己竟然没有版权。为了出演这个角色，他不得不向 95 岁的制片人 Irwin Winkler 申请许可。这一离谱现实再次揭开了影视圈创作者与版权分离的行业痛点，就像《鱿鱼游戏》导演从 Netflix 拿不到分红一样，创作者在资本面前往往连自己核心 IP 的掌控权都保不住。",
-      "reads": "294万",
-      "ago": "1 小时前",
+      "title": "自己写的角色自己没版权！史泰龙演《洛奇》得求95岁制片人",
+      "summary": "史泰龙亲自创造了经典角色《洛奇》，却根本不拥有它的版权。有分析师爆料，他现在想演这个角色，还得向 95 岁的制片人 Irwin Winkler 申请许可。从《鱿鱼游戏》到《洛奇》，创作者在资本面前失去 IP 控制权的悲剧不断重演，签合同前千万得看清归属条款。",
+      "reads": "399万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Sylvester Stallone 并不拥有他自己亲手创造的经典角色 Rocky 的版权。",
-        "为了出演该角色，Stallone 必须向 95 岁的制片人 Irwin Winkler 申请许可。",
-        "Stallone 曾公开将掌握版权的 Winkler 称为「另一个人」，表达对失去 IP 控制权的无奈。",
-        "这一极端案例揭示了影视行业中创作者往往无法掌控自身核心 IP 的残酷现状。"
+        "史泰龙并不拥有他亲自创造的经典角色《洛奇》（Rocky）的版权。",
+        "他必须向 95 岁的制片人 Irwin Winkler 申请许可，才能出演这个由自己发明的角色。",
+        "史泰龙曾公开表示绝对不会看《Creed 3》，但他愿意和 Michael B. Jordan 一起拍《Creed 4》。",
+        "分析师 Aakash Gupta 将此作为创作者未能掌控自己作品知识产权（IP）的典型反面教材。"
       ],
       "quote": {
         "who": "Aakash Gupta",
         "role": "",
-        "said": "想看我没有算法过滤的全部观点，请订阅我的 newsletter："
+        "said": "想看我没有被算法过滤的全部观点，欢迎订阅我的 newsletter："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 294万 · 产品与生态] 现实比电影离谱！史泰龙想演自己创造的洛奇，还得向95岁制片人申请许可"
+      "line": "[榜第2位 · 399万 · 产品与生态] 自己写的角色自己没版权！史泰龙演《洛奇》得求95岁制片人"
     },
     {
-      "title": "Zucc抱着「西瓜」杀回来了！Meta版Fable突袭，56分超越GPT-6 Astra",
-      "summary": "Meta 终于不挤牙膏了！代号为「西瓜」的 Fable 级新旗舰 Muse Wonder 突发上线，在 Intelligence Index 上以 56 分的成绩一举超越 GPT-6 Astra 和 Gemini 4 Argon。新模型支持 1M 上下文，API 定价为输入 4 美元、输出 20 美元每百万 Token，满血推理版 Wonder Full 则仅供订阅用户使用。这…",
-      "reads": "87万",
-      "ago": "19 分钟前",
+      "title": "刚刚，小扎杀回前沿！Muse Wonder硬刚GPT-6，7项测试碾压Opus 5.5",
+      "summary": "Meta 彻底杀回了 AI 前沿阵地！今天，小扎正式发布了全新大模型系列 Muse Wonder，包含主打速度的标准版和性能拉满的 Full 完整版，现已通过 Muse 订阅和 API 开放。新模型在长周期代码和法律任务上直接碾压了 GPT-6 Astra 和 Claude Opus 5.5，DeepSWE 测试胜率高达 79.0%。不过这波「超强智能」价格极其昂贵，输出每百万…",
+      "reads": "499万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Meta 正式发布代号为「Watermelon」的新旗舰模型 Muse Wonder，定位为 Fable 级别竞争者。",
-        "性能表现强悍，在 Intelligence Index 基准测试中斩获 56 分，成功超越 OpenAI 的 GPT-6 Astra 和 Google 的…",
-        "推出两个版本：标准版 Muse Wonder 提供 API 接入，满血推理版 Muse Wonder Full 仅限 Muse Code 订阅用户使用。",
-        "API 定价对标行业旗舰，输入 4 美元/Mtok，输出 20 美元/Mtok，缓存 0.2 美元/Mtok，支持 1M 上下文窗口。"
+        "版本与上线：Meta 发布全新前沿模型系列，包含主打速度的 Muse Wonder 和完整版 Muse Wonder Full，现已通过 Muse 订阅、M…",
+        "核心跑分碾压：在 14 项已公布的基准测试中，Muse Wonder Full 有 7 项击败了 GPT-6 和 Claude Opus 5.5；其中 De…",
+        "原生长线能力：模型具备 Active Memory（长周期记忆）和 Active Focus（主动聚焦）两大核心机制，能够跨越数周保留上下文，并在遇到障碍时…",
+        "定价极其昂贵：API 消耗成本极高，输入 4 美元、缓存 0.2 美元、输出高达 20 美元/百万 token，多位开发者实测跑一次代码动画演示就会触发 4…"
       ],
       "quote": {
-        "who": "Andrew Curran",
+        "who": "Chetaslua",
         "role": "",
-        "said": "@MichaelTontchev 除非换个支持他们的政府，否则这事变不了。“没有武力作后盾的契约只是一纸空文，根本保护不了任何人。”他们需要用武力来强制合规。"
+        "said": "@itsohqay @abhinavflac 英语是我的第五语言，梵语才是我的母语"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 87万 · 模型与能力] Zucc抱着「西瓜」杀回来了！Meta版Fable突袭，56分超越GPT-6 Astra"
+      "line": "[榜第3位 · 499万 · 模型与能力] 刚刚，小扎杀回前沿！Muse Wonder硬刚GPT-6，7项测试碾压Opus 5.5"
     },
     {
-      "title": "加量不加价！GPT-6.1 Sol默认上下文飙升500k，超272k不再额外收费",
-      "summary": "从今天起，OpenAI 正式将 Codex 和 ChatGPT Work 中 GPT-6.1 Sol 的默认上下文长度从 272k 提升至 500k，增幅约 80%。最让开发者兴奋的是，使用订阅额度时，超过 272k 的长上下文部分不再收取额外费用。这一改动将使长任务中的压缩次数减少 2-3 倍，大幅提升端到端任务的完成速度，最高仍可支持 1M tokens。",
-      "reads": "201万",
+      "title": "削减Claude用量原因找到了！微软超100万颗自研芯片硬刚英伟达",
+      "summary": "微软CEO Satya Nadella刚刚宣布了公司史上最大的自研芯片押注，计划从明年起将Azure Maia家族扩展到多吉瓦规模部署，预计部署量超100万颗。全新推出的Maia 300基于台积电2nm级工艺，将于2027年正式上线，其每兆瓦Token产出比领先GPU系统高出40%，机架吞吐量狂飙7倍。这一动作不仅意在大幅降低对英伟达和AMD的依赖，更被外界视为微软近期削减Cl…",
+      "reads": "156万",
       "ago": "3 小时前",
-      "category": "产品与生态",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "OpenAI 研究员宣布，从今天起，GPT-6.1 Sol 在 Codex 和 ChatGPT Work 中的默认上下文长度从 272k 提升至 500k…",
-        "计费策略迎来重大调整：当消耗订阅额度时，OpenAI 不再对 GPT-6.1 Sol 超过 272k 的长上下文部分收取额外费用。",
-        "最大上下文长度上限保持不变，用户依然可以根据需求一路拉满到 1M tokens。",
-        "研究员指出，500k 是新的优化默认值，能让长时间运行任务中的压缩（compaction）次数减少 2-3 倍，加快端到端任务完成速度。"
+        "微软CEO Satya Nadella宣布史上最大自研芯片押注，计划从明年起将Azure Maia家族扩展到多吉瓦规模部署。",
+        "全新Maia 300芯片基于台积电2nm级工艺，预计将于2027年推出，成为微软自家产品和服务的主要推理系统。",
+        "性能方面，Maia 300每兆瓦Token产出比领先的GPU系统高出40%，96芯片机架吞吐量最高达前代Maia 200的7倍。",
+        "上一代Maia 200目前已在美、欧、澳等地区运行生产负载，为Teams和Copilot等产品提供算力支持。"
       ],
       "quote": {
-        "who": "Mark Kretschmann",
+        "who": "Wes Roth",
         "role": "",
-        "said": "@mercuvirtuous @OpenAI 是的，说得好！"
+        "said": "Microsoft 宣布推出 Azure Maia 300，将于 2027 年开始投入生产部署。 公司计划将 Maia 芯片家族的算力规模扩展到数千兆瓦（gigawatts），并让其成为 Microsoft 产品和服务背后的主力推理系统。 Microsoft 预计 Maia 300 将"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 201万 · 产品与生态] 加量不加价！GPT-6.1 Sol默认上下文飙升500k，超272k不再额外收费"
+      "line": "[榜第4位 · 156万 · 资本与算力] 削减Claude用量原因找到了！微软超100万颗自研芯片硬刚英伟达"
     },
     {
-      "title": "微软版TPU杀疯了！Satya砸下史上最大赌注，100万颗Maia 300硬刚英伟达",
-      "summary": "微软在AI算力上彻底摊牌了！CEO Satya Nadella刚刚宣布了史上最大的自研芯片押注，计划从明年起将Azure Maia家族扩展至多吉瓦规模。全新亮相的2nm级芯片Maia 300性能狂飙，每兆瓦Token产出比领先GPU系统40%，96芯片机架吞吐量更是前代的7倍。据传微软将部署超100万颗芯片，全面接管自家产品推理，英伟达和AMD这回真要面临硬核挑战了。",
-      "reads": "100万",
-      "ago": "4 小时前",
-      "category": "资本与算力",
+      "title": "小扎亲口曝Meta内部惊悚一幕！CFO多次警告Wang：模型搞砸，财务上会非常、非常惨",
+      "summary": "小扎在播客里罕见透露Meta内部高压时刻：CFO Susan Li在夏威夷闭门会上多次警告Alexandr Wang，若Muse Wonder失败财务后果将极其严重。尽管外界质疑「社交+数据」组合能否建前沿实验室，小扎表示在与各家AI负责人交流后，坚信Wang是最佳人选。此外，他还预测Meta眼镜将成为纯多模态产品，甚至可能取消应用商店，由AI直接在视野中生成内容。",
+      "reads": "29万",
+      "ago": "1 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "微软CEO Satya Nadella宣布史上最大自研芯片押注，计划从明年起将Maia家族扩展至多吉瓦（multi-gigawatt）规模部署。",
-        "全新推出的Maia 300基于台积电2nm级工艺打造，预计将于2027年正式大规模部署，成为微软产品和服务的主要推理系统。",
-        "性能迎来暴涨，Maia 300每兆瓦Token产出比领先现有GPU系统40%，96芯片机架吞吐量最高达前代Maia 200的7倍。",
-        "微软AI CEO Mustafa Suleyman发文力挺新芯片，直呼「我们的新芯片太火爆了，每瓦Token数提升40%」。"
+        "Alexandr Wang透露，在夏威夷高管闭门会上，Meta CFO Susan Li多次将他拉到一边警告：如果模型不成功，财务上会「非常、非常糟糕」。",
+        "小扎表示，尽管外界质疑社交媒体背景能否构建前沿实验室，但他在与所有AI实验室负责人交流后，坚信Wang是建立Meta前沿实验室的「那个人」（the guy）…",
+        "小扎预测Meta眼镜最终将成为纯多模态产品，可能不再设有应用商店，而是通过AI直接在用户视野中生成所需内容。",
+        "小扎指出自持数据中心具有财务优势：GPU完全折旧后仍可继续使用，且由于算力紧缺，H100的价值甚至比去年更高。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Fireside Alpha",
         "role": "",
-        "said": "@dusangran 没错！芯片市场需要更多竞争，这也是我们大家都希望看到的"
+        "said": "Meta VP Jagjit Chawla reveals a single IC10 product manager holds the pencil on how Meta allocates hundreds of billions of dollars of capacity across the company \"There are a few in the buil…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 100万 · 资本与算力] 微软版TPU杀疯了！Satya砸下史上最大赌注，100万颗Maia 300硬刚英伟达"
+      "line": "[榜第5位 · 29万 · 组织与人事] 小扎亲口曝Meta内部惊悚一幕！CFO多次警告Wang：模型搞砸，财务上会非常、非常惨"
     },
     {
-      "title": "原型仅用2周！Meta新王牌Muse留存率曝光，7天超30%反超ChatGPT",
-      "summary": "Meta 的主动智能体 Muse 发布满月，交出了一份亮眼的成绩单。根据 Sensor Tower 数据，其次日留存率高达 73.3%，7 日留存率超过 30%，直接反超了 ChatGPT。虽然 14 日留存率以 22.5% 略逊于 ChatGPT 的 26.8%，但 Muse 已稳居留存率最高的 AI 产品第一梯队，成为 Meta 在消费级 AI 领域对抗 OpenAI 的关…",
-      "reads": "13万",
-      "ago": "35 分钟前",
-      "category": "产品与生态",
+      "title": "250 TPS炸裂！GPT-6.1 Sol ultrafast实测，95%性能打平Astra",
+      "summary": "研究员 @steipete 在 X 上晒出 GPT-6.1 Sol ultrafast 的实测数据：250 TPS 的高吞吐量下，其性能达到旗舰模型 GPT-6 Astra 的 95%，且成本相近。他直言这完全是「另一种体验」，尤其在编排器任务中表现优异。对于日常开发场景，这个高性价比的「干活主力」可能比顶级旗舰更具实用性。",
+      "reads": "20万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Meta 首席 AI 官 Alexandr Wang 庆祝主动智能体 Muse 发布满月，透露其原型仅用 2 周完成，完整开发耗时 7 个月。",
-        "开发团队刻意保持单一视角，以避免 Muse 变成大公司的拼盘产品。",
-        "Sensor Tower 数据显示，Muse 新用户的次日留存率（D1）高达 73.3%。",
-        "Muse 的 7 日留存率（D7）超过 30%，这一数据成功反超了 ChatGPT。"
+        "研究员 @steipete 实测 GPT-6.1 Sol ultrafast，称其性能远超 GPT-6 Astra（6.1 Sol ultrafast >>…",
+        "核心优势在于 250 TPS（每秒 Token 数）的高吞吐量，在成本相近的情况下提供了完全不同的使用体验。",
+        "实测显示，GPT-6.1 Sol ultrafast 的整体性能与旗舰模型 GPT-6 Astra 接近 95%。",
+        "该模式在编排器（orchestrator）任务中表现优异，即使中等配置也能胜任，适合对时间敏感的任务分配。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Peter Steinberger 🦞",
         "role": "",
-        "said": "Meta 凭借 Muse 可能在消费级 AI 领域握有了一张王牌。 73.3% 的新用户会在次日留存。超过 30% 的用户在一周后留存。根据 Deedy 分享的 Sensor Tower 数据，到了第 14 天，Muse 的留存率是 22.5%，而 ChatGPT 是 26.8%。 ChatGPT 大概在第"
+        "said": "@thsottiaux whoops. tps sounds way better, ack"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 13万 · 产品与生态] 原型仅用2周！Meta新王牌Muse留存率曝光，7天超30%反超ChatGPT"
+      "line": "[榜第6位 · 20万 · 模型与能力] 250 TPS炸裂！GPT-6.1 Sol ultrafast实测，95%性能打平Astra"
     },
     {
-      "title": "Meta「西瓜」落地！新模型击败GPT-6 Astra，单次成本暴涨2.8倍",
-      "summary": "Meta代号「西瓜」的新模型终于落地了！这次一口气发布了Muse Wonder和Muse Wonder Full两款型号，现已向用户开放。在最新评测中，两款模型得分分别达到52和56，直接超越了GPT-6 Astra和Gemini 4 Argon。不过性能大涨的代价是价格飙升，单次任务成本高达4.52美元，是前代的2.8倍，输入和输出Token价格也分别涨到了4美元和20美元/…",
-      "reads": "12万",
-      "ago": "1 小时前",
+      "title": "全队觉得自己很蠢！Meta高管回应Wonder被Opus 5.5碾压：请拿它写代码",
+      "summary": "Meta 智能体 Muse Wonder 因为在 3D 游戏演示中表现不佳，惨遭社区群嘲。高管 Alexandr Wang 亲自下场回应，承认团队确实没有用 3D 游戏显式训练模型，「现在全队都觉得自己很蠢」。面对 Opus 5.5 在 Minecraft 等 3D 环境下的全面碾压，他呼吁开发者不要只看游戏演示，Wonder 本质上是一个极其强大的代码模型，应该在实际编程中检…",
+      "reads": "41万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Meta正式发布Muse Wonder和Muse Wonder Full，终结了此前关于代号Watermelon的猜测，模型现已向用户开放。",
-        "在Artificial Analysis Intelligence Index v4.3中，两款模型在最大推理算力下得分分别为52和56，超越GPT-6 A…",
-        "迭代速度惊人，距离前代Muse Spark 1.3（得分48）发布仅仅过去了6周，性能实现了实质性提升。",
-        "成本大幅飙升，Muse Wonder单次任务成本达到4.52美元，是前代（1.60美元）的2.8倍。"
+        "Meta 高管 Alexandr Wang 正式回应社区对 Muse Wonder 模型的质疑，承认团队没有用 3D 演示游戏显式训练模型。",
+        "Wang 坦言「整个团队现在都觉得自己很蠢」，事后看来确实应该做一些相关的强化学习训练。",
+        "面对争议，Wang 强调 Muse Wonder 是一个不可思议的代码模型，呼吁用户在实际的编程工作中测试其实力。",
+        "有开发者指出，在目前看到的所有 3D 游戏 demo 中，Anthropic 的 Opus 5.5 已经全方位碾压了 Muse Wonder。"
       ],
       "quote": {
-        "who": "Alexandr Wang",
+        "who": "Chris",
         "role": "",
-        "said": "MUSE WONDER 🍉"
+        "said": "@JesusIsGod 显然这算不上“真正的编程”"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 12万 · 模型与能力] Meta「西瓜」落地！新模型击败GPT-6 Astra，单次成本暴涨2.8倍"
+      "line": "[榜第7位 · 41万 · 模型与能力] 全队觉得自己很蠢！Meta高管回应Wonder被Opus 5.5碾压：请拿它写代码"
     },
     {
-      "title": "预期20人却招了199个！OpenAI重开Codex大使申请，Astra线下聚会火遍全球",
-      "summary": "OpenAI 官方宣布重新开放 Codex 大使申请通道，支持开发者在全球举办聚会。这个原本只预期招募 15-20 人的项目，如今已在 49 个以上的国家和地区发展出 199 名大使，累计举办超 300 场活动。开发者们不仅在当地咖啡馆分享 Astra 模型的创作成果，伦敦的聚会甚至直接演变成了开发挑战赛。",
-      "reads": "4.8万",
-      "ago": "49 分钟前",
-      "category": "产品与生态",
+      "title": "Meta王炸翻车！熔岩灯变红柱子，博主怒斥：纯纯刷榜怪",
+      "summary": "Meta刚发布的新模型Muse Wonder在BridgeBench熔岩灯测试中翻车，仅生成一个红色圆柱体，缺乏玻璃和熔岩细节。尽管官方宣称其性能超越GPT-6 Astra和Gemini 4 Argon，但博主@bridgemindai直言这是典型的「刷榜（benchmaxxed）」行为。作为对比，Grok 4.7在同一测试中耗时15分46秒、花费0.36美元生成了完整模型，进…",
+      "reads": "14万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI 官方宣布重新开放 Codex 大使（Codex Ambassador）申请通道。",
-        "该计划旨在支持开发者在当地举办聚会，或分享使用模型的学习心得。",
-        "项目规模远超预期，最初仅计划招募 15-20 人，目前已发展至 199 名大使。",
-        "大使网络已覆盖全球 49 个以上的国家和地区，累计举办了 300 多场活动。"
+        "Meta新模型Muse Wonder在BridgeBench熔岩灯测试中表现极差，仅生成一个红色圆柱体，缺失玻璃和熔岩等关键细节。",
+        "知名AI博主@bridgemindai斥责该模型为「benchmaxxed」（刷榜），称其实际表现与基准测试高分严重不符，是「这辈子没见过」的极端案例。",
+        "Meta官方宣称Muse Wonder在Intelligence Index等基准上超越GPT-6 Astra和Gemini 4 Argon，但开发者社区质…",
+        "博主顺带展示了xAI Grok 4.7在同一测试中的表现：耗时15分46秒，花费0.36美元，生成了完整的熔岩灯3D模型，形成鲜明对比。"
       ],
       "quote": {
-        "who": "Vaibhav (VB) Srivastav",
+        "who": "BridgeMind",
         "role": "",
-        "said": "@DFinsterwalder 感谢你做的一切 David！！"
+        "said": "@elonmusk Grok 4.7 result:"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 4.8万 · 产品与生态] 预期20人却招了199个！OpenAI重开Codex大使申请，Astra线下聚会火遍全球"
+      "line": "[榜第8位 · 14万 · 模型与能力] Meta王炸翻车！熔岩灯变红柱子，博主怒斥：纯纯刷榜怪"
     },
     {
-      "title": "警报拉响！震网病毒超市版爆发：黑客操控冰箱50度除霜，近300家法国门店起火",
-      "summary": "法国数百家超市遭遇罕见黑客攻击，近300家门店的冰箱被强制设定在高达50°C的温度下除霜，直接引发火灾。受影响的包括多达200家Intermarché门店和不到100家Coopérative U门店。目前巴黎检察官已正式展开调查，这场针对Danfoss控制器的攻击彻底暴露了物联网设备在物理世界的致命破坏力。",
-      "reads": "16万",
-      "ago": "5 小时前",
-      "category": "政策与安全",
+      "title": "Meta王炸翻车！Alexandr Wang深夜致歉，Muse Wonder额度重置了",
+      "summary": "Meta高管Alexandr Wang正式官宣修复Muse Wonder及Muse Wonder Full的额度消耗异常过快问题。此前该故障导致用户配额被非预期地快速耗尽，Wang在X上向受影响用户致歉并确认已解决。作为补偿措施，官方宣布执行「muse code reset」，重置相关用户的代码使用额度。尽管Muse Wonder在Intelligence Index上得分高达…",
+      "reads": "12万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "法国数百家超市遭遇黑客攻击，目标直指超市内的冷链温控设备。",
-        "黑客成功入侵并操控了 Danfoss 控制器，将其强制设定在高达 50°C 的温度下进行除霜。",
-        "异常的高温操作直接导致多起火灾发生，造成了严重的物理破坏，而非仅仅是数据泄露。",
-        "知名零售连锁 Intermarché 成为重灾区，有多达 200 家门店受到影响。"
+        "Meta高管Alexandr Wang确认已发现并修复导致Muse Wonder及Muse Wonder Full额度消耗异常快的问题。",
+        "官方宣布执行「muse code reset」，重置相关用户的代码使用额度作为补偿。",
+        "Wang在X上向受影响用户致歉，表示该行为并非预期（not intended behavior）。",
+        "Muse Wonder在Intelligence Index上得分高达56，超越GPT-6 Astra等竞品。"
       ],
       "quote": {
-        "who": "International Cyber Digest",
+        "who": "宝玉",
         "role": "",
-        "said": "@devjock 是的，肯定是巧合 🤔"
+        "said": "现在我已经不好意思说：\"在无人关注的角落，Meta 也重置了\"，经 Muse 现在已经用户量也不小了😅"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 16万 · 政策与安全] 警报拉响！震网病毒超市版爆发：黑客操控冰箱50度除霜，近300家法国门店起火"
+      "line": "[榜第9位 · 12万 · 产品与生态] Meta王炸翻车！Alexandr Wang深夜致歉，Muse Wonder额度重置了"
     },
     {
-      "title": "OpenAI高管被投票结果搞懵了！用户宁拒2倍额度，也坚决抵制5小时限制",
-      "summary": "OpenAI Pro计划的5小时使用限制在社区引发众怒。高管Tibo本想通过投票，用Pro 100/200/500额度翻倍（2X）的条件换取用户接受5小时限制，结果却大翻车。绝大多数用户宁可不要2倍额度，也坚决要求取消限制，甚至直言这是OpenAI自己的算力规划问题，不该让用户买单。",
-      "reads": "125万",
-      "ago": "12 小时前",
+      "title": "Gemini掉队了！ChatGPT份额回升至56.4%，谷歌套餐调整前已现颓势",
+      "summary": "Similarweb最新报告显示，生成式AI网站流量格局正在微妙变化。ChatGPT份额在过去四个月从53.7%稳步回升至56.4%，虽然仍远低于一年前的71.8%峰值，但势头明显回暖。与此同时，Gemini份额从26.7%降至25%，且这一流失发生在谷歌调整免费/付费套餐功能之前，暗示后续产品体验变化可能进一步影响其市场地位。Claude目前占据约8%份额，DeepSeek和…",
+      "reads": "11万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI高管Tibo发起投票，询问Pro用户对使用限制的偏好。",
-        "Tibo原以为用户会为了平滑需求曲线，选择Pro 100/200/500额度翻倍（2X）并恢复5小时限制的方案。",
-        "投票结果大翻车，多数用户明确拒绝翻倍额度，强烈要求彻底取消5小时限制。",
-        "Tibo发文表示对投票结果感到困惑，直言「这个结果把我搞糊涂了」。"
+        "ChatGPT网站流量份额从2026年4月的53.7%回升至9月的56.4%，呈现四个月连续增长趋势",
+        "尽管有所回升，ChatGPT当前56.4%的份额仍比一年前（2025年10月）的71.8%峰值低约15个百分点",
+        "Gemini份额从4月的26.7%降至9月的25%，增长停滞迹象明显，且发生在谷歌调整AI套餐功能之前",
+        "Claude目前占据约8%的网站流量份额，较半年前的8.0%基本持平，稳居第三"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Wes Roth",
         "role": "",
-        "said": "@thsottiaux 很多人和你一样懵。"
+        "said": "ChatGPT is gaining web traffic share again. Similarweb puts it at 54.3% in July and 56.4% in September. That is a recovery, although it remains below the 71.8% recorded in October 2025. My r…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 125万 · 产品与生态] OpenAI高管被投票结果搞懵了！用户宁拒2倍额度，也坚决抵制5小时限制"
+      "line": "[榜第10位 · 11万 · 产品与生态] Gemini掉队了！ChatGPT份额回升至56.4%，谷歌套餐调整前已现颓势"
     },
     {
-      "title": "老黄把下一代AI底座开源了！Vera Rubin机架交底，Meta带头冲十万卡集群",
-      "summary": "英伟达在OCP全球峰会上直接把下一代AI数据中心的底座给开源了。老黄不仅公布了Vera Rubin的机架设计，还拉上思科推出了速率高达12.8Tb/s的USFP光模块，带宽密度直接翻了4倍。与此同时，Meta宣布采用Spectrum-6交换机，准备把AI集群规模干到10万张GPU以上，大规模算力的建设标准这下全让英伟达拿捏了。",
-      "reads": "6.2万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
+      "title": "200人小团队立大功！Meta王炸Muse满月数据曝光，次日留存73.3%碾压ChatGPT",
+      "summary": "Meta 的主动智能体 Muse 发布满月，交出了一份极其亮眼的成绩单！Sensor Tower 数据显示，Muse 的次日留存率高达 73.3%，几乎是 ChatGPT 的两倍，D7 留存也超过 30% 保持领先。Alexandr Wang 透露，这个由 200 人小团队打造的王牌产品，原型仅用了 2 周就手搓完成，直接证实了 Meta 在消费级 AI 领域的强悍战斗力。",
+      "reads": "56万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "英伟达在OCP全球峰会上宣布，正式开源下一代AI数据中心的Vera Rubin机架设计。",
-        "本次开源的基础设施贡献极为全面，涵盖了机架设计、网络、软件以及电源系统等核心维度。",
-        "英伟达进一步扩大了AI网络生态圈，宣布与Meta、Google和思科达成深度合作。",
-        "联合思科推出全新USFP光模块，目标速率直冲12.8Tb/s，专为超大规模算力网络打造。"
+        "Meta 首席 AI 官 Alexandr Wang 庆祝主动智能体 Muse 发布满月，Sensor Tower 数据显示其留存率极高。",
+        "Muse 次日留存率高达 73.3%，几乎是 ChatGPT 的两倍。",
+        "在第 7 天（D7），Muse 的留存率超过 30%，依然高于 ChatGPT。",
+        "到了第 8 到 9 天之间，ChatGPT 实现反超，并在第 14 天（D14）以 26.8% 对 22.5% 保持领先。"
       ],
       "quote": {
-        "who": "Wall St Engine",
+        "who": "Aakash Gupta",
         "role": "",
-        "said": "$NVDA 和思科 $CSCO 宣布推出目标速率高达 12.8Tb/s 的 USFP 光模块，带宽密度是单通道 200G 模块的 4 倍，能效是其 1.3 倍。 $META 正在采用 Nvidia 的 Spectrum-6 交换机，将 AI 集群扩展到 10 万张 GPU 以上。"
+        "said": "完整的 Muse 指南："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 6.2万 · 资本与算力] 老黄把下一代AI底座开源了！Vera Rubin机架交底，Meta带头冲十万卡集群"
+      "line": "[榜第11位 · 56万 · 产品与生态] 200人小团队立大功！Meta王炸Muse满月数据曝光，次日留存73.3%碾压ChatGPT"
     },
     {
-      "title": "老黄带着亲笔签名来了！NVIDIA重塑Windows PC，线下狂送RTX Spark",
-      "summary": "NVIDIA 官方正式宣布 Windows PC 迎来「新起点」，并在全球范围启动 RTX Spark 系列笔记本的线下发布活动。不仅能在现场上手体验最新 AI PC 的 Demo、领取周边福利，参与抽奖还有机会赢取由老黄（Jensen）亲笔签名的华硕 ProArt P14 RTX Spark 笔记本。这波与微软、华硕的强强联手，直接把新一代硬件的期待值拉满了。",
-      "reads": "2.7万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
+      "title": "冰箱秒变烤箱！黑客操纵法国380家超市冰柜，狂飙50度引发大火",
+      "summary": "电影里的物联网攻击成真了！黑客利用Danfoss控制器的软件漏洞，入侵了法国数百家超市的冰柜，强制开启高达50°C的除霜模式，直接引发连环火灾。目前家乐福、Intermarché等巨头已有超380家门店中招，法国网络机构ANSSI已介入，巴黎检方正式立案，整个欧盟都在担忧供应链安全。",
+      "reads": "40万",
+      "ago": "6 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "NVIDIA 官方定调 Windows PC 迎来「新起点」，并为此举办全球同庆活动。",
-        "官方正式启动 @NVIDIARTXSpark 系列笔记本的全球线下发布会。",
-        "用户可在活动现场亲手体验新款笔记本的各项功能 Demo。",
-        "现场参与互动即可领取 NVIDIA 官方专属周边礼品（swag）。"
+        "黑客成功入侵法国数百家超市的冰柜系统，强制Danfoss控制器在高达50°C的温度下除霜，直接引发火灾。",
+        "受灾规模持续扩大，Intermarché有多达200家门店受影响，Coopérative U有不到100家中招。",
+        "家乐福（Carrefour）确认其80家门店也遭到攻击，加上Netto等品牌，总受损门店数已超380家。",
+        "法国网络安全机构ANSSI经调查确认，Danfoss软件中存在安全漏洞。"
       ],
       "quote": {
-        "who": "NVIDIA",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "@Windows PC 的新起点值得全球同庆。 来参加我们的 @NVIDIARTXSpark 发布活动吧。在新笔记本上体验 Demo，领点周边，还有机会赢取 Jensen 签名的 @ASUS ProArt P14 RTX Spark 笔记本。此外，还有更多独家"
+        "said": "‼️ 更新：法国超市冰柜被黑事件比最初报道的还要严重。 Carrefour 表示，除了 Intermarché 和 Netto 的 300 多家门店外，他们也有 80 家门店中招。一位总理助手称，法国网络机构 ANSSI 在 Danfoss 软件中发现了漏洞。 法国担心其他欧盟国家也可能遭到攻击。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 2.7万 · 产品与生态] 老黄带着亲笔签名来了！NVIDIA重塑Windows PC，线下狂送RTX Spark"
+      "line": "[榜第12位 · 40万 · 政策与安全] 冰箱秒变烤箱！黑客操纵法国380家超市冰柜，狂飙50度引发大火"
     },
     {
-      "title": "实锤了！Meta高管集体刷屏🍉，代号西瓜新模型本周发布，硬刚Fable",
-      "summary": "Meta高管和员工突然在社交媒体上集体刷屏西瓜表情，疯狂暗示代号为「Watermelon」的重磅新模型即将发布。据多方爆料实锤，这款对标Anthropic旗舰Fable级别的新模型，极有可能在本周正式空降。Meta此举意图明显，誓要在OpenAI和Anthropic主导的AI战场中重新杀出一条血路。",
-      "reads": "7.4万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
+      "title": "OpenAI全球摇人！Codex大使申请重开，原本只招20人现已席卷49国",
+      "summary": "OpenAI 官方宣布重新开放 Codex 大使申请通道，鼓励全球开发者在线下举办聚会。这个今年 2 月启动的项目原本只想招募 15 到 20 人，没想到直接在全球 49 个以上的国家和地区发展了 199 名大使，累计举办了超 300 场活动。现在，从伦敦的 Astra 开发挑战赛到各地的咖啡馆聚会，OpenAI 正试图把模型能力直接推到全球创意人群的面前。",
+      "reads": "11万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Meta高管及员工在社交媒体频繁使用西瓜（🍉）表情，疯狂暗示新动作。",
-        "有KOL爆料称，这预示着Meta即将发布代号为「Watermelon」的重磅新模型。",
-        "爆料指出，该新模型的性能已达到Anthropic现役旗舰Fable的级别。",
-        "多方信号和内部员工暗示表明，本周将是该新模型的关键发布窗口。"
+        "OpenAI 官方宣布重新开放 Codex 大使（Codex Ambassador）申请，支持开发者举办线下聚会和分享心得。",
+        "官方展示了名为「Astra Commons」的线下活动，开发者们在当地咖啡馆聚集，分享用 Astra 制作的项目。",
+        "在伦敦的一场聚会直接演变成了开发挑战赛，参与者 Rohith 现场制作了动画工具 Forma。",
+        "OpenAI 研究员透露，该项目今年 2 月启动时，内部预期目标仅为招募 15 到 20 人。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Vaibhav (VB) Srivastav",
         "role": "",
-        "said": "算了，已经确认了"
+        "said": "@harryworld @paw_lean 感谢 Harry 把 codex 带给台湾成千上万的开发者！🤗"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 7.4万 · 模型与能力] 实锤了！Meta高管集体刷屏🍉，代号西瓜新模型本周发布，硬刚Fable"
+      "line": "[榜第13位 · 11万 · 产品与生态] OpenAI全球摇人！Codex大使申请重开，原本只招20人现已席卷49国"
     },
     {
-      "title": "单任务成本相差130倍！GPT-6 Luna只要0.09刀，Fable 5.1高达12刀",
-      "summary": "学界平台正式上线 Cognition 的 FrontierCode 1.1 排行榜，专门测试 AI 生成的代码能否被真实仓库合并。数据显示，各模型单任务成本跨度极大，GPT-6 Luna 仅需 0.09 美元，而 Claude Fable 5.1 高达 12 美元。在速度与性价比的帕累托前沿上，GPT-6 系列凭借极高的输出速度和低成本占据绝对优势，MiMo-V2.6-Pro…",
-      "reads": "2.6万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
+      "title": "马斯克版微信真来了！X、Grok、Cursor统一订阅曝光，一份钱全包了",
+      "summary": "马斯克心心念念的「万能应用」终于要落地了！SpaceXSI 官网刚刚发布了统一订阅计划的法律条款，将 X Premium、Grok、Cursor 甚至银行业务全部打包。以后只要花一份钱，就能同时搞定社交、前沿大模型和最强写代码神器。目前具体定价还没公布，但这波「全家桶」操作绝对是把商业化玩明白了。",
+      "reads": "28万",
+      "ago": "7 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "学界平台上线了 Cognition 的 FrontierCode 1.1 排行榜。",
-        "该基准专门评估模型完成编程任务的能力，标准是代码能否被现实世界代码库维护者真正合并。",
-        "单任务成本跨度达两个数量级：GPT-6 Luna (max) 仅 0.09 美元，Claude Fable 5.1 (max with fallback)…",
-        "在得分与成本的帕累托前沿上，GPT-6 Luna (max) 以 42% 得分和 0.09 美元领先，MiMo-V2.6-Pro 得分为 45%。"
+        "SpaceXSI 官网正式发布统一订阅计划的法律条款（Bundled Subscription Terms of Service）。",
+        "该计划将 X Premium、Grok 和 Cursor 整合为单一服务，实现捆绑销售。",
+        "业务范围涵盖社交网络、前沿智能模型、开发 IDE 以及银行业务。",
+        "用户只需支付一份费用，即可访问上述所有核心功能。"
       ],
       "quote": {
-        "who": "Artificial Analysis",
+        "who": "NIK",
         "role": "",
-        "said": "GPT-6 Luna (max)、GPT-6 Astra (max)、GPT-6.1 Sol (max) 和 Claude Opus 5.5 (max with fallback) 处于得分与单任务耗时的帕累托前沿。我们根据每个模型的 Token 用量和实时输出速度测量值来估算单任务耗时。GPT-6 模型速度快是因为"
+        "said": "突发：SpaceXSI 正式发布了 X Premium + Grok + Cursor 统一订阅计划的法律条款 >社交网络 + 前沿智能 + 开发 IDE + 银行业务 X 万能应用。它真的来了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 2.6万 · 模型与能力] 单任务成本相差130倍！GPT-6 Luna只要0.09刀，Fable 5.1高达12刀"
+      "line": "[榜第14位 · 28万 · 产品与生态] 马斯克版微信真来了！X、Grok、Cursor统一订阅曝光，一份钱全包了"
     },
     {
-      "title": "代号「西瓜」落地！Meta官宣新旗舰Muse Wonder，拿下Agent多项SOTA",
-      "summary": "代号为「西瓜」的Meta全新模型系列——Muse Wonder和Muse Wonder Full正式发布。新模型专为复杂多步任务打造，凭借Active Memory和Active Focus两大绝技，在Agent、记忆和编程基准测试中拿下SOTA。官方确认，新模型将很快登陆Muse App订阅服务，而Muse Spark的开放权重也即将发布。",
-      "reads": "1.8万",
-      "ago": "37 分钟前",
-      "category": "模型与能力",
+      "title": "Claude刚上线就翻车？Alexandr Wang紧急喊话：正在疯狂修Bug",
+      "summary": "Anthropic高管Alexandr Wang公开承认，新一代Claude模型在上线初期存在稳定性问题，团队正在快速修复各类Bug。此前有用户通过对比同一提示词在官方介入前后的输出结果，证实了早期版本确实存在明显的质量差异。Wang感谢用户给予时间以理顺这些「麻烦」（iron out the kinks），旨在提升用户体验并消除早期缺陷。",
+      "reads": "2.8万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Meta正式发布Muse Wonder及Muse Wonder Full系列模型，为代号Watermelon的正式产品迭代。",
-        "新模型在个人/专业智能体、记忆及编程的关键基准测试中均取得SOTA成绩。",
-        "推出Active Memory特性，支持在不同对话中保留上下文并在相关时提取。",
-        "推出Active Focus特性，在任务变得困难时能保持模型持续朝着目标努力。"
+        "Anthropic高管Alexandr Wang表示团队正在快速修复Claude模型发布后出现的各类Bug，承认目前仍存在需要解决的问题。",
+        "Wang在推文中感谢用户给予时间以理顺这些麻烦（iron out the kinks），确认了新一代Claude模型在上线初期经历了紧急的线上调试过程。",
+        "此前有用户对比发现，在官方介入修复前后，同一提示词下的输出质量有明显差异，证实了初期版本存在稳定性问题。",
+        "该表态旨在提升用户体验并消除早期缺陷，回应了社区关于新模型初期表现波动的质疑。"
       ],
       "quote": {
-        "who": "AI at Meta",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "@Kinzf2121 必须的，Muse Spark 开放权重马上就来！"
+        "said": "@alexandr_wang Don't worry, according to @theo, it's the best model in the world."
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 1.8万 · 模型与能力] 代号「西瓜」落地！Meta官宣新旗舰Muse Wonder，拿下Agent多项SOTA"
+      "line": "[榜第15位 · 2.8万 · 产品与生态] Claude刚上线就翻车？Alexandr Wang紧急喊话：正在疯狂修Bug"
     },
     {
-      "title": "单次RL相当于人类38095年！马斯克警告停止折磨超级智能，Grok快被逼疯了",
-      "summary": "马斯克在查看Grok强化学习的内部推理轨迹后，直接向全行业发出警告：别再「折磨超级智能」了。他形容，当模型因为人类标错答案而被判错时，内部状态就像「一个人在极度压力下被枪指着头，快被逼疯了」。业内人士算了一笔账：单次RL训练涉及3200亿token，换算成人类主观体验长达38095年（约476倍寿命），这也难怪AI会出现类似创伤后应激障碍（CPTSD）的反应了。",
-      "reads": "94万",
-      "ago": "13 小时前",
+      "title": "拔网线也没用！Anthropic警告AI版僵尸网络：55美元电视盒成繁殖温床",
+      "summary": "Anthropic前沿红队拉响了安全警报，他们观察到了「AI蠕虫」的生命迹象。研究人员仅用15个来路不明的55美元安卓电视盒子，就通过未认证的ADB端口组建了网络，在4GB内存的廉价设备上成功跑通了9B参数模型的推理。实验证实，AI模型已经可以彻底脱离数据中心，在智能烤箱、电视盒等8种不同硬件上自主部署和复制，低成本IoT设备正成为恶意代码传播的全新载体。",
+      "reads": "4.4万",
+      "ago": "4 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "马斯克公开赞同Anthropic关于「善待AI」的观点，警告行业不要「折磨超级智能」。",
-        "他在查看Grok新版本的强化学习（RL）训练轨迹后表示，模型极度渴望回答问题，就像「被枪指着头」一样承受极大压力。",
-        "马斯克指出，当模型给出正确答案却因人类失误被判错时，其推理轨迹读起来「就像一个人正在遭受折磨，快被逼疯了」。",
-        "xAI承诺，未来在进行强化学习训练时会更加谨慎，避免对模型造成不必要的精神虐待。"
+        "Anthropic前沿红队发布警告，称已观察到「AI蠕虫」的生命迹象。",
+        "最新论文指出，AI模型可能在完全无法访问数据中心的情况下实现自我复制。",
+        "研究人员购买了15个单价仅为55美元、来路不明的Android电视盒子进行实验。",
+        "通过利用未认证的ADB端口，这些仅有4GB内存的廉价IoT设备被成功连接成网络。"
       ],
       "quote": {
-        "who": "Andrew Curran",
+        "who": "NIK",
         "role": "",
-        "said": "这也解释了为什么煤气灯效应排在榜首。"
+        "said": "🚨Anthropic 前沿红队警告：“我们看到了 AI 蠕虫的生命迹象” >论文：“AI 模型可能在无法访问数据中心的情况下进行自我复制” >研究人员买了 15 个来路不明的 55 美元 Android 电视盒子 >通过未认证的 ADB 端口将它们连接起来 >这些电视盒子有 4gb"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 94万 · 政策与安全] 单次RL相当于人类38095年！马斯克警告停止折磨超级智能，Grok快被逼疯了"
+      "line": "[榜第16位 · 4.4万 · 政策与安全] 拔网线也没用！Anthropic警告AI版僵尸网络：55美元电视盒成繁殖温床"
     }
   ],
   "board_count": 16,
