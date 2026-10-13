@@ -3,15 +3,115 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-13 18:26:02 +0800",
-  "today": "10/13",
+  "fetched_at": "2026-10-14 02:10:24 +0800",
+  "today": "10/14",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "谷歌Gemini 4 Argon今夜全球突袭！皮查伊直接放货，Keras之父盛赞",
+      "summary": "不再是传闻和代码泄露，谷歌下一代旗舰真的来了！Google CEO Sundar Pichai 正式宣布，前沿新模型 Gemini 4 Argon 即日起面向全球开放上线。开发者与企业付费层级用户可通过 Gemini API 直接调用，消费端同步覆盖了 Google Antigravity 的 Ultra 用户，以及 Gemini 应用和 Search 的 Ultra 与 Pr…",
+      "reads": "49万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Google 正式面向全球发布新一代前沿模型 Gemini 4 Argon，标志着 Gemini 4 系列旗舰步入商业落地与公众服务阶段。",
+        "Google 首席执行官 Sundar Pichai 亲自官宣，Gemini 4 Argon 即日起全球同步上线。",
+        "面向企业与开发者：Gemini API 及 Gemini 平台付费层级即刻全面开放接入。",
+        "面向普通订阅用户：Google Antigravity 的 Ultra 订阅者，以及 Gemini 应用与 Search 的 Ultra 和 Pro 订阅者…"
+      ],
+      "quote": {
+        "who": "François Chollet",
+        "role": "",
+        "said": "恭喜发布！看起来是个非常惊艳的模型。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 49万 · 模型与能力] 谷歌Gemini 4 Argon今夜全球突袭！皮查伊直接放货，Keras之父盛赞"
+    },
+    {
+      "title": "连夜封杀API蒸馏！Anthropic指控Kimi偷接Claude，全网炸锅了",
+      "summary": "Anthropic官方发文公布反蒸馏防御机制，宣称在遏制针对Claude的模型蒸馏攻击上取得重大进展。报告披露了多起典型案例，直接点名有涉军背景用户曾使用Kimi调取成都数百个监控摄像头追踪人员，而Moonshot被指私下将请求转接至Claude底层。消息引爆行业热议，从业者与研究员一方面质疑GLM 5.3等模型如何能从带护栏的Claude中蒸馏出攻击能力，另一方面炮轰Anth…",
+      "reads": "103万",
+      "ago": "4 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "官方公开防御方案：Anthropic发文宣布，过去几个月在降低针对Claude模型的蒸馏攻击有效性方面取得重大进展，并正式公开了具体的防御机制。",
+        "披露摄像头追踪案例：Anthropic在报告中披露，一名疑似有军方背景的用户曾使用Kimi调用成都数百个监控摄像头追踪人员。",
+        "点名Moonshot底层转接：报告指称Moonshot在上述案例中偷偷将相关请求路由转接到了Claude底层模型。",
+        "模型护栏逻辑遭业内质疑：针对GLM 5.3具备网络攻击能力却没有安全护栏的讨论，业内人士质疑如果源头Claude受到安全护栏保护，这类高危能力根本不可能被蒸…"
+      ],
+      "quote": {
+        "who": "Nathan Lambert",
+        "role": "",
+        "said": "@patchwanders 托管 API 的安全防线经常被攻破，甚至被用于网络攻击等场景，所以到目前为止它并不是个好例子"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 103万 · 政策与安全] 连夜封杀API蒸馏！Anthropic指控Kimi偷接Claude，全网炸锅了"
+    },
+    {
+      "title": "每秒狂飙250Token！实测6.1 Sol ultrafast写代码，体验甩开自家旗舰",
+      "summary": "知名开发者实测发现，OpenAI的6.1 Sol ultrafast模式在编程体验上大幅超越自家旗舰6 Astra。两者成本相当，但Sol凭借推测解码加持，每秒吞吐高达250 TPS（约1300-1700字符/秒，显著超越Opus的900-1100字符/秒），同时保留了旗舰95%的性能水平。实测者强调，日常结对编程与代码重构更看重极速反馈，而不是极限的数学猜想能力。",
+      "reads": "36万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "知名开发者实测指出，6.1 Sol ultrafast在代码任务中的实际体验大幅优于自家旗舰6 Astra，二者调用成本基本相当",
+        "实测速度达到250 TPS（每秒Token数），在推测解码加持下代码生成速度实测达到1300-1700字符/秒",
+        "横向对比显示，Anthropic的Opus在同类任务中速度约为900-1100字符/秒，由于两家分词机制差异较大，测试采用字符速度直接对齐",
+        "性能保留度极高，实测者评估6.1 Sol在日常任务中保留了旗舰Astra约95%的性能表现"
+      ],
+      "quote": {
+        "who": "Peter Steinberger 🦞",
+        "role": "",
+        "said": "@gremlin_sh @thsottiaux 我用自己账号跑了基准测试，确认能对齐结果： Sol/Astra 约 1300-1700 字符/秒 Opus 约 900-1100 字符/秒 现在没法直接比 Token 了，两边差异很大。 波动范围大是因为推测解码大幅提升了代码任务的表现。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 36万 · 模型与能力] 每秒狂飙250Token！实测6.1 Sol ultrafast写代码，体验甩开自家旗舰"
+    },
+    {
+      "title": "深夜突袭！谷歌Gemini 4旗舰正式发布，10万人内测数小时造出全新酶",
+      "summary": "2026年10月14日，Google正式向全球发布新一代超大旗舰模型Gemini 4 Argon，向Gemini API、Gemini App的Pro与Ultra订阅用户，以及Antigravity平台的Ultra用户全面开放。该模型定价为每百万Token输入2美元、输出10美元，发布前经历Google内部超10万人长达一个月的实战测试。在硬核科学突破上，该模型数小时内设计出五…",
+      "reads": "22万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "谷歌正式面向全球发布Gemini 4 Argon，覆盖API、Gemini App（Pro与Ultra用户）及Antigravity Ultra订阅用户。",
+        "API调用定价明确：模型卡显示输入价格为每百万Token 2美元，输出为每百万Token 10美元，发布时间标注为2026年10月14日。",
+        "经过严苛内测：Google研究员透露，Argon在发布前一个月内已由Google内部超过10万人进行了大规模实战检验。",
+        "生物学重大突破：Google科学家借助Gemini 4 Argon在数小时内成功设计出五种新型酶，实验室测试全部证实具备强催化活性。"
+      ],
+      "quote": {
+        "who": "Logan Kilpatrick",
+        "role": "",
+        "said": "@smellytoast6 不，我是手艺人"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 22万 · 模型与能力] 深夜突袭！谷歌Gemini 4旗舰正式发布，10万人内测数小时造出全新酶"
+    },
+    {
       "title": "Cursor并入X订阅！30刀顶旧90刀，Grok编码用量翻倍",
       "summary": "SpaceXAI正式推出The X Subscription，将Grok、Cursor和X Premium整合为五档统一订阅（Free至$200 Ultra）。新套餐主打自家模型高性价比，宣称每美元使用量高于旧版，且Grok模型的编码用量是同等Cursor计划的两倍。现有用户可保留原订阅或切换，目前处于灰度上线阶段并提供限时五折优惠。此举引发关于第三方模型（如Claude）额度…",
-      "reads": "362万",
-      "ago": "2 小时前",
+      "reads": "372万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -21,47 +121,97 @@
         "现有订阅用户可保留当前套餐或切换到The X Subscription，并绑定Grok、Cursor和X账号；目前处于灰度上线阶段（rolling out…"
       ],
       "quote": {
-        "who": "Alex Prompter",
+        "who": "Aakash Gupta",
         "role": "",
-        "said": "@aakashgupta 我坚信 Elon 会统治 AI 竞赛的下一个赛段"
+        "said": "想不被算法过滤看到我的所有观点，订阅我的通讯："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 362万 · 产品与生态] Cursor并入X订阅！30刀顶旧90刀，Grok编码用量翻倍"
+      "rank": 5,
+      "line": "[榜第5位 · 372万 · 产品与生态] Cursor并入X订阅！30刀顶旧90刀，Grok编码用量翻倍"
     },
     {
-      "title": "Meta杀回前沿！Muse Wonder硬刚Astra，小扎：个人超智能来了",
-      "summary": "Meta正式推出代号Watermelon的新模型Muse Wonder及完整版Wonder Full，宣称杀入AI前沿梯队。在Intelligence Index上得分56，超越GPT-6 Astra和Gemini 4 Argon，并在长程编码、法律智能体等8项基准测试中击败Claude Opus 5.5。扎克伯格称这是迈向「个人超级智能」的关键一步，模型已上线Muse Cod…",
-      "reads": "580万",
+      "title": "一口气连砸三款硬件！苹果智能家居全家桶上线：带屏中控HomeView来了",
+      "summary": "苹果一口气放出三款智能家居硬件官方视频，带屏智能中控 HomeView 正式揭开面纱，主打早晨全屋 Siri 联动、日程提醒与食谱检索；与此同时，第四代 Apple TV 4K 与第二代 HomePod mini 同步亮相，前代产品迎来全面换代，苹果客厅与全屋智能硬件矩阵完成了一次性集中换血。",
+      "reads": "72万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "苹果官方正式释出带屏智能家居中控设备 HomeView 的官方发布视频与宣传片，设备在暗光环境中显示时间与家庭合影。",
+        "首发宣传片展示真实家庭晨间场景：用户通过「Hey Siri」直接调取家人发送的吐司食谱、解答日常问题、同步取消拼车改为步行的日程，并进行家庭语音沟通。",
+        "除 HomeView 外，苹果同日发布全新 Apple TV 4K（第四代）官方视频，主打「Stunning picture」画质体验。",
+        "第二代 HomePod mini 官方发布视频同步曝光，画面以动态拉伸的彩条光影「mini」字样为视觉核心，主打音频与小巧形态。"
+      ],
+      "quote": {
+        "who": "Aaron",
+        "role": "",
+        "said": "这是 Apple HomeView 的另一支宣传片"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 72万 · 产品与生态] 一口气连砸三款硬件！苹果智能家居全家桶上线：带屏中控HomeView来了"
+    },
+    {
+      "title": "额度缩水被喷惨！OpenAI高管紧急发声：新方案很快来，全员用量大涨",
+      "summary": "针对近期全球用户遭遇的额度收紧风波，OpenAI 高管 Tibo 紧急发声安抚社区，透露手里已有一个极简新方案，能让所有人的用量额度迎来大幅提升，目前正争取尽快推进上线。面对此前调整引发的满屏吐槽，不少开发者直接在评论区喊话：与其兜圈子留悬念，不如直接把新模型端上来，或者把原来的旧套餐与旧费率还给大家。",
+      "reads": "80万",
       "ago": "6 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 高管 Tibo 公开表态，称好方案往往很简单，自己手中已有一套能让「所有人的用量大幅增加」的新方案，目前正努力尽快完成推进。",
+        "此次发声背景源于 OpenAI 近期在全球范围内对用量限制与调用额度进行收紧，引发全球开发者与重度用户的广泛反弹与成本焦虑。",
+        "面对高管放出的回血预告，部分开发者并不买账，甚至在评论区直接喊话「兄弟，把新模型直接端上来吧」，要求官方尽快交付新模型。",
+        "还有不少用户留言吐槽，直言最简单有效的方案并不是搞花哨机制，而是直接把之前的旧套餐和旧费率原样还给开发者。"
+      ],
+      "quote": {
+        "who": "Nav Toor",
+        "role": "",
+        "said": "@thsottiaux Tibo 太懂怎么留悬念了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 80万 · 产品与生态] 额度缩水被喷惨！OpenAI高管紧急发声：新方案很快来，全员用量大涨"
+    },
+    {
+      "title": "谷歌Gemini 4 Argon全球上线！一句话在Blender搓出超写实日本寺庙",
+      "summary": "Google DeepMind正式宣布新一代前沿模型Gemini 4 Argon在全球范围上线，主打端到端解决编程、企业工作流和网络防御等高难度任务。在官方演示中，团队仅凭单句Prompt配合多Agent循环工作流，就通过无头CLI在Blender中构建出超写实的日本寺庙3D模型。目前Google AI Pro与Ultra订阅者可在Gemini应用及搜索AI Mode中直接体验…",
+      "reads": "11万",
+      "ago": "1 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Meta发布两款新模型：主打速度的Muse Wonder和完整版Muse Wonder Full，内部代号为Watermelon。",
-        "性能表现：Intelligence Index得分56，超越GPT-6 Astra（74.1% DeepSWE）和Gemini 4 Argon；在14项基准…",
-        "核心优势：长程软件工程（DeepSWE v1.1得79.0%）、法律智能体工作（13.1 vs Astra的8.6）和超长代码生成表现突出。",
-        "定价策略：输入4美元/百万token，缓存0.2美元，输出高达20美元/百万token，被KOL吐槽「这可不便宜」。"
+        "Google DeepMind正式在全球范围上线新一代前沿模型Gemini 4 Argon。",
+        "官方定位Gemini 4 Argon专为端到端解决编程、企业工作流和网络防御等最棘手难题而打造。",
+        "DeepMind团队展示了在Antigravity中使用Gemini 4 Argon，依靠单Prompt和多Agent循环工作流，通过无头CLI在Blend…",
+        "团队表示3D建模能严苛检验模型的代码编写能力以及对物理世界的空间理解与即时自我纠错水平。"
       ],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "Google DeepMind",
         "role": "",
-        "said": "@danielmckinn0n 不过核心还是在于数据。"
+        "said": "以下是体验方式： 🔵 普通用户：在 @GeminiApp 以及 Google AI Pro 和 Ultra 订阅用户的搜索 AI Mode 中体验。 🔵 开发者：Gemini API 付费层级，以及面向 Google AI Ultra 订阅用户的 @Antigravity 和 @GoogleAIStudio。 🔵 科学家：可申请最高使用层级"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 580万 · 模型与能力] Meta杀回前沿！Muse Wonder硬刚Astra，小扎：个人超智能来了"
+      "rank": 8,
+      "line": "[榜第8位 · 11万 · 模型与能力] 谷歌Gemini 4 Argon全球上线！一句话在Blender搓出超写实日本寺庙"
     },
     {
       "title": "马斯克亲自下场！Grok上线记忆迁移，Claude/ChatGPT用户直接搬走",
       "summary": "xAI旗下Grok平台推出名为Memory Transfer的新Bot，专门解决用户切换AI助手时的记忆断层痛点。该功能支持将用户在Claude或ChatGPT中沉淀的个人偏好与历史数据直接迁移至Grok，避免重新训练模型的高昂时间成本。马斯克亲自转发推广这一功能，强调其便捷性。此举被视为xAI在生态竞争中对Anthropic和OpenAI用户基数的直接挖角策略，通过降低迁移门…",
-      "reads": "231万",
-      "ago": "4 小时前",
+      "reads": "411万",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,333 +229,183 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 231万 · 产品与生态] 马斯克亲自下场！Grok上线记忆迁移，Claude/ChatGPT用户直接搬走"
+      "rank": 9,
+      "line": "[榜第9位 · 411万 · 产品与生态] 马斯克亲自下场！Grok上线记忆迁移，Claude/ChatGPT用户直接搬走"
     },
     {
-      "title": "小扎酒馆摊牌！Meta新王Muse Wonder，100人干翻GPT-6 Astra",
-      "summary": "扎克伯格和Alexandr Wang在Cheeky Pint播客里把底裤都亮了：Meta新前沿模型Muse Wonder的Intelligence Index得分56，直接超越GPT-6 Astra和Gemini 4 Argon。更炸裂的是，支撑这个模型的Meta前沿研究团队只有约100人，基础设施团队也是约100人。虽然部分开发者吐槽它3D生成拉胯、疑似刷榜，但官方已承认未用…",
-      "reads": "118万",
-      "ago": "3 小时前",
+      "title": "三大巨头同周撞车！谷歌Gemini 4已上线，Fable 5.5与6.1 Astra连环杀到",
+      "summary": "大模型竞赛彻底进入贴身肉搏阶段。监控信息显示，谷歌新一代模型 Gemini 4 Argon 已正式在 Gemini API 实装上线。随后爆料透露，Anthropic 旗舰 Fable 5.5 预计最快本周发布，而 OpenAI 也计划在「28 Days of」活动期间推出 6.1 Astra 予以阻击，三大巨头的新旗舰正在同一时间窗口全面撞车。",
+      "reads": "5.2万",
+      "ago": "56 分钟前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Meta新前沿模型Muse Wonder在Intelligence Index上得分56，超越OpenAI的GPT-6 Astra和Google的Gemin…",
-        "扎克伯格透露Meta前沿研究团队规模仅约100人，基础设施团队也约为100人，展现了极高的人效比。",
-        "Muse Wonder已上线OpenRouter和Arena平台，在多项基准测试中击败了OpenAI和Anthropic的旗舰模型。",
-        "部分开发者批评Muse Wonder是「刷榜模型」且3D生成能力不佳；官方回应称未使用3D游戏数据训练，并已修复额度消耗异常问题。"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": "完整视频见“Cheeky Pint”YouTube频道"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 118万 · 模型与能力] 小扎酒馆摊牌！Meta新王Muse Wonder，100人干翻GPT-6 Astra"
-    },
-    {
-      "title": "Tibo亲自按重启键！Codex全球重置落地，还自掏腰包请吃土豆泥",
-      "summary": "OpenAI研究员Tibo Sottiaux确认，针对Codex产品的「Global reset」（全球重置）已在太平洋时间当日结束前落地。这次操作对现有用户配置或状态进行了全面刷新，旨在解决潜在系统问题并统一环境。Tibo在确认完成后幽默表示请用户选择搭配重置的饮品，甚至自掏腰包提供Mashed Potatoes（土豆泥）作为招待。",
-      "reads": "139万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI研究员Tibo Sottiaux宣布Codex产品的「Global reset」已在太平洋时间当日结束前完成落地。",
-        "该操作涉及对现有用户配置或状态的全面刷新，目的是解决潜在系统问题或统一环境。",
-        "Tibo在确认重置完成后，幽默地询问用户想搭配什么饮品，并自掏腰包提供Mashed Potatoes（土豆泥）。",
-        "这一事件属于产品层面的重大运维动作，直接影响了所有相关用户的当前使用状态。"
-      ],
-      "quote": {
-        "who": "Tibo",
-        "role": "",
-        "said": "Mashed @poteto on the house."
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 139万 · 产品与生态] Tibo亲自按重启键！Codex全球重置落地，还自掏腰包请吃土豆泥"
-    },
-    {
-      "title": "OpenAI研究员放风：简单计划让所有人用量暴涨，疑似恢复旧版低价套餐！",
-      "summary": "OpenAI研究员Thibault Sottiaux在X上透露，他手中有一个「简单」的计划，旨在让所有用户的用量大幅增加。外界猜测这可能意味着恢复旧版订阅套餐及费率。目前具体细节尚未公布，但此举可能引发对现有产品定价和用户权益的重大调整，开发者需关注后续正式公告。",
-      "reads": "35万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI研究员Thibault Sottiaux（@thsottiaux）在X上表示：「好方案往往很简单。我手里有一个，应该能让所有人的用量大幅增加。」",
-        "该计划被外界猜测可能与恢复旧版订阅套餐及费率有关，旨在提升用户活跃度或满意度。",
-        "Sottiaux称希望很快能搞定这一计划，暗示调整可能即将落地。",
-        "目前具体实施时间和内容尚未公布，属于官方人员的初步预告。"
+        "谷歌新模型实装：API 监控工具确认，Gemini API 端点已正式上线「gemini-4-argon」模型。",
+        "Anthropic 预计本周交卷：爆料消息透露，Anthropic 旗舰新版 Fable 5.5 预计最快本周发布，甚至不排除日内直接突袭。",
+        "OpenAI 备战 6.1 Astra：面对两家动作，OpenAI 计划在接下来的「28 Days of」活动期间正式推出 6.1 Astra 予以迎击。",
+        "圈内多方交叉印证：多位跟踪模型动态的业内人士表示爆料信源可靠度高，Fable 5.5 已经非常临近实装。"
       ],
       "quote": {
         "who": "Chubby♨️",
         "role": "",
-        "said": "@thsottiaux @AlphaMFPEFM So the plan is to just give us back old plans with old rates? True! Simple as that"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 35万 · 产品与生态] OpenAI研究员放风：简单计划让所有人用量暴涨，疑似恢复旧版低价套餐！"
-    },
-    {
-      "title": "Meta掀桌了！Muse Wonder空降，Intelligence Index 56分硬刚Astra",
-      "summary": "Meta正式甩出代号「Watermelon」的新旗舰 Muse Wonder 及最大推理版 Wonder Full。Intelligence Index 得分56，直接超越 GPT-6 Astra 和 Gemini 4 Argon，SWE-Marathon 更是跑出57.5%的领先成绩。定价输入$4/Mtok、输出$20/Mtok，支持1M上下文，但最强推理版仅限 Muse C…",
-      "reads": "109万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Meta 正式发布新旗舰模型 Muse Wonder（代号 Watermelon）及其最大推理版本 Wonder Full，Intelligence Ind…",
-        "在 SWE-Marathon 等基准测试中表现领先，其中 Muse Wonder Full (xhigh) 以 57.5% 的得分位居榜首，展现出强大的编码…",
-        "官方定价为输入 $4/Mtok、输出 $20/Mtok，支持 1M 上下文窗口；其中 Wonder Full（最大推理）仅限 Muse Code 订阅者使用…",
-        "Alexandr Wang 在播客中强调该模型专为个人及专业 AI 智能体设计，并回应了关于刷榜的质疑，称怀疑者应亲自试用模型并自行判断。"
-      ],
-      "quote": {
-        "who": "AI Notkilleveryoneism Memes ⏸️",
-        "role": "",
-        "said": "这就是制裁机制的作用所在。提高违约成本，直到高到能阻止叛逃者"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 109万 · 模型与能力] Meta掀桌了！Muse Wonder空降，Intelligence Index 56分硬刚Astra"
-    },
-    {
-      "title": "Gemini 4 Argon本周落地！100万Token输出，长程编程77.9%屠榜",
-      "summary": "Google DeepMind的新一代旗舰模型Gemini 4（内部代号Argon）确认本周发布。此前它以Gemini 3.8 Flash的名义在Antigravity平台进行A/B测试，如今正式转正。泄露的内部基准显示，其输出Token上限从64k飙升至100万，并在长篇真实世界编程任务中以77.9%的成绩击败其他顶尖模型，同时在涵盖金融、法律及税务的大型知识工作排名中位列第…",
-      "reads": "17万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "发布时间：本周正式发布，内部代号为Argon，此前曾以Gemini 3.8 Flash名义在Antigravity平台测试。",
-        "核心参数：支持高达100万输出Token，远超之前的64k上限。",
-        "编程能力：在长篇真实世界编程任务中取得77.9%的成绩，击败其他顶尖模型。",
-        "知识工作排名：在涵盖金融、法律、编程及税务的大型知识工作排名中位列第一。"
-      ],
-      "quote": {
-        "who": "leo 🐾",
-        "role": "",
-        "said": "正如我所说！ 祝过节的朋友们Gemini 4 Argon日快乐🍿 我的期望值不高，只要它在世界知识任务上的表现能赶上Gemini 3/3.1 Pro就行"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 17万 · 模型与能力] Gemini 4 Argon本周落地！100万Token输出，长程编程77.9%屠榜"
-    },
-    {
-      "title": "250 TPS！OpenAI新推Sol极速模式，同价碾压自家旗舰Astra",
-      "summary": "OpenAI 正式上线 GPT-6.1 Sol Ultrafast 模式，实测吞吐量高达 250 TPS。在成本与旗舰 GPT-6 Astra 相近的情况下，其速度优势让它在非时间紧迫的重构任务中表现远超后者。不过研究员指出，该模式性能约为常规模式的 95%，适合编排器分配的中低难度任务，高难推理仍需使用 High 档位。",
-      "reads": "30万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 发布 GPT-6.1 Sol Ultrafast 模式，实测吞吐量达到 250 TPS（每秒 Token 数）。",
-        "研究员 @steipete 指出，在成本相近的情况下，Sol Ultrafast 的体验远超旗舰模型 GPT-6 Astra。",
-        "该模式主要优势在于低延迟，适合非时间紧迫的重构工作或编排器分配的中低难度任务。",
-        "部分用户反馈 Sol Ultrafast 的性能与常规模式存在约 95% 的相似度，暗示其绝对智力上限未变。"
-      ],
-      "quote": {
-        "who": "Peter Steinberger 🦞",
-        "role": "",
-        "said": "@divyansh_token some work is very much pairing, some is low prio refactor. both modes useful"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 30万 · 模型与能力] 250 TPS！OpenAI新推Sol极速模式，同价碾压自家旗舰Astra"
-    },
-    {
-      "title": "Meta王炸翻车！Alexandr Wang自曝：没拿3D游戏训练，团队都傻了",
-      "summary": "Meta高管Alexandr Wang罕见自爆：Muse Wonder发布时并未显式使用3D演示游戏进行训练。尽管该模型在Intelligence Index上以56分超越GPT-6 Astra和Gemini 4 Argon，但在Minecraft等3D环境实测中表现远逊于Opus 5.5。Wang强调这是代码模型，呼吁用户在实际编程工作中评估，而非仅看视觉演示。",
-      "reads": "66万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Meta高管Alexandr Wang承认Muse Wonder未显式使用3D演示游戏进行训练，称团队事后看来应该做这方面工作。",
-        "Muse Wonder在Intelligence Index得分56，超越OpenAI的GPT-6 Astra和Google的Gemini 4 Argon。",
-        "开发者实测显示，在Minecraft等3D环境中，Anthropic的Opus 5.5全方位碾压Meta Muse Wonder。",
-        "Alexandr Wang回应质疑时强调Muse Wonder是代码模型，建议在实际编程工作中评估而非仅看3D演示。"
-      ],
-      "quote": {
-        "who": "Chris",
-        "role": "",
-        "said": "我也很喜欢看你的帖子！"
+        "said": "起初慢慢来，接着在一瞬间全爆发了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 66万 · 模型与能力] Meta王炸翻车！Alexandr Wang自曝：没拿3D游戏训练，团队都傻了"
+      "line": "[榜第10位 · 5.2万 · 模型与能力] 三大巨头同周撞车！谷歌Gemini 4已上线，Fable 5.5与6.1 Astra连环杀到"
     },
     {
-      "title": "削减Claude用量原因找到了！微软超100万颗自研芯片硬刚英伟达",
-      "summary": "微软CEO Satya Nadella刚刚宣布了公司史上最大的自研芯片押注，计划从明年起将Azure Maia家族扩展到多吉瓦规模部署，预计部署量超100万颗。全新推出的Maia 300基于台积电2nm级工艺，将于2027年正式上线，其每兆瓦Token产出比领先GPU系统高出40%，机架吞吐量狂飙7倍。这一动作不仅意在大幅降低对英伟达和AMD的依赖，更被外界视为微软近期削减Cl…",
-      "reads": "186万",
-      "ago": "10 小时前",
-      "category": "资本与算力",
+      "title": "反超Claude 5.1！Meta最强Agent模型曝光，小扎曾被警告：搞砸财务就完蛋",
+      "summary": "Meta正式官宣专为个人与专业Agent打造的前沿模型Muse Wonder及Muse Wonder Full。在AA Intelligence Index榜单上，Muse Wonder Full以56分超越得分约53分的Claude Fable 5.1，仅次于58分的Opus 5.5，核心主打跨对话记忆偏好细节的Active Memory能力。伴随新模型曝光，Meta前沿实验…",
+      "reads": "7.7万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "微软CEO Satya Nadella宣布史上最大自研芯片押注，计划从明年起将Azure Maia家族扩展到多吉瓦规模部署。",
-        "全新Maia 300芯片基于台积电2nm级工艺，预计将于2027年推出，成为微软自家产品和服务的主要推理系统。",
-        "性能方面，Maia 300每兆瓦Token产出比领先的GPU系统高出40%，96芯片机架吞吐量最高达前代Maia 200的7倍。",
-        "上一代Maia 200目前已在美、欧、澳等地区运行生产负载，为Teams和Copilot等产品提供算力支持。"
+        "Meta正式推出专为Agent打造的前沿模型Muse Wonder与Muse Wonder Full两款新品。",
+        "在AA Intelligence Index榜单中，Muse Wonder Full拿下56分，反超53分的Claude Fable 5.1，全榜仅次于58…",
+        "模型核心搭载Active Memory能力，能够跨越不同对话长久记住用户的偏好与细节。",
+        "Alexandr Wang首次曝出夏威夷团建内幕：Meta CFO Susan Li曾多次私下警告他，模型如果搞砸，财务后果将极其严重（very, very…"
       ],
       "quote": {
-        "who": "Wes Roth",
+        "who": "SuSu_酥酥",
         "role": "",
-        "said": "Microsoft 宣布推出 Azure Maia 300，将于 2027 年开始投入生产部署。 公司计划将 Maia 芯片家族的算力规模扩展到数千兆瓦（gigawatts），并让其成为 Microsoft 产品和服务背后的主力推理系统。 Microsoft 预计 Maia 300 将"
+        "said": "@zhongxingyuyes Meta算是一开始落后，所以有压力的"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 186万 · 资本与算力] 削减Claude用量原因找到了！微软超100万颗自研芯片硬刚英伟达"
+      "line": "[榜第11位 · 7.7万 · 模型与能力] 反超Claude 5.1！Meta最强Agent模型曝光，小扎曾被警告：搞砸财务就完蛋"
     },
     {
-      "title": "小扎亲口曝Meta内部惊悚一幕！CFO多次警告Wang：模型搞砸，财务上会非常、非常惨",
-      "summary": "小扎在播客里罕见透露Meta内部高压时刻：CFO Susan Li在夏威夷闭门会上多次警告Alexandr Wang，若Muse Wonder失败财务后果将极其严重。尽管外界质疑「社交+数据」组合能否建前沿实验室，小扎表示在与各家AI负责人交流后，坚信Wang是最佳人选。此外，他还预测Meta眼镜将成为纯多模态产品，甚至可能取消应用商店，由AI直接在视野中生成内容。",
-      "reads": "41万",
-      "ago": "8 小时前",
-      "category": "组织与人事",
+      "title": "4个月暴涨12倍！Anthropic自研「Agent版Git」：人类基础设施被干崩了",
+      "summary": "AI 疯狂写代码，终于把人类的基础设施挤爆了。Anthropic 官方工程博客宣布，正全力打造自研版本控制系统。内部数据显示，其代码日合并量从 5 月份的约 2500 次暴增至 9 月份的超 30000 次，足足涨了 12 倍；由于大量提交直接由 AI 智能体完成，专为人类工程师设计的工具链遭遇严重瓶颈，不得不从底层彻底重写。",
+      "reads": "5.4万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Alexandr Wang透露，在夏威夷高管闭门会上，Meta CFO Susan Li多次将他拉到一边警告：如果模型不成功，财务上会「非常、非常糟糕」。",
-        "小扎表示，尽管外界质疑社交媒体背景能否构建前沿实验室，但他在与所有AI实验室负责人交流后，坚信Wang是建立Meta前沿实验室的「那个人」（the guy）…",
-        "小扎预测Meta眼镜最终将成为纯多模态产品，可能不再设有应用商店，而是通过AI直接在用户视野中生成所需内容。",
-        "小扎指出自持数据中心具有财务优势：GPU完全折旧后仍可继续使用，且由于算力紧缺，H100的价值甚至比去年更高。"
+        "代码日合并量 4 个月暴涨 12 倍：Anthropic 内部每日代码变更合并次数从 2026 年 5 月的约 2500 次，飙升至 9 月的超过 3000…",
+        "提交主体彻底逆转：合并请求激增的核心原因在于大量代码变更是由 AI 智能体自动发起，而非人类工程师手动提交。",
+        "人类规模工具链遭遇死穴：Anthropic 直言，现存为人类开发者规模构建的代码托管与版本控制基础设施，已经无法承受 agent 级别的高并发吞吐。",
+        "官方启动底层重构：为了消除吞吐瓶颈，Anthropic 正式立项打造专属的自研版本控制系统（in-house source control），全面适配智能体…"
       ],
       "quote": {
-        "who": "Fireside Alpha",
+        "who": "Anthropic",
         "role": "",
-        "said": "Meta 副总裁 Jagjit Chawla 透露，仅凭一位 IC10 级别的产品经理，就能决定 Meta 全公司数千亿美元算力资源的分配大权 “我们楼里确实有几位已经达到 IC10 级别了。比如，我不提具体名字，但他们是"
+        "said": "工程博客上新：打造自研版本控制系统。 5月份，我们每天大概合并 2500 次代码变更；到了 9 月，每天合并超过 30000 次。结果就是，专为人类（而非智能体）规模构建的开发者基础设施成了我们的瓶颈。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 41万 · 组织与人事] 小扎亲口曝Meta内部惊悚一幕！CFO多次警告Wang：模型搞砸，财务上会非常、非常惨"
+      "line": "[榜第12位 · 5.4万 · 产品与生态] 4个月暴涨12倍！Anthropic自研「Agent版Git」：人类基础设施被干崩了"
     },
     {
-      "title": "谷歌Gemini 4 Argon今日空降！Ultra用户先尝鲜，Pro还得再等",
-      "summary": "爆料账号 @testingcatalog 声称谷歌已正式确认 Gemini 4 Argon 今日面向 Ultra 订阅用户上线。这一消息源于谷歌高管 Logan Kilpatrick 仅发布「Gemini」一词的推文，被解读为新品发布的信号。虽然评论区有 KOL 调侃这同时也证实了 Anthropic Fable 5.5 将在两小时后发布，但这属于无关的玩梗或误读，核心焦点仍是…",
-      "reads": "3.9万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "title": "带屏版HomePod杀到！苹果299美元发布HomeView，智能家居中枢变天了",
+      "summary": "苹果在智能家居赛道砸出重磅硬件，正式发布售价299美元的带屏智能设备HomeView。新品主打面部识别展示个性化内容，并打通FaceTime与苹果原生生态，与新款Apple TV、HomePod mini一共三款新品同日开启预购。开售节奏上，HomePod mini将于10月30日率先开卖，而HomeView与因临时调整延期的Apple TV则双双定档11月13日发售。",
+      "reads": "20万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "爆料账号 @testingcatalog 声称谷歌已正式确认 Gemini 4 Argon 今日面向 Ultra 订阅用户上线。",
-        "消息源头是谷歌高管 Logan Kilpatrick 发布仅含「Gemini」一词的推文，被 AI News 账号引用证实。",
-        "KOL @alex_prompter 在评论区调侃称这也证实了 Anthropic Fable 5.5 将在两小时后发布，但这属于玩梗或误读。",
-        "Gemini 4 Argon 是未列入现役版本表的模型名称，此次发布计划针对 Ultra 用户。"
+        "苹果官宣推出全新智能带屏设备HomeView，官方售价定为299美元",
+        "HomeView配备屏幕并支持面部识别功能，可针对不同家庭成员展示个性化定制内容",
+        "新品原生深度整合FaceTime通话及多款Apple原生应用程序，主打家庭控制中心",
+        "除HomeView外，苹果同日端出新款Apple TV与HomePod mini，三款智能家居新品即日起同步开启预购"
       ],
       "quote": {
-        "who": "Alex Prompter",
+        "who": "Mark Gurman",
         "role": "",
-        "said": "@testingcatalog 这就实锤了 Fable 5.5 俩小时后就会上线，笑死"
+        "said": "HomeView、新款 Apple TV 和 HomePod mini 今天开启预购。HomeView 要到 11 月 13 日才正式发售。HomePod 10 月 30 日开售。临时变动后，Apple TV 也推迟到 11 月 13 日发售。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 3.9万 · 模型与能力] 谷歌Gemini 4 Argon今日空降！Ultra用户先尝鲜，Pro还得再等"
+      "line": "[榜第13位 · 20万 · 产品与生态] 带屏版HomePod杀到！苹果299美元发布HomeView，智能家居中枢变天了"
     },
     {
-      "title": "Meta王炸翻车！Alexandr Wang深夜致歉，Muse Wonder额度重置了",
-      "summary": "Meta高管Alexandr Wang正式官宣修复Muse Wonder及Muse Wonder Full的额度消耗异常过快问题。此前该故障导致用户配额被非预期地快速耗尽，Wang在X上向受影响用户致歉并确认已解决。作为补偿措施，官方宣布执行「muse code reset」，重置相关用户的代码使用额度。尽管Muse Wonder在Intelligence Index上得分高达…",
-      "reads": "22万",
-      "ago": "8 小时前",
-      "category": "产品与生态",
+      "title": "国际象棋大师坐不住了！Hassabis实测Gemini 4，徒手搓出3D巫师战棋",
+      "summary": "Google DeepMind 掌门人 Demis Hassabis 亲自下场为 Gemini 4 Argon 站台，盛赞其在知识工作、代码编写和 3D 物理建模上的出色表现。团队利用该模型从零打造了一款 3D 巫师国际象棋，令游戏制作人出身的 Hassabis 直呼找回了当年 Amiga 经典《战斗象棋》的感觉。更有内部消息透露团队已拿下最关键的难点，接下来几周还将密集释出重…",
+      "reads": "4.1万",
+      "ago": "46 分钟前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Meta高管Alexandr Wang确认已发现并修复导致Muse Wonder及Muse Wonder Full额度消耗异常快的问题。",
-        "官方宣布执行「muse code reset」，重置相关用户的代码使用额度作为补偿。",
-        "Wang在X上向受影响用户致歉，表示该行为并非预期（not intended behavior）。",
-        "Muse Wonder在Intelligence Index上得分高达56，超越GPT-6 Astra等竞品。"
+        "DeepMind 负责人 Demis Hassabis 公开实测新模型 Gemini 4 Argon，直言其在知识工作与编程领域的体验「令人惊艳」。",
+        "演示中模型展示了强大的物理理解与 3D 建模实力，从零完整构建出一款手持剑盾风格的 3D 巫师国际象棋（Wizard Chess）。",
+        "曾经开发过多款经典游戏的 Hassabis 感慨，这次的 AI 生成效果让他深刻怀念起昔日 Amiga 平台上的神作《战斗象棋》（Battlechess）。",
+        "借着模型代号 Argon（氩）的谐音，身为诺奖得主的 Hassabis 调侃自己想在模型协助下重返实验室，亲手打造一台氩激光器。"
       ],
       "quote": {
-        "who": "宝玉",
+        "who": "Demis Hassabis",
         "role": "",
-        "said": "现在我已经不好意思说：\"在无人关注的角落，Meta 也重置了\"，经 Muse 现在已经用户量也不小了😅"
+        "said": "我太喜欢激光了（小时候超想做这个工作）……特别是氩激光 😀 让我想起了我最喜欢的电影之一里的这个场景：“在氩基质中合成受激溴化物……但这会比太阳还要热” 😂 Val Kilmer 简直太帅了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 22万 · 产品与生态] Meta王炸翻车！Alexandr Wang深夜致歉，Muse Wonder额度重置了"
+      "line": "[榜第14位 · 4.1万 · 模型与能力] 国际象棋大师坐不住了！Hassabis实测Gemini 4，徒手搓出3D巫师战棋"
     },
     {
-      "title": "Mark K放话超级智能周！Meta Muse Wonder 59.1分，硬刚Astra和Opus",
-      "summary": "技术乐观派KOL Mark K发文宣称「超级智能重磅的一周」即将到来。他透露OpenAI产品线中仍有未发布的Astra 6.1，并暗示Grok 4.8即将登场。更关键的是，Meta新模型Muse Wonder在个人超级智能指数上得分59.1，击败了GPT-6 Astra（54.5）和Claude Opus 5.5（55.2）。Mark K借此抨击社区被减速主义者接管，强调技术加…",
-      "reads": "3.1万",
+      "title": "黄仁勋巴黎定调新工业革命：智能正被批量制造！揭秘联手微软死磕4年",
+      "summary": "黄仁勋在巴黎活动现场登台演讲，正式宣告下一场「工业革命」已经打响，其本质正是「智能正在被规模化制造」。老黄不仅重点拆解了AI智能体（AI agents）时代的演进逻辑与DGX spark相关进展，更在现场首度爆料，英伟达与微软的这桩重磅合作，台下足足死磕了整整4年才最终促成。",
+      "reads": "7.1万",
       "ago": "2 小时前",
-      "category": "模型与能力",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "KOL Mark K发文宣称「超级智能重磅的一周」即将到来，力挺五大前沿巨头对抗行业内的末日论与减速主义情绪。",
-        "Mark K在互动中透露，OpenAI产品线中仍有未发布的Astra 6.1（注意：谱系表中现役旗舰为GPT-6 Astra，此处照素材原文写Astra 6…",
-        "Meta新模型Muse Wonder Full在个人超级智能指数上得分59.1，击败了GPT-6 Astra的54.5分和Claude Opus 5.5的5…",
-        "Mark K暗示xAI的Grok 4.8即将登场（谱系表中Grok 4.8为传闻未发布状态，此处照素材写「暗示即将登场」）。"
+        "黄仁勋在巴黎举办的NVIDIA现场活动中登台发表主题演讲，全面阐述算力基础设施与智能体布局。",
+        "提出核心定性观点：人类已正式迈入下一场「工业革命」，而这场革命的本质是「智能正在被规模化制造」。",
+        "重点宣告AI智能体（AI agents）时代全面到来，软硬件协同正在向支撑自主决策的智能体生态倾斜。",
+        "现场披露与关键产品DGX spark相关的推进节奏与最新进展。"
       ],
       "quote": {
-        "who": "Mark Kretschmann",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "@varshith5289n Muse Wonder and Grok 4.8"
+        "said": "欢迎来到下一个“工业革命”时代，“智能正在被规模化制造”。 （Jensen 面对各种小意外都表现得幽默又从容不迫。太绝了。）"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 3.1万 · 模型与能力] Mark K放话超级智能周！Meta Muse Wonder 59.1分，硬刚Astra和Opus"
+      "line": "[榜第15位 · 7.1万 · 产品与生态] 黄仁勋巴黎定调新工业革命：智能正被批量制造！揭秘联手微软死磕4年"
     },
     {
-      "title": "Chollet惊掉硅谷下巴：农业竟是物理世界开源RIS，一个变几百个！",
-      "summary": "Kaggle创始人François Chollet在X上抛出惊人观点：如果向旧金山科技圈解释农业，会让他们震惊。他将农业定义为「物理世界中自我复制、递归式自我改进的纳米技术」，且完全开源。一个农业实例能衍生出数百颗种子，进而产生更多实例，这种机制比许多AI概念更直观地展示了复杂系统的自动化潜力。",
-      "reads": "5.1万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
+      "title": "马斯克放话把最难任务交给AI！Grok Bot一句话自主刷卡，订完里斯本全套行程",
+      "summary": "马斯克在X上公开为Grok Bot站台，呼吁用户把最难的任务通通交给它。有用户实测展示，仅凭一句话指令，Grok Bot就自主完成了调研、行程规划，并直接绑定信用卡刷卡完成了前往里斯本的整套预订。此前马斯克也曾用它成功给孩子下单买乐高玩具，标志着xAI的Bot生态正在从单纯对话迈向具备现实支付和执行闭环的行动Agent。",
+      "reads": "112万",
+      "ago": "10 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "François Chollet（Kaggle创始人）发表观点，称农业是物理世界的「自我复制、递归式自我提升的纳米技术」。",
-        "Chollet强调农业系统具有「开源」特性，一个实例可转化为数百颗种子，进而生成更多实例。",
-        "该言论旨在通过类比突显农业系统的复杂性与自动化潜力，引发关于生物技术与AI概念交叉的思考。",
-        "评论区有用户幽默回应：上一次超级智能物种到来时，覆盖了地球三分之一的土地用于农业，导致动物大规模灭绝。"
+        "马斯克在X平台公开发文喊话，呼吁所有用户「把最难的任务交给 Grok Bot」。",
+        "有用户分享实际测试案例，仅凭一句话简单提示词，Grok Bot便自主完成了去往葡萄牙里斯本的完整行程规划。",
+        "在获得授权前提下，Grok Bot甚至直接调用用户绑定的信用卡自主刷卡，搞定了全套行程预订。",
+        "此前马斯克本人也曾亲测该功能，成功借助 Grok Bot 自主下单购买了乐高玩具。"
       ],
       "quote": {
-        "who": "AI Notkilleveryoneism Memes ⏸️",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "@fchollet 上一次出现超级智能物种时，它用农业覆盖了地球 1/3（！）的土地，导致原住民动物大规模灭绝"
+        "said": "给机器人配上一双灵巧的手是最难的事，而 @naturewill 的 Natura-1 是次强有力的尝试。 Nature Will 用 100 万小时的第一人称视角人类数据训练了他们全新的 Natura-1 人类用手的第一人称视频，然后用来控制真实的"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 5.1万 · 模型与能力] Chollet惊掉硅谷下巴：农业竟是物理世界开源RIS，一个变几百个！"
+      "line": "[榜第16位 · 112万 · 产品与生态] 马斯克放话把最难任务交给AI！Grok Bot一句话自主刷卡，订完里斯本全套行程"
     }
   ],
   "board_count": 16,
