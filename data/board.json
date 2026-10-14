@@ -3,47 +3,72 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-14 07:15:17 +0800",
+  "fetched_at": "2026-10-14 12:44:34 +0800",
   "today": "10/14",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "会议室电视后藏窃听器！OpenAI靠自家模型抓出内鬼主管，FBI火速逮捕",
-      "summary": "谍战大戏在硅谷真实上演。OpenAI 旧金山总部的高管会议室电视机背后，近日被搜出一枚精心改装的隐蔽 Wi-Fi 录音设备，OpenAI 随后直接动用自家 AI 模型展开逆向分析与溯源，火速锁定了几天前安放设备的内鬼。加州北区联邦检察官与 FBI 随即行动，正式逮捕了涉案的 35 岁沙特籍工程主管 Abdulrahman Alfozan 并将其解雇。起诉书中最具戏剧性的一幕显示…",
-      "reads": "446万",
-      "ago": "56 分钟前",
+      "title": "AI自己抓内鬼！OpenAI高管会议室被装窃听器，自家模型逆向破案抓人",
+      "summary": "硅谷顶尖实验室上演现实版商业谍战。OpenAI旧金山总部一间经常讨论核心机密的高管会议室内，近日被发现暗藏精密录音设备。令人称奇的是，OpenAI并未直接报案，而是动用自家的AI模型分析设备特征与采购路径，几天内逆向锁定了作案员工并移交FBI逮捕。美国司法部起诉书解封显示，涉案人为35岁沙特籍工程主管Abdulrahman Alfozan，已被公司解雇。",
+      "reads": "1249万",
+      "ago": "1 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "设备隐蔽藏匿：窃听装置被发现暗藏在 OpenAI 旧金山总部的高管会议室电视机后方，系使用 Seeed Studio 硬件改装的 Wi-Fi 录音设备。",
-        "自家模型破案：OpenAI 官方证实，安保团队利用自家的 AI 模型对硬件来源及安放时间进行了溯源分析，成功锁定了作案员工。",
-        "嫌疑人身份曝光：涉案人员为 35 岁的沙特籍工程主管 Abdulrahman Alfozan，毕业于 MIT，此前曾在 Meta 任职，目前已被 OpenA…",
-        "荒诞作案痕迹：司法部起诉书指出，Alfozan 曾向 AI 详细询问过如何制作和隐藏监听设备以进行远程窃听，疑似在后台留下了查询日志。"
+        "设备隐蔽安放于高管会议室：涉案录音装置被藏在旧金山总部高管会议室的黑色电视机后，该会议室专门用于商讨未发布的前沿研究、产品路线与重大商业决策。",
+        "OpenAI动用自家模型破案：发现设备后，团队使用自研AI模型分析了硬件特征、组件型号及潜在来源路径，成功锁定几天前安放设备的涉案员工。",
+        "嫌疑人身份曝光：被捕者为35岁沙特阿拉伯籍工程主管Abdulrahman Alfozan，拥有MIT学历，曾任职于Meta、微软与SAP，在OpenAI年薪…",
+        "极为业余的隐藏手法：起诉书细节显示，嫌疑人使用白色卫生纸包裹Seeed Studio无线录音硬件，并贴在黑色电视机背后，此前还曾疑似向AI提问如何自制Wi-…"
       ],
       "quote": {
-        "who": "Riley Goodside",
+        "who": "Max For AI",
         "role": "",
-        "said": "@AndrewCurran_ @andastos 我编辑了帖子，因为文章里没说清他是不是在 ChatGPT/Codex 上干的。按照他们的写法，也有可能是从他妻子的 Claude 上发现的"
+        "said": "🚨OpenAI窃听案犯罪嫌疑人照片曝光"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 446万 · 政策与安全] 会议室电视后藏窃听器！OpenAI靠自家模型抓出内鬼主管，FBI火速逮捕"
+      "line": "[榜第1位 · 1249万 · 政策与安全] AI自己抓内鬼！OpenAI高管会议室被装窃听器，自家模型逆向破案抓人"
     },
     {
-      "title": "皮查伊深夜交卷！谷歌Gemini 4首发登场：准确率暴涨14%，马斯克排队点赞",
-      "summary": "Google 首席执行官 Sundar Pichai 正式宣布，Gemini 4 系列首个模型 Gemini 4 Argon 面向全球开发者与付费用户同步上线。API 定价为每百万 token 输入 2 美元、输出 10 美元，Gemini App 与 Search 的 Pro/Ultra 订阅用户以及 Antigravity Ultra 用户均已解锁。在 Box 企业级复杂任…",
-      "reads": "273万",
-      "ago": "51 分钟前",
+      "title": "Git彻底扛不住AI了！Anthropic祭出Git的Agent版：单日合并超3万次",
+      "summary": "AI写代码的速度，已经把统治编程界二十年的 Git 彻底干瘫了。Anthropic 官方宣布自研全新版本控制系统 Scion，仅耗时 5 个月就将核心代码库全量迁出 Git。数据显示，其团队单日代码合并量在短短 4 个月内从 2500 次暴涨至超 30000 次，原有专为人类设计的基建不堪重负，迫使他们为智能体量身打造了服务端按需抓取的全新底座。",
+      "reads": "378万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "5个月完成全量迁移：Anthropic 宣布自研内部版本控制系统 Scion，并在 5 个月内将主代码库彻底从 Git 迁移完毕。",
+        "日合并量暴涨超12倍：团队每日合并代码变更从 2026 年 5 月的约 2,500 次狂飙至 9 月的超 30,000 次，9 月 9 日更创下单日 30…",
+        "人类基建撞上容量墙：官方直言既有开发者基础设施是按「人类开发者」规模设计的，在编程智能体爆发式涌现后沦为严重瓶颈。",
+        "专为智能体重新架构：Scion 将更多版本控制操作转移至服务端执行，并针对在线工作的智能体按需抓取代码文件，大幅消减检索与提交耗时。"
+      ],
+      "quote": {
+        "who": "Haider.",
+        "role": "",
+        "said": "fable 5.5 要横扫对手了 Anthropic 每天合并的代码更改从 2,500 次飙升到短短四个月内的超 30,000 次，而且他们预计短期内不会放缓 我们根本还没准备好"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 378万 · 产品与生态] Git彻底扛不住AI了！Anthropic祭出Git的Agent版：单日合并超3万次"
+    },
+    {
+      "title": "皮查伊深夜交卷！谷歌Gemini 4 Argon空降，性能狂飙14%马斯克赶来围观",
+      "summary": "谷歌正式开启Gemini 4时代！CEO Sundar Pichai宣布，Gemini 4系列的首发模型Gemini 4 Argon即日起面向全球付费开发者与订阅用户开放。API定价定在每百万token输入2美元、输出10美元，主打代码、金融、法律等多步骤复杂工作。在Box的真实复杂任务评测中，它比Gemini 3.1 Pro准确率直接暴涨14个百分点达到85%，系列后续模型也…",
+      "reads": "481万",
+      "ago": "6 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Google 首席执行官 Sundar Pichai 宣布，Gemini 4 系列首个前沿模型 Gemini 4 Argon 正式向全球付费用户与开发者开放…",
-        "访问渠道全面开放：Gemini API 付费层、Google Antigravity Ultra 订阅者，以及 Gemini 应用和 Search 的 Pr…",
-        "API 定价公布：输入每 100 万 token 收费 2 美元，输出每 100 万 token 收费 10 美元，主打代码、金融、法律、网络安全与科研等多…",
-        "企业端评测飞跃：Box 首席执行官 Aaron Levie 公布测试结果，在 Box AI 复杂工作基准测试中，Gemini 4 Argon 准确率达 85…"
+        "谷歌正式全球发布Gemini 4 Argon，这是Gemini 4系列对外亮相的首个模型，系列其他版本后续推出。",
+        "接入范围全面铺开：Gemini API付费层、Google Antigravity的Ultra用户，以及Gemini网页端与Search的Pro和Ultra…",
+        "API调用定价明确：每百万token输入成本为2美元，输出成本为10美元。",
+        "模型核心面向专业重活：主打写代码、金融分析、法律审计、网络安全与科学研究等多步骤复杂工作流。"
       ],
       "quote": {
         "who": "LayoffHedge",
@@ -54,14 +79,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 273万 · 模型与能力] 皮查伊深夜交卷！谷歌Gemini 4首发登场：准确率暴涨14%，马斯克排队点赞"
+      "rank": 3,
+      "line": "[榜第3位 · 481万 · 模型与能力] 皮查伊深夜交卷！谷歌Gemini 4 Argon空降，性能狂飙14%马斯克赶来围观"
     },
     {
       "title": "连夜撬走OpenAI老用户！Grok上线记忆迁移，一键搬走ChatGPT全套记忆",
       "summary": "换AI助手最烦的就是重新建立个人背景和习惯偏好。xAI旗下Grok正式推出了全新的Memory Transfer Bot（记忆迁移机器人），支持用户将Claude和ChatGPT中沉淀的长期记忆直接打包导入Grok。马斯克亲自转发确认了这一功能，通过提供两种迁移路径大幅拉低换乘门槛，摆明了要直接挖角竞品的核心深度用户。",
-      "reads": "411万",
-      "ago": "1 小时前",
+      "reads": "637万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,64 +104,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 411万 · 产品与生态] 连夜撬走OpenAI老用户！Grok上线记忆迁移，一键搬走ChatGPT全套记忆"
-    },
-    {
-      "title": "Cursor并入X订阅！30刀顶旧90刀，Grok编码用量翻倍",
-      "summary": "SpaceXAI正式推出The X Subscription，将Grok、Cursor和X Premium整合为五档统一订阅（Free至$200 Ultra）。新套餐主打自家模型高性价比，宣称每美元使用量高于旧版，且Grok模型的编码用量是同等Cursor计划的两倍。现有用户可保留原订阅或切换，目前处于灰度上线阶段并提供限时五折优惠。此举引发关于第三方模型（如Claude）额度…",
-      "reads": "372万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "SpaceXAI正式推出The X Subscription，整合Grok、Cursor和X Premium为五档统一订阅：Free、Plus($8)、Pr…",
-        "官方宣称新套餐在自家模型上的性价比（每美元使用量）比取代的旧套餐更高；$30 Premium档用量是之前组合价（约$90/月）的4倍，$100 Super档…",
-        "Cursor官方确认并入该体系，付费计划在Cursor、Grok Build和其他Grok产品间共享用量池；在Grok模型上的代码使用量是同等Cursor计…",
-        "现有订阅用户可保留当前套餐或切换到The X Subscription，并绑定Grok、Cursor和X账号；目前处于灰度上线阶段（rolling out…"
-      ],
-      "quote": {
-        "who": "Kol Tregaskes",
-        "role": "",
-        "said": "更多细节。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 372万 · 产品与生态] Cursor并入X订阅！30刀顶旧90刀，Grok编码用量翻倍"
+      "line": "[榜第4位 · 637万 · 产品与生态] 连夜撬走OpenAI老用户！Grok上线记忆迁移，一键搬走ChatGPT全套记忆"
     },
     {
-      "title": "内部10万人实测！谷歌Gemini 4突袭全球，数小时手搓新型酶",
-      "summary": "2026年10月14日，Google面向全球正式推出前沿旗舰模型Gemini 4 Argon。新模型已全面上线Gemini API，并在Gemini App（Pro与Ultra用户）及Antigravity Ultra订阅中同步可用，API定价为输入2美元、输出10美元。官方直言其带着纯正的「大模型味儿」、部署成本极高，但在数小时内便完成了5种强活性新型酶的设计，更将量子子程序…",
-      "reads": "53万",
-      "ago": "1 小时前",
+      "title": "直接手搓3D游戏！Hassabis曝光Gemini 4 Argon：最难的部分搞定了",
+      "summary": "Google DeepMind CEO Demis Hassabis 首次公开展示了代号为 Gemini 4 Argon 的下一代模型能力。在演示中，该模型凭借物理理解与 3D 建模能力直接跑出了可交互的「巫师国际象棋」，让 Hassabis 直呼找回了当年在 Amiga 上玩《战斗象棋》的乐趣。团队开发人员随即跟进透露「最硬的骨头已经啃下，接下来几周还有新动作」，虽然具体的上…",
+      "reads": "39万",
+      "ago": "2 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "全球正式发布：Google推出全新旗舰模型Gemini 4 Argon，已接入Gemini API、Gemini App（面向Pro和Ultra订阅者）以及…",
-        "API定价出炉：官方模型卡显示发布日期为2026年10月14日，API调用价格定在输入2美元/百万tokens、输出10美元/百万tokens。",
-        "超10万人内测与后续版本：Google官方透露Argon在上线前已在内部经历超10万人为一个月的实战测试；因模型规模与成本极高、服务承载力有限，后续还将推出…",
-        "生物科研实战告捷：科研人员借助该模型在数小时内设计出5种全新酶，实验室测试证实这5种新型酶均展现出强催化活性。"
+        "DeepMind 掌门人 Demis Hassabis 首次公开演示 Gemini 4 Argon 模型，称其在知识工作和编程领域的表现令人惊艳。",
+        "演示展示了 Gemini 4 Argon 的物理理解与 3D 建模水平，模型直接生成了一款手持剑盾武士棋子的 3D「巫师国际象棋」游戏。",
+        "DeepMind 开发团队成员公开表示，Gemini 4 Argon「最难的部分已经搞定」，并预告团队正在全力筹备，接下来几周内将有新进展披露。",
+        "Meta 首席 AI 科学家 Yann LeCun 现身互动，与 Hassabis 一同怀旧 Amiga 经典游戏《战斗象棋》及贝尔实验室往事。"
       ],
       "quote": {
-        "who": "Pankaj Kumar",
+        "who": "Demis Hassabis",
         "role": "",
-        "said": ""
+        "said": "@elonmusk 太棒了！氩气，以及一般的稀有气体都太酷了，有这么多不可思议的应用场景。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 53万 · 模型与能力] 内部10万人实测！谷歌Gemini 4突袭全球，数小时手搓新型酶"
+      "line": "[榜第5位 · 39万 · 模型与能力] 直接手搓3D游戏！Hassabis曝光Gemini 4 Argon：最难的部分搞定了"
+    },
+    {
+      "title": "重度用户C盘有救了！OpenAI连续发布第9天：桌面端磁盘占用怒砍60%",
+      "summary": "桌面端长期挂着跑、磁盘天天报警的日子终于要结束了。OpenAI连续上新活动来到第9天，官方正式给ChatGPT和Codex桌面端推送存储优化，直接将本地状态的磁盘占用砍掉了约60%。这次更新专为硬核重度用户打造，彻底解决本地存储被悄悄吃光的工程痛点。",
+      "reads": "47万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI团队成员宣布连续发布活动进入第9天（Day 9），正式面向ChatGPT与Codex桌面端推送底层优化。",
+        "优化重点针对本地磁盘状态存储机制（state stored on disk），官方预计能削减约60%的磁盘空间占用。",
+        "更新动因源于团队收到大量硬核重度用户（power users）的集中反馈，此前高频使用导致本地磁盘空间频频告急。",
+        "OpenAI团队将此次改动定性为一次小更新（small ship），不涉及模型更替，纯属针对客户端资源负担的实用工程修复。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "@Aleeexanderrrrr @nmPraveen 真是太出乎意料了。非常感谢！😊❤️"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 47万 · 产品与生态] 重度用户C盘有救了！OpenAI连续发布第9天：桌面端磁盘占用怒砍60%"
+    },
+    {
+      "title": "自己调研还下单！马斯克晒Grok新技能：乐高送达自动关后台，私信就能用",
+      "summary": "马斯克亲自晒出了 Grok Bot 的端到端自主执行能力：它不仅帮马斯克完成了乐高积木的前期调研与下单采购，还在 UPS 快递确认送达后，主动停止并清理了后台的物流跟踪任务。更关键的是，用户如今只需说一句话就能把 Bot 与个人 X 账号绑定，直接在私信（DMs）里唤起它代办全流程事务，标志着 Grok 正在加速蜕变为能跑腿、能消费的真·个人 Agent。",
+      "reads": "106万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "马斯克发文展示 Grok Bot 最新能力，AI 已经能替他自主调研并下单采购乐高积木。",
+        "在 UPS 物流显示包裹送达后，Grok Bot 主动识别状态并自动停止、清理了后台物流跟踪监控，展现了任务自闭环能力。",
+        "账号接入极度简化，马斯克宣布用户只需一句话（just by asking）就能将 Bot 绑定到个人 X 账号。",
+        "完成绑定后，用户可直接在 X 平台的私信（DMs）窗口内与 Grok Bot 完成全流程交互与任务委派。"
+      ],
+      "quote": {
+        "who": "Elon Musk",
+        "role": "",
+        "said": "只需说一声，就能把 Bot 关联到你的 𝕏 账号，然后直接在 X 私信里跟它互动"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 106万 · 产品与生态] 自己调研还下单！马斯克晒Grok新技能：乐高送达自动关后台，私信就能用"
     },
     {
       "title": "马斯克亲自下场安利！Grok Bot化身防诈神器：红黄绿分类邮件，专治钓鱼陷阱",
       "summary": "钓鱼邮件真假难辨防不胜防，马斯克发文力挺 Grok Bot 的防诈骗新玩法。用户现在可以用 Grok Bot 打造专属诈骗邮件检测器（Scam Email Detector），自动扫描并清理日常收件箱。有开发者甚至用它为家里长辈打造了 Gmail 自动分级归档系统，把邮件按危险程度拆进红、橙黄、绿三色文件夹，让普通用户看颜色就能避坑。这展现出 Grok Bot 在端到端自动化任…",
-      "reads": "34万",
-      "ago": "49 分钟前",
+      "reads": "94万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -154,39 +204,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 34万 · 产品与生态] 马斯克亲自下场安利！Grok Bot化身防诈神器：红黄绿分类邮件，专治钓鱼陷阱"
+      "rank": 8,
+      "line": "[榜第8位 · 94万 · 产品与生态] 马斯克亲自下场安利！Grok Bot化身防诈神器：红黄绿分类邮件，专治钓鱼陷阱"
     },
     {
-      "title": "单日合并破3万次！Anthropic自研Agent版Git：人类旧基础设施彻底崩了",
-      "summary": "AI 智能体疯狂写代码，直接把老牌开发者基础设施挤爆了。Anthropic 披露最新数据，其单体仓库日均代码合并量从 2026 年 5 月的约 2,500 次飙升至 9 月的超 30,000 次，翻了足足 12 倍。面对专为人类工程师设计的工具遭遇吞吐死局，官方宣布全面自研版本控制系统；同时业内爆料指出，支撑这一恐怖密度的下一代旗舰模型 Fable 5.5 最快将在几天内亮相。",
-      "reads": "205万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
+      "title": "谷歌深夜杀回前五！Gemini 4突袭上线API，可控性狂飙至全球第二",
+      "summary": "Google DeepMind正式推出代号为Argon的新一代大模型Gemini 4，目前已在API端开放调用，并计划于当天向Pro用户陆续推送。在基准评测机构Agent Arena最新公布的榜单中，Gemini 4 Argon (High)成功跻身总榜前五。尽管总榜暂列第五，但其在衡量用户纠偏介入程度的「可控性」指标上高居全球第二，好评差评比位列第三，展现出极强的高阶智能体操…",
+      "reads": "32万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "代码合并量4个月翻12倍：Anthropic 披露其内部单体仓库的日均代码合并（merge）次数，从 2026 年 5 月的约 2,500 次暴涨至 9 月…",
-        "单日峰值刷新纪录：公开图表显示，2026 年 9 月 9 日其单日合并量创下 30,401 次的历史极值，呈现肉眼可见的指数级增长。",
-        "人类基础设施彻底触顶：官方工程博客直言，现有为人类工程师规模打造的开发者底座已遭遇严重瓶颈，根本无法承载 AI 智能体（agent）吞吐。",
-        "全面打造自研版本控制系统：Anthropic 宣布放弃并重构传统的工程底座，正在打造专为智能体吞吐需求优化的内部版本控制系统。"
+        "Google DeepMind官方正式公布新一代大模型Gemini 4，内部代号确认为Argon。",
+        "Gemini 4目前已在API端正式上线可用，消息显示当天开始面向Pro订阅用户逐步推送。",
+        "在Agent Arena引入全新Bash Reliability评测标准后的排行榜中，Gemini 4 Argon (High)跻身总榜第五位。",
+        "当前Agent Arena总榜前四席分别为Claude Opus 5.5 (Max)、GPT-6.1 Sol (Max)、Claude Fable 5.1…"
       ],
       "quote": {
-        "who": "Chris",
+        "who": "Wes Roth",
         "role": "",
-        "said": "肉眼可见的指数级增长到处都在发生"
+        "said": "如果仔细看各项细分指标，Gemini 4 Argon 在 Agent Arena 拿到第五名其实更有意思了。 它在可控性（steerability）上排名第二，好评差评比排名第三。 可控性衡量的是用户需要介入纠偏的程度，包括他们是否必须"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 205万 · 产品与生态] 单日合并破3万次！Anthropic自研Agent版Git：人类旧基础设施彻底崩了"
+      "rank": 9,
+      "line": "[榜第9位 · 32万 · 模型与能力] 谷歌深夜杀回前五！Gemini 4突袭上线API，可控性狂飙至全球第二"
+    },
+    {
+      "title": "每个AI都能领专属邮箱！马斯克推送Grok Bot新版，聊天框直接干Notion",
+      "summary": "马斯克宣布Grok Bot迎来0.70.2版本升级。这次更新最大看点在于赋予了每个AI机器人独立的通讯身份，全员皆可认领专属的@mail.grokbot.com邮箱地址，不仅能帮用户代写邮件，还能直接分析并总结收件箱内容。与此同时，聊天框内已支持以实时卡片形式运行Figma、Notion与Canva，并实现X平台全量公开帖子的免配置直接检索。",
+      "reads": "75万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "马斯克正式宣布推送Grok Bot 0.70.2版本更新，重点强化了智能体的独立工作流与工具聚合能力。",
+        "所有Grok Bot均可认领专属的@mail.grokbot.com邮箱地址，拥有了独立的通讯凭证。",
+        "专属邮箱不仅支持AI代拟并起草邮件，还能帮助用户实时分析和提炼收件箱邮件的核心摘要。",
+        "第三方应用深度集成：Figma、Notion与Canva等协作工具已能在Grok Bot的聊天界面中以「实时卡片」的形式直接呈现与操作。"
+      ],
+      "quote": {
+        "who": "Brian Roemmele",
+        "role": "",
+        "said": "这是一个重磅新更新。 每个 Grok Bot 现在都有了自己的电子邮件地址，这让管理变得容易得多。 感谢 @spacexai！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 75万 · 产品与生态] 每个AI都能领专属邮箱！马斯克推送Grok Bot新版，聊天框直接干Notion"
+    },
+    {
+      "title": "内部10万人实测！谷歌Gemini 4突袭全球，数小时手搓新型酶",
+      "summary": "2026年10月14日，Google面向全球正式推出前沿旗舰模型Gemini 4 Argon。新模型已全面上线Gemini API，并在Gemini App（Pro与Ultra用户）及Antigravity Ultra订阅中同步可用，API定价为输入2美元、输出10美元。官方直言其带着纯正的「大模型味儿」、部署成本极高，但在数小时内便完成了5种强活性新型酶的设计，更将量子子程序…",
+      "reads": "92万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "全球正式发布：Google推出全新旗舰模型Gemini 4 Argon，已接入Gemini API、Gemini App（面向Pro和Ultra订阅者）以及…",
+        "API定价出炉：官方模型卡显示发布日期为2026年10月14日，API调用价格定在输入2美元/百万tokens、输出10美元/百万tokens。",
+        "超10万人内测与后续版本：Google官方透露Argon在上线前已在内部经历超10万人为一个月的实战测试；因模型规模与成本极高、服务承载力有限，后续还将推出…",
+        "生物科研实战告捷：科研人员借助该模型在数小时内设计出5种全新酶，实验室测试证实这5种新型酶均展现出强催化活性。"
+      ],
+      "quote": {
+        "who": "Pankaj Kumar",
+        "role": "",
+        "said": ""
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 92万 · 模型与能力] 内部10万人实测！谷歌Gemini 4突袭全球，数小时手搓新型酶"
     },
     {
       "title": "299美元交个朋友！苹果带屏版HomePod正式曝光，智能家居终于闭环了",
       "summary": "苹果筹备已久的智能家居「终极拼图」突然浮出水面。全新带屏中枢设备 HomeView 官方宣传视频正式曝光，主打家庭便签、Siri 交互与日程管理，售价定在 299 美元；同期曝光的还有 149 美元的 HomePod mini 2 以及同样要价 299 美元的新版 Apple TV。行业普遍认为，苹果终于拿出了一套端到端闭环的智能家居产品战略。",
-      "reads": "79万",
-      "ago": "3 小时前",
+      "reads": "162万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -204,208 +304,108 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 79万 · 产品与生态] 299美元交个朋友！苹果带屏版HomePod正式曝光，智能家居终于闭环了"
-    },
-    {
-      "title": "诺奖得主Hassabis亲自下场！Gemini 4手搓3D巫师象棋，LeCun都炸出来了",
-      "summary": "Google DeepMind 负责人 Demis Hassabis 亲自下场秀出 Gemini 4 Argon 的端到端工程实力，直接让模型独立构建了一款 3D「巫师国际象棋」游戏。不仅其物理规律理解与 3D 建模表现令人惊艳，更引来 Meta 首席 AI 科学家 Yann LeCun 等大佬互动怀旧。目前大量开发者已火速跟进实测，掀起了一波结合 Python 与 Blend…",
-      "reads": "25万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Google DeepMind 负责人 Demis Hassabis 亲自展示 Gemini 4 Argon 的知识工作与代码能力，团队仅凭该模型就独立构建…",
-        "Hassabis 盛赞 Gemini 4 Argon 展现出的物理规律理解与 3D 建模水准，直言这让他回想起当年 Amiga 平台上的经典神作《Battl…",
-        "Meta 首席 AI 科学家 Yann LeCun 现身互动怀念同款游戏，并分享了当年贝尔实验室同事参与相关电影原型的趣味往事。",
-        "兴致大发的 Hassabis 还在社交平台调侃，称自己小时候就沉迷激光，打算在 Gemini 4 Argon 协助下回实验室手搓一台氩激光器。"
-      ],
-      "quote": {
-        "who": "Derya Unutmaz, MD",
-        "role": "",
-        "said": "我的天！Amiga 上的 Battle Chess！勾起超多酷炫回忆！不过你得至少四五十岁才记得这玩意儿了吧😅 我现在正用 Gemini 4 Argon 复刻一个！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 25万 · 模型与能力] 诺奖得主Hassabis亲自下场！Gemini 4手搓3D巫师象棋，LeCun都炸出来了"
-    },
-    {
-      "title": "只给一张CAD图，运镜音效全包！谷歌Gemini 4大秀3D，生啃8万NASA文件",
-      "summary": "Google CEO Sundar Pichai 集中公开了前沿旗舰模型 Gemini 4 Argon 的一系列实测用例，重点展现其在长程编码、多步骤工具调用与 3D 智能上的跃升。在 Google Antigravity 环境下，Argon 能仅凭一张 CAD 原始图自主跑通含布光、运镜和音频的爆炸动画，还能完全靠数学代码绘制 3D 动态排版与配乐。面对海量科研数据，它一次性…",
-      "reads": "24万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Google CEO Sundar Pichai 集中公布了前沿模型 Gemini 4 Argon 在内部工具与复杂任务中的落地演示，重点展示其在长程编码和…",
-        "在 Google Antigravity 平台中，Gemini 4 Argon 仅输入一张 Pixel 手机的原始 CAD 文件，就自主完成了包含布光、运镜…",
-        "依托多智能体视觉审校循环（multi-agent visual critique loops），Argon 在 3D 建模软件 Blender 中从零自主构…",
-        "在纯代码测试中，Argon 全程无需预录素材或视频剪辑软件，仅凭 3D 网格、粒子模拟等数学算法便生成了 3D 动态排版视觉效果与配套背景音乐。"
-      ],
-      "quote": {
-        "who": "Derya Unutmaz, MD",
-        "role": "",
-        "said": "@ammaar 用我早期的提示词跑生物医学科学，表现简直神了！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 24万 · 模型与能力] 只给一张CAD图，运镜音效全包！谷歌Gemini 4大秀3D，生啃8万NASA文件"
-    },
-    {
-      "title": "告别纯文字聊天！谷歌Gemini 4全面推送：直接交网页打3D，原生内置编程Agent",
-      "summary": "AI不再只给大纲和半成品了。Google正式宣布推出新一代前沿模型Gemini 4 Argon，并已在Gemini app中全面推送。新模型主打端到端交付，不仅能直接输出可分享的Web应用和即时演示报告，甚至连可打印的3D文件都能一手包办。即日起，全球Google AI Pro和Ultra订阅用户将陆续获得推送。",
-      "reads": "45万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Google官方正式推出新一代前沿大模型Gemini 4 Argon，即日起在Gemini app全面推送上线",
-        "权限方面，Gemini 4 Argon面向全球Google AI Pro与Ultra订阅用户陆续开放使用",
-        "摆脱「文本大纲」局限，模型可端到端直接生成可分享的Web应用、开箱即用的演示报告以及可打印的3D文件",
-        "macOS版Gemini app原生集成了Google Antigravity智能体编程界面，支持在对话与写代码之间即时切换"
-      ],
-      "quote": {
-        "who": "Google Gemini",
-        "role": "",
-        "said": "@Cryystalite 我们今天开始在 Gemini App 中面向 Google AI Ultra 和 Pro 用户推送 Gemini 4 Argon！如果还没看到，稍后再刷刷看。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 45万 · 模型与能力] 告别纯文字聊天！谷歌Gemini 4全面推送：直接交网页打3D，原生内置编程Agent"
-    },
-    {
-      "title": "三巨头正面硬刚！谷歌Argon刚偷跑，Fable 5.5与Astra本周空降",
-      "summary": "AI 圈又迎来不眠之夜。监控显示 Google 的 Gemini 4 Argon 已悄然接入 Gemini API；几乎同一时间，业内曝出 Anthropic 计划在本周（最快当天）扔出王炸 Fable 5.5，而 OpenAI 也准备在「28 Days of」活动中正式发布 6.1 Astra。三大巨头旗舰同周硬碰硬，一场前沿模型的巅峰决战已彻底打响。",
-      "reads": "20万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "API 追踪监控显示，Google 现已低调在 Gemini API 正式上线全新模型 gemini-4-argon。",
-        "爆料者进一步透露，Anthropic 新一代旗舰 Fable 5.5 已定于本周发布，最快当天就会突袭上线。",
-        "多位业内观察者跟进证实了该爆料的可靠性，并透露发布节奏正在极速加快，新模型已近在眼前。",
-        "OpenAI 也被曝准备在「28 Days of」活动周期内正式推出重量级旗舰 6.1 Astra。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@DavidOndrej1 我也没！我猜它会像我们期望的那样成为颠覆者"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 20万 · 模型与能力] 三巨头正面硬刚！谷歌Argon刚偷跑，Fable 5.5与Astra本周空降"
+      "line": "[榜第12位 · 162万 · 产品与生态] 299美元交个朋友！苹果带屏版HomePod正式曝光，智能家居终于闭环了"
     },
     {
-      "title": "用完Gemini 4才发现，全网AI都在偷抄Claude和GPT？",
-      "summary": "沃顿商学院学者 Ethan Mollick 实测新一代 Gemini 4 后直言，用过它才让人恍然大悟：市面上大量模型恐怕都在蒸馏 Claude 或 GPT，甚至套用完全一样的训练管线。测试者随后跟进证实，Gemini 4 在写作等实测场景中的体感确实与众不同，彻底打破了市面上模型的同质化风格。这场讨论迅速引发全网关注，不少人直接喊话，要求将它与 Anthropic 的 Opu…",
-      "reads": "17万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
+      "title": "超市版震网来袭！黑客远程控温50°C，法国150家超市冷柜变烤箱",
+      "summary": "法国约150家超市在周日夜间至周一凌晨突遭黑客网络攻击。攻击者远程入侵了超市的商业制冷温控系统，强行触发除霜功能，一夜之间将冷柜温度篡改拉高至50°C。闭店期间冷冻柜直接沦为烤箱，导致货架内的整批生鲜与冷冻食品全部被烤熟变质，暴露出关键民生工控设施致命的安全短板。",
+      "reads": "42万",
+      "ago": "5 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "知名学者 Ethan Mollick 在实测新一代 Gemini 4 后公开分享体感，直指其交互与生成体验与市面多数模型截然不同。",
-        "Mollick 明确表示，用完 Gemini 4 会让人清醒意识到，业内大量其他模型极有可能都在蒸馏 Claude 或 GPT，或直接采用了高度雷同的训练管…",
-        "有测试者跟进实测验证，称将 Gemini 4 放在写作等具体任务中测试后，输出质感确实呈现出非常明显的差异化。",
-        "这一实测引发了关于大模型生态「同质化困境」的激烈讨论，直击行业依赖同类来源蒸馏而导致的风格趋同痛点。"
+        "波及范围广泛：法国全境约150家超市的商业制冷温控系统遭到黑客定向入侵并接管。",
+        "破坏手法隐蔽：攻击者远程篡改温控指令，强行激活冷柜的除霜（defrost）功能。",
+        "极端破坏效果：冷柜温度一夜之间被调高至50°C，导致整批生鲜与冷冻食品在闭店期间全部被烤熟报废。",
+        "作案时间精准：恶意攻击发生于周日夜间至周一凌晨，专门挑在无人值守的闭店时段实施破坏。"
       ],
       "quote": {
-        "who": "🍓🍓🍓",
+        "who": "Aakash Gupta",
         "role": "",
-        "said": "@emollick 好吧你说得对。我拿它多试了试写东西，确实非常非常不一样。真想看你把它和 Opus 以及 Astra 对比一下。最好带点点评，这样我就知道到底哪个更强了 🤣"
+        "said": "想不经算法过滤获取我的全部观点，订阅我的通讯："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 17万 · 模型与能力] 用完Gemini 4才发现，全网AI都在偷抄Claude和GPT？"
+      "line": "[榜第13位 · 42万 · 政策与安全] 超市版震网来袭！黑客远程控温50°C，法国150家超市冷柜变烤箱"
     },
     {
-      "title": "API已经能调了！谷歌Gemini 4突袭代号Argon，正面硬刚Astra与Opus",
-      "summary": "Google DeepMind 突然发布带有立体数字「4」的视觉海报，宣告新一代大模型 Gemini 4 正式登场。目前 API 端已被曝悄悄上线可用，消息称当天就将面向 Pro 用户逐步推送。在评测机构 Agent Arena 升级 Bash Reliability 指标后的最新排行榜中，代号 Argon 的 Gemini 4（High）一亮相便拿下总榜第 5，正面对决 An…",
-      "reads": "27万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
+      "title": "天天喊深信AGI到底算啥？纳德拉公开泼冷水：软件零边际成本没了",
+      "summary": "微软 CEO Satya Nadella 在最新访谈中对当下的 AGI 狂热泼了冷水，直接质问四处高喊「深信 AGI」到底意味着什么。他直言，AI 彻底打破了传统软件零边际成本的神话，每一次调用都带着真金白银的开销，正将微软变成一家资本密集度极高的重型企业。此外，纳德拉还罕见自曝职场心病：当年在比尔·盖茨面前认怂，眼睁睁看着一笔架构愚蠢的收购案通过却没敢反对。",
+      "reads": "11万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Google DeepMind 官方发布带有发光 3D 数字「4」的海报，拉开新一代主力模型 Gemini 4 上线序幕",
-        "开发者透露 Gemini 4 已在 API 端上线可用，并传出当天开始面向 Pro 用户推送",
-        "本次亮相的模型代号为 Argon，评测版本记录为 Gemini 4 Argon（High）",
-        "Agent Arena 升级了 Bash Reliability 指标，能精确解析 bash 调用的意图、结果与错误原因，仅抓取有效失误"
+        "反思 AGI 狂热情绪：Satya Nadella 谈到当下科技圈盲从状态时直言，很多人四处跑着宣称自己「深信通用人工智能」（AGI-pilled），他忍不…",
+        "打破零边际成本神话：传统软件交付几乎零边际成本，但大模型推理与运行让软件开始产生实打实的边际成本，商业逻辑发生根本性逆转。",
+        "微软被改造成重资产企业：激增的基础设施军备竞赛与算力投入，正让微软从轻盈的纯软件巨头转向资本密集度高得多的企业架构。",
+        "自曝盖茨时期的收购遗憾：纳德拉透露在 2008 或 2009 年一场由比尔·盖茨主持的收购评审会上，自己明明看出收购标的架构愚蠢透顶，却从未据理力争阻止它…"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "Fireside Alpha",
         "role": "",
-        "said": "GOOGLE太猛了🔥：Gemini 4 Argon冲上Arena总榜第5。 1 Opus 5.5 2 GPT 6.1 Sol 3 Fable 5.1 4 GPT 6 Astra 5 Gemini 4 Argon 👀"
+        "said": "Satya Nadella 说他在微软的最后一轮面试题是：过马路时看到一个小孩摔倒了你会怎么做？他说打 911，面试官却告诉他，你应该把孩子抱起来安慰一下。 “所以有这最后一轮面试。它被称为‘酌情处理’"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 27万 · 模型与能力] API已经能调了！谷歌Gemini 4突袭代号Argon，正面硬刚Astra与Opus"
+      "line": "[榜第14位 · 11万 · 资本与算力] 天天喊深信AGI到底算啥？纳德拉公开泼冷水：软件零边际成本没了"
     },
     {
-      "title": "连夜封杀API蒸馏！Anthropic指控Kimi偷接Claude，全网炸锅了",
-      "summary": "Anthropic官方发文公布反蒸馏防御机制，宣称在遏制针对Claude的模型蒸馏攻击上取得重大进展。报告披露了多起典型案例，直接点名有涉军背景用户曾使用Kimi调取成都数百个监控摄像头追踪人员，而Moonshot被指私下将请求转接至Claude底层。消息引爆行业热议，从业者与研究员一方面质疑GLM 5.3等模型如何能从带护栏的Claude中蒸馏出攻击能力，另一方面炮轰Anth…",
-      "reads": "103万",
-      "ago": "8 小时前",
-      "category": "政策与安全",
+      "title": "5个月从1%飙到26%！Anthropic联创断言：AI自进化提前至2027闭环",
+      "summary": "Anthropic联合创始人Jack Clark紧急更新了递归自我改进（RSI）时间表，将完全自进化的实现窗口大幅提前至2027年。今年5月他曾预估2027年底实现自动化研发的概率仅有30%，如今改口的关键在于模型已攻克了算法创新所必需的「创造力」拼图。内部数据显示，Anthropic达到Level 4级别的自主研发工作占比已从5月的1%狂飙到9月的26%，业内预测脱离人力介入…",
+      "reads": "9.8万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "官方公开防御方案：Anthropic发文宣布，过去几个月在降低针对Claude模型的蒸馏攻击有效性方面取得重大进展，并正式公开了具体的防御机制。",
-        "披露摄像头追踪案例：Anthropic在报告中披露，一名疑似有军方背景的用户曾使用Kimi调用成都数百个监控摄像头追踪人员。",
-        "点名Moonshot底层转接：报告指称Moonshot在上述案例中偷偷将相关请求路由转接到了Claude底层模型。",
-        "模型护栏逻辑遭业内质疑：针对GLM 5.3具备网络攻击能力却没有安全护栏的讨论，业内人士质疑如果源头Claude受到安全护栏保护，这类高危能力根本不可能被蒸…"
+        "Anthropic联合创始人Jack Clark重大更新：正式将完全递归自我改进（RSI）的实现时间线提前，确认完全自进化极可能在2027年成为现实。",
+        "推翻5月保守预测：今年5月Jack Clark曾预估2027年底实现自动化AI研发的概率仅为30%、2028年底约60%，如今整个进程大幅压缩。",
+        "攻克最后拼图「创造力」：时间线提前的核心依据是模型在创新维度取得突破，已有证据表明大模型在数学研究中展现出关键的「研究品味」与顿悟洞察。",
+        "内部研发接管率暴涨：Anthropic最新数据显示，其内部达到Level 4级别的自主研发工作比例，已从5月的1%爆发式跃升至9月的26%。"
       ],
       "quote": {
-        "who": "Nathan Lambert",
+        "who": "Wes Roth",
         "role": "",
-        "said": "@patchwanders 托管 API 的安全防线经常被攻破，甚至被用于网络攻击等场景，所以到目前为止它并不是个好例子"
+        "said": "今年 5 月，Jack Clark 估计到 2027 年底实现自动化 AI 研发的概率为 30%，而 2028 年底约为 60%。 他最新的评估把这个可能的时间窗口提前到了 2027 年。 这种转变的核心在于创造力。Clark 看到了更有力的证据，表明模型能够贡献"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 103万 · 政策与安全] 连夜封杀API蒸馏！Anthropic指控Kimi偷接Claude，全网炸锅了"
+      "line": "[榜第15位 · 9.8万 · 模型与能力] 5个月从1%飙到26%！Anthropic联创断言：AI自进化提前至2027闭环"
     },
     {
-      "title": "Meta私有代码库被黑客端了！核心源码遭窃，1500名员工隐私全漏",
-      "summary": "Meta 突发严重安全事故，黑客通过盗取一名员工的内部凭证，成功渗透进其 GitHub 私有代码库并窃走了核心源代码。更尴尬的是，黑客顺带端走了约 1500 人的敏感个人数据，受害者大部分是美国本土员工。调查显示这批个人数据完全是违规堆放在代码库里的，直接触犯了 Meta 自身的安全合规红线，甚至引来社区调侃内部项目是不是要被迫「开源」了。",
-      "reads": "16万",
-      "ago": "4 小时前",
-      "category": "政策与安全",
+      "title": "Claude Code黑客松杀进日本！非程序员也能冲，10月26日截止报名",
+      "summary": "Anthropic旗下开发者团队官方宣布，Claude Code黑客松正式回归并首次落地日本。无论是否具备专业工程师背景，所有居住在日本的Builder均可报名参与。活动报名截止时间为日本时间10月26日23:59，官方鼓励日本各行业开发者与创意人员探索Claude Code在实际场景中的应用可能。",
+      "reads": "31万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "安全入侵发生：黑客成功潜入 Meta 托管在 GitHub 上的私有核心代码库，导致内部源代码遭窃取。",
-        "单点突破路径：攻击者并非暴力破解，而是利用了此前窃取的一名 Meta 内部员工凭证直接渗透。",
-        "1500人数据被端：除源代码外，黑客还获取了约 1500 人的个人敏感数据，受影响人群主要为美国本土员工。",
-        "自身合规严重违规：这批被盗的 1500 人个人数据此前长期违规存放在代码库内，直接违反了 Meta 内部制定的安全与合规策略。"
+        "赛事主办方为Anthropic旗下Claude开发者官方（@claudedevs），活动标签为#claudejapan2026",
+        "比赛地点正式落地日本本土，标志着Claude Code海外开发者生态建设加速拓展",
+        "参赛门槛全面放开：官方明确表示无论是否是工程师，只要是居住在日本的Builder均可申请",
+        "报名截止时间为日本时间10月26日23:59"
       ],
       "quote": {
-        "who": "International Cyber Digest",
+        "who": "ClaudeDevs",
         "role": "",
-        "said": "阅读文章："
+        "said": "Claude Code 黑客松回归，这次我们要去日本！ エンジニアの方も、そうでない方も、日本在住のビルダーならどなたでも応募できます。世界に何を見せてくれるのか、楽しみにしています。 応募締切は10月26日 23:59（日本時間）： #claudejapan2026"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 16万 · 政策与安全] Meta私有代码库被黑客端了！核心源码遭窃，1500名员工隐私全漏"
+      "line": "[榜第16位 · 31万 · 产品与生态] Claude Code黑客松杀进日本！非程序员也能冲，10月26日截止报名"
     }
   ],
   "board_count": 16,
