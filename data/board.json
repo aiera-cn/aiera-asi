@@ -3,22 +3,122 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-15 12:27:17 +0800",
+  "fetched_at": "2026-10-15 17:48:11 +0800",
   "today": "10/15",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "一个人指挥Agent军团！Claude Code桌面版大进化，子任务秒级并行还汇报",
-      "summary": "Anthropic 官方宣布重大更新 Claude Code 桌面端应用，将其全面打造成支持大规模并发的多 Agent 工作台。新版支持秒级开启多任务，可将文件夹或 SSH 云端配置为独立环境并绑定 worktree，在拆解复杂任务时会自动派生嵌套子会话，跑完后主动向主线程汇报总结。针对频繁被打断心智的痛点，新版还加入了可随手开旁支提问的 /btw 命令与动态待办侧边栏，被业内…",
-      "reads": "159万",
-      "ago": "26 分钟前",
+      "title": "接管70%客服电话！马斯克上线Grok Voice 3.0，4.8美元时薪血洗呼叫中心",
+      "summary": "马斯克旗下 xAI 推出全新端到端语音大模型 Grok Voice 3.0，API 与智能体构建工具即日起全量上线。新模型将端到端延迟降低了 40%，响应时间压缩在 1 秒以内，目前在 SpaceX 内部已能独立处理 70% 的 Starlink 客服电话。其调用定价为每分钟 0.08 美元（折合每小时 4.80 美元），远低于传统离岸人工客服时薪；在基准测试中，它以 86.9…",
+      "reads": "383万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "xAI 正式发布端到端语音大模型 Grok Voice 3.0，主打低延迟与电话客服自动化能力，马斯克公开称其为「全球最好的对话式语音模型」。",
+        "响应速度大幅提升，首音频延迟降低 40% 并控制在 0.8 秒左右，彻底告别机械停顿感。",
+        "实战落地效果显著，SpaceX 内部数据显示该模型已能独立解决 70% 的 Starlink 客户服务来电。",
+        "商业化定价极具侵略性，API 和 Voice Agent Builder 统一按每分钟 0.08 美元计费，折合每小时 4.80 美元，直接击穿菲律宾等离岸…"
+      ],
+      "quote": {
+        "who": "Aakash Gupta",
+        "role": "",
+        "said": "SpaceX 现在以每小时 4.80 美元的价格出售 AI 电话智能体。而在全球外包之都菲律宾，离岸呼叫中心坐席的综合全包时薪是 8 到 18 美元。 而且这个对比其实已经给足了人类面子。 人类坐席是按整小时拿钱的。休息、"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 383万 · 模型与能力] 接管70%客服电话！马斯克上线Grok Voice 3.0，4.8美元时薪血洗呼叫中心"
+    },
+    {
+      "title": "弦理论纯属缺乏感官的幻觉！Chollet断言智能不是瓶颈，马斯克点赞力挺",
+      "summary": "Keras之父François Chollet抛出犀利论断：在解决具有重大影响的问题时，智能几乎从来都不是瓶颈，真正的阻碍在于能否与现实世界进行反复交互。他甚至把弦理论比作智能系统在感官匮乏下滋生的「纯粹幻觉」，强调智能必须扎根现实。这一暴论迅速引来马斯克转发标靶符号「🎯」完全赞同，在全网掀起对大模型脱离现实盲目刷题的深度反思。",
+      "reads": "383万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "François Chollet发文直击当下AI发展盲区，指出解决重大现实问题时，真正的瓶颈从来不是智能本身，而是与现实世界的反复接触（iterated c…",
+        "他以物理学中的弦理论作尖锐比喻，认为那是智能系统在极度匮乏感官输入时开始产生纯粹幻觉的产物，缺乏与现实的碰撞。",
+        "核心观点强调智能必须「扎根现实」（grounding），脱离真实环境反馈的纯思维推演极易沦为空谈。",
+        "马斯克火速转发并打上标靶符号「🎯」以示完全赞同，呼应其对物理具身智能与真实世界数据闭环的长期押注。"
+      ],
+      "quote": {
+        "who": "Phoenix Yin",
+        "role": "",
+        "said": "推动人类认知进步的，究竟是思维突破现实约束的能力，还是思维接受现实纠正的能力？ 关于这个问题，我想说说我一直在以此思考的且很有解释力的框架： 1.现实接触决定信息从哪里来。 2.智能决定已有信息能被利用到什么程度。 3.反馈决定系统能否识别并纠正自己的错误。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 383万 · 模型与能力] 弦理论纯属缺乏感官的幻觉！Chollet断言智能不是瓶颈，马斯克点赞力挺"
+    },
+    {
+      "title": "马斯克放狠话！新一代Roadster将演史上最伟大demo：搞不好真会炸",
+      "summary": "马斯克在社交平台开启超级预热模式，直言全新 Tesla Roadster 的产品演示有望角逐「有史以来最伟大的产品 demo」。他随后甚至跟推调侃，称这场展示绝对炸裂（BANGER），不仅是比喻意义上的，搞不好真会在物理层面上「炸」。作为此前宣称要搭载冷气推进器的跳票旗舰，这场演示将直接检验特斯拉能否彻底颠覆汽车工业的性能极限。",
+      "reads": "2331万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "嵌套多会话并行调度：当用户让 Claude 并行运行任务时，系统会自动启动嵌套会话分别执行，任务完成后将结果自动汇报并折叠进主会话，保证主线程代码与上下文清…",
-        "独立环境与 Worktree 配置：支持将多个本地文件夹、SSH 远程主机或云端预设一键保存为独立环境，且支持每个文件夹单独绑定 Git worktree…",
-        "新增 /btw 免打扰指令：开发过程中遇到临时旁支问题时，输入「/btw」即可在独立标签页开启对话，AI 还会主动推荐后续代办步骤并一键派生为新会话，彻底避…",
-        "可视化多 Agent 监控栏：全新侧边栏直观将并行会话按「进行中」「待输入」「已完成」分类呈现，会话内部包含实时更新的待办清单，仅在需要人类介入时弹出卡片式…"
+        "马斯克公开宣称，全新 Tesla Roadster 有机会问鼎「有史以来最伟大的产品演示」（greatest product demo of all tim…",
+        "马斯克跟推补刀表示，这场 demo 绝对会非常炸裂（BANGER），除了比喻意义之外，甚至有可能在物理层面上真正炸裂。",
+        "全新 Tesla Roadster 是特斯拉跳票多年的旗舰电动超跑，外界对其量产技术上限与具体交付节点的期待已被推向顶点。",
+        "根据此前公开的技术规划，该车曾计划引入与 SpaceX 合作的冷气推进器等极端工程设计，这也呼应了马斯克调侃「真会爆炸」的由头。"
+      ],
+      "quote": {
+        "who": "Elon Musk",
+        "role": "",
+        "said": "这么说吧，这个 demo 绝对会炸裂，可能是比喻意义上的，但也保不齐是真的“炸”"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 2331万 · 产品与生态] 马斯克放狠话！新一代Roadster将演史上最伟大demo：搞不好真会炸"
+    },
+    {
+      "title": "连API都免配！硅谷顶流Hermes破晓更新：自带600插件，手机版一个半月后见",
+      "summary": "开源圈顶流智能体框架 Hermes Agent 迎来里程碑级的 v0.22.0「破晓版本」（The Threshold Release），彻底重构了繁琐的新手入门流程。新版不仅支持一键部署本地模型、支持 GPT-6 并预装超 600 个插件，更让用户无需手动配置模型服务商即可开箱即用。核心研究员 teknium 明确表示产品正在全面走向大众消费端，预计在一个半月后推出移动端 A…",
+      "reads": "50万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Nous Research 正式发布 Hermes Agent v0.22.0，版本代号为「破晓版本」（The Threshold Release），核心重…",
+        "入门引导彻底精简：新版本移除了必须预先绑定模型服务商的硬性限制，用户下载安装后即可直接上手开工。",
+        "功能与模型支持大幅升级：支持一键运行本地模型，内置连接多达 600 个插件，并已加入对 GPT-6 等前沿模型的适配。",
+        "上线全新连接器（Connectors）系统：外部第三方应用无需复杂配置，点击安装并完成登录即可实现一键打通。"
+      ],
+      "quote": {
+        "who": "Teknium 🪽",
+        "role": "",
+        "said": "@slumdog_8 @jdudley @NousResearch 兄弟。 这本来就是面向大众的。 从上线以来我们所做的一切，都是为了走向消费端。 我发那条帖子的意思是，我们清楚现在还没走到那一步。我们可能在一个半月后上线移动端 App。 我们有智能体实例"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 50万 · 产品与生态] 连API都免配！硅谷顶流Hermes破晓更新：自带600插件，手机版一个半月后见"
+    },
+    {
+      "title": "一人调度Agent军团！Claude Code桌面版大更新：多任务并行，主线程不乱了",
+      "summary": "Anthropic 突发升级 Claude Code 桌面端应用，重点重构了多会话并行管理与协作体验，被社区开发者直呼宛如「v2 版本」。新版彻底解决了工程师频繁被 AI 打断的痛点，支持在主线程中一键并行派生嵌套子任务，子任务跑完自动汇报汇总，让主会话始终保持清晰易读。此外，新版还引入了环境预置与 /btw 支线标签页等实用特性，正在将桌面端打造成真正的多 Agent 协作工…",
+      "reads": "198万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "嵌套子会话并行分发：在主会话中分发任务时会自动启动独立嵌套会话，执行完毕后将结果汇总回传主线程，彻底避免屏幕刷屏混乱。",
+        "预置环境与一键直达：新会话面板支持一键快速访问最近文件夹，可将本地多目录、SSH 主机或云端保存为环境配置，并支持为每个目录独立配置 Git worktre…",
+        "全景侧边栏监控：新增任务状态实时分类，一眼识别哪些会话正在运行（Working）、哪些需要人工介入（Needs input）以及哪些已完成（Complete…",
+        "会话内智能总结与动态待办：会话内嵌动态待办清单实时同步 AI 执行计划，当 Claude 需要用户决策时会自动弹出轮次总结卡片（recap card），侧轨…"
       ],
       "quote": {
         "who": "Aakash Gupta",
@@ -29,39 +129,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 159万 · 产品与生态] 一个人指挥Agent军团！Claude Code桌面版大进化，子任务秒级并行还汇报"
+      "rank": 5,
+      "line": "[榜第5位 · 198万 · 产品与生态] 一人调度Agent军团！Claude Code桌面版大更新：多任务并行，主线程不乱了"
     },
     {
-      "title": "独立接管70%星链客服电话！马斯克祭出Grok Voice 3.0，延迟砍掉40%",
-      "summary": "马斯克旗下语音模型迎来重磅突破，端到端语音大模型 Grok Voice 3.0 正式上线，主打极速响应与客服实战场景。该模型延迟较前代直接降低 40%，首音频响应压缩至约 0.8 秒，目前已在 SpaceX 内部独立承接了 70% 的 Starlink 客服电话。Grok Voice 3.0 即日起正式开放 API 与 Voice Agent Builder，定价仅为每分钟 0…",
-      "reads": "345万",
+      "title": "砍掉iPad中枢几年后，苹果「带屏版HomePod」来了！7寸屏+A18芯片",
+      "summary": "苹果终于把智能家居这块空缺多年的拼图补齐了。官方正式确认，新发布的带屏硬件Apple HomeView将直接担任HomeKit的家居中枢。该设备配备7英寸屏幕并直接塞入A18芯片，不仅支持面部识别还能实现监控分屏，彻底终结了此前iPad被移除中枢资格后、苹果缺乏专用带屏控制台的尴尬。",
+      "reads": "112万",
       "ago": "4 小时前",
-      "category": "模型与能力",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "官方正式发布端到端语音大模型 Grok Voice 3.0，主打客服呼叫中心与实时语音交互场景。",
-        "性能方面，模型响应时间进入 1 秒以内，首音频响应速度约为 0.8 秒，整体延迟相较前代降低 40%。",
-        "在实际业务落地中，Grok Voice 3.0 已在 SpaceX 挑大梁，独立解决了 70% 的 Starlink 客服电话。",
-        "商业化同步落地，API 与 Voice Agent Builder 即日起正式上线，调用定价为每分钟 0.08 美元。"
+        "苹果官方正式确认，全新带屏智能设备Apple HomeView支持充当HomeKit家居中枢（home hub）。",
+        "核心硬件配置豪华，HomeView搭载7英寸屏幕与苹果A18芯片，支持本地面部识别与多路监控分屏显示。",
+        "弥补历史生态缺口：早前苹果曾允许iPad、Apple TV和HomePod充当中枢，但数年前取消了iPad的中枢资格，带屏控制入口长期悬空。",
+        "收紧中枢硬件定义：苹果不再建议用户使用通用平板客串中枢，而是以HomeView确立了专属硬件入口的定位。"
       ],
       "quote": {
-        "who": "Elon Musk",
+        "who": "will depue",
         "role": "",
-        "said": "Grok 是全球最好的对话式语音模型"
+        "said": "4年前我给朋友发消息说，兄弟们，DeepMind的Gato 2一出来就会是通用人工智能。我觉得真正的“Gato 2”终于随着Argon、Astra和Opus到来了。迟到了4年"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 345万 · 模型与能力] 独立接管70%星链客服电话！马斯克祭出Grok Voice 3.0，延迟砍掉40%"
+      "rank": 6,
+      "line": "[榜第6位 · 112万 · 产品与生态] 砍掉iPad中枢几年后，苹果「带屏版HomePod」来了！7寸屏+A18芯片"
+    },
+    {
+      "title": "Claude写代码太快干崩Git！Anthropic彻底拔掉旧架构：每天合代码超3万次",
+      "summary": "Claude写代码的速度已经把全人类通用的开发底座彻底干穿。Anthropic工程团队披露，公司内部每天的代码合并量在短短4个月内暴涨12倍，从5月的约2500次飙升至9月的超30000次。因为现有的Git架构完全是为人脑节奏设计的，面对AI Agent的吞吐量沦为严重瓶颈，Anthropic已正式拔掉Git，全面换上自研的内部源码控制系统。",
+      "reads": "32万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "吞吐量4个月翻12倍：Anthropic内部每日代码变更合并量从2026年5月的约2500次激增至9月的超过30000次。",
+        "相当于平均每3秒合并一次代码变更，AI高频提交直接击穿了传统代码管理系统的承载上限。",
+        "Anthropic在官方Engineering博客披露，已正式弃用全球通用的Git，改用自研内部源码控制系统。",
+        "官方团队直言，现有的开发者基础设施是专为人类工程师设计的，根本无法适配AI智能体的规模和速度。"
+      ],
+      "quote": {
+        "who": "Aakash Gupta",
+        "role": "",
+        "said": "想不受算法过滤看我的全部观点，可以订阅我的通讯："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 32万 · 产品与生态] Claude写代码太快干崩Git！Anthropic彻底拔掉旧架构：每天合代码超3万次"
     },
     {
       "title": "Agent卡了40秒查不出原因？Anthropic支持OpenTelemetry，全链路告别黑盒",
       "summary": "Agent 跑一个请求花了 40 秒，到底是模型卡壳还是某个外部工具掉链子？Anthropic 正式为 Claude Platform 开启 OpenTelemetry 链路追踪公测，覆盖 Messages API、托管智能体以及官方 SDK。开发者把数据直接导入现有的可观测性系统，不仅能查 Token 消耗和每一步耗时，切到全量模式还能一字不漏抓取 Prompt 和工具返回内…",
-      "reads": "79万",
-      "ago": "1 小时前",
+      "reads": "91万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,39 +204,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 79万 · 产品与生态] Agent卡了40秒查不出原因？Anthropic支持OpenTelemetry，全链路告别黑盒"
-    },
-    {
-      "title": "单季狂揽168亿美元！Anthropic营收环比暴增45％，1100亿估值与IPO近了",
-      "summary": "Anthropic 闭门会流出重磅财务数据，第三季度营收环比大涨 45% 达到 168 亿美元，前两个季度营收分别为 47 亿美元和 116 亿美元。极其陡峭的增长曲线击碎了大模型变现乏力的质疑，让外界对其 1100 亿美元估值与潜在 IPO 预期重回桌面，同时团队对即将登场的下一代旗舰 Fable 5.5 抱有极高信心。",
-      "reads": "17万",
-      "ago": "1 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "季度营收狂飙：参会人员透露，Anthropic 第三季度营收环比大增 45%，单季直接冲上 168 亿美元。",
-        "增长曲线极其陡峭：回顾今年业绩，第一季度营收为 47 亿美元，第二季度达到 116 亿美元，连续实现翻倍与跳跃式增长。",
-        "1100亿美元估值回归：爆发式的财务表现让此前流传的 1100 亿美元估值目标重新提上日程，资本市场对其 IPO 的期待被彻底点燃。",
-        "下一代代号「法师」：爆料指出 Anthropic 内部对即将发布的下一代旗舰模型 Fable 5.5 充满信心，将其视作接下来的杀手锏。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "@007Killpop Fable 5.5 正在驾驶一辆会飞的 Tesla Roadster！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 17万 · 资本与算力] 单季狂揽168亿美元！Anthropic营收环比暴增45％，1100亿估值与IPO近了"
+      "rank": 8,
+      "line": "[榜第8位 · 91万 · 产品与生态] Agent卡了40秒查不出原因？Anthropic支持OpenTelemetry，全链路告别黑盒"
     },
     {
       "title": "响应仅0.81秒！马斯克语音大模型空降第一，速度反超GPT-Live 40%",
       "summary": "马斯克旗下 SpaceXAI 正式推出新一代端到端语音大模型 Grok Voice 3.0，马斯克直接发文称其为「全球领先的对话语音模型」。在评测机构 Artificial Analysis 的 Speech to Speech 榜单中，它以 86.9 分空降榜首，平均首字音频延迟仅 0.81 秒，比 GPT-Live-1 Astra 和 Gemini 3.8 Live 足足快…",
-      "reads": "126万",
-      "ago": "6 小时前",
+      "reads": "140万",
+      "ago": "11 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -129,14 +229,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 126万 · 模型与能力] 响应仅0.81秒！马斯克语音大模型空降第一，速度反超GPT-Live 40%"
+      "rank": 9,
+      "line": "[榜第9位 · 140万 · 模型与能力] 响应仅0.81秒！马斯克语音大模型空降第一，速度反超GPT-Live 40%"
+    },
+    {
+      "title": "单季狂揽168亿美元！Anthropic营收环比暴增45％，1100亿估值与IPO近了",
+      "summary": "Anthropic 闭门会流出重磅财务数据，第三季度营收环比大涨 45% 达到 168 亿美元，前两个季度营收分别为 47 亿美元和 116 亿美元。极其陡峭的增长曲线击碎了大模型变现乏力的质疑，让外界对其 1100 亿美元估值与潜在 IPO 预期重回桌面，同时团队对即将登场的下一代旗舰 Fable 5.5 抱有极高信心。",
+      "reads": "24万",
+      "ago": "6 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "季度营收狂飙：参会人员透露，Anthropic 第三季度营收环比大增 45%，单季直接冲上 168 亿美元。",
+        "增长曲线极其陡峭：回顾今年业绩，第一季度营收为 47 亿美元，第二季度达到 116 亿美元，连续实现翻倍与跳跃式增长。",
+        "1100亿美元估值回归：爆发式的财务表现让此前流传的 1100 亿美元估值目标重新提上日程，资本市场对其 IPO 的期待被彻底点燃。",
+        "下一代代号「法师」：爆料指出 Anthropic 内部对即将发布的下一代旗舰模型 Fable 5.5 充满信心，将其视作接下来的杀手锏。"
+      ],
+      "quote": {
+        "who": "Andrew Curran",
+        "role": "",
+        "said": "@007Killpop Fable 5.5 正在驾驶一辆会飞的 Tesla Roadster！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 24万 · 资本与算力] 单季狂揽168亿美元！Anthropic营收环比暴增45％，1100亿估值与IPO近了"
+    },
+    {
+      "title": "黄仁勋空降伦敦撒钱！一口气投下5家硬核初创，杀入量子计算新药研发",
+      "summary": "英伟达 CEO 黄仁勋现身英国伦敦，正式宣布对 5 家英国本土前沿科技初创企业进行投资。获投名单涵盖新药研发与量子计算等硬核方向，包括 boltz_bio、ForesightWorks、hivergeai、PrimaMente 以及量子计算公司 Riverlane。黄仁勋将本轮 AI 浪潮定义为新工业革命，英伟达正以真金白银深度绑定欧洲本土开发者，从单纯的底层算力加速向顶尖垂直…",
+      "reads": "4.8万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "英伟达创始人兼 CEO 黄仁勋在英国伦敦出席活动，宣布英伟达对 5 家英国本土前沿科技初创企业展开新一轮投资。",
+        "获投企业完整名单公布：包括 boltz_bio、ForesightWorks、hivergeai、PrimaMente 以及量子计算公司 Riverlane…",
+        "投资赛道聚焦前沿硬科技，业务跨度涵盖 AI 新药研发、工业与垂直场景应用以及量子计算。",
+        "黄仁勋在活动中将当前的 AI 浪潮定调为新工业革命，并强调欧洲必须解决算力背后的持久能源瓶颈。"
+      ],
+      "quote": {
+        "who": "Chris",
+        "role": "",
+        "said": "@a16z 你需要把所有能攒的运气都用上了，祝你好运 Charlie！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 4.8万 · 资本与算力] 黄仁勋空降伦敦撒钱！一口气投下5家硬核初创，杀入量子计算新药研发"
     },
     {
       "title": "险胜GPT-6 Astra！谷歌Gemini 4 Argon登场，布林督战杀回前沿",
       "summary": "Google DeepMind正式发布新一代模型Gemini 4 Argon，联合创始人Sergey Brin携核心研发团队亮相复盘。在Scale AI的HSS基准测试中，Argon以55.4%的成绩险胜GPT-6 Astra（53.6%），并在策略经济测试中超越Opus 5.5登顶。该模型具备1M Token的超长上下文输出能力，主打数学、核聚变等硬核科学推演，并在内部成功将…",
-      "reads": "33万",
-      "ago": "4 小时前",
+      "reads": "41万",
+      "ago": "9 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -154,64 +304,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 33万 · 模型与能力] 险胜GPT-6 Astra！谷歌Gemini 4 Argon登场，布林督战杀回前沿"
-    },
-    {
-      "title": "卫生纸包录音器潜入董事会！OpenAI电视后反装摄像头，当场人赃俱获",
-      "summary": "OpenAI 发生了一起惊险又荒诞的内部安全事件：一名员工将高级录音设备用卫生纸包裹，藏进了高管董事会议室的电视机后。安保团队发现后保持现场原样，并在电视机后加装隐藏摄像头守株待兔，最终在该员工折返检查窃听器时将其当场人赃俱获。OpenAI 还动用了自研 AI 模型对设备及来源展开分析锁定细节，目前全案已正式移交 FBI 展开调查。",
-      "reads": "92万",
-      "ago": "6 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "潜入核心会议室：一名 OpenAI 员工将高级录音设备用卫生纸包裹伪装，暗中藏匿在高管董事会议室的电视机后方，意图窃取商业机密。",
-        "反套路守株待兔：安保团队发现窃听装置后没有打草惊蛇，故意保持房间陈设原样，并在同一台电视机后加装隐蔽摄像头。",
-        "折返现场当场抓包：涉案员工在几天后折返会议室检查窃听设备，行踪被隐藏摄像头全程拍下，被安保团队抓了个现行。",
-        "自研模型协助破案：OpenAI 官方透露，团队调用自家 AI 模型对涉案录音设备及其来源进行了分析，成功梳理出安放细节并最终锁定嫌疑人。"
-      ],
-      "quote": {
-        "who": "Aakash Gupta",
-        "role": "",
-        "said": "想不受算法过滤看到我的全部观点，订阅我的 newsletter："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 92万 · 政策与安全] 卫生纸包录音器潜入董事会！OpenAI电视后反装摄像头，当场人赃俱获"
-    },
-    {
-      "title": "推翻60年物理猜想！Gemini 4 Argon炸场，万名科学家免费用半年",
-      "summary": "Google DeepMind 集中展示了 Gemini 4 Argon 在前沿科研领域的突破性战果：不仅在数小时内找到新型 3D 磁场设计推翻了困扰物理界近 60 年的 Grad 猜想，还零样本设计出 5 种经实验验证的丝氨酸酯酶，并重构 AlphaQubit 使量子纠错吞吐量翻倍。同时，谷歌宣布向全球 10,000 名科学家免费开放 Google Antigravity 最…",
-      "reads": "11万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "推翻 60 年物理猜想：在等离子体物理与核聚变领域，Gemini 4 Argon 发现了新型 3D 磁场设计并找出 2 个新反例族，进一步证伪困扰物理界近…",
-        "量子纠错吞吐量翻倍：Argon 成功将量子纠错解码器 AlphaQubit 的内部版本重构为一个高度优化的硬件「megakernel」，使推理吞吐量提升近一…",
-        "数小时完成零样本酶设计：在生物蛋白质工程中，Argon 实现了零样本（zero-shot）设计，仅用数小时就完成了传统极为繁琐的酶工程流程，成功设计出 5…",
-        "万名科学家获免费顶配权限：谷歌宣布向全球 10,000 名科学家免费提供 Google Antigravity 最高使用层级（highest usage t…"
-      ],
-      "quote": {
-        "who": "Wes Roth",
-        "role": "",
-        "said": "Gemini 4 Argon 协助研究人员扩展了 Grad 猜想已有的反例——这是等离子体物理学领域数十年的未解难题。 根据预印本论文，AI 智能体在数小时内就提出了极具前景的解决方案。研究人员负责选定课题、指导研究并独立"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 11万 · 模型与能力] 推翻60年物理猜想！Gemini 4 Argon炸场，万名科学家免费用半年"
+      "rank": 12,
+      "line": "[榜第12位 · 41万 · 模型与能力] 险胜GPT-6 Astra！谷歌Gemini 4 Argon登场，布林督战杀回前沿"
     },
     {
       "title": "传疯了的年底1100亿ARR反转！全员会压根没提，大模型吸金神话遭泼冷水",
       "summary": "此前业内疯传 Anthropic 预计年底年化营收（ARR）将暴冲至 1100 亿美元，引发全网围观。然而戏剧性反转迅速到来：知情人士独家透露，当天 Anthropic 全员会上压根没讨论 9 月季度的 ARR，也完全未提及全年的营收预期。按此前测算，要实现千亿目标仅 12 月单月就要入账约 90 亿美元，这次辟谣直接给狂热的市场预期浇了盆冷水。",
-      "reads": "6.0万",
-      "ago": "38 分钟前",
+      "reads": "13万",
+      "ago": "5 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -229,14 +329,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 6.0万 · 资本与算力] 传疯了的年底1100亿ARR反转！全员会压根没提，大模型吸金神话遭泼冷水"
+      "rank": 13,
+      "line": "[榜第13位 · 13万 · 资本与算力] 传疯了的年底1100亿ARR反转！全员会压根没提，大模型吸金神话遭泼冷水"
+    },
+    {
+      "title": "推翻60年物理猜想！Gemini 4 Argon炸场，万名科学家免费用半年",
+      "summary": "Google DeepMind 集中展示了 Gemini 4 Argon 在前沿科研领域的突破性战果：不仅在数小时内找到新型 3D 磁场设计推翻了困扰物理界近 60 年的 Grad 猜想，还零样本设计出 5 种经实验验证的丝氨酸酯酶，并重构 AlphaQubit 使量子纠错吞吐量翻倍。同时，谷歌宣布向全球 10,000 名科学家免费开放 Google Antigravity 最…",
+      "reads": "14万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "推翻 60 年物理猜想：在等离子体物理与核聚变领域，Gemini 4 Argon 发现了新型 3D 磁场设计并找出 2 个新反例族，进一步证伪困扰物理界近…",
+        "量子纠错吞吐量翻倍：Argon 成功将量子纠错解码器 AlphaQubit 的内部版本重构为一个高度优化的硬件「megakernel」，使推理吞吐量提升近一…",
+        "数小时完成零样本酶设计：在生物蛋白质工程中，Argon 实现了零样本（zero-shot）设计，仅用数小时就完成了传统极为繁琐的酶工程流程，成功设计出 5…",
+        "万名科学家获免费顶配权限：谷歌宣布向全球 10,000 名科学家免费提供 Google Antigravity 最高使用层级（highest usage t…"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "Gemini 4 Argon 协助研究人员扩展了 Grad 猜想已有的反例——这是等离子体物理学领域数十年的未解难题。 根据预印本论文，AI 智能体在数小时内就提出了极具前景的解决方案。研究人员负责选定课题、指导研究并独立"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 14万 · 模型与能力] 推翻60年物理猜想！Gemini 4 Argon炸场，万名科学家免费用半年"
     },
     {
       "title": "谷歌Gemini 4 Argon突然交卷！全球Pro会员全量推送，手机网页都能玩",
       "summary": "等了这么久的下一代终于来了！Google 官方突然全量推送全新前沿模型 Gemini 4 Argon，即日起全球 Google AI Pro 与 Ultra 订阅用户可在网页端和移动端 Gemini App 直接调用。官方表示新模型能把每条提示词效能发挥到极致、将最复杂的构想化为现实，并在社交平台直接向全球开发者发起了落地成果征集。",
-      "reads": "23万",
-      "ago": "5 小时前",
+      "reads": "27万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -254,64 +379,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 23万 · 产品与生态] 谷歌Gemini 4 Argon突然交卷！全球Pro会员全量推送，手机网页都能玩"
-    },
-    {
-      "title": "马斯克亲自带货！Grok Bot串联三大模型自制MV，一句话搞定60秒广告片",
-      "summary": "马斯克旗下 Grok Bot 迎来多模态创作大升级，正式打通端到端音乐视频（MV）全自动制作流程。用户搭建的 Grok Bot 能够自主串联调度 Suno、Midjourney 和 Opus，全流程自主生成完整的音乐视频预告片。开发者实测显示，只需一条指令即可把 Grok Bot 变成专属广告导演，自动生成原创词曲并输出 60 秒品牌 MV 广告。",
-      "reads": "173万",
-      "ago": "13 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "马斯克发文力推 Grok Bot 新玩法，宣布用户如今可以通过 Grok Bot 轻松全自动制作音乐视频",
-        "社区用户实测展示名为「Claudia」的 Grok Bot，自主调用 Suno、Midjourney 和 Opus 完成了先导预告片的全流程制作",
-        "开发者跟进公布提示词实测，设定专业广告导演角色后，发一条消息即可搞定一首原创歌曲及 60 秒品牌 MV 广告",
-        "这一案例展现了 Grok Bot 跨工具调用外部多模态模型的高级自主 Agent 能力，无需人工在多个平台间繁琐搬运素材"
-      ],
-      "quote": {
-        "who": "Alex Prompter",
-        "role": "",
-        "said": "如果你觉得这个有用，来看看我下面的通讯 我每周分享一个 AI 超能力 订阅一下，免费的 👇"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 173万 · 产品与生态] 马斯克亲自带货！Grok Bot串联三大模型自制MV，一句话搞定60秒广告片"
-    },
-    {
-      "title": "深夜打通Codex！OpenAI旗下Dots直接接管多项目，本地云端连轴转",
-      "summary": "OpenAI 旗下个人助理 Dots 再度进化，现已能直接接管并控制用户的本地与云端 Codex 线程。研究员透露，开发者不仅能让 Dot 每隔数小时主动汇报工作生活痛点，还能借其实现多项目无缝跨环境调度。尽管有内测用户吐槽其主动性仍落后于 Hark Pro 且跨端显示待优化，但这项更新已让 Dots 彻底跨入多线程工作流调度核心。",
-      "reads": "3.5万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "研究员透露 Dots 实用新技巧：可设定让 Dot 主动排查生活与工作中的痛点，并每隔固定周期主动 check in 汇报。",
-        "重磅功能打通：Dots 现已能够直接控制用户的本地与云端 Codex 线程，无需人工反复切换环境。",
-        "多任务并行利器：该特性重点面向跨多个复杂项目的开发者，大幅压缩多线程协作与调度的上下文切换成本。",
-        "内测用户提出犀利对比：有爆料者直言 Dots 当前主动性依然不足，实测表现不如 Hark Pro 的主动反馈亮眼。"
-      ],
-      "quote": {
-        "who": "Vaibhav (VB) Srivastav",
-        "role": "",
-        "said": "怕你错过：dots 可以控制你的本地和云端 codex 线程——如果你同时跨多个项目工作，这个特别好用！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 3.5万 · 产品与生态] 深夜打通Codex！OpenAI旗下Dots直接接管多项目，本地云端连轴转"
+      "rank": 15,
+      "line": "[榜第15位 · 27万 · 产品与生态] 谷歌Gemini 4 Argon突然交卷！全球Pro会员全量推送，手机网页都能玩"
     },
     {
       "title": "仅用4颗芯掀翻老黄旗舰柜！谷歌TPUv7首测曝光，智能体推理性价比碾压GB300",
       "summary": "Google 首次向半导体分析机构的 AgentX 智能体推理基准测试提交了 TPUv7 成绩。在 Google TorchTPU 与 vLLM 联合调优下，TPUv7 FP8 的每美元性能比英伟达旗舰 GB300 NVL72 FP4 高出整整 1.67 倍。令人意外的是，Google 仅凭 4 颗 TPUv7 芯片，就在大部分帕累托前沿的单位 TCO 性能上击败了整套 GB3…",
-      "reads": "3.2万",
-      "ago": "1 小时前",
+      "reads": "8.0万",
+      "ago": "6 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -329,83 +404,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 3.2万 · 资本与算力] 仅用4颗芯掀翻老黄旗舰柜！谷歌TPUv7首测曝光，智能体推理性价比碾压GB300"
-    },
-    {
-      "title": "拍张手写表秒变精美PPT！谷歌Gemini 4 Argon杀入全家桶",
-      "summary": "Google展示了Gemini 4 Argon在Google Workspace中的全新落地能力。通过关联办公应用，模型能直接读取手写宾客名单、座位表照片或零散食谱等碎片化输入，一键端到端生成演示文稿、邮件草稿及自动化追踪表格。官方团队随后还在社区公开征集用户体验反馈，加速推动模型渗透日常办公流。",
-      "reads": "37万",
-      "ago": "8 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Gemini 4 Argon正式打通Google Workspace系列办公应用。",
-        "支持多模态端到端处理，可直接识别手写宾客名单、排座表照片和零散食谱等非结构化信息。",
-        "输入碎片内容后，模型能一键输出精美的提案幻灯片（Deck）、邮件草稿及自动化追踪表格。",
-        "官方主打「减少重复性行政杂事，把时间留给专业本身」，推动办公全流程自动化。"
-      ],
-      "quote": {
-        "who": "Google Gemini",
-        "role": "",
-        "said": "@amybuildsAI @GoogleWorkspace 给我们讲讲好的、坏的和丑陋的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 37万 · 产品与生态] 拍张手写表秒变精美PPT！谷歌Gemini 4 Argon杀入全家桶"
-    },
-    {
-      "title": "一年暴涨12倍！Anthropic年收入直冲1100亿美元，大模型真的赚钱了",
-      "summary": "大模型终于跑通商业化闭环了。据彭博社消息，Anthropic 在计划感恩节前推进 IPO 的节骨眼上迎来炸裂财务突破：第三季度营收达到 168 亿美元，且调整后已实现盈利与正向自由现金流。更夸张的是预期增幅，其年化收入运行率预计到 2026 年底将狂飙至 1100 亿美元，相比 2025 年底的约 90 亿美元，一年内暴涨 12.2 倍（增幅达 1122%）。商业造血能力直接打…",
-      "reads": "2.4万",
-      "ago": "1 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "三季度财务突破：据彭博社爆料，Anthropic 在 2026 年第三季度斩获 168 亿美元营收，调整后已实现盈利并取得正向自由现金流。",
-        "冲刺感恩节 IPO：这轮财务转折点出现得极其精准，Anthropic 正按计划在今年感恩节前全力推进 IPO 进程。",
-        "年化收入狂飙 12.2 倍：Anthropic 预计到 2026 年底年化收入运行率（ARR）将达 1100 亿美元，相比 2025 年底的约 90 亿美元…",
-        "终结 AI 亏损质疑：面对生成式 AI 只烧钱不造血的长期唱衰，Anthropic 凭借正向现金流树立了大模型商业化变现的标杆。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "后续跟进：据报道，Anthropic 预计到2026年底年化收入运行率将达1100亿美元，相比2025年底的约90亿美元大幅上升。 这意味着仅一年内增长12.2倍，也就是约1122%的增幅。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 2.4万 · 资本与算力] 一年暴涨12倍！Anthropic年收入直冲1100亿美元，大模型真的赚钱了"
-    },
-    {
-      "title": "连API都不用填！Hermes Agent大升级：开箱即用接入600插件，支持GPT-6",
-      "summary": "开源AI智能体Hermes Agent迎来重大版本v0.22.0「The Threshold Release」，核心重心彻底转向降低门槛。用户安装后连API服务商都不用接，即可直接开箱开工；新版本引入全新连接器机制，点点鼠标登录即可打通各类第三方应用，同时支持一键配置本地模型、接入600个插件并拓展了对GPT-6等前沿模型的支持。",
-      "reads": "44万",
-      "ago": "10 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Nous Research团队正式发布Hermes Agent v0.22.0大版本更新，代号为「The Threshold Release」（破晓版本）",
-        "新手引导流程全面重构，用户安装后无需额外接入API提供商或繁琐配置，即可直接开工使用",
-        "引入全新连接器（Connectors）机制，支持用户一键安装、点击登录即可连接各类第三方应用与生态",
-        "系统集成一键本地模型配置，提供600个插件扩展，并跟进支持GPT-6等前沿大模型"
-      ],
-      "quote": {
-        "who": "Teknium 🪽",
-        "role": "",
-        "said": "@TintWrapCompany @NousResearch 这根本不算个正经问题 哈哈"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 44万 · 产品与生态] 连API都不用填！Hermes Agent大升级：开箱即用接入600插件，支持GPT-6"
+      "line": "[榜第16位 · 8.0万 · 资本与算力] 仅用4颗芯掀翻老黄旗舰柜！谷歌TPUv7首测曝光，智能体推理性价比碾压GB300"
     }
   ],
   "board_count": 16,
