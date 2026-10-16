@@ -3,15 +3,15 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-16 06:11:46 +0800",
+  "fetched_at": "2026-10-16 09:13:51 +0800",
   "today": "10/16",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
       "title": "亚马逊封杀Grok代下单，马斯克坐不住了：或许该搞个平台跟Amazon刚一下",
       "summary": "亚马逊近期正在全面封杀 Grok 等 AI Bot 访问其平台，导致用户无法通过智能体自动化下单与处理退货。面对智能体遭遇的全面拦截，马斯克公开发文称「或许我们该搞个竞品跟 Amazon 刚一下」，迅速引爆全网对 X 进军电商业务的猜测。业内人士直言，未来智能体客户数量可能超越人类，平台若一味把 Agent 当爬虫封堵，终将被下一代购物生态淘汰。",
-      "reads": "297万",
-      "ago": "1 小时前",
+      "reads": "515万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -30,13 +30,138 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 297万 · 产品与生态] 亚马逊封杀Grok代下单，马斯克坐不住了：或许该搞个平台跟Amazon刚一下"
+      "line": "[榜第1位 · 515万 · 产品与生态] 亚马逊封杀Grok代下单，马斯克坐不住了：或许该搞个平台跟Amazon刚一下"
+    },
+    {
+      "title": "告别「正在查询」机械感！OpenAI突袭GPT-Live 1.1，13种新声线全量推送",
+      "summary": "OpenAI正式推出并全量推送GPT-Live-1.1，全面升级ChatGPT、Codex以及dots中的Voice语音交互体验。新版本不仅一口气增加了13种全新声音（覆盖法语、德语、印地语、韩语、日语及墨西哥西班牙语等，英语还新增了Bubbie），更重点消除了此前令人频繁出戏的「正在查询（checking...）」口吃式停顿，让多语言口音更加地道自然，API接口也即将在近期开…",
+      "reads": "67万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI正式向所有用户全量推送GPT-Live-1.1，即日起ChatGPT、Codex和dots同步升级语音体验。",
+        "新版本累计新增13种全新声线，重点补齐了法语、德语、印地语、墨西哥西班牙语、韩语和日语，英语端则新增了Bubbie等选项。",
+        "痛点更新：新版大幅削减了过往交互中频繁出现、令人出戏的「checking...（正在查询/确认）」停顿与机械卡壳感。",
+        "自然表达提升：针对多语言进行了口音润色与表达丰富度优化，让跨语言交互听起来更接近真人日常对话。"
+      ],
+      "quote": {
+        "who": "Kol Tregaskes",
+        "role": "",
+        "said": "@Folken911 不好说是不是新的，但我已经跟它聊了一整天了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 67万 · 产品与生态] 告别「正在查询」机械感！OpenAI突袭GPT-Live 1.1，13种新声线全量推送"
+    },
+    {
+      "title": "不用切窗口了！OpenAI推出浏览器版computer use：跨标签页全自动干活",
+      "summary": "OpenAI 官方宣布对 ChatGPT 的 Chrome 扩展插件进行重磅升级，正式将 computer use 能力带进浏览器端，目前已面向所有 ChatGPT 套餐用户开放下载。在普通 Chat 模式下，AI 能直接跨标签页通读用户打开的所有网页并完成横向对比总结；切换到 Work 模式后，更支持自动跨页面填写表单、发送消息、下载文件并整理标签页，实现并排全自动作业。",
+      "reads": "51万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "能力全面下放：OpenAI 正式将 computer use 能力引入浏览器端，全新升级的 ChatGPT 官方 Chrome 扩展插件已向所有 ChatG…",
+        "普通模式直接打通多标签页：Chat 模式无需跳转即可自动读取用户打开的所有 Chrome 标签页，支持直接比对多款商品参数、定价页面或快速提炼多篇文章论点。",
+        "Work 模式解锁高阶代理操作：在 Work 模式下，系统能够执行跨标签页填写表单、发送消息、下载文件以及自动将散落的标签页分类整理成组等自动化任务。",
+        "侧边栏并排协同作业：插件侧边栏完整集成了用户的历史对话记录，允许用户在浏览当前网页的同时，并排进行多轮提问或处理复杂的后台任务。"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "OpenAI 升级了 ChatGPT 的 Chrome 扩展，加入支持跨打开标签页工作的工具。 在 Chat 模式下，它可以从标签页中收集信息；在 Work 模式下，它可以填写表单、发送消息、下载文件，并将标签页分组整理。 更新后的侧边栏还将你的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 51万 · 产品与生态] 不用切窗口了！OpenAI推出浏览器版computer use：跨标签页全自动干活"
+    },
+    {
+      "title": "小扎联手苹果！816B开源巨无霸来了，两台Mac Studio竟能本地跑",
+      "summary": "扎克伯格今天正式开源顶尖大模型 Muse Spark Open 权重！这款总参数高达 816B 的多模态巨兽原生支持 1M 上下文，与闭源旗舰 Muse Spark 1.3 共享基座，基准表现一举超越 Kimi 等竞品。更罕见的是 Meta 与多年宿敌苹果深度联手，专门针对 MLX 框架调优，两台 M5 Ultra 规格的 Mac Studio 连起来就能本地跑，开源社区 Un…",
+      "reads": "130万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "扎克伯格正式宣布开源多模态大模型 Muse Spark Open 权重，专为编程和智能体工作流程打造。",
+        "模型采用 MoE 架构，总参数高达 816B，但每个 Token 仅激活 42B 参数，原生支持文本、图像、视频和音频输入，并配备 1M 上下文。",
+        "Meta 与苹果破天荒联手合作，针对苹果最新 MLX 框架深度调优，实现了在两台互联的 Apple M5 Ultra Mac Studio 上本地部署并流畅…",
+        "该开源版本与 Meta 闭源旗舰 Muse Spark 1.3 共享相同基座模型，同时加入了针对单机独立运行的安全后训练，基准测试成绩被指超越 Kimi 等…"
+      ],
+      "quote": {
+        "who": "Ole Lehmann",
+        "role": "",
+        "said": "美国开源又支棱起来了 🇺🇸 小扎这周：发布 Muse Wonder，开源 Muse Spark，还让 Apple 调整了自己的软件以便它在 Mac 上流畅运行 18 个月前大家还在嘲笑 Llama 4 的基准测试。 现在 Meta 的开源模型打败了 Kimi"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 130万 · 模型与能力] 小扎联手苹果！816B开源巨无霸来了，两台Mac Studio竟能本地跑"
+    },
+    {
+      "title": "给工位给电脑发全权限！Anthropic邀外部机构驻场审查，马斯克表态效仿",
+      "summary": "Anthropic官方宣布与非营利机构METR达成深度合作，直接让6名外部安全评估员进驻公司，不仅配备专属电脑和工位，还开放了等同于内部风险团队的系统与工具权限。马斯克随后表态称SpaceX大概率也会跟进这种外部驻场审查。不过社区对此反应两极分化，有人盛赞其透明自律，也有人嘲讽METR与Anthropic关系过密，本质是「左手倒右手」走过场，是在为传闻中的下代新模型提前做合规背…",
+      "reads": "36万",
+      "ago": "40 分钟前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic宣布已向外部非营利评估机构METR的团队开放等同于内部正式员工级别的审查权限，并正与多家机构接洽。",
+        "共有6名METR评估员直接进驻Anthropic内部办公，拥有公司专属硬件、内部工位，享有与公司内部风险团队大致相当的系统和工具权限。",
+        "马斯克公开表态，称旗下SpaceX大概率也会效仿这种引入外部驻场评估的做法。",
+        "部分研究员与从业者称赞这一举措展现了极高的自律原则和透明度标准，属重大行业进展。"
+      ],
+      "quote": {
+        "who": "roon",
+        "role": "",
+        "said": "差点错过了！大进展！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 36万 · 政策与安全] 给工位给电脑发全权限！Anthropic邀外部机构驻场审查，马斯克表态效仿"
+    },
+    {
+      "title": "黑盒终于被撬开了！前OpenAI研究员可解释性大突破：人类毁灭概率暴降两位数",
+      "summary": "前OpenAI可解释性研究员Nick Cammarata公布全新机理可解释性研究突破，彻底颠覆了领域内专家此前对神经网络不可解的悲观预期。研究证实神经网络中的神经元与专家层本身就是合理且干净的抽象，人类完全可以通过常规探针像玩填字游戏一样逐步拆解和理解全貌。业内同行评价该成果足以载入科学史册，不仅让AI毁灭人类的生存风险降低两位数百分比，更标志着AI对齐从虚无缥缈的哲学探讨正式…",
+      "reads": "36万",
+      "ago": "46 分钟前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "前OpenAI早期机理可解释性共同主导者Nick Cammarata发布全新研究成果，在神经网络可解释性方向取得重磅突破",
+        "研究颠覆了多数专家的既有预测，证实神经元和专家网络（MoE）本身就是干净且合理的抽象概念，并非杂乱无章的外星代码",
+        "研究表明神经网络机制总体上完全可被理解，研究人员可以通过常规探针手段像解填字游戏一样，逐步拆解并拼凑出模型全貌",
+        "有研究员直呼这项成果让自己对神经网络的认知「直接往前弹射了5年」，甚至足以让AI悲观论代表人物Eliezer下调人类毁灭概率（pdoom）"
+      ],
+      "quote": {
+        "who": "Sharon Goldman",
+        "role": "",
+        "said": "@ZggyPlaydGuitar 我试试！我脑子已经装满了哈哈"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 36万 · 模型与能力] 黑盒终于被撬开了！前OpenAI研究员可解释性大突破：人类毁灭概率暴降两位数"
     },
     {
       "title": "马斯克老黄联手！Starlink 的 AI 算力版来了：Star Mind 明年量产",
       "summary": "马斯克与黄仁勋正式官宣重磅联手，双方正合作为 SpaceX 打造名为「Star Mind」的全新太空计算机，定于明年正式量产。黄仁勋在访谈中证实，两家工程团队正在设计专门用于太空的新型架构服务器，要把数据中心直接搬上近地轨道；随着 SpaceX 年发射次数突破 100 次并迈向每天多次发射，具备极高通用性且提供 8 年软件更新的英伟达算力将成为最具商业回报的发射有效载荷。马斯克…",
-      "reads": "194万",
-      "ago": "1 小时前",
+      "reads": "236万",
+      "ago": "4 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -54,64 +179,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 194万 · 资本与算力] 马斯克老黄联手！Starlink 的 AI 算力版来了：Star Mind 明年量产"
+      "rank": 7,
+      "line": "[榜第7位 · 236万 · 资本与算力] 马斯克老黄联手！Starlink 的 AI 算力版来了：Star Mind 明年量产"
     },
     {
-      "title": "小扎联手苹果甩王炸！816B多模态巨兽开源，两台Mac Studio直接跑",
-      "summary": "扎克伯格联手苹果放出重磅核弹，Meta正式开源816B多模态大模型Muse Spark Open。该模型原生支持1M长上下文与四模态输入，专为编程与智能体打造，直接共享Muse Spark 1.3的基座能力。得益于深度适配MLX框架，两台搭载M5 Ultra的Mac Studio即可本地部署，Unsloth也同步推出了2-bit量化版。",
-      "reads": "96万",
-      "ago": "50 分钟前",
-      "category": "中国与开源",
+      "title": "马斯克点头「智能体版亚马逊」！Grok操盘+只卖美产，正面硬刚贝佐斯",
+      "summary": "马斯克公开表态，认可打造一个对标亚马逊的新型电商平台。该设想主打两大基石：一是专为个人 AI 智能体设计的「Agent 优先」交互，二是仅销售美国本土制造的「美国优先」供应链。随着马斯克以「有道理」正面回应，业内迅速推演其商业版图，认为这正是 Grok Bot 落地实体商业、跑通 X Money 闭环支付体系的最佳试验场。",
+      "reads": "102万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "扎克伯格正式宣布开源大模型Muse Spark Open，权重已全面上线Hugging Face。",
-        "模型采用Muse-Spark-Open-816B-A42B架构，专为编程和智能体（Agent）任务打造。",
-        "该模型与闭源旗舰Muse Spark 1.3共享相同基座模型，并额外强化了防滥用的安全后训练。",
-        "原生支持1M超长上下文窗口，支持文本、图像、视频和音频四种模态输入。"
+        "马斯克在社交平台公开回复「有道理」，明确赞同打造对标亚马逊（Amazon）的新型电商平台设想",
+        "新电商构想核心特征之一是「智能体优先」，交互和采购逻辑专为个人 AI Agent 打造，而非传统人类浏览式货架",
+        "新电商构想核心特征之二是「美国优先」，平台将严格限定仅销售美国本土制造的商品",
+        "业内分析指出，该构想若推进，最自然的形态是由 Grok Bot 负责调度与运营，结合 X 平台原生流量实现商业落地"
       ],
       "quote": {
-        "who": "Rohan Paul",
+        "who": "Brian Roemmele",
         "role": "",
-        "said": "Meta 在 Huggingface 上发布了 Muse Spark Open 的权重，这是一个专为编程和智能体任务打造的 816B 参数模型。 开源版本与 Muse Spark 1.3 共享相同的基座模型，并增加了额外的安全后训练，以防止在没有系统的情况下作为独立模型被滥用"
+        "said": "一个由 Grok Bot 运营并基于 X Money 的新电商平台！ 这要是成了可就太神了！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 96万 · 中国与开源] 小扎联手苹果甩王炸！816B多模态巨兽开源，两台Mac Studio直接跑"
+      "rank": 8,
+      "line": "[榜第8位 · 102万 · 产品与生态] 马斯克点头「智能体版亚马逊」！Grok操盘+只卖美产，正面硬刚贝佐斯"
     },
     {
-      "title": "响应仅0.81秒！马斯克语音大模型空降第一，速度反超GPT-Live 40%",
-      "summary": "马斯克旗下 SpaceXAI 正式推出新一代端到端语音大模型 Grok Voice 3.0，马斯克直接发文称其为「全球领先的对话语音模型」。在评测机构 Artificial Analysis 的 Speech to Speech 榜单中，它以 86.9 分空降榜首，平均首字音频延迟仅 0.81 秒，比 GPT-Live-1 Astra 和 Gemini 3.8 Live 足足快…",
-      "reads": "217万",
-      "ago": "4 小时前",
+      "title": "英伟达开源炸场！120B多模态超越GPT-6，万项代码比DeepSeek快4倍",
+      "summary": "英伟达一口气开源了两款专为长期运行智能体打造的多模态大模型：旗舰 Nemotron 3.5 Super VL 与端侧版本 Nemotron 3.5 Bolt。旗舰 Super VL 拥有 120B 总参数及 12B 激活，支持最高 1M 上下文，在 10 万 Token 输入下输出速度突破 600tps，万项编程任务提速 4 倍且后训练全面超越 GPT-6 和 Claude；端…",
+      "reads": "52万",
+      "ago": "2 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "综合指数空降第一：在 Artificial Analysis 的 Speech to Speech 综合指数中，Grok Voice 3.0 以 86.9…",
-        "延迟大幅领先 40%：在 Big Bench Audio 评测中，Grok Voice 3.0 平均首字音频延迟仅需 0.81 秒，比 GPT-Live-1…",
-        "智能体基准斩获第二：在衡量智能体表现的 Tau Voice 测试中拿下 71.6%，仅次于 GPT-Live-1 Astra（74.5%），明显超越 Gem…",
-        "盲测竞技场跻身前三：在用户实时语音盲测的 Speech Agent Arena 中，Grok Voice 3.0 斩获 1070 的 Elo 分位列第三，仅…"
+        "英伟达正式推出多模态开源模型 Nemotron 3.5 Super VL 与端侧模型 Nemotron 3.5 Bolt，权重、数据集与训练配方全部公开。",
+        "旗舰 Super VL 采用 120B 总参数与 12B 激活的 MoE 架构，支持高达 1M Token 的上下文窗口，将推理、工具调用与文本、图像、文档…",
+        "在 10 万 Token 输入的极限测试中，Super VL 输出速度突破 600tps，较同类竞品最高提速 5 倍。",
+        "完成 10000 个真实编程任务仅需约 11 小时，速度比 DeepSeek 快 4 倍，SWE-Bench Pro 准确率突破 50%。"
       ],
       "quote": {
-        "who": "Design Arena",
+        "who": "Wes Roth",
         "role": "",
-        "said": "@spacexai AudioAgentBench是一个定制的Design Arena基准测试排行榜，它在6个面向客户的多轮真实场景（比如预约、买菜下单和活动策划）中，将语音到语音模型作为真实的语音智能体进行测试。 它会对工具调用、指令遵循以及"
+        "said": "NVIDIA 发布了 Nemotron 3.5 Super VL，这是一款结合了推理、工具调用以及文本、图像、文档和视频理解能力的开源模型。 总参数量 120B，每个 Token 激活 12B，支持高达 1M Token 的上下文窗口。 权重已上线："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 217万 · 模型与能力] 响应仅0.81秒！马斯克语音大模型空降第一，速度反超GPT-Live 40%"
+      "rank": 9,
+      "line": "[榜第9位 · 52万 · 模型与能力] 英伟达开源炸场！120B多模态超越GPT-6，万项代码比DeepSeek快4倍"
+    },
+    {
+      "title": "为了防AI灭绝人类，我们先造毁灭机器！这出讽刺神剧爆火，47万人听疯了",
+      "summary": "科技圈迎来一部辛辣讽刺 AI 军备竞赛的原创复古科幻广播剧《Multiplex FM Tomorrow》（明日之声）。首集《The Doom Calculus》（毁灭微积分）塑造了一位虚构研究所创始人，因推算出 AI 终将毁灭世界，反而得出「必须由自己抢先造出终极毁灭机器来拯救人类」的荒谬逻辑。剧集上线后全网播放量迅速突破 47 万次，借经典广播剧形式直刺当前各家机构深陷 P(…",
+      "reads": "149万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "首集定名《毁灭微积分》：复古科幻原创广播剧系列《Multiplex FM Tomorrow》正式推出第一集《The Doom Calculus》，全网播放量…",
+        "承袭黄金时代科幻电台风格：剧集风格全面致敬《X Minus One》与《Dimension X》两部经典广播剧，以独特的复古声效构建未来寓言。",
+        "精准讽刺 AI 安全派悖论：剧中虚构了 Prudence 研究所创始人 Desmond Fretwell 博士，他著有 9 本书并接受过 400 次专访，专…",
+        "荒诞逻辑直刺现实：剧中最刺眼的口号是「我们必须抢先造出毁灭机器，因为谁都不该造它」，主角坚信只有自己先造出终极模型「Prudence 1」才能拯救世界，甚至…"
+      ],
+      "quote": {
+        "who": "Brian Roemmele",
+        "role": "",
+        "said": "“我们必须先把 AI 毁灭概率（P(DOOM)）机器造出来，因为谁都不该造它”——Desmond Fretwell 他的 Prudence 1 AI 会毁灭世界，所以他必须把它造出来拯救我们。 快来收听这个全网播放量已超 47 万的复古系列节目。 112% 毁灭概率，并见证"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 149万 · 产品与生态] 为了防AI灭绝人类，我们先造毁灭机器！这出讽刺神剧爆火，47万人听疯了"
     },
     {
       "title": "小扎甩出全美最强开源！816B猛兽Muse上线，两台Mac Studio就能跑",
       "summary": "Meta正式开源816B超大模型Muse Spark Open，官方直接定性为「迄今最强美国开源权重模型」。该模型采用MoE架构（激活参数42B），支持1M Token超长上下文与原生全模态输入，专为长程智能体与复杂软件工程打造。模型权重于10月15日开放免费下载商用，并同步上线OpenRouter等API平台（输入每百万Token 1.25美元、输出4.25美元），本地部署仅…",
-      "reads": "59万",
-      "ago": "1 小时前",
+      "reads": "79万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -129,64 +279,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 59万 · 模型与能力] 小扎甩出全美最强开源！816B猛兽Muse上线，两台Mac Studio就能跑"
+      "rank": 11,
+      "line": "[榜第11位 · 79万 · 模型与能力] 小扎甩出全美最强开源！816B猛兽Muse上线，两台Mac Studio就能跑"
     },
     {
-      "title": "模型满载不卡死了！OpenAI连夜狂堆算力，网友急喊：我们要新模型",
-      "summary": "连续更新进行到第11天，OpenAI高管Tibo确认已上线多项底层优化并紧急追加算力，全面压制频繁弹出的「所选模型已满载」打断提示；即便偶尔触发，系统也会自动恢复运行而不再卡死。然而社区对这次救场并不完全买账，不少开发者直言这只是修复旧Bug而非实质升级，并催促团队尽快拿出对标竞争对手的全新旗舰。针对催更，有爆料指出至少20天内不会有新模型发布，官方人员则表示更多底层优化仍在路…",
-      "reads": "55万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
+      "title": "暴砍62%操作！谷歌Gemini 4 Argon杀回前沿：ARC破97.5%，直逼Astra",
+      "summary": "ARC-AGI官方正式公布对Google新模型Gemini 4 Argon的验证成绩。在ARC-AGI-3测试中，Argon凭借provider adapter框架拿下97.5%的惊人得分（成本4800美元），成为全球仅次于OpenAI旗舰GPT-6 Astra（99.9%）的第二家破95%的实验室。ARC创始人François Chollet直言谷歌已重回前沿阵地，学者也感慨…",
+      "reads": "15万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI高管Tibo在连续更迭的第11天宣布，团队已落地一系列改动并增加更多算力，大幅降低模型满载提示的打断频次。",
-        "系统机制全面调整，用户即使偶发触发「所选模型已满载，请尝试其他模型」的提示，流程最终也会自动继续执行，不再直接卡死。",
-        "社区反馈呈现两极分化，多位开发者吐槽官方只是修补了一个存在已久的Bug，并非所有用户期待的功能性大版本提升。",
-        "有重度用户抱怨近期用量重置过于频繁已难以跟进节奏，甚至公开喊话OpenAI团队喝点咖啡加把劲，尽快发布对标Opus 5.5与Fable 5.5级别的两款超强…"
+        "ARC-AGI官方公布验证成绩，Gemini 4 Argon在ARC-AGI-3上凭借provider adapter框架斩获97.5%的高分，测试成本为4…",
+        "在ARC-AGI-3标准框架下，Argon得分达到49.8%，测试成本为5800美元，标准框架允许模型在不同步骤间保留笔记。",
+        "Google DeepMind凭此成为继OpenAI（GPT-6 Astra得分为99.9%）之后，全球第二家在ARC-AGI-3突破95%大关的前沿实验室…",
+        "在早期基准上，Argon同样表现优异：ARC-AGI-2得分91.3%（单任务0.32美元），ARC-AGI-1得分98.5%（单任务0.16美元）。"
       ],
       "quote": {
-        "who": "Kol Tregaskes",
+        "who": "Ethan Mollick",
         "role": "",
-        "said": "@thsottiaux 挺酷，但这算是一次更新、修复了旧问题吗？😜"
+        "said": "框架外壳 + 聪明的模型 = 最后一批著名高难基准测试的终结。 模型现在可以极长时间持续工作（别了，METR Long Tasks），能生成数学完全正确的专业文档（再见，GDPval），还能解开复杂的新谜题（永别了，ARC-AGI-3）。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 55万 · 资本与算力] 模型满载不卡死了！OpenAI连夜狂堆算力，网友急喊：我们要新模型"
+      "rank": 12,
+      "line": "[榜第12位 · 15万 · 模型与能力] 暴砍62%操作！谷歌Gemini 4 Argon杀回前沿：ARC破97.5%，直逼Astra"
     },
     {
-      "title": "单卡24G就能跑！英伟达开源两款Nemotron：10万输入输出暴涨5倍",
-      "summary": "英伟达一口气发布两款开源多模态大模型Nemotron 3.5 Super VL和Nemotron 3.5 Bolt，专为长时间运行的AI Agent设计。其中旗舰款Super VL总参120B但激活参数仅12B，在10万长输入下输出速度飙至600tps以上，较竞品快5倍，完成万项代码任务提速最高4倍；端侧版Bolt总参74B、激活9B，支持原生量化仅需24GB显存单卡本地运行。…",
-      "reads": "42万",
-      "ago": "2 小时前",
-      "category": "中国与开源",
+      "title": "正面硬刚OpenAI！Claude版Ultrafast取消排队：速度狂飙2.5倍，不锁500刀套餐",
+      "summary": "Anthropic 宣布 Claude Platform 上的 Opus 5.5 快速模式（fast mode）正式结束研究预览，全面取消候补排队。该版本在保持模型原有智商能力的前提下，生成速度最高飙升 2.5 倍，API 价格定在每百万 Token 输入 8 美元、输出 40 美元。虽然 Pro 和 Max 订阅用户在 Claude Code 中使用仍需按量额外付费，但相比…",
+      "reads": "33万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "英伟达正式开源专为AI智能体打造的多模态大模型Nemotron 3.5 Super VL与端侧版本Nemotron 3.5 Bolt。",
-        "旗舰款Super VL采用MoE架构，总参数量120B但激活参数仅12B，运行需82GB内存，原生融合文本、图像、文档与视频理解能力。",
-        "在极具挑战的SWE-Bench Pro上准确率超过50%，完成10,000个代码任务的速度最高提升达4倍。",
-        "在ArtificialAnalysis实测的100K长输入测试中，Super VL输出速度突破600tps，比同类竞品快达5倍；在Hermes Bench测…"
+        "取消候补排队：Claude Platform 正式结束 Opus 5.5 fast mode 的研究预览阶段，面向所有开发者全面开放。",
+        "性能提升 2.5 倍：在核心推理能力和模型输出质量完全不变的前提下，文本生成速度最高提升至标准版的 2.5 倍。",
+        "API 定价翻倍：快速模式收费标准为每百万 Token 输入 8 美元、输出 40 美元，整体价格为标准版 Opus 5.5 的两倍。",
+        "订阅用户需额外掏钱：Pro、Max 等订阅用户在 Claude Code 命令行中使用「/fast」命令不计入订阅额度，需按 API 用量额外付费。"
       ],
       "quote": {
-        "who": "NVIDIA",
+        "who": "宝玉",
         "role": "",
-        "said": "又来一个，这次是给笔记本电脑准备的。⚡️ 除了 Nemotron 3.5 Super VL，隆重介绍 NVIDIA Nemotron 3.5 Bolt。专为 RTX Spark 上的本地 AI 智能体打造，74B 参数仅需 24GB 显存。 快来看看 ⬇"
+        "said": "Opus 5.5 快速模式取消排队：订阅用户要额外付费，API 价格是标准版两倍 Anthropic 宣布，Claude Opus 5.5 的快速模式结束内测，取消候补名单。还是同一个模型，能力不变，回答写出来的速度最多快 2.5 倍。 费用不算在订阅里。Pro、Max 等订阅用户在 Claude Code 里用 /fast"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 42万 · 中国与开源] 单卡24G就能跑！英伟达开源两款Nemotron：10万输入输出暴涨5倍"
+      "rank": 13,
+      "line": "[榜第13位 · 33万 · 模型与能力] 正面硬刚OpenAI！Claude版Ultrafast取消排队：速度狂飙2.5倍，不锁500刀套餐"
     },
     {
       "title": "马斯克放话超越人类！全新Roadster今晚揭晓：专利曝光，车要飞了？",
       "summary": "马斯克发文为全新一代 Tesla Roadster 疯狂预热，直言新车超越电影、超越想象甚至超越人类极限，但依然由地球人类制造。科技圈随后传出重磅消息，今晚特斯拉就将正式揭晓新车成果，核心直指此前备受瞩目的专利 12,746,987。外界根据爆料分析，新车不仅拥有前所未见的外形设计，甚至可能直接具备空中悬浮或飞行属性。",
-      "reads": "262万",
-      "ago": "7 小时前",
+      "reads": "496万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -204,208 +354,58 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 262万 · 产品与生态] 马斯克放话超越人类！全新Roadster今晚揭晓：专利曝光，车要飞了？"
-    },
-    {
-      "title": "再也不用等「正在查询」！OpenAI推GPT-Live-1.1，全量上线三端平台",
-      "summary": "OpenAI正式推出全双工实时语音更新GPT-Live-1.1，大幅减少了对话交互时「正在查询……」的停顿卡顿感。新版本一口气补齐了法语、德语、印地语、墨西哥西班牙语、韩语和日语等本土化新声线。目前该更新已向ChatGPT、Codex及dots的全量用户正式推送生效，面向开发者的API接口也即将在近期上线。",
-      "reads": "35万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI正式发布全双工端到端语音模型小版本更新GPT-Live-1.1。",
-        "大幅优化语音响应延迟，显著减少实时对话中「正在查询……」的停顿与卡顿感。",
-        "新增多语种地道声线，覆盖法语、德语、印地语、墨西哥西班牙语、韩语和日语6大语言。",
-        "全面打通三款产品，ChatGPT、Codex与dots平台的语音体验均同步迎来升级。"
-      ],
-      "quote": {
-        "who": "OpenAI",
-        "role": "",
-        "said": "全新声线、更自然的口音，以及更少的“正在查询……” GPT-Live-1.1 为 ChatGPT、Codex 和 dots 的语音功能带来了这些升级，新增法语、德语、印地语、墨西哥西班牙语、韩语和日语声线。 今天向所有用户推送。API 也即将上线。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 35万 · 模型与能力] 再也不用等「正在查询」！OpenAI推GPT-Live-1.1，全量上线三端平台"
-    },
-    {
-      "title": "为突袭Fable 5.5铺路？Anthropic进驻6名安全官全权查岗，引爆全网猜测",
-      "summary": "Anthropic 官方宣布与外部非营利评估机构 METR 展开深度合作，安排 6 名安全评估员直接进驻公司内部。这批人员不仅配齐了公司硬件与独立工位，对内部系统、工具及前沿模型的访问权限也基本对齐其内部风险团队。圈内爆料与多位分析人士指出，Anthropic 这类大动作往往是极具冲击力的新旗舰发布前夕的标配前奏，极可能是为了传闻中的 Fable 5.5 扫清合规障碍；不过也有…",
-      "reads": "23万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "官方开放员工级特权：Anthropic 证实正与多家机构接洽审查，并已正式向非营利评估机构 METR 开放等同于内部员工级别的系统权限。",
-        "6 名安全官带设备进驻：目前已有 6 名 METR 评估员正式入驻 Anthropic 办公区，配齐了官方电脑硬件和固定办公工位。",
-        "权限拉满对齐风险团队：这批外部进驻人员对公司核心前沿模型、开发工具及内部团队的接触范围，与 Anthropic 自家风险部门平级。",
-        "被视作颠覆性新品前奏：业内人士分析，Anthropic 突然发文公开第三方的深度介入，完全符合其在突袭发布超强新模型前的典型宣发惯例。"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": "Anthropic 引入了来自外部非营利机构 METR 的 6 名安全评估员进驻公司，他们对内部系统、工具和员工的访问权限，基本等同于公司内部的风险团队。 这 6 名 METR 员工拥有公司硬件、办公工位，并享有“大致相当”的内部访问权限"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 23万 · 政策与安全] 为突袭Fable 5.5铺路？Anthropic进驻6名安全官全权查岗，引爆全网猜测"
-    },
-    {
-      "title": "单季狂揽168亿美元！Anthropic财务底牌泄露，新旗舰Fable 5.5亮出",
-      "summary": "Anthropic 闭门投资者会议的关键财务数据意外曝光，第三季度营收环比狂涨 45%，直接冲上 168 亿美元；此前第一季度和第二季度营收分别只有 47 亿和 116 亿美元。随着亮眼财报出炉，市场对其冲击 1100 亿美元营收目标的信心迅速回升，筹备中的 IPO 全面升温。爆料显示，其管理层超强信心的源头，正来自即将登场的新一代旗舰模型 Fable 5.5（代号 wizar…",
-      "reads": "30万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "闭门投资者会议后财务数据外泄，Anthropic 第三季度营收达到 168 亿美元，环比暴增 45%。",
-        "财务数据显示出惊人的爆发力，公司今年第一季度营收为 47 亿美元，第二季度跳升至 116 亿美元。",
-        "随着三季度强劲业绩披露，外界对其年内完成 1100 亿美元营收目标的预期再度升温。",
-        "爆料者透露，管理层对商业变现的巨大底气，主要来自即将发布的新一代模型 Fable 5.5（内部代号 wizard）。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "@jtsc8412 谁把你拉黑了？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 30万 · 资本与算力] 单季狂揽168亿美元！Anthropic财务底牌泄露，新旗舰Fable 5.5亮出"
-    },
-    {
-      "title": "误差暴降40倍！谷歌量子芯片Willow攻克最大瓶颈，99.99%保真度创纪录",
-      "summary": "谷歌在容错量子计算领域迎来决定性突破！CEO Sundar Pichai 宣布，Google Quantum AI 团队首次在真实硬件上成功跑通「魔术态培育」（magic state cultivation）。该实验在自研的 Willow 量子处理器上完成，一举将误差降低了 40 倍，并达成了 99.99% 的业界顶尖逻辑保真度，直接攻克了通用量子计算长期以来的最大工程拦路虎。",
-      "reads": "13万",
-      "ago": "1 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "谷歌 CEO Sundar Pichai 宣布，Google Quantum AI 团队首次在物理硬件上成功演示「魔术态培育」（magic state cu…",
-        "实验在谷歌旗舰量子处理器 Willow 上完成，相比以往方法直接实现了 40 倍的误差降低",
-        "该突破达成了 99.99% 的逻辑保真度，创下业界顶尖水平",
-        "魔术态培育直接针对量子计算核心痛点：单量子比特 T 门（T-gate）无法通过常规方式纠错，必须消耗魔术态来通过纠缠转移特性"
-      ],
-      "quote": {
-        "who": "Chris",
-        "role": "",
-        "said": "研究人员在他们的 Willow 处理器上展示了一种叫做“魔术态培育”（magic state cultivation）的技术，将错误率降低了 40 倍，并实现了 99.99% 的逻辑保真度。 给不了解的人科普一下：制造高质量的魔术态是构建……当中最难、最大的瓶颈之一"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 13万 · 资本与算力] 误差暴降40倍！谷歌量子芯片Willow攻克最大瓶颈，99.99%保真度创纪录"
-    },
-    {
-      "title": "马斯克放狠话！新一代Roadster将演史上最伟大demo：搞不好真会炸",
-      "summary": "马斯克在社交平台开启超级预热模式，直言全新 Tesla Roadster 的产品演示有望角逐「有史以来最伟大的产品 demo」。他随后甚至跟推调侃，称这场展示绝对炸裂（BANGER），不仅是比喻意义上的，搞不好真会在物理层面上「炸」。作为此前宣称要搭载冷气推进器的跳票旗舰，这场演示将直接检验特斯拉能否彻底颠覆汽车工业的性能极限。",
-      "reads": "2378万",
-      "ago": "18 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "马斯克公开宣称，全新 Tesla Roadster 有机会问鼎「有史以来最伟大的产品演示」（greatest product demo of all tim…",
-        "马斯克跟推补刀表示，这场 demo 绝对会非常炸裂（BANGER），除了比喻意义之外，甚至有可能在物理层面上真正炸裂。",
-        "全新 Tesla Roadster 是特斯拉跳票多年的旗舰电动超跑，外界对其量产技术上限与具体交付节点的期待已被推向顶点。",
-        "根据此前公开的技术规划，该车曾计划引入与 SpaceX 合作的冷气推进器等极端工程设计，这也呼应了马斯克调侃「真会爆炸」的由头。"
-      ],
-      "quote": {
-        "who": "Elon Musk",
-        "role": "",
-        "said": "这么说吧，这个 demo 绝对会炸裂，可能是比喻意义上的，但也保不齐是真的“炸”"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 2378万 · 产品与生态] 马斯克放狠话！新一代Roadster将演史上最伟大demo：搞不好真会炸"
-    },
-    {
-      "title": "候补名单全砍！Anthropic上线Opus 5.5极速版，推理直接快2.5倍",
-      "summary": "Anthropic官方宣布，Claude Platform上的Opus 5.5 fast mode正式结束研究预览，并已彻底移除候补名单。该模式在维持原有旗舰能力完全不打折的前提下，推理速度最高直接提升2.5倍。定价方面，API输入与输出分别为每百万Token 8美元和40美元。目前除自家平台外，由Azure托管的Microsoft Foundry也已同步上线，谷歌云支持也将在…",
-      "reads": "9.0万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "预览转正与全量开放：Anthropic宣布Claude Platform上的Opus 5.5 fast mode正式脱离研究预览阶段，彻底取消排队候补名单…",
-        "推理性能最高提速2.5倍：Fast mode在完整保留Opus 5.5原有智能水平与生成质量的基础上，将推理速度最高提升至原版的2.5倍。",
-        "官方调用定价公布：API调用价格定为输入每百万Token 8美元、输出每百万Token 40美元。",
-        "微软云端率先同步上线：除Anthropic官方平台外，该极速版本已同步在基于Azure托管的Microsoft Foundry上线。"
-      ],
-      "quote": {
-        "who": "ClaudeDevs",
-        "role": "",
-        "said": "Claude Platform 上的 Opus 5.5 fast mode 结束研究预览，我们已经取消了候补名单！ 还是那个 Opus 5.5，但速度最高提升 2.5 倍，价格为每百万 Token 8 美元 / 40 美元。 它也已上线 Microsoft Foundry（基于 Azure 托管），Google Cloud 版本即将推出。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 9.0万 · 模型与能力] 候补名单全砍！Anthropic上线Opus 5.5极速版，推理直接快2.5倍"
+      "line": "[榜第14位 · 496万 · 产品与生态] 马斯克放话超越人类！全新Roadster今晚揭晓：专利曝光，车要飞了？"
     },
     {
-      "title": "拍张信用卡就能订机票！马斯克放话：Grok买错或泄露，SpaceX全额赔付",
-      "summary": "有用户实测直接向 Grok 发送信用卡翻拍照，AI 便自主搞定了全套机票预订。面对公众对财务隐私和误扣款的担忧，马斯克公开承诺：若 Grok 购物出错或泄露卡号，将由 SpaceX 全额赔付。这也是业内首个拿实体高估值企业为 AI 支付场景兜底的案例，不过从业者仍建议优先使用限额虚拟卡以防万一。",
-      "reads": "129万",
-      "ago": "8 小时前",
-      "category": "产品与生态",
+      "title": "模型满载不卡死了！OpenAI连夜狂堆算力，网友急喊：我们要新模型",
+      "summary": "连续更新进行到第11天，OpenAI高管Tibo确认已上线多项底层优化并紧急追加算力，全面压制频繁弹出的「所选模型已满载」打断提示；即便偶尔触发，系统也会自动恢复运行而不再卡死。然而社区对这次救场并不完全买账，不少开发者直言这只是修复旧Bug而非实质升级，并催促团队尽快拿出对标竞争对手的全新旗舰。针对催更，有爆料指出至少20天内不会有新模型发布，官方人员则表示更多底层优化仍在路…",
+      "reads": "83万",
+      "ago": "5 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "有用户实测体验了 Grok Bot 的代下单能力：仅需发送一张信用卡翻拍照，AI 便自动跑完了原本极其繁琐的机票订购全流程。",
-        "针对用户对 AI 接触银行卡隐私和自主扣款的安全顾虑，马斯克公开回应力挺这一功能。",
-        "马斯克公开作出兜底承诺：若 Grok 在购物时发生误操作或泄露用户卡号，SpaceX 将负责全额赔偿。",
-        "马斯克补充说明，Grok 截至目前从未发生过泄露用户银行卡信息的事故。"
+        "OpenAI高管Tibo在连续更迭的第11天宣布，团队已落地一系列改动并增加更多算力，大幅降低模型满载提示的打断频次。",
+        "系统机制全面调整，用户即使偶发触发「所选模型已满载，请尝试其他模型」的提示，流程最终也会自动继续执行，不再直接卡死。",
+        "社区反馈呈现两极分化，多位开发者吐槽官方只是修补了一个存在已久的Bug，并非所有用户期待的功能性大版本提升。",
+        "有重度用户抱怨近期用量重置过于频繁已难以跟进节奏，甚至公开喊话OpenAI团队喝点咖啡加把劲，尽快发布对标Opus 5.5与Fable 5.5级别的两款超强…"
       ],
       "quote": {
-        "who": "Alex Prompter",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "@elonmusk @bot 太强了 不过最好还是先走这几步： → 设限额的虚拟卡 → 付款前开启手动审批 → 用完直接删卡 花 2 分钟，以后根本不需要什么兜底保障。"
+        "said": "@thsottiaux 挺酷，但这算是一次更新、修复了旧问题吗？😜"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 129万 · 产品与生态] 拍张信用卡就能订机票！马斯克放话：Grok买错或泄露，SpaceX全额赔付"
+      "line": "[榜第15位 · 83万 · 资本与算力] 模型满载不卡死了！OpenAI连夜狂堆算力，网友急喊：我们要新模型"
     },
     {
-      "title": "Computer Use 浏览器插件版来了！OpenAI 突袭 Chrome，免费全量开闸",
-      "summary": "OpenAI 官方宣布面向所有 Chrome 用户推送重大更新，把 Computer Use 能力正式塞进了官方扩展插件。不仅完整版 ChatGPT 能够常驻浏览器侧边栏并同步历史记录，还能跨标签页直接读取内容、比对参数甚至提炼要点。最关键的是，这项更新不仅面向订阅会员，所有免费用户即日起也都能直接下载使用。",
-      "reads": "8.1万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
+      "title": "困扰22年的死穴破了！谷歌量子芯片错误率暴砍40倍，保真度干到99.99%",
+      "summary": "谷歌量子计算迎来里程碑式突破！CEO 皮查伊宣布，Google Quantum AI 团队在自研量子芯片 Willow 上，首次在物理硬件层面成功跑通「魔态培育」技术。实验结果不仅把魔态制备的错误率相比以往方法狂砍 40 倍（次品率降至原先的四十分之一），还拿下了 99.99% 的业界最高逻辑保真度，直接砸碎了量子计算界自 2004 年以来困扰整整 22 年的核心工程死穴。",
+      "reads": "25万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI 正式升级官方 Chrome 浏览器扩展，向所有用户开放 Computer Use 核心能力。",
-        "支持跨标签页深度交互：ChatGPT 可直接读取用户打开的多个网页，自动比对尺寸、价格、交期与退货政策，或快速通俗提炼长文核心论点。",
-        "完整版 ChatGPT 进驻浏览器侧边栏，无需切屏即可在浏览网页的同时并行处理 Chat 问答与 Work 任务。",
-        "全面打通用户生态，侧边栏内置完整的 ChatGPT 历史记录，多端上下文实时同步。"
+        "物理硬件首次实测：谷歌 CEO 皮查伊宣布，Google Quantum AI 团队在自研量子芯片 Willow 上，首次在真实物理硬件上成功演示了「魔态培…",
+        "错误率削减40倍：实验数据显示，新技术将魔态制备过程中的错误率大幅削减了整整 40 倍，相当于次品率直接压缩到了原先的四十分之一。",
+        "刷新行业保真度上限：该方案一举达到了 99.99% 的业界最高逻辑保真度，在硬件层面验证了超高精度量子纠错工程的可行性。",
+        "砸碎22年技术死结：制备高纯净度魔态是困扰全球量子计算界自 2004 年提出以来长达 22 年的核心瓶颈，谷歌此次在物理实体上率先攻克。"
       ],
       "quote": {
-        "who": "ChatGPT",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "立即下载 Chrome 插件开始使用： 支持所有 ChatGPT 套餐。"
+        "said": "Google 在量子计算领域迈上了新台阶。 称其攻克了研究人员自 2004 年以来就指出的瓶颈。 量子计算机需要单次使用的“魔态”来运行超越普通计算机的运算。 制备干净的魔态成本极高，以至于某些"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 8.1万 · 产品与生态] Computer Use 浏览器插件版来了！OpenAI 突袭 Chrome，免费全量开闸"
+      "line": "[榜第16位 · 25万 · 模型与能力] 困扰22年的死穴破了！谷歌量子芯片错误率暴砍40倍，保真度干到99.99%"
     }
   ],
   "board_count": 16,
