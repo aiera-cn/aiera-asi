@@ -3,15 +3,90 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-17 01:21:11 +0800",
+  "fetched_at": "2026-10-17 04:58:53 +0800",
   "today": "10/17",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "零百0.81秒直接起飞！马斯克真把跑车送上天，皮查伊LeCun全炸了",
+      "summary": "马斯克兑现吹过的最大神话，全新一代 Tesla Roadster 飞行演示正式曝光。新车搭载主推进器与姿态控制系统，0-60 mph 加速冲进惊人的 0.81 秒，不仅能空中悬停甚至配有自行充气气罐。演示引爆科技圈，谷歌 CEO 皮查伊在线求 FSD 版本，哈萨比斯惊呼《银翼杀手》照进现实，LeCun 也赶来围观追问技术细节。",
+      "reads": "2601万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "马斯克在社交平台发布全新一代 Tesla Roadster 飞行演示视频，配文直言「原来未来真的有飞行汽车」。",
+        "极致动力性能曝光：该车 0-60 mph 加速仅需 0.81 秒，实测视频显示车底喷出蓝色推力气流，完成了低空悬停与空中飞跃。",
+        "整车集成冷气推进技术：车尾配有主推进器与姿态控制推进器，车身气罐可自行「充气」补压，支持翻滚等高机动动作。",
+        "谷歌 CEO Sundar Pichai 隔空道贺并表示「期待这款飞车的 FSD 版本」，马斯克随即回复致谢工程师团队。"
+      ],
+      "quote": {
+        "who": "Yann LeCun",
+        "role": "",
+        "said": "@elonmusk 过氧化氢？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 2601万 · 产品与生态] 零百0.81秒直接起飞！马斯克真把跑车送上天，皮查伊LeCun全炸了"
+    },
+    {
+      "title": "年省129美元！马斯克亲自带货：Grok Bot秒变免费版DeleteMe，全网清空骚扰电话",
+      "summary": "骚扰电话和垃圾短信终于有救了。马斯克公开发文，号召用户用 Grok Bot 将手机号从全网防骚扰及推广名单中彻底移除。该玩法源自开发者将搜集泄露网站并代提删除申请的流程封装为免费技能，只需 4 步操作，就能零成本替代每年收费 129 美元的传统隐私清理服务 DeleteMe。",
+      "reads": "462万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "马斯克公开呼吁用户使用 Grok Bot，将个人手机号码从骚扰电话与垃圾短信列表中一键移除。",
+        "该方案最初由社区开发者捣鼓而成，因苦于骚扰电话轰炸，便让 Grok Bot 抓取挂靠其号码的网站并自动提交数据删除申请，随后制成免费技能公开。",
+        "社区迅速梳理出 4 步操作教程，展示普通用户如何通过自然语言指令调用 Grok Bot 自动巡查并清理隐私数据。",
+        "该功能直接平替了海外知名数据清理服务 DeleteMe，帮助用户省下每年 129 美元的订阅费用。"
+      ],
+      "quote": {
+        "who": "Alex Prompter",
+        "role": "",
+        "said": "觉得有用的话，看看我下面的通讯 我每周分享一个 AI 超能力 免费订阅 👇"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 462万 · 产品与生态] 年省129美元！马斯克亲自带货：Grok Bot秒变免费版DeleteMe，全网清空骚扰电话"
+    },
+    {
+      "title": "狂送1万美元额度！Anthropic全面开放代码审查：提速3倍，每个PR自动排雷",
+      "summary": "程序员最头疼的审代码环节彻底被 AI 接管了！Anthropic 官方宣布 Claude Code 的 Code Review 功能全面开放（GA），面向 Claude Team 与 Enterprise 套餐用户。新版审查速度相比研究预览版直接飙升约 3 倍，不仅能精准定位关键 bug 并附带诱因与修复方案，还提供 Quick、Standard、Deep 三档深度。为推动企业…",
+      "reads": "57万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Claude Code 的 Code Review 功能正式进入全面可用（GA）阶段，面向 Claude Team 和 Enterprise 用户全量开放。",
+        "审查效率大幅进化，大多数代码审查用时比此前的研究预览版提速约 3 倍，大幅压缩等待时间。",
+        "审查质量显著提高，能精准捕捉逻辑漏洞并输出精简报告，明确列出问题本质、触发条件以及具体修复方案。",
+        "管理员可按代码库为每次审查自由配置 Quick、Standard 或 Deep 三档深度，开启后所有新 PR 自动运行，开发者完全免配置。"
+      ],
+      "quote": {
+        "who": "Boris Cherny",
+        "role": "",
+        "said": "@benkingfm 具体有什么例子吗？我觉得这些 app 挺不错的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 57万 · 产品与生态] 狂送1万美元额度！Anthropic全面开放代码审查：提速3倍，每个PR自动排雷"
+    },
+    {
       "title": "OpenAI明牌憋大招！传月底前掏出Astra 6.1，正面硬刚Fable 5.5",
       "summary": "OpenAI高管一句「要么没招了要么在憋大招」瞬间点燃社区。圈内与爆料者普遍解读，官方极可能在围绕Codex的28天周期内释出1至2款新模型，甚至赶在月底前甩出Astra 6.1正面硬刚Anthropic的Fable 5.5。除了期待内部新模型尽早落地，全球开发者更齐声呼吁取消Pro方案的5小时限制，并盼望ChatGPT与Codex迎来真正合并。",
-      "reads": "99万",
-      "ago": "1 小时前",
+      "reads": "100万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -29,14 +104,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 99万 · 模型与能力] OpenAI明牌憋大招！传月底前掏出Astra 6.1，正面硬刚Fable 5.5"
+      "rank": 4,
+      "line": "[榜第4位 · 100万 · 模型与能力] OpenAI明牌憋大招！传月底前掏出Astra 6.1，正面硬刚Fable 5.5"
     },
     {
       "title": "开10个标签页直接查！ChatGPT进驻Chrome，不用切模式全员免费玩",
       "summary": "OpenAI正式升级ChatGPT Chrome浏览器扩展，将跨标签页的computer use能力下放给所有用户。本次更新最大的改变是打通了日常交互体验：用户无需切入专属的Work模式，在普通Chat聊天框里就能直接让模型翻阅多个打开的标签页进行对比与提炼。新版侧边栏还完整同步了历史记录，所有套餐用户即日起均可免费下载使用。",
-      "reads": "125万",
-      "ago": "2 小时前",
+      "reads": "133万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -54,71 +129,71 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 125万 · 产品与生态] 开10个标签页直接查！ChatGPT进驻Chrome，不用切模式全员免费玩"
+      "rank": 5,
+      "line": "[榜第5位 · 133万 · 产品与生态] 开10个标签页直接查！ChatGPT进驻Chrome，不用切模式全员免费玩"
     },
     {
-      "title": "马斯克喊全网反击骚扰电话！Grok一键查出泄露源，批量申请抹掉号码",
-      "summary": "天天被推销电话和垃圾短信轰炸，终于有人拿AI反击了。一位受够骚扰的开发者把Grok Bot调教成自动退订帮手，让它自己顺着网线搜出挂着号码的公开网站，并批量提交删除申请。马斯克随后亲自转发并全网喊话安利，直接让这个免费技能火出了圈。",
-      "reads": "78万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "马斯克在X上公开发文喊话，让用户直接呼叫Grok Bot，把自己的手机号从骚扰电话和垃圾短信名单中批量移除",
-        "核心逻辑是由Grok智能体自动检索互联网上收录了用户手机号的公开站点，并顺藤摸瓜向各平台逐一发起退订或数据删除申请",
-        "该玩法最初由社区开发者自研，因实在难以忍受高频骚扰电话，遂将其封装成通用的免费技能向所有用户开放",
-        "该技能免去了普通人手动查找泄露源、逐个填写申诉表单的繁琐操作，把隐私清理流程全交由Agent代劳"
-      ],
-      "quote": {
-        "who": "Alex Prompter",
-        "role": "",
-        "said": "觉得有用的话，看看我下面的通讯 我每周分享一个 AI 超能力 免费订阅 👇"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 78万 · 产品与生态] 马斯克喊全网反击骚扰电话！Grok一键查出泄露源，批量申请抹掉号码"
-    },
-    {
-      "title": "车底直接喷射气流悬停！特斯拉新跑车0.81秒破百，皮查伊排队求FSD版",
-      "summary": "科幻电影里的飞车彻底照进现实。特斯拉全新Roadster在现场展示中直接升空悬停，车底喷射出蓝色推力气流，0-60英里加速更是干进惊人的0.81秒。该车不仅配备尾部姿态控制推进器与主推进器，还能自行给储气罐充气，马斯克直呼「原来未来真的有飞行汽车」。谷歌CEO Sundar Pichai与DeepMind创始人Demis Hassabis等科技巨头掌舵人连夜排队道喜，盛赞《银翼…",
-      "reads": "2601万",
-      "ago": "10 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "实测空中悬停：现场画面显示一辆白色全新Roadster在夜空中直接悬停飞行，车底喷射强劲的蓝色推力气流，颠覆传统载具形态。",
-        "地表加速记录被刷爆：特斯拉官方数据显示，全新Roadster从0加速到60英里仅需0.81秒。",
-        "全套火箭推进系统上车：新车配备尾部姿态控制推进器与主推进器，具备空中翻滚等机动能力，甚至能够自行给储气罐充气。",
-        "马斯克发文感叹：马斯克连发多条推文表示「拥有一辆火箭车绝对疯狂」，并由衷感慨原来未来真的迎来了飞行汽车。"
-      ],
-      "quote": {
-        "who": "Kol Tregaskes",
-        "role": "",
-        "said": "它能自己给气罐「充气」："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 2601万 · 产品与生态] 车底直接喷射气流悬停！特斯拉新跑车0.81秒破百，皮查伊排队求FSD版"
-    },
-    {
-      "title": "六层楼高垂直砸向地面！马斯克把火箭反推搬上超跑，新款Roadster空中止坠",
-      "summary": "马斯克联手SpaceX打造的新款Roadster完成了一场近乎疯狂的工程演示：测试车在65英尺（约六层楼高）的高空几乎完全底朝天倒悬，释放后依靠冷气推进器喷气反推在触地前极限刹停。与此同时，资本市场曝出SpaceX或将在12月初特斯拉年会前提出全股票收购特斯拉，每股特斯拉或可置换约0.7股SpaceX股票，让马斯克一分钱不花拿下绝对控制权。面对去年单车狂赚18万美元的法拉利与单…",
-      "reads": "49万",
+      "title": "奥特曼晒千禧难题纪念T恤！思维链最后一句绝了：防止审稿人抱有敌意",
+      "summary": "OpenAI首席执行官Sam Altman在社交平台上晒出Navier-Stokes里程碑纪念T恤，衣服背面直接印上了AI攻坚该千禧年数学难题时思维链的最后一行。令人啼笑皆非的是，AI在最终推理中写下「指出解决千禧受迫情形不可信，审稿人可能抱有敌意」，展现出极其逼真的学术防卫与自我审查心理。这不仅侧面印证了OpenAI在前沿数学难题上的突破，还引来开发者喊话，要求在未来发布代号…",
+      "reads": "29万",
       "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Sam Altman公开展示Navier-Stokes里程碑纪念白T恤背面设计，印有AI攻坚该题的最终推理代码与文本。",
+        "T恤上印制的解题思维链（chain-of-thought）末句明确写道：「指出解决千禧受迫情形不可信，审稿人可能抱有敌意」。",
+        "Navier-Stokes方程的存在性与光滑性属于千禧年七大数学难题之一，被学术界视为检验模型顶尖科学推理能力的极限试金石。",
+        "模型在思维链中主动推测同行评审心理并设计防御策略，体现出高度拟人化的学术攻防意识与自我纠错逻辑。"
+      ],
+      "quote": {
+        "who": "Chetaslua",
+        "role": "",
+        "said": "@sama 等你们发布 bel 或者管它叫 quasar 还是啥的时候，顺便出个周边特别版吧"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 29万 · 模型与能力] 奥特曼晒千禧难题纪念T恤！思维链最后一句绝了：防止审稿人抱有敌意"
+    },
+    {
+      "title": "直接砍掉17倍量子门！Claude Mythos 5攻破量子线路，人类最优纪录作废",
+      "summary": "Anthropic官方公布STEM Fellows项目重磅突破：Claude Mythos 5仅凭纯自然语言提示，便能自主推导出超越学术界已公开最高水平的量子电路。在椭圆曲线量子电路测试中，哈佛大学物理学研究员Andi Gu发现它成功将量子门数量砍掉17倍（量子比特仅增加12%），甚至独立悟出无需存储完整历史的divsteps新解法。模型正从科研辅助工具蜕变为能独立推导硬核算法…",
+      "reads": "11万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic官方宣布STEM Fellows Program最新科研成果，Claude Mythos 5在量子计算算法与电路设计上取得突破性进展。",
+        "哈佛大学物理学研究员Andi Gu与Anthropic团队合作，仅用日常自然语言描述电路需计算的内容，Claude Mythos 5便自主给出了优化方案。",
+        "在椭圆曲线量子电路设计中，Claude Mythos 5成功将所需的量子门数量减少了17倍，代价仅是量子比特增加了12%。",
+        "性能实现数量级跨越：模型自主设计的量子电路在多项指标上直接超越目前学术界已公开发表的最佳纪录，部分提升达一个数量级以上。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "聊聊在 AI 辅助下科学领域的飞速发展： “Claude 基本上是独立工作，发现了比已公开发表的最优电路还要好的设计，在某些情况下性能提升了一个数量级以上。 这些改进大幅减少了所需的量子资源，以至于"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 11万 · 模型与能力] 直接砍掉17倍量子门！Claude Mythos 5攻破量子线路，人类最优纪录作废"
+    },
+    {
+      "title": "6层楼高倒挂下坠！特斯拉跑车版火箭回收首秀，全凭推进器2秒强行刹停",
+      "summary": "马斯克把航天动力学直接搬上了公路跑车。在麦格雷戈试验场，特斯拉与SpaceX联手打造的第二代Roadster在离地65英尺（约6层楼高）处近乎倒挂下坠，最终全靠SpaceX冷气推进器喷射的高压空气在撞地前死死刹住并平稳着陆。若无反推介入，车辆砸向地面全程仅需2秒。与此同时，资本市场传出更重磅异动：巴克莱爆料SpaceX或在12月初特斯拉年会前提出全股票收购特斯拉，换股比例约为每…",
+      "reads": "52万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "在最新公开演示中，特斯拉新款Roadster被吊装至离地65英尺（约6层楼）高空并底朝天倒置，释放后完全依靠冷气推进器在落地前硬生生止坠刹停。",
-        "工程测算显示，车辆若无冷气推进器反推，两秒内自由落体撞击地面将产生毁灭性解体，此次实测印证了航天姿态反推系统引入量产超跑的可行性。",
-        "投行巴克莱透露，SpaceX正酝酿在12月初特斯拉年会前以全股票交易方式收购特斯拉，预计每股特斯拉股票可置换约0.7股SpaceX股票。",
-        "该笔潜在交易将帮助马斯克在不花费个人资金的情况下，通过SpaceX特殊股权架构实现对特斯拉的牢固控制权。"
+        "实测地点位于麦格雷戈试验场，第二代Roadster展示了斜坡起跳、空中翻腾与姿态悬停能力",
+        "测试车辆在离地65英尺（约合6层楼高）处处于近乎底朝天的倒挂姿态，脱钩后随即进入自由下坠",
+        "车辆在触地前完全依靠冷气推进器释放的高压空气提供升力与减速反推，成功实现软着陆",
+        "物理测算显示，车辆从该高度自由落体砸向地面只需约2秒，推进器的介入时间与推力控制极为严苛"
       ],
       "quote": {
         "who": "Aakash Gupta",
@@ -129,14 +204,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 49万 · 产品与生态] 六层楼高垂直砸向地面！马斯克把火箭反推搬上超跑，新款Roadster空中止坠"
+      "rank": 8,
+      "line": "[榜第8位 · 52万 · 产品与生态] 6层楼高倒挂下坠！特斯拉跑车版火箭回收首秀，全凭推进器2秒强行刹停"
     },
     {
       "title": "吹了8年的牛真成了！马斯克给Roadster装火箭推进器，当年全网当笑话",
       "summary": "2018年马斯克在Joe Rogan播客里直言要给跑车装上火箭推进器，当时主持人笑岔气以为只是个段子。如今特斯拉在全新Roadster上正式展示冷气推进器技术，当年被全网当成天方夜谭的离谱设想，历经8年最终被做成了真家伙。",
-      "reads": "505万",
-      "ago": "9 小时前",
+      "reads": "507万",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -154,39 +229,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 505万 · 产品与生态] 吹了8年的牛真成了！马斯克给Roadster装火箭推进器，当年全网当笑话"
+      "rank": 9,
+      "line": "[榜第9位 · 507万 · 产品与生态] 吹了8年的牛真成了！马斯克给Roadster装火箭推进器，当年全网当笑话"
     },
     {
-      "title": "9个月赶超人类研究员！Anthropic绝密内幕曝光，RSI智能爆炸要来了",
-      "summary": "知名科技播客主持人 Dwarkesh Patel 在访谈中放出重磅消息：一名 Anthropic 员工透露，基于内部无法公开的绝密数据，预计 AI 将在 9 个月内在「AI 自身的研究能力」上追平人类。随后社区挖出 Dwarkesh 的室友正是 Anthropic 资深研究员，坐实了爆料绝非空穴来风的直觉猜测。业内人士推测头部实验室已攻克底层训练难题，递归自我改进（RSI）被急…",
-      "reads": "32万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "title": "搞不清自己在造什么，对齐就是空话！奥特曼深夜力挺可解释性突破",
+      "summary": "机制可解释性到底能不能彻底攻克？曾共同主导 OpenAI 早期机制可解释性研究的 Nick Cammarata 透露迎来积极进展，并直言搞不清底层原理就根本无法解决对齐问题。OpenAI 首席执行官 Sam Altman 随即公开转发力挺，引发全网对模型黑盒研究与军备竞赛的双重热议。",
+      "reads": "17万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "绝密时间线曝光：科技播客主持人 Dwarkesh Patel 透露，两天前有 Anthropic 员工告知他，基于无法公开的内部信息，预计 AI 将在 9…",
-        "非凭空直觉推测：爆料员工明确强调判断并非基于感觉，而是掌握了未公开的内部证据；社区随后证实 Dwarkesh 的室友正是 Anthropic 的资深研究员。",
-        "公开炮轰实验室封口：Dwarkesh 批评各大顶尖 AI 实验室对核心担忧证据秘而不宣的现状让人极其抓狂，导致外界根本无法评估事态严重性，呼吁实验室必须公布…",
-        "RSI 与智能爆炸被大幅拉近：多位行业研究者指出，这意味着递归自我改进（RSI）距离现实可能仅剩数月，技术迭代正向智能爆炸临界点加速逼近。"
+        "前 OpenAI 研究员 Nick Cammarata 发文强调，机制可解释性可能是目前全世界最重要的科学问题。",
+        "Nick Cammarata 犀利直言：如果人类都不知道自己在构建什么，就不可能彻底解决 AI 对齐问题。",
+        "作为 OpenAI 早期机制可解释性研究的共同主导者，Nick Cammarata 透露关于这项攻坚已经迎来了好消息。",
+        "OpenAI 首席执行官 Sam Altman 第一时间公开转发力挺，表示「非常高兴看到 Nick 带来这个」。"
       ],
       "quote": {
-        "who": "Haider.",
+        "who": "prinz",
         "role": "",
-        "said": "我猜某家实验室（OpenAI 或 Anthropic）内部有个模型已经摸索出了解决大语言模型训练重大难题的办法，绝不仅仅是更高的吞吐量或巧妙的工程技巧 这就能解释为什么 Anthropic 联合创始人 Jack Clark 把他的 RSI 时间线从 2028 年给调了"
+        "said": "@sama Sam，如果 OpenAI 能把其中一些想法落地，并发布一份关于它们是否起效的报告，那就太棒了。 （当然，其他实验室也是一样。）"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 32万 · 模型与能力] 9个月赶超人类研究员！Anthropic绝密内幕曝光，RSI智能爆炸要来了"
+      "rank": 10,
+      "line": "[榜第10位 · 17万 · 政策与安全] 搞不清自己在造什么，对齐就是空话！奥特曼深夜力挺可解释性突破"
     },
     {
       "title": "开机2分钟直接攻破！iPhone 18 Pro完美越狱现场曝光，苹果防线失守",
       "summary": "在巴黎举办的 Hexacon 2026 大会上，安全公司 Calif 当着全场观众演示了针对 iPhone 18 Pro 的完美越狱。运行苹果最新 iOS 27.0.1 系统的测试机，开机仅仅 2 分钟便交出了最高的 root shell 权限。不仅如此，团队还亮出了针对 iOS 版 Signal 和 iMessage 的单点漏洞攻击，手机只要点开一个暗藏代码的恶意 PDF，全…",
-      "reads": "30万",
-      "ago": "3 小时前",
+      "reads": "37万",
+      "ago": "6 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -204,208 +279,133 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 30万 · 政策与安全] 开机2分钟直接攻破！iPhone 18 Pro完美越狱现场曝光，苹果防线失守"
-    },
-    {
-      "title": "活久见！Meta联手苹果突袭：816B全模态王者开源，两台Mac就能跑",
-      "summary": "多年老对头Meta和苹果竟然联手了！扎克伯格在Hugging Face正式开源了全新全模态大模型Muse Spark Open，总参数高达816B，每个Token仅激活42B。最不可思议的是，苹果硬件高管John Ternus带队用自家MLX框架做了深度调优，只要两台搭载M5 Ultra的Mac Studio互联就能本地流畅跑起来。该模型支持1M上下文及文本、图像、视频、音频四…",
-      "reads": "208万",
-      "ago": "8 小时前",
-      "category": "中国与开源",
-      "source": "新智元",
-      "bullets": [
-        "Meta正式在Hugging Face开源大模型Muse Spark Open权重，采用MoE架构，总参数816B，每个Token仅激活42B参数。",
-        "模型原生支持1M Token上下文窗口，具备文本、图像、视频和音频四种模态的输入能力，专门针对编程与智能体（Agent）场景调优。",
-        "Meta与苹果达成罕见深度合作，苹果硬件工程高级副总裁John Ternus团队基于自家MLX框架深度优化，支持在两台搭载M5 Ultra的Mac Stud…",
-        "开源量化工具团队Unsloth同步推出了Dynamic 2-bit GGUF版本，让该模型在单台256GB内存设备上本地运行成为可能。"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "@Levi_D_Ackerman 最新的这篇"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 208万 · 中国与开源] 活久见！Meta联手苹果突袭：816B全模态王者开源，两台Mac就能跑"
-    },
-    {
-      "title": "口号喊着打破1984！Meta发布Muse Spark开放权重版，下载竟要填生日查户口",
-      "summary": "Meta正式推出开放权重模型Muse Spark Open（Muse-Spark-Open-816B-A42B），采用总参数816B、激活42B的MoE架构，配备1M Token上下文窗口，用户可直接在新款Mac Studio上本地部署运行。该模型专为智能体与编程工作流打造，MCP-Atlas跑分达到89.2，在多项基准上正面迎战Qwen与GLM。然而Alexandr Wang…",
-      "reads": "38万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "模型架构与规格：Muse Spark Open采用混合专家（MoE）架构，总参数量816B，单次激活参数42B，支持最高1M Token的长上下文窗口。",
-        "本地运行门槛：作为Muse Spark 1.2的开放权重版本，该模型被定位为美国本土顶尖开源模型，优化后可在新款Mac Studio硬件上实现本地部署。",
-        "基准对标：官方公布的数据显示，该模型在MCP-Atlas评测中斩获89.2分，在代码能力和多模态工作流基准上直接对标Qwen与GLM。",
-        "AI自导宣传片：Alexandr Wang发文借《1984》造势，并透露其发布的宣传短片是由muse wonder full在极少人工美术干预下独立导演与剪…"
-      ],
-      "quote": {
-        "who": "Yann LeCun",
-        "role": "",
-        "said": "@alexandr_wang 😅😅闭源AI模型公司就是当年的IBM😅😅 （而且现在的IBM其实大力支持开源，跟以前的IBM完全不同了）。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 38万 · 模型与能力] 口号喊着打破1984！Meta发布Muse Spark开放权重版，下载竟要填生日查户口"
-    },
-    {
-      "title": "816B全美最强开源惨遭翻车！Meta狂砸算力，实测竟打不过DeepSeek",
-      "summary": "Meta正式开源号称全美最强的权重模型Muse Spark Open，总参数达816B、激活参数42B，支持1M上下文与原生全模态，允许免费商用。OpenRouter首日上线该模型，定价为输入每百万Token 1.25美元、输出4.25美元，本地通过MLX优化只需两台512GB内存的M5 Ultra Mac Studio即可驱动。然而社区在Agent Arena的实测迅速引发争…",
-      "reads": "120万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "模型规格拉满：Meta开源Muse Spark Open，采用MoE架构，总参数量816B，单次激活42B，支持1M Token超长上下文窗口。",
-        "原生全模态支持：原生统一支持文本、图像、视频、音频以及PDF多种输入形态，针对复杂软件工程与长周期智能体任务深度调优。",
-        "免费商用授权：模型权重完全开放下载，遵循Muse协议提供免费商用许可，已同步上线Hugging Face、AWS、Google Cloud与微软平台。",
-        "苹果本地部署优化：Meta联手苹果深度适配MLX框架，支持在两台搭载M5 Ultra（512GB统一内存）的Mac Studio上实现本地离线部署。"
-      ],
-      "quote": {
-        "who": "SuSu_酥酥",
-        "role": "",
-        "said": "😂搞笑了！Meta号称“美国开源第一”的Muse Spark Open，AA指数只有39，才刚够挤进开源前列，离中国开源头部模型还差一截！DeepSeek守住了底线！ 对比速览： 🔹DeepSeek V4.1 Flash AA约39.5几乎打平，但激活只有8B/16B，更快更便宜，编码还更强。 🔹GLM-5.3 Flash AA约42，agentic和编码依旧领先。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 120万 · 模型与能力] 816B全美最强开源惨遭翻车！Meta狂砸算力，实测竟打不过DeepSeek"
+      "line": "[榜第11位 · 37万 · 政策与安全] 开机2分钟直接攻破！iPhone 18 Pro完美越狱现场曝光，苹果防线失守"
     },
     {
-      "title": "万亿参数大模型不是黑箱！前OpenAI主管掀翻共识：根本不用等10年",
-      "summary": "Goodfire 联合前 OpenAI 机制可解释性主管 Nick Cammarata 发布重磅研究《Zoom In》，打破了「神经网络是不可解死结」的行业共识。研究证实目前已能理解高达万亿参数模型中的绝大多数神经元，且现代大模型的神经元职责高度单一清晰。这一进展直接击碎了此前 Anthropic CEO Dario 认为突破仍需 5 到 10 年的预期，被业内誉为深度学习历史…",
-      "reads": "11万",
-      "ago": "3 小时前",
+      "title": "9个月超越人类研究员！Anthropic自曝代码已接管26%，明年冲上90%",
+      "summary": "AI自我进化的节奏突然按下了快进键。业内最新透露，Anthropic内部预计Claude将在9个月内全面超越人类研究人员，其联合创始人Jack Clark更将完全递归自我改进（RSI）的时间点提前至2027年。Anthropic向IMF披露的数据显示，目前Claude已主导26%的L4级研发代码，明年这一比例将飙升至80%-90%，留给人类自主研发闭环的时间可能已不足半年。",
+      "reads": "3.5万",
+      "ago": "1 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "前 OpenAI 机制可解释性负责人 Nick Cammarata 联手 Goodfire 发布研究文章《Zoom In》，宣布神经网络内部并非不可解的乱麻…",
-        "研究团队目前已能成功解读高达万亿参数前沿模型中的绝大多数神经元，并发现现代大模型里的神经元职责普遍相当单一清晰，一个神经元主要负责一类任务。",
-        "Nick Cammarata 指出，过去学界执着于「特征（features）」的框架弹性过大且难以量化，抛弃这一范式后发现，预训练过程本身就在促使模型向更具…",
-        "这一成果打破了 Anthropic CEO Dario Amodei 去年预言的「可解释性重大突破还需要 5 到 10 年」的时间线，大幅提前了可解释性落地…"
+        "Anthropic内部评估显示，Claude预计将在9个月内超越人类AI研究人员。",
+        "Anthropic联合创始人Jack Clark更新预测，将全面实现递归自我改进（RSI）的时间表提前至2027年，并直言创造力是闭环的最后一块拼图。",
+        "业内评估认为，AI实现完全自主研发闭环的时间距离现在可能已不足6个月。",
+        "真实工程数据显示，2026年9月Claude已主导Anthropic内部26%的Level 4级研发代码，人类工程师仅参与任务派发和最终部署。"
       ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "💥AI可能没我们想的那么黑箱！ 前OpenAI研究员指出：现代大模型里，绝大多数神经元其实是“干净”的，一个神经元主要干一件事，而不是以前认为的一团乱麻。 这意味着： • 可解释性可能比想象中容易 • 预训练过程本身就在让模型越来越可解读 • 真正的突破，反而可能来自大实验室之外"
+        "said": "@dtaspire 这么说吧，9 月份就有 26% 的代码达到了 L4 级别——人类只负责分派任务然后部署它。今天早上他们还对 IMF 表示，预计明年这个比例会达到 80-90%。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 11万 · 模型与能力] 万亿参数大模型不是黑箱！前OpenAI主管掀翻共识：根本不用等10年"
+      "line": "[榜第12位 · 3.5万 · 模型与能力] 9个月超越人类研究员！Anthropic自曝代码已接管26%，明年冲上90%"
     },
     {
-      "title": "卖1999美元还要等明年！苹果折叠屏预购爆单，iPhone Duo发货排到1月25日",
-      "summary": "苹果首款折叠屏 iPhone Duo 刚刚开启预购，发货周期就直接崩了。结账页面显示该机售价高达 1999 美元，但订单送达日期已经一路延后至次年 1 月 25 日。初期抢购极为疯狂，加上首代折叠屏供应链产能紧俏，消费者现在下单意味着要等待数月才能上手。",
-      "reads": "12万",
-      "ago": "4 小时前",
+      "title": "终端里也能做PPT了！Claude上线Artifacts幻灯片版，告别手动搜素材",
+      "summary": "Anthropic 开发者公开力推演示文稿工具 Claude Slides，彻底颠覆日常做 PPT 的工作流。如今无需到处搜索 iPhone 样机素材，系统可一键生成带有灵动岛等界面的完整展示画布；同时终端工具 Claude Code 也已支持直接生成幻灯片 Artifact，让开发者在命令行敲代码的同时秒级输出可视化汇报。",
+      "reads": "3.9万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "苹果首款折叠屏设备 iPhone Duo 预购发货周期出现严重延后",
-        "曝光的结账页面显示，iPhone Duo 官方定价高达 1999 美元",
-        "首批预购订单预计送达时间已排到次年 1 月 25 日，横跨两个年份",
-        "下单需等待数月，市场预期遭遇抢购潮或供应链产能严重承压"
+        "Anthropic 开发者公开展示 Claude Slides，表示自己做演示文稿已彻底转向该工作流",
+        "演示文稿制作彻底告别繁琐搜素材，不再需要到 Google 查找「iphone frame svg」等外部矢量图",
+        "在实际演示中，Claude Slides 可直接生成带有灵动岛界面的 iPhone App 样机展示画布",
+        "终端命令行工具 Claude Code 正式打通幻灯片生成能力，支持就地输出幻灯片 Artifact"
       ],
       "quote": {
-        "who": "Aaron",
+        "who": "Boris Cherny",
         "role": "",
-        "said": "iPhone Duo 预购发货时间已经排到明年了 这也太夸张了"
+        "said": "@MarcelEdward 我们有做！你看到什么差距了？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 12万 · 产品与生态] 卖1999美元还要等明年！苹果折叠屏预购爆单，iPhone Duo发货排到1月25日"
+      "line": "[榜第13位 · 3.9万 · 产品与生态] 终端里也能做PPT了！Claude上线Artifacts幻灯片版，告别手动搜素材"
     },
     {
-      "title": "单卡24GB跑74B智能体！英伟达发布Nemotron端侧版，每秒狂飙84 token",
-      "summary": "英伟达正式推出专为消费级显卡设计的 Nemotron 3.5 Bolt 24GB 模型，直接把大参数 AI 智能体塞进单卡 24GB 显存。该模型由 120B 大模型压缩而来，采用 74B 总参数、单次仅激活 9B（74B-A9B）的稀疏架构，在 RTX Spark 上结合投机解码可跑出每秒约 84 个 Token 的极速吞吐，且能与本地其他应用并行流畅运行。",
-      "reads": "7.0万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
+      "title": "不插电照样硬跑120B大模型！英伟达RTX Spark炸场，128G轻薄本省下云端Token",
+      "summary": "英伟达正式推出全新一代笔记本芯片 RTX Spark，最高可塞进 20 核 CPU 与 128GB LPDDR5X 巨量内存，彻底打碎端侧跑不动大模型的魔咒。在微星 MSI Gen 16 Flip AI Plus 等轻薄本上，设备即使不插电也能全速运行大模型与智能体负载，甚至支持本地完整运行 120B 参数大模型。同时，开源团队 Nous Research 的 Hermes A…",
+      "reads": "3.4万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "英伟达正式发布 Nemotron 3.5 Bolt 24GB 模型，主打将大参数 AI 智能体完整放进消费级 24GB 显存中运行。",
-        "模型采用 74B 总参数、单次仅激活 9B（74B-A9B）的稀疏激活架构，底座直接由更大的 120B 模型压缩而成。",
-        "专为 RTX Spark 设备进行了深度适配与优化，在保证智能体推理能力的同时，允许用户在本地并行开启其他生产力应用。",
-        "官方实测数据显示，结合投机解码技术（speculative decoder），该模型在 RTX Spark 上的生成速度达到每秒约 84 个 Token。"
+        "硬件规格拉满：英伟达 RTX Spark 笔记本芯片最高支持 20 核 CPU 与 128GB LPDDR5X 内存，专为本地大模型与 Agent 工作流打…",
+        "轻薄本拔电照样全速跑：知名科技博主 Linus 现场上手微星 MSI Gen 16 Flip AI Plus 翻转本，设备在未连接电源线的情况下，依然能够以…",
+        "本地硬扛 120B 模型：针对 RTX Spark GPU 的深度实测显示，其已支持在本地端侧完整运行 120B 参数级别的大模型，大幅降低对云端算力与网络…",
+        "Hermes Agent 首发内置 Windows：Nous Research 旗下 Hermes Agent 成为 RTX Spark 首发合作伙伴，用户…"
       ],
       "quote": {
-        "who": "Mark Kretschmann",
+        "who": "Nous Research",
         "role": "",
-        "said": "@loveAIwang @NVIDIAAI 我记得微软甚至搞过 1-bit 量化"
+        "said": "@rabizzzy @nvidia @Windows @linusgsebastian OpenShell 和 MXC 马上就来！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 7.0万 · 模型与能力] 单卡24GB跑74B智能体！英伟达发布Nemotron端侧版，每秒狂飙84 token"
+      "line": "[榜第14位 · 3.4万 · 产品与生态] 不插电照样硬跑120B大模型！英伟达RTX Spark炸场，128G轻薄本省下云端Token"
     },
     {
-      "title": "告别烦人checking！OpenAI全量推GPT-Live-1.1，13种母语声线通吃三大产品",
-      "summary": "OpenAI正式向所有用户全量推送全双工语音模型更新GPT-Live-1.1，同时覆盖ChatGPT、Codex和dots三大产品，开发者期待的API也即将上线。本次更新不仅扩充了13种新声线，更大幅砍掉了此前对话卡顿时的「正在查询...」（checking...）等待提示。多语言支持迎来质的飞跃，包括法语、德语、印地语、韩语等在内的声线口音更纯正、用语表达更丰富。",
-      "reads": "151万",
-      "ago": "14 小时前",
-      "category": "产品与生态",
+      "title": "4个AI组团通关Minecraft！连写2783个程序，全程0人类干预",
+      "summary": "Google DeepMind公布了一项让游戏圈和AI圈同时震动的突破：4个Gemini 4 Argon智能体组团，从零开始仅用27小时就彻底通关了Minecraft。它们完全处于沙盒环境，仅靠输入纯文本和代码交互，期间不仅自主编写了2,783个程序，还学会了互相发消息分工、共享笔记、一起排查Debug，全程没要人类帮哪怕一次忙。",
+      "reads": "6.3万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI正式推送全双工语音升级模型GPT-Live-1.1，即日起面向所有用户全量开放，API接口也将于近期上线。",
-        "新模型同步覆盖OpenAI旗下三大核心产品：ChatGPT、编程智能体Codex以及语音交互应用dots。",
-        "新增13种全新声音选项，重点补齐多语言能力，涵盖法语、德语、印地语、墨西哥西班牙语、韩语和日语。",
-        "英语声线新增全新声音Bubbie，整体母语口音更自然地道，日常对话与专业表达词汇量大幅增加。"
+        "任务成果：Google DeepMind宣布，4个Gemini 4 Argon智能体在全程无人类干预的情况下，从零开始耗时27小时通关Minecraft。",
+        "运行模式：智能体团队完全在沙盒环境中运行，交互手段仅限于代码和文本，没有引入外部人类辅助控制。",
+        "代码体量：在解决开放世界各类复杂任务的过程中，4个智能体累计自主编写了2,783个程序。",
+        "协作机制：智能体展现出高阶多Agent协同能力，能够通过文字聊天自主拆解目标并分工，且支持跨智能体共享笔记。"
       ],
       "quote": {
-        "who": "Vaibhav (VB) Srivastav",
+        "who": "Google DeepMind",
         "role": "",
-        "said": "冲！GPT Live 1.1 上线，重点加强了多语言支持！ 更新了法语、德语、印地语、墨西哥西班牙语、韩语和日语。 彩蛋：减少了“checking…”的等待 正在 Codex、ChatGPT 和 Dots 中推出——API 马上来 ;)"
+        "said": "4 个 Gemini 4 Argon 智能体从零开始在 27 小时内通关了 Minecraft。 它们仅靠代码和文本在沙盒中运行，写了 2,783 个程序，通过聊天分工，共享笔记，并一起排查错误——全程无人类干预 ↓"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 151万 · 产品与生态] 告别烦人checking！OpenAI全量推GPT-Live-1.1，13种母语声线通吃三大产品"
+      "line": "[榜第15位 · 6.3万 · 模型与能力] 4个AI组团通关Minecraft！连写2783个程序，全程0人类干预"
     },
     {
-      "title": "手慢无！苹果首款折叠屏iPhone Duo全网抢爆，首批现货二级市场直接起飞",
-      "summary": "苹果首款折叠屏设备 iPhone Duo 今日正式开启全球预购，全网瞬间掀起抢购狂潮。苹果硬件工程高级副总裁 John Ternus 亲自发文造势，称其为「体验 iPhone 的全新方式」。由于首发货源极为紧俏，业内普遍预计首批现货在二级市场将迎来极高溢价，而普通消费者的发货周期恐将大幅延后。",
-      "reads": "3.3万",
+      "title": "501B开源巨无霸突袭！激活只要23B，一举杀进全球Agent榜前15",
+      "summary": "开源大模型阵营再添 500B 级别重量级选手。Reflection AI 正式推出 Beam-1.0-501B-A23B，采用 Apache 2.0 协议全量开源。在 501B 总参数下仅激活 23B，该模型一举空降 Agent Arena 总榜全球第 13 位、美国实验室第 6 位，同时在 Web 开发代码基准中拿下 1438 分。这一战绩不仅让 Reflection AI…",
+      "reads": "2.6万",
       "ago": "1 小时前",
-      "category": "产品与生态",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "苹果首款折叠屏旗舰 iPhone Duo 于今日正式开启全球预购。",
-        "苹果硬件工程高级副总裁 John Ternus 发文为新品造势，将其定义为体验 iPhone 的全新形态与交互方式。",
-        "预购通道开启后迅速引发全网疯抢，连录影棚现场工作人员都在第一时间参与抢购。",
-        "数码博主与业内人士普遍认为，能成功拿下第一批现货的订单在二级市场溢价空间极高。"
+        "模型规格：Reflection AI 推出 Beam-1.0-501B-A23B，总参数量达 501B，单次推理激活参数仅为 23B。",
+        "开源协议：完全遵循 Apache 2.0 协议开放，权重对社区彻底无保留开源。",
+        "Agent 榜单战绩：在权威基准 Agent Arena 开源权重模型中排名第 12，录得 -3.67% 的净提升率（Net Improvement）。",
+        "总榜与全美位次：在涵盖闭源模型的 Agent Arena 综合总榜中高居第 13 位，在美国本土实验室模型中位列第 6 位。"
       ],
       "quote": {
-        "who": "歸藏(guizang.ai)",
+        "who": "Arena.ai",
         "role": "",
-        "said": "iPhone Duo 语音输入打错了"
+        "said": "深入体验 Agent Arena："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 3.3万 · 产品与生态] 手慢无！苹果首款折叠屏iPhone Duo全网抢爆，首批现货二级市场直接起飞"
+      "line": "[榜第16位 · 2.6万 · 模型与能力] 501B开源巨无霸突袭！激活只要23B，一举杀进全球Agent榜前15"
     }
   ],
   "board_count": 16,
