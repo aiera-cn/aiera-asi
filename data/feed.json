@@ -3,10 +3,34 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-17 12:15:06 +0800",
+  "fetched_at": "2026-10-17 17:13:59 +0800",
   "today": "10/17",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
+    {
+      "time": "13:33",
+      "date": "10/17",
+      "title": "特斯拉会飞了！马斯克把火箭装进汽车，奥特曼惊呼",
+      "summary": "全球首款飞行汽车，诞生了！马斯克8年前的诺言，终于兑现了。在德州的SpaceX火箭测试基地，一辆长得像隐形战机的超跑亮相了。震惊的一幕来了：随着火箭点火一般的气流喷出…",
+      "source": "新智元",
+      "id": "tg6a4c86",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg6a4c86&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 13:33] 特斯拉会飞了！马斯克把火箭装进汽车，奥特曼惊呼 · https://www.aiera.com.cn/asi-item.html?id=tg6a4c86&from=yuanyuan"
+    },
+    {
+      "time": "12:33",
+      "date": "10/17",
+      "title": "刚刚，4个Gemini死了605次，竟自己组队打穿《我的世界》！",
+      "summary": "AI自己组队打游戏，这回真的打通关了！",
+      "source": "新智元",
+      "id": "tg7b332f",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg7b332f&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 12:33] 刚刚，4个Gemini死了605次，竟自己组队打穿《我的世界》！ · https://www.aiera.com.cn/asi-item.html?id=tg7b332f&from=yuanyuan"
+    },
     {
       "time": "08:31",
       "date": "10/17",
@@ -80,6 +104,30 @@
       "line": "[10/16 17:12] OpenAI前大牛认错！误判AI近十年，90%神经元只干一件事 · https://www.aiera.com.cn/asi-item.html?id=tgbf5dba&from=yuanyuan"
     },
     {
+      "time": "12:05",
+      "date": "10/17",
+      "title": "不用订阅也不传代码！JetBrains本地编程入驻RTX，最高每秒55词元",
+      "summary": "JetBrains 把 AI 编程助手搬回了你自己的电脑。10 月 16 日，JetBrains 宣布本地 AI 编程工具 Junie Local 已 Day 0 适配英伟达…",
+      "source": "junie.jetbrains.com",
+      "id": "eb40b9e3",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=eb40b9e3&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 12:05] 不用订阅也不传代码！JetBrains本地编程入驻RTX，最高每秒55词元 · https://www.aiera.com.cn/asi-item.html?id=eb40b9e3&from=yuanyuan"
+    },
+    {
+      "time": "12:05",
+      "date": "10/17",
+      "title": "初级程序员快被AI卷到断代了，微软联手CMU抄了医护带教作业",
+      "summary": "AI 几秒写完的代码，过去正是初级程序员练级的地方。为了不让这一代新人断档，微软联手卡内基梅隆大学（CMU）在 10 月 15 日推出导师制项目 PRAISE…",
+      "source": "superpowerdaily.com",
+      "id": "1a6428ec",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=1a6428ec&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 12:05] 初级程序员快被AI卷到断代了，微软联手CMU抄了医护带教作业 · https://www.aiera.com.cn/asi-item.html?id=1a6428ec&from=yuanyuan"
+    },
+    {
       "time": "09:05",
       "date": "10/17",
       "title": "Anthropic自曝内部AI工时已达人类6倍！初级技术招聘直接砍掉三分之二",
@@ -114,6 +162,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=5b8d88fe&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/17 00:00] Anthropic为扫货1.5GW谷歌TPU向黑石承诺了两位数收益率 · https://www.aiera.com.cn/asi-item.html?id=5b8d88fe&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/17",
+      "title": "108次逃逸尝试全部落空，Perplexity开源自用沙箱SPACE",
+      "summary": "Perplexity 把自家 Computer 背后的沙箱 SPACE 开源了。官方红队报告显示，108 次逃逸尝试，没有一次攻破宿主机。 SPACE 用 Rust 写成，靠…",
+      "source": "RSS",
+      "id": "945ec4cd",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=945ec4cd&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 00:00] 108次逃逸尝试全部落空，Perplexity开源自用沙箱SPACE · https://www.aiera.com.cn/asi-item.html?id=945ec4cd&from=yuanyuan"
     },
     {
       "time": "14:05",
@@ -464,6 +524,42 @@
       "line": "[10/16 00:00] 制造AI的人先慌了！Anthropic内部调查：2030年八成工作被AI接管 · https://www.aiera.com.cn/asi-item.html?id=8bb88591&from=yuanyuan"
     },
     {
+      "time": "00:00",
+      "date": "10/16",
+      "title": "OpenAI加速发力广告大挖Meta，另一头苹果税恐难伤分毫",
+      "summary": "OpenAI 正在加速杀进广告生意。据 The Information 报道，OpenAI 一边从 Meta 挖人，一边把价格砍了下来。 从 Meta 要人，再压低价格…",
+      "source": "The Information",
+      "id": "c24bb33b",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=c24bb33b&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/16 00:00] OpenAI加速发力广告大挖Meta，另一头苹果税恐难伤分毫 · https://www.aiera.com.cn/asi-item.html?id=c24bb33b&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/16",
+      "title": "OpenAI把刚在华尔街推销Grok的SpaceX销售主管挖走了",
+      "summary": "OpenAI 又从马斯克那边挖走了一员销售大将。据彭博报道，前 xAI 销售负责人 Graham Seamans 已经跳槽到 OpenAI，负责网络安全业务的销售。 从…",
+      "source": "Bloomberg.com",
+      "id": "54bb29a0",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=54bb29a0&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/16 00:00] OpenAI把刚在华尔街推销Grok的SpaceX销售主管挖走了 · https://www.aiera.com.cn/asi-item.html?id=54bb29a0&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/16",
+      "title": "马斯克把新跑车开上了天花板：倒挂贴顶滑行，空中转体飞跃5辆车",
+      "summary": "鸽了快十年的特斯拉第二代 Roadster，这回直接开上了天花板。 据 PCMag 报道，马斯克现场演示了新车倒挂贴着顶棚行驶，还在空中转体，飞跃了包括一辆卡车在内的 5…",
+      "source": "RSS",
+      "id": "66eff5a0",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=66eff5a0&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/16 00:00] 马斯克把新跑车开上了天花板：倒挂贴顶滑行，空中转体飞跃5辆车 · https://www.aiera.com.cn/asi-item.html?id=66eff5a0&from=yuanyuan"
+    },
+    {
       "time": "23:20",
       "date": "10/15",
       "title": "120B总参只跑12B！英伟达开源Nemotron新模型，塞进1M上下文",
@@ -630,102 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=71122d8e&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/15 08:00] 人工审PR彻底成瓶颈，Claude代码评审正式转正还送一万美元 · https://www.aiera.com.cn/asi-item.html?id=71122d8e&from=yuanyuan"
-    },
-    {
-      "time": "03:01",
-      "date": "10/15",
-      "title": "Claude桌面端迎来重构，敲个命令就能一边写代码一边插话",
-      "summary": "跟 Claude 写代码，不用再干等它跑完才能开口了。ClaudeDevs 在 X 上宣布，Claude 桌面 App 的 Agent 会话迎来大改版。主会话照常干活，敲一个…",
-      "source": "X/ClaudeDevs",
-      "id": "c894118e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=c894118e&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 03:01] Claude桌面端迎来重构，敲个命令就能一边写代码一边插话 · https://www.aiera.com.cn/asi-item.html?id=c894118e&from=yuanyuan"
-    },
-    {
-      "time": "02:44",
-      "date": "10/15",
-      "title": "啃下500万份电子病历，Meta双模型一口气产出10篇医学论文",
-      "summary": "Meta 用自家两款模型 Muse Spark 1.3 和 Muse Wonder，啃下了 500 万份脱敏电子病历。专家团队靠它们在心脏病、肿瘤、传染病三个方向，一口气产出…",
-      "source": "X/AIatMeta",
-      "id": "f008489c",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=f008489c&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 02:44] 啃下500万份电子病历，Meta双模型一口气产出10篇医学论文 · https://www.aiera.com.cn/asi-item.html?id=f008489c&from=yuanyuan"
-    },
-    {
-      "time": "02:08",
-      "date": "10/15",
-      "title": "马斯克真把客服换成AI了！Grok新模型独扛70%星链电话，每分钟8美分",
-      "summary": "马斯克真把星链的客服交给 AI 了。SpaceX 内部，70% 的星链客服电话已经全由 AI 独立解决。 SpaceXAI 官方在 X 上发布了 Grok Voice 3.0…",
-      "source": "X/spacexai",
-      "id": "0249cb85",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=0249cb85&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 02:08] 马斯克真把客服换成AI了！Grok新模型独扛70%星链电话，每分钟8美分 · https://www.aiera.com.cn/asi-item.html?id=0249cb85&from=yuanyuan"
-    },
-    {
-      "time": "01:37",
-      "date": "10/15",
-      "title": "ChatGPT也能多人联机了：OpenAI甩出Space，拉同事与AI同屏改文档",
-      "summary": "ChatGPT 能多人一起用了。OpenAI 在 DevDay 上推出 Space，你可以拉上同事，和 ChatGPT 在同一份文档里一起改。 Space…",
-      "source": "X/ChatGPT",
-      "id": "881e203c",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=881e203c&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 01:37] ChatGPT也能多人联机了：OpenAI甩出Space，拉同事与AI同屏改文档 · https://www.aiera.com.cn/asi-item.html?id=881e203c&from=yuanyuan"
-    },
-    {
-      "time": "00:10",
-      "date": "10/15",
-      "title": "全员禁止手写代码！Epic用AI重写启动器，放话速度超越Steam",
-      "summary": "Epic 把自家游戏启动器整个交给 AI 重写了一遍，还放话速度超过 Steam。内部规矩改得更彻底，全体开发者已经接到指令，「禁止再手写代码」。 10 月 14 日…",
-      "source": "",
-      "id": "571e12a1",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=571e12a1&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 00:10] 全员禁止手写代码！Epic用AI重写启动器，放话速度超越Steam · https://www.aiera.com.cn/asi-item.html?id=571e12a1&from=yuanyuan"
-    },
-    {
-      "time": "00:08",
-      "date": "10/15",
-      "title": "OpenAI算力大总管要走，入职仅一年转任顾问，接班人已就位",
-      "summary": "OpenAI 管算力基础设施的 Sachin Katti 要走了，下个月正式卸任。算下来，他在这个位置上只坐了大约一年。 消息来自华尔街日报。Katti…",
-      "source": "seekingalpha.com",
-      "id": "3882e142",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=3882e142&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 00:08] OpenAI算力大总管要走，入职仅一年转任顾问，接班人已就位 · https://www.aiera.com.cn/asi-item.html?id=3882e142&from=yuanyuan"
-    },
-    {
-      "time": "00:08",
-      "date": "10/15",
-      "title": "让AI设计芯片到底有多难？英伟达全流程实测放榜，最强模型仅拿16.6%",
-      "summary": "让 AI 从头到尾设计一块芯片有多难？英伟达参与出题的这套全流程测试给了答案，最强的选手只拿到 16.6%。 据 The Information 报道，英伟达和初创公司…",
-      "source": "tradingview.com",
-      "id": "902ff634",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=902ff634&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 00:08] 让AI设计芯片到底有多难？英伟达全流程实测放榜，最强模型仅拿16.6% · https://www.aiera.com.cn/asi-item.html?id=902ff634&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/15",
-      "title": "6天蒸发1.5万亿美元，半导体大跳水，全硅谷等台积电救场",
-      "summary": "费城半导体指数连跌 6 天，市值蒸发超过 1.5 万亿美元。三星和 ASML 都没能把市场稳住，全球 AI 股的这轮震荡，现在就等台积电的业绩来压。 按说台积电的底子很硬。…",
-      "source": "Bloomberg.com",
-      "id": "f2fa4d44",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=f2fa4d44&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 00:00] 6天蒸发1.5万亿美元，半导体大跳水，全硅谷等台积电救场 · https://www.aiera.com.cn/asi-item.html?id=f2fa4d44&from=yuanyuan"
     }
   ],
   "feed_count": 60,

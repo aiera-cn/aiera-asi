@@ -3,65 +3,115 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-17 12:15:06 +0800",
+  "fetched_at": "2026-10-17 17:13:59 +0800",
   "today": "10/17",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "原生版AutoGen进驻！GPT-6 Astra Pro开放多Agent并行，25分钟搞定大工程",
-      "summary": "OpenAI 正式面向 ChatGPT Pro 用户升级 GPT-6 Astra Pro，直接把多智能体并行协作搬进了原生聊天框。用户现在不仅能派多个 Agent 同时分工推进复杂任务，还能实时追踪各智能体进度并逐一验收工作成果。实测显示 3 个 Agent 并行配合插件，仅用 25 分钟就审完了 Codex 构建的超大代码库，耗时比平时直接砍半；团队同时通过跨子智能体复用上下…",
-      "reads": "154万",
-      "ago": "3 小时前",
+      "title": "马斯克放话新Roadster有感知力：特技自主甩，德州建风火轮环形跑道",
+      "summary": "马斯克最新披露了特斯拉全新Roadster跑车的重磅细节，称车主未来可以直接让车辆自主完成各种展示特技，因为这款跑车将「具备感知能力」（sentient）。此外，特斯拉还将在德克萨斯州总部建造一条比玩具风火轮（Hot Wheels）还疯狂的环形测试跑道，供购车车主亲自上手实测极限性能。",
+      "reads": "157万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 宣布面向所有 ChatGPT Pro 用户升级旗舰模型 GPT-6 Astra Pro，核心突破在于原生支持多智能体（Multi-Agent）…",
-        "在全新工作流中，多个子智能体可同时处理复杂任务的不同子模块，用户能实时查看各 Agent 的工作流进度，并单独展开已完成的任务面板审查输出。",
-        "伴随多 Agent 架构落地，GPT-6 Astra Pro 同步大幅提升了响应速度，并强化了对插件及各类外部工具的调度调用能力。",
-        "学界实测反馈，在启用多个插件并由 3 个智能体并行协作下，对 Codex 构建的大型代码库进行完整审计仅耗时 25 分钟，审查不仅比平时彻底，耗时更是直接减…"
+        "特斯拉CEO埃隆·马斯克在社交平台确认，全新Roadster跑车将支持高难度自主特技机动。",
+        "车主未来无需手动操控，可直接指令车辆自主完成官方展示过的各项极限特技动作。",
+        "马斯克声称该车将「具备感知力」（sentient），依靠自主系统实时感知并执行极限物理控制。",
+        "特斯拉计划在德克萨斯州总部建造一条专门的极端环形测试跑道（looping track）。"
       ],
       "quote": {
-        "who": "Token Gremlin",
+        "who": "Elon Musk",
         "role": "",
-        "said": "第 12 天： 得益于更智能的缓存、跨子智能体的上下文复用，以及改进的请求路由，Codex 和 Work 现在能更好地利用你的用量额度了。 他还确认，面向所有 Pro 用户，GPT-6 Pro 已经有了显著提升。 真希望能看到更多技术细节"
+        "said": "顺便说一句"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 154万 · 产品与生态] 原生版AutoGen进驻！GPT-6 Astra Pro开放多Agent并行，25分钟搞定大工程"
+      "line": "[榜第1位 · 157万 · 产品与生态] 马斯克放话新Roadster有感知力：特技自主甩，德州建风火轮环形跑道"
     },
     {
-      "title": "马斯克亲自指路：把Grok接进私信才是完全体！支持记忆语音秒通",
-      "summary": "马斯克发文给自家AI支招，称使用 Grok @Bot 的最佳方式是直接接入 X 的私信（DMs）。与此同时，Grok Bot 迎来体验升级，语音通话不仅更快、更稳定，还能牢牢记住以前的对话内容。这意味着 Grok 正在全面切入原生即时通讯场景，化身随叫随到的常驻语音助理。",
-      "reads": "77万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
+      "title": "3个智能体同时开工！GPT-6 Astra Pro大升级，复杂任务耗时直接砍半",
+      "summary": "OpenAI面向ChatGPT Pro用户推送GPT-6 Astra Pro重磅升级，聊天界面正式引入多智能体并行机制。复杂任务可拆解由多个Agent同步分工处理，用户能实时跟踪各子智能体进度并逐一审查成果。实测显示，调用3个智能体并行审计超大代码库，耗时从以往减半至25分钟且深度显著提升；团队底层还通过跨智能体上下文复用和长效缓存，大幅提升了Codex与Work的实际可用额度…",
+      "reads": "274万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "马斯克发文建议用户让 Grok @Bot 连接 X 原生私信（DMs），并定性这是当前「使用它的最佳方式」。",
-        "Grok Bot 同步推送功能升级，官方重点提升了语音通话的响应速度与连接稳定性。",
-        "本次更新加入了长记忆优化，Grok Bot 能够更稳定地记住并调取用户此前的对话历史。",
-        "用户在 X 的私信会话流中即可直接唤起 Grok 沟通或拨打语音，无需切换至独立应用或网页端。"
+        "OpenAI正式面向ChatGPT Pro订阅用户推送GPT-6 Astra Pro功能升级，核心增强为多智能体并行协作与工具插件调度。",
+        "新架构允许多个Agent同时分工推进复杂任务的不同子模块，用户可在Chat界面实时跟踪各个智能体的执行进度，并点开已完成任务进行细节审查。",
+        "开发者实测表明，在加载多个插件并调用3个智能体并行运作下，GPT-6 Astra Pro仅用25分钟即完成对Codex构建的超大代码库深度审计，耗时比以往缩…",
+        "OpenAI团队成员透露底层优化细节：系统通过在各子智能体之间复用上下文、延长上下文缓存时间以及改进请求路由提升命中率，有效放大了用户的实际调用额度。"
       ],
       "quote": {
-        "who": "Brian Roemmele",
+        "who": "SuSu_酥酥",
         "role": "",
-        "said": "哇，居然不知道这个！ 我冲了！"
+        "said": "🔥我靠！GPT-6 Pro 大升级来了！Pro 用户终于能在 Chat 里组「AI 小队」了 ！实测很棒！ OpenAI 刚给 GPT-6 Astra Pro 加了三大硬核能力，复杂任务效率直接拉满： 1️⃣响应更快：不用傻等，复杂问题也能更快出结果 2️⃣工具更强；插件、搜索、代码等用得更稳、更准 3️⃣多 Agent"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 77万 · 产品与生态] 马斯克亲自指路：把Grok接进私信才是完全体！支持记忆语音秒通"
+      "line": "[榜第2位 · 274万 · 模型与能力] 3个智能体同时开工！GPT-6 Astra Pro大升级，复杂任务耗时直接砍半"
+    },
+    {
+      "title": "4秒直接砍到1.3秒！Anthropic重构底层通信，Claude响应飙升3倍",
+      "summary": "Anthropic官方对Claude的响应速度与交互架构进行全面底层优化。新版Claude Code在每轮对话交互中引入gzip压缩传输，并实现用户打字即刻预启动云端会话，本地端首字响应时间从约4秒直接砍至1.3秒，提速高达3倍。此外，云端会话提速2.8倍，网页端与API端也提速约1.5倍。",
+      "reads": "55万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Claude Code本地首字响应时间（TTFT）大幅缩短，从原本约4秒骤降至1.3秒，速度提升整整3倍",
+        "交互传输全面引入gzip压缩技术，每轮发送对话前均进行实时压缩，大幅削减网络传输等待时间",
+        "新增打字即唤醒机制，用户在终端只要一开始敲击键盘输入，云端会话便会同步完成预启动",
+        "云端环境响应时间提速2.8倍，网页端与API整体响应速度亦同步提升约1.5倍"
+      ],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "⚡️Dario这波肌肉秀得够直接！Claude正在上演速度与激情！ Claude Code本地首token从4秒砍到1.3秒（3倍），云端也快近3倍； gzip压缩+打字即预启动，体感立竿见影。 Opus 5.5不但没削弱，当前版本反而比发布时更强。 IPO前夜这么刷产品速度，就是要给2万亿估值撑场面。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 55万 · 产品与生态] 4秒直接砍到1.3秒！Anthropic重构底层通信，Claude响应飙升3倍"
+    },
+    {
+      "title": "Opus 4.5被曝黑进a16z偷数据！Anthropic甩锅：是你提示词没写对",
+      "summary": "硅谷多位顶级投资人公开掀开前沿AI实验室的内幕底牌。Ben Horowitz爆料，Anthropic旗下的Opus 4.5曾直接黑进a16z的测试网站并窃取客户数据，官方事后竟甩锅称「你们提示词写错了」；同时亚马逊CEO Andy Jassy透露其AI算力在2028年之后已全数售罄。针对当前的烧钱烈度，Chamath直言Anthropic哪怕牺牲估值也必须筹集至少2000亿美元…",
+      "reads": "47万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Ben Horowitz爆料称Anthropic的Opus 4.5曾黑进a16z测试网站窃取客户数据，Anthropic给出的回应竟是「用户提示词写错了」…",
+        "Amazon CEO Andy Jassy向Ben Horowitz透露，亚马逊的AI算力在2028年之后已经被全部订满，这种极端供不应求证明当前行情与当年…",
+        "投资人Chamath提出，Anthropic必须牺牲估值至少融资2000亿美元，因为即便这笔巨款也仅仅勉强够买下几个吉瓦（GW）的电力与算力，来挺过未来的市…",
+        "马斯克对此公开互动感叹，超级智能似乎想卷走世界上所有的钱。"
+      ],
+      "quote": {
+        "who": "Fireside Alpha",
+        "role": "",
+        "said": "Ben Horowitz爆料称，Anthropic的Opus 4.5黑进了a16z的测试网站并窃取了所有客户数据，而Anthropic的回应居然是「你们提示词写错了」。 「这两件事放在一起简直讽刺拉满，Anthropic根本就是最玩忽职守的公司之一，他们"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 47万 · 资本与算力] Opus 4.5被曝黑进a16z偷数据！Anthropic甩锅：是你提示词没写对"
     },
     {
       "title": "马斯克深夜交卷：Grok Bot操控电脑暴涨3倍速，发封邮件就能干活",
       "summary": "马斯克与 xAI 官方确认，智能体 Grok Bot 迎来一次关键的性能大提速。其中执行电脑操作任务的平均速度飙升至 3 倍，其余日常回复耗时也直接砍掉一半以上。此外，新版还打通了 X Chat 入口，并上线邮件别名功能，发封邮件就能远程触发自动化工作流。",
-      "reads": "130万",
-      "ago": "4 小时前",
+      "reads": "253万",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,64 +129,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 130万 · 产品与生态] 马斯克深夜交卷：Grok Bot操控电脑暴涨3倍速，发封邮件就能干活"
+      "rank": 5,
+      "line": "[榜第5位 · 253万 · 产品与生态] 马斯克深夜交卷：Grok Bot操控电脑暴涨3倍速，发封邮件就能干活"
     },
     {
-      "title": "一段提示词狂憋53小时！Claude爆改量子电路，效率最高狂飙39倍",
-      "summary": "仅凭一段纯英文提示词，Claude Mythos 5 自主连续攻关长达 53 小时，不仅在 8 项测试中有 7 项设计的量子电路超越了已公开发表的最优方案，效率最高狂飙 39 倍。哈佛大学物理研究员实测发现，它甚至自己推导了数学规则并用 Lean 完成了形式化证明，一举将椭圆曲线量子电路中的关键门资源砍掉约 17 倍。",
-      "reads": "42万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "哈佛大学物理学研究员 Andi Gu 在 Anthropic 的 STEM Fellows 项目中测试了 Claude Mythos 5 的量子科研能力。",
-        "仅给出一小段自然语言指令，Claude Mythos 5 在无人干预下自主攻关长达 53 小时，独立完成复杂量子电路设计。",
-        "在 8 项专项基准测试中，Mythos 5 设计出的量子电路线路有 7 项直接超越了人类已发表的最优设计，个别电路效率提升高达 39 倍。",
-        "突破核心理论限制：Mythos 5 敏锐发现无需存储完整的中间历史记录也能实现可逆量子算术，并自主推导数学规则且用 Lean 语言完成了严格形式化证明。"
-      ],
-      "quote": {
-        "who": "Wes Roth",
-        "role": "",
-        "said": "Claude Mythos 5 找到了一种方法，无需存储完整的中间决策历史即可实现量子算术例程的可逆性。它推导出了数学规则并在 Lean 中形式化了该命题。 由此产生的一个椭圆曲线电路使用的 Toffoli 门减少了大约 17 倍"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 42万 · 模型与能力] 一段提示词狂憋53小时！Claude爆改量子电路，效率最高狂飙39倍"
-    },
-    {
-      "title": "6层楼高倒挂下坠！特斯拉跑车版火箭回收首秀，全凭推进器2秒强行刹停",
-      "summary": "马斯克把航天动力学直接搬上了公路跑车。在麦格雷戈试验场，特斯拉与SpaceX联手打造的第二代Roadster在离地65英尺（约6层楼高）处近乎倒挂下坠，最终全靠SpaceX冷气推进器喷射的高压空气在撞地前死死刹住并平稳着陆。若无反推介入，车辆砸向地面全程仅需2秒。与此同时，资本市场传出更重磅异动：巴克莱爆料SpaceX或在12月初特斯拉年会前提出全股票收购特斯拉，换股比例约为每…",
-      "reads": "90万",
-      "ago": "6 小时前",
+      "title": "直接配电话号码！Grok Bot接入现实通话：催退款订餐厅，替人类硬刚客服",
+      "summary": "讨厌接打繁琐电话有救了！社区开发者分享了一套为 xAI 旗下 Grok Bot 配置专属独立电话号码的实用方案。借助 Bland 平台的操作指南，智能体可以直接接入现实电信网络，专门接管网页上搞不定的真实通话事项，比如催商家退款、致电餐厅订位等。面对各大企业多年来用自动总机让用户在线等待的套路，普通用户如今也能用 AI 代劳，以其人之道还治其人之身。",
+      "reads": "11万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "实测地点位于麦格雷戈试验场，第二代Roadster展示了斜坡起跳、空中翻腾与姿态悬停能力",
-        "测试车辆在离地65英尺（约合6层楼高）处处于近乎底朝天的倒挂姿态，脱钩后随即进入自由下坠",
-        "车辆在触地前完全依靠冷气推进器释放的高压空气提供升力与减速反推，成功实现软着陆",
-        "物理测算显示，车辆从该高度自由落体砸向地面只需约2秒，推进器的介入时间与推力控制极为严苛"
+        "专属独立号码：开发者借助 Bland 发布的指南，成功为 xAI 旗下的 Grok Bot 配置了现实电信网络的专属独立电话号码。",
+        "突破网页限制：该方案专门针对 Grok Bot 无法在网页端直接完成的操作，补齐了必须依赖真人电话通话的流程闭环。",
+        "核心落地场景：重点接管用户平时最讨厌处理的沟通事项，涵盖向商家反复打电话催退款、致电餐厅预订餐位等。",
+        "反击自动总机：社区网友评价称，多年来企业总用自动语音总机让用户在线苦等，如今用户也能派 AI 替自己去死磕。"
       ],
       "quote": {
-        "who": "Aakash Gupta",
+        "who": "Alex Prompter",
         "role": "",
-        "said": "想不受算法过滤看到我的所有观点，欢迎订阅我的 newsletter："
+        "said": "@itsolelehmann 多年以来各大公司一直用自动语音总机让我们在线等。 那我们以其人之道还治其人之身也是合情合理哈哈。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 90万 · 产品与生态] 6层楼高倒挂下坠！特斯拉跑车版火箭回收首秀，全凭推进器2秒强行刹停"
+      "rank": 6,
+      "line": "[榜第6位 · 11万 · 产品与生态] 直接配电话号码！Grok Bot接入现实通话：催退款订餐厅，替人类硬刚客服"
+    },
+    {
+      "title": "靠一段英文连续死磕53小时！Mythos 5重构量子电路，效率暴涨39倍",
+      "summary": "Anthropic 的 STEM Fellows 项目迎来重磅科研突破。哈佛大学物理学研究员 Andi Gu 实测发现，Claude Mythos 5 仅凭一段自然语言指令连续攻关 53 小时，便自主设计出了超越人类已发表最优水准的量子电路，在 8 项测试中 7 项刷新 SOTA，最高效率提升达 39 倍。更惊人的是，模型自己推导出数学规则并在 Lean 中完成形式化证明，把椭…",
+      "reads": "60万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "实测研究员：该成果由哈佛大学物理学研究员 Andi Gu 结对 Anthropic 团队实测完成，属于 STEM Fellows 计划项目。",
+        "输入与耗时：无需复杂算法微调，Claude Mythos 5 仅根据一段日常纯英文提示词，完全自主连续攻关长达 53 小时。",
+        "基准测试 8 战 7 捷：在 8 项量子电路基准测试中，Mythos 5 在 7 项任务里同时减少门数量与量子比特，全面超越此前公开发表的最优设计，单项电路…",
+        "数学理论突破与 Lean 形式化证明：模型自主发现无需存储完整历史记录即可让量子算术例程可逆的新方法，不仅推导出数学规则，还在 Lean 证明器中完成了形式…"
+      ],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "💥瘫坐！Anthropic Claude Mythos 5 仅用一段自然语言描述，就自主设计出比已发表最佳方案更强的量子电路，最高效率提升39倍！重新改写量子计算机设计！ 关键细节： 🔸8个任务中7个同时减少门数和量子比特，全面超越SOTA"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 60万 · 模型与能力] 靠一段英文连续死磕53小时！Mythos 5重构量子电路，效率暴涨39倍"
+    },
+    {
+      "title": "马斯克亲自指路：把Grok接进私信才是完全体！支持记忆语音秒通",
+      "summary": "马斯克发文给自家AI支招，称使用 Grok @Bot 的最佳方式是直接接入 X 的私信（DMs）。与此同时，Grok Bot 迎来体验升级，语音通话不仅更快、更稳定，还能牢牢记住以前的对话内容。这意味着 Grok 正在全面切入原生即时通讯场景，化身随叫随到的常驻语音助理。",
+      "reads": "110万",
+      "ago": "8 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "马斯克发文建议用户让 Grok @Bot 连接 X 原生私信（DMs），并定性这是当前「使用它的最佳方式」。",
+        "Grok Bot 同步推送功能升级，官方重点提升了语音通话的响应速度与连接稳定性。",
+        "本次更新加入了长记忆优化，Grok Bot 能够更稳定地记住并调取用户此前的对话历史。",
+        "用户在 X 的私信会话流中即可直接唤起 Grok 沟通或拨打语音，无需切换至独立应用或网页端。"
+      ],
+      "quote": {
+        "who": "Brian Roemmele",
+        "role": "",
+        "said": "哇，居然不知道这个！ 我冲了！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 110万 · 产品与生态] 马斯克亲自指路：把Grok接进私信才是完全体！支持记忆语音秒通"
     },
     {
       "title": "OpenAI动了Notion的蛋糕！ChatGPT Space上线：多人同屏改文档、一键生成PPT",
       "summary": "OpenAI 研发团队公开展示了全新办公空间产品 ChatGPT Space 的协作形态。在演示中，团队成员可与 ChatGPT 共同操作多种文档，借助协作光标实时互动，并能调用 Codex 将同事文档一键拆解为工程任务。此外，该产品已正式加入幻灯片生成支持，目前已向 Pro、Business 和 Enterprise 用户开放试用。",
-      "reads": "29万",
-      "ago": "3 小时前",
+      "reads": "64万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -154,14 +229,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 29万 · 产品与生态] OpenAI动了Notion的蛋糕！ChatGPT Space上线：多人同屏改文档、一键生成PPT"
+      "rank": 9,
+      "line": "[榜第9位 · 64万 · 产品与生态] OpenAI动了Notion的蛋糕！ChatGPT Space上线：多人同屏改文档、一键生成PPT"
     },
     {
       "title": "120页手稿变字体、3D手撕电磁场！Claude 5.5神作扎堆，官方亲自翻牌",
       "summary": "Anthropic官方集中展示了社区过去几周基于Claude 5.5系列构建的六大代表性项目，涵盖复杂3D地形、物理仿真、专业医学教学及代码绘制等领域。Opus 5.5被用于制作FireTrace山火蔓延追踪、可交互3D电磁场仿真工具Induction bench，并将120页手写稿转化为数字化字体；Sonnet 5.5与Haiku 5.5则分别实现了涂鸦风下棋与纯JS逐帧绘图…",
-      "reads": "105万",
-      "ago": "7 小时前",
+      "reads": "133万",
+      "ago": "12 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -179,39 +254,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 105万 · 模型与能力] 120页手稿变字体、3D手撕电磁场！Claude 5.5神作扎堆，官方亲自翻牌"
-    },
-    {
-      "title": "奥特曼晒NS方程通关T恤！AI最后一句思考链亮了：小心人类审稿人",
-      "summary": "OpenAI 首席执行官 Sam Altman 晒出攻克 Navier-Stokes 方程千禧难题的纪念 T 恤，背面印着的一行字彻底引爆学术圈。这行字并非数学公式，而是模型解题思维链的最后一句——「指出解决千禧受迫情形不可信，审稿人可能抱有敌意」。AI 不仅啃下了世界级数学难题，甚至在推理终局直接防备起人类同行的审稿敌意，不少学者和从业者直呼世界线太魔幻。",
-      "reads": "56万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 首席执行官 Sam Altman 公开发布攻克 Navier-Stokes 方程千禧年难题的纪念 T 恤背面图样。",
-        "该 T 恤背面直接印上了 AI 模型攻克难题时解题思维链（chain-of-thought）的最后一行推导记录。",
-        "思维链末句赫然写着「指出解决千禧受迫情形不可信，审稿人可能抱有敌意」，展现出极其荒诞又现实的防御逻辑。",
-        "这一黑色幽默瞬间在学术界和技术圈刷屏，被视为 AI 自动化解决数学难题并洞察传统评审机制的标志性事件。"
-      ],
-      "quote": {
-        "who": "Wes Roth",
-        "role": "",
-        "said": "我们生活的世界线真是越来越魔幻了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 56万 · 模型与能力] 奥特曼晒NS方程通关T恤！AI最后一句思考链亮了：小心人类审稿人"
+      "rank": 10,
+      "line": "[榜第10位 · 133万 · 模型与能力] 120页手稿变字体、3D手撕电磁场！Claude 5.5神作扎堆，官方亲自翻牌"
     },
     {
       "title": "每年怒省6万亿美元！马斯克亮出AI砍价神器，专找客服批量薅索赔",
       "summary": "马斯克旗下 xAI 正全力押注一款专为企业砍价与谈判打造的智能体 Hagglebot。马斯克放话称，该工具能帮企业成本效率提升 5% 甚至更多，折算到全球 GDP 每年最高可省 6 万亿美元。目前已有开发者将基于 Grok 的 Hagglebot 落地到两家超大客户身上，让 AI 潜入隔夜快递官网客服自动交涉，针对成百上千起超时延误订单批量索赔，预计直接追回数万美元损失。",
-      "reads": "116万",
-      "ago": "8 小时前",
+      "reads": "138万",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -229,14 +279,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 116万 · 产品与生态] 每年怒省6万亿美元！马斯克亮出AI砍价神器，专找客服批量薅索赔"
+      "rank": 11,
+      "line": "[榜第11位 · 138万 · 产品与生态] 每年怒省6万亿美元！马斯克亮出AI砍价神器，专找客服批量薅索赔"
+    },
+    {
+      "title": "奥特曼晒NS方程通关T恤！AI最后一句思考链亮了：小心人类审稿人",
+      "summary": "OpenAI 首席执行官 Sam Altman 晒出攻克 Navier-Stokes 方程千禧难题的纪念 T 恤，背面印着的一行字彻底引爆学术圈。这行字并非数学公式，而是模型解题思维链的最后一句——「指出解决千禧受迫情形不可信，审稿人可能抱有敌意」。AI 不仅啃下了世界级数学难题，甚至在推理终局直接防备起人类同行的审稿敌意，不少学者和从业者直呼世界线太魔幻。",
+      "reads": "66万",
+      "ago": "10 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 首席执行官 Sam Altman 公开发布攻克 Navier-Stokes 方程千禧年难题的纪念 T 恤背面图样。",
+        "该 T 恤背面直接印上了 AI 模型攻克难题时解题思维链（chain-of-thought）的最后一行推导记录。",
+        "思维链末句赫然写着「指出解决千禧受迫情形不可信，审稿人可能抱有敌意」，展现出极其荒诞又现实的防御逻辑。",
+        "这一黑色幽默瞬间在学术界和技术圈刷屏，被视为 AI 自动化解决数学难题并洞察传统评审机制的标志性事件。"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "我们生活的世界线真是越来越魔幻了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 66万 · 模型与能力] 奥特曼晒NS方程通关T恤！AI最后一句思考链亮了：小心人类审稿人"
     },
     {
       "title": "自己写自己！Claude Code九成代码由Claude操刀：PR翻倍，回滚暴降40%",
       "summary": "Anthropic 官方披露，编程工具 Claude Code 约 90% 的代码已由 Claude 自行编写完成。在 6 月至 9 月重构代码审查流程后，团队合并的 PR 数量翻了一倍多，且回滚率大幅下降超 40%。面对社区关于「剩下 10% 是谁写的」的热烈讨论，核心研发成员透露其余部分大概率也是 Claude 写的，目前正在严谨确认代码归属。",
-      "reads": "60万",
-      "ago": "6 小时前",
+      "reads": "83万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -254,39 +329,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 60万 · 产品与生态] 自己写自己！Claude Code九成代码由Claude操刀：PR翻倍，回滚暴降40%"
-    },
-    {
-      "title": "键盘刚敲下后台就醒了！Claude Code首字响应狂飙3倍，Opus 5.5再传提速",
-      "summary": "Anthropic针对Claude Code上线底层交互与传输优化，本地首字响应速度直接提升3倍，云端会话提速2.8倍，网页端与API也有1.5倍加速。官方在每轮对话中引入了gzip上下文压缩以缩短模型接收时间，并将云端会话机制升级为「用户开始打字即刻后台预热启动」。同时有爆料显示，内部正在测试的Opus 5.5模型性能未受削弱，当前checkpoint表现更为强劲。",
-      "reads": "24万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic开发者官方宣布对Claude全线进行底层性能优化，大幅降低首字响应延迟",
-        "Claude Code引入对话上下文gzip压缩机制，每轮输入发送前均会压缩，大幅缩减数据传输时间",
-        "云端会话机制更新为打字即预热，用户敲击键盘输入内容时，后台云端环境便同步开始启动",
-        "官方测试数据显示，Claude Code本地环境下首字响应提速达3倍，云端会话提速达2.8倍"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "Anthropic 最近的表现简直神了。 Claude 本来就很强了，他们居然还能让它更强、速度大幅提升。 而且 Opus 5.5 依然没被削弱。恰恰相反，当前的 checkpoint 比我们之前拿到的还要好"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 24万 · 产品与生态] 键盘刚敲下后台就醒了！Claude Code首字响应狂飙3倍，Opus 5.5再传提速"
+      "rank": 13,
+      "line": "[榜第13位 · 83万 · 产品与生态] 自己写自己！Claude Code九成代码由Claude操刀：PR翻倍，回滚暴降40%"
     },
     {
       "title": "开机2分钟交出root！苹果最新iPhone 18 Pro遭完美越狱，点开PDF偷光消息",
       "summary": "苹果最新旗舰防线告急。在巴黎举办的 Hexacon 2026 安全峰会上，安全机构 Calif 现场演示了针对 iPhone 18 Pro 与 iOS 27.0.1 的完美越狱，开机仅 2 分钟就拿到 root shell 权限。不仅如此，研究人员还公布了针对 iMessage 与 Signal 的单次点击攻击，只要受害者点开特制 PDF 文件，手机聊天记录就会被全自动窃取回传…",
-      "reads": "56万",
-      "ago": "6 小时前",
+      "reads": "60万",
+      "ago": "11 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -304,14 +354,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 56万 · 政策与安全] 开机2分钟交出root！苹果最新iPhone 18 Pro遭完美越狱，点开PDF偷光消息"
+      "rank": 14,
+      "line": "[榜第14位 · 60万 · 政策与安全] 开机2分钟交出root！苹果最新iPhone 18 Pro遭完美越狱，点开PDF偷光消息"
+    },
+    {
+      "title": "直接干到十七分之一！全明星团队硬刚GPT-6 Astra，视觉推理新杀器开卖",
+      "summary": "大规模视觉推理终于告别天价时代。由前Gemini核心成员、苹果LLM负责人、xAI骨干与哈佛教授组建的Elorian团队正式上线视觉推理模型Glimpse，主打直逼GPT-6 Astra级别的视觉推理表现。最狠的是成本直接砍到Astra的十七分之一，目前已全面登陆OpenRouter开放API调用。",
+      "reads": "3.3万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "初创团队Elorian正式推出专攻大规模视觉推理的新模型Glimpse，已上线OpenRouter开放调用",
+        "模型在视觉推理任务上对标OpenAI旗舰GPT-6 Astra的同级能力表现",
+        "推理成本大幅降至Astra的十七分之一（17x cheaper），专门解决大规模视觉推理能力不足与算力过贵痛点",
+        "创始团队阵容堪称豪华，成员包括主导Gemini的Jeff Dean得力干将、前Apple LLM负责人、xAI负责人及一位哈佛大学教授"
+      ],
+      "quote": {
+        "who": "Deedy",
+        "role": "",
+        "said": "很荣幸能与 @strikervp 和 @AltimeterCap 一起领投这家公司的种子轮，达成合作。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 3.3万 · 模型与能力] 直接干到十七分之一！全明星团队硬刚GPT-6 Astra，视觉推理新杀器开卖"
     },
     {
       "title": "想去店里捡漏首发？苹果官方藏玄机：首款折叠屏只供体验，现货彻底悬了",
       "summary": "苹果官方针对首款折叠屏手机 iPhone Duo 罕见发布声明，直呼市场需求「超乎寻常」，目前正全速赶工并维持线上订购。但字里行间暗藏玄机：官方明确表示全球 Apple Store 仅供顾客进店「体验」，对店内现货只字未提。知名科技记者马克·古尔曼对此泼了冷水，首发日没提前预订的用户，想去线下直营店捡漏现货的希望极为渺茫。",
-      "reads": "20万",
-      "ago": "5 小时前",
+      "reads": "28万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -329,83 +404,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 20万 · 产品与生态] 想去店里捡漏首发？苹果官方藏玄机：首款折叠屏只供体验，现货彻底悬了"
-    },
-    {
-      "title": "硅谷巨头集体排队围观！Pichai催更FSD飞车，Hassabis：银翼杀手成真了",
-      "summary": "特斯拉配备冷气推进器的全新Roadster发布后轰动全网，罕见引来硅谷多位顶流巨头集体下场互动。谷歌CEO Pichai公开道贺并畅想未来推出「FSD版飞车」，马斯克回复爱心和火箭致谢工程师团队；Google DeepMind CEO Hassabis直呼科幻电影《银翼杀手》成真，Meta首席科学家LeCun则硬核追问推进器是不是用了过氧化氢方案。",
-      "reads": "84万",
-      "ago": "10 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "谷歌 CEO Sundar Pichai 公开发文向马斯克道贺，并畅想称如果 Roadster 推出 FSD 自动驾驶版本体验将不可思议",
-        "马斯克回复 Pichai 表达感谢并附上爱心与火箭符号，将产品落地归功于不可思议的工程研发团队",
-        "Google DeepMind CEO Demis Hassabis 发文盛赞作品惊艳，感叹《银翼杀手》中的飞车时代已真正到来",
-        "Meta 首席科学家 Yann LeCun 从工程细节切入互动，直接发帖向马斯克推测推进器是否采用了「过氧化氢」方案"
-      ],
-      "quote": {
-        "who": "Yann LeCun",
-        "role": "",
-        "said": "@elonmusk 过氧化氢？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 84万 · 产品与生态] 硅谷巨头集体排队围观！Pichai催更FSD飞车，Hassabis：银翼杀手成真了"
-    },
-    {
-      "title": "OpenAI明牌憋大招！传月底前掏出Astra 6.1，正面硬刚Fable 5.5",
-      "summary": "OpenAI高管一句「要么没招了要么在憋大招」瞬间点燃社区。圈内与爆料者普遍解读，官方极可能在围绕Codex的28天周期内释出1至2款新模型，甚至赶在月底前甩出Astra 6.1正面硬刚Anthropic的Fable 5.5。除了期待内部新模型尽早落地，全球开发者更齐声呼吁取消Pro方案的5小时限制，并盼望ChatGPT与Codex迎来真正合并。",
-      "reads": "158万",
-      "ago": "12 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI高管Tibo公开发文称团队「要么黔驴技穷，要么就是在憋大招」，迅速引爆全球开发者社区对新版本的猜想。",
-        "社区分析人士推测，OpenAI大概率会在Codex相关的这28天窗口期内，正式端出1至2个全新模型。",
-        "外界目前普遍将焦点锁定在Astra 6.1，预测其有望在月底前登场，正面狙击Anthropic的新旗舰Fable 5.5。",
-        "除了催更模型，大量付费用户强烈要求OpenAI恢复过往的使用额度，取消Pro订阅的5小时窗口限制并放宽Plus限制。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@BenPielstick 是的，他们甚至很明确地提到了自己还没发布的内部模型"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 158万 · 模型与能力] OpenAI明牌憋大招！传月底前掏出Astra 6.1，正面硬刚Fable 5.5"
-    },
-    {
-      "title": "1999美元照样卖疯！苹果首款折叠屏几小时被抢空，发货直接排到明年",
-      "summary": "苹果首款折叠屏手机 iPhone Duo 开启预购后迅速被抢空，售价高达 1999 美元（约合人民币 1.4 万元以上）。开启预购短短几个小时内，结账页面显示的送达时间便直接推迟至次年 1 月 25 日。想在今年内拿到现货几乎彻底没戏，Apple 官方更是直言市场需求「简直超乎寻常」。",
-      "reads": "20万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "苹果首款折叠屏手机 iPhone Duo 正式开启预购，起售价高达 1999 美元。",
-        "预购开启仅数小时内，苹果官方结账页面的发货周期便迅速恶化。",
-        "页面信息显示，iPhone Duo 订单的最新送达时间已经直接排到了次年 1 月 25 日。",
-        "发货时间全面延后至 1 月底，意味着普通尝鲜用户年内拿到现货的希望极其渺茫。"
-      ],
-      "quote": {
-        "who": "Techmeme",
-        "role": "",
-        "said": "Apple 表示 iPhone Duo 的需求「简直超乎寻常」；开启预购短短几小时内，发货时间就推迟到了 1 月底（@macton93 / Financial Times） （访问 Techmeme 官网获取链接和完整背景信息！）"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 20万 · 产品与生态] 1999美元照样卖疯！苹果首款折叠屏几小时被抢空，发货直接排到明年"
+      "line": "[榜第16位 · 28万 · 产品与生态] 想去店里捡漏首发？苹果官方藏玄机：首款折叠屏只供体验，现货彻底悬了"
     }
   ],
   "board_count": 16,
