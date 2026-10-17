@@ -3,10 +3,22 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-17 21:39:49 +0800",
-  "today": "10/17",
+  "fetched_at": "2026-10-18 01:03:44 +0800",
+  "today": "10/18",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
+    {
+      "time": "22:31",
+      "date": "10/17",
+      "title": "刚刚，Anthropic公开4年后的世界！造AI只剩5%留给人",
+      "summary": "同一个2026年，人类的现实已经悄然裂成了两半！在旧金山的Anthropic办公楼里，Agent昼夜运转的总时长已经彻底反超人类，甚至有员工像带真人团队一样…",
+      "source": "新智元",
+      "id": "tg82ab17",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg82ab17&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 22:31] 刚刚，Anthropic公开4年后的世界！造AI只剩5%留给人 · https://www.aiera.com.cn/asi-item.html?id=tg82ab17&from=yuanyuan"
+    },
     {
       "time": "21:29",
       "date": "10/17",
@@ -186,6 +198,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=945ec4cd&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/17 00:00] 108次逃逸尝试全部落空，Perplexity开源自用沙箱SPACE · https://www.aiera.com.cn/asi-item.html?id=945ec4cd&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/17",
+      "title": "连买卡都省了！扎克伯格开源8160亿模型，两台Mac Studio直接跑",
+      "summary": "扎克伯格把一个 8160 亿参数的大模型，塞进了两台 Mac Studio。Meta 刚开源的 Muse Spark Open 借助 MLX 框架，用两台 512GB…",
+      "source": "www.implicator.ai",
+      "id": "50e2f495",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=50e2f495&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 00:00] 连买卡都省了！扎克伯格开源8160亿模型，两台Mac Studio直接跑 · https://www.aiera.com.cn/asi-item.html?id=50e2f495&from=yuanyuan"
     },
     {
       "time": "18:10",
@@ -620,28 +644,16 @@
       "line": "[10/16 00:00] 马斯克把新跑车开上了天花板：倒挂贴顶滑行，空中转体飞跃5辆车 · https://www.aiera.com.cn/asi-item.html?id=66eff5a0&from=yuanyuan"
     },
     {
-      "time": "23:20",
-      "date": "10/15",
-      "title": "120B总参只跑12B！英伟达开源Nemotron新模型，塞进1M上下文",
-      "summary": "英伟达新模型 Nemotron 3.5 Super VL 总参数 120B，每次推理只激活 12B，原生支持 1M 上下文。它已作为开放模型在 OpenRouter 上线…",
-      "source": "X/testingcatalog",
-      "id": "a54c7c33",
+      "time": "00:00",
+      "date": "10/16",
+      "title": "黄仁勋把128GB统一内存塞进笔记本，单机写代码测部署全包给AI",
+      "summary": "黄仁勋把 128GB 统一内存塞进了 Windows 笔记本。英伟达官方宣布 RTX Spark 笔记本开售，敲代码、跑测试再到部署，一台机器上就能全交给 AI。…",
+      "source": "RSS",
+      "id": "fbc2ff04",
       "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=a54c7c33&from=yuanyuan",
+      "url": "https://www.aiera.com.cn/asi-item.html?id=fbc2ff04&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 23:20] 120B总参只跑12B！英伟达开源Nemotron新模型，塞进1M上下文 · https://www.aiera.com.cn/asi-item.html?id=a54c7c33&from=yuanyuan"
-    },
-    {
-      "time": "22:49",
-      "date": "10/15",
-      "title": "一句提示词接管Blender，Gemini 4 Argon几分钟建出一座多层宝塔",
-      "summary": "一句提示词，Gemini 4 Argon 自己调度 Blender，几分钟搭出一座多层宝塔。搭出来的是一个能走进去逛的 3D 场景。 这是 GoogleAI 放出的新演示，由…",
-      "source": "X/GoogleAI",
-      "id": "69da210a",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=69da210a&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 22:49] 一句提示词接管Blender，Gemini 4 Argon几分钟建出一座多层宝塔 · https://www.aiera.com.cn/asi-item.html?id=69da210a&from=yuanyuan"
+      "line": "[10/16 00:00] 黄仁勋把128GB统一内存塞进笔记本，单机写代码测部署全包给AI · https://www.aiera.com.cn/asi-item.html?id=fbc2ff04&from=yuanyuan"
     },
     {
       "time": "21:36",
@@ -714,18 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgdabbd2&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/15 13:34] OpenAI揭秘万级Agent实测！狂飙36小时，狂吞1万亿Token · https://www.aiera.com.cn/asi-item.html?id=tgdabbd2&from=yuanyuan"
-    },
-    {
-      "time": "10:12",
-      "date": "10/15",
-      "title": "Claude Code桌面版暴改，一人指挥AI军团飙代码！",
-      "summary": "Claude Code一夜进化！就在今天，Anthropic正式放出了Claude Code桌面版史诗级更新！它可以同时拉起多个对话，多线程跑任务，谁先干完了…",
-      "source": "新智元",
-      "id": "tg9ea7b2",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg9ea7b2&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 10:12] Claude Code桌面版暴改，一人指挥AI军团飙代码！ · https://www.aiera.com.cn/asi-item.html?id=tg9ea7b2&from=yuanyuan"
     }
   ],
   "feed_count": 60,
