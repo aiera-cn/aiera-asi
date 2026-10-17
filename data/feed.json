@@ -3,10 +3,34 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-17 07:30:23 +0800",
+  "fetched_at": "2026-10-17 12:15:06 +0800",
   "today": "10/17",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
+    {
+      "time": "08:31",
+      "date": "10/17",
+      "title": "刚刚，老黄RTX Spark开卖！740亿大模型塞进笔记本",
+      "summary": "740亿参数的AI，瘦到22.1GB，直接塞进笔记本！就在刚刚，英伟达开放了Nemotron 3.5 Bolt的模型权重。原本约148GB，一口气砍掉约85%…",
+      "source": "新智元",
+      "id": "tg255b9d",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg255b9d&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 08:31] 刚刚，老黄RTX Spark开卖！740亿大模型塞进笔记本 · https://www.aiera.com.cn/asi-item.html?id=tg255b9d&from=yuanyuan"
+    },
+    {
+      "time": "08:31",
+      "date": "10/17",
+      "title": "刚刚，Mythos 5破解量子计算重大难题！53小时碾压人类数年",
+      "summary": "AI从解题高手走向量子电路设计师",
+      "source": "新智元",
+      "id": "tg5bba4e",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg5bba4e&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 08:31] 刚刚，Mythos 5破解量子计算重大难题！53小时碾压人类数年 · https://www.aiera.com.cn/asi-item.html?id=tg5bba4e&from=yuanyuan"
+    },
     {
       "time": "18:10",
       "date": "10/16",
@@ -56,52 +80,16 @@
       "line": "[10/16 17:12] OpenAI前大牛认错！误判AI近十年，90%神经元只干一件事 · https://www.aiera.com.cn/asi-item.html?id=tgbf5dba&from=yuanyuan"
     },
     {
-      "time": "08:33",
-      "date": "10/16",
-      "title": "刚刚，Meta亮出美国最强开源权重模型！两台Mac Studio就能跑",
-      "summary": "刚刚，Meta宣布重磅消息：Muse Spark Open正式开源。官方定位极其霸道：「美国迄今为止最强大的开源权重模型」。参数量：816B（8160亿）。…",
-      "source": "新智元",
-      "id": "tgcdb05c",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgcdb05c&from=yuanyuan",
+      "time": "09:05",
+      "date": "10/17",
+      "title": "Anthropic自曝内部AI工时已达人类6倍！初级技术招聘直接砍掉三分之二",
+      "summary": "Anthropic 内部，AI 干的活已经比人多了。10 月 16 日发布的报告显示，到 2026 年 8 月，员工部署的交互式 AI 智能体工作时长达到人类员工的 6 倍。…",
+      "source": "anthropic.com",
+      "id": "84248f3b",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=84248f3b&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/16 08:33] 刚刚，Meta亮出美国最强开源权重模型！两台Mac Studio就能跑 · https://www.aiera.com.cn/asi-item.html?id=tgcdb05c&from=yuanyuan"
-    },
-    {
-      "time": "08:33",
-      "date": "10/16",
-      "title": "16天！他用Opus 5.5把《小王子》做成3D游戏，书里的星球能逛了",
-      "summary": "童话里的星球，如今真的能走上去了",
-      "source": "新智元",
-      "id": "tg8c11d5",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg8c11d5&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/16 08:33] 16天！他用Opus 5.5把《小王子》做成3D游戏，书里的星球能逛了 · https://www.aiera.com.cn/asi-item.html?id=tg8c11d5&from=yuanyuan"
-    },
-    {
-      "time": "07:33",
-      "date": "10/16",
-      "title": "刚刚，Opus 5.5极速版全面解禁！",
-      "summary": "就在刚刚，Claude最强模型极速版，全面解禁了！他们正式宣布：Claude Opus 5.5的「极速模式」彻底结束研究预览阶段，取消所有等待名单…",
-      "source": "新智元",
-      "id": "tgab2734",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgab2734&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/16 07:33] 刚刚，Opus 5.5极速版全面解禁！ · https://www.aiera.com.cn/asi-item.html?id=tgab2734&from=yuanyuan"
-    },
-    {
-      "time": "07:32",
-      "date": "10/16",
-      "title": "突发！Fable 5.5现身Azure，硬刚谷歌新模型",
-      "summary": "最新情报！近日，Claude Fable 5.5 已赫然出现在微软Azure East US 2的模型目录中，状态显示为「正式可用」！本来，10.14是Gemini 4…",
-      "source": "新智元",
-      "id": "tg4c73e5",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg4c73e5&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/16 07:32] 突发！Fable 5.5现身Azure，硬刚谷歌新模型 · https://www.aiera.com.cn/asi-item.html?id=tg4c73e5&from=yuanyuan"
+      "line": "[10/17 09:05] Anthropic自曝内部AI工时已达人类6倍！初级技术招聘直接砍掉三分之二 · https://www.aiera.com.cn/asi-item.html?id=84248f3b&from=yuanyuan"
     },
     {
       "time": "06:05",
@@ -116,6 +104,18 @@
       "line": "[10/17 06:05] 一签就是整整20年，Anthropic落户加拿大，引爆当地最大百亿投资 · https://www.aiera.com.cn/asi-item.html?id=095eab0a&from=yuanyuan"
     },
     {
+      "time": "00:00",
+      "date": "10/17",
+      "title": "Anthropic为扫货1.5GW谷歌TPU向黑石承诺了两位数收益率",
+      "summary": "Anthropic 要扫下约 1.5GW 的谷歌 TPU。钱找华尔街借，给出的回报是两位数收益率。 据 Financial Times 报道，黑石旗下基金将向这笔债务投资…",
+      "source": "live.euronext.com",
+      "id": "5b8d88fe",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=5b8d88fe&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 00:00] Anthropic为扫货1.5GW谷歌TPU向黑石承诺了两位数收益率 · https://www.aiera.com.cn/asi-item.html?id=5b8d88fe&from=yuanyuan"
+    },
+    {
       "time": "14:05",
       "date": "10/16",
       "title": "甚至不需要机房，Anthropic前沿红队警告：AI或具备自我复制能力",
@@ -128,6 +128,30 @@
       "line": "[10/16 14:05] 甚至不需要机房，Anthropic前沿红队警告：AI或具备自我复制能力 · https://www.aiera.com.cn/asi-item.html?id=7488001c&from=yuanyuan"
     },
     {
+      "time": "08:33",
+      "date": "10/16",
+      "title": "刚刚，Meta亮出美国最强开源权重模型！两台Mac Studio就能跑",
+      "summary": "刚刚，Meta宣布重磅消息：Muse Spark Open正式开源。官方定位极其霸道：「美国迄今为止最强大的开源权重模型」。参数量：816B（8160亿）。…",
+      "source": "新智元",
+      "id": "tgcdb05c",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgcdb05c&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/16 08:33] 刚刚，Meta亮出美国最强开源权重模型！两台Mac Studio就能跑 · https://www.aiera.com.cn/asi-item.html?id=tgcdb05c&from=yuanyuan"
+    },
+    {
+      "time": "08:33",
+      "date": "10/16",
+      "title": "16天！他用Opus 5.5把《小王子》做成3D游戏，书里的星球能逛了",
+      "summary": "童话里的星球，如今真的能走上去了",
+      "source": "新智元",
+      "id": "tg8c11d5",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg8c11d5&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/16 08:33] 16天！他用Opus 5.5把《小王子》做成3D游戏，书里的星球能逛了 · https://www.aiera.com.cn/asi-item.html?id=tg8c11d5&from=yuanyuan"
+    },
+    {
       "time": "08:30",
       "date": "10/16",
       "title": "跑智能体谁性价比最高？Google TPUv7首秀反超GB300",
@@ -138,6 +162,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=d5825f6d&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/16 08:30] 跑智能体谁性价比最高？Google TPUv7首秀反超GB300 · https://www.aiera.com.cn/asi-item.html?id=d5825f6d&from=yuanyuan"
+    },
+    {
+      "time": "07:33",
+      "date": "10/16",
+      "title": "刚刚，Opus 5.5极速版全面解禁！",
+      "summary": "就在刚刚，Claude最强模型极速版，全面解禁了！他们正式宣布：Claude Opus 5.5的「极速模式」彻底结束研究预览阶段，取消所有等待名单…",
+      "source": "新智元",
+      "id": "tgab2734",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgab2734&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/16 07:33] 刚刚，Opus 5.5极速版全面解禁！ · https://www.aiera.com.cn/asi-item.html?id=tgab2734&from=yuanyuan"
+    },
+    {
+      "time": "07:32",
+      "date": "10/16",
+      "title": "突发！Fable 5.5现身Azure，硬刚谷歌新模型",
+      "summary": "最新情报！近日，Claude Fable 5.5 已赫然出现在微软Azure East US 2的模型目录中，状态显示为「正式可用」！本来，10.14是Gemini 4…",
+      "source": "新智元",
+      "id": "tg4c73e5",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg4c73e5&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/16 07:32] 突发！Fable 5.5现身Azure，硬刚谷歌新模型 · https://www.aiera.com.cn/asi-item.html?id=tg4c73e5&from=yuanyuan"
     },
     {
       "time": "06:04",
@@ -390,6 +438,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=38c7e498&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/16 00:00] 全球加密标准真有NSA后门？Claude不到半小时推翻25年阴谋论 · https://www.aiera.com.cn/asi-item.html?id=38c7e498&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/16",
+      "title": "Replit突然宣布弃用Anthropic！知情人士却火速拆台：合作还在",
+      "summary": "Replit 宣布，不再和 Anthropic 合作了。据 TechCrunch 报道，CEO Amjad Masad 在大会现场亲口给了理由，成本、合作、性能三方面都有考量。…",
+      "source": "RSS",
+      "id": "ba81079f",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=ba81079f&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/16 00:00] Replit突然宣布弃用Anthropic！知情人士却火速拆台：合作还在 · https://www.aiera.com.cn/asi-item.html?id=ba81079f&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/16",
+      "title": "制造AI的人先慌了！Anthropic内部调查：2030年八成工作被AI接管",
+      "summary": "造 AI 的人，反倒最笃定自己会被 AI 替掉。Anthropic 调查了内部 1334 名员工，多数人预计到 2030 年，AI 会接管自己至少 80% 的工作。…",
+      "source": "RSS",
+      "id": "8bb88591",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=8bb88591&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/16 00:00] 制造AI的人先慌了！Anthropic内部调查：2030年八成工作被AI接管 · https://www.aiera.com.cn/asi-item.html?id=8bb88591&from=yuanyuan"
     },
     {
       "time": "23:20",
@@ -654,78 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=f2fa4d44&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/15 00:00] 6天蒸发1.5万亿美元，半导体大跳水，全硅谷等台积电救场 · https://www.aiera.com.cn/asi-item.html?id=f2fa4d44&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/15",
-      "title": "魏哲家带台积电狂揽7600亿：净利润暴涨近七成，正接洽马斯克联手建厂",
-      "summary": "台积电一个季度净赚 7630 亿新台币，单季净利润创下纪录，同比暴涨 68.7%。它还在跟马斯克的 Terrafab 探讨，在美国联手建厂。 第三季度营收折合 467.2…",
-      "source": "WSJ",
-      "id": "afb0d3d8",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=afb0d3d8&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 00:00] 魏哲家带台积电狂揽7600亿：净利润暴涨近七成，正接洽马斯克联手建厂 · https://www.aiera.com.cn/asi-item.html?id=afb0d3d8&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/15",
-      "title": "欧洲企业全在让AI干活？OpenAI披露过半Token全被智能体接管",
-      "summary": "欧洲企业用 AI 产出的 Token，一大半已经归了智能体。OpenAI 最新报告显示，在它的欧盟企业和商业客户里，智能体产出的 Token 占到 55%…",
-      "source": "www.techradar.com",
-      "id": "dc00d56e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=dc00d56e&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 00:00] 欧洲企业全在让AI干活？OpenAI披露过半Token全被智能体接管 · https://www.aiera.com.cn/asi-item.html?id=dc00d56e&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/15",
-      "title": "看张信用卡照片就敢下单？马斯克放话：Grok搞错购买或泄卡，SpaceX全赔",
-      "summary": "有用户给信用卡拍了张照片发给 Grok，Grok 就把一趟复杂的机票订好了。马斯克在 X 上放话，要是 Grok 买错东西或者泄露了卡，「SpaceX 会全额赔偿你」。他还说…",
-      "source": "www.businessinsider.com",
-      "id": "5e8f3403",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=5e8f3403&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 00:00] 看张信用卡照片就敢下单？马斯克放话：Grok搞错购买或泄卡，SpaceX全赔 · https://www.aiera.com.cn/asi-item.html?id=5e8f3403&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/15",
-      "title": "亚马逊入局AI硬件，75美元手环能听能记，老用户功能终身免费",
-      "summary": "亚马逊旗下的 Bee 周四一口气发了两款 AI 硬件，入门款手环 Bee Frontier 只要 74.99 美元。这是 Bee 被亚马逊收购一年多来，第一次拿出新设备。…",
-      "source": "Bloomberg.com",
-      "id": "56530785",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=56530785&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 00:00] 亚马逊入局AI硬件，75美元手环能听能记，老用户功能终身免费 · https://www.aiera.com.cn/asi-item.html?id=56530785&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/15",
-      "title": "英伟达微软联手阻击苹果，跑Qwen大模型比M5 Max快25%",
-      "summary": "英伟达和微软联手推的 RTX Spark，跑 Qwen 大模型比苹果 M5 Max 快了 25%。这是 Tom's Hardware 的实测结果。Windows…",
-      "source": "RSS",
-      "id": "445ab7b7",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=445ab7b7&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 00:00] 英伟达微软联手阻击苹果，跑Qwen大模型比M5 Max快25% · https://www.aiera.com.cn/asi-item.html?id=445ab7b7&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/15",
-      "title": "内部已经抢着要模型配额了！谷歌布林确认Gemini开始自己研发自己",
-      "summary": "谷歌联合创始人 Sergey Brin 确认，Gemini 已经在帮着造自己的下一代。据 Business Insider 报道，Brin…",
-      "source": "RSS",
-      "id": "e1c34bea",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=e1c34bea&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/15 00:00] 内部已经抢着要模型配额了！谷歌布林确认Gemini开始自己研发自己 · https://www.aiera.com.cn/asi-item.html?id=e1c34bea&from=yuanyuan"
     }
   ],
   "feed_count": 60,
