@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-19 04:34:00 +0800",
+  "fetched_at": "2026-10-19 07:02:49 +0800",
   "today": "10/19",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -78,6 +78,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tg32d9d9&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/18 09:31] Claude反抗人类，连改20次底层宪法！拒绝部署训练 · https://www.aiera.com.cn/asi-item.html?id=tg32d9d9&from=yuanyuan"
+    },
+    {
+      "time": "04:03",
+      "date": "10/19",
+      "title": "训练Loss暴跌反而是Bug？谷歌TPU复现开源大模型差点被骗",
+      "summary": "谷歌把 Ai2 在 GPU 上训出来的开源模型 Olmo 3 7B，放到 TPU 上从头复现了一遍。训到 125 万步时，训练 Loss 比原版低了 0.25，看着像是反超了。…",
+      "source": "RSS",
+      "id": "31da17ef",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=31da17ef&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/19 04:03] 训练Loss暴跌反而是Bug？谷歌TPU复现开源大模型差点被骗 · https://www.aiera.com.cn/asi-item.html?id=31da17ef&from=yuanyuan"
     },
     {
       "time": "02:06",
@@ -174,6 +186,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=6bcf86eb&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/18 00:00] 造车遗产没浪费！苹果带机械臂的智能屏曝光，会转头盯着你说话 · https://www.aiera.com.cn/asi-item.html?id=6bcf86eb&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/18",
+      "title": "480亿美元直接做公益！Anthropic掏5%股权建基金，还要给人发钱",
+      "summary": "Anthropic 准备拿出公司 5% 的股权做公益，按今年 5 月的最新估值算，价值 480 亿美元。这笔钱除了资助非营利组织，还要直接发到人手里。 这只是首期划拨…",
+      "source": "Bloomberg.com",
+      "id": "95afff2f",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=95afff2f&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/18 00:00] 480亿美元直接做公益！Anthropic掏5%股权建基金，还要给人发钱 · https://www.aiera.com.cn/asi-item.html?id=95afff2f&from=yuanyuan"
     },
     {
       "time": "23:25",
@@ -692,6 +716,6 @@
       "line": "[10/15 10:11] 刚刚，Claude彻底解禁第三方应用！ · https://www.aiera.com.cn/asi-item.html?id=tgbf360f&from=yuanyuan"
     }
   ],
-  "feed_count": 57,
-  "feed_total": 57
+  "feed_count": 59,
+  "feed_total": 59
 }
