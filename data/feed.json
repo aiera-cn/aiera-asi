@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-18 06:13:17 +0800",
+  "fetched_at": "2026-10-18 08:55:32 +0800",
   "today": "10/18",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -78,30 +78,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tg7b332f&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/17 12:33] 刚刚，4个Gemini死了605次，竟自己组队打穿《我的世界》！ · https://www.aiera.com.cn/asi-item.html?id=tg7b332f&from=yuanyuan"
-    },
-    {
-      "time": "08:31",
-      "date": "10/17",
-      "title": "刚刚，老黄RTX Spark开卖！740亿大模型塞进笔记本",
-      "summary": "740亿参数的AI，瘦到22.1GB，直接塞进笔记本！就在刚刚，英伟达开放了Nemotron 3.5 Bolt的模型权重。原本约148GB，一口气砍掉约85%…",
-      "source": "新智元",
-      "id": "tg255b9d",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg255b9d&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/17 08:31] 刚刚，老黄RTX Spark开卖！740亿大模型塞进笔记本 · https://www.aiera.com.cn/asi-item.html?id=tg255b9d&from=yuanyuan"
-    },
-    {
-      "time": "08:31",
-      "date": "10/17",
-      "title": "刚刚，Mythos 5破解量子计算重大难题！53小时碾压人类数年",
-      "summary": "AI从解题高手走向量子电路设计师",
-      "source": "新智元",
-      "id": "tg5bba4e",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg5bba4e&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/17 08:31] 刚刚，Mythos 5破解量子计算重大难题！53小时碾压人类数年 · https://www.aiera.com.cn/asi-item.html?id=tg5bba4e&from=yuanyuan"
     },
     {
       "time": "02:00",
@@ -198,6 +174,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=84248f3b&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/17 09:05] Anthropic自曝内部AI工时已达人类6倍！初级技术招聘直接砍掉三分之二 · https://www.aiera.com.cn/asi-item.html?id=84248f3b&from=yuanyuan"
+    },
+    {
+      "time": "08:31",
+      "date": "10/17",
+      "title": "刚刚，老黄RTX Spark开卖！740亿大模型塞进笔记本",
+      "summary": "740亿参数的AI，瘦到22.1GB，直接塞进笔记本！就在刚刚，英伟达开放了Nemotron 3.5 Bolt的模型权重。原本约148GB，一口气砍掉约85%…",
+      "source": "新智元",
+      "id": "tg255b9d",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg255b9d&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 08:31] 刚刚，老黄RTX Spark开卖！740亿大模型塞进笔记本 · https://www.aiera.com.cn/asi-item.html?id=tg255b9d&from=yuanyuan"
+    },
+    {
+      "time": "08:31",
+      "date": "10/17",
+      "title": "刚刚，Mythos 5破解量子计算重大难题！53小时碾压人类数年",
+      "summary": "AI从解题高手走向量子电路设计师",
+      "source": "新智元",
+      "id": "tg5bba4e",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg5bba4e&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 08:31] 刚刚，Mythos 5破解量子计算重大难题！53小时碾压人类数年 · https://www.aiera.com.cn/asi-item.html?id=tg5bba4e&from=yuanyuan"
     },
     {
       "time": "06:05",
@@ -306,6 +306,42 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=6064bd7e&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/17 00:00] 连拔草的园丁都要失业了？Anthropic把AI和机器人捆绑算账 · https://www.aiera.com.cn/asi-item.html?id=6064bd7e&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/17",
+      "title": "英伟达首款Arm架构PC芯片实测，6144个核心被功耗墙封印",
+      "summary": "英伟达首款 Arm 架构 PC 芯片，终于被拉去测了游戏。6144 个核心，最后全被一道功耗墙封印。 PCMag 拿到的是一台惠普 OmniBook Ultra 16…",
+      "source": "RSS",
+      "id": "440590b3",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=440590b3&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 00:00] 英伟达首款Arm架构PC芯片实测，6144个核心被功耗墙封印 · https://www.aiera.com.cn/asi-item.html?id=440590b3&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/17",
+      "title": "机械臂终于不犯抽搐了！开源VLA模型REKI上线，加点记忆力治好手抖",
+      "summary": "机械臂在两个姿势之间来回抽搐的老毛病，被一点短期记忆压下去了。法国实验室 Kyutai 联手 Inria 和 École des Ponts 开源了 VLA 模型 REKI…",
+      "source": "RSS",
+      "id": "193234b2",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=193234b2&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 00:00] 机械臂终于不犯抽搐了！开源VLA模型REKI上线，加点记忆力治好手抖 · https://www.aiera.com.cn/asi-item.html?id=193234b2&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/17",
+      "title": "偷Key跑蒸馏！开源Agent突遭黑客入侵，三大巨头密钥全漏了",
+      "summary": "开源编程智能体 OpenCode 被黑了。开发者存在上面的 API 密钥被人偷走，拿去跑模型蒸馏，受波及的工作区里，OpenAI、Anthropic、Google…",
+      "source": "RSS",
+      "id": "557eb836",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=557eb836&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/17 00:00] 偷Key跑蒸馏！开源Agent突遭黑客入侵，三大巨头密钥全漏了 · https://www.aiera.com.cn/asi-item.html?id=557eb836&from=yuanyuan"
     },
     {
       "time": "18:10",
@@ -690,42 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=ba81079f&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/16 00:00] Replit突然宣布弃用Anthropic！知情人士却火速拆台：合作还在 · https://www.aiera.com.cn/asi-item.html?id=ba81079f&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/16",
-      "title": "制造AI的人先慌了！Anthropic内部调查：2030年八成工作被AI接管",
-      "summary": "造 AI 的人，反倒最笃定自己会被 AI 替掉。Anthropic 调查了内部 1334 名员工，多数人预计到 2030 年，AI 会接管自己至少 80% 的工作。…",
-      "source": "RSS",
-      "id": "8bb88591",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=8bb88591&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/16 00:00] 制造AI的人先慌了！Anthropic内部调查：2030年八成工作被AI接管 · https://www.aiera.com.cn/asi-item.html?id=8bb88591&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/16",
-      "title": "OpenAI加速发力广告大挖Meta，另一头苹果税恐难伤分毫",
-      "summary": "OpenAI 正在加速杀进广告生意。据 The Information 报道，OpenAI 一边从 Meta 挖人，一边把价格砍了下来。 从 Meta 要人，再压低价格…",
-      "source": "The Information",
-      "id": "c24bb33b",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=c24bb33b&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/16 00:00] OpenAI加速发力广告大挖Meta，另一头苹果税恐难伤分毫 · https://www.aiera.com.cn/asi-item.html?id=c24bb33b&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/16",
-      "title": "OpenAI把刚在华尔街推销Grok的SpaceX销售主管挖走了",
-      "summary": "OpenAI 又从马斯克那边挖走了一员销售大将。据彭博报道，前 xAI 销售负责人 Graham Seamans 已经跳槽到 OpenAI，负责网络安全业务的销售。 从…",
-      "source": "Bloomberg.com",
-      "id": "54bb29a0",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=54bb29a0&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/16 00:00] OpenAI把刚在华尔街推销Grok的SpaceX销售主管挖走了 · https://www.aiera.com.cn/asi-item.html?id=54bb29a0&from=yuanyuan"
     }
   ],
   "feed_count": 60,
