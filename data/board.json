@@ -3,65 +3,240 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-18 13:47:30 +0800",
+  "fetched_at": "2026-10-18 18:55:38 +0800",
   "today": "10/18",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "9成代码全由AI写！Claude Code修改翻倍撤回反降4成，审查法公开",
-      "summary": "AI写代码到底会不会引发工程质量灾难？Anthropic旗下的编程助手Claude Code团队给出了真实答卷：团队自身约90%的代码全由Claude模型自主编写。在6月到9月期间，团队合并的代码修改量暴增1倍以上，而线上代码撤回比例反而大幅下降40%多。他们靠一套层层叠加的「带洞奶酪片」多层防御机制，化解了AI高通量编码带来的审查危机。",
-      "reads": "6.2万",
-      "ago": "2 小时前",
+      "title": "一口气狂扫40万美元！苹果折叠屏遭黄牛爆炒，库克接班人被当面质问",
+      "summary": "苹果首款折叠屏 iPhone Duo 刚开启预售就引爆抢购潮，即便定价高达 2000 美元仍挡不住投机客疯狂扫货。有黄牛公开炫耀自己砸下 40 万美元大举囤货，声称每台转手就能净赚数百美元暴利。知名科技记者 Mark Gurman 随后公开质询，并直接艾特苹果 CEO John Ternus 追问官方为何放任倒卖，涉事黄牛账号目前已火速转为私密。",
+      "reads": "30万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Claude Code团队自身大约90%的代码均由Claude模型自主编写，实现了极高比例的AI原生开发。",
-        "工程效率显著提升：在2026年6月到9月期间，团队合并的代码修改量实现了1倍以上的增长。",
-        "交付质量不降反升：在代码产出大幅翻倍的同时，团队需要撤回或回滚的代码比例反而下降了4成多。",
-        "核心审查采用「带洞奶酪片」多层防护体系，团队承认单道自动化检查都会存在疏漏，但多层检查层层叠加后即可大幅降低漏检率。"
+        "苹果首款折叠屏手机 iPhone Duo 正式开启预售，官方单机定价高达 2000 美元。",
+        "一名黄牛在社交平台公开宣称斥资 40 万美元扫货囤积该机型，按官方定价推算相当于吃下近 200 台配额。",
+        "涉事黄牛高调宣称，通过转卖这批紧俏现货，单台设备的潜在利润预计可达数百美元。",
+        "知名科技记者 Mark Gurman 发文公开开怼，并直接艾特苹果 CEO John Ternus 质问官方风控机制。"
       ],
       "quote": {
-        "who": "宝玉",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "@Rango00187057 制作流程可以参考 声音是 Gemini tts，每一段独立配音，修改了很多版本，所以有些出入"
+        "said": "免费的，而且正呼唤着你。我们全新的每周通讯，记得订阅："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 6.2万 · 产品与生态] 9成代码全由AI写！Claude Code修改翻倍撤回反降4成，审查法公开"
+      "line": "[榜第1位 · 30万 · 产品与生态] 一口气狂扫40万美元！苹果折叠屏遭黄牛爆炒，库克接班人被当面质问"
     },
     {
-      "title": "马斯克放话新Roadster有感知力：特技自主甩，德州建风火轮环形跑道",
-      "summary": "马斯克最新披露了特斯拉全新Roadster跑车的重磅细节，称车主未来可以直接让车辆自主完成各种展示特技，因为这款跑车将「具备感知能力」（sentient）。此外，特斯拉还将在德克萨斯州总部建造一条比玩具风火轮（Hot Wheels）还疯狂的环形测试跑道，供购车车主亲自上手实测极限性能。",
-      "reads": "1126万",
-      "ago": "22 小时前",
-      "category": "产品与生态",
+      "title": "上架又秒删！OpenAI官方API闪现红蓝绿三款新模型，代码杀手要来？",
+      "summary": "OpenAI官方API端点中短暂现身三个未公开代号的全新模型，分别为aurora-blue-alpha、aurora-green-alpha和aurora-red-alpha，随后被官方火速撤下。开发者梳理发现，此前在OpenRouter上出现的aurora-alpha大概率对应着GPT-5.3-Codex-Spark，推测这次红蓝绿三款模型可能是专门针对编程优化的新一代Cod…",
+      "reads": "3.0万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "特斯拉CEO埃隆·马斯克在社交平台确认，全新Roadster跑车将支持高难度自主特技机动。",
-        "车主未来无需手动操控，可直接指令车辆自主完成官方展示过的各项极限特技动作。",
-        "马斯克声称该车将「具备感知力」（sentient），依靠自主系统实时感知并执行极限物理控制。",
-        "特斯拉计划在德克萨斯州总部建造一条专门的极端环形测试跑道（looping track）。"
+        "OpenAI官方API端点被开发者抓包，短暂上线了三个未公开的全新模型，代号分别为aurora-blue-alpha、aurora-green-alpha以…",
+        "三款极光代号模型在API中停留不久后，已被官方迅速下线，目前无法继续调用。",
+        "开发者顺藤摸瓜指出，今年早些时候OpenRouter上曾出现过一个名为aurora-alpha的模型，后来被普遍证实大概率就是GPT-5.3-Codex-S…",
+        "业内据此推测，本次出现的红蓝绿三色版本很可能是新一代Codex专业编程模型，或者主打高吞吐、超低延迟的高速推理模型。"
       ],
       "quote": {
-        "who": "Elon Musk",
+        "who": "Lisan al Gaib",
         "role": "",
-        "said": "顺便说一句"
+        "said": "然后他们又没了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 1126万 · 产品与生态] 马斯克放话新Roadster有感知力：特技自主甩，德州建风火轮环形跑道"
+      "line": "[榜第2位 · 3.0万 · 模型与能力] 上架又秒删！OpenAI官方API闪现红蓝绿三款新模型，代码杀手要来？"
+    },
+    {
+      "title": "竞技场盲测破案！OpenAI三款aurora模型曝光，实测竟是全新图像杀器",
+      "summary": "OpenAI在官方API端点中短暂现身了三款神秘新模型代号：aurora-red-alpha、aurora-green-alpha与aurora-blue-alpha，随后被光速撤下。原本外界以为是常规代码或文本迭代，但有测试者在竞技场（arena）中盲测刷到了aurora-red-alpha，实测证实这极大概率是OpenAI正在密集研发的新一代图像多模态模型。以RGB红绿蓝三…",
+      "reads": "1.7万",
+      "ago": "52 分钟前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI官方API端点近日短暂闪现三个全新模型代号，分别为aurora-red-alpha、aurora-green-alpha以及aurora-blu…",
+        "相关模型引用在曝光后被官方光速撤除，业内普遍推测这是一次内部灰度测试配置的失误上线。",
+        "命名上三款模型恰好对应RGB「红、绿、蓝」三原色，当时便引发外界对其视觉与图像属性的猜想。",
+        "社区测试追踪平台随后在模型竞技场（arena）中成功盲测刷到了aurora-red-alpha，实测反馈明确指出这很大概率是一款全新图像模型。"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "又及：看来这些很可能是新的图像模型。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 1.7万 · 模型与能力] 竞技场盲测破案！OpenAI三款aurora模型曝光，实测竟是全新图像杀器"
+    },
+    {
+      "title": "ChatGPT不再是单助手！GPT-6 Pro实装多智能体并行，一人指挥成团",
+      "summary": "ChatGPT彻底告别单一助手模式，AI工作流迎来重大进化。GPT-6 Pro现已支持将单个复杂任务自动拆分给多个并行运行的智能体共同搞定，用户能实时监控每个子智能体的进度并随时抽检已完成模块。除了多智能体并行协同，新版本运行速度显著加快，插件与工具调用表现同步提升，目前已正式向Pro订阅用户开闸推送。",
+      "reads": "1.4万",
+      "ago": "58 分钟前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "产品形态巨变：ChatGPT正式打破单助手交互框架，迈入多智能体并行协作阶段。",
+        "核心能力上线：GPT-6 Pro支持将单一复杂任务自动拆解，分发给多个智能体并行处理。",
+        "全流程可视化：界面支持实时追踪各智能体执行进度，用户可随时点开已完成的独立模块进行成果审查。",
+        "性能底层优化：除多智能体协同外，新版本整体运行速度显著加快，插件及工具调用能力迎来专项提升。"
+      ],
+      "quote": {
+        "who": "Mark Kretschmann",
+        "role": "",
+        "said": "@DanielP1973235 嗯，挺像的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 1.4万 · 产品与生态] ChatGPT不再是单助手！GPT-6 Pro实装多智能体并行，一人指挥成团"
+    },
+    {
+      "title": "代号极光！OpenAI三款新模型集体现身，正面拦截Fable 5.5",
+      "summary": "OpenAI被曝出正在秘密测试3个全新内部模型，代号分别为Aurora red、green与alpha。社区追踪者分析，该系列极可能是OpenAI新一代Astra模型，专门用来正面反制Anthropic旗下的Fable 5.5与Opus 5.5。此外，这批代号还被猜测是否对应此前流出的daybreak项目，两强对决再度升级。",
+      "reads": "1.8万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "社区开发者曝光OpenAI正在测试3个全新内部模型，代号分别为Aurora red、green与alpha。",
+        "追踪者分析指出，该系列很可能是OpenAI下一代「Astra」模型，专门用来应对激烈的旗舰竞争。",
+        "这批新模型的测试动作被视作直接反制Anthropic，正面迎战其Fable 5.5与Opus 5.5。",
+        "有爆料者提出讨论，质疑这批极光代号是否正是此前社区流出的daybreak项目新命名。"
+      ],
+      "quote": {
+        "who": "J A Z I I",
+        "role": "",
+        "said": "@kimmonismus 这些会不会是 daybreak 的新名字？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 1.8万 · 模型与能力] 代号极光！OpenAI三款新模型集体现身，正面拦截Fable 5.5"
+    },
+    {
+      "title": "月付100美元两天见底！谷歌Gemini 4 Argon被吐槽：调用不到GPT十分之一",
+      "summary": "每月掏100美元买Ultra套餐，结果在Antigravity里玩Gemini 4 Argon不到两天，整周配额就彻底见底了。有开发者吐槽，自己开在extra high到max高档位下的调用频次，甚至连GPT-6.1 Sol的十分之一都不到。业内人士直言，Gemini 4 Argon结构上的推理成本实在太高，连财大气粗的谷歌自己都补贴不起了。",
+      "reads": "3.8万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "付费开发者反馈，使用每月100美元的Ultra套餐，在Antigravity中调用Gemini 4 Argon不到两天便耗尽整周配额",
+        "开发者指出其在extra high至max档位下的实际调用量，甚至不足GPT-6.1 Sol的十分之一",
+        "行业观察分析称，Gemini 4 Argon在结构上的推理服务成本过高，连谷歌自身财力也难以长期补贴",
+        "极度严苛的用量配额，正直接制约高阶开发者在复杂任务中的构建与深度调用体验"
+      ],
+      "quote": {
+        "who": "Derya Unutmaz, MD",
+        "role": "",
+        "said": "@DecentGradient 这就奇怪了。你用的是200美元套餐还是100美元的 Ultra 套餐？我用的是后者。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 3.8万 · 模型与能力] 月付100美元两天见底！谷歌Gemini 4 Argon被吐槽：调用不到GPT十分之一"
+    },
+    {
+      "title": "ChatGPT推理、Claude写代码！Grok Bot跻身第三个必买AI订阅",
+      "summary": "面对多模型并存的新格局，一线开发者已经不再纠结单选，而是直接组建「AI铁三角」。随着Grok Bot能力大幅提升，资深从业者将其正式列为第三个必买常驻工具，与ChatGPT和Claude形成清晰的生产力分工。面对因评价转变带来的争议，业内直言随着新证据出现及时调整工具偏好才是理智之选。",
+      "reads": "2.7万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "一线开发者公开主力AI组合：将Grok Bot列为除ChatGPT与Claude之外的第三个必买常驻订阅",
+        "ChatGPT在当前工作流中专注长板，主要负责深度研究、逻辑分析、推理、复杂数学项目以及日常个人助理",
+        "Claude继续被确立为主力开发神器，全面覆盖软件编程、架构构建与日常代码审查任务",
+        "Grok Bot凭借近期的性能升级成功杀入工作流，被同行盛赞与前两者构成了「绝配三人组」"
+      ],
+      "quote": {
+        "who": "Alex Prompter",
+        "role": "",
+        "said": "@TokenGremlin 真是绝配三人组"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 2.7万 · 产品与生态] ChatGPT推理、Claude写代码！Grok Bot跻身第三个必买AI订阅"
+    },
+    {
+      "title": "Anthropic内部失业报告炸场！智能体工时超人类6倍，初级码农惨遭腰斩",
+      "summary": "Anthropic 最新内部用工报告揭开残酷一幕：在公司总规模翻了三倍的同时，初级技术人员占比却从 21% 断崖跌至 14%，约 1/3 的机器学习主管和 1/5 的软件工程主管明确表示因 AI 减少了招聘。目前其内部部署的智能体工作时长已飙升至人类员工的 6 倍，59% 的员工证实 AI 将适配任务耗时缩短至四分之一。更惊人的是认知差距，Anthropic 员工平均预计到 2…",
+      "reads": "1.4万",
+      "ago": "1 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "公司规模翻了三倍，Anthropic 初级技术人员占比却从 21% 断崖式下滑至 14%",
+        "约三分之一的 ML 主管与五分之一的 SWE 主管明确承认，因引入 AI 工具而缩减了团队招聘",
+        "Anthropic 内部智能体（Agent）累计工作时长已达到人类员工的 6 倍之多",
+        "59% 的受访员工表示，AI 已经把适合自动化任务的耗时直接压缩到原本的四分之一"
+      ],
+      "quote": {
+        "who": "Rohan Paul",
+        "role": "",
+        "said": ""
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 1.4万 · 组织与人事] Anthropic内部失业报告炸场！智能体工时超人类6倍，初级码农惨遭腰斩"
+    },
+    {
+      "title": "月烧800万美元连砸18个月！Cerebras自曝造芯血泪：当时芯片根本跑不通",
+      "summary": "AI芯片创业的试错成本到底有多绝望？Cerebras创始人兼CEO Andrew Feldman最近自曝至暗时刻：团队曾连续18个月、每个月硬烧约800万美元，全砸在一颗当时压根还跑不通的芯片上。一路熬过做不出、造不出来、没客户、拿不到超大规模算力订单的死循环，才算在英伟达的夹缝中活下来。与此同时，知名计算机学者Scott Aaronson也直言，OpenAI搞定370个数学证…",
+      "reads": "1.1万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Cerebras创始人兼CEO Andrew Feldman披露硬科技芯片研发早期的极端凶险历程。",
+        "Feldman透露，Cerebras曾连续18个月、每个月烧掉约800万美元，累计耗费近1.44亿美元在一颗根本还没跑通的芯片上。",
+        "他将芯片初创面临的残酷现实总结为五重死循环：从技术上不可能实现、到工艺上造不出来、再到没有客户、没有前沿实验室采用、没有超大规模数据中心买单。",
+        "这一爆料折射出AI加速芯片极高的流片与研发门槛，硬件竞赛早已变成吞噬天量资本的供应链生存战。"
+      ],
+      "quote": {
+        "who": "Rohan Paul",
+        "role": "",
+        "said": "完整视频在「MTS」YouTube 频道"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 1.1万 · 资本与算力] 月烧800万美元连砸18个月！Cerebras自曝造芯血泪：当时芯片根本跑不通"
     },
     {
       "title": "LeCun手撕马斯克飞天跑车！列公式硬核打假：有效推力撑不过10秒",
       "summary": "马斯克宣称的特斯拉Roadster飞行展示刚引发全网狂欢，图灵奖得主Yann LeCun就直接甩出硬核物理测算泼冷水。LeCun指出压缩空气比冲不足50秒且推力呈指数衰减，即便半车全塞满储气罐，推重比大于1的有效推力也撑不过10秒；若真换火箭发动机排气更会融化路面、撞车即爆炸。尽管自己平时也开Model S Plaid和保时捷911 GT3，LeCun依然毫不留情痛批这纯属公关…",
-      "reads": "6.9万",
-      "ago": "4 小时前",
+      "reads": "7.5万",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,39 +254,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 6.9万 · 产品与生态] LeCun手撕马斯克飞天跑车！列公式硬核打假：有效推力撑不过10秒"
-    },
-    {
-      "title": "无需密码直接接管！博通Wi-Fi曝致命漏洞潜伏16年，全球数百万路由器裸奔",
-      "summary": "网络安全研究员近日曝光了博通（Broadcom）Wi-Fi芯片的一个严重高危漏洞，该漏洞甚至可追溯至2010年，潜伏长达16年。攻击者只要处于无线信号覆盖范围内，无需输入任何Wi-Fi密码即可在路由器上远程执行代码。令人震惊的是，尽管多国运营商设备和数百万用户暴露在完全没有补丁的风险中，博通目前仍拒绝为该漏洞分配CVE编号。",
-      "reads": "27万",
-      "ago": "9 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "网络安全研究员 Quentin Kaiser 曝光了博通 Wi-Fi 芯片的严重远程代码执行漏洞，只要在无线信号范围内，攻击者无需密码即可接管路由器。",
-        "该漏洞并非近期引入，其脆弱代码最早可追溯至 2010 年，在底层芯片固件中潜伏了长达 16 年之久。",
-        "最初测试显示比利时 Proximus、Orange Belgium 和 VOO 等运营商配发的路由器均受影响，估计仅在比利时就有约 150 万台设备处于完全…",
-        "后续调查发现波及范围远超欧洲，存在缺陷的代码同样出现在中兴通讯 ZTE F680 v4 以及西班牙 Movistar 的至少三款路由器中。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "‼️ 最新进展：一名研究人员表示，Broadcom Wi-Fi 路由器漏洞波及的国家远超预期。 存在漏洞的代码也出现在中兴通讯的 F680 v4 中，从西班牙到越南、埃及和摩尔多瓦的 ISP 均有提供。 西班牙 Movistar 的三款路由器似乎受到影响。Broadcom 目前仍拒绝分配 CVE 编号。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 27万 · 政策与安全] 无需密码直接接管！博通Wi-Fi曝致命漏洞潜伏16年，全球数百万路由器裸奔"
+      "rank": 10,
+      "line": "[榜第10位 · 7.5万 · 产品与生态] LeCun手撕马斯克飞天跑车！列公式硬核打假：有效推力撑不过10秒"
     },
     {
       "title": "能自主玩特技、赛道比风火轮还疯！马斯克回应飞行跑车：太空可没路",
       "summary": "马斯克针对全新特斯拉Roadster的飞行演示视频作出耐人寻味的回应，直接甩出一句「太空里可没有路」。据交流透露，新款Roadster将具备感知能力，甚至能全凭自身系统自主完成特技动作。特斯拉在得克萨斯州为其打造的测试赛道更被形容为比经典的「风火轮」轨道还要疯狂，瞬间引爆全网对这台跨界跑车的期待。",
-      "reads": "18万",
-      "ago": "9 小时前",
+      "reads": "19万",
+      "ago": "14 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -129,39 +279,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 18万 · 产品与生态] 能自主玩特技、赛道比风火轮还疯！马斯克回应飞行跑车：太空可没路"
+      "rank": 11,
+      "line": "[榜第11位 · 19万 · 产品与生态] 能自主玩特技、赛道比风火轮还疯！马斯克回应飞行跑车：太空可没路"
     },
     {
-      "title": "一次曝出红绿蓝三档！OpenAI API神秘代号潜伏，新Codex或下一代真来了",
-      "summary": "OpenAI后台又在悄悄憋大招了。开发者在OpenAI API中抓包发现了三个全新的模型代号：aurora-blue-alpha、aurora-green-alpha以及aurora-red-alpha。此前OpenRouter上现身的aurora-alpha大概率正是GPT-5.3-Codex-Spark，业内推测这批三色极光新模型极可能是Codex专用代码模型、高速推理变体…",
-      "reads": "1.4万",
-      "ago": "2 小时前",
+      "title": "OpenAI后台再漏底牌！红绿蓝三档Aurora现身，Astra紧锣密鼓排期",
+      "summary": "追踪器最新监测显示，OpenAI 的 /v1/models 接口在 10 月 18 日突增三个内部检查点：aurora-blue-alpha、aurora-green-alpha 以及 aurora-red-alpha。这距 10 月 15 日现身的 gpt-6-astra-api-priv-ev3 仅隔三天，意味着 OpenAI 正在针对 Astra 及其衍生检查点密集进行部…",
+      "reads": "1.6万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI API后台最新现身三个未公开模型代号：aurora-blue-alpha、aurora-green-alpha和aurora-red-alph…",
-        "新模型代号统一以「Aurora（极光）」命名，并采用红、绿、蓝三种颜色进行分档区分。",
-        "此前在OpenRouter平台现身的aurora-alpha模型，曾被业内普遍推测为GPT-5.3-Codex-Spark的测试入口。",
-        "基于历史代号关联，开发者推测这三款模型或是针对Codex生态深度优化的专用代码模型，或是主打低延迟的高速推理变体。"
+        "10 月 18 日，轮询 OpenAI /v1/models 接口的独立追踪器捕获到三个全新代号条目。",
+        "新条目命名遵循三色分档，分别为 aurora-blue-alpha、aurora-green-alpha 与 aurora-red-alpha。",
+        "此次异动距 10 月 15 日现身的 gpt-6-astra-api-priv-ev3 仅相隔 3 天。",
+        "分析推测，这批「极光」alpha 检查点很可能是 OpenAI 准备后续公开发布的测试候选版本。"
       ],
       "quote": {
-        "who": "Lisan al Gaib",
+        "who": "Chris",
         "role": "",
-        "said": "或者干脆就是下一代模型，我也不知道"
+        "said": "冷知识：2 月 9 号 Open router 上就出现过一个 Aurora-Alpha——不是 OpenAI 出的"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 1.4万 · 模型与能力] 一次曝出红绿蓝三档！OpenAI API神秘代号潜伏，新Codex或下一代真来了"
+      "rank": 12,
+      "line": "[榜第12位 · 1.6万 · 模型与能力] OpenAI后台再漏底牌！红绿蓝三档Aurora现身，Astra紧锣密鼓排期"
     },
     {
       "title": "周末别闲着！OpenAI官方推社区项目合集，手把手教你抄作业",
       "summary": "周末不知道搭点什么？OpenAI开发者官方账号精选了一批社区近期的代表性应用，并打包整理了完整的复现教程与操作指南。这份清单旨在帮开发者降低动手门槛，快速摸清当下最热门的AI工作流与实际落地玩法。",
-      "reads": "5.3万",
-      "ago": "6 小时前",
+      "reads": "7.9万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -179,14 +329,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 5.3万 · 产品与生态] 周末别闲着！OpenAI官方推社区项目合集，手把手教你抄作业"
+      "rank": 13,
+      "line": "[榜第13位 · 7.9万 · 产品与生态] 周末别闲着！OpenAI官方推社区项目合集，手把手教你抄作业"
+    },
+    {
+      "title": "英伟达彻底把Agent玩出花！父子档手搓啤酒，新硬件RTX Spark炸场柏林",
+      "summary": "英伟达 Build-A-Claw 柏林站正式收官，作为下周 GTC 柏林站规模最大的官方前哨站，英伟达全球团队齐聚现场秀肌肉。现场不仅展示了最新发布的端侧硬件 RTX Spark，让开发者零距离上手各类行业级智能体，甚至还有一对父子档直接用 openclaw 现场酿出了能喝的拉格啤酒，把 Agent 落地玩出了新花样。",
+      "reads": "6021",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "英伟达官方宣布 Build-A-Claw 柏林站活动圆满收官，为下周即将开幕的 GTC 柏林站（NVIDIA GTC Berlin）完成全面预热。",
+        "现场负责人 Anusha 表示，这是英伟达通往本届 GTC 柏林站规模最大的一场前哨活动，英伟达全球团队均赶赴现场支持。",
+        "活动聚焦端侧智能体动手实操，现场展出了从入门级交互到面向特定垂直行业的全套成熟 Agent 方案。",
+        "英伟达在展区重点亮相了新发布的 RTX Spark 硬件设备及其配套落地解决方案。"
+      ],
+      "quote": {
+        "who": "NVIDIA AI",
+        "role": "",
+        "said": "Build-A-Claw 柏林站圆满收官！ 我们当然招待了 @lobsterlager。有一对父子档用 @openclaw 酿出了一款拉格啤酒。 感谢所有到场的朋友，期待在 @NVIDIAGTC 柏林站度过精彩的一周。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 6021 · 产品与生态] 英伟达彻底把Agent玩出花！父子档手搓啤酒，新硬件RTX Spark炸场柏林"
+    },
+    {
+      "title": "正面硬刚Fable 5.5！OpenAI曝极光三色检查点，GPT-6进入倒计时",
+      "summary": "OpenAI后台被监测到悄悄上线三款代号为Aurora的全新检查点，分别为aurora-blue-alpha、aurora-green-alpha与aurora-red-alpha。就在10月15日，私测模型gpt-6-astra-api-priv-ev3刚闪现并被火速下线，如今开发者调用新模型分别触发503容量不足与404无权限报错，显示已进入内部灰度。社区推测该批三色模型极…",
+      "reads": "1.0万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI后台被模型追踪器监测到上线三款代号为Aurora的新检查点：aurora-blue-alpha、aurora-green-alpha与auror…",
+        "前序动作频繁，10月15日私测模型gpt-6-astra-api-priv-ev3刚短暂现身API并被官方迅速撤下。",
+        "实测调用截图显示，新模型目前分别返回503（无容量）与404（无权限）错误，表明模型处于高度受限的内部灰度阶段。",
+        "开发者社区与业内推测，这组以红绿蓝三色命名的Alpha检查点极大概率对应OpenAI下一代旗舰GPT-6 Astra的新测试版本。"
+      ],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "🚨突发！OpenAI 悄悄上线 Aurora 三色检查点！疑似回应 Anthropic 即将杀到的 Fable 5.5！ 10月15日私测模型 gpt-6-astra-api-priv-ev3 刚闪现消失，今天 tracker 就刷出新东西： 🔹aurora-blue-alpha 🔹aurora-green-alpha 🔹aurora-red-alpha 这些极有可能是 GPT-6 Astra"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 1.0万 · 模型与能力] 正面硬刚Fable 5.5！OpenAI曝极光三色检查点，GPT-6进入倒计时"
     },
     {
       "title": "当年97％光纤闲置吃灰，今天世上没有暗GPU！a16z激辩新型云生死局",
       "summary": "AI 狂欢到底是不是 2000 年互联网泡沫重演？a16z 联合创始人 Ben Horowitz 搬出早年创办 LoudCloud 的惨痛教训，警告当下的新型云（neoclouds）极易沦为危险的借贷套利，稍有风吹草动就会陷入资不抵债。投资人 Gavin Baker 则甩出硬核对比：当年泡沫顶峰全美 97% 的光纤都在闲置吃灰，而今天全球根本不存在闲置的「暗 GPU」，物理算力…",
-      "reads": "8.6万",
-      "ago": "10 小时前",
+      "reads": "9.8万",
+      "ago": "15 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -204,208 +404,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 8.6万 · 资本与算力] 当年97％光纤闲置吃灰，今天世上没有暗GPU！a16z激辩新型云生死局"
-    },
-    {
-      "title": "RSI到底成没成？检验谷歌奇点的硬指标曝光：看Gemini 4.1连发到4.9有多快",
-      "summary": "围绕递归自我改进（RSI）与智能爆炸的时间线争论正在全网持续升温。业内观察人士指出，别看抽象的理论宣称，Google 到底有没有真正实现自我迭代进化，最硬核的检验标准全看后续 Gemini 4.1、4.2 直至 4.9 的迭代发布速度有多快。相关讨论同时透露，当前模型的实际运行效果「确实非常好」，工程飞轮的压缩节奏已成为外界判断奇点拐点的核心风向标。",
-      "reads": "8972",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "行业内围绕递归自我改进（RSI）与智能爆炸时间线的争论持续发酵，模型自进化能力成为各方博弈焦点。",
-        "有行业观察者给出最直接的检验指标：Google 究竟有没有拿下 RSI，全看其推出 Gemini 4.1、4.2、4.3……4.9 的速度有多快。",
-        "该观点将抽象复杂的递归自进化概念，直接锚定在模型版本迭代与工程落地的发布周期上。",
-        "业内普遍认为，若后续小版本迭代节奏出现反常级压缩，意味着模型自主参与研发与优化的飞轮已经实质性转动。"
-      ],
-      "quote": {
-        "who": "AshutoshShrivastava",
-        "role": "",
-        "said": "@arjundivecha 效果确实非常好.."
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 8972 · 模型与能力] RSI到底成没成？检验谷歌奇点的硬指标曝光：看Gemini 4.1连发到4.9有多快"
-    },
-    {
-      "title": "利息超10%！Anthropic被曝600亿巨资借贷买算力，博通黑石全卷进来了",
-      "summary": "为了抢夺前沿算力，AI超级独角兽已经开始把金融杠杆拉到极致。Anthropic正在推进一项高达600亿美元的芯片融资包，由半导体巨头博通（Broadcom）牵头安排。其中博通不仅力挺420亿美元的优先份额并同意直接放贷，Anthropic甚至向黑石（Blackstone）开出超过10%的高收益率来锚定90亿美元次级部分。如此沉重的资金成本，不仅暴露出大模型军备竞赛下的财务重压…",
-      "reads": "8772",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "600亿美元天价融资包：Anthropic正在敲定一项总规模高达600亿美元的芯片融资方案，全力解决前沿大模型算力供应链资金需求。",
-        "博通牵头兜底420亿：半导体巨头Broadcom负责安排整笔交易，不仅为其中420亿美元的优先部分（Senior Slice）提供支持，还同意直接向Anth…",
-        "黑石拿超10%高收益率：为了锁定方案中90亿美元的次级融资份额（Junior Piece），Anthropic不惜向Blackstone开出超过10%的超高…",
-        "算力基建深度金融化：通过复杂的优先/次级结构化分层设计，芯片巨头、华尔街私募与AI头部玩家完成深度信贷捆绑，将AI算力推向杠杆极限。"
-      ],
-      "quote": {
-        "who": "Hedgie",
-        "role": "",
-        "said": "@AxiomStrata 🦔 感谢你这么说，也感谢你一直以来的陪伴。最近看空情绪确实比较重，主要因为 AI 信贷相关的新闻偏多，但只要有成果出来，同样值得关注，我一定会跟进报道的。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 8772 · 资本与算力] 利息超10%！Anthropic被曝600亿巨资借贷买算力，博通黑石全卷进来了"
-    },
-    {
-      "title": "奇点已经来了？LeCun硬核泼冷水：别把指数曲线上每个点都当奇点",
-      "summary": "围绕物理递归自我改进与智能爆炸的时间线，AI 圈顶流学者与产业高管再次爆发正面交锋。针对 Anthropic 全球事务主管 Jack Clark 声称「奇点已至」的激进判断，图灵奖得主 Yann LeCun 公开发推泼冷水，直言所谓奇点根本没有到来，除非误把指数曲线上的每一个点都当成了奇点。与此同时，Jim Fan 等研究人员却狂欢称「每天都像过圣诞节」，产业界激进派与学界务实…",
-      "reads": "1.2万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 全球事务主管 Jack Clark 提出激进观点，认为 AI 系统的物理递归自我改进正在发生，技术奇点已经到来。",
-        "Meta 首席 AI 科学家、图灵奖得主 Yann LeCun 针锋相对公开泼冷水，断言所谓奇点根本没有降临。",
-        "LeCun 犀利点破激进论调的逻辑漏洞，直言对方是「误以为指数曲线上的每一个点都是奇点」，将平滑增长错当成了突变。",
-        "英伟达高级研究科学家 Jim Fan 则对近期的技术狂飙抱持极度乐观态度，公开发推感叹「从现在开始，每天都是圣诞节」。"
-      ],
-      "quote": {
-        "who": "Yann LeCun",
-        "role": "",
-        "said": "@felix_horvat @jackclarkSF 数学和编程是唯二可以自动验证正确性的领域，无需经过现实世界的实验或人工评估。 还有少数其他领域可以通过仿真来验证正确性（这也是最近一些系统用于"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 1.2万 · 模型与能力] 奇点已经来了？LeCun硬核泼冷水：别把指数曲线上每个点都当奇点"
-    },
-    {
-      "title": "「你先去遛狗吧」！随手提个编码问题，Grok反客为主直接操盘新业务",
-      "summary": "有开发者分享了与xAI旗下Grok Bot协同的惊人实测：他起初只是向Grok请教视音频编码的技术难题，不料Grok在多轮交流中主动展开头脑风暴，不仅自主推导并孵化出一项全新合资业务，甚至全权负责后续推进。更让人惊讶的是，Grok在后台自主处理复杂工作流时，还主动提醒人类「可以出门去遛狗了」。这标志着大模型正加速从被动响应的问答工具，蜕变为具备主动规划与自主执行能力的全流程业务…",
-      "reads": "7523",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "实测起点极低：开发者最初仅就AI视音频编码中遇到的技术痛点向Grok Bot发问。",
-        "被动问答变主动操盘：Grok并未止步于给出解答，而是在多轮头脑风暴中主动延展商业规划，最终直接孵化并掌舵推进了一项全新合资项目（venture）。",
-        "自主执行彻底脱困人类：在后台推进任务流程期间，Grok甚至主动让测试者离开电脑「出门去遛狗」，随后自主交付了完整的业务产出。",
-        "Agent形态关键跃迁：该案例印证了Grok正在跳出「提示词-补全」的传统交互框架，演进出具备主动感知、长程规划与后台静默执行能力的全自主Agent特性。"
-      ],
-      "quote": {
-        "who": "Brian Roemmele",
-        "role": "",
-        "said": "@misupoalsupo @grok @bot John，太棒了！有进展随时同步我！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 7523 · 产品与生态] 「你先去遛狗吧」！随手提个编码问题，Grok反客为主直接操盘新业务"
-    },
-    {
-      "title": "几天心血被一晚干碎！Claude Fable 5.5手搓纯SVG逼真手柄，直接超越Gemini",
-      "summary": "有开发者曾耗时数天用Gemini 3.0 Pro打磨Xbox手柄的SVG代码，一度断言没有任何模型能超越这套效果。结果换用Claude Fable 5.5后，AI仅用一个晚上便输出了细节和质感全面反超的纯SVG矢量图。令人惊叹的是，这些达到照片级渲染效果的光影和材质完全由底层代码手搓而成，甚至精准复刻了微软官方的三款经典配色。",
-      "reads": "1.3万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "实测反转：此前开发者耗费数天精细调教Gemini 3.0 Pro制作Xbox手柄SVG，原本认定其表现已是AI极限，如今被新模型全面超越。",
-        "单夜交付：换用Claude Fable 5.5后，AI仅用一个晚上就重构出质感更佳、细节更丰富的超逼真手柄。",
-        "纯代码绘制：展示效果并非渲染位图，而是完全由底层纯SVG矢量代码实时绘制，却达到了逼真的光影反光与按键细节。",
-        "多配色复刻：该手柄代码不仅还原了按键与摇杆结构，还精准对齐了微软官方的碳黑、震撼蓝与冰雪白三种经典涂装。"
-      ],
-      "quote": {
-        "who": "can",
-        "role": "",
-        "said": ""
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 1.3万 · 模型与能力] 几天心血被一晚干碎！Claude Fable 5.5手搓纯SVG逼真手柄，直接超越Gemini"
-    },
-    {
-      "title": "单月自曝第40个！OpenAI全新极光模型走漏：红蓝绿三档杀疯了",
-      "summary": "OpenAI自己又漏底了。最新流出的代号显示，aurora-blue、aurora-red和aurora-green-alpha三款全新内部模型遭到曝光。这也是OpenAI官方渠道本月无意中泄露的第40个内部模型，密集的测试代号直指下一代未公开模型矩阵。",
-      "reads": "5806",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "本次曝光的三款内部新模型代号分别为aurora-blue、aurora-red和aurora-green-alpha。",
-        "据爆料者统计，这已经是本月内OpenAI官方渠道泄露的第40个内部模型代号。",
-        "业内推测，不同颜色后缀的aurora可能对应着不同的性能梯级或特定垂直任务场景。",
-        "如此高频的代号曝光，凸显了OpenAI内部当前极其密集且频繁的模型并行测试与评估节奏。"
-      ],
-      "quote": {
-        "who": "Lentils",
-        "role": "",
-        "said": "这个月第40个来自OpenAI官方自己泄露的内部模型。佩服。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 5806 · 模型与能力] 单月自曝第40个！OpenAI全新极光模型走漏：红蓝绿三档杀疯了"
-    },
-    {
-      "title": "狂聊100条不中断！Grok与Dots打造无限线程，告别ChatGPT从零重开",
-      "summary": "日常用ChatGPT最让人崩溃的，莫过于聊着聊着突然触碰上下文上限，只能硬着头皮另开新窗口从零交代背景。有开发者实测发现，Grok Bot与Dots推出的全新无感衔接机制打破了这一僵局，基本实现了「无限线程」级别的连续交互。在分别连续发送超过100条消息后，整个对话的上下文依然保持完整且未见中断，让不需要碰复杂生产力工具的普通用户彻底告别了记忆丢失的烦恼。",
-      "reads": "1.2万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "痛点直击：传统ChatGPT在长对话中极易撞上下文长度天花板，迫使用户频繁另起炉灶重新交代所有前置背景。",
-        "体验突破：Grok Bot与Dots推出了全新的上下文无感衔接机制，基本为普通对话实现了类似「无限线程」的连续体验。",
-        "实测数据：测试者分别向Grok Bot和Dots连续发送超过100条消息，整体对话链路与背景记忆依然保持连续、未发生中断。",
-        "用户画像差异：类似Work或Codex等工具虽能较好处理长任务，但绝大多数普通Chat用户平时根本不会接触这类高门槛功能。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "@pvncher 确实，Work 处理得挺好。不过我更多是在想普通 Chat 用户的体验。大多数人根本不碰 Work 或 Codex。他们就是用超了额度，新开一个对话，然后上下文全丢了。 既然 Chat、Work/Codex 和 Dots 并存，对普通用户来说最简单的收益就是"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 1.2万 · 产品与生态] 狂聊100条不中断！Grok与Dots打造无限线程，告别ChatGPT从零重开"
-    },
-    {
-      "title": "连谷歌自己都补贴不起！Gemini 4 Argon配额暴跌，Ultra会员两天见底",
-      "summary": "氪金买了顶配会员，却连两天都撑不过去。近日有学者反馈，自己在 Google 的 Antigravity 平台使用 Gemini 4 Argon 模型，调用频次不到 GPT-6.1 Sol 的十分之一，整周配额不到两天便彻底见底。业内分析直言，Gemini 4 Argon 在底层架构上的推理成本极其高昂，连财大气粗的 Google 自身都已难以承受长期的亏本补贴。",
-      "reads": "3.6万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "学者兼 Ultra 会员用户反映，在 Antigravity 平台上使用 Gemini 4 Argon 不到两天就耗尽了整周全部配额",
-        "用户在实际使用中主要开启 extra high 到 max（极高至满血）档位，调用频次甚至不及 GPT-6.1 Sol 的十分之一",
-        "业内观察人士指出，Gemini 4 Argon 从架构设计上看推理成本极其昂贵，甚至连 Google 自身都无法持续提供补贴",
-        "过紧的每周配额与高企的推理开销，正直接成为限制开发者实际部署和调用该模型的最大瓶颈"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "Gemini 4 Argon 从结构上来说推理成本实在太高了，连 Google 自己都补贴不起。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 3.6万 · 产品与生态] 连谷歌自己都补贴不起！Gemini 4 Argon配额暴跌，Ultra会员两天见底"
+      "line": "[榜第16位 · 9.8万 · 资本与算力] 当年97％光纤闲置吃灰，今天世上没有暗GPU！a16z激辩新型云生死局"
     }
   ],
   "board_count": 16,
