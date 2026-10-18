@@ -3,15 +3,115 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-18 22:30:49 +0800",
-  "today": "10/18",
+  "fetched_at": "2026-10-19 02:02:08 +0800",
+  "today": "10/19",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "欧洲用不了？官方紧急回应：别慌，异地建的Dots带过去照样能跑",
+      "summary": "欧洲用户想用上最新的Dots助手，还得再等等。针对欧盟地区暂未直接开放的问题，开发团队成员公开致歉并给出解决方案，透露团队正加紧做两项体验调整：承诺Dots未来一定会正式进入欧盟市场，同时紧急优化跨国使用逻辑——只要在其他地区提前建好dot，哪怕人肉身到了欧盟境内也能继续运行。面对官方表态，社区用户直接反向喊话：多等可以，但接下来的Day 28必须亮出更强模型和更高额度来换。",
+      "reads": "10万",
+      "ago": "50 分钟前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "欧盟直接访问受限：Dots助手目前暂未直接面向欧盟地区上线，引发海外开发者与用户高度关注。",
+        "官方团队公开致歉回应：开发团队成员正面回应欧盟用户的疑问，确认正推进两项针对性改动。",
+        "跨国体验保障：系统正在做机制调整，只要用户在其他地区创建好dot，进入欧盟境内后依然可以保持正常使用不中断。",
+        "确定未来登陆欧洲：团队明确表态Dots未来一定会正式进入欧盟市场，目前正在为合规落地铺路。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@thsottiaux @argofowl 欧洲这边大概什么时候能用上？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 10万 · 产品与生态] 欧洲用不了？官方紧急回应：别慌，异地建的Dots带过去照样能跑"
+    },
+    {
+      "title": "马斯克被物理学打假！杨立昆怒喷Roadster飞天是骗术，老马回怼：朝你放了个屁",
+      "summary": "特斯拉全新Roadster的飞行演示引爆物理学界怒火。图灵奖得主杨立昆亲自下场算账，指出压缩空气比冲不到50秒且推力呈指数级衰减，车重一半全塞储气罐也撑不过5到10秒，直斥所谓飞天纯属公关噱头和江湖骗术。面对严肃的硬核力学拆解，马斯克直接祭出无厘头玩梗，公开嘲讽「朝你的方向放了个屁」。",
+      "reads": "24万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "杨立昆公开拆解特斯拉Roadster的推进系统，指出压缩空气或氮气的比冲不到50秒，性能惨不忍睹。",
+        "即便整车重量的50%全部用来装载高压储气罐，在推重比大于1.0的情况下，有效推力也撑不过5到10秒。",
+        "杨立昆对比表示，20世纪70年代单人喷气背包使用的过氧化氢火箭比冲约为150秒，但续航同样不足60秒，始终无法投入实用。",
+        "若换用高性能火箭发动机，排气的高温会直接融化路面、灼伤行人，且一旦发生车祸极易爆炸，在工程和法规上完全行不通。"
+      ],
+      "quote": {
+        "who": "Elon Musk",
+        "role": "",
+        "said": "@ylecun 我朝你的大体方向放了个屁 💨"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 24万 · 产品与生态] 马斯克被物理学打假！杨立昆怒喷Roadster飞天是骗术，老马回怼：朝你放了个屁"
+    },
+    {
+      "title": "黑客还没打退，防御AI先罢工了！OpenCode遭持续攻击，分析入侵竟触发护栏",
+      "summary": "OpenCode近日突遭持续网络攻击，防守团队在调用前沿AI模型分析黑客行为时，大模型却因触发内置安全护栏而拒绝协助，重蹈了此前Hugging Face的防御覆辙。事件引发业内对紧急情况下申请Daybreak、Glasswing特批快速通道的热议，不过OpenCode负责人随后澄清，其Daybreak权限已在事发前获批，厂商并未拒绝协助。这场险情再次暴露出当下AI反网络攻击时…",
+      "reads": "6.5万",
+      "ago": "50 分钟前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "OpenCode遭遇持续网络攻击，防守方在利用前沿模型对抗攻击智能体时，模型因解析攻击行为触发安全护栏而拒绝协作。",
+        "该困境重现了此前开源平台Hugging Face遭遇的防御死结，大模型安全对齐机制极易在实战中将防御分析误判为恶意利用。",
+        "业内探讨指出，应对突发网攻或需依赖Daybreak、Glasswing等紧急放宽权限的快速通道，同时担忧新一代开源模型会加剧攻防失衡。",
+        "针对外界关于大模型厂商拒绝协助的揣测，OpenCode负责人Dax发文澄清，称几天前申请的Daybreak权限次日已批复，厂商并未见死不救。"
+      ],
+      "quote": {
+        "who": "Andrew Curran",
+        "role": "",
+        "said": "@lorepunk @deanwball Astra 手机！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 6.5万 · 政策与安全] 黑客还没打退，防御AI先罢工了！OpenCode遭持续攻击，分析入侵竟触发护栏"
+    },
+    {
+      "title": "全网以为是狙击Claude的Astra！OpenAI三个神秘模型反转：竟是图像全家桶",
+      "summary": "OpenAI被曝悄悄上线了三款神秘代号模型「Aurora red」、「Aurora green」和「Aurora alpha」。起初圈内普遍推测这是OpenAI用来狙击Anthropic旗下Claude的新一代Astra旗舰，意图反制Fable 5.5与Opus 5.5；然而仅数小时后最新定性就迎来大反转，证实这组代号其实是图像模型，意味着全新的GPT图像生成或多模态能力即将迎…",
+      "reads": "4.5万",
+      "ago": "49 分钟前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI被发现悄然上线了3个内部代号模型，名称分别为「Aurora red」、「Aurora green」以及「Aurora alpha」。",
+        "爆料初期外界一度猜测这组模型是OpenAI的新一代旗舰「Astra」，意在正面迎战Anthropic家的Fable 5.5与Opus 5.5。",
+        "有技术追踪者提出疑问，猜测这些代号是否为此前内部项目「daybreak」的新命名。",
+        "数小时后追踪者更新定性，确认这组Aurora代号实际上属于图像模型，彻底推翻了此前的文本旗舰对抗猜测。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "看起来这些是图像模型。所以我们很可能马上就会（再次）看到更新版的 GPT 图像模型了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 4.5万 · 模型与能力] 全网以为是狙击Claude的Astra！OpenAI三个神秘模型反转：竟是图像全家桶"
+    },
+    {
       "title": "一口气狂扫40万美元！苹果折叠屏遭黄牛爆炒，库克接班人被当面质问",
       "summary": "苹果首款折叠屏 iPhone Duo 刚开启预售就引爆抢购潮，即便定价高达 2000 美元仍挡不住投机客疯狂扫货。有黄牛公开炫耀自己砸下 40 万美元大举囤货，声称每台转手就能净赚数百美元暴利。知名科技记者 Mark Gurman 随后公开质询，并直接艾特苹果 CEO John Ternus 追问官方为何放任倒卖，涉事黄牛账号目前已火速转为私密。",
-      "reads": "44万",
-      "ago": "4 小时前",
+      "reads": "61万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -29,39 +129,139 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 44万 · 产品与生态] 一口气狂扫40万美元！苹果折叠屏遭黄牛爆炒，库克接班人被当面质问"
+      "rank": 5,
+      "line": "[榜第5位 · 61万 · 产品与生态] 一口气狂扫40万美元！苹果折叠屏遭黄牛爆炒，库克接班人被当面质问"
     },
     {
-      "title": "登顶全网第一，干掉马斯克！OpenAI「额度义父」流量封顶，全网开发者盯疯了",
-      "summary": "算力饥荒把打工人逼成了全网顶流。流量监测数据显示，OpenAI 负责额度重置沟通的员工 @thsottiaux 在 2026 年 9 月直接超越马斯克和转会名记罗马诺，拿下 X 平台全网流量第一。全球开发者为了盯紧累积重置（banked resets）规则和即将到来的 DevDay 宣发，把这位「额度义父」的主页刷成了赛博香火最旺的圣地。",
-      "reads": "1.7万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
+      "title": "马斯克自家主场被超了！OpenAI员工凭「额度重置」拿下X流量第一",
+      "summary": "Similarweb最新公布的2026年9月流量份额榜单显示，OpenAI团队成员@thsottiaux超越马斯克，跃居X平台最热门账号第一名。在全球开发者因算力吃紧而焦虑蹲守的背景下，这位负责额度重置（resets）与累积重置（banked resets）动态同步的员工，直接成了全网焦点，流量甚至盖过了坐拥主场的马斯克。",
+      "reads": "10万",
+      "ago": "4 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Similarweb 发布的 2026 年 9 月 X 平台流量份额榜显示，OpenAI 员工 @thsottiaux 超越马斯克，登顶全平台最热门账号第一",
-        "该账号在 8 月榜单中就已高居全网第二位，仅次于知名足球记者 Fabrizio Romano，9 月正式完成反超",
-        "9 月榜单前五名分别为 @thsottiaux、Fabrizio Romano、马斯克（Elon Musk）、历史博主 @25YearsAgoLive 以及…",
-        "核心流量来源是开发者对 OpenAI 额度重置机制的极度焦虑，尤其是针对累积重置（banked resets）的规则变化与讨论"
+        "Similarweb发布2026年9月X平台主页流量份额榜单，OpenAI团队成员@thsottiaux登顶第一名",
+        "马斯克在自家平台退居第三，著名足球转会记者Fabrizio Romano位列第二",
+        "8月份榜单中，该OpenAI员工账号曾位列第二，仅次于Fabrizio Romano，本月完成反超",
+        "账号流量登顶的核心推手是全网围观的额度重置（resets）与累积重置（banked resets）机制"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "Peter Gostev",
         "role": "",
-        "said": "Similarweb 数据显示，OpenAI 的 @thsottiaux 成了 9 月份 X 上最火的账号，排位超过了 Elon Musk 等人。 重置，尤其是累积重置，加上 OpenAI DevDay 的宣发，吸引了极大的关注。 AI 正在慢慢变成一个"
+        "said": "计划是什么？多重置几次，成为 X 上最火的账号，赚够 elonbucks 发家致富"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 1.7万 · 产品与生态] 登顶全网第一，干掉马斯克！OpenAI「额度义父」流量封顶，全网开发者盯疯了"
+      "rank": 6,
+      "line": "[榜第6位 · 10万 · 资本与算力] 马斯克自家主场被超了！OpenAI员工凭「额度重置」拿下X流量第一"
+    },
+    {
+      "title": "10亿美元算力全免费！Hugging Face曝开源底牌，两年暴涨超20倍",
+      "summary": "Hugging Face 联合创始人 Thom Wolf 披露了一笔惊人的账目：Meta、阿里、DeepSeek、NVIDIA、Moonshot 等约 30 家机构，已在 Hub 上免费共享了价值近 10 亿美元的训练算力，相比 2023 年底的不到 4000 万美元暴增逾 20 倍。然而这只是「绝对下限」，若算上前期的消融实验与试错，实际开发算力往往是最终训练的 3 到 10…",
+      "reads": "1.5万",
+      "ago": "1 小时前",
+      "category": "中国与开源",
+      "source": "新智元",
+      "bullets": [
+        "近 10 亿美元算力免费开放：Hugging Face Hub 上共享的开源大模型累计训练算力已飙升至 9.5 亿美元，由 Meta、NVIDIA、阿里巴巴…",
+        "两年爆发式狂飙超 20 倍：该统计在 2023 年底时还不足 4000 万美元，如今已呈指数级增长，被 Wolf 誉为 AI 时代由各家机构算力构筑的「维基…",
+        "10 亿美元只是绝对下限：DeepSeek 披露的 560 万美元和 Meta 的 Llama 技术报告均只计入了最终训练运行的 GPU-hours，未包含…",
+        "开源算力投入呈现中美两强格局：按国家分布梳理算力投入，开源 AI 社区的顶尖力量已基本形成中美双雄竞逐的大盘。"
+      ],
+      "quote": {
+        "who": "Thomas Wolf",
+        "role": "",
+        "said": "@foundrcode 好主意，搞定了：现在的曲线拆分成了“报告的 GPU-hours / 参数量 × Token / 部分推测”。2026 年新增的里面约 80% 属于部分推测，而在 2024 年这一比例大概是 25%。最近各家实验室公开的数据越来越少了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 1.5万 · 中国与开源] 10亿美元算力全免费！Hugging Face曝开源底牌，两年暴涨超20倍"
+    },
+    {
+      "title": "白高兴一场！OpenAI下一代Astra先别等了：疯传的RGB竟是图像模型",
+      "summary": "全网白高兴一场！近日社区疯狂炒作 OpenAI 即将推出下一代 Astra、Sol 和 Luna 等重磅语言模型，但最新爆料直接泼了一盆冷水：被热议的神秘「RGB」系列模型根本不是核心 LLM，而是纯粹的图像模型。不少熬夜蹲守新旗舰的开发者直呼失望，原来「RGB」这个代号早已明示了其图像属性，OpenAI 核心基座大模型的迭代节奏仍需继续等待。",
+      "reads": "1.6万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "社区期待落空：此前开发者社区高度热炒 OpenAI 即将空降下一代 Astra、Sol 以及 Luna 等语言模型，引发广泛关注",
+        "RGB真实身份曝光：最新爆料明确指出，此前被传得沸沸扬扬的「RGB」系列模型实际上是图像模型（image models），并非大语言模型",
+        "代号早已暗示属性：爆料者直言「RGB」（红绿蓝三原色）本身就是图像领域的直白代号，外界将其解读为下一代通用基座纯属过度脑补",
+        "核心LLM更新仍需等待：RGB 模型的辟谣打破了外界对 OpenAI 核心大语言模型短期内快速换代的预期，新旗舰推出节点仍未明确"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "朋友们早上好。有个让很多人稍微有点失望的 OpenAI 消息。 昨天大家都在疯传下一代 Astra、Sol 和 Luna 模型要来了，但其实 RGB 模型是图像模型。我的意思是，这显然是啊！！！！！ （难道只有我"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 1.6万 · 模型与能力] 白高兴一场！OpenAI下一代Astra先别等了：疯传的RGB竟是图像模型"
+    },
+    {
+      "title": "每月干烧800万美元！连续18个月赌一颗废芯，AI芯片独角兽自曝生死局",
+      "summary": "AI浪潮底层正掀起残酷的生存考验。Cerebras创始人Andrew Feldman透露，团队曾连续18个月每月烧掉约800万美元，全力押注在一颗当时根本无法正常运行的芯片上。与此同时，重度举债购买算力的新云厂商CoreWeave因固定价格售卖遭遇加息冲击，信用违约互换（CDS）利差暴涨；而在科研端，OpenAI甩出370个数学证明后，连顶尖高校的博士生们也开始对未来的学术生涯…",
+      "reads": "2.0万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Cerebras创始人兼CEO Andrew Feldman回顾创业历程，透露公司曾连续18个月每月烧掉约800万美元，押注在一颗当时根本无法跑通的芯片上。",
+        "硬科技芯片研发历经层层死局：从最初的技术上不可能、制造不出来，到没有客户、缺乏前沿实验室支持，再到没有超大规模数据中心采购。",
+        "投资人Chamath在播客中指出，CoreWeave等新型云厂商的信用违约互换（CDS）利差出现暴涨。",
+        "新云厂商风险激增的核心在于：它们高度依赖巨额负债购买硬件，但对外售卖算力时却签署了固定价格合同，遭遇美联储利率上调时抗风险能力骤降。"
+      ],
+      "quote": {
+        "who": "Rohan Paul",
+        "role": "",
+        "said": "完整视频在「All-In Podcast」YouTube 频道"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 2.0万 · 资本与算力] 每月干烧800万美元！连续18个月赌一颗废芯，AI芯片独角兽自曝生死局"
+    },
+    {
+      "title": "OpenAI神秘代号Aurora上线盲测！三款图像模型首秀翻车，被喷「技术大倒退」",
+      "summary": "此前在 API 端点短暂现身的 OpenAI 内部代号 Aurora 终于揭开面纱。这批一口气上线的 3 款新模型被证实全系图像生成模型，目前已在 Arena 竞技场开启盲测。然而首批实测口碑却惨遭滑铁卢，测试者直斥生成质量极差，社区更尖锐质疑 OpenAI 在搞砸 6 Sol 发布后技术节奏大乱，图像生成能力甚至不如老版本。",
+      "reads": "1.6万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "此前在 API 端点短暂现身的 OpenAI 神秘代号 Aurora 迎来新进展，已被证实为 3 款全新图像生成模型。",
+        "这 3 款 Aurora 图像模型已低调上线 Arena 盲测竞技场，供社区进行匿名生成效果评测。",
+        "首批体验反馈翻车，测试者直接打出「很烂的图像模型」的负面差评，称其出图效果远不及预期。",
+        "社区对 OpenAI 的整体研发节奏提出尖锐批评，认为其在 DevDay 以及 Anthropic 发布 Opus 5.5 后陷入被动，搞砸了 6 Sol…"
+      ],
+      "quote": {
+        "who": "Just a dragon",
+        "role": "",
+        "said": "@chetaslua @OpenAI @chetaslua 你认同相比 GPT Image 2，GPT Image 2.5 以及后来的那些模型是一次重大倒退吗？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 1.6万 · 模型与能力] OpenAI神秘代号Aurora上线盲测！三款图像模型首秀翻车，被喷「技术大倒退」"
     },
     {
       "title": "竞技场盲测破案！OpenAI三款aurora模型曝光，实测竟是全新图像杀器",
       "summary": "OpenAI在官方API端点中短暂现身了三款神秘新模型代号：aurora-red-alpha、aurora-green-alpha与aurora-blue-alpha，随后被光速撤下。原本外界以为是常规代码或文本迭代，但有测试者在竞技场（arena）中盲测刷到了aurora-red-alpha，实测证实这极大概率是OpenAI正在密集研发的新一代图像多模态模型。以RGB红绿蓝三…",
-      "reads": "3.2万",
-      "ago": "3 小时前",
+      "reads": "4.2万",
+      "ago": "7 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -79,39 +279,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 3.2万 · 模型与能力] 竞技场盲测破案！OpenAI三款aurora模型曝光，实测竟是全新图像杀器"
+      "rank": 11,
+      "line": "[榜第11位 · 4.2万 · 模型与能力] 竞技场盲测破案！OpenAI三款aurora模型曝光，实测竟是全新图像杀器"
     },
     {
-      "title": "上架又秒删！OpenAI官方API闪现红蓝绿三款新模型，代码杀手要来？",
-      "summary": "OpenAI官方API端点中短暂现身三个未公开代号的全新模型，分别为aurora-blue-alpha、aurora-green-alpha和aurora-red-alpha，随后被官方火速撤下。开发者梳理发现，此前在OpenRouter上出现的aurora-alpha大概率对应着GPT-5.3-Codex-Spark，推测这次红蓝绿三款模型可能是专门针对编程优化的新一代Cod…",
-      "reads": "3.8万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
+      "title": "把Codex和Claude Code串起来！连跑数天不宕机，超长编程任务有解了",
+      "summary": "单一AI编程助手应付几分钟、几小时的任务还行，一旦遇到长达数天的大工程，往往因为持久力不足而掉线。有开发者探索出一套跨厂商协同方案：直接用OpenAI的Codex作为驱动底座，调度Anthropic的Claude Code干活。一个负责超长任务的持久执行，一个负责硬核代码推理，成功攻克了超长周期的复杂开发项目。",
+      "reads": "1.2万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI官方API端点被开发者抓包，短暂上线了三个未公开的全新模型，代号分别为aurora-blue-alpha、aurora-green-alpha以…",
-        "三款极光代号模型在API中停留不久后，已被官方迅速下线，目前无法继续调用。",
-        "开发者顺藤摸瓜指出，今年早些时候OpenRouter上曾出现过一个名为aurora-alpha的模型，后来被普遍证实大概率就是GPT-5.3-Codex-S…",
-        "业内据此推测，本次出现的红蓝绿三色版本很可能是新一代Codex专业编程模型，或者主打高吞吐、超低延迟的高速推理模型。"
+        "痛点瓶颈：单一代码智能体在处理大型项目时极易中断，执行窗口普遍受限于数分钟至数小时。",
+        "跨厂商协同：开发者社区探索出「OpenAI Codex + Anthropic Claude Code」的双Agent新型工作流。",
+        "精准互补：该架构深度融合了Claude的代码推理与架构能力，以及Codex在长程任务中的持久执行力。",
+        "驱动机制：由具备持久运行属性的Codex充当主驱动，持续挂机调度Claude Code攻克具体模块。"
       ],
       "quote": {
-        "who": "Lisan al Gaib",
+        "who": "Dan McAteer",
         "role": "",
-        "said": "然后他们又没了"
+        "said": "@ageshah @curiouswavefn 我相信那样效果肯定也不错"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 3.8万 · 模型与能力] 上架又秒删！OpenAI官方API闪现红蓝绿三款新模型，代码杀手要来？"
+      "rank": 12,
+      "line": "[榜第12位 · 1.2万 · 产品与生态] 把Codex和Claude Code串起来！连跑数天不宕机，超长编程任务有解了"
     },
     {
       "title": "智能体工时达到人类6倍！Anthropic自曝：初级技术岗正被批量淘汰",
       "summary": "Anthropic最新内部报告揭开了一个残酷现实：AI对研发岗位的替代已经在顶级大模型实验室内部率先兑现。在公司整体规模翻了三倍的同时，其初级技术人员占比却从21%跌到了14%，三分之一的机器学习主管和五分之一的软件工程主管因AI削减了初级岗位招聘。眼下，Anthropic智能体的工作时长已达到人类员工的6倍，超九成员工坚信AI将在2030年前斩获诺贝尔奖级别的科学发现。",
-      "reads": "2.2万",
-      "ago": "3 小时前",
+      "reads": "3.0万",
+      "ago": "7 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -129,283 +329,83 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 2.2万 · 组织与人事] 智能体工时达到人类6倍！Anthropic自曝：初级技术岗正被批量淘汰"
-    },
-    {
-      "title": "代号极光！OpenAI三款新模型集体现身，正面拦截Fable 5.5",
-      "summary": "OpenAI被曝出正在秘密测试3个全新内部模型，代号分别为Aurora red、green与alpha。社区追踪者分析，该系列极可能是OpenAI新一代Astra模型，专门用来正面反制Anthropic旗下的Fable 5.5与Opus 5.5。此外，这批代号还被猜测是否对应此前流出的daybreak项目，两强对决再度升级。",
-      "reads": "2.9万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "社区开发者曝光OpenAI正在测试3个全新内部模型，代号分别为Aurora red、green与alpha。",
-        "追踪者分析指出，该系列很可能是OpenAI下一代「Astra」模型，专门用来应对激烈的旗舰竞争。",
-        "这批新模型的测试动作被视作直接反制Anthropic，正面迎战其Fable 5.5与Opus 5.5。",
-        "有爆料者提出讨论，质疑这批极光代号是否正是此前社区流出的daybreak项目新命名。"
-      ],
-      "quote": {
-        "who": "J A Z I I",
-        "role": "",
-        "said": "@kimmonismus 这些会不会是 daybreak 的新名字？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 2.9万 · 模型与能力] 代号极光！OpenAI三款新模型集体现身，正面拦截Fable 5.5"
-    },
-    {
-      "title": "ChatGPT推理、Claude写代码！Grok Bot跻身第三个必买AI订阅",
-      "summary": "面对多模型并存的新格局，一线开发者已经不再纠结单选，而是直接组建「AI铁三角」。随着Grok Bot能力大幅提升，资深从业者将其正式列为第三个必买常驻工具，与ChatGPT和Claude形成清晰的生产力分工。面对因评价转变带来的争议，业内直言随着新证据出现及时调整工具偏好才是理智之选。",
-      "reads": "2.9万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "一线开发者公开主力AI组合：将Grok Bot列为除ChatGPT与Claude之外的第三个必买常驻订阅",
-        "ChatGPT在当前工作流中专注长板，主要负责深度研究、逻辑分析、推理、复杂数学项目以及日常个人助理",
-        "Claude继续被确立为主力开发神器，全面覆盖软件编程、架构构建与日常代码审查任务",
-        "Grok Bot凭借近期的性能升级成功杀入工作流，被同行盛赞与前两者构成了「绝配三人组」"
-      ],
-      "quote": {
-        "who": "Alex Prompter",
-        "role": "",
-        "said": "@TokenGremlin 真是绝配三人组"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 2.9万 · 产品与生态] ChatGPT推理、Claude写代码！Grok Bot跻身第三个必买AI订阅"
-    },
-    {
-      "title": "周五见真章！Anthropic底牌被掀：不卷底模了，Mythos 5杀入生物医疗",
-      "summary": "别眼巴巴等基础模型了，Anthropic 这周五要干票大的。最新爆料显示，Anthropic 即将公布的全新动向并非此前传闻的 Fable 5.5，而是围绕 Mythos 5 展开的「三部曲」发布之一。这次官方不再卷单纯的底模跑分，而是把顶级算力直接砸向生物与医疗健康垂直赛道。",
-      "reads": "8115",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "发布时间定档周五：爆料称 Anthropic 将在本周五揭晓全新重磅动向。",
-        "明确排除 Fable 5.5：该消息直接澄清外界传闻，本次发布并非基础大模型迭代，不会带来 Fable 5.5。",
-        "Mythos 5「三部曲」之一：此次动向是围绕现役顶级底模 Mythos 5 规划的三阶段发布动作之一。",
-        "垂直瞄准生物与医疗健康：预计公布的产品或合作将深度扎根于生物学与医疗（biological/healthcare）等高门槛专业领域。"
-      ],
-      "quote": {
-        "who": "Chris",
-        "role": "",
-        "said": ""
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 8115 · 产品与生态] 周五见真章！Anthropic底牌被掀：不卷底模了，Mythos 5杀入生物医疗"
-    },
-    {
-      "title": "月烧800万美元连砸18个月！Cerebras自曝造芯血泪：当时芯片根本跑不通",
-      "summary": "AI芯片创业的试错成本到底有多绝望？Cerebras创始人兼CEO Andrew Feldman最近自曝至暗时刻：团队曾连续18个月、每个月硬烧约800万美元，全砸在一颗当时压根还跑不通的芯片上。一路熬过做不出、造不出来、没客户、拿不到超大规模算力订单的死循环，才算在英伟达的夹缝中活下来。与此同时，知名计算机学者Scott Aaronson也直言，OpenAI搞定370个数学证…",
-      "reads": "1.4万",
-      "ago": "5 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "Cerebras创始人兼CEO Andrew Feldman披露硬科技芯片研发早期的极端凶险历程。",
-        "Feldman透露，Cerebras曾连续18个月、每个月烧掉约800万美元，累计耗费近1.44亿美元在一颗根本还没跑通的芯片上。",
-        "他将芯片初创面临的残酷现实总结为五重死循环：从技术上不可能实现、到工艺上造不出来、再到没有客户、没有前沿实验室采用、没有超大规模数据中心买单。",
-        "这一爆料折射出AI加速芯片极高的流片与研发门槛，硬件竞赛早已变成吞噬天量资本的供应链生存战。"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": "完整视频在「MTS」YouTube 频道"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 1.4万 · 资本与算力] 月烧800万美元连砸18个月！Cerebras自曝造芯血泪：当时芯片根本跑不通"
-    },
-    {
-      "title": "LeCun手撕马斯克飞天跑车！列公式硬核打假：有效推力撑不过10秒",
-      "summary": "马斯克宣称的特斯拉Roadster飞行展示刚引发全网狂欢，图灵奖得主Yann LeCun就直接甩出硬核物理测算泼冷水。LeCun指出压缩空气比冲不足50秒且推力呈指数衰减，即便半车全塞满储气罐，推重比大于1的有效推力也撑不过10秒；若真换火箭发动机排气更会融化路面、撞车即爆炸。尽管自己平时也开Model S Plaid和保时捷911 GT3，LeCun依然毫不留情痛批这纯属公关…",
-      "reads": "7.8万",
-      "ago": "12 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "压缩空气推力断崖下跌：LeCun测算指出压缩空气（或氮气）比冲不足50秒，性能惨不忍睹，且最大推力还会随气压释放呈指数级衰减。",
-        "极限工况撑不过10秒：就算将整车重量的50%全塞满高压储气罐，在推重比大于1.0的情况下，能获得的有效推力也顶多维持5到10秒。",
-        "火箭方案安全隐患致命：若换用比冲约150秒的过氧化氢或精细可控火箭发动机，高温排气会融化公路路面并灼伤周围行人，一旦发生车祸极易当场爆炸。",
-        "定性为公关炒作与骗术：LeCun直言自己的「扯淡探测器」被彻底触发，批评该展示根本不是什么飞行汽车预告，只是障眼法和被包装成技术创新的「江湖骗术」。"
-      ],
-      "quote": {
-        "who": "Yann LeCun",
-        "role": "",
-        "said": "@KolinKoehl @elonmusk 你都想不到有多少人想跟我聊聊。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 7.8万 · 产品与生态] LeCun手撕马斯克飞天跑车！列公式硬核打假：有效推力撑不过10秒"
-    },
-    {
-      "title": "能自主玩特技、赛道比风火轮还疯！马斯克回应飞行跑车：太空可没路",
-      "summary": "马斯克针对全新特斯拉Roadster的飞行演示视频作出耐人寻味的回应，直接甩出一句「太空里可没有路」。据交流透露，新款Roadster将具备感知能力，甚至能全凭自身系统自主完成特技动作。特斯拉在得克萨斯州为其打造的测试赛道更被形容为比经典的「风火轮」轨道还要疯狂，瞬间引爆全网对这台跨界跑车的期待。",
-      "reads": "20万",
-      "ago": "17 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "回应飞行演示视频：针对社交平台上流传的全新Roadster飞行视频，马斯克直接用一句「太空里可没有路」意味深长地作出表态。",
-        "搭载自主感知能力：马斯克透露新款Roadster将具备「感知能力」（sentient），使其不仅是一台性能跑车，更像具备环境认知的智能载具。",
-        "能自己完成特技：据爆料，新款Roadster将能够自主执行各种高难度特技动作（do its tricks on its own），无需驾驶员进行复杂操控。",
-        "得州测试赛道超疯狂：特斯拉正在得克萨斯州为Roadster打造专属测试赛道，被马斯克形容为比经典玩具「风火轮」（Hot Wheels）的立体轨道还要夸张。"
-      ],
-      "quote": {
-        "who": "Brian Roemmele",
-        "role": "",
-        "said": "🚗💨 太空没有路：Elon 专场，今晚就在 Elon 表示新款 Roadster 将具备“感知能力”，能自己完成特技动作，而且它在德州的测试赛道将“比风火轮还要疯狂”。随后他用“太空没有路”回应了飞行版 Roadster 的视频"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 20万 · 产品与生态] 能自主玩特技、赛道比风火轮还疯！马斯克回应飞行跑车：太空可没路"
-    },
-    {
-      "title": "AI连自己的测试框架都能改了！谷歌开源Harness²，智能体开启套娃式进化",
-      "summary": "Google Research 正式开源智能体框架 Harness²，通过双层递归架构让 AI 智能体针对每项具体任务自主优化自身的测试夹具（Harness）与运行环境。该框架在 JobBench 等基准测试中展现出显著提分，为智能体闭环自我进化提供了具体实现路径。作者同时澄清，这是一个实验性研究框架，并非一次安装即可通用的日常编程封装层。",
-      "reads": "4065",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Google Research 正式开源全新框架 Harness²，核心代码仓库已对外公开。",
-        "Harness² 具备自我优化能力，允许 AI 智能体针对所执行的每项任务自主改进其运行测试夹具（Harness）。",
-        "系统采用独特的双层递归架构，使智能体能够在执行任务的同时对支撑其运行的环境逻辑进行迭代调优。",
-        "在 JobBench 等基准测试中，该框架已取得显著的提分成绩，验证了闭环进化的有效性。"
-      ],
-      "quote": {
-        "who": "AshutoshShrivastava",
-        "role": "",
-        "said": "@erikvallart 这是一个用于改进智能体测试夹具的实验性框架，并不是那种只要装一次就能自动提升每次写代码体验的通用封装层。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 4065 · 产品与生态] AI连自己的测试框架都能改了！谷歌开源Harness²，智能体开启套娃式进化"
-    },
-    {
-      "title": "OpenAI后台再漏底牌！红绿蓝三档Aurora现身，Astra紧锣密鼓排期",
-      "summary": "追踪器最新监测显示，OpenAI 的 /v1/models 接口在 10 月 18 日突增三个内部检查点：aurora-blue-alpha、aurora-green-alpha 以及 aurora-red-alpha。这距 10 月 15 日现身的 gpt-6-astra-api-priv-ev3 仅隔三天，意味着 OpenAI 正在针对 Astra 及其衍生检查点密集进行部…",
-      "reads": "2.1万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "10 月 18 日，轮询 OpenAI /v1/models 接口的独立追踪器捕获到三个全新代号条目。",
-        "新条目命名遵循三色分档，分别为 aurora-blue-alpha、aurora-green-alpha 与 aurora-red-alpha。",
-        "此次异动距 10 月 15 日现身的 gpt-6-astra-api-priv-ev3 仅相隔 3 天。",
-        "分析推测，这批「极光」alpha 检查点很可能是 OpenAI 准备后续公开发布的测试候选版本。"
-      ],
-      "quote": {
-        "who": "Chris",
-        "role": "",
-        "said": "冷知识：2 月 9 号 Open router 上就出现过一个 Aurora-Alpha——不是 OpenAI 出的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 2.1万 · 模型与能力] OpenAI后台再漏底牌！红绿蓝三档Aurora现身，Astra紧锣密鼓排期"
+      "line": "[榜第13位 · 3.0万 · 组织与人事] 智能体工时达到人类6倍！Anthropic自曝：初级技术岗正被批量淘汰"
     },
     {
-      "title": "周末别闲着！OpenAI官方推社区项目合集，手把手教你抄作业",
-      "summary": "周末不知道搭点什么？OpenAI开发者官方账号精选了一批社区近期的代表性应用，并打包整理了完整的复现教程与操作指南。这份清单旨在帮开发者降低动手门槛，快速摸清当下最热门的AI工作流与实际落地玩法。",
-      "reads": "9.6万",
-      "ago": "14 小时前",
-      "category": "产品与生态",
+      "title": "上架又秒删！OpenAI官方API闪现红蓝绿三款新模型，代码杀手要来？",
+      "summary": "OpenAI官方API端点中短暂现身三个未公开代号的全新模型，分别为aurora-blue-alpha、aurora-green-alpha和aurora-red-alpha，随后被官方火速撤下。开发者梳理发现，此前在OpenRouter上出现的aurora-alpha大概率对应着GPT-5.3-Codex-Spark，推测这次红蓝绿三款模型可能是专门针对编程优化的新一代Cod…",
+      "reads": "4.2万",
+      "ago": "8 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI开发者官方账号推荐适合周末动手实践的应用项目合辑。",
-        "官方精选了近期开发者社区基于OpenAI工具链构建的代表性案例。",
-        "合辑提供完整的复现指引与教程链接，帮助开发者快速依葫芦画瓢。",
-        "重点展示了最新的社区AI工作流与实际业务场景落地思路。"
+        "OpenAI官方API端点被开发者抓包，短暂上线了三个未公开的全新模型，代号分别为aurora-blue-alpha、aurora-green-alpha以…",
+        "三款极光代号模型在API中停留不久后，已被官方迅速下线，目前无法继续调用。",
+        "开发者顺藤摸瓜指出，今年早些时候OpenRouter上曾出现过一个名为aurora-alpha的模型，后来被普遍证实大概率就是GPT-5.3-Codex-S…",
+        "业内据此推测，本次出现的红蓝绿三色版本很可能是新一代Codex专业编程模型，或者主打高吞吐、超低延迟的高速推理模型。"
       ],
       "quote": {
-        "who": "OpenAI Developers",
+        "who": "Lisan al Gaib",
         "role": "",
-        "said": "想找个周末项目做做？ 来看看社区最近都在做些什么，以及你自己该如何复现："
+        "said": "然后他们又没了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 9.6万 · 产品与生态] 周末别闲着！OpenAI官方推社区项目合集，手把手教你抄作业"
+      "line": "[榜第14位 · 4.2万 · 模型与能力] 上架又秒删！OpenAI官方API闪现红蓝绿三款新模型，代码杀手要来？"
     },
     {
-      "title": "英伟达彻底把Agent玩出花！父子档手搓啤酒，新硬件RTX Spark炸场柏林",
-      "summary": "英伟达 Build-A-Claw 柏林站正式收官，作为下周 GTC 柏林站规模最大的官方前哨站，英伟达全球团队齐聚现场秀肌肉。现场不仅展示了最新发布的端侧硬件 RTX Spark，让开发者零距离上手各类行业级智能体，甚至还有一对父子档直接用 openclaw 现场酿出了能喝的拉格啤酒，把 Agent 落地玩出了新花样。",
-      "reads": "9370",
-      "ago": "5 小时前",
-      "category": "产品与生态",
+      "title": "3Blue1Brown逆风开麦！现在学数学比以往任何时候都好，AI逼学界全面转型",
+      "summary": "当全网都在焦虑AI是否会彻底淘汰数学家时，顶流数学科普创作者3Blue1Brown却在40分钟深度访谈中给出了截然相反的判断。他公开表态，现在去学数学比以往任何时候都要好，AI正在倒逼整个数学学界自我革新。在他看来，学者们非但没有抗拒，反而都在翘首期盼能够指引变革的全新范式。",
+      "reads": "1.2万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "英伟达官方宣布 Build-A-Claw 柏林站活动圆满收官，为下周即将开幕的 GTC 柏林站（NVIDIA GTC Berlin）完成全面预热。",
-        "现场负责人 Anusha 表示，这是英伟达通往本届 GTC 柏林站规模最大的一场前哨活动，英伟达全球团队均赶赴现场支持。",
-        "活动聚焦端侧智能体动手实操，现场展出了从入门级交互到面向特定垂直行业的全套成熟 Agent 方案。",
-        "英伟达在展区重点亮相了新发布的 RTX Spark 硬件设备及其配套落地解决方案。"
+        "顶流数学科普博主3Blue1Brown在访谈中公开表态，当前正是进入数学领域的历史最好时期",
+        "他指出数学学界整体已经意识到必须发生改变，态度并非排斥而是保持高度开放",
+        "大量数学学者目前正处于观望状态，急需具体的范例和路线指引来明确学科转型方向",
+        "该观点正面打破了AI时代数学研究价值归零的悲观叙事，给受冲击的学术圈注入强心剂"
       ],
       "quote": {
-        "who": "NVIDIA AI",
+        "who": "Nav Toor",
         "role": "",
-        "said": "Build-A-Claw 柏林站圆满收官！ 我们当然招待了 @lobsterlager。有一对父子档用 @openclaw 酿出了一款拉格啤酒。 感谢所有到场的朋友，期待在 @NVIDIAGTC 柏林站度过精彩的一周。"
+        "said": "如果你每天都刷 Instagram Reels 或 TikTok，看看这个。 研究人员发现，刷 40 分钟短视频会让人更容易忘记原本打算做的事。 一项 2026 年的研究对 170 名大学生进行了两组实验。 在第一个实验中，一组看了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 9370 · 产品与生态] 英伟达彻底把Agent玩出花！父子档手搓啤酒，新硬件RTX Spark炸场柏林"
+      "line": "[榜第15位 · 1.2万 · 模型与能力] 3Blue1Brown逆风开麦！现在学数学比以往任何时候都好，AI逼学界全面转型"
     },
     {
-      "title": "正面硬刚Fable 5.5！OpenAI曝极光三色检查点，GPT-6进入倒计时",
-      "summary": "OpenAI后台被监测到悄悄上线三款代号为Aurora的全新检查点，分别为aurora-blue-alpha、aurora-green-alpha与aurora-red-alpha。就在10月15日，私测模型gpt-6-astra-api-priv-ev3刚闪现并被火速下线，如今开发者调用新模型分别触发503容量不足与404无权限报错，显示已进入内部灰度。社区推测该批三色模型极…",
-      "reads": "1.4万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
+      "title": "Arm最强硬件防线告破！MTEscape下月开源，慢半拍时间差击穿Linux",
+      "summary": "号称坚不可摧的 Arm 硬件级内存防御机制被撕开一道口子。安全研究员即将公开发布名为 MTEscape 的利用代码，专门绕过 Arm 的内存标记扩展（MTE）防御。该漏洞正是抓住了 MTE 异步模式标记非法访问时慢半拍的时间差，配合已知 Linux 内核漏洞实现穿透。完整论文与 exploit 代码将于 2026 年 11 月在顶级安全会议 ACM CCS 2026 上正式公布…",
+      "reads": "1.6万",
+      "ago": "5 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "OpenAI后台被模型追踪器监测到上线三款代号为Aurora的新检查点：aurora-blue-alpha、aurora-green-alpha与auror…",
-        "前序动作频繁，10月15日私测模型gpt-6-astra-api-priv-ev3刚短暂现身API并被官方迅速撤下。",
-        "实测调用截图显示，新模型目前分别返回503（无容量）与404（无权限）错误，表明模型处于高度受限的内部灰度阶段。",
-        "开发者社区与业内推测，这组以红绿蓝三色命名的Alpha检查点极大概率对应OpenAI下一代旗舰GPT-6 Astra的新测试版本。"
+        "攻击技术被命名为 MTEscape，专门针对 Arm 底层硬件级内存安全防御机制 MTE（Memory Tagging Extension）。",
+        "漏洞核心在于 Arm MTE 的异步运行模式：在该模式下标记非法内存访问存在延迟，攻击者借此抓住了关键的时间差窗口。",
+        "该攻击方案通过将上述时间差与已知的 Linux 内核漏洞组合，成功达成了对底层硬件级标记防护的完整绕过。",
+        "详细的技术研究论文以及对应的 exploit 利用代码，已定于 2026 年 11 月在国际信息安全顶级会议 ACM CCS 2026 上正式公开发布。"
       ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "🚨突发！OpenAI 悄悄上线 Aurora 三色检查点！疑似回应 Anthropic 即将杀到的 Fable 5.5！ 10月15日私测模型 gpt-6-astra-api-priv-ev3 刚闪现消失，今天 tracker 就刷出新东西： 🔹aurora-blue-alpha 🔹aurora-green-alpha 🔹aurora-red-alpha 这些极有可能是 GPT-6 Astra"
+        "said": "‼️ 一名研究人员下个月将发布一段利用代码，可以绕过 Arm 的内存标记扩展（Memory Tagging Extension，即 MTE），这是一项硬件级内存安全防护机制。 MTE 的异步模式在标记非法内存访问时会慢半拍。MTEscape 正是利用这个时间差，配合已知的 Linux 内核漏洞实现了绕过。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 1.4万 · 模型与能力] 正面硬刚Fable 5.5！OpenAI曝极光三色检查点，GPT-6进入倒计时"
+      "line": "[榜第16位 · 1.6万 · 政策与安全] Arm最强硬件防线告破！MTEscape下月开源，慢半拍时间差击穿Linux"
     }
   ],
   "board_count": 16,
