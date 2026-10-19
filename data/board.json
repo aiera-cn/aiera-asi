@@ -3,65 +3,140 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-19 09:08:38 +0800",
+  "fetched_at": "2026-10-19 15:40:46 +0800",
   "today": "10/19",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "马斯克突袭叫板Anthropic：拿5%股权做慈善，不如直接发给全人类！",
-      "summary": "Anthropic正式宣布成立全新的全资公益实体Anthropic Public Benefit Fund，初期将注入公司5%的股份，且估值在基准上每增长50%即可追加注资。这一巨额股权分配方案迅速引爆全网，社区调侃其是对尚未公开发布的Fable 5.5变现能力的提前再分配。马斯克随后下场公开叫板，反讽称不如直接把股份分给公众，随即遭网友犀利回怼「那SpaceX和Grok 5怎…",
-      "reads": "291万",
+      "title": "狂砸千亿救济失业打工人！Anthropic捐20%股权，马斯克隔空叫板",
+      "summary": "Anthropic宣布设立全新的全资公益实体Anthropic Public Benefit Fund，初始注入5%公司股份，并在估值每上涨50%时自动追加注资。叠加此前联创捐赠80%股权等承诺，其划拨给公共利益的股权总计将达约20%，预期资金规模可突破1000亿美元，专门用于救济被AI替代的群体。马斯克随后直接下场叫板，痛批企业自控的慈善基金会存在浪费与腐败，呼吁直接把股份分…",
+      "reads": "745万",
       "ago": "1 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Anthropic宣布成立全新的全资实体「Anthropic Public Benefit Fund」，全部资金专门用于公共利益事业。",
-        "官方首期承诺注入公司5%的股份，并规定在设定的基准线之上，公司估值每增长50%即可继续追加股权注资，有社区观点认为后续整体注资规模或达20%。",
-        "社区对此戏谑称Anthropic对新一代模型信心爆棚，甚至已经开始提前规划如何重新分配尚未公开的Fable 5.5带来的天量财富。",
-        "马斯克公开在Anthropic官方推文下叫板，直言「我建议直接把股份分给公众」，质疑传统慈善基金会的资金运作效率。"
+        "Anthropic官方宣布设立全资公益实体Anthropic Public Benefit Fund，首批划拨5%公司股份作为初始资产注入。",
+        "注资机制与业绩挂钩：公司估值在设定基准线之上每上涨50%，就会自动追加注资，使公益盘子与公司增长直接绑定。",
+        "结合此前联合创始人承诺捐出的80%个人股权及员工捐赠配资，Anthropic投入公共利益的股权总比例预计将达20%左右。",
+        "据行业估算，该基金未来潜在规模可能突破1000亿美元，超越盖茨基金会，其明确列举的核心花钱方向是补偿因AI丢掉饭碗的劳动者。"
       ],
       "quote": {
-        "who": "Dan McAteer",
+        "who": "SuSu_酥酥",
         "role": "",
-        "said": "Anthropic 将把 20% 的股权捐给他们的公益基金。 要提升 AI 的公众形象，很难想象还有比让全社会共同繁荣更好的方式了。 我举双手赞成。"
+        "said": "😆Dario格局瞬间变小了！Elon一点评立见高下了！ Dario：我将 5% 股份丢进我们自己控的“公益基金” 但 @elonmusk 刚说：他将会直接把股份直接发给公众 一个是“相信我们会好好花”，一个是“直接拿走，公众自己决定”。 谁才是真正的 public benefit？ #Anthropic #ElonMusk #xAI #AI #PublicBenefit"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 291万 · 资本与算力] 马斯克突袭叫板Anthropic：拿5%股权做慈善，不如直接发给全人类！"
+      "line": "[榜第1位 · 745万 · 资本与算力] 狂砸千亿救济失业打工人！Anthropic捐20%股权，马斯克隔空叫板"
     },
     {
-      "title": "马斯克盖章确认！Grok版Google Duplex成真，狂打十几家餐厅没露馅",
-      "summary": "不用自己开口，AI 已经能替你给餐厅打电话订座了。有开发者基于 Grok 语音做出了自动化电话代理 Grok Bot，实测拨打十几家餐厅全部订座成功，店员全程没听出对面是个机器人。马斯克随后亲自转发力挺这项功能，直言其已具备实战能力。该工具目前完全免费，官方原生的直接呼叫功能也已在推进中。",
-      "reads": "187万",
-      "ago": "4 小时前",
+      "title": "当年Google Duplex画的饼成真！马斯克力挺：Grok能打电话订餐厅了",
+      "summary": "当年 Google Duplex 惊艳全网却迟迟难落地的电话订座功能，如今真被搬进现实了。有开发者基于 Grok 打造了一款专注于拨打电话预订餐厅的智能体 Grok Bot，目前已完全免费向公众开放。马斯克亲自转发背书确认该能力，十几家线下餐厅实测显示，接听方完全察觉不出对面是机器人。",
+      "reads": "211万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "开发者基于 Grok 语音打造了一款名为 Grok Bot 的自动化电话代理，专门负责替用户拨打电话完成餐厅预订，且目前向公众免费开放。",
-        "特斯拉及 xAI 创始人马斯克亲自转发该测试演示，向全网公开确认 Grok Bot 已经能够直接打电话帮人订位。",
-        "实测人员透露已在十几家真实商家进行了拨测，AI 通话声音自然且交互专注，接听电话的店员完全没有察觉对方是机器人。",
-        "该测试被认为真正补齐了 2018 年谷歌电话订位演示（Google Duplex）当年未能全面铺开落地的遗憾。"
+        "免费开放使用：开发者打造的 Grok Bot 智能体已面向公众完全免费开放，专门执行电话代订餐厅任务。",
+        "拟真语音外呼：Grok Bot 能直接拨打真实电话并完成订座全流程，声音表现极为自然，接听方完全听不出对面是 AI。",
+        "实测战绩稳定：开发者已在十余家真实线下商户完成拨打测试，通话全程顺畅且订座成功率极高。",
+        "马斯克亲自背书：xAI 创始人马斯克亲自转发推文确认，证实 Grok Bot 现已支持打电话去餐馆订位。"
       ],
       "quote": {
         "who": "Brian Roemmele",
         "role": "",
-        "said": "@ChristianW39068 @elonmusk @bot 我拿十几家商家测过，表现不错。原生的 Grok 语音肯定最好，不过这应该已经在路线图上了。"
+        "said": "@clawcalldev 谢谢！你们做得很棒，所以我用 Grok 发了。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 187万 · 产品与生态] 马斯克盖章确认！Grok版Google Duplex成真，狂打十几家餐厅没露馅"
+      "line": "[榜第2位 · 211万 · 产品与生态] 当年Google Duplex画的饼成真！马斯克力挺：Grok能打电话订餐厅了"
+    },
+    {
+      "title": "一句Prompt写错不用推倒重来！Codex上线时间穿越，跑偏历史一键抹掉",
+      "summary": "Codex桌面端终于补齐了社区呼声极高的历史消息编辑能力，被内部戏称为「时间穿越」。用户现在可以回退到对话中任意历史节点修改Prompt，并从该分支继续执行。OpenAI研究员透露，系统会直接丢弃编辑点之后的所有输出与工具调用，彻底终结了长程任务中因单句提示词写错而不得不推翻重来的调试痛点。",
+      "reads": "86万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI旗下Codex团队负责人Tibo宣布，桌面端正式上线历史消息编辑功能，用户可随时回溯修改早期对话。",
+        "团队内部将该功能戏称为「时间穿越（time travel）」，负责人坦言这是大家催了很久的刚需，确实拖了太久才上线。",
+        "OpenAI研究员VB披露底层机制：系统会直接丢弃编辑消息之后的所有模型输出与工具调用记录，避免上下文产生混乱导致模型出现幻觉。",
+        "功能直击智能体开发核心痛点，由于Agent跑偏通常始于最初的一句错误Prompt，新机制省去了以往反复推倒重建会话的高昂成本。"
+      ],
+      "quote": {
+        "who": "Mark Kretschmann",
+        "role": "",
+        "said": "@thsottiaux 有总比没有好。虽迟但到。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 86万 · 产品与生态] 一句Prompt写错不用推倒重来！Codex上线时间穿越，跑偏历史一键抹掉"
+    },
+    {
+      "title": "B200排队18个月、T4绑三年！马斯克扎心自曝：连SpaceX都租不到算力",
+      "summary": "马斯克在社交平台转发了一段调侃当前租算力窘境的讽刺视频，并证实这正是 SpaceX 的真实遭遇。视频中顾客想租 H100 显示断货，预订 B200 要排队等 18 个月，A100 早被超大聊天机器人包圆，甚至连偏远地区的 T4 都要强制绑定三年长约。马斯克直言，SpaceX 为了给训练集群分流负载，尝试向 AWS、GCP 等各大云厂商租用推理算力时碰壁的场景，与视频里分毫不差。",
+      "reads": "120万",
+      "ago": "4 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "马斯克在 X 上转发了一段讽刺租用 AI 算力现状的短剧视频，引发全网强烈共鸣。",
+        "视频生动还原了租卡对话：顾客提出租用 8 张 H100 一周直接被告知断货，退而求其次问 B200，则被告知排队需等 18 个月。",
+        "视频还呈现了主流算力被锁死的现实：上一代 A100 全部被巨型聊天机器人预订一空，而 TPU 仅供云厂商内部使用。",
+        "店员最终端出的唯一可用方案，竟是某个冷门未知区域的英伟达 T4 老卡，并且强制要求绑定三年长约。"
+      ],
+      "quote": {
+        "who": "Elon Musk",
+        "role": "",
+        "said": "SpaceX 在试图从 AWS、GCP 或任何别家租用推理算力来分流我们训练集群的负载时，碰到的对话完全就是这个样子！！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 120万 · 资本与算力] B200排队18个月、T4绑三年！马斯克扎心自曝：连SpaceX都租不到算力"
+    },
+    {
+      "title": "Claude要接管你的钱包了！直连银行流水，连夜生成收支大盘",
+      "summary": "写代码封神的 Claude，接下来准备帮用户管钱了。最新爆料显示，Anthropic 正在为 Claude 筹备上线名为「Personal Finance」的个人财务新功能。该功能通过集成金融数据服务商 Plaid 直连用户银行账户，能自动分析收支流水并生成可视化仪表盘。社区直接将其调侃为「Claude Monet」（Money 谐音），不过受底层金融接口限制，预计上线初期仅向…",
+      "reads": "7.4万",
+      "ago": "55 分钟前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "爆料显示 Anthropic 正在筹备为 Claude 上线名为「Personal Finance」的个人财务管理功能，相关引导界面已被曝光。",
+        "该功能通过集成第三方金融基础设施 Plaid 运行，允许 Claude 安全连接并读取用户的多张银行卡及账户数据。",
+        "Claude 将能够深度分析用户的银行收支流水，并在聊天界面内直接构建各类可视化的收支仪表盘与财务分析图表。",
+        "社区开发者将其戏称为「Claude Monet」（莫奈与 Money 的双关梗），称其有望成为 Anthropic 官方的个人财务顾问（Personal F…"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "@AndrewCurran_ 他们早该用这个方案的。本来是个绝佳的营销机会。 Sonnet 5 这波玩法他们也错过了 💀"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 7.4万 · 产品与生态] Claude要接管你的钱包了！直连银行流水，连夜生成收支大盘"
     },
     {
       "title": "马斯克被物理学打假！杨立昆怒喷Roadster飞天是骗术，老马回怼：朝你放了个屁",
       "summary": "特斯拉全新Roadster的飞行演示引爆物理学界怒火。图灵奖得主杨立昆亲自下场算账，指出压缩空气比冲不到50秒且推力呈指数级衰减，车重一半全塞储气罐也撑不过5到10秒，直斥所谓飞天纯属公关噱头和江湖骗术。面对严肃的硬核力学拆解，马斯克直接祭出无厘头玩梗，公开嘲讽「朝你的方向放了个屁」。",
-      "reads": "212万",
-      "ago": "6 小时前",
+      "reads": "346万",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,14 +154,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 212万 · 产品与生态] 马斯克被物理学打假！杨立昆怒喷Roadster飞天是骗术，老马回怼：朝你放了个屁"
+      "rank": 6,
+      "line": "[榜第6位 · 346万 · 产品与生态] 马斯克被物理学打假！杨立昆怒喷Roadster飞天是骗术，老马回怼：朝你放了个屁"
+    },
+    {
+      "title": "连网页都不用开！马斯克安利Grok Bot：发条短信直接送货上门",
+      "summary": "马斯克亲自发文力挺 Grok @Bot，智能体在现实场景的代办落地引爆讨论。有用户实测仅给 Grok Bot 发了一条短信告知购物需求，Bot 便全自主完成下单并把实物商品配送到家，全程甚至没打开任何网页。与此同时，第三方开发者推出了集群管理面板 Mission Control，不仅能每日提供红黄绿执行状态汇报，还能实时监测并预测套餐额度消耗，帮助个人精细化运营 Bot 集群。",
+      "reads": "121万",
+      "ago": "11 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "马斯克在社交平台发文力推「Try Grok @Bot」，展现 xAI 旗下智能体在现实生活场景中的端到端执行能力。",
+        "有用户实测通过短信给 Grok Bot 发送购买需求，委托其订购真人秀《鲨鱼坦克》（Shark Tank）中的室内球 Ollyball Keepy Uppy…",
+        "整个代购流程全自主完成，实测用户全程未打开任何网页，商品最终直接被配送放置在家门口。",
+        "开发者发布了专为 Grok Bots 打造的集群运营仪表盘「Mission Control」，专为在车库依靠有限预算跑项目的用户提供精细化管理。"
+      ],
+      "quote": {
+        "who": "Brian Roemmele",
+        "role": "",
+        "said": "@fkadev @bot 加载 Grok Bot 试试。费了番功夫，但确实好用。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 121万 · 产品与生态] 连网页都不用开！马斯克安利Grok Bot：发条短信直接送货上门"
     },
     {
       "title": "当街被用户拦下求额度！OpenAI工程师顶不住了：正打算印实体卡沿街派发",
       "summary": "近期 ChatGPT 额度刷新异常与用量极速消耗持续发酵，没想到焦虑情绪直接蔓延到了现实生活。OpenAI 工程师 Tibo 发文透露，已经有大量用户不再守着网络信息流，而是直接在街头拦住他当面求额度重置。为此 Tibo 开玩笑称自己正准备制作实体小卡片在街头分发，社区随即调侃这已然从使用 AI 变成了线下的魔幻「街头续命」。",
-      "reads": "34万",
-      "ago": "3 小时前",
+      "reads": "75万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -104,14 +204,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 34万 · 产品与生态] 当街被用户拦下求额度！OpenAI工程师顶不住了：正打算印实体卡沿街派发"
+      "rank": 8,
+      "line": "[榜第8位 · 75万 · 产品与生态] 当街被用户拦下求额度！OpenAI工程师顶不住了：正打算印实体卡沿街派发"
+    },
+    {
+      "title": "烧钱副业大复活！OpenAI杀回Sora做硬件，研究者急了：别搞支线任务",
+      "summary": "OpenAI 此前收缩高昂副业支出的防守策略正在全面逆转。为了复活视频生成模型 Sora，OpenAI 正积极寻求外部商业合作，并同步扩大在机器人、创作者工具以及个人硬件设备上的投入。然而这一掉头激起了研究界的强烈反弹，不少业内人士公开呼吁其停止在支线任务上浪费宝贵资源，集中精力研发能够压制对手的核心基座模型。",
+      "reads": "3.8万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "战略全面转向：OpenAI 正在逆转此前削减高昂副业支出的紧缩路线，重新向多元生态和长线项目大规模倾斜资源。",
+        "寻求合作复活 Sora：OpenAI 正积极探索达成外部商业合作协议，试图借力盘活此前收缩的视频生成模型 Sora。",
+        "重注机器人与个人硬件：除视频生成外，公司正全力扩大在具身机器人、创作者专属工具及个人设备领域的研发与布局。",
+        "社区与研究界强烈反弹：战略曝光后激起广泛争议，有研究人员公开喊话要求 OpenAI 停止在支线任务上浪费时间。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "@newborec 这基本上也是我的看法。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 3.8万 · 产品与生态] 烧钱副业大复活！OpenAI杀回Sora做硬件，研究者急了：别搞支线任务"
+    },
+    {
+      "title": "反AI浪潮席卷游戏圈，Epic掌门人公然唱反调！马斯克秒站队：显而易见是对的",
+      "summary": "游戏圈抵制 AI 生成内容的风潮愈演愈烈，Epic Games 首席执行官 Tim Sweeney 却公开发声唱反调。他指出，许多原本需要耗费大量人力的游戏创意，借助 AI 能在极短时间内化为现实，AI 是解放创造力的关键工具。马斯克随后下场公开声援，直言 Sweeney 的观点「显而易见是对的」。",
+      "reads": "9.2万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Epic Games 首席执行官 Tim Sweeney 公开表达对 AI 赋能游戏开发的支持，正面回应行业反对声浪。",
+        "Sweeney 强调，AI 能极快将高耗时、费人力的复杂创意化为现实，其本质是释放创造力的使能工具。",
+        "马斯克在社交平台公开发文站队支持，直言「Tim Sweeney is right (obviously)」（Sweeney 显然是对的）。",
+        "事件折射出传统游戏创作者对岗位的担忧与工业顶层决策者对生产力工具演进之间的巨大分歧。"
+      ],
+      "quote": {
+        "who": "Elon Musk",
+        "role": "",
+        "said": "@TimSweeneyEpic @garrytan @KenneyNL Tim Sweeney 是对的（显而易见）"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 9.2万 · 产品与生态] 反AI浪潮席卷游戏圈，Epic掌门人公然唱反调！马斯克秒站队：显而易见是对的"
+    },
+    {
+      "title": "不用动权重也能涨11.5分！Google开源Harness²：普及版RSI真的来了",
+      "summary": "以前的智能体往往是一套配置用到死，现在 Google 正式开源了面向开放世界的测试框架 Harness²。在完全不改动模型权重的前提下，它能让 AI 自主优化提示词、工具、记忆与技能，实测直接拉升性能评分 11.5 分。最核心的突破在于实现了无需真实答案反馈的自我修改与递归优化（RSI），相当于让普通开发者也能零门槛用上自进化的智能体夹具。",
+      "reads": "4.6万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Google 正式开源面向开放世界的自适应进化测试框架 Harness²，为智能体工程落地提供全新解法",
+        "在完全不改动模型底层权重的前提下，Harness² 支持智能体自主调整和优化自身的提示词、工具调用、记忆与技能模块",
+        "根据开发者实测，接入该框架进行优化后，智能体性能评分直接拉升了 11.5 分",
+        "框架的关键技术突破在于无需真实标注答案作为反馈，即可实现 AI 的自我修改与递归优化（RSI）"
+      ],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "@0x99DaDa 这个还是普及版，让人人都可以体验所谓的RSI"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 4.6万 · 产品与生态] 不用动权重也能涨11.5分！Google开源Harness²：普及版RSI真的来了"
     },
     {
       "title": "黑客正猛攻，防守AI突然叛变！OpenCode遭袭排查，前沿模型因违规集体拒答",
       "summary": "OpenCode 正遭遇持续网络攻击，在应急排查途中却遭遇戏剧性一幕：负责协同防守的前沿 AI 模型分析攻击载荷时触发安全护栏，中途集体罢工拒答。当事人 Dax 证实此前 Hugging Face 也掉进过完全相同的坑，直到团队换用刚获批的 Daybreak Blue 权限才让防守好转。知名投资人 David Sacks 随即痛批，中心化大模型的安全机制在网络实战中直接成了防守…",
-      "reads": "55万",
-      "ago": "5 小时前",
+      "reads": "64万",
+      "ago": "12 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -129,39 +304,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 55万 · 政策与安全] 黑客正猛攻，防守AI突然叛变！OpenCode遭袭排查，前沿模型因违规集体拒答"
-    },
-    {
-      "title": "一口气怒砸40万美元！黄牛疯抢2000刀折叠屏，苹果CEO被当面质问",
-      "summary": "苹果首款售价2000美元的折叠屏iPhone Duo刚开启预售，二级市场就彻底疯了。一名黄牛公开炫耀自己豪掷40万美元大肆扫货，并宣称单台转手潜在利润就高达数百美元。知名科技记者Mark Gurman随即公开艾特苹果CEO John Ternus发难质问「这怎么能被允许」，被全网声讨的黄牛账号目前已紧急闭门转为私密。",
-      "reads": "85万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "苹果首款折叠屏手机 iPhone Duo 开启预购，官方定价为2000美元。",
-        "一名黄牛公开自曝斥资40万美元扫货，折合抢购了约200台新机。",
-        "涉事黄牛宣称市场炒作空间巨大，单台新机的转售利润「高达数百美元」。",
-        "知名科技记者 Mark Gurman 公开艾特苹果新任 CEO John Ternus 质问官方「这怎么能被允许」。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "@ijustine 听你这么说太高兴了！黄牛真是恶心。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 85万 · 产品与生态] 一口气怒砸40万美元！黄牛疯抢2000刀折叠屏，苹果CEO被当面质问"
+      "rank": 12,
+      "line": "[榜第12位 · 64万 · 政策与安全] 黑客正猛攻，防守AI突然叛变！OpenCode遭袭排查，前沿模型因违规集体拒答"
     },
     {
       "title": "出差欧洲不锁区！OpenAI承诺Dots跨国可用，欧盟本土上线仍需等待",
       "summary": "OpenAI 旗下个人自主助手 Dots 团队研究员公开回应欧洲支持进展。官方表示正在推进调整，只要用户在其他支持地区建好 dot，前往欧盟、欧洲经济区（EEA）及英国差旅时依然能正常使用，避免因地理围栏导致服务中断。虽然欧洲本土何时正式上线仍无具体时间表，但研究员承诺未来一定会登陆欧洲；海外社区也有声音趁机喊话，希望在 Day 28 换取更强模型和更高使用额度。",
-      "reads": "37万",
-      "ago": "5 小时前",
+      "reads": "46万",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -179,233 +329,83 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 37万 · 产品与生态] 出差欧洲不锁区！OpenAI承诺Dots跨国可用，欧盟本土上线仍需等待"
+      "rank": 13,
+      "line": "[榜第13位 · 46万 · 产品与生态] 出差欧洲不锁区！OpenAI承诺Dots跨国可用，欧盟本土上线仍需等待"
     },
     {
-      "title": "古尔曼直言苹果首款折叠屏预售是灾难！iPhone Duo大翻车，反而利好18 Pro",
-      "summary": "知名科技记者古尔曼在最新通讯中直言，苹果首款折叠屏手机 iPhone Duo 的预售表现堪称「一场彻底的灾难」。但这种供需失衡与抢购混乱，反而可能将潜在买家推向常规旗舰，在销量与关注度上利好接下来的 iPhone 18 Pro。",
-      "reads": "20万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "知名记者古尔曼直言，苹果首款折叠屏 iPhone Duo 的预购局面堪称「一场彻底的灾难」",
-        "iPhone Duo 预售中遭遇了严重的黄牛大规模扫货转售，导致真实消费者交付与排期极度混乱",
-        "分析指出预售翻车反而可能形成反转，促使失望的消费者转投常规旗舰 iPhone 18 Pro",
-        "古尔曼在与网友互动中确认，渠道发货延宕与供求脱节正在重塑苹果下半年的销量走势"
-      ],
-      "quote": {
-        "who": "Mark Gurman",
-        "role": "",
-        "said": "@frederikRiedel 某些方面来说确实如此"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 20万 · 产品与生态] 古尔曼直言苹果首款折叠屏预售是灾难！iPhone Duo大翻车，反而利好18 Pro"
-    },
-    {
-      "title": "直接连银行查账！Claude杀入个人理财，打工人钱包被看穿了",
-      "summary": "Anthropic 正在筹备为 Claude 推出个人财务功能（Personal Finance），该功能将通过集成第三方金融服务 Plaid 来实现。接入后，Claude 能直接读取并分析用户的银行账户数据，自动生成各类收支仪表盘与分析图表。由于受限于金融数据接口和监管要求，该功能预计早期极大概率仅面向美国用户开放。",
-      "reads": "3.3万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "爆料显示 Anthropic 正在为 Claude 筹备名为「Personal Finance」（个人财务）的新功能，目前已进入上线准备阶段。",
-        "该功能通过集成知名金融数据服务商 Plaid 实现，支持安全读取用户的银行账户流水与余额数据。",
-        "Claude 将基于用户的真实银行数据进行分析，并直接在界面中生成收支分析图表与资产仪表盘。",
-        "有业内人士戏称该功能为「Claude Monet」（既谐音莫奈，又暗指 Money），并透露相关研发早在今年 1 月就已有端倪。"
-      ],
-      "quote": {
-        "who": "Kol Tregaskes",
-        "role": "",
-        "said": "@testingcatalog 我敢肯定仅限美国。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 3.3万 · 产品与生态] 直接连银行查账！Claude杀入个人理财，打工人钱包被看穿了"
-    },
-    {
-      "title": "API连夜撤回三款神秘代号！OpenAI新图像模型偷跑，质感不输Nano Banana",
-      "summary": "OpenAI在API接口中短暂误上线了3款未公开模型代号，随后被光速撤回。多位开发者随后在模型竞技场Arena中刷到了这批以三原色命名的模型，证实正是OpenAI正在灰度测试的新一代图像生成模型。首批上手实测显示，其画面表现兼具Nano Banana与GPT图像模型的质感，且绿色版本实力明显胜过红色版本，ChatGPT及API的图像能力即将迎来重大换代。",
-      "reads": "9.7万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI在API接口中短暂误上线aurora-red-alpha、aurora-green-alpha和aurora-blue-alpha共3款全新模型…",
-        "多位测试者在模型竞技场Arena中匹配到了带有相关代号的模型，证实这批以RGB三原色为后缀的Aurora系列正是OpenAI的新款图像生成底座。",
-        "首批竞技场实测反馈指出，aurora-green-alpha的实际生成表现明显优于aurora-red-alpha。",
-        "测试者评价新模型的出图质感十分惊艳，效果宛如Nano Banana与GPT图像模型强强联手输出的水准。"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "由 @DCubbins 记录报道 🗞️"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 9.7万 · 模型与能力] API连夜撤回三款神秘代号！OpenAI新图像模型偷跑，质感不输Nano Banana"
-    },
-    {
-      "title": "差旅飞趟欧洲功能全瘫痪？OpenAI负责人委婉发声，承认被监管卡麻了",
-      "summary": "OpenAI 个人自主助手 Dots 团队负责人 Tibo 近日就欧洲合规议题罕见公开发声，强调团队极其重视当地监管规范。团队目前正加紧做底层技术适配，确保用户跨国出差去欧盟时助手不至于彻底罢工。业内观察者直言，这番委婉表态实际上坐实了欧洲严苛的监管正是新功能落地严重滞后的罪魁祸首。",
-      "reads": "1.9万",
-      "ago": "1 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 旗下个人自主助手 Dots 负责人 Tibo 首次公开表态称「我们确实重视当地监管」，正式回应欧洲准入困局。",
-        "团队目前正在全力推进底层适配，主要目标是保障用户跨国差旅至欧盟时，核心助手功能仍可保持可用状态。",
-        "业内开发者与社区观察者指出，Tibo 的委婉说辞撕开了行业遮羞布：欧洲对 AI 的强监管导致各项功能在该地区的上线周期被无限拉长。",
-        "严格的合规门槛不仅让欧洲本地用户无法同步体验最新功能，还直接拖累了跨区域差旅人群的服务连续性。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "Tibo 终于公开说了，只是措辞更委婉：欧洲反 AI 的监管破事，就是为什么每个功能在那里上线都要拖到天荒地老的原因。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 1.9万 · 政策与安全] 差旅飞趟欧洲功能全瘫痪？OpenAI负责人委婉发声，承认被监管卡麻了"
-    },
-    {
-      "title": "谁说大厂生态不能通？开发者用Codex驱动Claude Code，连跑几天不掉线",
-      "summary": "谁说搞AI开发只能死磕一家？有开发者提出天才思路：直接用OpenAI的Codex来驱动Anthropic的Claude Code，把任务周期从几分钟直接拉长到好几天。两家大厂出于商业壁垒绝不可能主动互通，但这种跨厂商的混合编排，反倒成了开发者手里最硬的护城河。",
-      "reads": "2.7万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "开发者探讨了一种将OpenAI与Anthropic两大竞品工具深度杂交的执行方案",
-        "方案核心是用OpenAI的Codex作为调度外壳，反向驱动Anthropic的Claude Code执行任务",
-        "这种架构将Claude的高阶代码推理与Codex的长程任务持久力结合，让AI执行周期突破至数天量级",
-        "传统单模型会话普遍局限在几分钟或几小时内，极易受上下文与长程执行中断的约束"
-      ],
-      "quote": {
-        "who": "Dan McAteer",
-        "role": "",
-        "said": "@jonathanroomer 看着不错。 绝对得继续搞下去。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 2.7万 · 产品与生态] 谁说大厂生态不能通？开发者用Codex驱动Claude Code，连跑几天不掉线"
-    },
-    {
-      "title": "硬刚GB300！Google自研TPUv7首测曝光，狂飙月之暗面K3",
-      "summary": "推理成本战火烧到最高端！Inferact与Google联合提交了自研芯片TPUv7首个针对月之暗面Kimi K3 2.8T巨型模型的基准测试。在超高交互负载场景下，凭借专属megakernel优化，TPUv7单位TCO不仅正面迎战英伟达GB200 NVL72、B300与AMD MI355，按内部成本算甚至已能叫板英伟达最顶级的GB300 NVL72。更关键的是，这意味着TPU平…",
-      "reads": "2.5万",
-      "ago": "2 小时前",
+      "title": "真金白银直接发！马斯克披露全民持股细节：不建基金，股票直接到账",
+      "summary": "针对Anthropic设立公益基金并注资5%股权的举措，马斯克再次公开叫板，公布了直接向大众分发股权的具体落地细节。他计划借助《One Big Beautiful Bill Act》设立的Invest America账户，将AI公司股份直接打入全体美国公民账户，跳过中间信托环节。此前OpenAI也曾提议设立公共财富基金进行全民分红，Altman还多次提议向政府免费赠送5%股权…",
+      "reads": "3.0万",
+      "ago": "3 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Inferact与Google联合提交首个在自研芯片TPUv7上运行月之暗面Kimi K3 2.8T模型的基准测试数据。",
-        "在超高交互负载场景下，得益于针对外部定制的megakernel方案，TPUv7展现出强劲的单位TCO（总拥有成本）性能优势。",
-        "该成绩在性能性价比上正面叫板英伟达GB200 NVL72、B300以及AMD MI355。",
-        "行业分析指出，若按Google内部成本核算，TPUv7目前初步提交的数据甚至已能抗衡英伟达顶配的GB300 NVL72。"
+        "马斯克披露股权分发细节：计划利用《One Big Beautiful Bill Act》法案设立的Invest America账户，直接把股份发给全体美国公…",
+        "正面硬刚Anthropic模式：Anthropic选择向独立的公共利益基金注入5%股权，马斯克则坚持跳过信托基金，主张让公众直接享有个人持股。",
+        "OpenAI此前早有全民分红提案：今年4月在《智能时代的产业政策》报告中，OpenAI曾提议设立公共财富基金（Public Wealth Fund），通过分…",
+        "Altman曾多次提议免费送股：业内人士透露，Sam Altman曾多次主动提议向美国政府免费提供OpenAI 5%的股份，寻求国家层面的利益绑定。"
       ],
       "quote": {
-        "who": "SemiAnalysis",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "@inferact 向 Inferact 的 Jeff Ma、George Novack 以及 Inferact 和 Google 团队的其他成员致敬，这次提交太棒了！这个模型和其他模型还会有更多提交！敬请期待！🔥 (5/6)"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 2.5万 · 资本与算力] 硬刚GB300！Google自研TPUv7首测曝光，狂飙月之暗面K3"
-    },
-    {
-      "title": "被砍的GPT-6.1 Astra成心头之痛！OpenAI被曝全面落后，Dots打不过Grok Bot",
-      "summary": "业内观察者近日直言，OpenAI目前在整体大模型竞争中已略显被动，内部极为想念此前被取消的GPT-6.1 Astra。在个人助手战场上，OpenAI旗下Dots在对抗xAI的Grok Bot时显出明显颓势，不仅功能不完整且充斥大量Bug。外界呼吁OpenAI必须尽快调整研发重心，集中精力打磨助手的稳定度与体验。",
-      "reads": "1.5万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "业内观察者指出，尽管行业格局反复轮转，但OpenAI眼下在竞争节奏上确实已略显落后",
-        "爆料称OpenAI极度想念被砍掉的旗舰项目GPT-6.1 Astra，模型梯队的缺失直接影响了当前态势",
-        "在个人AI助手赛道，OpenAI推出的Dots明显落后于竞争对手xAI的Grok Bot",
-        "实测反馈指出Dots目前体验欠佳，不仅功能尚未成型，还存在大量Bug，主动性与稳定性严重不足"
-      ],
-      "quote": {
-        "who": "Kol Tregaskes",
-        "role": "",
-        "said": "@alex_marples 噢完全同意。现在太逼真了。不可思议。"
+        "said": "来自 Elon 的更多细节。这些股份将通过《One Big Beautiful Bill Act》设立的 Invest America 账户发放给美国公民。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 1.5万 · 产品与生态] 被砍的GPT-6.1 Astra成心头之痛！OpenAI被曝全面落后，Dots打不过Grok Bot"
+      "line": "[榜第14位 · 3.0万 · 资本与算力] 真金白银直接发！马斯克披露全民持股细节：不建基金，股票直接到账"
     },
     {
-      "title": "手机也能养AI打工人！爆火Hermes确认适配安卓：绝非阉割版，功能多得多",
-      "summary": "开源智能体顶流 Hermes Agent 正式吹响进军移动端的号角。针对社区极度关心的移动平台支持问题，Nous Research 核心成员 teknium 公开确认正在适配 Android 生态。面对开发者关于移动版是否只是简化版或阉割版的疑虑，teknium 明确否认并透露，Android 版不仅没有缩水，功能反而丰富得多。从云端、命令行和桌面走入随身口袋设备，全功能开源智…",
-      "reads": "1.2万",
-      "ago": "1 小时前",
+      "title": "想改邮箱只能注销账号！Claude编码能力封神，基础功能却把用户整懵了",
+      "summary": "Anthropic 刚在报告中大秀模型编码能力的巨大飞跃，转头却被知名学者挑出尴尬软肋：用户在 Claude 里至今无法修改绑定邮箱。官方客服给出的唯一解决途径居然是直接注销账号，引发全网对基础产品体验滞后的广泛吐槽。随后相关研究员紧急表态，称限制背后绝非漏做按钮那么简单，并已承诺介入调查。",
+      "reads": "1.7万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "官方敲定移动端路线：Nous Research 核心成员 teknium 转发并确认社区讨论，正式表态 Hermes Agent 会支持 Android 平…",
-        "否认阉割版传闻：针对社区开发者对移动端算力和功能简化的担忧，teknium 明确回应「不，功能要多得多（far more functionality）」。",
-        "生态版图再扩张：Hermes Agent 原本主打本地环境与服务器智能体工作流，适配 Android 标志着其正式将触角延伸至移动操作系统。",
-        "边缘落地迈出实质一步：移动端适配意味着用户未来有望直接在便携硬件上部署并调度开源智能体，无需强依赖桌面端或云端工作站。"
+        "知名学者公开指出，Anthropic 近期报告展示其编码能力实现巨大飞跃，但 Claude 基础账号体系却严重滞后。",
+        "目前 Claude 平台内仍完全不支持用户直接修改已绑定的邮箱地址，给企业和日常换绑用户带来极大不便。",
+        "官方当前给出的唯一改邮箱建议竟然是直接注销整个账号，意味着历史会话与订阅资产无法平滑迁移。",
+        "顶尖模型能力与原始网页交互之间的鲜明反差，在开发者社区引发了关于 AI 实验室产品化能力的讨论。"
       ],
       "quote": {
-        "who": "Teknium 🪽",
+        "who": "Felix Rieseberg",
         "role": "",
-        "said": "@torplzj 不，功能要多得多"
+        "said": "@emollick 我敢说这背后的原因绝对不止“我们忘了加按钮”这么简单，只是我还不清楚，我这就去查查！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 1.2万 · 产品与生态] 手机也能养AI打工人！爆火Hermes确认适配安卓：绝非阉割版，功能多得多"
+      "line": "[榜第15位 · 1.7万 · 产品与生态] 想改邮箱只能注销账号！Claude编码能力封神，基础功能却把用户整懵了"
     },
     {
-      "title": "从69%暴跌到20%！大模型智商溢价崩了，OpenAI和Anthropic深陷边际陷阱",
-      "summary": "据 The Information 披露，OpenAI 与 Anthropic 等头部 AI 实验室正遭遇残酷的边际效应递减：模型每领先 10 点智商优势，如今仅能吸引 20% 的额外开发者流量，远低于 2025 年底近 69% 的转化水平。这意味着耗费巨资刷榜带来的商业溢价正在断崖式缩水。学者分析指出，在两大巨头的内部统计中，开发者消耗的 Token 占总量的比例长期本就会不…",
-      "reads": "5.4万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
+      "title": "OpenAI甩出370个数学证明！名校学者曝研究生全慌了：课题被AI秒解",
+      "summary": "在 OpenAI 集中发布 370 个数学证明后，UT Austin 计算机科学家 Scott Aaronson 透露，数学系研究生群体已陷入职业恐慌，平时用来打磨能力的训练课题全被 AI 攻破，让年轻人彻底失去了学术坐标。与此同时，这种智力替代冲击正无差别蔓延至产业界，投资人警告称底层智能已被 OpenAI 与 Anthropic 掌控，二级市场上几乎没有任何上市公司能避开其…",
+      "reads": "2.6万",
+      "ago": "4 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "OpenAI 与 Anthropic 等头部实验室内部数据显示，模型越强已不再意味着带来成比例的开发者用量增长。",
-        "性能转化率断崖下跌：当前模型每具备 10 点的智商领先优势，仅能多带来 20% 的开发者流量增幅。",
-        "对比历史差距悬殊：在 2025 年底，同样是 10 点的智商优势还能轻松撬动近 69% 的流量暴增，技术护城河的商业变现效率大幅萎缩。",
-        "开发者在总用量中边缘化：内部统计显示，开发者所消耗的 Token 占全网总量的比例长期来看只会越来越小。"
+        "顶尖学者揭露学术焦虑：UT Austin 计算机科学家 Scott Aaronson 透露，在 OpenAI 发布 370 个数学证明后，研究生群体普遍陷入…",
+        "学术进阶路径被破坏：年轻学者以往赖以打磨科研功底的基础课题被大模型批量解决，导致年轻学者在规划学术生涯时失去坐标。",
+        "二级市场面临全面威胁：投资人 Chamath 直言，OpenAI 和 Anthropic 输出的智能是所有商业的底层基础，股票市场上几乎没有任何上市公司能避…",
+        "算力新云巨头遭遇金融压力：CoreWeave 等新兴算力厂商的信用违约互换（CDS）利差出现暴涨，资金面风险陡增。"
       ],
       "quote": {
-        "who": "Ethan Mollick",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "@marcelmarais 确实，现在人人都能写代码，但我依然觉得在当下的 AI 世界里，专注写代码的人依然有其独特的不可替代性。"
+        "said": "几乎没有哪家上市公司能避开 OpenAI 和 Anthropic 的冲击。他们的产品是智能，而智能是所有业务的底层基础。 “无论你在股市里拿着什么资产，无论拿着什么，OpenAI 和 Anthropic 都是威胁。几乎就像"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 5.4万 · 产品与生态] 从69%暴跌到20%！大模型智商溢价崩了，OpenAI和Anthropic深陷边际陷阱"
+      "line": "[榜第16位 · 2.6万 · 组织与人事] OpenAI甩出370个数学证明！名校学者曝研究生全慌了：课题被AI秒解"
     }
   ],
   "board_count": 16,
