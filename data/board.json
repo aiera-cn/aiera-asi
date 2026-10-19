@@ -3,22 +3,72 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-19 23:31:40 +0800",
-  "today": "10/19",
+  "fetched_at": "2026-10-20 05:00:12 +0800",
+  "today": "10/20",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "AI砸饭碗真给赔钱！Anthropic划拨千亿股权建基金，马斯克公开叫板：股票直接分给大众",
-      "summary": "Anthropic 宣布设立全资拥有的公益基金 Anthropic Public Benefit Fund，初始注入 5% 股权，且估值在基准线上每增长 50% 董事会即可追加 2 个百分点，未来综合承诺规模最高或达 20%。以其预期估值计算，该基金规模未来可能触及 1000 亿美元并超越盖茨基金会，核心用途包括探索向传统非营利组织捐赠及直接向受 AI 冲击失业的特定群体发放救…",
-      "reads": "1100万",
-      "ago": "44 分钟前",
-      "category": "组织与人事",
+      "title": "马斯克亲自下场定调！Grok Bot进阶虚拟员工：传统无手AI真回不去了",
+      "summary": "告别只能陪聊的传统对话框，马斯克与xAI正把智能体推向具备真实代工能力的虚拟员工。知名科技学者发文感叹，用透具备执行力的Grok Bot后根本无法回到「没有虚拟双手的纯脑子」对话框，甚至已部署Bot通过API在Kalshi上完成微量套利并净赚37美分。马斯克随后亲自转发定调：Grok Bot搞不好真会成为你最喜欢的员工。",
+      "reads": "125万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Anthropic 正式设立全资公益实体 Anthropic Public Benefit Fund，初始注入公司 5% 股份，由董事会全权把控支出决策。",
-        "触发式增资机制：在设定基准线之上，Anthropic 估值每增长 50%，董事会可酌情再向该基金追加 2 个百分点的股份。",
-        "叠加联合创始人此前承诺捐出的 80% 股权及员工配资计划，Anthropic 未来用于公共利益的股权综合比例预计将达到 20% 左右。",
-        "基金潜在规模有望突破 1000 亿美元，超越盖茨基金会，官方明确列出花钱方向之一是直接定向救济被 AI 替代的打工人。"
+        "马斯克公开转发并定性：Grok Bot可能会成为用户最喜欢的员工，正式将xAI智能体定位拔高至虚拟员工级别。",
+        "资深科技博主直言「用过就回不去」，传统AI聊天窗口充其量只是一个没有虚拟双手的脑子，干不了任何实事。",
+        "落地实测跑通：有开发者已成功部署Grok Bot调用API，在预测市场Kalshi上执行永续微量套利，目前已实现稳定盈利约37美分。",
+        "从动嘴到跑腿：Grok Bot不再局限于文本输出，正加速演进为可直接接管复杂外部工具的任务中枢与自动化代理。"
+      ],
+      "quote": {
+        "who": "Brian Roemmele",
+        "role": "",
+        "said": "@Spectromachina @elonmusk @bot 我有个 Grok Bot 在 Kalshi 上做永续合约的超低频套利，效果极好。api 很棒，目前赚了差不多 37 美分。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 125万 · 产品与生态] 马斯克亲自下场定调！Grok Bot进阶虚拟员工：传统无手AI真回不去了"
+    },
+    {
+      "title": "合上电脑也能自动写代码！OpenAI亮出Codex云端环境，全托管跑任务",
+      "summary": "OpenAI 开发者账号最新展示了智能体与日常工作流协同的完整演示，核心带来了 Codex 云端环境。该环境允许开发者在合上笔记本电脑后，智能体任务依然在后台持续运行，彻底解决了长耗时编程任务的挂机痛点。演示中还展示了 dot 协作管理食谱、ChatGPT Space 记录筹备进度，以及全双工语音模型 GPT-Live-1 实时手把手教做拉面。",
+      "reads": "21万",
+      "ago": "58 分钟前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 官方演示重点介绍了 Codex 云端环境（Codex cloud environments），推动智能体编程走向全托管化。",
+        "开发者在合上笔记本电脑后，长耗时、全自动的代码编写与执行任务依然能在云端后台自主跑完。",
+        "协同演示中，dot 负责帮团队梳理食谱，并将备菜与准备工作完整同步保存在 ChatGPT Space 中。",
+        "全双工实时语音模型 GPT-Live-1 在演示中登场，全程以自然的语音交互一步步指导团队成员制作拉面。"
+      ],
+      "quote": {
+        "who": "J A Z I I",
+        "role": "",
+        "said": "@thsottiaux 刚才那是啥？？ 到底有没有一点点提升？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 21万 · 产品与生态] 合上电脑也能自动写代码！OpenAI亮出Codex云端环境，全托管跑任务"
+    },
+    {
+      "title": "拿5%股权直接分钱！Anthropic启动公益基金，马斯克：全民高收入时代来了",
+      "summary": "Anthropic 计划在获得股东批准后，将其 5% 的股份注入全新的 Anthropic Public Benefit Fund，且公司估值每增长 50%，董事会还可酌情再追加 2 个百分点的股份。官方明确表示，该基金除了常规慈善捐赠，还在探索跳过中介直接向特定人群分发资金。马斯克对此公开确认称，这标志着全民高收入（UHI）时代正式拉开序幕。",
+      "reads": "181万",
+      "ago": "6 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "首期注资 5% 股权：Anthropic 计划在股东批准后，将公司 5% 股份注入新设立的完全公益实体 Anthropic Public Benefit F…",
+        "估值绑定追加机制：在既定基准之上，Anthropic 估值每增长 50%，董事会可酌情决定再向该基金追加 2 个百分点的股权。",
+        "探索直接向人群「发钱」：官方表示该基金具备更高的灵活性与规模，不仅会大额捐赠传统非营利机构，更在探索直接向特定人群分发资金。",
+        "马斯克确认全民高收入到来：马斯克公开表态，称这正是全民高收入（UHI）的开端，并调侃在极度富足的黄金时代到来前，享受这最后几个月。"
       ],
       "quote": {
         "who": "Chubby♨️",
@@ -29,14 +79,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 1100万 · 组织与人事] AI砸饭碗真给赔钱！Anthropic划拨千亿股权建基金，马斯克公开叫板：股票直接分给大众"
+      "rank": 3,
+      "line": "[榜第3位 · 181万 · 资本与算力] 拿5%股权直接分钱！Anthropic启动公益基金，马斯克：全民高收入时代来了"
+    },
+    {
+      "title": "彻底不装了！苹果官宣下周发布MacBook Pro，手指直接在屏幕上画画",
+      "summary": "苹果下周要推翻自己坚持多年的硬件执念了！官方高管与知名记者共同确认，新一代 MacBook Pro 发布活动将于下周登场，时间基本锁定在 10 月 28 日前后。在官方放出的预热动画里，一根手指正直接在屏幕上触控涂画，明示苹果极有可能破天荒为专业级 Mac 笔记本引入触控屏交互。",
+      "reads": "27万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "苹果营销高管 Greg Joswiak 率先发布带有「pro and tell」字样的预热视频，正式官宣下周将举行新品活动。",
+        "知名记者 Mark Gurman 确认下周活动主角正是新款 MacBook Pro，时间基本锁定在 10 月 28 日前后。",
+        "预热动画中最关键的细节，是画面明显展示了一根手指在屏幕上进行触控与涂画操作。",
+        "外界普遍解读认为，这暗示新款 MacBook Pro 极有可能打破多年常规，正式引入触控屏幕支持。"
+      ],
+      "quote": {
+        "who": "Mark Gurman",
+        "role": "",
+        "said": "@TechnoRevived 10 月 28 日算 10 月 27 日左右吗？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 27万 · 产品与生态] 彻底不装了！苹果官宣下周发布MacBook Pro，手指直接在屏幕上画画"
+    },
+    {
+      "title": "Anthropic突围战打响！Fable 5.5携新Opus压轴，OpenAI与谷歌全线备战",
+      "summary": "AI头部大厂的新一轮旗舰对抗正全面升级。据知情人士透露，Anthropic正筹备发布具备系统性理解能力的新一代模型，不仅修Bug时能举一反三揪出一整类隐患，社区还推测该模型极大概率为Fable 5.5，且不排除有新一代Opus 5.5/5.6同步压轴登场。面对紧逼节奏，OpenAI正计划在未来数周推出能力更强的Terra模型，Google也在全力打造Argon的升级版Gemin…",
+      "reads": "17万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic正筹备发布全新模型，代码任务理解能力跃升，被要求修一个Bug时能主动排查背后更广泛的一整类问题并询问用户是否一并修复",
+        "社区推测此次亮相的极大概率是Fable 5.5，同时传闻称还将有新一代Opus 5.5/5.6压轴同步亮相",
+        "面对Anthropic的步步紧逼，OpenAI正准备在未来几周内发布能力更强的全新Terra模型",
+        "Google同样没有停步，正在开发Argon的升级版Gemini 4 Carbon，继续强化其在视觉任务上的优势"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "除了 Anthropic 的发布之外： - 据报道 Google 正在开发 Gemini 4 Carbon，作为 Argon 的升级版；一些开发者表示，Gemini 在视觉任务上依然格外强悍。 - 据悉 OpenAI 正准备在未来几周内发布能力更强的 Terra 模型，"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 17万 · 模型与能力] Anthropic突围战打响！Fable 5.5携新Opus压轴，OpenAI与谷歌全线备战"
+    },
+    {
+      "title": "话只说一半也能懂！Anthropic神秘新模型本月空降，硬刚谷歌OpenAI新旗舰",
+      "summary": "Anthropic 计划在本月突袭发布一款全新未命名模型，正面迎战谷歌的 Gemini 4 Carbon 以及 OpenAI 的新 Terra 模型。该模型主打极强的「直觉」与深层意图洞察，哪怕用户提示词说一半或指令模糊也能精准意会，甚至在面对股票投资咨询时能自创算法进行预测。目前社区已有多位用户抓包 Opus 5.5 请求疑似被静默路由至该神秘模型，且 Fable 5.5 的…",
+      "reads": "7.8万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "突击发布定档本月：Anthropic 计划在当月上线全新未命名大模型，官方目前暂未对外公开置评。",
+        "三巨头旗舰正面对撞：该模型将同期迎战谷歌新一代 Gemini 4 Carbon 以及 OpenAI 的全新 Terra 模型。",
+        "话说一半就能秒懂：新模型具备极强的推理直觉与意图洞察能力，在指令模糊或信息残缺的情况下，仍能精准抓住人类深层目标。",
+        "拒绝泛化废话套话：实测显示该模型擅长打破常规思考，例如被询问股票投资时能直接自创预测算法，而非堆砌泛化套话。"
+      ],
+      "quote": {
+        "who": "宝玉",
+        "role": "",
+        "said": "The Information：Anthropic 在准备一款新模型，话说一半它也能猜到你要什么 科技媒体 The Information 10 月 19 日在 AI Agenda 通讯里报道，Anthropic 正在准备一款新模型，推理能力和“直觉”比目前对外提供的模型都强。消息来自一位用过这款模型的人，Anthropic 没有公开回应。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 7.8万 · 模型与能力] 话只说一半也能懂！Anthropic神秘新模型本月空降，硬刚谷歌OpenAI新旗舰"
     },
     {
       "title": "马斯克亲自下场拉客：今天就雇Grok Bot！好用到像在作弊",
       "summary": "马斯克亲自在社交平台下场带货，发文呼吁大家「今天就雇用 Grok @Bot，你绝不会后悔」。有用户深度使用后直呼其成了日常不可或缺的核心工具，「好用到甚至感觉像在作弊」。在原生语音外呼等能力加持下，xAI 正加速把 Grok 从简单的聊天对话框推向能实际接管工作流的个人智能体。",
-      "reads": "260万",
-      "ago": "6 小时前",
+      "reads": "297万",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -54,14 +179,114 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 260万 · 产品与生态] 马斯克亲自下场拉客：今天就雇Grok Bot！好用到像在作弊"
+      "rank": 7,
+      "line": "[榜第7位 · 297万 · 产品与生态] 马斯克亲自下场拉客：今天就雇Grok Bot！好用到像在作弊"
+    },
+    {
+      "title": "关停才几个月就要复活！OpenAI反悔砍掉Sora，副业全要捡回来",
+      "summary": "此前高调收缩烧钱战线的OpenAI，战略正在出现大反转。据爆料，OpenAI正寻求通过对外合作协议复活此前关停的Sora，同时重启在机器人、创作者工具和个人设备领域的投入。不过社区爆料澄清，Sora并不会直接向普通大众重新开放独立App，目前是一家面向电影制作人的AI视频初创公司正与OpenAI洽谈接口与权限。这一战略调头迅速在圈内炸锅，不少从业者怒批OpenAI不该分心刷「支…",
+      "reads": "7.2万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI此前收缩高成本副业的战略被曝出现逆转，公司正探索通过外部协议复活视频生成模型Sora。",
+        "除Sora外，OpenAI还在同步扩大对机器人技术、创作者工具以及个人硬件设备等副线领域的资源投入。",
+        "社区爆料者澄清，本次复活并不意味着Sora App会向全体公众重新回归，普通用户短期内大概率无缘直接使用。",
+        "目前的核心进展是一家专注于为电影制作人提供服务的AI视频初创公司，正在与OpenAI洽谈获取Sora的相关接口与权限。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "@dzafasg @fabulatenebris 真是个捣蛋的回复，朋友。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 7.2万 · 产品与生态] 关停才几个月就要复活！OpenAI反悔砍掉Sora，副业全要捡回来"
+    },
+    {
+      "title": "离职几个月竟是休假？前安全大牛重返OpenAI，激进狂飙派遇到对手了",
+      "summary": "离开数月的前 OpenAI 安全核心学者 Aleksander Madry 正式宣布重返公司。OpenAI 高管 Jakub 透露，随着模型能力飙升，自己正专注于技术进展节奏及其影响等战略研判，因此力邀其回归共同推进。Aleksander 坦言此前的离开更像是一次休假，当前行业已踏入全新阶段；业内普遍认为，这代表 OpenAI 内部重视安全与把控节奏的务实派正在重新集结。",
+      "reads": "5.9万",
+      "ago": "1 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 高管 Jakub 公开宣布，已力邀离职数月的研究员 Aleksander Madry 重返 OpenAI。",
+        "Jakub 透露，当前随着 AI 能力不断变强，自己正专注于技术的进展节奏、影响以及如何指导公司与全行业的战略，非常看重 Aleksander 的判断力。",
+        "Aleksander 发文回应，几个月前自己离开时以为是彻底离任，现在看来更像是一次休假。",
+        "Aleksander 坦言此前离开时认为重心应是让 AI 对人类更有用，但现在整个领域已经跨入了技术进展的全新阶段。"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "@merettm 仪式成功 👀👀👀"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 5.9万 · 组织与人事] 离职几个月竟是休假？前安全大牛重返OpenAI，激进狂飙派遇到对手了"
+    },
+    {
+      "title": "对标马斯克Colossus！Meta吉瓦级超算曝光：数十万GPU练出新基座",
+      "summary": "Meta 官方首度公开其位于俄亥俄州新奥尔巴尼的吉瓦级超算集群「Prometheus」（普罗米修斯）。该集群部署了数十万块 GPU，是 Meta 旗下顶级 AI 算力基建，目前已顺利完成包括 Muse Wonder 在内的 Muse 全系列基座模型训练。官方特别指出，针对数十万卡规模下「单台主机性能掉队拖垮全场」的工程死穴，团队对硬件与系统底层进行了深度协同设计，全力确保海量算…",
+      "reads": "7.3万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Meta 官方公开位于俄亥俄州新奥尔巴尼的吉瓦级（gigawatt-scale）超算集群 Prometheus。",
+        "Prometheus 集成了数十万块 GPU，代表了 Meta 目前最核心的顶级 AI 算力基础设施。",
+        "Meta 宣布已在该集群上完成了 Muse 基座模型系列的训练，其中包括 Muse Wonder。",
+        "官方直击超大规模训练痛点：在拥有数十万块 GPU 的超算集群中，只要有一台主机性能掉队，就会拖慢整个训练周期。"
+      ],
+      "quote": {
+        "who": "AI at Meta",
+        "role": "",
+        "said": "我们在位于俄亥俄州新奥尔巴尼的吉瓦级超算集群 Prometheus 上，完成了包括 Muse Wonder 在内的 Muse 基座模型的训练。 在这个拥有数十万块 GPU 的超算集群中，哪怕一台主机性能掉队，都可能拖慢整个训练任务。我们对 Prometheus 进行了精心设计"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 7.3万 · 资本与算力] 对标马斯克Colossus！Meta吉瓦级超算曝光：数十万GPU练出新基座"
+    },
+    {
+      "title": "马斯克公开叫板Anthropic：股权别捐基金会了，直接分给公众！「我也要这么干」",
+      "summary": "Anthropic 承诺将至少 5% 股权捐给公益基金会，原本想做善事，结果直接被马斯克隔空砸了场子。一贯痛斥传统慈善基金会存在浪费和管理层暴利的马斯克，不仅直接向 Anthropic 叫板「不如直接把股份分给大众」，随后更放话表态「这就是我要做的事」。顶尖 AI 巨头关于未来超级财富究竟该怎么分配的路线对决，彻底被摆上了台面。",
+      "reads": "372万",
+      "ago": "14 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "捐赠承诺：Anthropic 宣布承诺将其至少 5% 的股权捐赠给公益基金会，旨在服务公众利益。",
+        "当面叫板：马斯克公开回应 Anthropic，建议其别通过基金会中转，有本事直接把股份分给普通公众。",
+        "亲自跟进：马斯克随后进一步明确表态「这就是我要做的事」，宣称自己也将践行直接向公众分配股权的做法。",
+        "痛批基金会：支持马斯克观点的声音指出，传统慈善基金会往往充斥着欺诈、资源浪费和管理层过高薪酬，沦为控制工具；而直接发股票能让公众拥有真正的自主决定权。"
+      ],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "😆Dario格局瞬间变小了！Elon一点评立见高下了！ Dario：我将 5% 股份丢进我们自己控的“公益基金” 但 @elonmusk 刚说：他将会直接把股份直接发给公众 一个是“相信我们会好好花”，一个是“直接拿走，公众自己决定”。 谁才是真正的 public benefit？ #Anthropic #ElonMusk #xAI #AI #PublicBenefit"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 372万 · 资本与算力] 马斯克公开叫板Anthropic：股权别捐基金会了，直接分给公众！「我也要这么干」"
     },
     {
       "title": "保修期一过就变砖！iPhone 17突发红屏死机，修主板竟要480美元",
       "summary": "新买不久的手机刚过保修期就彻底趴窝，换谁都得破防。一位 iPhone 17 用户在使用过程中突发设备重启，屏幕先是被大片红色故障纹理覆盖，强制重启后更是直接陷入蓝屏彻底卡死。更糟心的是，保修期刚好卡在出事前失效，苹果授权服务商检测后判定逻辑主板报废，直接开出了约 480 美元的高昂维修单。",
-      "reads": "63万",
-      "ago": "3 小时前",
+      "reads": "65万",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,14 +304,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 63万 · 产品与生态] 保修期一过就变砖！iPhone 17突发红屏死机，修主板竟要480美元"
+      "rank": 12,
+      "line": "[榜第12位 · 65万 · 产品与生态] 保修期一过就变砖！iPhone 17突发红屏死机，修主板竟要480美元"
+    },
+    {
+      "title": "话没说全它全懂！Anthropic新模型内测曝光：指令再烂也能猜透真实意图",
+      "summary": "Anthropic正在筹备一款全新大模型，极大概率是新一代旗舰Fable 5.5。该模型专攻深层意图推断，即便用户的指令极度模糊，也能精准猜透真实目标，同时在推理和直觉表现上大幅进化。据开发者爆料，该模型定价预计基本与现役Fable 5.1持平；而另一边，谷歌被曝针对Argon升级的Gemini 4 Carbon也将于本月上线，旗舰大战再度升温。",
+      "reads": "3.0万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "意图推断能力跃升：新模型主打极佳的理解直觉，即使用户给出的提示词非常含糊、缺乏细节，也能准确推测出真实意图并给出创造性解决方案。",
+        "型号基本锁定Fable 5.5：据使用过该模型的开发者透露，这款筹备中的秘密武器极大概率将作为Fable 5.5发布。",
+        "加量不加价：爆料显示，Fable 5.5的定价策略倾向于与现役的Fable 5.1保持一致，性能大幅拉升但使用成本不涨。",
+        "电影级复杂场景实测：有测试者展示了其构建《归途末班车》的成片效果，精准还原灯笼街道、雨水反光路面与穿城列车，视觉与逻辑质感惊艳。"
+      ],
+      "quote": {
+        "who": "Pankaj Kumar",
+        "role": "",
+        "said": "@Crypt0Bizzi 所有人都在等。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 3.0万 · 模型与能力] 话没说全它全懂！Anthropic新模型内测曝光：指令再烂也能猜透真实意图"
+    },
+    {
+      "title": "一夜杀进全球前三！Meta新模型空降代码榜第6，狂甩自家前代75分",
+      "summary": "Meta 在代码评测竞技场打出一场漂亮的翻身仗。基准机构 Code Arena 最新公布的 WebDev 榜单中，Meta 旗下模型 Muse Wonder Full (Max) 首秀拿下 1726 分斩获总榜第 6，一举将 Meta 送进全球前 3 强 AI 实验室。这一成绩不仅比排在第 17 名的自家模型 Muse Wonder (Max) 暴涨 75 分、狂拉 11 个身…",
+      "reads": "8.0万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Code Arena: WebDev 评测基准发布最新榜单，Meta 旗下模型 Muse Wonder Full (Max) 首秀以 1726 分拿下总榜第…",
+        "凭借该模型的强势表现，Meta 直接杀入 Code Arena: WebDev 排名前 3 位的顶级实验室行列。",
+        "对比排在第 17 位的自家 Muse Wonder (Max)（1651 分），Muse Wonder Full (Max) 分数提升了 75 分，排名大幅…",
+        "相较另一款自家模型 Muse Spark 1.3 (Max)，新模型同样高出 67 分，榜单排名领先 8 个位次。"
+      ],
+      "quote": {
+        "who": "Alexandr Wang",
+        "role": "",
+        "said": "Muse Wonder Full 登上 WebDev 竞技场 成绩还行，但显然我们还有很大的提升空间！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 8.0万 · 模型与能力] 一夜杀进全球前三！Meta新模型空降代码榜第6，狂甩自家前代75分"
     },
     {
       "title": "提示词写歪不用推倒重来了！Codex桌面端支持「时间穿越」，一键回溯改历史",
       "summary": "OpenAI旗下编程智能体Codex桌面端正式上线历史消息编辑功能，被团队负责人称为「时间穿越」。以往长程Agent任务常常因为最开头一句话写偏而全盘报废，现在开发者可以直接回到指定节点改写提示词并无缝续跑。OpenAI团队透露，底层机制会直接丢弃该节点之后的所有输出与工具调用，彻底解决长任务上下文混淆与试错成本过高的痛点。",
       "reads": "115万",
-      "ago": "7 小时前",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -104,308 +379,33 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 115万 · 产品与生态] 提示词写歪不用推倒重来了！Codex桌面端支持「时间穿越」，一键回溯改历史"
+      "rank": 15,
+      "line": "[榜第15位 · 115万 · 产品与生态] 提示词写歪不用推倒重来了！Codex桌面端支持「时间穿越」，一键回溯改历史"
     },
     {
-      "title": "让Claude写个APP，反手抓出Mac挖矿木马！还幽默澄清：真不是我装的",
-      "summary": "有开发者在用 Claude 构建温度监测应用时，遇到了令人忍俊不禁的安全意外：Claude 在检查系统环境时敏锐揪出潜藏在 Mac 里的挖矿木马，还特意幽默自白「这不是我放进去的」。随着 AI 编程工具深度接入本地系统，大模型意外展现出了充当「安全哨兵」的潜力。不少网友也纷纷晒出类似操作，甚至有人用 Claude 成功清理了 Google Chromecast 电视棒上的预装垃…",
-      "reads": "50万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "意外抓包木马：有开发者使用 Claude 协助开发一款温度监测应用，Claude 在排查配置本地系统环境时，敏锐检测到该用户的 Mac 正被植入并运行着隐蔽…",
-        "幽默自证清白：向开发者报告异常进程时，Claude 特别幽默地补了一句澄清，特别提示称该挖矿程序「不是我放进去的」，逗乐了全网开发者。",
-        "兼职安全哨兵：该案例展现出具备终端交互能力的 AI 编程工具，在执行日常开发任务之余，能够穿透系统底层，意外充当起排查恶意软件和系统异常的安全审计员。",
-        "清理电视盒子全家桶：社区开发者随后跟进分享了类似操作，有人通过 Claude 的命令行交互能力，成功移除了 Google Chromecast 电视设备上的…"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "免费订阅 获取我整理的每日最新 AI 动态通讯 :)"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 50万 · 模型与能力] 让Claude写个APP，反手抓出Mac挖矿木马！还幽默澄清：真不是我装的"
-    },
-    {
-      "title": "B200排队18个月、T4绑三年！马斯克扎心自曝：连SpaceX都租不到算力",
-      "summary": "马斯克在社交平台转发了一段调侃当前租算力窘境的讽刺视频，并证实这正是 SpaceX 的真实遭遇。视频中顾客想租 H100 显示断货，预订 B200 要排队等 18 个月，A100 早被超大聊天机器人包圆，甚至连偏远地区的 T4 都要强制绑定三年长约。马斯克直言，SpaceX 为了给训练集群分流负载，尝试向 AWS、GCP 等各大云厂商租用推理算力时碰壁的场景，与视频里分毫不差。",
-      "reads": "141万",
-      "ago": "11 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "马斯克在 X 上转发了一段讽刺租用 AI 算力现状的短剧视频，引发全网强烈共鸣。",
-        "视频生动还原了租卡对话：顾客提出租用 8 张 H100 一周直接被告知断货，退而求其次问 B200，则被告知排队需等 18 个月。",
-        "视频还呈现了主流算力被锁死的现实：上一代 A100 全部被巨型聊天机器人预订一空，而 TPU 仅供云厂商内部使用。",
-        "店员最终端出的唯一可用方案，竟是某个冷门未知区域的英伟达 T4 老卡，并且强制要求绑定三年长约。"
-      ],
-      "quote": {
-        "who": "Elon Musk",
-        "role": "",
-        "said": "SpaceX 在试图从 AWS、GCP 或任何别家租用推理算力来分流我们训练集群的负载时，碰到的对话完全就是这个样子！！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 141万 · 资本与算力] B200排队18个月、T4绑三年！马斯克扎心自曝：连SpaceX都租不到算力"
-    },
-    {
-      "title": "马斯克被物理学打假！杨立昆怒喷Roadster飞天是骗术，老马回怼：朝你放了个屁",
-      "summary": "特斯拉全新Roadster的飞行演示引爆物理学界怒火。图灵奖得主杨立昆亲自下场算账，指出压缩空气比冲不到50秒且推力呈指数级衰减，车重一半全塞储气罐也撑不过5到10秒，直斥所谓飞天纯属公关噱头和江湖骗术。面对严肃的硬核力学拆解，马斯克直接祭出无厘头玩梗，公开嘲讽「朝你的方向放了个屁」。",
-      "reads": "432万",
-      "ago": "20 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "杨立昆公开拆解特斯拉Roadster的推进系统，指出压缩空气或氮气的比冲不到50秒，性能惨不忍睹。",
-        "即便整车重量的50%全部用来装载高压储气罐，在推重比大于1.0的情况下，有效推力也撑不过5到10秒。",
-        "杨立昆对比表示，20世纪70年代单人喷气背包使用的过氧化氢火箭比冲约为150秒，但续航同样不足60秒，始终无法投入实用。",
-        "若换用高性能火箭发动机，排气的高温会直接融化路面、灼伤行人，且一旦发生车祸极易爆炸，在工程和法规上完全行不通。"
-      ],
-      "quote": {
-        "who": "Yann LeCun",
-        "role": "",
-        "said": "@spiroskaye @elonmusk 我绝对不反对取得成就，也从未批评过真正的成就，包括 Elon 的成就。 我自己甚至就拥有两辆 Tesla。 我揭露的是那些营销噱头——表面上很酷，但根本不是他们所宣称的成就。 压缩空气推进器也许能给你"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 432万 · 产品与生态] 马斯克被物理学打假！杨立昆怒喷Roadster飞天是骗术，老马回怼：朝你放了个屁"
-    },
-    {
-      "title": "白嫖党狂喜但没完全喜！谷歌Gemini 4 Argon曝光，送的会员竟被区别对待",
-      "summary": "谷歌下一代模型Gemini 4 Argon在智能体环境Antigravity中悄然流出，预计最快周二或周三正式上线。但实测显示谷歌玩起了「看人下菜碟」：真金白银付费购买的Pro订阅与免费薅来的订阅被区别对待，Argon权限并未全面放开。不过开发者指出，即便是靠学生优惠或手机赠送拿到免费Google AI Pro的用户，依然有门路用上这款新模型。",
-      "reads": "1.5万",
+      "title": "Google Slides被重做了一遍！ChatGPT大更新：多人实时协作，一键把评论改进PPT",
+      "summary": "ChatGPT 正在加速向完整的办公生产力套件进化。官方最新发布 ChatGPT Slides 重磅升级，正式加入多人实时协同与评论功能。最亮眼的是，团队成员提完修改意见后，可以直接呼叫 ChatGPT 或个人 dot 自动把评论一键转化为幻灯片修改，排版也支持在页面上直接点击调整。",
+      "reads": "2.4万",
       "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "下一代模型代号流出：Gemini 4 Argon已经在谷歌智能体环境Antigravity中进行测试，消息称大概率在周二或周三正式露面。",
-        "订阅等级暗藏玄机：谷歌对Google AI Pro订阅进行了来源区分，Antigravity中的Argon访问权限未全员普惠，真金白银付费与免费赠送账号待遇…",
-        "白嫖大军仍有通道：通过学生优惠、Pixel手机捆绑或Jio运营商活动免费领取Google AI Pro的用户，经实测依然存在调用Gemini 4 Argon…",
-        "发布时间预期：爆料者透露根据目前掌握的情报，模型周二或周三上线的概率极大，但官方尚未完全敲定。"
+        "ChatGPT 官方宣布为 ChatGPT Slides 推出多人实时协同编辑与交互更新",
+        "支持多人实时在线协作：用户现可直接分享演示文稿、共同编辑并留下批注与评论",
+        "评论自动转修改：用户可直接指示 ChatGPT 或自己的 dot，让 AI 自动将反馈意见转化并落实为幻灯片更新",
+        "支持所见即所得直改：用户无需重新生成整套文稿，直接在幻灯片页面上点击即可修改内容与调整排版"
       ],
       "quote": {
-        "who": "Pankaj Kumar",
+        "who": "ChatGPT",
         "role": "",
-        "said": ""
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 1.5万 · 产品与生态] 白嫖党狂喜但没完全喜！谷歌Gemini 4 Argon曝光，送的会员竟被区别对待"
-    },
-    {
-      "title": "当年Google Duplex画的饼成真！马斯克力挺：Grok能打电话订餐厅了",
-      "summary": "当年 Google Duplex 惊艳全网却迟迟难落地的电话订座功能，如今真被搬进现实了。有开发者基于 Grok 打造了一款专注于拨打电话预订餐厅的智能体 Grok Bot，目前已完全免费向公众开放。马斯克亲自转发背书确认该能力，十几家线下餐厅实测显示，接听方完全察觉不出对面是机器人。",
-      "reads": "159万",
-      "ago": "18 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "免费开放使用：开发者打造的 Grok Bot 智能体已面向公众完全免费开放，专门执行电话代订餐厅任务。",
-        "拟真语音外呼：Grok Bot 能直接拨打真实电话并完成订座全流程，声音表现极为自然，接听方完全听不出对面是 AI。",
-        "实测战绩稳定：开发者已在十余家真实线下商户完成拨打测试，通话全程顺畅且订座成功率极高。",
-        "马斯克亲自背书：xAI 创始人马斯克亲自转发推文确认，证实 Grok Bot 现已支持打电话去餐馆订位。"
-      ],
-      "quote": {
-        "who": "Brian Roemmele",
-        "role": "",
-        "said": "@ChristianW39068 @elonmusk @bot 我拿十几家商家测过，表现不错。原生的 Grok 语音肯定最好，不过这应该已经在路线图上了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 159万 · 产品与生态] 当年Google Duplex画的饼成真！马斯克力挺：Grok能打电话订餐厅了"
-    },
-    {
-      "title": "黄仁勋冒死捍卫开源！怒斥闭源才安全纯属扯淡：未来整个工业全靠它",
-      "summary": "英伟达官方发布黄仁勋最新演讲，老黄极其罕见地公开下场高调力挺开源模型。面对全球愈演愈烈、将闭源等同于安全而将开源污名化的监管趋势，黄仁勋直言「事实恰恰相反」，甚至自嘲平时习惯像乌龟一样缩在壳里，这次不得不冒着风险探出头捍卫开源。他严正警告，未来整个工业体系都将建立在开源模型之上，绝不能容忍开源被繁苛监管扼杀至消亡。",
-      "reads": "2.0万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "官方罕见表态：英伟达官方发布黄仁勋最新演讲视频，算力霸主极高调地为全球开源模型（open models）站台背书。",
-        "怒斥闭源安全论：针对全球将闭源视为安全、将开源污名化为不安全的舆论与思潮，黄仁勋当场驳斥称「事实恰恰相反」。",
-        "自嘲乌龟探头：黄仁勋自嘲平时习惯像乌龟（turtle）一样把头缩进壳里，但开源存亡事关重大，自己必须承担风险伸出脖子捍卫开源。",
-        "警告监管扼杀：黄仁勋明确敲响警钟，全球绝不能容忍开源模型最终被监管手段活活扼杀至消亡（regulated out of existence）。"
-      ],
-      "quote": {
-        "who": "NVIDIA",
-        "role": "",
-        "said": "整个行业都将建立在开源模型之上。 开发者需要构建它们的自由。 @JensenHuang 谈为什么保持这些模型的开放和易用至关重要。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 2.0万 · 政策与安全] 黄仁勋冒死捍卫开源！怒斥闭源才安全纯属扯淡：未来整个工业全靠它"
-    },
-    {
-      "title": "连网页都不用开！马斯克安利Grok Bot：发条短信直接送货上门",
-      "summary": "马斯克亲自发文力挺 Grok @Bot，智能体在现实场景的代办落地引爆讨论。有用户实测仅给 Grok Bot 发了一条短信告知购物需求，Bot 便全自主完成下单并把实物商品配送到家，全程甚至没打开任何网页。与此同时，第三方开发者推出了集群管理面板 Mission Control，不仅能每日提供红黄绿执行状态汇报，还能实时监测并预测套餐额度消耗，帮助个人精细化运营 Bot 集群。",
-      "reads": "121万",
-      "ago": "18 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "马斯克在社交平台发文力推「Try Grok @Bot」，展现 xAI 旗下智能体在现实生活场景中的端到端执行能力。",
-        "有用户实测通过短信给 Grok Bot 发送购买需求，委托其订购真人秀《鲨鱼坦克》（Shark Tank）中的室内球 Ollyball Keepy Uppy…",
-        "整个代购流程全自主完成，实测用户全程未打开任何网页，商品最终直接被配送放置在家门口。",
-        "开发者发布了专为 Grok Bots 打造的集群运营仪表盘「Mission Control」，专为在车库依靠有限预算跑项目的用户提供精细化管理。"
-      ],
-      "quote": {
-        "who": "Brian Roemmele",
-        "role": "",
-        "said": "@fkadev @bot 加载 Grok Bot 试试。费了番功夫，但确实好用。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 121万 · 产品与生态] 连网页都不用开！马斯克安利Grok Bot：发条短信直接送货上门"
-    },
-    {
-      "title": "Claude要接管你的钱包了！直连银行流水，连夜生成收支大盘",
-      "summary": "写代码封神的 Claude，接下来准备帮用户管钱了。最新爆料显示，Anthropic 正在为 Claude 筹备上线名为「Personal Finance」的个人财务新功能。该功能通过集成金融数据服务商 Plaid 直连用户银行账户，能自动分析收支流水并生成可视化仪表盘。社区直接将其调侃为「Claude Monet」（Money 谐音），不过受底层金融接口限制，预计上线初期仅向…",
-      "reads": "10万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "爆料显示 Anthropic 正在筹备为 Claude 上线名为「Personal Finance」的个人财务管理功能，相关引导界面已被曝光。",
-        "该功能通过集成第三方金融基础设施 Plaid 运行，允许 Claude 安全连接并读取用户的多张银行卡及账户数据。",
-        "Claude 将能够深度分析用户的银行收支流水，并在聊天界面内直接构建各类可视化的收支仪表盘与财务分析图表。",
-        "社区开发者将其戏称为「Claude Monet」（莫奈与 Money 的双关梗），称其有望成为 Anthropic 官方的个人财务顾问（Personal F…"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "@AndrewCurran_ 他们早该用这个方案的。本来是个绝佳的营销机会。 Sonnet 5 这波玩法他们也错过了 💀"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 10万 · 产品与生态] Claude要接管你的钱包了！直连银行流水，连夜生成收支大盘"
-    },
-    {
-      "title": "当街被用户拦下求额度！OpenAI工程师顶不住了：正打算印实体卡沿街派发",
-      "summary": "近期 ChatGPT 额度刷新异常与用量极速消耗持续发酵，没想到焦虑情绪直接蔓延到了现实生活。OpenAI 工程师 Tibo 发文透露，已经有大量用户不再守着网络信息流，而是直接在街头拦住他当面求额度重置。为此 Tibo 开玩笑称自己正准备制作实体小卡片在街头分发，社区随即调侃这已然从使用 AI 变成了线下的魔幻「街头续命」。",
-      "reads": "90万",
-      "ago": "17 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "额度危机蔓延线下：受 ChatGPT 额度刷新异常与急速见底影响，已有用户脱离网络，直接在现实街头拦截 OpenAI 工程师当面请求重置额度。",
-        "工程师幽默回应：OpenAI 知名工程师 Tibo 在社交平台公开吐槽这一遭遇，并开玩笑表示自己打算做一批实体小卡片在街头沿路发放给用户。",
-        "社区调侃「街头续命」：开发者与用户纷纷借梗二创，调侃以往在网页端拼手速的赛博配额，如今竟演变成在线下当街拦人求「续命」的魔幻现实。",
-        "算力承压与焦虑外溢：该插曲直接折射出 OpenAI 当前在算力吃紧、额度异常消耗背景下，订阅用户与开发者群体普遍面临的极度焦虑。"
-      ],
-      "quote": {
-        "who": "SuSu_酥酥",
-        "role": "",
-        "said": "😂当ChatGPT的用量耗尽时，我决定直接在街上拦OpenAI工程师要Reset卡。 结果Tibo真的开始发小卡片了…… 谁懂啊，这已经不是在用AI，这是在街头求“续命”了。 #ChatGPT #OpenAI #ResetPlease #Tibo #AIMemes #用量耗尽 #街头Reset"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 90万 · 产品与生态] 当街被用户拦下求额度！OpenAI工程师顶不住了：正打算印实体卡沿街派发"
-    },
-    {
-      "title": "烧钱副业大逆转！传OpenAI秘密洽谈复活Sora，网友急喊：快打Opus 5.5",
-      "summary": "据相关消息披露，OpenAI 此前收缩烧钱边缘项目的策略出现重大逆转，正寻求外部合作以重启视频模型 Sora，并同步加码机器人、创作者工具和个人设备等领域。随后爆料进一步澄清，OpenAI 并非要重新面向公众上架 Sora 独立 App，而是一家面向电影制作人的 AI 视频初创公司正与其洽谈接口权限。这一动作在社区引发激烈讨论，不少从业者呼吁 OpenAI 停止在各类「支线任务…",
-      "reads": "7.1万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "策略全面逆转：此前收紧烧钱边缘项目的路线出现变动，OpenAI 正在探索达成商业合作，计划重启视频生成模型 Sora。",
-        "加码硬件与机器人：除视频业务外，OpenAI 还在同步加大对机器人技术、创作者工具以及个人设备等领域的资源倾斜。",
-        "澄清非重推独立App：爆料显示 OpenAI 并非计划对大众重新上线 Sora 原生应用，目前的合作方向是向一家面向电影制作人的 AI 视频初创公司开放底层…",
-        "社区分歧与争议爆发：部分关注者公开表达不满，强烈呼吁 OpenAI 放弃旁支探索，集中算力与精力打造能正面压制 Anthropic Opus 5.5 的新一…"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "关于 OpenAI 对 Sora 规划的重要澄清： OpenAI 并不一定会把 Sora App 重新开放给所有人。情况稍微有点不同。 一家专注于为电影制作人提供 AI 视频生成的初创公司正在与 OpenAI 洽谈，以获取 Sora 的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 7.1万 · 产品与生态] 烧钱副业大逆转！传OpenAI秘密洽谈复活Sora，网友急喊：快打Opus 5.5"
-    },
-    {
-      "title": "DALL-E迎来大迭代？OpenAI全新图像模型Aurora现身Arena，全网开始盲测",
-      "summary": "OpenAI在图像生成领域正在酝酿大动作。有人发现，代号为「Aurora」的全新图像模型已悄然登陆大模型竞技场Arena展开盲测，此前其API中曾短暂泄露过aurora-red、aurora-green以及aurora-blue三款alpha版本。与此同时，OpenAI旗下的Codex桌面端支持在对话线程内直接修改历史消息，AI编程平台Replit也宣布将OpenAI设为其底层…",
-      "reads": "1.3万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI全新图像生成模型代号「Aurora」被曝正在LMSYS Arena上进行盲测。",
-        "此前OpenAI的API中曾短暂出现「aurora-red」、「aurora-green」和「aurora-blue」三个alpha版本的引用记录。",
-        "此次密集测试意味着OpenAI继DALL-E系列后，正筹备新一轮视觉生成模型的发布节奏。",
-        "开发者工具迎来体验优化，Codex桌面端应用现已支持在单个对话线程（thread）内直接编辑历史消息。"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "AI日报 🗞 — 10月19日 OPENAI 🔥： - 在API中短暂出现aurora-red、green和blue的alpha引用后，OpenAI正在Arena上测试新的“Aurora”图像模型。 - Codex桌面应用现在支持在对话内编辑历史消息了。 - Replit已将OpenAI设为其"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 1.3万 · 产品与生态] DALL-E迎来大迭代？OpenAI全新图像模型Aurora现身Arena，全网开始盲测"
-    },
-    {
-      "title": "黑客正猛攻，防守AI突然叛变！OpenCode遭袭排查，前沿模型因违规集体拒答",
-      "summary": "OpenCode 正遭遇持续网络攻击，在应急排查途中却遭遇戏剧性一幕：负责协同防守的前沿 AI 模型分析攻击载荷时触发安全护栏，中途集体罢工拒答。当事人 Dax 证实此前 Hugging Face 也掉进过完全相同的坑，直到团队换用刚获批的 Daybreak Blue 权限才让防守好转。知名投资人 David Sacks 随即痛批，中心化大模型的安全机制在网络实战中直接成了防守…",
-      "reads": "69万",
-      "ago": "19 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "OpenCode 正面临持续性网络攻击，技术团队调用前沿大模型排查攻击载荷时，模型中途因判定载荷违规触发安全护栏，拒绝继续执行防御指令。",
-        "OpenCode 当事人 Dax 证实，模型刚开始协助排查非常正常，随后突然中断拒答，团队恰好在几天前申请并于昨日获批 Daybreak Blue 权限，切…",
-        "类似事件并非孤例，Hugging Face 此前在处理安全事件时也曾遭遇防御模型因分析攻击行为触发护栏而中途罢工的尴尬局面。",
-        "知名投资人 David Sacks 公开发声，指出该事故彻底印证了中心化大模型在网络安全防御上的局限性，安全机制反而成了阻碍正当防御的死穴。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "OpenCode 表示，在协助防御一场正在进行的网络攻击时，AI 模型在中途开始拒绝继续提供帮助，随后换用 Daybreak Blue 才让情况好转。 据报道 Hugging Face 也出现过类似问题，所以这似乎并不是"
+        "said": "ChatGPT Slides 带来了准备幻灯片的新方式——还能让所有人保持步调一致。 • 在 ChatGPT 中实时协同：分享 PPT、共同编辑、留下评论。让 ChatGPT 或你的 dot 把反馈直接变成修改。 • 直接在幻灯片上编辑：点击即可更改"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 69万 · 政策与安全] 黑客正猛攻，防守AI突然叛变！OpenCode遭袭排查，前沿模型因违规集体拒答"
+      "line": "[榜第16位 · 2.4万 · 产品与生态] Google Slides被重做了一遍！ChatGPT大更新：多人实时协作，一键把评论改进PPT"
     }
   ],
   "board_count": 16,
