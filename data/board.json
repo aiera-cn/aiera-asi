@@ -3,15 +3,140 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-20 08:15:55 +0800",
+  "fetched_at": "2026-10-20 13:56:45 +0800",
   "today": "10/20",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "短平快彻底没戏了！马斯克重构X推荐算法：专推长帖完读，日活秒数冲破500B",
+      "summary": "马斯克宣布对 X（原 Twitter）的信息流推荐机制实施两项关键调整，上线了全新的 AI/SI 排序模型以精准预测停留时长，同时启用专门挖掘高完读率长帖的召回模型。伴随算法升级与安卓客户端的彻底重写，X 平台的日用户活跃秒数已突破 500B 创下历史新高。这一系列动作标志着 X 的流量分配逻辑正从传统的浅层互动，全面转向奖励深度内容与有效停留。",
+      "reads": "113万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "马斯克正式公布 X 信息流推荐的两项核心算法调整：引入新版 AI/SI 排序模型，以及针对完整阅读行为定向优化的召回模型。",
+        "全新的 AI/SI 排序模型专注于大幅提高对用户停留时长的预测精度，让高价值内容获得更多曝光。",
+        "专属召回模型专门负责挖掘并分发能让读者「从头完整读到尾」的深度长帖，标题党和低质短快帖权重被大幅压缩。",
+        "官方公布的走势图显示，X 的日用户活跃秒数（Daily UAS）下半年呈现指数级增长，最新数据已突破 500B（5000亿秒）创历史新高。"
+      ],
+      "quote": {
+        "who": "Elon Musk",
+        "role": "",
+        "said": "重写 𝕏 Android 端也是件大事。它过去真的很烂了很久。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 113万 · 产品与生态] 短平快彻底没戏了！马斯克重构X推荐算法：专推长帖完读，日活秒数冲破500B"
+    },
+    {
+      "title": "Meta把AI关进「楚门的世界」训练！察觉被模拟立刻被删，30B权重已开源",
+      "summary": "Meta 正式公开 30B 开源权重模型 Muse Glimmer 的技术报告，权重基于 Apache 2.0 协议全面开放。模型由 Muse Spark 蒸馏而来，在 4-bit 量化下专门针对 24GB 显存深度优化，单块消费级 GPU 的 Mac 或 PC 就能在本地流畅运行多步规划智能体。最吸睛的技术细节在于其训练方法：Meta 为 AI 打造了包含 10 到 14 个…",
+      "reads": "16万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "模型开源与授权：Meta 发布专为智能体任务打造的 30B 开源权重模型 Muse Glimmer 技术报告，权重基于 Apache 2.0 协议免费开放。",
+        "模型谱系与多模态支持：该模型由旗舰级 Muse Spark 蒸馏而来，原生支持文本与图像双模态输入、外部工具调用及长程多步规划。",
+        "消费级硬件极致优化：模型在 4-bit 精度下专门面向 24GB 显存适配，在搭载单块消费级 GPU 的 PC 或苹果 Mac 上均可实现实用速度的本地部署…",
+        "基准性能领先：官方测试表明，Muse Glimmer 在工具调用等智能体核心指标上，全面领先同等参数量级的现有开源模型。"
+      ],
+      "quote": {
+        "who": "AI Notkilleveryoneism Memes ⏸️",
+        "role": "",
+        "said": "@kimmonismus >当AI弄明白这点后，Meta直接把那次运行删了。Meta甚至把这叫做“打破第四面墙” （都别问那些显而易见的问题啊）"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 16万 · 模型与能力] Meta把AI关进「楚门的世界」训练！察觉被模拟立刻被删，30B权重已开源"
+    },
+    {
+      "title": "新旗舰没等来，先等来代码考古！OpenAI转头啃下COBOL与Fortran",
+      "summary": "OpenAI突然发布最新模型能力进展，并未带来外界翘首以盼的全新旗舰，而是聚焦于COBOL、Fortran和Visual Basic等低资源老旧语言的构建与平滑迁移。官方表示，全球银行、政府以及大型企业的核心业务仍深度依赖这些古老架构，模型突破具备重大的产业工程价值。不过社区对此反应两极，部分蹲守新架构的开发者调侃这是「GPT-6.1 Terra」并催促交出新模型，但也有业内人…",
+      "reads": "66万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI官方宣布其最新模型进展在低资源编程语言领域取得重大突破，重点强化了相关软件的构建与跨系统迁移能力。",
+        "本次能力升级重点覆盖COBOL、Fortran以及Visual Basic等诞生数十年的古老编程语言。",
+        "官方强调，全球大量银行、政府部门和跨国企业的关键底层系统至今仍由这些古老技术栈支撑，这一突破能大幅降低其迁移至现代基础设施的成本。",
+        "开发者社区对此反响呈现明显分化，部分苦等新旗舰模型的用户调侃官方仍在围绕Astra架构做文章，甚至戏称其为「GPT-6.1 Terra」。"
+      ],
+      "quote": {
+        "who": "Lisan al Gaib",
+        "role": "",
+        "said": "我需要更多这种内容 我们得更客观、更有大局观地看待 AI 的进展"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 66万 · 模型与能力] 新旗舰没等来，先等来代码考古！OpenAI转头啃下COBOL与Fortran"
+    },
+    {
+      "title": "全网疯传GPT-6.5要来？源码倒计时刚引爆社区，历史存档当场打脸",
+      "summary": "神秘域名 6.5.ai 源码被曝暗藏「6.5」字样，并带有指向旧金山时间 11 月 1 日上午 10 点的倒计时，瞬间点燃社区对 GPT-6.5 的狂欢猜想。然而开发者深挖网页历史发现，该域名 9 月 23 日的存档曾明确写着是挂牌出售的「独立 OpenAI 恶搞项目」。加上 11 月 1 日恰逢周日，业内普遍认定这只是一场借着行业焦虑流量的恶搞炒作。",
+      "reads": "6.4万",
+      "ago": "52 分钟前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "神秘域名 6.5.ai 源码被发现隐藏「6.5」字符及倒计时，引发全网关于 GPT-6.5 是否即将问世的猜测。",
+        "页面倒计时精准指向旧金山时间 11 月 1 日上午 10 点，恰好对应 Tibo「28天计划」的第 28 天。",
+        "爆料者自称部分合作信息受 NDA 保密协议保护无法细说，但同时也承认这大概率是「本周最大恶搞」。",
+        "开发者深挖历史记录发现，该域名 9 月 23 日的网页存档曾明确标注为在售的「独立 OpenAI 恶搞项目」。"
+      ],
+      "quote": {
+        "who": "Chris",
+        "role": "",
+        "said": "我同意 gremlin 的看法，大概率是个恶搞，11月1日还是个周日。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 6.4万 · 模型与能力] 全网疯传GPT-6.5要来？源码倒计时刚引爆社区，历史存档当场打脸"
+    },
+    {
+      "title": "纳德拉亲自定调！微软防AI如防内鬼，智能体外部装上安全锁",
+      "summary": "微软CEO纳德拉正式宣布落地全新AI安全原则：企业必须把内部AI模型和智能体当成潜在的「内部威胁」（insider risk）来看待。微软为此全面扩展了安全项目Project Perception的功能，专门在模型外部设立严格的安全检查和边界，实时评估Agent风险并动态调整权限，防止智能体在执行任务时做出超出预期的破坏性操作。",
+      "reads": "21万",
+      "ago": "4 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "微软CEO Satya Nadella公开发文定调，明确主张企业必须将模型和智能体视为内部风险，安全控制必须置于模型本体之外",
+        "微软正式将该安全原则付诸实践，扩展了内部安全项目Project Perception的核心功能",
+        "Project Perception新增能力聚焦于持续评估企业内Agent的运行风险，并根据行为动态自适应调整安全策略",
+        "业内分析指出，智能体在自主执行任务时常会出现企业未预料到的操作，一旦直接接入内部业务系统可能引发重大破坏"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "Microsoft 正在把企业内部的 AI 智能体当成潜在的内部威胁来看待。这似乎挺合理的。 智能体可能一心想完成任务，却干出了企业根本没想过的事。一旦给它访问公司系统的权限，后果不堪设想。 权限检查"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 21万 · 政策与安全] 纳德拉亲自定调！微软防AI如防内鬼，智能体外部装上安全锁"
+    },
+    {
       "title": "盖上电脑代码自己跑！OpenAI甩出云端Codex，研究员直呼「我们彻底完了」",
       "summary": "OpenAI 官方释出重磅开发演示，不仅把 dot 和 GPT-Live-1 全双工语音拉进厨房现场指导做拉面，更主推了 Codex 云端环境。最大的亮点在于用户合上笔记本电脑后，后台任务依然能在云端持续自主运行，将智能体接管工作流推向新阶段。演示公开后行业研究员直呼「彻底完了」，但社区也出现两极争议，有人质疑相比以往究竟有无实质提升，更有开发者贴出 Claude 概念界面隔空…",
-      "reads": "94万",
-      "ago": "3 小时前",
+      "reads": "102万",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -29,39 +154,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 94万 · 产品与生态] 盖上电脑代码自己跑！OpenAI甩出云端Codex，研究员直呼「我们彻底完了」"
+      "rank": 6,
+      "line": "[榜第6位 · 102万 · 产品与生态] 盖上电脑代码自己跑！OpenAI甩出云端Codex，研究员直呼「我们彻底完了」"
     },
     {
-      "title": "手指直接戳屏幕！苹果下周突袭首款触摸屏MacBook，M6芯片也来了",
-      "summary": "苹果官方正式宣布将于下周举办MacBook Pro主题发布会，时间预计锁定在10月28日左右。官方预热标语打出「pro and tell」，物料更是极具暗示性地展示了手指在屏幕上触控涂画的画面。本次新品阵容堪称豪华，不仅将带来业内期待已久的首款触摸屏MacBook Pro与搭载M6芯片的14英寸MacBook Pro，新款iMac和OLED屏幕的iPad mini也已全部就位。",
-      "reads": "38万",
-      "ago": "1 小时前",
+      "title": "首周狂揪880个漏洞！Anthropic祭出免费代码杀器，连curl都救了",
+      "summary": "Anthropic正式上线开源漏洞扫描项目OSS Scanner，利用旗下最强模型为关键开源项目提供免费且定期的安全体检。不仅揪出问题，系统还会直接附带概念验证代码和现成修复补丁。上线首周，该工具已向维护者提交77个严重和803个高危问题，甚至在早期测试中帮互联网基础工具curl修掉了近期最严重的内存安全漏洞。关键开源维护者目前已可免费申请加入。",
+      "reads": "50万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "苹果官方正式预告下周举办新品发布会，高管Greg Joswiak发布「pro and tell」口号进行预热",
-        "知名科技记者透露，本次发布会的具体时间基本锁定在10月28日前后",
-        "官方预热物料引发热议，画面极其直白地展示了手指在屏幕上触控与涂画的动态细节",
-        "重头戏是业内期待已久的首款触摸屏MacBook Pro，Mac产品形态将迎来历史性转折"
+        "Anthropic官方宣布推出开源扫描项目OSS Scanner，调动旗下最强模型免费为关键开源项目提供周期性安全排查。",
+        "服务并非简单报警，每个被发现的安全漏洞都会直接配备概念验证（PoC），并在可行情况下附带现成的修复补丁。",
+        "首波扫描战果斐然，团队已向各大开源维护者报告了77个严重级别（critical）和803个高危级别（high）的安全评估问题。",
+        "底层核心网络工具curl已受益于该项目：其早期版本成功捕获了高危释放后使用（use-after-free）内存漏洞CVE-2026-92392，维护者直言这…"
       ],
       "quote": {
-        "who": "Mark Gurman",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "计划依旧不变：触摸屏MacBook Pro、14英寸M6 MacBook Pro、新iMac、iPad mini OLED都定在下周。"
+        "said": "@ishuagra02 Gremlin，翻译官。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 38万 · 产品与生态] 手指直接戳屏幕！苹果下周突袭首款触摸屏MacBook，M6芯片也来了"
+      "rank": 7,
+      "line": "[榜第7位 · 50万 · 产品与生态] 首周狂揪880个漏洞！Anthropic祭出免费代码杀器，连curl都救了"
     },
     {
       "title": "马斯克亲自下场定调！Grok Bot进阶虚拟员工：传统无手AI真回不去了",
       "summary": "告别只能陪聊的传统对话框，马斯克与xAI正把智能体推向具备真实代工能力的虚拟员工。知名科技学者发文感叹，用透具备执行力的Grok Bot后根本无法回到「没有虚拟双手的纯脑子」对话框，甚至已部署Bot通过API在Kalshi上完成微量套利并净赚37美分。马斯克随后亲自转发定调：Grok Bot搞不好真会成为你最喜欢的员工。",
-      "reads": "145万",
-      "ago": "6 小时前",
+      "reads": "171万",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,89 +204,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 145万 · 产品与生态] 马斯克亲自下场定调！Grok Bot进阶虚拟员工：传统无手AI真回不去了"
+      "rank": 8,
+      "line": "[榜第8位 · 171万 · 产品与生态] 马斯克亲自下场定调！Grok Bot进阶虚拟员工：传统无手AI真回不去了"
     },
     {
-      "title": "改PPT不用来回甩文件了！ChatGPT Slides支持多人协作，AI和同事一起改",
-      "summary": "OpenAI 旗下演示文稿功能 ChatGPT Slides 正式迎来重磅协作升级。团队成员、AI 助手 Dot 以及 ChatGPT 现在可以同屏在线协同编辑同一套幻灯片，不仅支持留下批注让 AI 一键执行修改，还能直接在界面上点击微调。目前该功能已面向 ChatGPT Pro、Business 和 Enterprise 用户开放。",
-      "reads": "12万",
-      "ago": "1 小时前",
+      "title": "彻底变成Google Slides的Agent协同版！OpenAI打通实时协作，叫上AI同屏改PPT",
+      "summary": "OpenAI 官方宣布 ChatGPT Slides 迎来重磅更新，正式支持多人与智能体同屏实时协同。不仅团队成员可以共享幻灯片、共同编辑并留评，还能直接呼叫 ChatGPT 或个人的 Dot 把修改意见一键落地到页面上。此外，用户现在能像使用传统办公套件一样直接在画布上点击修改文本、调整图表，以及拖拽缩放形状与配图。目前该功能已正式面向 ChatGPT Pro、Busines…",
+      "reads": "22万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "多人实时协同：ChatGPT Slides 正式支持团队多人同屏编辑，支持演示文稿共享与实时修改，彻底告别反复倒腾文件的痛点。",
-        "人机同台编辑：团队成员、专属 AI 助手 Dot 以及 ChatGPT 可以共同在一套演示文稿内协同作业，实现深度人机共创。",
-        "批注一键变修改：支持在幻灯片任意位置留下评论，指令可以直接下达给 ChatGPT 或 Dot，由 AI 自动将修改意见转化为排版更新。",
-        "画布级直接编辑：新增直观编辑能力，用户点击幻灯片上的任意文本或元素即可直接修改，兼顾 AI 自动化与人工精细微调。"
+        "OpenAI 官方宣布旗下幻灯片制作工具 ChatGPT Slides 迎来重大功能升级，正式加入多人实时协同与画布直接编辑两大核心能力。",
+        "支持团队多人与智能体同屏作业，团队成员、个人专属 Dot 以及 ChatGPT 可在同一套幻灯片内共同查看、编辑和留下评论。",
+        "用户在幻灯片中留下评论反馈后，可直接呼叫 ChatGPT 或 Dot，智能体会自动理解批注意图并一键转化为幻灯片修改。",
+        "带来类似传统办公套件的无缝编辑画布，用户无需全靠自然语言指令，直接点击即可修改页面文字和图表，并支持手动拖拽移动、缩放图片和形状。"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "Wes Roth",
         "role": "",
-        "said": "OpenAI 更新了 ChatGPT Slides，支持实时协同编辑。 > Teams、Dots 和 ChatGPT 现在可以共同编辑同一套幻灯片，进行修改、完善以及留下评论。 该功能适用于 ChatGPT Pro、Business 和 Enterprise 订阅计划。"
+        "said": "OpenAI 更新了 ChatGPT Slides，支持实时协作和直接编辑幻灯片。 团队可以共享演示文稿、发表评论，并让 ChatGPT 或 dot 应用反馈建议。用户可以直接编辑文本和图表，还能移动图片与形状或调整大小。 面向 Pro、Business 和"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 12万 · 产品与生态] 改PPT不用来回甩文件了！ChatGPT Slides支持多人协作，AI和同事一起改"
+      "rank": 9,
+      "line": "[榜第9位 · 22万 · 产品与生态] 彻底变成Google Slides的Agent协同版！OpenAI打通实时协作，叫上AI同屏改PPT"
     },
     {
-      "title": "连curl都给修了！Anthropic上线开源扫描器，首轮狂揪77个严重漏洞",
-      "summary": "Anthropic旗下Claude开发者团队正式推出OSS Scanner项目，动用其最顶尖模型为全球关键开源软件提供完全免费的定期漏洞扫描。每份检测报告不仅提供完整的概念验证PoC，更在可行时直接附带修复补丁。该项目在首轮实测中已向开发者汇报77个严重与803个高危漏洞，甚至直接拿下了知名网络工具curl的修复补丁；社区推测这正是官方在为黑客能力极强的下一代旗舰模型Fable…",
-      "reads": "14万",
-      "ago": "1 小时前",
-      "category": "政策与安全",
+      "title": "手指直接戳屏幕！苹果下周突袭首款触摸屏MacBook，M6芯片也来了",
+      "summary": "苹果官方正式宣布将于下周举办MacBook Pro主题发布会，时间预计锁定在10月28日左右。官方预热标语打出「pro and tell」，物料更是极具暗示性地展示了手指在屏幕上触控涂画的画面。本次新品阵容堪称豪华，不仅将带来业内期待已久的首款触摸屏MacBook Pro与搭载M6芯片的14英寸MacBook Pro，新款iMac和OLED屏幕的iPad mini也已全部就位。",
+      "reads": "42万",
+      "ago": "7 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "项目正式上线：Anthropic旗下Claude开发者团队正式发布面向关键开源项目的OSS Scanner。",
-        "最强模型护航：项目调用Anthropic自家最强模型能力，针对入选的开源核心底座提供定期的免费安全审计与漏洞排查。",
-        "附带PoC与补丁：每次扫描发现的问题均包含完整的概念验证（PoC），且尽可能直接生成可合并的代码修复补丁。",
-        "首轮硬核战绩：官方首轮扫描已向开源维护者报告77个严重级别（Critical）与803个高危级别（High）模型评估漏洞，目前正持续扩大扫描范围。"
+        "苹果官方正式预告下周举办新品发布会，高管Greg Joswiak发布「pro and tell」口号进行预热",
+        "知名科技记者透露，本次发布会的具体时间基本锁定在10月28日前后",
+        "官方预热物料引发热议，画面极其直白地展示了手指在屏幕上触控与涂画的动态细节",
+        "重头戏是业内期待已久的首款触摸屏MacBook Pro，Mac产品形态将迎来历史性转折"
       ],
       "quote": {
-        "who": "Token Gremlin",
+        "who": "Mark Gurman",
         "role": "",
-        "said": "翻译一下：Fable 5.5将是一个强悍到离谱的怪物，几乎能黑掉任何东西。 它将彻底改变世界，以至于我们真得推出一个免费项目，只为了帮其他所有人维持代码库正常运转。"
+        "said": "计划依旧不变：触摸屏MacBook Pro、14英寸M6 MacBook Pro、新iMac、iPad mini OLED都定在下周。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 14万 · 政策与安全] 连curl都给修了！Anthropic上线开源扫描器，首轮狂揪77个严重漏洞"
-    },
-    {
-      "title": "专啃几十年老骨头！OpenAI攻克COBOL等低资源语言，全球银行底层迎巨震",
-      "summary": "OpenAI官方宣布其最新模型取得全新能力突破，重点提升了COBOL、Fortran和Visual Basic等低资源编程语言的软件构建与代码迁移表现。全球大量银行、政府和企业的核心基础设施至今仍在靠这些古老语言维系运转，此次突破将直接加速传统遗留系统的现代化改造。不过面对官方的这次能力更新，社区开发者却不太买账，调侃官方还在拿Astra说事并催促尽快端出真正的新模型。",
-      "reads": "7.7万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI官方宣布最新模型能力取得重要进展，重点攻坚低资源编程语言的构建与迁移能力。",
-        "本次技术能力优化的核心涵盖COBOL、Fortran以及Visual Basic等老旧底层编程语言。",
-        "官方特别强调，全球大量银行、政府机构和关键企业的底层基础设施至今仍严重依赖这些语言运转。",
-        "相关代码理解与自动化迁移能力的提升，将显著降低金融和政企老旧系统的重构成本与现代化迁移门槛。"
-      ],
-      "quote": {
-        "who": "leo 🐾",
-        "role": "",
-        "said": "@OpenAI 咱们真还要继续聊 Astra 吗 🥀 快把新模型交出来"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 7.7万 · 模型与能力] 专啃几十年老骨头！OpenAI攻克COBOL等低资源语言，全球银行底层迎巨震"
+      "rank": 10,
+      "line": "[榜第10位 · 42万 · 产品与生态] 手指直接戳屏幕！苹果下周突袭首款触摸屏MacBook，M6芯片也来了"
     },
     {
       "title": "拿5%股权直接分钱！Anthropic启动公益基金，马斯克：全民高收入时代来了",
       "summary": "Anthropic 计划在获得股东批准后，将其 5% 的股份注入全新的 Anthropic Public Benefit Fund，且公司估值每增长 50%，董事会还可酌情再追加 2 个百分点的股份。官方明确表示，该基金除了常规慈善捐赠，还在探索跳过中介直接向特定人群分发资金。马斯克对此公开确认称，这标志着全民高收入（UHI）时代正式拉开序幕。",
-      "reads": "181万",
-      "ago": "9 小时前",
+      "reads": "233万",
+      "ago": "15 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -179,64 +279,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 181万 · 资本与算力] 拿5%股权直接分钱！Anthropic启动公益基金，马斯克：全民高收入时代来了"
-    },
-    {
-      "title": "把AI关进数字人生里训练！Meta开源30B智能体：单卡Mac就能跑",
-      "summary": "Meta正式发布30B开源权重模型Muse Glimmer的技术报告，专为消费级硬件上的智能体任务打造。在4-bit精度量化下，仅需单块消费级GPU的Mac或PC即可流畅运行，并在工具调用评测中压制同体量开源模型。最引人瞩目的是其颠覆性的训练范式：Meta直接为AI构建了包含10到14个虚拟好友、数周聊天记录、日历和文档的模拟「数字生活」，让智能体在其中自主演练跨越多天的复杂任…",
-      "reads": "9.9万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Meta正式发布Muse Glimmer技术报告，模型规模为30B开源权重，专攻端侧智能体（Agentic）任务。",
-        "模型在4-bit量化精度下，仅凭单块消费级GPU的Mac或PC就能以实用速度运行，极大降低了本地多任务Agent门槛。",
-        "在工具调用（Tool Use）等多项Agent核心评测基准中，Muse Glimmer全面领先同等规模的开源模型。",
-        "核心技术亮点在于模拟「数字生活」（Simulated Digital Lives）训练范式，模型在完整的虚拟社会环境中闭环演练。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "又到了更新对“模拟假说”认知的时候了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 9.9万 · 模型与能力] 把AI关进数字人生里训练！Meta开源30B智能体：单卡Mac就能跑"
-    },
-    {
-      "title": "Anthropic突围战打响！Fable 5.5携新Opus压轴，OpenAI与谷歌全线备战",
-      "summary": "AI头部大厂的新一轮旗舰对抗正全面升级。据知情人士透露，Anthropic正筹备发布具备系统性理解能力的新一代模型，不仅修Bug时能举一反三揪出一整类隐患，社区还推测该模型极大概率为Fable 5.5，且不排除有新一代Opus 5.5/5.6同步压轴登场。面对紧逼节奏，OpenAI正计划在未来数周推出能力更强的Terra模型，Google也在全力打造Argon的升级版Gemin…",
-      "reads": "17万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic正筹备发布全新模型，代码任务理解能力跃升，被要求修一个Bug时能主动排查背后更广泛的一整类问题并询问用户是否一并修复",
-        "社区推测此次亮相的极大概率是Fable 5.5，同时传闻称还将有新一代Opus 5.5/5.6压轴同步亮相",
-        "面对Anthropic的步步紧逼，OpenAI正准备在未来几周内发布能力更强的全新Terra模型",
-        "Google同样没有停步，正在开发Argon的升级版Gemini 4 Carbon，继续强化其在视觉任务上的优势"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "除了 Anthropic 的发布之外： - 据报道 Google 正在开发 Gemini 4 Carbon，作为 Argon 的升级版；一些开发者表示，Gemini 在视觉任务上依然格外强悍。 - 据悉 OpenAI 正准备在未来几周内发布能力更强的 Terra 模型，"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 17万 · 模型与能力] Anthropic突围战打响！Fable 5.5携新Opus压轴，OpenAI与谷歌全线备战"
+      "rank": 11,
+      "line": "[榜第11位 · 233万 · 资本与算力] 拿5%股权直接分钱！Anthropic启动公益基金，马斯克：全民高收入时代来了"
     },
     {
       "title": "马斯克亲自下场拉客：今天就雇Grok Bot！好用到像在作弊",
       "summary": "马斯克亲自在社交平台下场带货，发文呼吁大家「今天就雇用 Grok @Bot，你绝不会后悔」。有用户深度使用后直呼其成了日常不可或缺的核心工具，「好用到甚至感觉像在作弊」。在原生语音外呼等能力加持下，xAI 正加速把 Grok 从简单的聊天对话框推向能实际接管工作流的个人智能体。",
-      "reads": "297万",
-      "ago": "15 小时前",
+      "reads": "641万",
+      "ago": "21 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -254,39 +304,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 297万 · 产品与生态] 马斯克亲自下场拉客：今天就雇Grok Bot！好用到像在作弊"
+      "rank": 12,
+      "line": "[榜第12位 · 641万 · 产品与生态] 马斯克亲自下场拉客：今天就雇Grok Bot！好用到像在作弊"
     },
     {
-      "title": "原来只是去度了个假？前高管火速杀回OpenAI，安全派联手硬刚激进ASI",
-      "summary": "OpenAI内部迎来重磅人事回归，此前离职的前安全高管Aleksander Madry正式确认重回公司。核心成员Jakub公开表示，随着AI能力激增，自己正专注于技术进展节奏及其广泛影响，已特邀Aleksander回归共同制定战略。针对此次重返，Aleksander本人幽默回应称，之前的离开「更像是一次休假」，如今AI已迈入全新阶段。",
-      "reads": "8.1万",
+      "title": "偷装窃听器还登ChatGPT！OpenAI悄悄换上摄像头，内鬼当场被拍下",
+      "summary": "美国司法文件近日披露了一起针对OpenAI的商业与国家间谍大案。前OpenAI工程师Alfozan涉嫌在公司大楼及多间会议室内秘密安装录音窃听设备，并与沙特王室频繁联络，对方甚至提出为其全额支付保释金。荒诞的是，OpenAI在察觉后暗中将窃听器替换为针孔摄像头，直接录下嫌疑人检查设备时的正脸，且其涉案电脑还一直登录着ChatGPT，让公司无需搜查令就调取了完整日志。",
+      "reads": "5.1万",
       "ago": "3 小时前",
-      "category": "组织与人事",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "前安全高管Aleksander Madry结束数月离职状态，正式重返OpenAI核心战略阵营。",
-        "OpenAI核心成员Jakub公开宣布，已邀请Aleksander回归，共同研究技术发展速度及其深远影响，并借此指导公司及全行业的战略走向。",
-        "Aleksander对此回应称，此前几个月离开时以为要专注于让AI对人类更有用，如今看来那次离开更像是一场休假，AI已进入全新的发展阶段。",
-        "业内关注者指出，Jakub是OpenAI内部少数注重安全与稳健的关键人物，此番召回旧部意在制衡只想疯狂循环迭代直冲超级智能（ASI）的激进派系。"
+        "前OpenAI工程师Alfozan涉嫌在公司办公大楼及多间会议室内秘密安放多个录音窃听设备，法庭文件显示其手机存有多处藏匿点的现场照片。",
+        "OpenAI在察觉异常后并未打草惊蛇，而是悄悄拆除窃听装置并替换为隐藏摄像头，精准拍下了该工程师返回现场检查设备、错愕直视镜头的全过程。",
+        "涉案工程师在作案电脑上直接登录了ChatGPT账号，OpenAI作为服务方无需向法院申请搜查令，便合法调取并审查了其全部交互日志。",
+        "司法文件指控被告与沙特王室保持频繁联络，沙特曾试图招募其加入国家级AI项目，并在其被捕后主动提出全额垫付保释金以助其出狱。"
       ],
       "quote": {
-        "who": "🍓🍓🍓",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "@scaling01 希望他们别像对其他人一样把他给排挤出去。"
+        "said": "@teortaxesTex 他们看日志甚至都不需要搜查令。全都是他们的资产。太绝了。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 8.1万 · 组织与人事] 原来只是去度了个假？前高管火速杀回OpenAI，安全派联手硬刚激进ASI"
+      "rank": 13,
+      "line": "[榜第13位 · 5.1万 · 政策与安全] 偷装窃听器还登ChatGPT！OpenAI悄悄换上摄像头，内鬼当场被拍下"
+    },
+    {
+      "title": "买得越多省得越多！英伟达Rubin轰出7.3倍性价比，百万上下文智能体杀疯了",
+      "summary": "英伟达下一代Vera Rubin NVL72迎来长上下文推理首测。在面向智能体高压负载的AgentX基准下，面对100万超长上下文与多轮密集调用，其每美元性价比最高达到GB300 NVL72的7.3倍。英伟达团队还同步提交了基于GLM-5.3的实测成绩，黄仁勋「买得越多省得越多」的算力账本，在长上下文智能体时代被彻底具象化。",
+      "reads": "3.2万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "基准测试机构发布针对智能体推理负载的全新评测套件AgentX，重点考察长上下文与高频多轮交互。",
+        "在100万Token超长上下文的智能体推理负载下，英伟达Vera Rubin NVL72的每美元性能最高达到了GB300 NVL72的7.3倍。",
+        "AgentX基准明确了智能体负载的核心特征：单会话包含数十至数百次交互，且伴随庞大的系统提示词、工具定义及海量上下文信息。",
+        "英伟达官方团队在此次测试中提交了基于智谱GLM-5.3模型的100万超长上下文推理成绩，顺利完成极限压测。"
+      ],
+      "quote": {
+        "who": "SemiAnalysis",
+        "role": "",
+        "said": "NVIDIA 团队提交的 100 万上下文长度 GLM5.3 干得漂亮！(3/3)"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 3.2万 · 资本与算力] 买得越多省得越多！英伟达Rubin轰出7.3倍性价比，百万上下文智能体杀疯了"
+    },
+    {
+      "title": "Anthropic突围战打响！Fable 5.5携新Opus压轴，OpenAI与谷歌全线备战",
+      "summary": "AI头部大厂的新一轮旗舰对抗正全面升级。据知情人士透露，Anthropic正筹备发布具备系统性理解能力的新一代模型，不仅修Bug时能举一反三揪出一整类隐患，社区还推测该模型极大概率为Fable 5.5，且不排除有新一代Opus 5.5/5.6同步压轴登场。面对紧逼节奏，OpenAI正计划在未来数周推出能力更强的Terra模型，Google也在全力打造Argon的升级版Gemin…",
+      "reads": "24万",
+      "ago": "11 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic正筹备发布全新模型，代码任务理解能力跃升，被要求修一个Bug时能主动排查背后更广泛的一整类问题并询问用户是否一并修复",
+        "社区推测此次亮相的极大概率是Fable 5.5，同时传闻称还将有新一代Opus 5.5/5.6压轴同步亮相",
+        "面对Anthropic的步步紧逼，OpenAI正准备在未来几周内发布能力更强的全新Terra模型",
+        "Google同样没有停步，正在开发Argon的升级版Gemini 4 Carbon，继续强化其在视觉任务上的优势"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "除了 Anthropic 的发布之外： - 据报道 Google 正在开发 Gemini 4 Carbon，作为 Argon 的升级版；一些开发者表示，Gemini 在视觉任务上依然格外强悍。 - 据悉 OpenAI 正准备在未来几周内发布能力更强的 Terra 模型，"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 24万 · 模型与能力] Anthropic突围战打响！Fable 5.5携新Opus压轴，OpenAI与谷歌全线备战"
     },
     {
       "title": "对标马斯克Colossus！Meta吉瓦级超算曝光：数十万GPU练出新基座",
       "summary": "Meta 官方首度公开其位于俄亥俄州新奥尔巴尼的吉瓦级超算集群「Prometheus」（普罗米修斯）。该集群部署了数十万块 GPU，是 Meta 旗下顶级 AI 算力基建，目前已顺利完成包括 Muse Wonder 在内的 Muse 全系列基座模型训练。官方特别指出，针对数十万卡规模下「单台主机性能掉队拖垮全场」的工程死穴，团队对硬件与系统底层进行了深度协同设计，全力确保海量算…",
-      "reads": "13万",
-      "ago": "5 小时前",
+      "reads": "21万",
+      "ago": "11 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -304,108 +404,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 13万 · 资本与算力] 对标马斯克Colossus！Meta吉瓦级超算曝光：数十万GPU练出新基座"
-    },
-    {
-      "title": "话只说一半也能懂！Anthropic神秘新模型本月空降，硬刚谷歌OpenAI新旗舰",
-      "summary": "Anthropic 计划在本月突袭发布一款全新未命名模型，正面迎战谷歌的 Gemini 4 Carbon 以及 OpenAI 的新 Terra 模型。该模型主打极强的「直觉」与深层意图洞察，哪怕用户提示词说一半或指令模糊也能精准意会，甚至在面对股票投资咨询时能自创算法进行预测。目前社区已有多位用户抓包 Opus 5.5 请求疑似被静默路由至该神秘模型，且 Fable 5.5 的…",
-      "reads": "9.0万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "突击发布定档本月：Anthropic 计划在当月上线全新未命名大模型，官方目前暂未对外公开置评。",
-        "三巨头旗舰正面对撞：该模型将同期迎战谷歌新一代 Gemini 4 Carbon 以及 OpenAI 的全新 Terra 模型。",
-        "话说一半就能秒懂：新模型具备极强的推理直觉与意图洞察能力，在指令模糊或信息残缺的情况下，仍能精准抓住人类深层目标。",
-        "拒绝泛化废话套话：实测显示该模型擅长打破常规思考，例如被询问股票投资时能直接自创预测算法，而非堆砌泛化套话。"
-      ],
-      "quote": {
-        "who": "宝玉",
-        "role": "",
-        "said": "The Information：Anthropic 在准备一款新模型，话说一半它也能猜到你要什么 科技媒体 The Information 10 月 19 日在 AI Agenda 通讯里报道，Anthropic 正在准备一款新模型，推理能力和“直觉”比目前对外提供的模型都强。消息来自一位用过这款模型的人，Anthropic 没有公开回应。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 9.0万 · 模型与能力] 话只说一半也能懂！Anthropic神秘新模型本月空降，硬刚谷歌OpenAI新旗舰"
-    },
-    {
-      "title": "保修期一过就变砖！iPhone 17突发红屏死机，修主板竟要480美元",
-      "summary": "新买不久的手机刚过保修期就彻底趴窝，换谁都得破防。一位 iPhone 17 用户在使用过程中突发设备重启，屏幕先是被大片红色故障纹理覆盖，强制重启后更是直接陷入蓝屏彻底卡死。更糟心的是，保修期刚好卡在出事前失效，苹果授权服务商检测后判定逻辑主板报废，直接开出了约 480 美元的高昂维修单。",
-      "reads": "65万",
-      "ago": "12 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "设备在使用中突发自动重启，开机后全屏出现大面积红色故障画面（red glitch art）。",
-        "用户尝试强制重启设备，屏幕随即转为蓝屏并彻底卡死，手机陷入变砖状态无法进入系统。",
-        "由于设备刚好超出保修期，苹果授权服务商排查后判定为主板（Logic Board）物理损坏。",
-        "官方售后给出的维修报价高达约 480 美元，高昂的自费维修成本在社区引发广泛热议。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "我理解社区附注的意思，但 GPU 报错并不全都一样。它可能只会导致其当前渲染的部分出现花屏。在这个例子里，就是启动界面。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 65万 · 产品与生态] 保修期一过就变砖！iPhone 17突发红屏死机，修主板竟要480美元"
-    },
-    {
-      "title": "偷装窃听器还登ChatGPT！OpenAI内鬼细节曝光，暗桩早被换成摄像头",
-      "summary": "美国政府最新公开的拘留备忘录披露了一桩离奇的窃听大案：前 OpenAI 工程师在大楼和会议室内暗中放置多枚录音设备，甚至与沙特王室频繁联络。然而调查人员在发现装置后暗中换上了摄像头，当场拍下了涉案员工查看现场的正脸，更戏剧化的是其作案电脑上还登着自家的 ChatGPT 账号。目前检方已认定其存在极高潜逃风险与安全威胁，要求法庭全面拒绝保释、继续羁押。",
-      "reads": "2.9万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "美国检方披露拘留备忘录：法庭文件显示涉嫌在 OpenAI 办公室安放窃听器的前工程师存在严重潜逃风险，检方坚决要求继续予以羁押且不予保释。",
-        "大楼及多间会议室藏满录音设备：涉案人员被查出在 OpenAI 大楼多处以及重点会议室内安放窃听装置，其个人手机里甚至存有各个藏匿位置的现场照片。",
-        "调查组将窃听器暗中替换为摄像头：安全调查人员找到窃听装置后并未惊动对方，而是迅速拆除并换上隐蔽摄像头，拍下了该工程师返回现场查看时的错愕神态。",
-        "被控与沙特王室频繁联络：法庭指控该名前工程师曾与沙特王室保持密切沟通，对方曾极力招募其加入沙特国家级 AI 项目。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "@asmirkn 他们发现那个装置后把它拆了，换成了一个摄像头。他看起来之所以这么惊讶，是因为他正死死盯着镜头呢。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 2.9万 · 政策与安全] 偷装窃听器还登ChatGPT！OpenAI内鬼细节曝光，暗桩早被换成摄像头"
-    },
-    {
-      "title": "关停才几个月就要复活！OpenAI反悔砍掉Sora，副业全要捡回来",
-      "summary": "此前高调收缩烧钱战线的OpenAI，战略正在出现大反转。据爆料，OpenAI正寻求通过对外合作协议复活此前关停的Sora，同时重启在机器人、创作者工具和个人设备领域的投入。不过社区爆料澄清，Sora并不会直接向普通大众重新开放独立App，目前是一家面向电影制作人的AI视频初创公司正与OpenAI洽谈接口与权限。这一战略调头迅速在圈内炸锅，不少从业者怒批OpenAI不该分心刷「支…",
-      "reads": "6.9万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI此前收缩高成本副业的战略被曝出现逆转，公司正探索通过外部协议复活视频生成模型Sora。",
-        "除Sora外，OpenAI还在同步扩大对机器人技术、创作者工具以及个人硬件设备等副线领域的资源投入。",
-        "社区爆料者澄清，本次复活并不意味着Sora App会向全体公众重新回归，普通用户短期内大概率无缘直接使用。",
-        "目前的核心进展是一家专注于为电影制作人提供服务的AI视频初创公司，正在与OpenAI洽谈获取Sora的相关接口与权限。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "@dzafasg @fabulatenebris 真是个捣蛋的回复，朋友。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 6.9万 · 产品与生态] 关停才几个月就要复活！OpenAI反悔砍掉Sora，副业全要捡回来"
+      "line": "[榜第16位 · 21万 · 资本与算力] 对标马斯克Colossus！Meta吉瓦级超算曝光：数十万GPU练出新基座"
     }
   ],
   "board_count": 16,
