@@ -3,15 +3,40 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-21 18:02:45 +0800",
+  "fetched_at": "2026-10-21 23:08:55 +0800",
   "today": "10/21",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "造火箭团队全员下场！马斯克用发动机车间手搓电网，月铺20万张GPU",
+      "summary": "马斯克在财报交流中甩出一连串硬核算力计划：SpaceX 正以每月约 20 万张 GB300 的速度在孟菲斯铺设集群，2027 年底冲刺至少 13GW、甚至最高 20GW 算力。为了解决卡死全行业的供电瓶颈，他直接调动掌控全球约 90% 入轨质量的造火箭团队，用火箭发动机铸造车间自主生产发电机涡轮叶片，将电力上线时间直接提前 12 至 18 个月。另一边，黄仁勋也亮出全面量产的…",
+      "reads": "149万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "SpaceX 正调动发射全球约 90% 轨道载荷的王牌团队下场搞算力基建，马斯克将其形容为「纽约洋基队跑去打少棒联赛」，目前他本人每周有四天没日没夜泡在孟菲…",
+        "算力扩张速度惊人：孟菲斯集群目前每月上线约 20 万张 GB300，马斯克预计 2027 年底至少上线 13GW 算力，且有「非零概率」冲过 20GW，后续…",
+        "突破供电死穴：涡轮动叶片和导向叶片通常有 12 至 18 个月的交付滞后期，SpaceX 直接利用火箭发动机铸造车间自产叶片，让电力与冷却设施比同行提前 1…",
+        "自建晶圆厂 TeraFab 进展曝光：首颗测试芯片预计将于明年 5 月或 6 月问世，内部正力争在 2028 年第三季度实现规模量产，并赞许 ASML 加速…"
+      ],
+      "quote": {
+        "who": "Fireside Alpha",
+        "role": "",
+        "said": "Jensen Huang表示，人们原以为NVIDIA GPU只有四年寿命，“实际上可能长达八年甚至更久”，承销NVIDIA算力是目前所有资产中风险最低的 HUANG：“嗯，这是我们的优势之一，因为NVIDIA的计算系统"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 149万 · 资本与算力] 造火箭团队全员下场！马斯克用发动机车间手搓电网，月铺20万张GPU"
+    },
+    {
       "title": "SpaceX最大收入居然不是造火箭！单季狂揽76亿美元，全靠给Anthropic谷歌租算力",
       "summary": "SpaceX公布2026年第三季度财报，单季总营收达到146亿美元，同比暴涨161%，而火箭发射已不再是第一大吸金支柱。其超级智能部门（Super Intelligence）通过向Anthropic、Google等头部AI巨头出租算力，单季狂揽76亿美元，环比上一季度的25.6亿美元接近翻了3倍。同时，马斯克在财报会上放话明年要新建20GW电力与冷却设施，并首次公开证实Spac…",
-      "reads": "399万",
-      "ago": "47 分钟前",
+      "reads": "523万",
+      "ago": "5 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -29,14 +54,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 399万 · 资本与算力] SpaceX最大收入居然不是造火箭！单季狂揽76亿美元，全靠给Anthropic谷歌租算力"
+      "rank": 2,
+      "line": "[榜第2位 · 523万 · 资本与算力] SpaceX最大收入居然不是造火箭！单季狂揽76亿美元，全靠给Anthropic谷歌租算力"
+    },
+    {
+      "title": "马斯克要帮所有人管钱了！Grok正式打通X Money，周一自动查账出周报",
+      "summary": "马斯克旗下的 Grok Bot 与 X Money 账户正式实现底层打通。基于 MCP 协议，Grok Bot 可以在每周一早间自动读取账户资产，生成涵盖全账户余额变动、结算交易分类以及 90 天财务趋势的深度周报，并能主动标记异常订阅。面对隐私质疑，开发者表示此举将数据控制权彻底还给用户，避免第三方机构继续牟利。",
+      "reads": "48万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Grok Bot 与 X Money 账户正式打通，借助 MCP 协议切入个人财务管理生态。",
+        "每周一早间固定运行例行程序，自动读取用户所有账户余额并计算当周净变动。",
+        "每笔交易在结算后会被 Grok 自动归类，并生成周环比变化及长达 90 天的财务趋势分析。",
+        "自动统计返现与利息总额，生成储蓄率进度环，并能主动标记出异常扣费或隐蔽订阅。"
+      ],
+      "quote": {
+        "who": "Brian Roemmele",
+        "role": "",
+        "said": "@Markymark1025 Grok Bot的X Money例行程序直接从账户生成周一仪表板：余额变动、带周环比趋势的自动分类交易、返现与利息总额、标记的订阅、从数据中提炼的习惯建议，以及储蓄率进度环，"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 48万 · 产品与生态] 马斯克要帮所有人管钱了！Grok正式打通X Money，周一自动查账出周报"
     },
     {
       "title": "单次9.5刀直接砍到0.95刀！OpenAI祭出永久缓存，开发者沸腾了",
       "summary": "OpenAI突然给长上下文计费来了一记「脚踝斩」。API端的提示词缓存从原先默认的30分钟大幅延长至可选的12小时，单次请求还支持12小时共享指令与30分钟新对话灵活混用。更狠的是，Codex与ChatGPT Work的登录用户直接享受「永久提示词缓存」，离开数天后再接上旧对话依然保证100%命中缓存。在475k超大上下文场景下，单次发送消息的等效成本直接从9.5美元暴跌至0.…",
-      "reads": "246万",
-      "ago": "2 小时前",
+      "reads": "279万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -54,39 +104,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 246万 · 产品与生态] 单次9.5刀直接砍到0.95刀！OpenAI祭出永久缓存，开发者沸腾了"
+      "rank": 4,
+      "line": "[榜第4位 · 279万 · 产品与生态] 单次9.5刀直接砍到0.95刀！OpenAI祭出永久缓存，开发者沸腾了"
     },
     {
-      "title": "用造火箭团队搞AI算力！马斯克月铺20万张GB300，手搓叶片硬抢20GW电力",
-      "summary": "马斯克在财报会上放出一颗深水炸弹：SpaceX正在调动发射全球近90%入轨载荷的顶级工程团队，全面转战AI地面电力与冷却算力基建。孟菲斯集群正以每月约20万张GB300的速度疯狂铺设，计划明年底至少上线13GW算力，并储备20GW的电力与冷却容量。为了打破传统电网12至18个月的供应链卡点，SpaceX直接用火箭发动机车间自铸涡轮叶片；自研晶圆厂TeraFab更获ASML加速交…",
-      "reads": "57万",
-      "ago": "54 分钟前",
-      "category": "资本与算力",
+      "title": "72小时吞吐25万亿Token！平均每秒9600万，谷歌Gemini 4把TPU干冒烟了",
+      "summary": "谷歌TPU集群彻底跑疯了。官方人员披露，Gemini 4 Argon上线短短72小时内便处理了约25万亿个Token，折算下来平均每秒吞吐量高达9600万。与此同时，代号为Carbon的全新检查点已悄然杀入Arena开启盲测，不仅新增图像输入支持，还在复杂的碳稳定性3D视频任务上发挥超常。",
+      "reads": "20万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "降维打击AI基建：马斯克调动承担全球近90%入轨载荷的SpaceX王牌团队搞电力和冷却，形容这一举措就像「纽约洋基队跑去打少棒联赛」，直言超智能瓶颈早已不是…",
-        "每月上线20万张GB300：孟菲斯算力中心正以每月约20万张GB300的速度极速部署，明年将以Vera Rubin为主，预计明年底至少上线13GW算力，电力…",
-        "火箭产线手搓涡轮叶片：为打破电力供应链长达12至18个月的延迟，SpaceX直接调用火箭发动机的高难度铸造车间生产工业涡轮叶片和导向叶片，供电投产时间较全行…",
-        "自研晶圆厂TeraFab曝光：SpaceX正在主厂区自建芯片代工厂TeraFab，马斯克对ASML加速设备交付表示感谢，目标明年5-6月拿出首颗测试芯片，2…"
+        "谷歌官方人员披露，Gemini 4 Argon上线仅72小时即处理了约25万亿个Token，直言全行业对智能的需求依然被严重低估。",
+        "按72小时吞吐25万亿Token推算，谷歌TPU集群支撑该模型的平均吞吐速度达到每秒约9600万个Token。",
+        "代号为Carbon的全新Gemini模型检查点已低调进入Arena盲测，监测显示已新增图像输入（+ in:image）支持。",
+        "第三方实测显示，Carbon在根据吉祥物生成碳稳定性3D视频的任务中发挥超常，成功攻克了此前Gemini老模型极难完成的高复杂度物理任务。"
       ],
       "quote": {
-        "who": "Fireside Alpha",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "Gavin Baker 表示，Token 价格正在下跌，但每小时 GPU 租用价格「已经直线上天」，因为现在每 GPU 小时能产出更多有用的 Token BAKER：「顺便说一句，关于杰文斯悖论，这很有意思，而且我认为我们的用词必须非常准确。我们"
+        "said": "这么多年来，经济一直受限于智能水平 Gemini 4 Argon 在 72 小时内处理了 25 万亿个 Token。 算下来平均每秒处理约 9600 万个 Token"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 57万 · 资本与算力] 用造火箭团队搞AI算力！马斯克月铺20万张GB300，手搓叶片硬抢20GW电力"
+      "rank": 5,
+      "line": "[榜第5位 · 20万 · 模型与能力] 72小时吞吐25万亿Token！平均每秒9600万，谷歌Gemini 4把TPU干冒烟了"
+    },
+    {
+      "title": "狙击Opus 5.5！谷歌Gemini 4 Carbon进场盲测：3D暴涨、不再偷懒",
+      "summary": "谷歌新一代大模型检查点 Gemini 4 Carbon 已正式启动早期体验计划（EAP），并向部分合作伙伴开放，目前已低调进入 LMArena 展开盲测，预计将在未来数周内正式登场。爆料实测显示，该模型被从业者视作谷歌迎战 Opus 5.5 的关键杀器，其 3D 生成能力相比 Gemini 4 Argon 显著增强且更不易偷懒，但推理速度有所放缓，前端与 UI 生成依然是短板。",
+      "reads": "12万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "谷歌正式开启新模型 Gemini 4 Carbon 的早期体验计划（EAP），已有合作伙伴拿到测试资格。",
+        "新模型已进入 LMArena 竞技场展开实机盲测，爆料预计其公开发布已进入倒计时，最快数周内上线。",
+        "能力方面，Gemini 4 Carbon 在 3D 生成水平上大幅超越现役的 Gemini 4 Argon。",
+        "实测反馈显示模型推理速度有所变慢，但表现更勤快、不易偷懒，不过前端与 UI 代码生成能力依旧偏弱。"
+      ],
+      "quote": {
+        "who": "Pankaj Kumar",
+        "role": "",
+        "said": ""
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 12万 · 模型与能力] 狙击Opus 5.5！谷歌Gemini 4 Carbon进场盲测：3D暴涨、不再偷懒"
     },
     {
       "title": "零生物背景狂揽17个抗毒分子！Anthropic秘密模型解构致命蝎毒",
       "summary": "Anthropic联手金融投资机构Citrini完成了一项跨界实验：利用内部研发模型在64小时内生成超过30万个蛋白质设计，专门针对致死率极高的五类蝎子神经毒素。在送检湿实验的211个分子中，有17个成功达到结合标准。令人吃惊的是，主导该项目的5人团队中有3人毫无生物学科研背景，仅自掏20万美元算力便完成了传统药企的高难度探索。不过，翘首以盼Fable 5.5发布的开发者们今天…",
-      "reads": "155万",
-      "ago": "3 小时前",
+      "reads": "177万",
+      "ago": "8 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -104,14 +179,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 155万 · 模型与能力] 零生物背景狂揽17个抗毒分子！Anthropic秘密模型解构致命蝎毒"
+      "rank": 7,
+      "line": "[榜第7位 · 177万 · 模型与能力] 零生物背景狂揽17个抗毒分子！Anthropic秘密模型解构致命蝎毒"
+    },
+    {
+      "title": "连破两大致命脑病谜题！OpenAI生物模型发威，揪出神经元退化解药线索",
+      "summary": "OpenAI官方披露了生命科学模型「GPT-Rosalind」的最新进展，该模型在分析小鼠大脑数据时找到了两项关键的药物研发与疾病机制线索。针对罕见神经退行性疾病Perry综合征，模型推测恢复胆固醇转运或能保护神经元免于退化；同时，模型还首次解开了结节性硬化症中TSC2突变比TSC1更为严重的细胞层面病理谜团。",
+      "reads": "11万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI官方首次公开披露生命科学专用模型「GPT-Rosalind」，展示其在加速疾病病理分析与新药线索发现上的早期实质进展。",
+        "在罕见神经退行性疾病Perry综合征的研究中，模型分析小鼠大脑数据发现，破坏致病基因DCTN1会提升相关基因表达。",
+        "基于该机制，GPT-Rosalind提出全新药物研发线索：恢复大脑中的胆固醇转运，或有望保护神经元免受退变侵袭。",
+        "在同一个小鼠大脑数据集中，模型成功找到了结节性硬化症病理差异的线索，解释了为何TSC2突变通常比TSC1突变更严重。"
+      ],
+      "quote": {
+        "who": "OpenAI",
+        "role": "",
+        "said": "在同一个小鼠大脑数据集中，GPT-Rosalind找到了一个线索，或许能解释为什么TSC2突变引起的结节性硬化症往往比TSC1突变更严重。 这两个基因协同调节mTOR。然而在小脑神经元的一个亚群中，破坏TSC2改变了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 11万 · 模型与能力] 连破两大致命脑病谜题！OpenAI生物模型发威，揪出神经元退化解药线索"
     },
     {
       "title": "领跑才能定规则！Dario深夜长文硬刚质问：承认3处失误，但加速到底",
       "summary": "面对AI安全组织「借安全之名争夺超级智能」的公开质问，Anthropic CEO Dario Amodei深夜发布长文正面回应。Dario承认了包括联邦AI法案草案在内的3项沟通失误，但他强硬表示公司的加速路线绝不改变，「只有领跑者才能制定规则」。同时他披露Anthropic团队规模已突破5000人，正发力自研芯片直追OpenAI，此前曾为强化网络安全将Mythos级模型大范围…",
-      "reads": "74万",
-      "ago": "2 小时前",
+      "reads": "90万",
+      "ago": "7 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -129,14 +229,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 74万 · 政策与安全] 领跑才能定规则！Dario深夜长文硬刚质问：承认3处失误，但加速到底"
+      "rank": 9,
+      "line": "[榜第9位 · 90万 · 政策与安全] 领跑才能定规则！Dario深夜长文硬刚质问：承认3处失误，但加速到底"
     },
     {
       "title": "砍掉药企15年繁琐杂活！OpenAI突发收购Orchestra，AI Agent杀进新药研发",
       "summary": "OpenAI正式宣布收购生物医药协同平台Orchestra Bio，交易金额未公开。其团队与技术将全数并入OpenAI的生命科学模型及工具项目Rosalind。Orchestra擅长用AI Agent接管新药研发中耗时10至15年的监控与流程杂活，这也是OpenAI在重监管、高周期生命科学领域的一次关键落子。",
-      "reads": "72万",
-      "ago": "2 小时前",
+      "reads": "84万",
+      "ago": "8 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -154,258 +254,158 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 72万 · 组织与人事] 砍掉药企15年繁琐杂活！OpenAI突发收购Orchestra，AI Agent杀进新药研发"
-    },
-    {
-      "title": "255个PR清空796个文件！AI Agent硬核重构前端，技术债按Token算了",
-      "summary": "有开发者展示了一场完全由代码智能体操刀的前端全自动架构重构：仅凭自动化循环指令与 Sol 6.1 等模型协助，智能体在 6 天 17 小时内提交了 255 个 PR，将 OpenClaw 前端原有的 796 个 Lit 文件全部清零并重写为 Solid 2.0。整个重构历时约两周，人类开发者总共仅投入约一个工作日每隔一天看一眼进度，最终除极少数按钮形状与轻微 UX 退化外基本完…",
-      "reads": "37万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "开发者展示了通过自动化循环指令，让代码智能体彻底将 OpenClaw 的 Web 前端从 Lit 框架全量迁移至 Solid 2.0。",
-        "整个重构历时约两周，智能体实际连续运行 6 天 17 小时，期间共自动提交了 255 个 PR，将原先 796 个 Lit 文件全部清空并改写为地道的 So…",
-        "人工介入极少，开发者透露自己仅每隔一天检查一次 session，两周里实际总投入的人工工时仅约一个工作日。",
-        "由于 Solid 2.0 仍处 RC 候选阶段、缺乏世界知识，开发者专门为智能体挂载了速查表 skill，底层借助 Sol 6.1 等模型协助完成。"
-      ],
-      "quote": {
-        "who": "Peter Steinberger 🦞",
-        "role": "",
-        "said": "@exacurious 我用 Sol 6.1 来搞那个"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 37万 · 产品与生态] 255个PR清空796个文件！AI Agent硬核重构前端，技术债按Token算了"
-    },
-    {
-      "title": "72小时狂吞25万亿Token！谷歌TPU火力全开，新版Carbon又偷跑盲测",
-      "summary": "谷歌Gemini 4 Argon上线短短72小时，处理量便闪电突破约25万亿Token，官方直呼全网对智能算力的渴求依然被严重低估。伴随底层Google TPU算力集群的高负荷运转，代号为Carbon的全新Gemini Checkpoint已悄然进驻LMSYS Arena开启盲测，甚至交出了生成3D视频的首批测试样本。",
-      "reads": "10万",
-      "ago": "57 分钟前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "谷歌官方研究员透露，Gemini 4 Argon上线前72小时内处理的Token总量已达约25万亿个。",
-        "官方研究员发文强调，外界对高阶智能的需求依然被严重低估，并发调用量远超预期。",
-        "社区与开发者热烈讨论底层Google TPU集群的吞吐承载力，惊叹其高并发下的算力释放规模。",
-        "代号为Carbon的全新Gemini Checkpoint已被曝秘密接入LMSYS Arena展开盲测。"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "🚨 新的 Gemini Checkpoint 正在 Arena 上测试 名字没变，但代号是 carbon 这是第一个输出结果：给了 Gemini 吉祥物，让它做一个碳稳定性的 3D 视频 Logan 的救赎弧线来了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 10万 · 模型与能力] 72小时狂吞25万亿Token！谷歌TPU火力全开，新版Carbon又偷跑盲测"
-    },
-    {
-      "title": "正面硬刚Opus 5.5！谷歌Gemini 4 Carbon偷跑，3D暴涨但UI仍翻车",
-      "summary": "谷歌下一代主力杀器Gemini 4 Carbon被曝已正式启动早期体验计划（EAP），部分合作伙伴已拿到内测权限，模型同时秘密进入LMArena盲测，预计未来数周内正式发布。早期实测显示，该版本在3D能力上相比刚上线的Gemini 4 Argon大幅提升，输出更勤快、不再频繁偷懒，但推理速度明显变慢，且前端UI生成能力依然欠佳。业内普遍将其视作谷歌用来正面硬刚Anthropic…",
-      "reads": "8.2万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "早期体验计划开启：Gemini 4 Carbon的EAP测试已向部分合作伙伴开放，离公开发布非常接近。",
-        "秘密杀入盲测：模型已被送入竞技场LMArena进行盲测，普通开发者近期有望直接匹配测试。",
-        "3D能力显著增强：实测显示其在3D理解与生成表现上明显超越已上线的Gemini 4 Argon。",
-        "前端UI仍是短板：尽管3D能力突飞猛进，模型在前端与UI代码生成上的表现依然欠佳。"
-      ],
-      "quote": {
-        "who": "Pankaj Kumar",
-        "role": "",
-        "said": "@Crypt0Bizzi fable 5.5大概率会领跑，毕竟他们正在做这个。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 8.2万 · 模型与能力] 正面硬刚Opus 5.5！谷歌Gemini 4 Carbon偷跑，3D暴涨但UI仍翻车"
-    },
-    {
-      "title": "给ChatGPT装上私密保险箱！锁定对话全量推送：支持Face ID，连免费版都有",
-      "summary": "OpenAI 正式在 ChatGPT 中上线「锁定对话」（Locked Chats）隐私功能，给敏感聊天加了一道实体锁。用户可将特定对话彻底移出常规历史记录和搜索列表，存入独立的受保护空间，即使关闭窗口也不会丢失。网页端与桌面端支持 PIN 码解锁，移动端支持 Face ID、Touch ID 或系统设备锁，覆盖免费版、Go、Plus、Pro 以及企业版和教育版全量用户。",
-      "reads": "34万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 官方宣布在 ChatGPT 中推出锁定对话（Locked Chats）功能，目前正面向全球用户陆续推送。",
-        "锁定对话独立于常规聊天历史：敏感对话被移出日常记录列表与全局搜索，彻底避免翻看记录或公共场合被他人瞥见。",
-        "多端解锁机制完备：网页端与桌面端支持自定义设置 PIN 码解锁；移动端无缝接入系统安全能力，支持 PIN 码、Face ID、Touch ID 及设备密码。",
-        "全版本权益下放：本次更新并非付费用户专属，涵盖免费版、Go、Plus、Pro 以及企业版和教育版用户。"
-      ],
-      "quote": {
-        "who": "Kol Tregaskes",
-        "role": "",
-        "said": "因为我们平时的聊天没有被锁……"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 34万 · 产品与生态] 给ChatGPT装上私密保险箱！锁定对话全量推送：支持Face ID，连免费版都有"
+      "line": "[榜第10位 · 84万 · 组织与人事] 砍掉药企15年繁琐杂活！OpenAI突发收购Orchestra，AI Agent杀进新药研发"
     },
     {
-      "title": "成本暴降31％还反超2分！Devin祭出双模型大杀器，Claude Code被偷家了",
-      "summary": "代码Agent跑分纪录被刷新，打赢官方方案的居然是一套「混血架构」。基准测试机构 Artificial Analysis 最新公布 Coding Agent Index 榜单，Cognition 旗下的 Devin Fusion 凭借「Claude Opus 5.5 (max) 主导 + GPT-6 Luna (high) 辅助」的双模型方案斩获 68 分，不仅比单独运行 Op…",
-      "reads": "3.2万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
+      "title": "提前17年测出癌症？Theranos惊天骗局新细节曝光：数据竟来自死人",
+      "summary": "昔日硅谷最大医疗独角兽 Theranos 的造假内幕再添荒诞细节。创始人 Elizabeth Holmes 曾在 2014 年的公开演讲中放话，称其微量血检技术能在患病前 17 年精准预测癌症。然而最新披露显示，这个支撑起数十亿美元泡沫的核心预测数据，竟完全是从死人身上得来的。",
+      "reads": "9.2万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Artificial Analysis 发布最新 Coding Agent Index 评测，Cognition 旗下的 Devin Fusion 跑出 6…",
-        "Devin Fusion 采用「前沿主导模型 + 低成本辅助模型」的双模型运行架构，核心规划由 Claude Opus 5.5 (max) 担当，轻量任务则…",
-        "在性能与成本对比上，Devin Fusion 的 68 分比单用 Opus 5.5 (max) 的 Claude Code 高出 2 分，同时将单任务运行成…",
-        "这项实测坐实了「前沿大模型规划大局、低成本侧翼模型写具体代码」的双模型协作范式，为开发者在实际生产中降本增效指明了路线。"
+        "2014 年，Theranos 创始人 Elizabeth Holmes 在山景城计算机历史博物馆发表公开演讲。",
+        "Holmes 当时在台上公开宣称，公司的血液检测可以在人们患病前 17 年就预测出癌症。",
+        "最新内幕曝光显示，这一所谓的「提前 17 年预警」数据，实际上是她从死人身上提取获取的。",
+        "Holmes 当年正是凭借这一虚假成果向台下观众与投资者兜售合作，吹大了百亿美元的估值泡沫。"
       ],
       "quote": {
-        "who": "J A Z I I",
+        "who": "Aakash Gupta",
         "role": "",
-        "said": "@TokenGremlin 这是最佳组合"
+        "said": "想不受算法过滤看到我的所有观点，欢迎订阅我的Newsletter："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 3.2万 · 模型与能力] 成本暴降31％还反超2分！Devin祭出双模型大杀器，Claude Code被偷家了"
+      "line": "[榜第11位 · 9.2万 · 政策与安全] 提前17年测出癌症？Theranos惊天骗局新细节曝光：数据竟来自死人"
     },
     {
-      "title": "英伟达最硬护城河被撬！Meta一手确认投奔谷歌TPU，已在生产环境跑推理",
-      "summary": "买卡狂魔 Meta 真的把推理算力切给谷歌了。Google 开发者博客发布 TPU 版 SGLang 推理引擎，Meta 的 PyTorch-TPU 负责人 Zongwei Zhou 正式确认：SGLang-TorchTPU 今天已经在 Meta 的生产环境中稳定运行。这也是 Meta 官方首次一手证实全面引入 TPU 跑核心业务，英伟达牢不可破的 CUDA 护城河迎来了最强烈…",
-      "reads": "7.2万",
-      "ago": "3 小时前",
+      "title": "当年送给OpenAI的整台超算机箱，老黄现在单手端起来了！1 PFLOPS塞进轻薄本",
+      "summary": "NVIDIA官方发布最新演示，黄仁勋在现场手持展示了一台具备 1 petaflop 计算能力与 128GB 内存的轻薄便携设备，身旁陈列着微软、戴尔XPS、联想等一线品牌笔记本。老黄在现场特意对比历史，回顾了2016年他亲自向当时还是一家小公司的OpenAI交付首台 1 petaflop 算力与 128GB 内存机箱的往事。曾经庞大昂贵的超级计算集群算力，如今被浓缩进单手可拿的…",
+      "reads": "19万",
+      "ago": "4 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "一手实锤落地：Google 开发者博客发布 TPU 版 SGLang，首次公开确认 Meta 正在生产环境中部署 Google TPU 跑 AI 推理。",
-        "内部负责人官宣：Meta 的 PyTorch-TPU 负责人 Zongwei Zhou 明确表态，SGLang-TorchTPU 已经在 Meta 实际生产…",
-        "此前传闻完全应验：早在 2025 年 11 月 28 日就有爆料指出 Meta 采购了大量 TPU 并组建专项工程团队，如今该消息得到彻底证实。",
-        "直击英伟达护城河：Meta 是全球最顶级的算力买家之一，其规模化推理转向 Google TPU，被业内视为对英伟达 CUDA 生态最实质性的撬动。"
+        "黄仁勋现场展示 1 PFLOPS 轻薄设备：在NVIDIA官方最新演示中，黄仁勋手持并展示了一台具备 1 petaflop 算力与 128GB 内存的便携终…",
+        "展台身旁集结一线品牌：展示现场身旁陈列着微软、戴尔XPS、联想等一线品牌笔记本，预示着该规格算力正在加速融入个人计算产品。",
+        "现场追忆 2016 年名场面：黄仁勋在现场特别回顾，2016年他曾亲自向初创时期的OpenAI交付了第一台具备 1 petaflop 算力和 128GB 内…",
+        "超算体积实现降维式浓缩：同样是 1 petaflop 算力加 128GB 内存，从当年沉重的庞大超算机箱浓缩至单手托起的轻薄便携设备，硬件密度经历了代际式飞…"
       ],
       "quote": {
-        "who": "宝玉",
+        "who": "NVIDIA",
         "role": "",
-        "said": "Meta 工程师确认：Meta 已在正式业务里用 Google TPU 跑 AI 推理 10 月 20 日，Google 在开发者博客发布 TPU 版 SGLang 推理引擎，文中引用了 Meta 的 PyTorch-TPU 负责人 Zongwei Zhou 的原话：\"SGLang-TorchTPU 今天已经在 Meta 的生产环境中运行。\"这是目前唯一的一手确认。 TPU 是 Google 自研的"
+        "said": "1 petaflop。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 7.2万 · 资本与算力] 英伟达最硬护城河被撬！Meta一手确认投奔谷歌TPU，已在生产环境跑推理"
+      "line": "[榜第12位 · 19万 · 资本与算力] 当年送给OpenAI的整台超算机箱，老黄现在单手端起来了！1 PFLOPS塞进轻薄本"
     },
     {
-      "title": "只让写个Mac温度应用，Claude顺手揪出挖矿木马！还预警GitHub泄漏",
-      "summary": "开发者原本只是让Claude在Mac上开发一个简单的温度小工具，不料它在未经提示的情况下主动挖出潜伏的挖矿木马，甚至还提醒用户的GitHub凭证可能泄露。与此同时，没有任何生物学背景的投资研究机构也借助Claude在一夜间调动300多个AI智能体设计出有效抗毒素。两起真实案例表明，大模型正快速脱离单纯的问答和补全代码模式，进化为具备主动探索与复杂分工能力的完全自主智能体。",
-      "reads": "2.8万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
+      "title": "官方补丁还没到，PHP 9.2高危代码全网流出！黑客一键直接拿Shell",
+      "summary": "在官方安全补丁正式推送前数小时，PHP突发的高危远程代码执行（RCE）漏洞公开利用代码已在网络上彻底流出，并附带完整可下载代码。发布者已完成实验室与实地武器化验证，随后名为php2shell的自动化渗透工具也相继现身。面对这两个CVSS评分高达9.2的致命漏洞，攻击门槛被彻底打平，全球数以百万计尚未打补丁的PHP服务器瞬间陷入裸奔险境。",
+      "reads": "10万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "自主排查挖矿木马：一位开发者在要求Claude编写简单的Mac温度应用时，Claude在未收到安全排查指令的情况下，主动识别出系统内潜藏的挖矿恶意程序。",
-        "顺藤摸瓜锁定老巢：Claude精准定位了恶意软件在系统内的具体藏匿路径，并主动向用户预警其GitHub账号登录凭证可能已经遭到泄露。",
-        "金融团队跨界科研：没有任何科研人员和生物背景的投资通讯团队Citrini Research，尝试给Claude指派设计蝎毒抗毒素的复杂任务。",
-        "一夜调动300+智能体：Claude在夜间自主创建并协调了300多个AI智能体完成蛋白质结构设计，并将分子方案直接发送给真实实验室进行实测。"
+        "严重等级拉满：本次曝光的PHP远程代码执行漏洞CVSS评分高达9.2，属于极高危安全事件。",
+        "利用代码抢跑官方：在PHP官方安全补丁原定正式发布的前数小时，公开利用代码（Exploit）已在网络上公开上线。",
+        "完整代码开放下载：漏洞发布者附带了完整的可执行与下载代码，使攻击利用门槛降至冰点。",
+        "已被实地武器化：发布者J4ck3LSyN明确表示，该漏洞已被成功复现并完成「实验室/实地测试」，其中一个漏洞直接被标记为「实验室武器化」。"
       ],
       "quote": {
-        "who": "Alex Prompter",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "觉得有用的话，不妨看看我下方的 Newsletter 我每周都会分享一个 AI 绝技 免费订阅 👇"
+        "said": "又来一个：php2shell poc"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 2.8万 · 模型与能力] 只让写个Mac温度应用，Claude顺手揪出挖矿木马！还预警GitHub泄漏"
+      "line": "[榜第13位 · 10万 · 政策与安全] 官方补丁还没到，PHP 9.2高危代码全网流出！黑客一键直接拿Shell"
     },
     {
-      "title": "为直面超级智能防务！奥特曼重磅摇人，大牛Aleksander压阵OpenAI",
-      "summary": "面对迫在眉睫的超级智能安全与防卫挑战，OpenAI 迎来关键人事布局。CEO Sam Altman 正式宣布，大牛 Aleksander 已接受邀请加盟并挑起安全与防务重担。Altman 强调当前直面超级智能的安全挑战极其严峻，而 Aleksander 具备极为过硬的专业能力；与此同时，评论区开发者还顺势追问起了传闻中的 6.1 Astra 等新模型动向。",
-      "reads": "76万",
-      "ago": "12 小时前",
-      "category": "组织与人事",
+      "title": "数月建机房缩至几天！英伟达发布DSX POD，DGX极速版彻底解决算力扩展",
+      "summary": "英伟达正式推出全新 DSX POD 算力基础设施方案，直接将过去耗时数月的数据中心建设周期大幅压缩到几天之内，全力解决算力扩展的最大痛点。除了底座算力实现极速交付，英伟达还在加速渗透垂直行业，不仅推出数字放射科医生用于癌症的快速筛查与治疗，更宣布「CUDA 打通了第一通电话」强势切入移动通信网络。不过针对算力交付周期的骤降，业内也清醒指出，能源与电力供应正成为阻碍扩展的更大瓶颈…",
+      "reads": "9.1万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 首席执行官 Sam Altman 正式发文宣布，Aleksander 已接受邀请加盟公司并主持工作。",
-        "Aleksander 此次履新将核心挑起安全与防务（safety and security）的重担。",
-        "Altman 直言，人类在直面超级智能（superintelligence）的过程中，眼前的安全与防卫挑战极其严峻。",
-        "Altman 盛赞 Aleksander 拥有极其出色的专业技能储备，是应对这项超级工程的最佳人选。"
+        "英伟达全新算力方案 DSX POD 亮相，核心定位直击算力扩展瓶颈，推动计算基础设施快速就位。",
+        "交付周期从数月压缩至几天，相比传统数据中心漫长的搭建流程，DSX POD 实现了算力容量的快速扩容。",
+        "数字放射科医生登场，英伟达加速 AI 渗透医疗健康领域，帮助临床更快完成癌症的检测与诊疗流程。",
+        "通信领域迎来关键突破，官方宣布「CUDA 打通了第一通电话」，意味着英伟达计算架构正深度融入移动通信网络。"
       ],
       "quote": {
-        "who": "leo 🐾",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "@sama 嘿 Sam，你在这一带见过某个 6.1 Astra 吗"
+        "said": "@PawelJLisowski 确实，但我还是觉得能源是更大的问题/瓶颈"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 76万 · 组织与人事] 为直面超级智能防务！奥特曼重磅摇人，大牛Aleksander压阵OpenAI"
+      "line": "[榜第14位 · 9.1万 · 产品与生态] 数月建机房缩至几天！英伟达发布DSX POD，DGX极速版彻底解决算力扩展"
     },
     {
-      "title": "4万付费用户遭降级打击！OpenAI确认额度故障：被错误套了低档配额",
-      "summary": "周末不少 ChatGPT 和 Codex 付费用户吐槽额度消耗快得离奇，OpenAI 官方终于排查确认真有这回事。排查显示，约 40,000 个账户出现额度限制异常，系统错误地将他们实际订阅的高阶方案套用了更低档套餐的配额。目前 OpenAI 已经锁定这 4 万名受影响用户，正逐一单独联系并展开修复。",
-      "reads": "124万",
-      "ago": "16 小时前",
-      "category": "产品与生态",
+      "title": "老黄抛出预制版DGX SuperPOD！Rubin产出暴涨30倍，14天就能交钥匙",
+      "summary": "英伟达在柏林 GTC 2026 正式推出全栈 AI 工厂参考架构 DSX POD，将计算、网络、存储及供电制冷深度协同，出厂前已全面完成软硬件集成。黄仁勋在现场展示了 Rubin NVL72 机柜，指出 Vera Rubin 在短短两年内将每美元 Token 产出提升至 Blackwell 的 30 倍。得益于数字孪生虚拟验证与预制化方案，该架构在准备就绪的场地最快仅需 14…",
+      "reads": "4.4万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "事故确认：针对近期用户集中反映的使用额度快速耗尽问题，OpenAI 官方排查证实系统确实存在配额限制异常。",
-        "影响规模：官方确认约 40,000 个账户受到波及，涉及 ChatGPT 与 Codex 的付费订阅群体。",
-        "翻车原因：系统在判定用量规则时出现故障，受影响用户被错误赋予了更低档套餐的额度，导致可用次数与调用时长断崖式缩水。",
-        "善后方案：OpenAI 表示当前已针对这约 40,000 名中招用户展开一对一单独联系，并陆续恢复正常配额。"
+        "英伟达在柏林 GTC 2026 正式发布全栈 AI 工厂参考架构 DSX POD，推动超大规模数据中心走向模块化与标准化",
+        "黄仁勋现场展示 Rubin NVL72 机柜，宣布 Vera Rubin 在两年内将每美元 Token 产出推高至 Blackwell 的 30 倍",
+        "DSX POD 将计算、网络、存储、软件以及供电和冷却系统深度协同设计，打造端到端一体化系统",
+        "系统全面引入数字孪生虚拟验证，在物理建设施工前即可对性能、功耗、水耗与扩展规模进行精准仿真"
       ],
       "quote": {
-        "who": "Token Gremlin",
+        "who": "NVIDIA",
         "role": "",
-        "said": "这就是社区的力量。"
+        "said": "阅读来自GTC Berlin的新闻 ⬇️"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 124万 · 产品与生态] 4万付费用户遭降级打击！OpenAI确认额度故障：被错误套了低档配额"
+      "line": "[榜第15位 · 4.4万 · 资本与算力] 老黄抛出预制版DGX SuperPOD！Rubin产出暴涨30倍，14天就能交钥匙"
     },
     {
-      "title": "0 Token随便用！Perplexity把智能体搬进Mac：敏感数据绝不上云",
-      "summary": "Perplexity官方宣布其Perplexity Computer现已支持在Mac端完全离线运行，模型与智能体全部在本地执行，敏感数据不离开设备。本地核心任务由基于Qwen 3.8微调的PPLX Pro模型驱动，完全不消耗云端额度。针对复杂工作流还提供云端与端侧协同的Hybrid混合模式，官方建议设备配置36 GB统一内存。",
-      "reads": "27万",
-      "ago": "10 小时前",
+      "title": "英伟达实验室悄悄上新！微型机器鸭Microducks首秀：听懂人话还会原地打盹",
+      "summary": "英伟达官方悄悄公布了一段微型足式机器人实测视频，主角被命名为 Microducks。这只小机器人在实验室货架底层空间自如穿梭，身上配备了摄像头，能实时听从测试员的口头指令，流畅完成坐下、站立和原地休眠打盹等动作。目前英伟达暂未公布该机器人的详细硬件配置或商业化路线。",
+      "reads": "8.1万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Perplexity Computer正式支持在Apple silicon Mac本地完全离线运行，智能体与模型均在端侧执行，无需将敏感数据上传云端。",
-        "端侧运行采用Perplexity基于Qwen 3.8后训练打造的PPLX Pro模型，完全本地执行的任务不消耗云端Computer额度。",
-        "推出Hybrid混合模式：针对更复杂的任务，可在云端模型与Mac本地模型之间智能拆分执行，平衡算力与数据隐私。",
-        "已面向Pro、Max和Enterprise订阅用户开放，官方建议配备36 GB统一内存以获得最佳性能。"
+        "英伟达官方账号发布实机视频，正式展示名为 Microducks 的小型足式机器人",
+        "测试场景位于实验室支架底层空间，周围堆放黑色设备箱与金属支架，展现复杂狭窄地形适应力",
+        "Microducks 机身配备摄像头，操作人员引导其走向镜头展示平稳步态",
+        "测试员依次下达「走过来、坐下、站立、打盹（take a nap）」四项语音口令，机器人均顺利完成"
       ],
       "quote": {
-        "who": "Wes Roth",
+        "who": "NVIDIA",
         "role": "",
-        "said": "Perplexity 已在 Mac 应用中为 Computer 推出了完全本地模式。 模型和智能体均在端侧运行，基于权限访问本地文件以及 Notes 和 Mail 等受支持的应用。完全本地的任务不消耗 Computer 额度。 Pro、Max 及"
+        "said": "就连 Microducks 也得打个盹。😴"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 27万 · 产品与生态] 0 Token随便用！Perplexity把智能体搬进Mac：敏感数据绝不上云"
+      "line": "[榜第16位 · 8.1万 · 产品与生态] 英伟达实验室悄悄上新！微型机器鸭Microducks首秀：听懂人话还会原地打盹"
     }
   ],
   "board_count": 16,
