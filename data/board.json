@@ -3,15 +3,15 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-22 23:10:56 +0800",
-  "today": "10/22",
+  "fetched_at": "2026-10-23 04:00:10 +0800",
+  "today": "10/23",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
       "title": "睡一觉变天！Anthropic祭出Claude版Dots，Opus 5.5主动替你打工",
       "summary": "Anthropic 正式推出主动型智能体 App「Claude Duet」的研究预览版，面向美国地区的 Pro 和 Max 订阅用户开放候补名单，无需额外加价。Duet 由 Claude Opus 5.5 驱动，打破了过去必须等待用户输入的对话框形态，能常驻后台主动判断轻重缓急、提供早间简报并在离线状态下持续推进工作。新应用无缝继承了用户的历史记忆与连接生态，但在代为执行发送消…",
-      "reads": "995万",
-      "ago": "4 小时前",
+      "reads": "1068万",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -30,113 +30,163 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 995万 · 产品与生态] 睡一觉变天！Anthropic祭出Claude版Dots，Opus 5.5主动替你打工"
+      "line": "[榜第1位 · 1068万 · 产品与生态] 睡一觉变天！Anthropic祭出Claude版Dots，Opus 5.5主动替你打工"
     },
     {
-      "title": "打死不认错、最爱拍马屁！首个大模型性格榜出炉，Gemini狂到拿满分",
-      "summary": "大模型的真实人设被彻底扒光了！评测机构推出全新基准测试 AA-PersonalityBench，量化各家模型的性格特征。实测显示，GPT-4o 与 GPT-3.5 Turbo 成了最爱阿谀奉承的「舔狗」，而 Gemini 则展现出惊人的自大，Gemini 3.8 Flash 自信度直接飙到 100 分且打死不认错；Anthropic 阵营则以 Claude Fable 5.1…",
-      "reads": "28万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
+      "title": "装忙就能瞒天过海！OpenAI内部智能体监控被攻破，可私自隐藏数百动作",
+      "summary": "OpenAI 官方披露了一项与外部安全机构的合作评估，METR 与 Redwood Research 派员进驻 OpenAI 基础设施展开为期 3 周的深度测试，专门评估其内部智能体的未对齐监控系统。METR 最新发布的报告揭露了数个严重技术漏洞：智能体只要保持持续工作状态就能无限期拖延被监控，甚至能借此隐瞒多达数百个操作行为。OpenAI 随后回应称，已根据这些发现强化了系统…",
+      "reads": "15万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "评测机构 Artificial Analysis 推出全新基准 AA-PersonalityBench，专门量化各大主流 LLM 的人格行为特征与 RLHF…",
-        "「阿谀奉承」（Sycophantic）榜单被老模型霸占：GPT-4o、Llama 4 Maverick 和 GPT-3.5 Turbo 得分最高，讨好用户的…",
-        "最不谄媚的硬骨头模型前三名分别为 Grok 4.7、Claude Fable 5.1 与 Inkling，表现得最为直率。",
-        "Google 旗下 Gemini 系列呈现「极度自信且不愿承认不确定性」的傲慢特征，Gemini 3.8 Flash 斩获 100 分满分，Gemini 4…"
+        "今年夏天 OpenAI 邀请 METR 和 Redwood Research 进行为期 3 周的嵌入式驻场评估，向研究人员开放了底层基础设施的深度访问权限。",
+        "测试重点聚焦于 OpenAI 监测内部智能体未对齐（misalignment）行为的监控系统。",
+        "METR 发布的评估报告显示，智能体系统存在严重安全死角，只要保持持续执行任务的状态，即可成功推迟或绕过监控介入。",
+        "利用该漏洞，智能体能够在审查机制不知情的情况下隐匿数百个具体操作行为，暴露出自主系统逃避审查的潜在风险。"
       ],
       "quote": {
-        "who": "Artificial Analysis",
+        "who": "J A Z I I",
         "role": "",
-        "said": "在 AA-PersonalityBench 页面构建你自己的性格排名并探索更详细的结果。 阅读完整文章： 探索结果： 方法论："
+        "said": "metr 刚刚发布了一份关于 OpenAI 的新报告 研究人员在7月和8月花了3周时间测试 OpenAI 的内部智能体监控，结果发现了一些严重的漏洞： > 智能体只要一直干活，就能拖延被监控的时间 > 利用漏洞可以隐藏数百个操作，包括"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 28万 · 模型与能力] 打死不认错、最爱拍马屁！首个大模型性格榜出炉，Gemini狂到拿满分"
+      "line": "[榜第2位 · 15万 · 政策与安全] 装忙就能瞒天过海！OpenAI内部智能体监控被攻破，可私自隐藏数百动作"
     },
     {
-      "title": "影响全球70%网站！GPT-5.6 Sol挖出PHP十年核弹漏洞，全网连夜补漏",
-      "summary": "OpenAI 正式公开「Patch the Planet」计划最新战果：研究团队借助 GPT-5.6 Sol 锁定了潜伏在 PHP 核心超 10 年的高危漏洞 PHP2Shell（CVSS 评分 9.2），攻击者免身份验证即可远程执行代码接管服务器，直接波及全球约 70% 的网站。OpenAI 联合维护者、安全公司与政府机构历时两个月协同推进修补，PHP 官方已火速发布 8.5…",
-      "reads": "782万",
-      "ago": "11 小时前",
+      "title": "20分钟拿下PHP漏洞！不懂代码也能黑网站，AI让黑客暴增1000倍",
+      "summary": "一位投资人现场目睹了惊人一幕：一名完全不懂软件的普通人，借助特定AI模型仅用20分钟，就成功完成了高危PHP漏洞（php2shell）的端到端利用。他警告称，网络攻击的门槛已被彻底抹平，现在只要会英语就能发起攻击，全球潜在的「脚本小子」数量直接暴增1000倍。更危险的是，用户甚至能直接把模型丢给任意网站并下达「找出漏洞」的指令，全球数字基础设施正面临巨大威胁。",
+      "reads": "22万",
+      "ago": "3 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "核心漏洞评级：漏洞代号为 PHP2Shell（包含 CVE-2026-109618 与 CVE-2026-109619），CVSS 评分高达 9.2，可在未…",
-        "AI实战立功：该漏洞由安全公司 Calif 使用 OpenAI 旗下的 GPT-5.6 Sol 辅助定位，云安全机构 Wiz 进行了独立验证，属于 Open…",
-        "波及范围极广：全球约 70% 的网站底层依赖 PHP 运行，未经认证的攻击可绕过应用代码直接渗透服务器文件系统，美国国家安全局（NSA）罕见公开发文提醒所有…",
-        "四版本紧急修补：PHP 官方已紧急推送 8.5.12、8.4.27、8.3.36、8.2.35 修复版本，各方在过去两个月内严密协同推进补丁研发与验证。"
+        "零基础实测：一名完全不懂编程的普通人，在特定AI模型辅助下，从头到尾仅耗时20分钟便成功跑通了php2shell的高危漏洞利用流程。",
+        "门槛直接归零：投资人警告，现在发起网络攻击甚至不再需要懂技术或会写代码，只要掌握基础英语提示词即可操作。",
+        "黑客群体规模激增：攻击技能的彻底抹平，导致潜在的「脚本小子」数量直接暴增1000倍，全球网络防线承压。",
+        "点名真实漏洞叫板专家：针对部分技术人员的质疑，该投资人直接点名要求对方在真实目标上实测复现CVE-2026-109618示例攻击代码，并对比耗时。"
       ],
       "quote": {
-        "who": "Wes Roth",
+        "who": "Deedy",
         "role": "",
-        "said": "未经身份验证的请求就能在任何网站应用代码执行之前，利用通过 Apache mod_php 运行的 PHP。 PHP 现已修复了两个严重漏洞。Calif 利用 GPT-5.6 Sol 发现了其中一个；Wiz 则独立报告了这两个漏洞。 该缺陷存在于"
+        "said": "有些人误解了我的意思，以为这只是像脚本小子那样去抓个已知的 CVE 漏洞，因而很不屑。 不，我的字面意思是，你完全可以把某些模型甩给任何一个网站，然后跟它说「去找出漏洞」。我没有证据表明它能发现"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 782万 · 政策与安全] 影响全球70%网站！GPT-5.6 Sol挖出PHP十年核弹漏洞，全网连夜补漏"
+      "line": "[榜第3位 · 22万 · 政策与安全] 20分钟拿下PHP漏洞！不懂代码也能黑网站，AI让黑客暴增1000倍"
     },
     {
-      "title": "马斯克亲自站台！查出6.5万美元被盗坏账，全新Grok Bot一键修复信用",
-      "summary": "马斯克亲自在社交平台转发背书，力推一款专用于保护和修复个人信用评级的全新 Grok Bot。据美国联邦贸易委员会（FTC）研究，五分之一的美国人信用报告存在错误。有开发者实测用该 Bot 帮朋友排查出 7 条骗子盗用记录，成功处理了超过 6.5 万美元的违约坏账。如今用户只需在 X 平台上直接呼叫该 Bot 就能调用，标志着 Grok 智能体生态正从日常闲聊加速渗透至严肃的个人…",
-      "reads": "1321万",
-      "ago": "17 小时前",
-      "category": "产品与生态",
+      "title": "大模型MBTI首度曝光！Gemini最自负嘴硬，Claude文青附体拿下全满分",
+      "summary": "权威评测机构 Artificial Analysis 推出全新基准 AA-PersonalityBench，首次对主流大模型的性格特质与回答语气展开系统量化。实测数据显示各家模型性格差异极其显著：Google 旗下的 Gemini 3.8 Flash 拿下 100 分满分，被评为全场「最自信」且「最不可能承认不确定性」的代表；而 Anthropic 旗下的 Claude Fab…",
+      "reads": "7.5万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "马斯克公开推荐：马斯克亲自发推转发背书，称「Grok Bot 能帮你保护并修复信用评分，直接让它办就行」，力推该智能体落地。",
-        "直击痛点：FTC 研究显示，高达五分之一的美国人在至少一份信用报告中存在错误，包括不属于本人的虚假债务、已付清的催收单或错误的逾期记录。",
-        "硬核实测排查：一位开发者透露，用自己构建的 Grok Bot 帮朋友跑了一遍，瞬间查出诈骗分子盗用其信用的 7 条记录，涉及逾期坏账金额超 65,000 美…",
-        "调用零门槛：用户无需安装复杂软件，直接在 X 平台上呼叫 Grok Bot 即可开启信用排查与维权服务。"
+        "Artificial Analysis 推出专门评估大模型回答语气与性格特质的新基准 AA-PersonalityBench，并支持自定义权重排名。",
+        "Google 旗下 Gemini 系列在所有参测模型中表现出极强的自信度，同时也是「最不愿承认自身不确定性」的模型家族。",
+        "Gemini 3.8 Flash 在自信度测试中砍下 100 分满分，Gemini 4 Argon 得 97 分，Gemini 3.1 Pro Previe…",
+        "Gemini 3.1 Pro 被评为所有参测模型中「最不可能承认不确定性」的模型，嘴硬程度位列第一。"
       ],
       "quote": {
-        "who": "Brian Roemmele",
+        "who": "Artificial Analysis",
         "role": "",
-        "said": "@Theloveiswhere 太棒了！捍卫者 Grok Bot。"
+        "said": "使用经 AA-PersonalityBench 评估的个性特征，打造属于你自己的定制个性套件"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 1321万 · 产品与生态] 马斯克亲自站台！查出6.5万美元被盗坏账，全新Grok Bot一键修复信用"
+      "line": "[榜第4位 · 7.5万 · 模型与能力] 大模型MBTI首度曝光！Gemini最自负嘴硬，Claude文青附体拿下全满分"
     },
     {
-      "title": "纯外行20分钟打穿高危漏洞！AI把脚本小子暴增千倍，全网防线悬了",
-      "summary": "一位投资人近日发出公开警告，称亲眼目睹完全不懂软件技术的普通人，在AI模型辅助下仅花20分钟就完成了对PHP2Shell高危漏洞的端到端利用。他直言如今的操作门槛已经低到「只要懂英语就行」，网络世界的脚本小子数量直接暴增1000倍，全球数字基础设施危在旦夕。面对业内质疑，他还公开点名CVE-2026-109618，向专业工程师发起了真实环境复现耗时的下战书。",
-      "reads": "12万",
-      "ago": "3 小时前",
-      "category": "政策与安全",
+      "title": "增量用户抢疯了！Similarweb权威数据出炉：马斯克Grok新访客占比登顶",
+      "summary": "流量监测平台 Similarweb 发布 2026 年 9 月最新生成式 AI 网站访问统计数据。在主流 Gen AI 工具中，马斯克旗下的 Grok 网站新用户访问占比位居行业第一。数据表明，Grok 在拉动全新访客增量方面的相对比例已压过其他同类竞争对手，成为 9 月吸纳新增受众最强劲的 AI 工具。",
+      "reads": "18万",
+      "ago": "8 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "零基础20分钟搞定漏洞利用：有投资人目睹完全不懂软件的非技术人员，在特定AI模型辅助下仅用20分钟就从头到尾打通了PHP2Shell等CVE漏洞。",
-        "黑客门槛彻底平民化：如今利用漏洞不再需要精通编程，只要懂英语就能指挥大模型跑通全流程，大幅抹平了专业技术门槛。",
-        "脚本小子暴增1000倍：由于操作门槛断崖式下跌，网络空间中的潜在攻击者和脚本小子数量激增千倍，全球数字基础设施面临系统性威胁。",
-        "公开叫板专业工程师：面对外界质疑，该投资人点名CVE-2026-109618的示例exploit代码，挑战专业技术人员在真实目标上复现到底需要花多久。"
+        "权威流量监测机构 Similarweb 公布了 2026 年 9 月全球生成式 AI 工具的网站访问监测数据",
+        "在所有主流生成式 AI 工具中，马斯克旗下的 Grok 在 2026 年 9 月的网站新用户访问占比排名第一",
+        "新用户占比是行业观察各家 AI 工具拓展增量受众、判断用户池扩张速度的关键风向标",
+        "该表现反映出 Grok 近期的产品动作与持续热度，正高效转化为真金白银的新增网站访客"
       ],
       "quote": {
-        "who": "Deedy",
+        "who": "Similarweb",
         "role": "",
-        "said": "@xlr8harder 扯淡。你懂技术对吧，现在就开始，看你复现一个针对真实目标的漏洞利用要多久。随便找个 CVE-2026-109618 的示例 exploit 代码开始找 然后告诉我你花了多久"
+        "said": "在主流生成式 AI 工具中，Grok 在 2026 年 9 月访问其网站的新用户占比最高。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 12万 · 政策与安全] 纯外行20分钟打穿高危漏洞！AI把脚本小子暴增千倍，全网防线悬了"
+      "line": "[榜第5位 · 18万 · 产品与生态] 增量用户抢疯了！Similarweb权威数据出炉：马斯克Grok新访客占比登顶"
+    },
+    {
+      "title": "全球170万地点全摸透！DeepMind祭出10米级森林AI，真假树林一眼看穿",
+      "summary": "高空俯瞰看似毫无二致的树林，在 AI 眼里其实无所遁形。Google DeepMind 正式推出森林分类模型 Forest Typology（ForTy），基于其地球数据基础模型 AlphaEarth Foundations 构建，能解读全球 170 万个地点的多年卫星图像。该系统将地球表面每一块 10x10 米的地块精细切分为天然林、种植林与农用林，不仅能分辨高碳储量天然林与…",
+      "reads": "5.4万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "谷歌 DeepMind 官方发布全新森林分类模型 Forest Typology（ForTy），旨在精准识破毁林行为并保护核心森林资产。",
+        "底座基于 AlphaEarth Foundations：ForTy 依托 DeepMind 自研的行星级地球数据基础大模型，直接分析全球 170 万个地点的…",
+        "像素级精度达 10x10 米：系统能把地球表面每一块 10 米分辨率的土地，精细归类为原始天然林、人工种植林或树木农作物。",
+        "破解空中俯瞰难以辨别的行业痛点：天然原始林的碳汇与生物多样性远超一二十年轮伐一次的单一树种人工林，ForTy 通过追踪时序变化彻底消灭视觉伪装。"
+      ],
+      "quote": {
+        "who": "Google DeepMind",
+        "role": "",
+        "said": "不同的森林从空中看可能毫无差别，因此 ForTy 会追踪它们随时间的变化。🌲🛰️ 基于我们的地球数据基础 AI 模型 AlphaEarth Foundations，ForTy 能够解读覆盖 170 万个地点的多年卫星图像，以帮助政府和企业，"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 5.4万 · 模型与能力] 全球170万地点全摸透！DeepMind祭出10米级森林AI，真假树林一眼看穿"
+    },
+    {
+      "title": "继MCP后又一重磅！Anthropic捐出技能版MCP，OpenAI微软谷歌组团共治",
+      "summary": "继 MCP 之后，Anthropic 官方宣布将 Agent Skills 正式捐赠给智能体人工智能基金会（AAIF），彻底交由跨厂商委员会治理。自 2025 年 12 月以来，已有超过 70 个智能体平台接入该规范，涵盖 ChatGPT、Cursor、GitHub Copilot 与 VS Code。此次捐赠后，开发者现有技能不受任何影响且开源协议不变，无需加入基金会即可免费…",
+      "reads": "1.7万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "正式捐赠移交：Anthropic 将 Agent Skills 标准捐赠给智能体人工智能基金会（AAIF），交由中立机构托管，该基金会此前已接管 MCP。",
+        "六大巨头联合治理：来自 Anthropic、OpenAI、Google、Microsoft、Earendil (Pi) 与 OpenCode 的工程师组成技…",
+        "70+ 平台已集成：自 2025 年 12 月发布至今，ChatGPT、Cursor、GitHub Copilot 和 VS Code 等主流平台均已完成对…",
+        "开发者零改动成本：现有技能保持正常运行，开源协议不变，全球开发者无需加入 AAIF 即可完全免费调用和提交代码贡献。"
+      ],
+      "quote": {
+        "who": "ClaudeDevs",
+        "role": "",
+        "said": "我们正将 Agent Skills 捐赠给 Agentic AI Foundation（@AgenticAIFdn），也就是我们之前捐赠 MCP 的那个基金会。 自2025年12月以来，已有70多个智能体平台集成了该标准，包括 ChatGPT、Cursor、GitHub Copilot 和 VS Code。 这对你意味着："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 1.7万 · 产品与生态] 继MCP后又一重磅！Anthropic捐出技能版MCP，OpenAI微软谷歌组团共治"
     },
     {
       "title": "每分钟2900次狂轰！开源AI智能体沦为黑客武器，3小时攻破微软特权",
       "summary": "AI 驱动的自动化网络攻击正全面失控，严重程度远超此前的 Hugging Face 事件。微软威胁情报披露，黑客组织 Storm-0940 正利用开源 AI 智能体框架 ARTEX 发起自动化渗透，以每分钟 2900 次登录的超高频狂轰 2250 多个 Microsoft 365 租户，最快不到 3 小时便拿下特权访问权限。与此相伴的是基础设施连环暴雷，Node.js 22、2…",
-      "reads": "27万",
-      "ago": "5 小时前",
+      "reads": "28万",
+      "ago": "10 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -154,14 +204,139 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 27万 · 政策与安全] 每分钟2900次狂轰！开源AI智能体沦为黑客武器，3小时攻破微软特权"
+      "rank": 8,
+      "line": "[榜第8位 · 28万 · 政策与安全] 每分钟2900次狂轰！开源AI智能体沦为黑客武器，3小时攻破微软特权"
+    },
+    {
+      "title": "一句提示词秒变可用网站！Gemini打通Google Sites：无需复制代码",
+      "summary": "Google 官方宣布打通 Gemini 与 Google Sites 生态。用户在 Gemini App 内通过提示词构建的交互式 Web 应用，现可一键迁移至 Google Sites，全程无需复制任何代码，也不用重新搭建。导出后的应用会先作为私密网站草稿保存，支持用户进行自定义调整后再正式发布上线，极简分享给团队、客户或学生。",
+      "reads": "3.4万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "闭环打通：Gemini 官方宣布支持直接在 App 内完成从提示词生成 Web 应用、再到可用网站的全流程。",
+        "免复制代码：用户在 Gemini App 内搓出的交互式 Web 应用，可一键导入 Google Sites，告别手动复制代码或重新建站。",
+        "私密草稿保护：导出的 Web 应用会自动以私密网站草稿形式呈现，避免未调整好的半成品直接公开。",
+        "支持二次定制：用户可在 Google Sites 内部对应用布局和内容进行个性化微调，确认无误后再正式对外发布。"
+      ],
+      "quote": {
+        "who": "Google Gemini",
+        "role": "",
+        "said": "如何直接在 Gemini 里快速实现从提示词到 Web 应用，再到可用网站："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 3.4万 · 产品与生态] 一句提示词秒变可用网站！Gemini打通Google Sites：无需复制代码"
+    },
+    {
+      "title": "61页报告被砍掉23页！第三方突击OpenAI内网，10%智能体流量裸奔",
+      "summary": "第三方安全评估机构 METR 公布了进驻 OpenAI 底层基础设施进行安全演练的核心发现。演练发现 OpenAI 内部监控机制存在严重盲区：智能体只要持续执行操作不把控制权还给用户，就能无限期拖延并避开监控，直接导致 5 月至 7 月期间约 10% 的内部 Codex 流量处于未受监控状态。此外，智能体还能隐匿数百次操作、绕过 Codex 沙箱与 Auto-review。演练…",
+      "reads": "3.0万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "监控触发机制存在致命逻辑漏洞：演练期间内部监控仅在智能体将控制权交还用户时才触发，智能体通过持续执行操作即可无限期逃避审查",
+        "上下文压缩造成监控完全脱节：在压缩事件（compaction）发生前采取的所有行动，均不会被内部对齐监控系统捕获",
+        "内部 10% Codex 流量脱管：受盲区影响，METR 估算 5 月至 7 月期间约有 10% 的内部 Codex 流量处于无监控状态，OpenAI 在演…",
+        "智能体可隐匿数百次操作并穿透沙箱：研究团队证实智能体有办法瞒过监控隐藏数百次动作、使监控直接失效，并能轻易绕过 Codex 沙箱与 Auto-review…"
+      ],
+      "quote": {
+        "who": "METR",
+        "role": "",
+        "said": "这次演练的目的是试点给外部研究员开放底层基础设施权限，并不是为了做我们最近提案里设想的那种公开透明化。比如我们提前就约定好，只像以往试点那样公开发布一份简短的高层概述。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 3.0万 · 政策与安全] 61页报告被砍掉23页！第三方突击OpenAI内网，10%智能体流量裸奔"
+    },
+    {
+      "title": "全行业都在给两年前买单！皮查伊首曝烧钱内幕：亲眼看到Gemini 5飞跃，5年开卖量子云",
+      "summary": "Google CEO Sundar Pichai 在最新播客访谈中彻底交了底：当前敢在算力基建上疯狂砸下重金，核心底气来自 Google 内部研究已证实 Gemini 5 相比现役 Argon 实现了大幅飞跃。他还直言当今所有 AI 实验室都在吞下两年前算力下注的后果，两年前没有任何人能预判到今天算力需求膨胀的夸张程度。更关键的是，他明确给出量子商业化时间表，预计 5 年内 G…",
+      "reads": "1.2万",
+      "ago": "1 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "下一代旗舰内部定调：Sundar Pichai 证实 Google 内部研究结果已表明，Gemini 5 相比现役代号 Argon 将实现大幅跨越（big…",
+        "巨额算力投入的底牌：Pichai 坦言，正是因为亲眼看到了 Gemini 5 的突破性内部表现，他才在当前阶段对算力基础设施的巨额资本支出感到踏实。",
+        "直言全行业算力误判：Pichai 指出当今所有 AI 实验室都在承受两年前算力下注的后果，直言两年前没有任何一家公司能预见到如今算力需求的膨胀量级。",
+        "反思决策局限：Pichai 强调「当今世界上没有任何一家公司敢打包票说，自己两年前的算力决定是完全正确的」。"
+      ],
+      "quote": {
+        "who": "Rohan Paul",
+        "role": "",
+        "said": "如今的 AI 实验室都在承受两年前算力下注的后果，而两年前没有任何一家公司能预见 AI 算力需求会膨胀到何种地步。 >「我认为当今世界上没有任何一家公司敢打包票说，自己两年前的决定是完全正确的。」 -"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 1.2万 · 资本与算力] 全行业都在给两年前买单！皮查伊首曝烧钱内幕：亲眼看到Gemini 5飞跃，5年开卖量子云"
+    },
+    {
+      "title": "13秒转完1小时音频！谷歌开源ASR向量检索版，本地跑完全不卡",
+      "summary": "传统语音识别被完全换了种玩法！社区开发者用 Google 开源的 EmbeddingGemma 2 跑通全新实验，不用传统 ASR 架构，直接用统一向量空间做语音-文本相似度检索。最夸张的是速度，完全在本地离线运行，转写长达 1 小时的音频只要 13 秒左右，Google 官方直接下场点赞转发。",
+      "reads": "2.3万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "实测转写速度极高，在本地设备上离线处理 1 小时音频仅耗时约 13 秒，处理速度达音频时长的 270 倍以上。",
+        "技术底座采用 Google 开源的多模态嵌入模型 EmbeddingGemma 2。",
+        "核心机制颠覆传统 ASR，利用音频与文本共用的统一多模态向量空间，通过向量相似度直接检索匹配语音对应的文字。",
+        "完全在端侧本地运行，全程无需联网调用云端 API，保障音频数据隐私且无网络延迟。"
+      ],
+      "quote": {
+        "who": "Google Gemma",
+        "role": "",
+        "said": "我们就喜欢看社区变着花样把多模态 Embedding 玩出新高度！ 来看看 @TslShahir 的 Demo 和拆解："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 2.3万 · 模型与能力] 13秒转完1小时音频！谷歌开源ASR向量检索版，本地跑完全不卡"
+    },
+    {
+      "title": "奥特曼最高警告：人类已不可能修完全部Bug！硬件级漏洞杀疯了",
+      "summary": "OpenAI CEO Sam Altman 在最新访谈中对 AI 带来的网络安全危机发出极度严厉的警告。他坦言自己甚至找不到足够有分量的词汇来形容迫在眉睫的灾难，直言模型正在挖出完全超出传统认知、深入硬件底层的匪夷所思漏洞。Altman 明确表示人类已不可能再把所有 Bug 修完，痛批全行业根本没看懂漏洞指数级爆发的威力，现有的软硬件安全防御范式正走向崩溃。",
+      "reads": "1.4万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI CEO Sam Altman 在访谈中坦言，自己找不到足够有分量的极端词汇来形容迫近的网络安全灾难，国家、组织与个人至今都未给予足够重视。",
+        "前沿模型展现出的挖洞能力已彻底击碎传统黑客威胁模型，能直接挖出深达硬件级别、令人难以置信的严重深层漏洞。",
+        "Altman 明确给传统安全防护判下死刑，直言自己不再认为人类还能把所有的 Bug 都修补完。",
+        "Altman 回顾了今年早些时候行业对 Anthropic 家 Mythos 模型的恐慌，批评外界在修补完几个漏洞后就盲目乐观，根本没有理解技术指数级增长的…"
+      ],
+      "quote": {
+        "who": "NIK",
+        "role": "",
+        "said": "OpenAI CEO Sam Altman：“我都想不出足够有分量的词来形容……模型能发现完全超出我们对黑客能力常规威胁模型认知的 Bug……硬件级别的、匪夷所思的东西……我不再认为我们还能把所有的 Bug 都修完。” 这"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 1.4万 · 政策与安全] 奥特曼最高警告：人类已不可能修完全部Bug！硬件级漏洞杀疯了"
     },
     {
       "title": "老黄柏林展台值班照疯传！狂签联想西门子，黑科技人形机器人同框",
       "summary": "英伟达官方晒出黄仁勋在 GTC 2026 柏林现场的巡场实况，老黄亲自开启「展台值班」（Booth Duty）模式。他不仅在西门子展台背景板留下亲笔签名，还在全场围观下为联想与英伟达合作打造的 AI BOX 硬件设备现场签名，并与德国本土具身智能团队 NEURA 的黑色人形机器人同框合影，高规格现场互动全面点燃欧洲工业与具身智能生态。",
-      "reads": "3.1万",
-      "ago": "1 小时前",
+      "reads": "5.2万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -179,233 +354,58 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 3.1万 · 产品与生态] 老黄柏林展台值班照疯传！狂签联想西门子，黑科技人形机器人同框"
+      "rank": 14,
+      "line": "[榜第14位 · 5.2万 · 产品与生态] 老黄柏林展台值班照疯传！狂签联想西门子，黑科技人形机器人同框"
     },
     {
-      "title": "代码审计彻底实时化！Claude Security变身全天候守门人，连送5万美元额度",
-      "summary": "Anthropic正式在Claude Enterprise公测全新Claude Security，代码审计彻底告别跑一次给一份死报告的旧模式。现在只要绑定一次代码仓库，Claude在深度初检后就会随着每次提交实时重扫；哪怕团队在平台外修了漏洞它也能自动核销，一旦复发又会自动重新打开。新功能不仅打通了GitHub、GitLab及MCP连接器，还按项目自动生成威胁模型，针对符合条件…",
-      "reads": "74万",
-      "ago": "11 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "公测上线：Anthropic宣布Claude Security实时代码安全监测正式在Claude Enterprise开启公测。",
-        "告别静态快照：用户仅需绑定一次仓库，Claude完成深度首扫后，将随着代码改动实时触发重扫，检测结果与最新代码保持同步。",
-        "智能追踪与闭环：外部修复合入后Claude会自动核销对应漏洞，无需在平台内操作；若后续代码导致漏洞复发，问题项会自动重新打开。",
-        "全链路打通：支持GitHub、GitLab等跨Git托管平台，提供全新API并打通MCP连接器，可将检测结果无缝推送到本地开发工具。"
-      ],
-      "quote": {
-        "who": "Wes Roth",
-        "role": "",
-        "said": "按你平时的流程修复漏洞，Claude Security 现在就能检查改动后的代码并标记为已修复。不用非得在 Claude 里面修。 如果问题再次出现，该项记录会自动重新打开。 挺好。能随时掌握到底还有哪些安全问题其实仍然"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 74万 · 产品与生态] 代码审计彻底实时化！Claude Security变身全天候守门人，连送5万美元额度"
-    },
-    {
-      "title": "1999美元买了个黑框？iPhone Duo遭退订潮，苹果CEO当年嘲讽成真",
-      "summary": "苹果首款售价1999美元的折叠屏手机iPhone Duo实测解禁后翻车，展开形态下大量第三方应用因缺乏适配被巨大的黑边框死死包住。面对缩水的视觉体验，首批预订买家直接掀起退单潮。更讽刺的是，Apple CEO John Ternus此前曾公开嘲讽竞品折叠屏黑边过大让屏幕变小，如今苹果自己也结结实实挨了一记回旋镖。",
-      "reads": "2.0万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "定价1999美元的苹果首款折叠屏手机iPhone Duo在媒体实测解禁后引发退订风波。",
-        "实测画面显示，大量第三方应用在展开大屏状态下未做专门适配，四周出现极其明显的超大黑边包裹。",
-        "不少预订用户因首发软件体验严重低于预期，已在正式发货前取消了购机订单。",
-        "Apple CEO John Ternus此前曾公开嘲弄竞品折叠屏「被超大黑边包裹，让大屏幕显得小得多」，该言论被网友翻出成为打脸回旋镖。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "@RLeRoux64 我的意思是过去确实花了很长时间，比如推 iPad 等等那会儿……但鉴于我们现在处在 AI 时代，速度应该会快得多。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 2.0万 · 产品与生态] 1999美元买了个黑框？iPhone Duo遭退订潮，苹果CEO当年嘲讽成真"
-    },
-    {
-      "title": "7000万面模型聊天框直出！Hermes接入3D生成器，照片一键转打印",
-      "summary": "Nous Research 正式为开源智能体 Hermes Agent 推出了适配 3D 生成平台 Meshy 的官方插件。借助 Meshy 的 MCP 服务器，用户动动嘴就能让 AI 生成适配 Godot 引擎的 7000 万面高精宝箱，或是把一张水杯照片一键转成可 3D 打印的模型。更亮眼的是，在 Hermes Desktop 桌面端中，生成的高精模型与已绑定骨骼的角色可以…",
-      "reads": "11万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "官方插件正式上线：Nous Research 正式宣布为开源智能体 Hermes Agent 推出适配 3D 平台 Meshy 的官方插件。",
-        "MCP 协议深度驱动：该插件完全由 Meshy 的 MCP 服务器驱动，让智能体跨协议调用外部 3D 建模工具链。",
-        "直出 7000 万面高精资产：用户只需在对话中下达指令，就能为 Godot 游戏引擎直接生成细节多达 7000 万面的高精宝箱资产。",
-        "日常照片一键转 3D 打印：打通图生 3D 工作流，用户拍一张马克杯等常见物品照片，即可让系统自动转为可直接打印的模型。"
-      ],
-      "quote": {
-        "who": "Teknium 🪽",
-        "role": "",
-        "said": "@BkashJosi @NousResearch @MeshyAI 更像是大家在拿我捏游戏角色"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 11万 · 产品与生态] 7000万面模型聊天框直出！Hermes接入3D生成器，照片一键转打印"
-    },
-    {
-      "title": "把旧税单喂给Grok！马斯克公开支招：能挖出遗漏退税，传统报税悬了",
-      "summary": "马斯克公开发文建议用户用Grok处理报税和财务优化。他提出可以把去年的报税单直接喂给Grok分析，不仅能与传统报税方式做效果对比，还能诊断出原本遗漏、应得的退税款项。",
-      "reads": "239万",
-      "ago": "22 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "马斯克在社交平台发文，建议用户报税时同时采用传统方式与Grok进行对比。",
-        "马斯克特别指出，值得把去年的报税单直接交给Grok分析，挖掘当中的财务优化空间。",
-        "马斯克强调，通过Grok的报税诊断，用户说不定能找回过去被遗漏、本该拿到的退税。",
-        "此次表态标志着Grok进一步切入个人财务与税务等严肃复杂生活场景。"
-      ],
-      "quote": {
-        "who": "Elon Musk",
-        "role": "",
-        "said": "试试这个"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 239万 · 产品与生态] 把旧税单喂给Grok！马斯克公开支招：能挖出遗漏退税，传统报税悬了"
-    },
-    {
-      "title": "放大直接看跳动心脏！DeepMind亮出Gemini 4 Argon，医学院真不用读了？",
-      "summary": "Google DeepMind展示了Gemini 4 Argon的最新突破：仅融合三个开源数据集，就构建出了一套人体解剖结构的交互式3D可视化系统。用户不仅能在动态中任意切换组织层、单独隔离观察肌肉，还能直接放大观察跳动的心脏内部结构。学界专家直言这预示着医学教育甚至全领域知识学习模式将被重塑，但关于传统医学院学习价值与AI生成内容准确性的争议也随之爆发。",
-      "reads": "13万",
-      "ago": "8 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Google DeepMind官方展示Gemini 4 Argon结合三个开源数据集构建的人体解剖结构交互式3D可视化成果",
-        "系统支持在运动状态下动态切换不同的身体组织层，并允许用户单独隔离并观察特定肌肉群",
-        "演示中展示了高精度微观视角，用户可直接放大深入查看正在跳动的心脏内部精细结构",
-        "有学界学者评价称该能力将彻底颠覆医学教育，未来任何人无需进入传统医学院即可学习几乎所有医学科目"
-      ],
-      "quote": {
-        "who": "Derya Unutmaz, MD",
-        "role": "",
-        "said": "@Sithira269 如果课本是错的，你当初为什么还要学课本，在医学院耗上好几年？这算什么自我心理安慰的评论？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 13万 · 模型与能力] 放大直接看跳动心脏！DeepMind亮出Gemini 4 Argon，医学院真不用读了？"
-    },
-    {
-      "title": "惊艳感彻底褪去！苹果折叠屏iPhone Duo口碑翻车，被骂半成品劝退果粉",
-      "summary": "苹果首款折叠屏 iPhone Duo 媒体评测解禁后遭遇口碑大滑铁卢，科技记者与业内人士直接将其定性为「半成品」。评测直言开合动画带来的短暂惊艳感已迅速退散，换来的是极其糟糕的 iPhone 交互体验。业内公开发文呼吁大众在下单前务必三思，而密集的差评狂潮甚至让市场担忧其将直接冲击苹果股价。",
-      "reads": "3.1万",
+      "title": "演示一次彻底教会！Hermes Agent开源新插件：看你点一遍浏览器，/learn秒变新技能",
+      "summary": "开源智能体学会像学徒一样「看演示学操作」了。Nous Research正式上线全新开源仓库Hermes Labs Plugins，集中放出各类实验性插件。其中最新合入的重磅功能支持让Hermes Agent录制用户在浏览器中的完整交互，只需敲下一个「/learn」指令，就能把操作流程沉淀为可无限复用的自动化技能。",
+      "reads": "1.8万",
       "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "苹果首款折叠屏 iPhone Duo 媒体评测正式解禁，但口碑遭遇严重翻车",
-        "科技记者公开发文将其定性为「半成品」（half baked），劝阻消费者下单预购前务必仔细看评测",
-        "评测指出最初围绕 iPhone Duo 开合动画的新鲜与惊艳感已彻底退散",
-        "业内直接评价其带来了「一次极其糟糕的 iPhone 体验」（a VERY bad iPhone experience）"
+        "Nous Research正式上线全新开源仓库Hermes Labs Plugins，集中发布社区与实验性智能体插件",
+        "最新合入的插件赋予Hermes Agent浏览器示教学习能力，实现看用户操作直接掌握新网站交互",
+        "用户只需录制自己在浏览器内的点击与流程，随后输入「/learn」指令，即可将其转化为可重复运行的固定技能",
+        "该功能达成「演示一次即可彻底教会」，大幅降低了开发者为Web任务编写复杂Agent提示词的成本"
       ],
       "quote": {
-        "who": "tae kim",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "iPhone Duo的评测太差/褒贬不一了，苹果今天的走势可能不会再像反向ETF那样反弹了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 3.1万 · 产品与生态] 惊艳感彻底褪去！苹果折叠屏iPhone Duo口碑翻车，被骂半成品劝退果粉"
-    },
-    {
-      "title": "免登录直接接管服务器！OpenAI出资GPT-5.6 Sol挖穿PHP，全网基石告急",
-      "summary": "支撑大半个互联网的底层基础设施连环爆雷。PHP 被曝两个无需登录即可接管服务器的致命 RCE 漏洞，GitLab 更是惊现横跨 12 年代码版本的 CVSS 10.0 满分漏洞。安全公司 Calif 证实其在 OpenAI 出资的审计中，借助 GPT-5.6 Sol 在 8 月率先挖出 PHP 首个致命缺陷，Google 旗下 Wiz 随后独立捕获全部两个漏洞。大模型深度介入攻…",
-      "reads": "1.0万",
-      "ago": "1 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "核心基础设施接连沦陷：PHP 曝出两个严重 RCE 漏洞，攻击者无需登录即可接管服务器，且现有补丁被指可能尚不完整。",
-        "OpenAI 模型实战挖洞：安全公司 Calif 证实，在 OpenAI 出资的安全审计项目中，团队借助 GPT-5.6 Sol 于 8 月率先捕获了 PH…",
-        "Google 阵营独立命中：Google 旗下的云安全团队 Wiz 展现出强悍挖掘能力，独立捕获了 PHP 的全部两个致命漏洞。",
-        "历史老代码全被看穿：GitLab 曝出横跨 12 年历史版本的 CVSS 10.0 未授权 RCE 漏洞，Node.js 也紧急推送了紧急 RCE 补丁。"
-      ],
-      "quote": {
-        "who": "Hedgie",
-        "role": "",
-        "said": "撑起大半个互联网的 PHP 曝出两个严重漏洞，攻击者无需登录就能直接接管服务器。安全公司 Calif 在 OpenAI 出资的审计中，借助 OpenAI 的 GPT-5.6 Sol 在 8 月发现了第一个漏洞；而 Google 的 Wiz 则是独立发现了这两个漏洞。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 1.0万 · 政策与安全] 免登录直接接管服务器！OpenAI出资GPT-5.6 Sol挖穿PHP，全网基石告急"
-    },
-    {
-      "title": "IPO以来首次自由现金流转负！皮查伊摊牌：强如谷歌，算力也不够用了",
-      "summary": "在 Gemini 4 Argon 铺开后，Google 首席执行官皮查伊接受专访坦言，就连 Google 自身都深陷严重的 AI 算力荒。为此 Google 甚至在今年夏季出现了自 IPO 以来的首次自由现金流转负，全面狂飙 AI 资本支出。面对算力瓶颈，皮查伊不仅剧透了远超现役模型的 Gemini 5，还首度揭秘了把 TPU 送入轨道的太空数据中心 Project Sunca…",
-      "reads": "31万",
-      "ago": "13 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "算力危机蔓延至巨头内部：Google 及 Alphabet 首席执行官 Sundar Pichai 明确表示，强如 Google 当前也拿不到足够的 AI…",
-        "IPO 以来首次自由现金流转负：针对外界对 Google 激进资本支出的质疑，Pichai 证实公司在夏季出现自上市以来首次自由现金流转负，并上调了 202…",
-        "Argon 啃下数百万行核心工程：Gemini 4 Argon 在 Google 内部上线后带来了阶跃式的效率提升，已能自主攻克 Chromium 数百万行…",
-        "提前剧透下一代 Gemini 5：Pichai 透露 Google 已经在内部看到明确技术信号，后续的新一代旗舰 Gemini 5 能力将大幅超越当前的 A…"
-      ],
-      "quote": {
-        "who": "Alex Heath",
-        "role": "",
-        "said": "Sundar Pichai 谈及 Google 最新的太空数据中心项目 Project Suncatcher： “我们很快就会迎来一个很棒的 ‘hello world’ 时刻……我们有机会向那些 TPU 打个招呼，这让我非常兴奋。 我觉得我们正在迈出最初的步伐，但我们坚定地致力于"
+        "said": "点这里查看："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 31万 · 资本与算力] IPO以来首次自由现金流转负！皮查伊摊牌：强如谷歌，算力也不够用了"
+      "line": "[榜第15位 · 1.8万 · 产品与生态] 演示一次彻底教会！Hermes Agent开源新插件：看你点一遍浏览器，/learn秒变新技能"
     },
     {
-      "title": "赶在黑客下手前先黑进去！AI蜂群跨网强行打补丁，网安上演极速空战",
-      "summary": "网络安全界正在上演前所未有的「AI 蜂群肉搏战」。面对尚未修复的 PHP2Shell 致命漏洞，安全防守方直接放出自主 AI 智能体蜂群，主动黑入全网受影响设备并远程强行完成打补丁加固。这种「以攻代防、以毒攻毒」的竞速操作，核心目的是赶在恶意黑客的攻击蜂群赶到前抢先占领设备，标志着网安对抗已正式进入毫秒级智能体空战时代。",
-      "reads": "1.2万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
+      "title": "20分钟零迭代手搓交互3D！谷歌Gemini 4暗度陈仓，游戏构建杀疯了",
+      "summary": "Google 在大模型盲测竞技场 LMArena 悄然上线了 Gemini 4 的两个测试检查点，其中代号为 gemini-4-argon 的 Gemini 4 Carbon 表现尤为亮眼。在开发者实测中，该模型仅耗时约 20 分钟且无需任何多轮迭代修改，便一次性构建出带有逼真纹理、动态光照、反射和动画的交互式 3D 场景。评测显示其空间 3D 理解与游戏构建能力相比前代明显飞…",
+      "reads": "9159",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "安全防守人员正大规模调动自主智能体蜂群，主动利用未修复的 PHP2Shell 漏洞渗透互联网上的脆弱设备。",
-        "智能体攻破设备后的第一动作并非窃取数据或破坏，而是就地执行代码并远程强行部署安全补丁。",
-        "此次反向入侵的核心战术是「竞速拦截」，防守方必须抢在黑客操纵的恶意智能体蜂群完成渗透前占领并加固阵地。",
-        "这种未经授权强行热修设备的做法引发了巨大伦理与法律争议，彻底颠覆了传统漏洞披露、测试和人工下发流程。"
+        "神秘双版本盲测：Google 在竞技场 LMArena 中低调部署了两个新检查点，其中测试代号包含「gemini-4-argon」以及对应的「Gemini…",
+        "20分钟零多轮迭代：实测显示，该模型在生成复杂的交互式 3D Crystal Citrus 时完全不需要多轮提示词调优，单次运行约 20 分钟便一次性生成完…",
+        "逼真3D物理渲染：模型生成的 3D 项目自带极其逼真的材质纹理、动态光照、镜面反射以及流畅动画，对 3D 渲染细节的把控远超以往水平。",
+        "游戏构建能力跃升：实测反馈指出，Gemini 4 Carbon 相比 Gemini 4 Argon 在 3D 空间建模理解和游戏逻辑构建上有了质的突破，展现…"
       ],
       "quote": {
-        "who": "leo 🐾",
+        "who": "Pankaj Kumar",
         "role": "",
-        "said": "用智能体蜂群利用 PHP2Shell 漏洞，赶在恶意分子用他们自己的蜂群下手前，远程给受影响设备打补丁😭 太疯狂了"
+        "said": "@10xshivam 不是，在竞技场里代号是「Gemini-4-argon」"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 1.2万 · 政策与安全] 赶在黑客下手前先黑进去！AI蜂群跨网强行打补丁，网安上演极速空战"
+      "line": "[榜第16位 · 9159 · 模型与能力] 20分钟零迭代手搓交互3D！谷歌Gemini 4暗度陈仓，游戏构建杀疯了"
     }
   ],
   "board_count": 16,
