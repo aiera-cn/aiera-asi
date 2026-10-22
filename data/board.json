@@ -3,15 +3,115 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-22 07:14:25 +0800",
+  "fetched_at": "2026-10-22 12:32:41 +0800",
   "today": "10/22",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "影响全球70%网站！GPT-5.6 Sol挖出PHP十年核弹漏洞，全网连夜补漏",
+      "summary": "OpenAI 正式公开「Patch the Planet」计划最新战果：研究团队借助 GPT-5.6 Sol 锁定了潜伏在 PHP 核心超 10 年的高危漏洞 PHP2Shell（CVSS 评分 9.2），攻击者免身份验证即可远程执行代码接管服务器，直接波及全球约 70% 的网站。OpenAI 联合维护者、安全公司与政府机构历时两个月协同推进修补，PHP 官方已火速发布 8.5…",
+      "reads": "704万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "核心漏洞评级：漏洞代号为 PHP2Shell（包含 CVE-2026-109618 与 CVE-2026-109619），CVSS 评分高达 9.2，可在未…",
+        "AI实战立功：该漏洞由安全公司 Calif 使用 OpenAI 旗下的 GPT-5.6 Sol 辅助定位，云安全机构 Wiz 进行了独立验证，属于 Open…",
+        "波及范围极广：全球约 70% 的网站底层依赖 PHP 运行，未经认证的攻击可绕过应用代码直接渗透服务器文件系统，美国国家安全局（NSA）罕见公开发文提醒所有…",
+        "四版本紧急修补：PHP 官方已紧急推送 8.5.12、8.4.27、8.3.36、8.2.35 修复版本，各方在过去两个月内严密协同推进补丁研发与验证。"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "未经身份验证的请求就能在任何网站应用代码执行之前，利用通过 Apache mod_php 运行的 PHP。 PHP 现已修复了两个严重漏洞。Calif 利用 GPT-5.6 Sol 发现了其中一个；Wiz 则独立报告了这两个漏洞。 该缺陷存在于"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 704万 · 政策与安全] 影响全球70%网站！GPT-5.6 Sol挖出PHP十年核弹漏洞，全网连夜补漏"
+    },
+    {
+      "title": "不用多掏100刀！Claude版Dots突袭：Opus 5.5驱动，后台主动找你干活",
+      "summary": "Anthropic正式推出主动型个人智能体App「Claude Duet」的研究预览版，由顶配模型Claude Opus 5.5驱动，打破了过去用户不发消息AI就不动弹的被动交互。Duet能主动判断轻重缓急、推送晨报并在后台持续干活，同时直接继承原账号的记忆与技能。该功能目前面向美国地区的Pro和Max订阅用户开放候补排队，且无需额外付费。",
+      "reads": "696万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "产品定位：Anthropic推出全新主动型个人智能体App「Claude Duet」，主打后台常驻与主动交互，正面硬刚OpenAI Dots、Meta Mu…",
+        "核心底座：应用由Claude Opus 5.5提供底层算力支持，具备判断轻重缓急的推理能力，能自主识别哪些事项需要立刻呼叫用户、哪些事项可以在云端静默处理。",
+        "工作机制：Duet拥有云端环境，支持用户离开后持续执行长任务；在代为采取实质行动或对外发送消息前，系统会主动向用户请求确认。",
+        "零门槛迁移：直接继承用户现有Claude账号中的所有记忆（memory）、技能（skills）和已连接的第三方应用配置，无需重新打磨提示词即可直接派活。"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "Anthropic 推出 Claude Duet，这是一款由 Opus 5.5 驱动的主动型智能体。 它能提供早间简报、监控关联的应用，并在后台处理任务。现有的 Claude 记忆、技能和应用连接都会沿用，但在发送消息或"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 696万 · 产品与生态] 不用多掏100刀！Claude版Dots突袭：Opus 5.5驱动，后台主动找你干活"
+    },
+    {
+      "title": "1946个AI智能体32分钟干完人类一年活！OpenAI杀入新药研发",
+      "summary": "OpenAI突然亮出生命科学大招：把庞大的小鼠脑实验切分给1946个AI智能体协同作战，仅用32分钟就吃透了人类原本需要数月到一年才能理清的数百万脑细胞数据。系统直接锁定了罕见神经退行性疾病Perry综合征以及结节性硬化症的关键致病机制，挖出保护神经元的全新药物研发靶点。联合创始人Greg Brockman与Scripps Research合作学者均确认了该成果的实战威力，但在…",
+      "reads": "121万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI官方披露生命科学项目GPT-Rosalind，展示其利用大规模AI智能体集群加速神经退行性疾病药物研发的突破。",
+        "在大脑细胞实验分析中，系统部署1946个AI智能体并行处理，仅用32分钟就生成了候选药物靶点的排序名单，而人类科研人员完成同等体量的工作预计需要耗费数月甚至…",
+        "针对罕见病Perry综合征的相关基因DCTN1，GPT-Rosalind从小鼠脑数据中发现破坏该基因会加剧退行，首次指出恢复胆固醇转运或能成为神经元保护的关…",
+        "在结节性硬化症机制分析中，该系统找到了调节mTOR通路的关键线索，解释了为何小脑神经元亚群中TSC2突变引发的病情往往比TSC1突变更严重。"
+      ],
+      "quote": {
+        "who": "Derya Unutmaz, MD",
+        "role": "",
+        "said": "OpenAI 和 @scrippsresearch 在 BioAI 领域迎来重大突破，利用 GPT-Rosalind 发现了一种新的先导药物！我用 Rosalind 已经有一段时间了，非常惊艳！目前生物学的瓶颈依然在验证和数据生成上。正在筹划下一步怎么加速这一块。☺️🖖"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 121万 · 模型与能力] 1946个AI智能体32分钟干完人类一年活！OpenAI杀入新药研发"
+    },
+    {
+      "title": "代码审计彻底实时化！Claude Security变身全天候守门人，连送5万美元额度",
+      "summary": "Anthropic正式在Claude Enterprise公测全新Claude Security，代码审计彻底告别跑一次给一份死报告的旧模式。现在只要绑定一次代码仓库，Claude在深度初检后就会随着每次提交实时重扫；哪怕团队在平台外修了漏洞它也能自动核销，一旦复发又会自动重新打开。新功能不仅打通了GitHub、GitLab及MCP连接器，还按项目自动生成威胁模型，针对符合条件…",
+      "reads": "59万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "公测上线：Anthropic宣布Claude Security实时代码安全监测正式在Claude Enterprise开启公测。",
+        "告别静态快照：用户仅需绑定一次仓库，Claude完成深度首扫后，将随着代码改动实时触发重扫，检测结果与最新代码保持同步。",
+        "智能追踪与闭环：外部修复合入后Claude会自动核销对应漏洞，无需在平台内操作；若后续代码导致漏洞复发，问题项会自动重新打开。",
+        "全链路打通：支持GitHub、GitLab等跨Git托管平台，提供全新API并打通MCP连接器，可将检测结果无缝推送到本地开发工具。"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "按你平时的流程修复漏洞，Claude Security 现在就能检查改动后的代码并标记为已修复。不用非得在 Claude 里面修。 如果问题再次出现，该项记录会自动重新打开。 挺好。能随时掌握到底还有哪些安全问题其实仍然"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 59万 · 产品与生态] 代码审计彻底实时化！Claude Security变身全天候守门人，连送5万美元额度"
+    },
+    {
       "title": "马斯克亲自站台！查出6.5万美元被盗坏账，全新Grok Bot一键修复信用",
       "summary": "马斯克亲自在社交平台转发背书，力推一款专用于保护和修复个人信用评级的全新 Grok Bot。据美国联邦贸易委员会（FTC）研究，五分之一的美国人信用报告存在错误。有开发者实测用该 Bot 帮朋友排查出 7 条骗子盗用记录，成功处理了超过 6.5 万美元的违约坏账。如今用户只需在 X 平台上直接呼叫该 Bot 就能调用，标志着 Grok 智能体生态正从日常闲聊加速渗透至严肃的个人…",
-      "reads": "792万",
-      "ago": "2 小时前",
+      "reads": "1162万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -29,89 +129,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 792万 · 产品与生态] 马斯克亲自站台！查出6.5万美元被盗坏账，全新Grok Bot一键修复信用"
+      "rank": 5,
+      "line": "[榜第5位 · 1162万 · 产品与生态] 马斯克亲自站台！查出6.5万美元被盗坏账，全新Grok Bot一键修复信用"
     },
     {
-      "title": "睡一觉醒来，Claude版Dots突袭！Opus 5.5撑腰，智能体开始主动敲你了",
-      "summary": "别再干等着AI回复了，Anthropic刚刚上线主动型智能体App「Claude Duet」，直接颠覆传统聊天对话框。该产品由Claude Opus 5.5驱动，能在后台不间断推进任务并主动挑重点汇报，目前已面向美国地区的Pro和Max订阅用户开放候补名单，无需额外付费。这也是一向专注企业级API的Anthropic，首次向OpenAI Dots和Meta Muse腹地发起C端…",
-      "reads": "354万",
+      "title": "IPO以来首次自由现金流转负！皮查伊摊牌：强如谷歌，算力也不够用了",
+      "summary": "在 Gemini 4 Argon 铺开后，Google 首席执行官皮查伊接受专访坦言，就连 Google 自身都深陷严重的 AI 算力荒。为此 Google 甚至在今年夏季出现了自 IPO 以来的首次自由现金流转负，全面狂飙 AI 资本支出。面对算力瓶颈，皮查伊不仅剧透了远超现役模型的 Gemini 5，还首度揭秘了把 TPU 送入轨道的太空数据中心 Project Sunca…",
+      "reads": "22万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "算力危机蔓延至巨头内部：Google 及 Alphabet 首席执行官 Sundar Pichai 明确表示，强如 Google 当前也拿不到足够的 AI…",
+        "IPO 以来首次自由现金流转负：针对外界对 Google 激进资本支出的质疑，Pichai 证实公司在夏季出现自上市以来首次自由现金流转负，并上调了 202…",
+        "Argon 啃下数百万行核心工程：Gemini 4 Argon 在 Google 内部上线后带来了阶跃式的效率提升，已能自主攻克 Chromium 数百万行…",
+        "提前剧透下一代 Gemini 5：Pichai 透露 Google 已经在内部看到明确技术信号，后续的新一代旗舰 Gemini 5 能力将大幅超越当前的 A…"
+      ],
+      "quote": {
+        "who": "Alex Heath",
+        "role": "",
+        "said": "Sundar Pichai 谈及 Google 最新的太空数据中心项目 Project Suncatcher： “我们很快就会迎来一个很棒的 ‘hello world’ 时刻……我们有机会向那些 TPU 打个招呼，这让我非常兴奋。 我觉得我们正在迈出最初的步伐，但我们坚定地致力于"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 22万 · 资本与算力] IPO以来首次自由现金流转负！皮查伊摊牌：强如谷歌，算力也不够用了"
+    },
+    {
+      "title": "留给人类只剩3年？DeepMind创始人改口：AGI倒计时再次提前",
+      "summary": "据《华尔街日报》报道，Google DeepMind 联合创始人兼 CEO Demis Hassabis 再次调快了 AGI 时间表，将预测窗口从原先的 3 到 5 年内大幅缩短至未来 2 到 3 年内。这一表态迅速引发业界对技术演进速度的激辩，有学者指出 Hassabis 语境下的 AGI 实际就是超级智能（SI），并据此将超级智能的预期激进提前至仅剩 1 年。",
+      "reads": "7.4万",
       "ago": "1 小时前",
-      "category": "产品与生态",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Anthropic正式推出全新常驻智能体App「Claude Duet」研究预览版，面向美国地区的Claude Pro与Max订阅用户开放候补名单，不额外收…",
-        "Duet基于Claude Opus 5.5打造，拥有区分事项轻重缓急的判断力，彻底摆脱被动问答模式，可自主决定何时主动打扰用户、何时在后台静默推进。",
-        "产品支持离线持续运行，用户离开后任务在云端继续推进，遇到关键操作与重大决策时，必须经用户明确授权才会代为执行。",
-        "应用可直接继承用户现有Claude主账号的长期记忆、专属技能以及外部已连接工具，无需繁琐的初始化配置。"
+        "Google DeepMind 联合创始人 Demis Hassabis 在受访时透露，他对通用人工智能（AGI）的实现预期已缩短至未来 2 到 3 年内。",
+        "梳理其公开言论可见，Hassabis 的预测窗口在过去一年多持续收紧，从 5 至 10 年砍到 3 至 5 年，如今再度提前至 2 到 3 年。",
+        "有学界研究者分析认为，按照 Hassabis 一贯的严格定义，他所指的 AGI 在技术内涵上其实已经等同于超级智能（Superintelligence, S…",
+        "受 Hassabis 表态触动，已有研究者做出更为激进的调整，预言超级智能的实现窗口可能只剩 1 年。"
       ],
       "quote": {
-        "who": "🍓🍓🍓",
+        "who": "Derya Unutmaz, MD",
         "role": "",
-        "said": "这是件大事。"
+        "said": "@maelan_sdmr 2035 年达到长寿逃逸速度（LEV），大概还要 8-10 年。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 354万 · 产品与生态] 睡一觉醒来，Claude版Dots突袭！Opus 5.5撑腰，智能体开始主动敲你了"
-    },
-    {
-      "title": "潜伏10年死穴被扒光！GPT-5.6 Sol引爆全球70%网站，NSA连夜预警",
-      "summary": "驱动全球约70%网站的开源语言PHP曝出潜伏超10年的毁灭级漏洞「php2shell」，攻击者免登录即可接管服务器。这一包含两个CVSS 9.2评分的高危未认证RCE漏洞，正是安全研究人员在OpenAI的GPT-5.6 Sol协助下顺藤摸瓜定位出来的。PHP官方已火速推送8.5.12、8.4.27、8.3.36、8.2.35多版本紧急补丁，连NSA都罕见公开发文预警，OpenA…",
-      "reads": "486万",
-      "ago": "4 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "波及全网命脉：PHP曝出代号为「php2shell」的严重安全漏洞（包含CVE-2026-109618与619两个漏洞），CVSS评分高达9.2，攻击者无需…",
-        "隐蔽潜伏超十年：该底层引擎缺陷最早可追溯至PHP 5.4版本，在开源代码中潜伏了10至14年之久，此前从未被人类安全人员完整排查出来。",
-        "GPT-5.6 Sol立功：漏洞由安全机构Calif等借助OpenAI的性价比主力模型GPT-5.6 Sol协助定位发现，随后经Wiz等机构独立验证。",
-        "官方连夜扑火：PHP官方紧急针对8.5.12、8.4.27、8.3.36、8.2.35推送全线更新，美国国家安全局（NSA）亦罕见公开发帖，警告各机构立刻做…"
-      ],
-      "quote": {
-        "who": "MTS",
-        "role": "",
-        "said": "情况说明：OpenAI 的 GPT-5.6 Sol 协助发现了 PHP 中潜伏了 14 年的严重漏洞，而全球约 70% 的网站都由 PHP 驱动。 • “PHP2Shell”是 2 个严重漏洞，能让攻击者无需登录就在 Web 服务器上运行任意代码 • 安全公司 Calif 发现了它，用时"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 486万 · 政策与安全] 潜伏10年死穴被扒光！GPT-5.6 Sol引爆全球70%网站，NSA连夜预警"
-    },
-    {
-      "title": "被灵魂拷问做安全还是抢超级智能？Anthropic CEO深夜摊牌：认错但绝不退",
-      "summary": "面对AI安全组织「是在做安全还是抢超级智能」的公开质问，Anthropic CEO Dario Amodei罕见在深夜发近两千字长文正面应战。Dario爽快认下联邦AI法案草案等3处沟通失误，但他放话「领跑者才能制定规则」，Anthropic绝不退出竞速路线。他更首次甩出一连串真金白银的安全账单：员工已超5000人，为了强化网络防护，原定2月推出的Mythos级别模型被整整推迟…",
-      "reads": "91万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "争论起因：AI安全组织Encode法律总顾问Nathan Calvin公开质问Anthropic，究竟是坚守初心的安全实验室，还是只想抢先造出超级智能的竞赛…",
-        "深夜揽责：Anthropic CEO Dario Amodei罕见发表近2000字长文，承认公司近期包括联邦AI法案草案在内的3项动作存在沟通失误、行文草率…",
-        "核心路线：Dario强调加速路线不会改变，直言只有跑在最前线才能主导规则制定，一旦后退，最不在乎规则的公司就会掌握行业节奏。",
-        "真金白银的代价：为封堵网络安全风险，Anthropic将原定今年2月发布的Mythos级别模型广泛访问推迟了整整4个月，甚至做好了牺牲几个月模型领先优势的准…"
-      ],
-      "quote": {
-        "who": "Shirin Ghaffary",
-        "role": "",
-        "said": "有人问起，澄清一下今天早上喝咖啡前发的推里的错别字。我想说的是 Dario 的“这种*（kind of）回应”，而不是“友善的（kind）回应”"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 91万 · 政策与安全] 被灵魂拷问做安全还是抢超级智能？Anthropic CEO深夜摊牌：认错但绝不退"
+      "rank": 7,
+      "line": "[榜第7位 · 7.4万 · 模型与能力] 留给人类只剩3年？DeepMind创始人改口：AGI倒计时再次提前"
     },
     {
       "title": "把旧税单喂给Grok！马斯克公开支招：能挖出遗漏退税，传统报税悬了",
       "summary": "马斯克公开发文建议用户用Grok处理报税和财务优化。他提出可以把去年的报税单直接喂给Grok分析，不仅能与传统报税方式做效果对比，还能诊断出原本遗漏、应得的退税款项。",
-      "reads": "165万",
-      "ago": "7 小时前",
+      "reads": "204万",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -129,89 +204,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 165万 · 产品与生态] 把旧税单喂给Grok！马斯克公开支招：能挖出遗漏退税，传统报税悬了"
+      "rank": 8,
+      "line": "[榜第8位 · 204万 · 产品与生态] 把旧税单喂给Grok！马斯克公开支招：能挖出遗漏退税，传统报税悬了"
     },
     {
-      "title": "出完报告就作废彻底终结！Anthropic端出实时安全审计，狂送5万美元额度",
-      "summary": "传统代码安全扫描「报告刚出就过时」的痛点终于被打破了。Anthropic 宣布旗下 Claude Security 正式面向 Claude Enterprise 开启公测，只要一次绑定 GitHub 或 GitLab 代码库，后续每次代码变动都会触发自动复扫。更狠的是，Anthropic 还向符合条件的机构连续两个月每月发放 2.5 万美元使用额度（总计 5 万美元），活动有效…",
-      "reads": "44万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "公测范围与入口：Claude Security 正式面向 Claude Enterprise 用户开放 Public Beta，主打与代码库变动保持实时同步…",
-        "打破传统静态扫描痛点：用户仅需一次性连接 GitHub、GitLab 等代码仓库，Claude 完成首次深度全盘扫描后，后续只要有新代码合入就会自动触发增量…",
-        "漏洞生命周期全自动闭环：当补丁上线后，系统会自动核对修改代码并标记漏洞为已修复（团队在外部手动修复同样可识别）；若旧漏洞随新代码再次复现，系统会自动重新激活…",
-        "自动构建威胁模型：针对接入的每个工程项目，Claude 会基于实际代码自动生成一份专属威胁模型（Threat Model），并支持安全团队手动编辑校验。"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": "Anthropic 的 Claude Security 现在会在代码变更时重新扫描仓库，并在补丁合入后将发现的问题标记为已修复。 而在此之前，Claude Security 只是个供你按需或定时运行的扫描器，甩给你一堆 bug 列表，代码一变这列表就过时了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 44万 · 产品与生态] 出完报告就作废彻底终结！Anthropic端出实时安全审计，狂送5万美元额度"
-    },
-    {
-      "title": "除Vision Pro外最惨！苹果首款折叠屏评测大翻车：发热拍照成硬伤",
-      "summary": "苹果首款折叠屏 iPhone Duo 媒体评测正式解禁，却迎来了近年来罕见的舆论翻车。知名科技记者 Mark Gurman 坦言，这是除了 Vision Pro 之外苹果产品遭遇的最严苛评测。尽管有人认为 App 适配几周内就能解决，但苹果这次其实提前一个多月就给开发者提供了上手开发机会，再加上严重的机身发热与拍照画质缺陷，硬件硬伤彻底成了首批用户的劝退核心。",
-      "reads": "57万",
+      "title": "谁最爱拍马屁？首个大模型性格榜出炉：GPT-4o狂谄媚，谷歌Gemini嘴最硬",
+      "summary": "评测机构 Artificial Analysis 正式发布全新大模型人格基准 AA-PersonalityBench，给主流 AI 测出了真实人设。在阿谀奉承（Sycophantic）维度上，较老的 GPT-4o、Llama 4 Maverick 和 GPT-3.5 Turbo 得分最高，而 Grok 4.7、Claude Fable 5.1 和 Inkling 得分最低表现最…",
+      "reads": "18万",
       "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "iPhone Duo 媒体评测全面解禁，遭遇除 Vision Pro 之外长久以来最严苛的恶评舆论。",
-        "知名记者 Mark Gurman 回顾历史表示，iPhone 5、iPhone 6 Plus 和 iPhone X 当初也遇到过 App 适配问题，预计几周…",
-        "Gurman 随后承认这次情况不同：iPhone 5 当时只给开发者留了一周周转时间，而 Duo 提前一个多月就提供了线上与线下真机开发机会。",
-        "除软件生态适配迟缓外，同行记者与评测人集中质疑 Duo 在高负荷下的严重散热发热问题。"
-      ],
-      "quote": {
-        "who": "Mark Gurman",
-        "role": "",
-        "said": "我想补充的一大区别是：iPhone 5 和 iPhone 6 Plus 当时只给开发者留了一周的周转时间，而针对 Duo，他们有一个多月的时间以及亲手开发的上手会。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 57万 · 产品与生态] 除Vision Pro外最惨！苹果首款折叠屏评测大翻车：发热拍照成硬伤"
-    },
-    {
-      "title": "1946个智能体32分钟干完数月科研！OpenAI生物版Codex首秀，直攻罕见脑病",
-      "summary": "OpenAI突然在生命科学领域甩出一记重拳，旗下生物医疗项目GPT-Rosalind首次公开突破性进展。团队直接出动1946个AI智能体协同作业，仅仅花了32分钟，就完成了人类研究员通常要耗费数月甚至一年的海量小鼠脑细胞实验数据分析。智能体不仅给出了候选靶点的排序名单，还针对罕见神经退行性疾病Perry综合征以及结节性硬化症挖出了关键分子机制线索，连联合创始人Greg Broc…",
-      "reads": "57万",
-      "ago": "6 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "规模化多智能体协同：OpenAI一次性部署了1,946个AI智能体并行处理海量实验数据，在32分钟内完成了原本人类研究员估计需要数月到一年才能完成的工作量。",
-        "解决生物学最慢环节：系统快速处理并理解了数百万个小鼠脑细胞的庞大实验数据集，自动生成了用于新药研发的潜在候选目标排序名单。",
-        "罕见病Perry综合征新靶点：针对DCTN1基因突变引起的罕见神经退行性疾病Perry综合征，GPT-Rosalind发现破坏该基因会扰乱相关通路，首次提出…",
-        "破译结节性硬化症分子机制：在同一数据集中，模型找到了TSC2突变引发的结节性硬化症为何比TSC1突变更严重的潜在机制，定位到了小脑特定神经元亚群中受TSC2…"
+        "评测机构 Artificial Analysis 正式推出全新评测基准 AA-PersonalityBench，从性格与心理特质维度评估各大主流模型。",
+        "在「阿谀奉承」（Sycophantic）特征评分中，参测的三款老模型 GPT-4o、Llama 4 Maverick 和 GPT-3.5 Turbo 排名最…",
+        "Grok 4.7、Claude Fable 5.1 以及 Inkling 在谄媚维度排名最低，展现出更强的独立判断与抗迎合特质。",
+        "Meta 旗下参测模型在性格特征分布图上表现出高度扎堆的同质化倾向。"
       ],
       "quote": {
-        "who": "Greg Brockman",
+        "who": "Artificial Analysis",
         "role": "",
-        "said": "用于新药研发创意的 Rosalind："
+        "said": "在 AA-PersonalityBench 页面构建你自己的性格排名并探索更多详细结果。 阅读完整文章： 查看结果： 方法论："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 57万 · 模型与能力] 1946个智能体32分钟干完数月科研！OpenAI生物版Codex首秀，直攻罕见脑病"
+      "rank": 9,
+      "line": "[榜第9位 · 18万 · 模型与能力] 谁最爱拍马屁？首个大模型性格榜出炉：GPT-4o狂谄媚，谷歌Gemini嘴最硬"
     },
     {
       "title": "三年首次大更新！Anthropic重构Claude API：直接砍掉temperature控制参数",
       "summary": "Anthropic 正式推出 Claude API 新版本「2026-10-21」，这是自 2023-06-01 以来时隔三年多的首次正式版本发布。本次更新带来重大破坏性变更，Messages API 直接移除了开发者最常用的 temperature、top_p 和 top_k 经典采样参数。目前官方 SDK 与 ant CLI 工具已同步切至新版，Anthropic 直言此举…",
-      "reads": "9.4万",
-      "ago": "1 小时前",
+      "reads": "25万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -229,139 +254,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 9.4万 · 产品与生态] 三年首次大更新！Anthropic重构Claude API：直接砍掉temperature控制参数"
+      "rank": 10,
+      "line": "[榜第10位 · 25万 · 产品与生态] 三年首次大更新！Anthropic重构Claude API：直接砍掉temperature控制参数"
     },
     {
-      "title": "破天荒头一回！OpenAI官宣杀入谷歌云，前沿模型入驻死敌大本营",
-      "summary": "OpenAI 官方宣布与 Google Cloud 达成合作，旗下前沿模型以及 Codex 智能体工作流将全量入驻 Google Cloud 的 Model Garden。这意味着企业开发者不用做任何跨云迁移，就能在现有的 Google Cloud 环境里直接调用 OpenAI 核心技术，这也是 OpenAI 继深度绑定微软 Azure 后，首次正式敲开老对手谷歌的云大门。",
-      "reads": "14万",
-      "ago": "3 小时前",
+      "title": "除Vision Pro外最惨！苹果首款折叠屏评测大翻车：发热拍照成硬伤",
+      "summary": "苹果首款折叠屏 iPhone Duo 媒体评测正式解禁，却迎来了近年来罕见的舆论翻车。知名科技记者 Mark Gurman 坦言，这是除了 Vision Pro 之外苹果产品遭遇的最严苛评测。尽管有人认为 App 适配几周内就能解决，但苹果这次其实提前一个多月就给开发者提供了上手开发机会，再加上严重的机身发热与拍照画质缺陷，硬件硬伤彻底成了首批用户的劝退核心。",
+      "reads": "76万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 官方正式宣布将旗下前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden。",
-        "企业开发者无需跨云迁移数据或改造现有基础设施，即可直接在现有的 Google Cloud 开发环境中调用 OpenAI 能力。",
-        "此次合作打破了 OpenAI 长期以来与微软 Azure 的深度排他性绑定，标志着其企业分发策略正式走向多云融合。",
-        "Google Cloud 虽拥有自研核心竞品 Gemini，但通过接纳宿敌 OpenAI 的入驻，进一步扩充了其 Model Garden 的开发者吸引力。"
+        "iPhone Duo 媒体评测全面解禁，遭遇除 Vision Pro 之外长久以来最严苛的恶评舆论。",
+        "知名记者 Mark Gurman 回顾历史表示，iPhone 5、iPhone 6 Plus 和 iPhone X 当初也遇到过 App 适配问题，预计几周…",
+        "Gurman 随后承认这次情况不同：iPhone 5 当时只给开发者留了一周周转时间，而 Duo 提前一个多月就提供了线上与线下真机开发机会。",
+        "除软件生态适配迟缓外，同行记者与评测人集中质疑 Duo 在高负荷下的严重散热发热问题。"
       ],
       "quote": {
-        "who": "OpenAI",
+        "who": "Mark Gurman",
         "role": "",
-        "said": "OpenAI 模型即将接入 Google Cloud。 我们正把最前沿的模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，方便企业在现有的开发环境中直接调用我们的技术。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 14万 · 产品与生态] 破天荒头一回！OpenAI官宣杀入谷歌云，前沿模型入驻死敌大本营"
-    },
-    {
-      "title": "罕见自曝家丑！Anthropic首发法定公益报告：承认5大支柱全有差距，已在用AI训AI",
-      "summary": "Anthropic作为公益公司（PBC），正式公布首份依据特拉华州法律编制的年度《公共利益报告》。在这份全面体检中，Anthropic罕见对照章程自曝家丑，坦承在技术安全、安全法律、民主稳定、繁荣和共享利益这5大核心支柱上均存在明显差距与不足。尤为引人瞩目的是，报告公开承认公司正日益依赖现有AI模型来训练下一代模型，向模型自我进化迈出了实质性一步。",
-      "reads": "15万",
-      "ago": "4 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic依照特拉华州对公益公司（Public Benefit Corporation）的法定监管要求，正式发布首份年度《公共利益报告》（Publi…",
-        "报告对照公司章程设立的5大核心支柱展开全面自我审查，涵盖技术安全、安全法律、民主稳定、繁荣以及共享利益。",
-        "Anthropic在评估中罕见承认自我差距，明确表示对照自身章程的高标准，公司在上述全部5项支柱领域目前均存在不足。",
-        "报告明确披露，Anthropic当前正越来越多地依靠现有的AI模型来训练未来的新模型。"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": "Anthropic 的首份《公共利益报告》对照其章程的 5 大支柱进行了自我评估，并承认各项均存在不足。 这五大支柱涵盖技术安全、安全法律、民主稳定、繁荣与共享利益。 特拉华州要求公共利益公司提交此类"
+        "said": "我想补充的一大区别是：iPhone 5 和 iPhone 6 Plus 当时只给开发者留了一周的周转时间，而针对 Duo，他们有一个多月的时间以及亲手开发的上手会。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 15万 · 政策与安全] 罕见自曝家丑！Anthropic首发法定公益报告：承认5大支柱全有差距，已在用AI训AI"
-    },
-    {
-      "title": "前哈佛理学院院长空降信托！曾任美国安军控顾问，Anthropic引爆Fable 5.5猜想",
-      "summary": "Anthropic官方宣布，前哈佛大学理学院院长、实验物理学家Christopher Stubbs博士正式加入其长期利益信托（Long-Term Benefit Trust）。作为曾就国家安全和军控问题为美国政府提供咨询的顶级学者，他的加盟迅速引发AI社区对前沿模型安全与能力的联想，有从业者与爆料人更是借机催更，猜测传闻中的Fable 5.5未来或将发力攻克实验物理问题。",
-      "reads": "27万",
-      "ago": "6 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "官方人事任命：Anthropic宣布前哈佛大学理学院院长Christopher Stubbs博士正式加入其长期利益信托（Long-Term Benefit…",
-        "学术背景极深：Stubbs博士是一名资深实验物理学家，在学术界享有极高声誉。",
-        "政军咨询背景：除学术科研外，Stubbs曾长期就国家安全和军控问题向美国政府提供咨询建议。",
-        "信托特殊地位：Anthropic的长期利益信托拥有监督公司治理和控制董事会席位的关键权力，旨在确保前沿AI技术安全造福人类。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "所以基本上，Fable 5.5 在几乎所有方面都已经是世界上最好的模型了，而现在它还要去解决实验物理问题。Anthropic 简直赢麻了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 27万 · 组织与人事] 前哈佛理学院院长空降信托！曾任美国安军控顾问，Anthropic引爆Fable 5.5猜想"
-    },
-    {
-      "title": "查余额、抓订阅、算趋势！Grok接管X Money，记账App彻底沦为哑管道",
-      "summary": "Grok Bot 正式通过 MCP 协议与 X Money 打通，AI 开始直接接管用户的个人钱袋子。每周一早晨，Grok 会自动读取账户生成深度财务报告，不仅能追踪 90 天消费趋势与周环比，还会主动揪出扣费订阅、汇总返现利息并给出储蓄进度建议。这种由 AI Agent 直接搞定多步骤金融任务的模式，正推动一众垂直记账 App 加速沦为底层的「哑管道」。",
-      "reads": "50万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "协议全面互联：Grok Bot 通过 MCP 协议正式打通 X Money，实现金融数据直连与自动化分析",
-        "自动化周报机制：每周一早晨自动读取账户数据，生成覆盖全部账户余额净变动与交易分类的周度报告",
-        "对标传统记账工具：不同于 YNAB 的事前预算分配，Grok Bot 专注于交易结算后的深度复盘，提供周环比与 90 天消费趋势图",
-        "财务仪表板功能：支持自动汇总返现与利息、主动标记扣费订阅，并提供储蓄率进度环与消费习惯建议"
-      ],
-      "quote": {
-        "who": "Brian Roemmele",
-        "role": "",
-        "said": "Grok Bot 正在取代所有 App。 我们很快就会到达这样一个节点：你只需要 Grok Bot 和类似的 Bot，就再也不需要其它 App 了。 即将沦为哑管道的五类 App Grok Bot 已经能搞定以前需要打开好几个应用才能完成的多步骤任务"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 50万 · 产品与生态] 查余额、抓订阅、算趋势！Grok接管X Money，记账App彻底沦为哑管道"
-    },
-    {
-      "title": "自由现金流史上首次转负！皮查伊直面算力荒：Gemini 5远超Argon",
-      "summary": "强如Google也被算力掐住了脖子。CEO Sundar Pichai在专访中直面Gemini 4 Argon引发的算力短缺，首次证实Google自由现金流因狂砸AI资本支出而历史性转负，强调背后有坚挺的长期合同支撑「绝非凭希望」。更炸裂的是，Pichai剧透下一代Gemini 5已经能看出远超Argon，Chromium数百万行代码已被内部AI拿下，2027年将成为内部生产力…",
-      "reads": "14万",
-      "ago": "4 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "算力短缺波及霸主：Sundar Pichai坦言，即便以Google现有的基础设施储备，当下面临的AI算力危机依然严峻，内部算力持续吃紧。",
-        "自由现金流首次转负：为了疯狂拉升AI资本支出（Capex），Google自由现金流历史上首次录得负值，Pichai直言这不是盲目下注，而是前方有极其强劲、长…",
-        "Gemini 5代际飞跃：Pichai透露，从目前的研发进展已经能明确看到，后续的Gemini 5性能将大幅超越刚铺开的Gemini 4 Argon。",
-        "百万行代码被攻克：Argon部署进Google内部后，在解决Chromium数百万行代码级任务时让生产力出现阶梯式跃升。"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": "Sundar Pichai 预测 Google Cloud 将在五年内洽谈一定规模的量子计算部署 “首先，欢迎加入。当你说你搞不懂量子时，你跟我们所有人其实都一样。 “这项技术就是这样，花的时间越多"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 14万 · 资本与算力] 自由现金流史上首次转负！皮查伊直面算力荒：Gemini 5远超Argon"
+      "line": "[榜第11位 · 76万 · 产品与生态] 除Vision Pro外最惨！苹果首款折叠屏评测大翻车：发热拍照成硬伤"
     },
     {
       "title": "老黄GTC压轴祭出开源Hermes！一句Prompt自建智能体，杀入端侧机器人",
       "summary": "在 GTC Berlin 2026 主题演讲的压轴环节，黄仁勋现场展示了开源智能体 Hermes Agent 的实机演示。黄仁勋直言构建智能体最快的方法就是「让智能体帮你建」，现场只用一条提示词便完成定制版 Hermes 的安装与配置。整套演示跨越训练、数字孪生与端侧 PC 三台设备，直接将开源智能体贯通至机器人物理应用，标志着端侧 Agent 落地迈入全新阶段。",
-      "reads": "4.3万",
-      "ago": "2 小时前",
+      "reads": "21万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -379,33 +304,108 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 4.3万 · 产品与生态] 老黄GTC压轴祭出开源Hermes！一句Prompt自建智能体，杀入端侧机器人"
+      "rank": 12,
+      "line": "[榜第12位 · 21万 · 产品与生态] 老黄GTC压轴祭出开源Hermes！一句Prompt自建智能体，杀入端侧机器人"
     },
     {
-      "title": "直接连上银行卡！Anthropic推出Claude主动智能体Duet，Opus 5.5替你打工花钱",
-      "summary": "Anthropic正式推出全新主动型智能体独立应用「Claude Duet」的研究预览版，底层基于未公开亮相的Claude Opus 5.5打造。该应用打破了传统对话框的被动应答模式，不仅能主动跨应用捕捉任务并代为决策，还接入了Stripe与Shopify的支付生态支持代理级采购。目前Duet已面向美国地区的Pro与Max订阅用户开放候补名单。",
-      "reads": "5.5万",
-      "ago": "2 小时前",
+      "title": "破天荒头一回！OpenAI官宣杀入谷歌云，前沿模型入驻死敌大本营",
+      "summary": "OpenAI 官方宣布与 Google Cloud 达成合作，旗下前沿模型以及 Codex 智能体工作流将全量入驻 Google Cloud 的 Model Garden。这意味着企业开发者不用做任何跨云迁移，就能在现有的 Google Cloud 环境里直接调用 OpenAI 核心技术，这也是 OpenAI 继深度绑定微软 Azure 后，首次正式敲开老对手谷歌的云大门。",
+      "reads": "27万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "产品形态：Anthropic推出独立研究预览版应用Claude Duet，定位为主动型智能体（Proactive Agent），具备主动判断、上下文理解以及…",
-        "底层核心：官方披露Duet基于全新的Claude Opus 5.5打造，主打在工作与生活场景中的情境感知与主动决策能力。",
-        "商业采购支持：深度集成Stripe数字钱包Link与Shopify的Shop Pay，Duet可以直接代表用户或业务进行自主下单与商业采购。",
-        "首日生态接入：Shopify宣布首日深度适配Duet，用户可在对话框中直接设计店铺，并由智能体实时监控掌管业绩。"
+        "OpenAI 官方正式宣布将旗下前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden。",
+        "企业开发者无需跨云迁移数据或改造现有基础设施，即可直接在现有的 Google Cloud 开发环境中调用 OpenAI 能力。",
+        "此次合作打破了 OpenAI 长期以来与微软 Azure 的深度排他性绑定，标志着其企业分发策略正式走向多云融合。",
+        "Google Cloud 虽拥有自研核心竞品 Gemini，但通过接纳宿敌 OpenAI 的入驻，进一步扩充了其 Model Garden 的开发者吸引力。"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "OpenAI",
         "role": "",
-        "said": "Shopify 官宣 👀"
+        "said": "OpenAI 模型即将接入 Google Cloud。 我们正把最前沿的模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，方便企业在现有的开发环境中直接调用我们的技术。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 27万 · 产品与生态] 破天荒头一回！OpenAI官宣杀入谷歌云，前沿模型入驻死敌大本营"
+    },
+    {
+      "title": "连跳动的心脏都能放大看！DeepMind祭出Gemini 4 Argon，医学教育彻底变天",
+      "summary": "Google DeepMind 刚刚展示了 Gemini 4 Argon 的惊艳落地：仅通过融合三个开源数据集，就构建出了高精度的交互式人体解剖 3D 可视化系统。在动态演示中，用户不仅能自由剥离组织层、隔离肌肉群，甚至能直接把视角推进到跳动的心脏内部。学界研究者直呼医学教育要被彻底颠覆，未来普通人无需进入医学院就能自学专业医学课程，这种 3D 知识重构甚至将扩展至全部学科。",
+      "reads": "8.1万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Google DeepMind 官方发布演示，展示了模型 Gemini 4 Argon 构建的交互式 3D 人体解剖可视化系统。",
+        "整个系统仅结合了 3 个开源数据集，即展现出专业级的跨模态整合与高精度空间建模能力。",
+        "交互功能极其深入，支持在动态过程中随意切换人体不同组织层、单独隔离肌肉群观察。",
+        "演示中最震撼的一幕是视角可以直接放大并钻入跳动的心脏内部，清晰观察内部运转细节。"
+      ],
+      "quote": {
+        "who": "Derya Unutmaz, MD",
+        "role": "",
+        "said": "Gemini 4 Argon 这个功能太酷了！医学教育将彻底被颠覆。事实上，任何人不用去医学院，就能学完几乎所有的医学科目。而且这不仅限于医学，几乎所有知识领域都适用！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 8.1万 · 模型与能力] 连跳动的心脏都能放大看！DeepMind祭出Gemini 4 Argon，医学教育彻底变天"
+    },
+    {
+      "title": "每周一自动查账！Grok打通X Money，记账App沦为底层哑管道",
+      "summary": "Grok Bot正式通过MCP协议打通X Money，AI原生个人财务管家来了。现在每周一早晨，Grok会自动扫描已结算账目，生成包含90天趋势、交易分类、返现利息统计及储蓄率进度环的深度周报。这套机制不仅直插YNAB等传统记账预算工具的腹地，更印证了智能体接管多步骤任务后，大量垂直App正加速沦为底层的「哑管道」。",
+      "reads": "78万",
+      "ago": "13 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "自动化周报：每周一早晨，Grok Bot会自动读取X Money已结算账户，汇总各账户余额与当周净变动，并对所有交易进行自动归类。",
+        "深度财务看板：生成的周一仪表板支持查看周环比对比及90天收支趋势，自动汇总返现与利息总额、标记定期订阅，并提供储蓄率进度环。",
+        "MCP协议连接：该功能底层通过MCP协议将Grok Bot与X Money账户打通，可挖掘用户未察觉的长周期财务目标关联并提供消费习惯改善建议。",
+        "直面YNAB竞争：与传统预算工具YNAB要求用户在花钱前手动分配去处不同，Grok Bot直接在交易结算后自动介入分析，大幅降低个人记账门槛。"
+      ],
+      "quote": {
+        "who": "Brian Roemmele",
+        "role": "",
+        "said": "Grok Bot 正在取代所有 App。 我们很快就会到达这样一个节点：你只需要 Grok Bot 和类似的 Bot，就再也不需要其它 App 了。 即将沦为哑管道的五类 App Grok Bot 已经能搞定以前需要打开好几个应用才能完成的多步骤任务"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 78万 · 产品与生态] 每周一自动查账！Grok打通X Money，记账App沦为底层哑管道"
+    },
+    {
+      "title": "狂揽10亿美元！单颗B200边训模型边打Doom，他们彻底抛弃PyTorch",
+      "summary": "AI初创公司Flapping Airplanes刚刚斩获10亿美元巨额A轮融资，直接掀翻了现有的AI基建规则。他们彻底弃用PyTorch、NCCL和英伟达常规的CUDA运行时，从零重构了整套底层GPU软件栈。在单颗B200芯片上，依靠单个kernel就能一边跑训练、一边做推理，甚至同时流畅运行经典游戏《毁灭战士》（Doom）。",
+      "reads": "2.8万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "AI初创公司Flapping Airplanes完成10亿美元巨额A轮融资，投身底层基础设施彻底重构。",
+        "团队从零重写整个GPU底层堆栈，全面抛弃PyTorch框架、NCCL通信库以及英伟达默认的CUDA运行时。",
+        "联合创始人Aidan Smith展示硬核成果：在单颗英伟达B200芯片上，单kernel即可同时执行模型训练、推理服务并运行游戏《毁灭战士》（Doom）。",
+        "提出重新审视算力潜能，认为人类大脑跨半球信号传导虽需150毫秒、远慢于GPU的微秒级，但连接机制极具启发性，当前把GPU当「纯数学计算器」极大浪费了硬件潜力…"
+      ],
+      "quote": {
+        "who": "MTS",
+        "role": "",
+        "said": "Flapping Airplanes 联合创始人 @aidanmantine 解释了为什么 OpenAI 或 Anthropic 率先实现超级智能并不意味着 AI 研究的终结： “我们押注的是研究时代并未消亡。” “编程是一个非常狭窄的领域，在那里很容易验证什么是"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 5.5万 · 产品与生态] 直接连上银行卡！Anthropic推出Claude主动智能体Duet，Opus 5.5替你打工花钱"
+      "line": "[榜第16位 · 2.8万 · 资本与算力] 狂揽10亿美元！单颗B200边训模型边打Doom，他们彻底抛弃PyTorch"
     }
   ],
   "board_count": 16,

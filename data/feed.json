@@ -3,10 +3,34 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-22 07:14:25 +0800",
+  "fetched_at": "2026-10-22 12:32:41 +0800",
   "today": "10/22",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
+    {
+      "time": "08:42",
+      "date": "10/22",
+      "title": "半年扫出超2.9万疑似漏洞！Claude揪出curl高危隐患，29天修复",
+      "summary": "AI参与发现的高危漏洞，已经修好了。10月14日，网络传输工具curl发布了8.23.0。官方安全公告中致谢的报告者一栏，出现了Claude的名字：Luna with…",
+      "source": "新智元",
+      "id": "tge32e42",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tge32e42&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/22 08:42] 半年扫出超2.9万疑似漏洞！Claude揪出curl高危隐患，29天修复 · https://www.aiera.com.cn/asi-item.html?id=tge32e42&from=yuanyuan"
+    },
+    {
+      "time": "08:42",
+      "date": "10/22",
+      "title": "绝杀OpenAI！首个Claude Duet上岗，Opus 5.5 24 小时替你打工",
+      "summary": "Claude版「dot」，终于来了！今夜，Anthropic正式宣布上线Claude Duet，一个「主动式Agent」背后由Opus 5.5加持。…",
+      "source": "新智元",
+      "id": "tg0c8664",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg0c8664&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/22 08:42] 绝杀OpenAI！首个Claude Duet上岗，Opus 5.5 24 小时替你打工 · https://www.aiera.com.cn/asi-item.html?id=tg0c8664&from=yuanyuan"
+    },
     {
       "time": "06:40",
       "date": "10/22",
@@ -80,34 +104,10 @@
       "line": "[10/21 14:04] 刚刚，马斯克自曝：特斯拉与SpaceX或将合并！3.5万亿美元世纪大合体来了 · https://www.aiera.com.cn/asi-item.html?id=tgb02569&from=yuanyuan"
     },
     {
-      "time": "07:42",
-      "date": "10/21",
-      "title": "奥特曼曝出SI三大终局！最强AI只剩一家，否则熔掉全世界GPU",
-      "summary": "什么！我没听错吧？OpenAI、Anthropic、谷歌，这几家杀红了眼的死对头，全部并成一家！或者，一家公司率先造出能递归自我改进的AI，然后拿着由此赚来的钱…",
-      "source": "新智元",
-      "id": "tg7b1cf6",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg7b1cf6&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/21 07:42] 奥特曼曝出SI三大终局！最强AI只剩一家，否则熔掉全世界GPU · https://www.aiera.com.cn/asi-item.html?id=tg7b1cf6&from=yuanyuan"
-    },
-    {
-      "time": "07:42",
-      "date": "10/21",
-      "title": "刚刚，Claude首次设计出抗蝎毒蛋白！狂算64小时，已过实测",
-      "summary": "Claude最新成果，在生物和AI圈彻底刷屏了。今天，Anthropic公开一份研究中，内部研究版Claude设计的蛋白，真的在试管里抓住了蝎毒！64小时…",
-      "source": "新智元",
-      "id": "tg3eebee",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg3eebee&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/21 07:42] 刚刚，Claude首次设计出抗蝎毒蛋白！狂算64小时，已过实测 · https://www.aiera.com.cn/asi-item.html?id=tg3eebee&from=yuanyuan"
-    },
-    {
       "time": "06:07",
       "date": "10/22",
       "title": "一人违规全员停用GPT-5，OpenAI上线安全ID防连坐，整改期7天",
-      "summary": "终端用户一人违规，整家公司被连坐的日子要结束了。 据 OpenAI 最新开发者文档显示，官方正上线「安全 ID」，用于在调查中精准区分每个最终用户。 整改期只有 7 天。…",
+      "summary": "一个终端用户违规，整家公司停用 GPT-5。OpenAI 要用「安全 ID」拆掉这种连坐，留给机构的整改期只有 7 天。 细节写在 OpenAI 最新的开发者文档里。…",
       "source": "developers.openai.com",
       "id": "059020e7",
       "weight": 0,
@@ -294,6 +294,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=f0751624&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/21 08:00] 电脑关了它还在打工？Anthropic端出主动智能体Claude Duet · https://www.aiera.com.cn/asi-item.html?id=f0751624&from=yuanyuan"
+    },
+    {
+      "time": "07:42",
+      "date": "10/21",
+      "title": "奥特曼曝出SI三大终局！最强AI只剩一家，否则熔掉全世界GPU",
+      "summary": "什么！我没听错吧？OpenAI、Anthropic、谷歌，这几家杀红了眼的死对头，全部并成一家！或者，一家公司率先造出能递归自我改进的AI，然后拿着由此赚来的钱…",
+      "source": "新智元",
+      "id": "tg7b1cf6",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg7b1cf6&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/21 07:42] 奥特曼曝出SI三大终局！最强AI只剩一家，否则熔掉全世界GPU · https://www.aiera.com.cn/asi-item.html?id=tg7b1cf6&from=yuanyuan"
+    },
+    {
+      "time": "07:42",
+      "date": "10/21",
+      "title": "刚刚，Claude首次设计出抗蝎毒蛋白！狂算64小时，已过实测",
+      "summary": "Claude最新成果，在生物和AI圈彻底刷屏了。今天，Anthropic公开一份研究中，内部研究版Claude设计的蛋白，真的在试管里抓住了蝎毒！64小时…",
+      "source": "新智元",
+      "id": "tg3eebee",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg3eebee&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/21 07:42] 刚刚，Claude首次设计出抗蝎毒蛋白！狂算64小时，已过实测 · https://www.aiera.com.cn/asi-item.html?id=tg3eebee&from=yuanyuan"
     },
     {
       "time": "05:31",
@@ -611,13 +635,25 @@
       "time": "00:00",
       "date": "10/21",
       "title": "Model S停产给机器人让位！特斯拉擎天柱正式下线，明年底交付",
-      "summary": "特斯拉加州工厂开始量产擎天柱，豪车产线直接给它让路。 特斯拉在财报中表示，下线机器人已达量产质量，制造工艺「适用于商业化产品」。 马斯克在电话会上称仍需微调…",
+      "summary": "特斯拉加州工厂开始量产擎天柱了。Model S 停产，豪车产线直接让给人形机器人，明年底向客户交付。 特斯拉在财报里说，下线的机器人已经达到量产质量…",
       "source": "www.businessinsider.com",
       "id": "1a50167b",
       "weight": 0,
       "url": "https://www.aiera.com.cn/asi-item.html?id=1a50167b&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/21 00:00] Model S停产给机器人让位！特斯拉擎天柱正式下线，明年底交付 · https://www.aiera.com.cn/asi-item.html?id=1a50167b&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/21",
+      "title": "维基百科突发宕机！GPT-5.6 Sol揪出潜伏14年的PHP致命漏洞",
+      "summary": "维基百科突然宕机，背后是一个在 PHP 里潜伏了整整 14 年的致命漏洞。把它揪出来的，是 GPT-5.6 Sol。 漏洞代号「PHP2SHELL」，能让黑客直接劫持服务器。…",
+      "source": "RSS",
+      "id": "cb83771d",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=cb83771d&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/21 00:00] 维基百科突发宕机！GPT-5.6 Sol揪出潜伏14年的PHP致命漏洞 · https://www.aiera.com.cn/asi-item.html?id=cb83771d&from=yuanyuan"
     },
     {
       "time": "23:58",
@@ -690,42 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgbe5bb4&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/20 18:07] 突发，全球顶级角斗场RoboColiseum爆冷！Opus 5.5竟击败GPT6、Gemini 4 · https://www.aiera.com.cn/asi-item.html?id=tgbe5bb4&from=yuanyuan"
-    },
-    {
-      "time": "16:34",
-      "date": "10/20",
-      "title": "马斯克宣布「全民高收入」！ 要捐105亿美元分给「孩子」",
-      "summary": "马斯克宣布：计划在2027年，向全美每一个孩子，赠送一股SpaceX的股票。按全美7200万名未成年人计算，这大约要0.546%的SpaceX股份，价值约105亿美元。…",
-      "source": "新智元",
-      "id": "tg9cd4b4",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg9cd4b4&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/20 16:34] 马斯克宣布「全民高收入」！ 要捐105亿美元分给「孩子」 · https://www.aiera.com.cn/asi-item.html?id=tg9cd4b4&from=yuanyuan"
-    },
-    {
-      "time": "16:34",
-      "date": "10/20",
-      "title": "图灵奖得主同台！清华系黑马亮出物理AI王牌，比LeCun早一年",
-      "summary": "10月20日，南京国际博览中心，首届2026物理AI与世界模型大会开幕。这场大会的规格堪称「物理AI春晚」：图灵奖得主杨立昆（Yann LeCun）与姚期智以视频连线登场…",
-      "source": "新智元",
-      "id": "tg83a0bc",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg83a0bc&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/20 16:34] 图灵奖得主同台！清华系黑马亮出物理AI王牌，比LeCun早一年 · https://www.aiera.com.cn/asi-item.html?id=tg83a0bc&from=yuanyuan"
-    },
-    {
-      "time": "16:00",
-      "date": "10/20",
-      "title": "1300万道题测出大模型潜规则：表面一视同仁，稍微一劝就集体放水",
-      "summary": "大模型看着一视同仁，被人劝一句就偏了，而且偏得有方向。Ai2 发布 FairStress 基准，用超过 1300 万个测试用例，测了 Claude、GPT、Qwen…",
-      "source": "Ai2 / Allen Institute for AI（RSS）",
-      "id": "3c16e16f",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=3c16e16f&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/20 16:00] 1300万道题测出大模型潜规则：表面一视同仁，稍微一劝就集体放水 · https://www.aiera.com.cn/asi-item.html?id=3c16e16f&from=yuanyuan"
     }
   ],
   "feed_count": 60,
