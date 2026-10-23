@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-23 07:16:33 +0800",
+  "fetched_at": "2026-10-23 12:37:56 +0800",
   "today": "10/23",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -54,30 +54,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgf8e338&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/22 17:32] 爆肝实测四大国产AI神器！7大变态考题，逼出最野导演 · https://www.aiera.com.cn/asi-item.html?id=tgf8e338&from=yuanyuan"
-    },
-    {
-      "time": "08:42",
-      "date": "10/22",
-      "title": "半年扫出超2.9万疑似漏洞！Claude揪出curl高危隐患，29天修复",
-      "summary": "AI参与发现的高危漏洞，已经修好了。10月14日，网络传输工具curl发布了8.23.0。官方安全公告中致谢的报告者一栏，出现了Claude的名字：Luna with…",
-      "source": "新智元",
-      "id": "tge32e42",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tge32e42&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/22 08:42] 半年扫出超2.9万疑似漏洞！Claude揪出curl高危隐患，29天修复 · https://www.aiera.com.cn/asi-item.html?id=tge32e42&from=yuanyuan"
-    },
-    {
-      "time": "08:42",
-      "date": "10/22",
-      "title": "绝杀OpenAI！首个Claude Duet上岗，Opus 5.5 24 小时替你打工",
-      "summary": "Claude版「dot」，终于来了！今夜，Anthropic正式宣布上线Claude Duet，一个「主动式Agent」背后由Opus 5.5加持。…",
-      "source": "新智元",
-      "id": "tg0c8664",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg0c8664&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/22 08:42] 绝杀OpenAI！首个Claude Duet上岗，Opus 5.5 24 小时替你打工 · https://www.aiera.com.cn/asi-item.html?id=tg0c8664&from=yuanyuan"
     },
     {
       "time": "05:31",
@@ -150,6 +126,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=f6fc9f3b&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/22 22:07] 人类工程师彻底停笔，Anthropic两百人平台团队代码全交Claude · https://www.aiera.com.cn/asi-item.html?id=f6fc9f3b&from=yuanyuan"
+    },
+    {
+      "time": "08:42",
+      "date": "10/22",
+      "title": "半年扫出超2.9万疑似漏洞！Claude揪出curl高危隐患，29天修复",
+      "summary": "AI参与发现的高危漏洞，已经修好了。10月14日，网络传输工具curl发布了8.23.0。官方安全公告中致谢的报告者一栏，出现了Claude的名字：Luna with…",
+      "source": "新智元",
+      "id": "tge32e42",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tge32e42&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/22 08:42] 半年扫出超2.9万疑似漏洞！Claude揪出curl高危隐患，29天修复 · https://www.aiera.com.cn/asi-item.html?id=tge32e42&from=yuanyuan"
+    },
+    {
+      "time": "08:42",
+      "date": "10/22",
+      "title": "绝杀OpenAI！首个Claude Duet上岗，Opus 5.5 24 小时替你打工",
+      "summary": "Claude版「dot」，终于来了！今夜，Anthropic正式宣布上线Claude Duet，一个「主动式Agent」背后由Opus 5.5加持。…",
+      "source": "新智元",
+      "id": "tg0c8664",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg0c8664&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/22 08:42] 绝杀OpenAI！首个Claude Duet上岗，Opus 5.5 24 小时替你打工 · https://www.aiera.com.cn/asi-item.html?id=tg0c8664&from=yuanyuan"
     },
     {
       "time": "08:00",
@@ -536,6 +536,30 @@
       "line": "[10/22 00:00] 半年净亏800亿美元，Anthropic草案曝光，收入只涨了11亿 · https://www.aiera.com.cn/asi-item.html?id=7f3f8797&from=yuanyuan"
     },
     {
+      "time": "00:00",
+      "date": "10/22",
+      "title": "别家防AI像防贼，Spotify怎么把ChatGPT和Claude全放进来了？",
+      "summary": "别家把 AI 当成来抢饭碗的，Spotify 干脆把门全打开了。据 Gizmodo 报道，Spotify 已经接入 OpenAI 的 ChatGPT、Anthropic 的…",
+      "source": "gizmodo.com",
+      "id": "35b8f704",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=35b8f704&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/22 00:00] 别家防AI像防贼，Spotify怎么把ChatGPT和Claude全放进来了？ · https://www.aiera.com.cn/asi-item.html?id=35b8f704&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/22",
+      "title": "扎克伯格准备出租算力回血，华尔街对科技巨头的AI神话开始动摇",
+      "summary": "扎克伯格动了把 Meta 算力租出去的心思，华尔街对科技巨头的 AI 故事也开始没那么买账了。据彭博社报道，扎克伯格说「租用算力的报价太高了，在某些情况下…",
+      "source": "Bloomberg.com",
+      "id": "23538589",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=23538589&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/22 00:00] 扎克伯格准备出租算力回血，华尔街对科技巨头的AI神话开始动摇 · https://www.aiera.com.cn/asi-item.html?id=23538589&from=yuanyuan"
+    },
+    {
       "time": "21:31",
       "date": "10/21",
       "title": "谷歌阻击Opus 5.5的新杀器来了！Gemini 4 Carbon进场盲测",
@@ -702,30 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=f0751624&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/21 08:00] 电脑关了它还在打工？Anthropic端出主动智能体Claude Duet · https://www.aiera.com.cn/asi-item.html?id=f0751624&from=yuanyuan"
-    },
-    {
-      "time": "07:42",
-      "date": "10/21",
-      "title": "奥特曼曝出SI三大终局！最强AI只剩一家，否则熔掉全世界GPU",
-      "summary": "什么！我没听错吧？OpenAI、Anthropic、谷歌，这几家杀红了眼的死对头，全部并成一家！或者，一家公司率先造出能递归自我改进的AI，然后拿着由此赚来的钱…",
-      "source": "新智元",
-      "id": "tg7b1cf6",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg7b1cf6&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/21 07:42] 奥特曼曝出SI三大终局！最强AI只剩一家，否则熔掉全世界GPU · https://www.aiera.com.cn/asi-item.html?id=tg7b1cf6&from=yuanyuan"
-    },
-    {
-      "time": "07:42",
-      "date": "10/21",
-      "title": "刚刚，Claude首次设计出抗蝎毒蛋白！狂算64小时，已过实测",
-      "summary": "Claude最新成果，在生物和AI圈彻底刷屏了。今天，Anthropic公开一份研究中，内部研究版Claude设计的蛋白，真的在试管里抓住了蝎毒！64小时…",
-      "source": "新智元",
-      "id": "tg3eebee",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg3eebee&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/21 07:42] 刚刚，Claude首次设计出抗蝎毒蛋白！狂算64小时，已过实测 · https://www.aiera.com.cn/asi-item.html?id=tg3eebee&from=yuanyuan"
     }
   ],
   "feed_count": 60,

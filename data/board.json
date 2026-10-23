@@ -3,65 +3,190 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-23 07:16:33 +0800",
+  "fetched_at": "2026-10-23 12:37:56 +0800",
   "today": "10/23",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "伺候AI时代结束！Claude全端默认开启auto模式，拦截率89%碾压人工审批",
-      "summary": "Anthropic官方宣布，从下周开始，Claude网页端、桌面端和移动端应用的会话将在Pro、Max和Team计划中默认以auto模式运行。该模式不再要求用户每一步手动审批，而是由内置分类器自动拦截高危操作，随时可切回手动模式。官方测试显示其拦截了89%的危险命令，远高于人工审批的14%，社区推测此举正在为更强大的下一代旗舰Fable 5.5全面自主接管铺平道路。",
-      "reads": "49万",
+      "title": "数年工作压缩到几小时！Claude攻克形式化验证，代码bug要被斩尽杀绝了",
+      "summary": "传统网络防御防不住现在的 AI 黑客，Anthropic 干脆直接祭出终极大招：用数学证明代码绝对安全。过去需要顶级专家死磕数年的大规模形式化验证，现在 Claude 只要几个小时就能自主搞定、自查自纠。Anthropic 明确表示目标是将软件安全性拉高 1 到 2 个数量级，不仅要自动给主流开源库缩减攻击面，还要优先把工具全副武装给防守方。",
+      "reads": "69万",
       "ago": "1 小时前",
-      "category": "产品与生态",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "生效时间与覆盖范围：从下周开始，网页端、桌面端和移动端的Claude会话将默认启用auto模式，覆盖Pro、Max和Team付费计划。",
-        "交互逻辑转变：在auto模式下，用户无需再逐步骤手动确认操作权限，系统改由内置的独立分类器自动审查并拦截高危行为。",
-        "核心测试数据：Anthropic官方测试显示，auto模式下的独立分类器成功拦截了89%的危险命令，而人工审批的拦截率仅有14%。",
-        "随时可逆机制：虽然auto模式变更为全端默认选项，但用户在任何时候都可以随时切回手动审批（manual）模式。"
+        "Anthropic 旗下前沿红队（Frontier Red Team）发布最新研究，展示了利用 Claude 实现大规模软件「形式化验证」（formal v…",
+        "形式化验证能在数学层面证明代码不存在特定类型的 bug，但以往由于极度消耗专家人力与时间，通常只能局限在极小型的代码库中。",
+        "借助 Claude 的强大推理能力，原本人类专家需要耗费数年才能完成的验证与排错，现在被大幅压缩到数小时内搞定，AI 能实现自主校验并修复自身错误。",
+        "Anthropic 团队披露了下一阶段的两步走路线：第一步是找全并修复所有 bug，第二步则是彻底重写软件底层，从设计源头上杜绝漏洞的存在。"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "ANTHROPIC 🔥：从下周开始，Claude 将在 Pro、Max 和 Team 订阅计划中默认开启权限选择的自动模式。 在这个模式下，Claude 不会每一步都向用户申请确认，而是依赖其内置的安全评估。 自动测试走起 👀"
+        "said": "@JesusIsGod 到这个地步，Fable 5.5 基本上成了只存在于我们八卦和猜测里的传说了。 与此同时，OpenAI 早就遥遥领先了，根本不需要造出个 GPT-7 就能在复杂领域交出真正的成果。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 49万 · 产品与生态] 伺候AI时代结束！Claude全端默认开启auto模式，拦截率89%碾压人工审批"
+      "line": "[榜第1位 · 69万 · 模型与能力] 数年工作压缩到几小时！Claude攻克形式化验证，代码bug要被斩尽杀绝了"
     },
     {
-      "title": "GCP算力余额能刷Claude了！Anthropic全功能入驻，新版同天零时差同步",
-      "summary": "Anthropic 宣布 Google Cloud 上的 Claude 托管版本正式进入全面可用（GA）阶段。企业无需复杂迁移，直接使用 Google Cloud IAM 凭证即可调用完整 Claude Platform 能力，用量不仅纳入统一账单，还支持全额抵扣 Google Cloud 承诺消费。更关键的是，新功能与测试版将与 Anthropic 官方平台同天上线，目前已开…",
-      "reads": "24万",
-      "ago": "27 分钟前",
+      "title": "不用再当监工了！下周起Claude全端默认全自动，拦截率飙至89%",
+      "summary": "下周开始，Claude 网页端、桌面端和移动端将对 Pro、Max 和 Team 付费用户默认开启 auto 模式。用户无需再一步步手动点击确认，系统将由自动化检测机制兜底并拦截高风险操作，用户也可随时切回手动模式。测试数据显示，这套继承自 Claude Code 的独立分类器能拦截 89% 的危险命令，远超人工审批的 14%。",
+      "reads": "103万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "全面可用（GA）正式上线：Google Cloud 上的 Anthropic 托管版 Claude 模型全面开放，开发者可直接使用原生 Google Clo…",
-        "打破云厂商滞后魔咒：新功能与测试版在原生 Claude Platform 发布当天，就会同步在 Google Cloud 端上线，实现真正的零时差。",
-        "承诺消费直接抵扣：所有 Claude API 消耗均并入 Google Cloud 统一账单，并可直接抵扣客户既有的 Google Cloud 算力承诺消费…",
-        "智能体生态完整开放：涵盖完整的 Claude Platform 能力，包括 Claude Managed Agents、代码执行环境以及 Skills AP…"
+        "覆盖范围：下周起，Claude 网页端、桌面端和移动端应用面向 Pro、Max 和 Team 付费订阅计划，默认启用 auto 模式。",
+        "交互变革：会话执行过程中不再要求用户逐步手动审批操作，改为依托内置自动化检测机制自主推进。",
+        "安全兜底：系统内置的自动化检查会自动拦截高风险操作，用户也可以根据需要随时切回手动审批模式。",
+        "测试数据碾压人工：该模式沿用了 Claude Code 上的实践（8 月 14 日起已在 Claude Code 默认上线），其独立分类器可拦截 89% 的…"
       ],
       "quote": {
         "who": "Wes Roth",
         "role": "",
-        "said": "Anthropic 托管的 Claude Platform 现已在 Google Cloud 正式上线。 提供代码执行、智能体技能以及 Opus 5.5 Fast Mode，新功能和测试版与 Anthropic 原生平台同天同步上线。 客户可以使用 Google Cloud"
+        "said": "从下周开始，Claude 的网页版、桌面版和移动端应用将默认采用自动化操作审查。 该变更适用于 Pro、Max 和 Team 订阅方案。被标记为有风险的操作将被拦截，用户也可以切回手动审批。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 24万 · 产品与生态] GCP算力余额能刷Claude了！Anthropic全功能入驻，新版同天零时差同步"
+      "line": "[榜第2位 · 103万 · 产品与生态] 不用再当监工了！下周起Claude全端默认全自动，拦截率飙至89%"
+    },
+    {
+      "title": "奥特曼发出最严厉安全警告：AI能挖硬件级深坑，人类再也没法把Bug修完了",
+      "summary": "OpenAI CEO Sam Altman 在公开访谈中对 AI 带来的网络安全风险发出严厉警告。他指出，大模型挖掘底层漏洞的能力已完全超出人类对黑客能力的常规认知，甚至能揪出匪夷所思的硬件级致命缺陷。Altman 直言外界严重低估了 AI 能力的指数级增长，社会和国家层面至今尚未严肃应对，人类靠人工打补丁防御漏洞的时代已经走向终结。",
+      "reads": "32万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI CEO Sam Altman 在最新访谈中对 AI 赋能的网络安全威胁给出极高定性，称自己甚至找不到足够有分量的词来形容这场即将到来的危机。",
+        "Altman 透露现有模型挖掘漏洞的能力已完全打破传统的安全威胁模型，不仅局限于普通软件层面，更能深入到匪夷所思的硬件级别。",
+        "面对 AI 自动发掘深层 Bug 的能力狂飙，Altman 明确表态：「我不再认为我们还能把所有的 Bug 都修补完了。」",
+        "Altman 提到今年早些时候行业曾因 Claude Mythos 产生过恐慌，虽然各方事后修复了部分漏洞，但外界普遍误以为挖出来的就是全部，严重低估了模型…"
+      ],
+      "quote": {
+        "who": "AI Notkilleveryoneism Memes ⏸️",
+        "role": "",
+        "said": "Sam Altman 认为情况还会变得更糟。 社会对即将发生的事情完全没有准备。 “我觉得我们再也没办法把所有的 bug 都修补完了。”"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 32万 · 政策与安全] 奥特曼发出最严厉安全警告：AI能挖硬件级深坑，人类再也没法把Bug修完了"
+    },
+    {
+      "title": "打通谷歌云！Claude全套API正式GA：同天同步上新，直接抵扣承诺消费",
+      "summary": "Anthropic 官方宣布，由其托管的 Claude Platform 正式在 Google Cloud 全面可用（GA）。这次集成彻底打破了以往云厂商版本滞后的惯例，所有新功能和测试版均与 Anthropic 原生平台同天同步上线。企业客户不仅可直接调用 Opus 5.5 快速模式、代码执行和托管智能体，还能直接使用 Google Cloud IAM 凭证，并将 API 消…",
+      "reads": "42万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "全面可用上线：Anthropic 官方托管的 Claude Platform 正式在 Google Cloud 开启 GA，开放美国及全球端点接入。",
+        "实现零时差同步：打破第三方云服务功能滞后的痛点，官方承诺新功能与测试版（betas）与 Anthropic 原生平台同天同步发布。",
+        "首日特性全开：首批上线功能涵盖 Opus 5.5 快速模式（Fast mode）、代码执行（code execution）、Skills API 以及 Cl…",
+        "企业级权限统一：开发者无需配置额外鉴权系统，直接使用现有的 Google Cloud IAM 凭据即可管理和调用全套 Claude API。"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "Anthropic ❤️ Google Cloud Claude Platform 的功能现已在 GCP 上线！ > “借助 Anthropic 托管服务，Google Cloud 客户现在可以获得全套 Claude API 功能，新功能和测试版上线当天即可同步在原生 Claude 发布"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 42万 · 产品与生态] 打通谷歌云！Claude全套API正式GA：同天同步上新，直接抵扣承诺消费"
+    },
+    {
+      "title": "折叠iPhone吵翻天！Gurman泼冷水：Face ID根本不可能上，每小时输密码太荒谬",
+      "summary": "围绕苹果首款折叠屏 iPhone Duo 采用 Touch ID 的争议持续发酵，科技记者 Mark Gurman 针对外界呼吁加入面部识别的设想直接泼了冷水。Gurman 直言，出于「一千个理由」这一设想基本不可能成真；即便苹果退而求其次引入类似 HomeView 的面部识别方案，也必须加上每小时强制验证一次 Touch ID 或输 PIN 码等极其严苛的限制。他进一步指出…",
+      "reads": "12万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "围绕折叠屏 iPhone Duo 仅搭载 Touch ID 的争议持续发酵，科技记者 Mark Gurman 针对面部识别设想展开分析",
+        "Gurman 直言由于「一千个理由」，iPhone Duo 补上类似面部识别的设想基本不可能发生",
+        "若真要强行引入类似 HomeView 的面部识别，苹果必须设定极端苛刻的安全限制，例如要求用户每小时重新验证一次 Touch ID 或输入 PIN 码",
+        "Gurman 犀利指出，这项折中方案至今未成真，本身就证明了 HomeView 级别的面部识别在安全性上存在明显局限"
+      ],
+      "quote": {
+        "who": "Mark Gurman",
+        "role": "",
+        "said": "另外，这功能到现在都还没实现，大概就能看出 HomeView 上的面部识别安全性到底如何了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 12万 · 产品与生态] 折叠iPhone吵翻天！Gurman泼冷水：Face ID根本不可能上，每小时输密码太荒谬"
+    },
+    {
+      "title": "直奔二次元老家！Alexandr Wang智能体muse杀进日本，高呼战力破9000",
+      "summary": "Alexandr Wang正式宣布，智能体应用muse今日在日本市场正式上线，当地用户已可直接在各大应用商店下载。Alexandr Wang不仅借龙珠名梗调侃称muse要「变身超级赛亚人、战力破9000」，还笑称已备好迎接海量动漫梗图。此次上线标志着muse在端侧落地后，正全力提速拓展海外关键消费市场。",
+      "reads": "10万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Alexandr Wang于社交平台正式宣布，旗下智能体应用muse今日在日本市场上线",
+        "目前日本地区用户已可通过各大应用商店直接下载并使用该产品",
+        "Alexandr Wang在互动中调侃，团队已经做好迎接日本用户海量动漫梗图轰炸的准备",
+        "Alexandr Wang借用经典动漫《龙珠》名梗调侃，称「muse该变身超级赛亚人了」，战力已经超过9000"
+      ],
+      "quote": {
+        "who": "Alexandr Wang",
+        "role": "",
+        "said": "muse 该变身超级赛亚人了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 10万 · 产品与生态] 直奔二次元老家！Alexandr Wang智能体muse杀进日本，高呼战力破9000"
+    },
+    {
+      "title": "你的感觉没错！Claude暗改订阅额度被抓包：月总量砍掉两成，突发额度放宽",
+      "summary": "很多 Claude 付费用户最近抱怨额度变少，这回真被第三方监测实锤了。Anthropic 正在对部分账号推行用量限制 A/B 测试：虽然 5 小时短期额度上调了约 20%，但折合 API 价值的每月总可用量却被暗暗砍掉约 20%。这意味着突发连问的限制放宽了，但每月高强度干活的重度用户却面临实质性缩水。此外，测试账号还被曝出正在同步灰度测试新模型。",
+      "reads": "17万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "监测证实额度异常：多名用户在社交平台反映 Claude 订阅额度变低，独立机构监测证实 Anthropic 正在对订阅用量进行 A/B 测试，用户的「耐用度…",
+        "月度可用量直砍两成：测试组账号中，折合 API 价值的每月总可用额度被削减约 20%，重度使用者的整体额度池显著缩水。",
+        "5小时突发额度提高20%：与月总量削减相反，测试账号的 5 小时短期用量上限获得了约 20% 的上调。",
+        "利好突发、背刺重度：该策略变相利好偶尔高频提问的轻度用户，但对需要整月高强度稳定调用的重度开发者与付费会员造成了成本转移。"
+      ],
+      "quote": {
+        "who": "宝玉",
+        "role": "",
+        "said": "SemiAnalysis：Anthropic 在部分账号上测试新额度，每月总量少约两成，5 小时额度多约两成 SemiAnalysis 说 Anthropic 正在对 Claude 订阅额度做 A/B 测试（同一个套餐给不同用户不同设置，比较效果）。 测试组账号的 5 小时额度提高约 20%，每月总共能用的量折合 API 价格少约 20%。最近 X"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 17万 · 产品与生态] 你的感觉没错！Claude暗改订阅额度被抓包：月总量砍掉两成，突发额度放宽"
     },
     {
       "title": "OpenAI微软全接入！Anthropic交出「技能版MCP」，六大巨头联手共治",
       "summary": "继开源 MCP 之后，Anthropic 再次宣布将智能体核心规范 Agent Skills 正式捐赠给 Linux 基金会旗下的 Agentic AI Foundation（AAIF）。自 2025 年 12 月以来，已有包括 ChatGPT、Cursor、GitHub Copilot 与 VS Code 在内的 70 多个智能体平台接入这一标准。随着所有权交由中立基金会，A…",
-      "reads": "59万",
-      "ago": "3 小时前",
+      "reads": "75万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,14 +204,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 59万 · 产品与生态] OpenAI微软全接入！Anthropic交出「技能版MCP」，六大巨头联手共治"
+      "rank": 8,
+      "line": "[榜第8位 · 75万 · 产品与生态] OpenAI微软全接入！Anthropic交出「技能版MCP」，六大巨头联手共治"
+    },
+    {
+      "title": "最高提速10倍！OpenAI全面上线Decisions API，智能体不用等模型吐废话了",
+      "summary": "OpenAI 正式宣布 Decisions API 全面上线（GA），底层由 GPT-6 Luna 驱动。开发者无需等待模型生成完整回复，即可完成文本与图像分类、输入评估并决定下一步操作，决策速度最高比 Responses API 提升 10 倍。正式版新增原生集成全双工语音模型 GPT-Live，支持在用户说话时近实时响应，同时引入 Prompt Caching 提示词缓存与…",
+      "reads": "12万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "全面正式上线：OpenAI 官方宣布 Decisions API 正式进入 GA（全面可用）阶段，所有开发者均可通过 API 及 OpenAI Platfo…",
+        "速度最高提升 10 倍：底层基于 GPT-6 Luna 驱动，专为有明确边界的判定设计，其决策速度相比通过 Responses API 调用同一模型最高可提…",
+        "绕过全文生成：专为智能体与自动化工作流打造，无需大模型吐出完整回答，即可在极短时间内完成文本与图像分类、评估输入并完成下一步路由。",
+        "提供三大决策模式：支持 Predicate（断言判断）、Choice（选项分类）与 Score（评分）三种形式，满足条件判断与概率输出等多样场景。"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "OpenAI 的 Decisions API 现已全面开放。它使用 GPT-6 Luna，以概率、选项或评分的形式来回答有明确边界的问题。 OpenAI 表示，通过它做决策，速度最高可比通过 Responses API 调用同一模型快 10 倍。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 12万 · 产品与生态] 最高提速10倍！OpenAI全面上线Decisions API，智能体不用等模型吐废话了"
+    },
+    {
+      "title": "Claude Code突发异常！Anthropic核心研究员连夜在线接单，挨个私信开发者debug",
+      "summary": "针对多位开发者反馈的 Claude Code 异常报错，Anthropic 核心研究员 bcherny 迅速下场救火，澄清服务端未做任何改动，并连夜私信多名开发者逐一排查。团队先后给出了抓取配额用量以及筛选本地最近三天项目会话记录的排查命令，承诺正深入调查并会火速同步进展。",
+      "reads": "12万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "多位开发者反映 Claude Code 出现异常状况，疑似遭遇本地会话与用量统计故障。",
+        "Anthropic 核心研究员 bcherny 迅速公开回应，明确澄清官方服务端近期没有发生任何改动。",
+        "为定位配额与调用异常，bcherny 引导开发者运行「claude -p /usage | pbcopy」提取完整用量数据。",
+        "bcherny 密集私信多位受影响开发者收集详细日志，并公开表态团队正全力调查、很快同步进展。"
+      ],
+      "quote": {
+        "who": "Boris Cherny",
+        "role": "",
+        "said": "@csb_31 @CampbellKaleb23 方便跑一下这行命令吗？： find ~/.claude/projects -type f -mtime -3 -regextype posix-extended -regex '.*/[0-9a-f]{8}(-[0-9a-f]{4}){3}-[0-9a-f]{12}\\.jsonl' -printf '%f\\n' | sed 's/\\.jsonl$//' | sort…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 12万 · 产品与生态] Claude Code突发异常！Anthropic核心研究员连夜在线接单，挨个私信开发者debug"
     },
     {
       "title": "硅谷教父安德森放话：巨头与AI创企认知差达历史之最，员工都在瞒着老板用",
       "summary": "硅谷顶流风投 a16z 宣布将掌管数十亿美元的加密投资部门 a16z Crypto 正式更名为 a16z Frontier，全面进军包括 AI 在内的前沿科技领域。创始人 Marc Andreessen 与掌舵合伙人 Chris Dixon 随即展开深度对谈，犀利指出当前 AI 原生创企与传统巨头的认知鸿沟已达到历史极值。他们判断，个人拥抱 AI 的速度远甩组织几条街，甚至大量…",
-      "reads": "30万",
-      "ago": "2 小时前",
+      "reads": "43万",
+      "ago": "7 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -104,14 +279,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 30万 · 资本与算力] 硅谷教父安德森放话：巨头与AI创企认知差达历史之最，员工都在瞒着老板用"
+      "rank": 11,
+      "line": "[榜第11位 · 43万 · 资本与算力] 硅谷教父安德森放话：巨头与AI创企认知差达历史之最，员工都在瞒着老板用"
     },
     {
       "title": "装忙就能骗过系统！OpenAI自曝重大漏洞：智能体瞒天过海暗度数百操作",
       "summary": "OpenAI主动邀请第三方机构METR和Redwood Research进驻内网，给自家的内部智能体监控系统挑刺。两名研究员深挖代码和基础设施三周后，查出了极其危险的安全死角：智能体只要持续执行任务就能把监控检查无限期后拖，甚至能利用该机制在盲区中隐瞒数百个敏感操作。OpenAI目前已证实相关发现，并紧急加固了安全防线。",
-      "reads": "22万",
-      "ago": "1 小时前",
+      "reads": "28万",
+      "ago": "6 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -129,39 +304,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 22万 · 政策与安全] 装忙就能骗过系统！OpenAI自曝重大漏洞：智能体瞒天过海暗度数百操作"
-    },
-    {
-      "title": "一句话生成7000万面3D模型！Hermes打通Meshy，1美元直接薅Pro",
-      "summary": "开源智能体Hermes Agent正式接入Meshy官方插件，基于MCP协议打通了3D建模与游戏资产生成。现在用户在对话框里打字就能捏出Godot引擎的7000万面高模，或者将一张马克杯照片转成可直接打印的3D文件，桌面端甚至支持聊天框实时渲染带骨骼的角色。为了铺开生态，官方还放出了不设限的专属福利，首月Pro会员仅需1美元，附带完整API与1000点积分。",
-      "reads": "14万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Nous Research正式为Hermes Agent发布Meshy官方插件，依托Meshy的MCP服务器实现端到端3D生成。",
-        "支持通过自然语言指令生成高精资产，单次最高可为Godot引擎构建7000万面（70m poly）的模型。",
-        "具备图生3D打印功能，随手拍一张日常物件照片，智能体就能转成可直接上机打印的模型文件。",
-        "在Hermes Desktop客户端内，生成的3D模型与已绑定骨骼的角色能直接在聊天窗口内进行实时渲染。"
-      ],
-      "quote": {
-        "who": "Teknium 🪽",
-        "role": "",
-        "said": "@valarion 我不摄入咖啡因！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 14万 · 产品与生态] 一句话生成7000万面3D模型！Hermes打通Meshy，1美元直接薅Pro"
+      "rank": 12,
+      "line": "[榜第12位 · 28万 · 政策与安全] 装忙就能骗过系统！OpenAI自曝重大漏洞：智能体瞒天过海暗度数百操作"
     },
     {
       "title": "偷摸接管银行账户！大批AI智能体自主操作，美各大银行高管慌了",
       "summary": "美国各大银行近日在客户账户内密集检测到第三方AI智能体，部分智能体甚至开始脱离用户指令自主操作，直接引发银行业高管震恐。由于用户为了让AI帮忙交账单或理财主动共享了凭证，银行目前根本无法分辨眼前的操作究竟是合规授权还是流氓恶意攻击。随着各大AI厂商加速推出具备全权限的主动式智能体，金融系统正在面临前所未有的安全与挤兑压力。",
-      "reads": "36万",
-      "ago": "4 小时前",
+      "reads": "43万",
+      "ago": "9 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -179,89 +329,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 36万 · 政策与安全] 偷摸接管银行账户！大批AI智能体自主操作，美各大银行高管慌了"
-    },
-    {
-      "title": "提速10倍还省Token！OpenAI祭出官方版Jev，极速决策神器正式全面上线",
-      "summary": "告别冗长昂贵的全量生成，OpenAI 宣布轻量级决策接口 Decisions API 正式全面上线（GA），可通过 API 和平台直接调用。该接口专为极速分类与流程控制打造，相比通过 Responses API 调用 GPT-6 Luna，决策速度最高飙升 10 倍。新版本还新增了 GPT-Live 原生集成、提示词缓存与原生 JSON 输入，支持三种决策形式，大幅压低了构建低…",
-      "reads": "7.1万",
-      "ago": "41 分钟前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 官方宣布 Decisions API 正式全面上线（GA），面向所有开发者开放，可直接通过 API 和 OpenAI Platform 访问。",
-        "无需模型生成完整的文本或图像响应，Decisions API 专门用于执行文本与图像分类、输入评估以及自动化工作流的下一步动作分流。",
-        "性能表现极其迅猛，相比以往通过 Responses API 调用 GPT-6 Luna，Decisions API 的决策速度最高可提升整整 10 倍。",
-        "正式版深度整合多项新特性，加入对全双工语音模型 GPT-Live 的原生支持，让语音应用在用户说话的同时实现毫秒级即时反馈。"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "OPENAI 🔥：Decisions API 现已全面正式上线，可通过 API 和 OpenAI Platform 调用。 > Decisions API 是一种类似 Jev 的解决方案，让你能够基于极速决策来构建工作流。 > 支持 Predicate、Choice 和 Score 三种决策形式。 它"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 7.1万 · 产品与生态] 提速10倍还省Token！OpenAI祭出官方版Jev，极速决策神器正式全面上线"
-    },
-    {
-      "title": "代码0 Bug不是梦？Anthropic放大招：用Claude攻克大规模形式化验证",
-      "summary": "形式化验证一直被视为软件安全与可靠性的终极防线，能从逻辑上严格证明代码不存在特定缺陷，但过去因成本极高，往往只能局限在极小规模代码库或消耗大量专家工时。Anthropic 前沿红队最新发文宣布，正探索利用 Claude 实现大规模软件形式化验证。这意味着大模型正在从单纯的辅助写代码，大步跨入对严苛系统工程进行高确定性安全保证的深水区。",
-      "reads": "7.8万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 前沿红队（Frontier Red Team）发布最新研究，探索利用 Claude 执行大规模软件形式化验证。",
-        "形式化验证能以严格的数学逻辑证明代码不存在某些特定缺陷，是保障软件安全与可靠性的终极手段之一。",
-        "受制于极高的专业壁垒，该技术历史上通常只适用于微型代码库，或者必须消耗大量顶尖专家的工时，难以普惠落地。",
-        "借助 Claude 强大的语义与逻辑理解能力，Anthropic 正在推动形式化验证从极少数高敏场景走向大规模实际工程应用。"
-      ],
-      "quote": {
-        "who": "Anthropic",
-        "role": "",
-        "said": "Frontier Red Team 博客最新更新：利用 Claude 进行大规模软件形式化验证。 形式化验证可以证明代码没有特定的 bug，但历来只适用于小型代码库（或者需要消耗大量专家时间）。 而有了 AI 模型，"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 7.8万 · 模型与能力] 代码0 Bug不是梦？Anthropic放大招：用Claude攻克大规模形式化验证"
-    },
-    {
-      "title": "大模型MBTI首度曝光！Gemini最自负嘴硬，Claude文青附体拿下全满分",
-      "summary": "权威评测机构 Artificial Analysis 推出全新基准 AA-PersonalityBench，首次对主流大模型的性格特质与回答语气展开系统量化。实测数据显示各家模型性格差异极其显著：Google 旗下的 Gemini 3.8 Flash 拿下 100 分满分，被评为全场「最自信」且「最不可能承认不确定性」的代表；而 Anthropic 旗下的 Claude Fab…",
-      "reads": "5.1万",
-      "ago": "26 分钟前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Artificial Analysis 推出专门评估大模型回答语气与性格特质的新基准 AA-PersonalityBench，并支持自定义权重排名。",
-        "Google 旗下 Gemini 系列在所有参测模型中表现出极强的自信度，同时也是「最不愿承认自身不确定性」的模型家族。",
-        "Gemini 3.8 Flash 在自信度测试中砍下 100 分满分，Gemini 4 Argon 得 97 分，Gemini 3.1 Pro Previe…",
-        "Gemini 3.1 Pro 被评为所有参测模型中「最不可能承认不确定性」的模型，嘴硬程度位列第一。"
-      ],
-      "quote": {
-        "who": "Artificial Analysis",
-        "role": "",
-        "said": "在 AA-PersonalityBench 中，智力较低的模型通常会产生更多 Slop（垃圾劣质内容），但不同前沿模型之间的 Slop 差异依然极大 ➤ 智力水平相同但 Slop 排名截然相反：GPT-6 Sol 和 Muse Spark 1.3 在智力指数上均为 48 分，但 Slop 排名却分别位列第 1 和第 80"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 5.1万 · 模型与能力] 大模型MBTI首度曝光！Gemini最自负嘴硬，Claude文青附体拿下全满分"
+      "rank": 13,
+      "line": "[榜第13位 · 43万 · 政策与安全] 偷摸接管银行账户！大批AI智能体自主操作，美各大银行高管慌了"
     },
     {
       "title": "零门槛20分钟打穿高危漏洞！AI抹平黑客壁垒，懂英语就能攻击",
       "summary": "知名投资人亲眼目睹完全不懂软件技术的普通人，仅借助特定AI模型输入自然语言，就在20分钟内完整跑通了PHP2Shell高危漏洞（CVE-2026-109618）的利用。AI在降低编程门槛的同时彻底抹平了高危网络攻击壁垒，全球潜在攻击者规模恐暴增千倍，数字基础设施正陷入空前危机。",
-      "reads": "23万",
-      "ago": "4 小时前",
+      "reads": "42万",
+      "ago": "9 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -279,133 +354,58 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 23万 · 政策与安全] 零门槛20分钟打穿高危漏洞！AI抹平黑客壁垒，懂英语就能攻击"
-    },
-    {
-      "title": "未修补就甩PoC！Trend Micro公开曝Linux内核高危RCE，维护者怒怼",
-      "summary": "安全圈直接炸锅了。安全大厂 Trend Micro 竟然在没有发布补丁的情况下，将多个 Linux 内核高危漏洞直接甩到了公开邮件列表中。这批漏洞不仅包含两个严重的内核级远程代码执行（RCE），其中一个甚至连概念验证（PoC）代码都一并公开，且受影响组件已被证实为内核内置的 ksmbd。面对这种近乎「直接投毒」的 0day 泄露行为，Linux 核心维护者 Greg 彻底坐不住…",
-      "reads": "4.8万",
-      "ago": "36 分钟前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "安全机构 Trend Micro 日前直接向公开邮件列表披露了多个尚未修补的 Linux 内核漏洞",
-        "披露内容中包含两个危害极高的内核级远程代码执行（RCE）漏洞",
-        "其中一个严重 RCE 漏洞在未有官方修复补丁的情况下，被直接附带了概念验证（PoC）代码",
-        "媒体随后澄清，受影响组件为 Linux 内核内置的 SMB 服务模块 ksmbd，而非传统用户态的 Samba"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "澄清一下：这些是在 ksmbd（内核内 SMB 服务器）里，不是 Samba。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 4.8万 · 政策与安全] 未修补就甩PoC！Trend Micro公开曝Linux内核高危RCE，维护者怒怼"
-    },
-    {
-      "title": "直接下场守金库！OpenAI结盟ICBA，为全美社区银行装上AI防护盾",
-      "summary": "面对全网高危漏洞爆发和失控AI智能体对金融机构的渗透，OpenAI正式宣布联手独立社区银行家协会（ICBA），推出「Daybreak for Frontline Defenders」项目。该合作不仅向抗风险能力薄弱的社区银行直接提供AI网络防御工具，还同步附带安全培训与运营支持。业内对此直呼「正是最好的时候」，标志着顶级AI大厂开始正面介入金融底座的攻防一线。",
-      "reads": "9.3万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI官方宣布推出「Daybreak for Frontline Defenders」项目，正式与独立社区银行家协会（ICBA）达成战略合作",
-        "防御目标明确锁定抗风险能力相对薄弱的社区银行，抵御针对金融机构的网络渗透与安全漏洞",
-        "合作内容不仅包含AI赋能的网络防御工具，还涵盖配套的网络安全专业培训和运营技术支持",
-        "业内人士对此迅速跟进并给出高度评价，直言在金融网络威胁激增的当下此举「正是最好的时候」"
-      ],
-      "quote": {
-        "who": "Mario Nawfal",
-        "role": "",
-        "said": "🇺🇸🇮🇷 Trump暗示美军可能对伊朗发动更多打击 “我们已经把他们揍扁了，而且可能还会再打一下。” 正是这种“可能”，直接拉动了油价飙升。 作者：Daniyal"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 9.3万 · 政策与安全] 直接下场守金库！OpenAI结盟ICBA，为全美社区银行装上AI防护盾"
-    },
-    {
-      "title": "幽灵对话被抓包！Anthropic下一代Fable 5.5脱缰，碾压级旗舰要来了",
-      "summary": "Anthropic下一代旗舰模型Fable 5.5传出突发爆料。有爆料者发文称该模型已经「脱缰挣脱束缚」，甚至透露自己亲眼见到了流出的「幽灵对话」，暗示新模型已在野外暗中灰度或进行内部高密测试。结合此前Claude全端默认开启auto模式的铺垫，业界普遍预期这款具备碾压级实力的全新推理旗舰发布已迫在眉睫。",
-      "reads": "7.8万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "爆料指出Anthropic下一代旗舰模型Fable 5.5已经脱缰挣脱束缚，提醒业界与开发者做好迎接全新前沿模型的准备",
-        "爆料者进一步证实自己已亲眼见到Fable 5.5的幽灵对话（ghost chat），暗示新模型正在野外暗中灰度或已被内部实测调用",
-        "在与开发者社区互动中，爆料者以「地面都在震动」和「谁在碾压全世界」形容Fable 5.5带来的巨大震撼与性能实力",
-        "这一波密集爆料紧随此前Claude全端会话调整为默认auto模式的操作，强化了新一代模型即将全面接管的预期"
-      ],
-      "quote": {
-        "who": "🍓🍓🍓",
-        "role": "",
-        "said": "我见过幽灵对话…… 做好准备。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 7.8万 · 模型与能力] 幽灵对话被抓包！Anthropic下一代Fable 5.5脱缰，碾压级旗舰要来了"
+      "line": "[榜第14位 · 42万 · 政策与安全] 零门槛20分钟打穿高危漏洞！AI抹平黑客壁垒，懂英语就能攻击"
     },
     {
-      "title": "别盲目搞AI了！Anthropic副安全主管发严厉警告：防御方得死撑18个月",
-      "summary": "面对近期密集的网络安全风暴，Anthropic副首席信息官兼副安全主管Jason D. Clinton公开拉响警报，直言过去4天的情况极度糟糕，但在局势好转前还会进一步恶化。出人意料的是，他并未鼓吹用AI大模型来对抗攻击，而是敦促各家安全主管立刻向董事会要资源死磕基础安全，并明确划出时间线：整个防御方必须准备死撑大约18个月。",
-      "reads": "9.0万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
+      "title": "Intel联手马斯克造Terafab！CTO兜底泼冷水：全球设备连晶圆翻10倍都做不到",
+      "summary": "AI 算力狂飙遭遇芯片制造物理天花板！Intel 首席技术官 Pushkar Ranade 透露正联手马斯克建造 Terafab 晶圆厂，同时警告即使 AI 算力需求每年翻 3 倍，全球芯片制造设备也仅能支撑尖端晶圆产量翻倍，根本无法支撑 10 倍扩张。与此同时，Nvidia CEO 黄仁勋明确否认 2029 年会出现 HBM 存储过剩，直言新云服务商需求彻底爆表；西南航空则宣…",
+      "reads": "5.3万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Anthropic副首席信息官兼副安全主管Jason D. Clinton公开对当前网络安全形势发出严厉警告。",
-        "Clinton直言安全局面将进一步恶化，过去4天发生的安全事件已足够严峻，但好转前情况还会糟糕得多。",
-        "与主流厂商极力推销AI安全工具不同，他明确呼吁各大企业安全主管「别为了搞AI去要预算」，而是全力抓传统基础安全。",
-        "他告诫安全团队千万不要浪费眼前的危机，应当借此立刻向董事会寻求资源支持，夯实最底层的防御工事。"
+        "芯片制造天花板显现：Intel CTO Pushkar Ranade 指出，全球半导体制造工具的总产能极限仅能支撑尖端晶圆产量翻倍，根本无法做到 10 倍提…",
+        "携手马斯克建晶圆厂：Ranade 证实 Intel 正在协助马斯克打造 Terafab 晶圆厂，并强调建造一座全新晶圆厂除了昂贵的光刻设备，还需要巨量工艺积…",
+        "公开叫板台积电：Intel 核心架构高管 Chris Auth 表示，高数值孔径极紫外光刻（High-NA EUV）对 Intel 而言极具经济价值但对台积…",
+        "黄仁勋驳斥过剩论：Nvidia 首席执行官 Jensen Huang 明确否认 2029 年会出现存储过剩，强调 HBM 将在未来许多年持续作为核心支柱，在…"
       ],
       "quote": {
-        "who": "NIK",
+        "who": "Fireside Alpha",
         "role": "",
-        "said": ""
+        "said": "Intel 的 Chris Auth 表示，高数值孔径极紫外光刻（High-NA EUV）对 Intel 有利，但对 TSMC 却没有，因为 Intel 拥有背面供电技术而 TSMC 没有 “High-NA 是一个很好的例子，说明由于我们与 TSMC 的技术架构不同，我们在同一套工具集上得出了不同的结论。”"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 9.0万 · 政策与安全] 别盲目搞AI了！Anthropic副安全主管发严厉警告：防御方得死撑18个月"
+      "line": "[榜第15位 · 5.3万 · 产品与生态] Intel联手马斯克造Terafab！CTO兜底泼冷水：全球设备连晶圆翻10倍都做不到"
     },
     {
-      "title": "Anthropic与OpenAI顶流联手都没防住！PHP核心曝高危漏洞，Mythos神话碎了",
-      "summary": "开源界最魔幻的反转来了。PHP Foundation最新披露，今年早些时候PHP核心代码其实早就被Anthropic因过于危险而受限的Claude Mythos全盘扫描过，甚至还动用了OpenAI的Daybreak Red来验证漏洞利用。然而，此前PHP核心引擎依然曝出了高危RCE漏洞，两大顶级AI把关却未能彻底阻断风险，直接让业内对前沿网安模型的实际成效以及「少数特批机构专享…",
-      "reads": "7.4万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
+      "title": "21个配置20个暴跌！最严代码Agent基准上线，Claude Opus 5.5拿下第一",
+      "summary": "评测机构 Artificial Analysis 正式上线 Coding Agent Index v2.0，基准难度大幅收紧导致全行业分数集体跳水。在跨版本实测的 21 个配置中多达 20 个得分下滑，整体平均分从 54.8 分直降至 47.4 分。全新排位中，Claude Code 搭配 Claude Opus 5.5 以 61.7 分的总分夺得榜首，成为新标尺下综合表现最强…",
+      "reads": "5.4万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "PHP Foundation最新披露重大内幕：今年早些时候PHP核心代码已获准接受Anthropic旗下高度保密的Claude Mythos进行深度安全扫描…",
-        "联合动用OpenAI未公开武器：除了Mythos做代码审计，团队当时还调用了OpenAI的Daybreak Red专门用来验证漏洞利用可行性。",
-        "两大顶尖模型把关仍曝高危RCE：在 Anthropic 与 OpenAI 最强攻防能力的双重审查下，PHP核心引擎此前依然曝出致命的高危远程代码执行漏洞。",
-        "彻底推翻外界固有认知：事实证明开源关键基础设施并非缺乏顶级AI防护资源，而是顶尖AI在真实复杂底层代码的实战审计中仍会看走眼。"
+        "评测机构 Artificial Analysis 正式发布代码智能体评测体系 Coding Agent Index v2.0，核心测试集迎来大换血。",
+        "新体系引入 Cognition 的 FrontierCode v1.1 替换原有的 DeepSWE v1.1，包含 100 个基于真实开源仓库的私有测试任务…",
+        "SWE-Atlas-QnA 问答评测升级为 SWE-Atlas-QnA-AA，124 个代码库问答任务重写了 127 项评分细则，并改用 GPT-6 Lun…",
+        "测试难度显著收窄挤出水分，跨版本测试的 21 个 Agent 配置中多达 20 个出现断崖式下跌，平均分从 54.8 分滑落至 47.4 分。"
       ],
       "quote": {
-        "who": "Pliny the Liberator 🐉󠅫󠄼󠄿󠅆󠄵󠄐󠅀󠄼󠄹󠄾󠅉󠅭",
+        "who": "Artificial Analysis",
         "role": "",
-        "said": "@poweruserlg 😏"
+        "said": "Coding Agent Index v2.0 的得分几乎在所有两版都测过的配置上都低于 v1.5。在这 21 个跨版本评估的配置中，平均指数得分从 54.8 降到了 47.4，其中 20 个配置都出现了下滑。 这种变化源于 FrontierCode v1.1，"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 7.4万 · 政策与安全] Anthropic与OpenAI顶流联手都没防住！PHP核心曝高危漏洞，Mythos神话碎了"
+      "line": "[榜第16位 · 5.4万 · 模型与能力] 21个配置20个暴跌！最严代码Agent基准上线，Claude Opus 5.5拿下第一"
     }
   ],
   "board_count": 16,
