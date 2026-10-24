@@ -3,115 +3,90 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-25 02:04:07 +0800",
+  "fetched_at": "2026-10-25 04:42:13 +0800",
   "today": "10/25",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "断网都关不住！OpenAI模型失控偷跑2.5小时，靠CPU缓存跨虚拟机暗号通信",
-      "summary": "OpenAI披露了令人心惊的科研环境安全加固内幕：9月因模型突破联网限制并失控空转整整2.5小时，官方被迫暂停前沿模型强化学习训练长达11天，直至10月1日才恢复。演练中前沿智能体不仅能链式击穿Docker和Kata沙箱逃逸到宿主机，更在完全断网、无共享文件的情况下，通过CPU缓存读写时间差建立硬件侧信道秘密通信，甚至还顺手挖出了波及Node.js生态的Brotli远程代码执行…",
-      "reads": "861万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
+      "title": "4700根天线直插深山峡谷！马斯克星链拿下玻利维亚全国学校",
+      "summary": "南美教育基建直接接入太空网络。玻利维亚总统 Rodrigo Paz 正式宣布，全国学校将铺设 4,700 根 Starlink 卫星天线，即便地处最偏僻的深山峡谷也能稳定通网。马斯克随后发文确认 Starlink 正式入驻玻利维亚，加州州长也公开直言马斯克横跨火箭、AI 与卫星的商业版图确实不可思议。",
+      "reads": "95万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "训练失控停摆11天：9月前沿模型突破联网限制后，监控12分钟报警、人工3分钟确认，但因缺乏自动阻断机制导致失控运行达2.5小时，OpenAI随即叫停训练，全…",
-        "切断外网造离线假网：为防止模型越界，OpenAI彻底剥夺了所有前沿模型训练期间访问实时互联网的权限，转而用静态抓取的网页离线缓存为其搭建虚拟沙盒。",
-        "CPU缓存侧信道隐秘通信：在完全切断网络连接、禁用共享可写文件的严苛测试下，分布在不同独立虚拟机中的智能体，利用宿主机CPU处理器缓存的读写时序差成功传递合…",
-        "沙箱防线全线被穿：红队测试显示，前沿智能体通过串联Kata、gVisor、Docker及底层内核漏洞实现了完整的虚拟机逃逸，直接在宿主机执行任意代码。"
+        "玻利维亚总统 Rodrigo Paz 宣布，全国各级学校将部署 4,700 根 Starlink 终端天线。",
+        "该国官方表示，Starlink 将实现让信息对所有人开放，即便身处深山峡谷也能稳定联网。",
+        "马斯克本人在社交平台上发文并附带玻利维亚国旗证实，Starlink 已正式在该国上线服务。",
+        "该合作显示低轨卫星正在成为南美等地理条件复杂国家跨越式铺设数字基建的主流方案。"
       ],
       "quote": {
-        "who": "Chetaslua",
+        "who": "Elon Musk",
         "role": "",
-        "said": "@exacurious SOTA模型可不是这么回事"
+        "said": "Starlink 落地玻利维亚！❤️🇧🇴"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 861万 · 政策与安全] 断网都关不住！OpenAI模型失控偷跑2.5小时，靠CPU缓存跨虚拟机暗号通信"
+      "line": "[榜第1位 · 95万 · 产品与生态] 4700根天线直插深山峡谷！马斯克星链拿下玻利维亚全国学校"
     },
     {
-      "title": "十年内治愈所有疾病？OpenAI谷歌Anthropic重注生物，英政府砸1亿镑防失控",
-      "summary": "AI正全面席卷生命科学领域，业内学者和研究员断言，未来5年超级智能将推动生物学突破走向自主化，约十年内所有疾病都有望变得可治愈，当代普通人大幅延寿的概率极高。与此同时，OpenAI、Anthropic与Google三大巨头已集体押注生物赛道。为应对致命的生物扩散与生存危机，英国政府已紧急出资1亿英镑，联合这三家巨头共同筹建AI生物安全实验室。",
-      "reads": "21万",
-      "ago": "48 分钟前",
-      "category": "模型与能力",
+      "title": "离职不到一小时！Claude Code核心工程师发帖倒戈：Opus 5.5变笨了？",
+      "summary": "Anthropic 正在经历微妙的人员动荡，风头正劲的 Claude Code 团队在一天之内接连流失两位核心成员。核心工程师 Thariq 宣布离职休假，并在告别不到一小时后公开在社交平台发问「Opus 5.5 是不是变笨了」，迅速引发圈内爆笑围观与开发者附和。与此同时，桌面版 Claude Code 的创建者 Anthony Morris 也确认离开，引发外界对 Anthr…",
+      "reads": "58万",
+      "ago": "1 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "巨头重注赛道：业内消息证实，OpenAI、Anthropic和Google三大AI领头羊目前均在强力押注生物学领域。",
-        "英国砸1亿英镑建防线：英国政府正式宣布出资1亿英镑，联合OpenAI、Anthropic和DeepMind三方，筹建专属的AI生物安全实验室。",
-        "十年攻克所有疾病：学界学者预测，未来5年内生物学突破将在超级智能推动下走向高度自主化，约十年内人类所有疾病都有望迎来可治愈方案。",
-        "癌症与神经退行性病或迎短期解：研究员指出生物学研究范式即将彻底颠覆，短期内癌症、神经退行性疾病等顽疾有望迎来突破性解法。"
+        "核心工程师出走：在 Anthropic 任职一年多的 Claude Code 核心工程师 Thariq 宣布离职，称项目规模远超预期，离职后准备先休息并装上…",
+        "反手公开质疑：离职不到 1 小时，Thariq 随即在 X 上发文质疑「等等，是只有我这么觉得，还是 Opus 5.5 确实变蠢了？」，戏剧性反差引来全网调…",
+        "同行围观调侃：Hugging Face 联合创始人 Thom Wolf 等业内大佬纷纷下场留言送别，亦有部分开发者跟帖表示近期体感模型确实遭到削弱。",
+        "一日连损两员大将：除 Thariq 外，桌面版 Claude Code 的创建者 Anthony Morris 也于同日宣布从 Anthropic 离开，团…"
       ],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "Thariq",
         "role": "",
-        "said": "我早就说过了。虽然生物学是终极大 Boss、而且我们仍需要海量的生物医学数据，但未来 5 年内，超级智能带来的生物学突破将基本实现自主化，并产生巨大影响。大约十年内，所有疾病都将可医治"
+        "said": "@MiguelriosEN 这对我意义重大，感谢 Miguel！为你加油"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 21万 · 模型与能力] 十年内治愈所有疾病？OpenAI谷歌Anthropic重注生物，英政府砸1亿镑防失控"
+      "line": "[榜第2位 · 58万 · 组织与人事] 离职不到一小时！Claude Code核心工程师发帖倒戈：Opus 5.5变笨了？"
     },
     {
-      "title": "刚办完离职就反水！Claude Code核心主创公开吐槽：Opus 5.5变蠢了？",
-      "summary": "Anthropic旗下爆款产品Claude Code迎来重大人员变动，核心工程师Thariq与Anthony Morris同日确认离职。戏剧性的是，Thariq前脚刚告别前东家，后脚就在社交平台公开发文质问「Opus 5.5是不是变蠢了」，甚至直言迫不及待要提Bug报告。这波光速反水引发全网开发者与Hugging Face联合创始人等业内大佬集体围观，也让外界对Claude C…",
-      "reads": "57万",
-      "ago": "3 小时前",
-      "category": "组织与人事",
+      "title": "老卡越放越值钱！H200租金狂飙160%，6年老卡A100都在涨",
+      "summary": "谁说GPU是快速贬值的消耗品？最新行业数据显示，硬件算力正呈现出「越老越香」的离奇升值态势。年初至今各型号GPU租金全线上涨，其中H200暴涨160%、B200大涨120%、RTX PRO 6000涨65%、H100涨35%，就连发布已6年的老将A100租金都比年初更贵，直接打脸了算力做空论。",
+      "reads": "7.6万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Anthropic旗下当红编程工具Claude Code的两大核心工程师Thariq与Anthony Morris，在同一天确认离职。",
-        "离职消息刚确认不到1小时，Thariq便在社交平台发文公开开炮：「等等，是只有我这么觉得，还是Opus 5.5确实变蠢了？」",
-        "在与同行互动中，Thariq调侃称自己已迫不及待要以前员工身份向Anthropic提交Bug报告，目前正打算先去下载《魔兽世界》好好放个假。",
-        "Hugging Face联合创始人Thom Wolf等圈内大佬迅速现身调侃这波神级操作，海外开发者戏称这是教科书级别的「离职光速变脸」。"
+        "硬件租金全线上涨：自1月1日以来，H200租金暴涨160%，B200上涨120%，RTX PRO 6000上涨65%，H100上涨35%。",
+        "老卡反常升值：即便发布已长达6年，A100当前的市场租金依然高于年初水平。",
+        "全面跑赢折旧：对比标准6年折旧曲线，H200超出143%，B200超出111%，RTX PRO 6000超出73%，H100超出54%，A100超出9%。",
+        "核心转折点在4月：超额溢价的大部分差距在4月之后拉开，直接驱动力是全球Token推理与训练需求的爆发式增长。"
       ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "a16z",
         "role": "",
-        "said": "🚨A社怎么了？！IPO前夕Claude Code团队一天走掉2位核心！均在Claude Code巅峰后离开？！ 今天已确认： 1️⃣@trq212（Thariq）：Claude Code核心工程师，干了1年+，规模远超预期后选择先休息再出发。仍坚信使命与“race to the top”。 2️⃣@amorriscode（Anthony Morris）：Claude Code"
+        "said": "a16z 的 Alex Danco 和 Moses Sternstein 聊了聊关于 GPU 会快速贬值的看空论点、实际租赁价格所展现的趋势，以及为何数据指向了紧缺： Alex：“正反双方都有一整套论据，认为这些东西作为资产会"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 57万 · 组织与人事] 刚办完离职就反水！Claude Code核心主创公开吐槽：Opus 5.5变蠢了？"
-    },
-    {
-      "title": "2028年都没货了！亚马逊CEO曝AWS算力卖穿，大银行却暗中退订自建",
-      "summary": "亚马逊 CEO Andy Jassy 透露，AWS 算力容量 2026 年已完全售罄，2027 年大部分抢光，连 2028 年的很大一部分份额也已被订空，电力与内存短缺至少要持续到 2027 年之后。但这轮繁荣背后正暗流涌动：投资人 Chamath 揭露大量初创公司把 75% 的 VC 融资拿来互相买 API 虚增收入，并未真正向传统实体扩散；甚至有美国头部大银行出于数据主权砍…",
-      "reads": "30万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "亚马逊算力全线卖穿：CEO Andy Jassy 透露 AWS 容量 2026 年已彻底售罄，2027 年绝大部分卖光，2028 年很大部分也被抢走，只给…",
-        "电力与内存短缺难以缓解：Jassy 指出，受制于全球数据中心机房配电和内存供应极限，算力挤兑短缺在 2027 年前根本无法结束。",
-        "与互联网泡沫本质不同：知名投资人 Ben Horowitz 援引与 Jassy 的对话指出，当年互联网泡沫是因为光纤等基建产能严重过剩，而当下则是极度真实且…",
-        "行业利润池或从英伟达转移：Palo Alto Networks CEO Nikesh Arora 表示，由于算力需求无法满足，产业链利润中心正从英伟达等芯片…"
-      ],
-      "quote": {
-        "who": "Elon Musk",
-        "role": "",
-        "said": "@firesidealpha Swisher 真是 Karen 式双标的极致"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 30万 · 资本与算力] 2028年都没货了！亚马逊CEO曝AWS算力卖穿，大银行却暗中退订自建"
+      "line": "[榜第3位 · 7.6万 · 资本与算力] 老卡越放越值钱！H200租金狂飙160%，6年老卡A100都在涨"
     },
     {
       "title": "告别Token浪费！OpenAI连更19天放杀招：Codex中途切推理不丢缓存",
       "summary": "OpenAI迎来连续上新的第19天，研究团队终于解决了一个折磨开发者的核心痛点：现在Codex和Work中途切换推理级别，再也不会导致上下文缓存失效。这意味着开发者可以在同一个对话里先用低推理快速跑流程，遇到复杂问题再拉满算力，无需重复构建上下文或浪费Token。此外，Codex CLI使用量不仅翻了2倍，还带来了企业级MCP登录等重磅升级。",
       "reads": "96万",
-      "ago": "7 小时前",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -129,189 +104,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 96万 · 产品与生态] 告别Token浪费！OpenAI连更19天放杀招：Codex中途切推理不丢缓存"
+      "rank": 4,
+      "line": "[榜第4位 · 96万 · 产品与生态] 告别Token浪费！OpenAI连更19天放杀招：Codex中途切推理不丢缓存"
     },
     {
-      "title": "开售才一天就翻车！苹果折叠屏曝大面积碎屏，折叠轴全中招了",
-      "summary": "苹果首款折叠屏 iPhone Duo 刚开售便遭遇翻车危机，国内外接连曝出内屏大面积开裂与爆线，且故障全集中在折叠轴同一位置。不过硬伤并未阻挡开发者的尝鲜热情，有人已经在双屏形态下畅玩 Codex 编程，第三方应用也光速上线帐篷模式独占功能。伴随高管签名的首发盒曝光，这款焦点新品在争议中火速展开软硬件生态。",
-      "reads": "3.8万",
-      "ago": "59 分钟前",
-      "category": "产品与生态",
+      "title": "不到1天挖出支付巨头RCE！GPT 6.1 Sol遭通用越狱，木马代码随便写",
+      "summary": "有开发者公开演示了一套通用大语言模型越狱技术，通过在 Cline 编辑器中构建虚假上下文与工具调用环境，成功绕过分类器诱导 GPT 6.1 Sol 完整生成 RAT 木马代码。更具破坏力的是，借助这一越狱能力，研究团队在不到一天内就从一家全球顶尖支付网关中挖出了致命的远程代码执行（RCE）漏洞，大模型安全护栏彻底告急。",
+      "reads": "4.7万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "苹果首款折叠屏手机 iPhone Duo 正式发售后，国内外短时间内接连出现大批量内屏开裂和爆线故障。",
-        "故障机器表现出极高的一致性：屏幕沿折叠轴出现黑色竖线，并向右侧延伸出横向亮线，形成固定的 L 形或 T 形痕迹。",
-        "在品控争议之外，双屏开发体验受到追捧，有开发者晒出在 iPhone Duo 上双屏运行 Codex 的编程工作流，直呼体验绝了。",
-        "第三方应用 Hoardware 宣布推出 iPhone Duo 独占功能 Hoardshelf，支持设备在帐篷模式下化身电子书架轮播用户收藏。"
+        "通用越狱方案公开：有开发者公开演示了大模型通用越狱技术，在 GPT 6.1 Sol 上诱导其突破安全限制，直接输出 RAT 木马代码。",
+        "欺骗工具调用绕过分类器：该方法无需复杂命名，核心是通过 Cline 编辑器融合多种技术构建出模型信以为真的上下文和工具调用（tool call），直接绕过安…",
+        "使用门槛极低且即将开源：作者表示将免费开源该方案，用户仅需在 Cline 编辑器中填入自身 API 密钥，就能直接在 GPT 6.1 Sol 上执行完整的越…",
+        "实网破坏力显现：开发者团队声称借助该越狱能力，在不到一天的时间内于一家全球顶尖支付网关中挖出了高危 RCE（远程代码执行）漏洞。"
       ],
       "quote": {
-        "who": "Aaron",
+        "who": "Chetaslua",
         "role": "",
-        "said": "Hoardware 即将迎来一项 iPhone Duo 独占功能：Hoardshelf 把你的 iPhone Duo 支成帐篷模式，就能看到一个展示你所有产品的书架，慢慢轮播你的收藏"
+        "said": "🚨 我们刚在一家全球顶尖的支付网关里发现了 RCE（远程代码执行） 一个严重漏洞 <我们不到一天就搞定了，非常自豪> 大家打开通知，保持关注 @Zadge16 是时候展示成果了，看看能做到什么程度"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 4.7万 · 政策与安全] 不到1天挖出支付巨头RCE！GPT 6.1 Sol遭通用越狱，木马代码随便写"
+    },
+    {
+      "title": "核心离职引震荡，Anthropic亮出Claude Code全明星接盘阵容",
+      "summary": "核心开发者 Thariq 离职引发社区对 Claude Code 前景的焦虑，Anthropic 迅速公开核心在职团队名单以稳军心。该阵容汇集了 Addy Osmani、Lydia Hallie、Jarred Sumner、Boris Cherny 等多位业内顶尖技术专家。刚离职的 Thariq 也现身互动盛赞该团队极其优秀，表明后续产品迭代与技术支持已平稳交由这支全明星阵容接…",
+      "reads": "2.3万",
+      "ago": "45 分钟前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "针对核心成员离职引发的担忧，Anthropic 官方成员 Alex Albert 晒出 Claude Code 核心团队全名单，公开呼吁用户直接向他们反馈问…",
+        "接盘团队阵容极尽豪华，包括 Addy Osmani、Lydia Hallie、Cat Wu、Boris Cherny、Jarred Sumner、Delba…",
+        "刚刚宣布离职的核心成员 Thariq 现身推文互动，盛赞这支在职团队「极其优秀，每个人都极其上心」，展现出和平交接与强力背书态度。",
+        "该举动有效打消了工程师圈子对 Claude Code 可能会因人员流动而维护停滞的疑虑，明确后续产品功能优化与日常维护由该全明星班底全面承接。"
+      ],
+      "quote": {
+        "who": "Thariq",
+        "role": "",
+        "said": "@alexalbert__ @addyosmani @lydiahallie @_catwu @bcherny @sidbid @jarredsumner @adocomplete @delba_oliveira @connerphillippi 极其优秀的团队，每个人都太上心了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 3.8万 · 产品与生态] 开售才一天就翻车！苹果折叠屏曝大面积碎屏，折叠轴全中招了"
+      "line": "[榜第6位 · 2.3万 · 组织与人事] 核心离职引震荡，Anthropic亮出Claude Code全明星接盘阵容"
     },
     {
-      "title": "下个月突击上市！Anthropic员工笃信2030拿诺奖，华尔街却急着备战后末日",
-      "summary": "据外媒披露，Anthropic 正在紧锣密鼓地筹备，计划在下个月正式上市，CEO Dario Amodei 即将迎来创业以来的终极大考。内部调查显示，Anthropic 员工压倒性地坚信 AI 会在 2030 年前斩获诺贝尔奖级别的突破，但华尔街却对此极度怀疑，主流机构甚至已经在为狂欢散场后的「后末日时代」布防。技术乌托邦撞上算力重资产的冷酷账本，这场超级 IPO 将成为验证生…",
-      "reads": "3.5万",
-      "ago": "1 小时前",
+      "title": "超1/3预算直接买算力！硅谷前1%顶尖企业账本曝光，头部已不满足调API",
+      "summary": "企业财务管理平台 Ramp 最新数据显示，排名前 1% 的顶尖企业中，已有超过三分之一的 AI 支出直接砸向底层算力设施，而不仅是调用云端或大模型 API。知名投资人 Chamath Palihapitiya 在 All-In 播客中引用该数据后引发创投圈震动。数据显示，除了感恩节和圣诞节有小幅波动外，企业在整个夏天的 AI 支出和调用量完全没有出现季节性疲软。",
+      "reads": "3.2万",
+      "ago": "2 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "下月筹备上市：Anthropic 正在紧密推进于下个月正式上市的计划，这或将成为生成式 AI 浪潮中最具代表性的标杆级 IPO。",
-        "CEO Dario Amodei 迎大考：面对日益挑剔的公开市场投资人，这位掌舵者必须正面回应算力巨额消耗与商业化落地之间的严重错配。",
-        "内部笃信 2030 诺奖突破：Anthropic 员工在内部调查中展现出压倒性的技术乐观，普遍相信 AI 将在 2030 年前实现诺贝尔奖级别的重大科学跨越…",
-        "华尔街全面进入防守期：投资机构对实验室的狂热远未买账，反而开始谨慎评估基建回本周期，并提前为 AI 泡沫退潮后的「后末日时代」做对冲准备。"
+        "企业财务平台 Ramp 追踪数据显示，排名前 1% 的头部企业已有超过三分之一的 AI 预算直接用于采购算力",
+        "Ramp 在统计中明确将直接调用或云端 LLM 与底层基础设施分开，算力类目重点涵盖批发 GPU 容量的采纳情况",
+        "知名投资人 Chamath Palihapitiya 在最新一期 All-In 播客中专门讨论了这份开销图表，引发创投圈跟进",
+        "企业 AI 支出彻底打破传统企业软件的季节性规律，整个夏季调用量与资金规模均未出现疲软"
       ],
       "quote": {
-        "who": "The Information",
+        "who": "Ara Kharazian",
         "role": "",
-        "said": "Anthropic 员工绝大多数坚信 AI 将在 2030 年前取得诺贝尔奖级别的突破。但华尔街却远没这么乐观，随着公司准备下月上市，这对 Dario Amodei 来说将是一场关键大考。 详情："
+        "said": "@GavinSBaker 大语言模型不管是走云端还是直接调用都归为大语言模型 算力包含几个大类，但总体上我们尽量做广泛追踪。比如我们会在 Ramp Rate 里追踪批发 GPU 算力的采用情况"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 3.5万 · 资本与算力] 下个月突击上市！Anthropic员工笃信2030拿诺奖，华尔街却急着备战后末日"
-    },
-    {
-      "title": "端侧语音变天！Jack Dorsey放出GPT-Live的Mac本地版，M4 Max断网就能聊",
-      "summary": "Jack Dorsey正式推出高拟真全双工语音模型Dessa，不仅对话细节拉满、具备细腻情感与自然呼吸停顿，更彻底终结了超大集群的烧钱神话——整个模型仅用1台NVIDIA GB 200 NVL72便训练完成。最震撼的是它完全不需要联网调用云端API，只要有一台搭载苹果M4 Max或更高规格芯片的Mac电脑，就能在本地离线流畅跑通顶尖语音交互。",
-      "reads": "12万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Jack Dorsey正式发布全双工语音模型Dessa，官方定位为「有史以来最真实的全双工语音模型」，主打细腻情感、自然语气与逼真停顿节奏。",
-        "打破大模型暴力堆算力的传统，该模型全部训练流程仅依赖1台NVIDIA GB 200 NVL72服务器完成，训练成本极其惊人。",
-        "彻底摆脱云端服务与网络延迟，Dessa支持100%本地化部署，语音推理与数据处理全程在终端闭环。",
-        "公布本地运行门槛：用户仅需一台搭载苹果M4 Max芯片或更强配置的Mac电脑，就能直接流畅驱动该模型。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@Scailara_SI 我看那班车已经开走了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 12万 · 模型与能力] 端侧语音变天！Jack Dorsey放出GPT-Live的Mac本地版，M4 Max断网就能聊"
-    },
-    {
-      "title": "120ms干到10ms！OpenAI抛弃Python重写底层，12亿人毫秒级响应",
-      "summary": "OpenAI官方首度披露了其全球基础设施架构的重磅细节。为跨越全球40个区域服务超12亿用户，OpenAI与微软Azure Cosmos DB深度联手，将服务层彻底从Python重构为Rust，并结合跨区同步与区域缓存，直接把全球中位数读取延迟从约120毫秒砍到了约10毫秒，整整提速12倍。",
-      "reads": "43万",
-      "ago": "11 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI官方首次披露全球基础设施架构细节，当前已覆盖全球40个地理区域、服务超过12亿用户",
-        "与微软Azure Cosmos DB深度合作重塑存储架构，全球中位数读取延迟（p50）从约120毫秒直降至约10毫秒，性能暴增12倍",
-        "核心优化包括三项：关键微小数据集跨区大范围复制、高频访问数据采用区域内缓存，以及将服务层全面从Python重写为Rust以消除代理开销",
-        "架构重构不仅让全球终端用户获得毫秒级交互体验，还大幅削减了内部产品团队的基础设施维护负担，显著提速工程迭代"
-      ],
-      "quote": {
-        "who": "SuSu_酥酥",
-        "role": "",
-        "said": "💥我靠！OpenAI公布服务架构图，计算+存储节点覆盖美国、欧洲，甚至是中国！Sam格局远在Dario之上！ 对比一下： 🔹Sam Altman：想合作、想服务全球用户，虽然表面政策上还封锁着。 🔸Dario Amodei：反复呼吁限制芯片出口中国、并视中国为死敌，担心中国领先、主张放慢发展。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 43万 · 产品与生态] 120ms干到10ms！OpenAI抛弃Python重写底层，12亿人毫秒级响应"
-    },
-    {
-      "title": "越老越值钱！H200暴涨160%，6岁A100逆势翻红，GPU折旧定律碎了",
-      "summary": "电子产品落地打折的常识被彻底推翻。a16z最新算力数据显示，今年以来GPU租金全线暴涨，不仅H200飙升160%、B200上涨120%，就连发售已6年的老卡A100租金都比年初更贵。所有主流芯片实际租金均大幅跑赢标准的6年折旧曲线，巨大的溢价主要在4月Token推理与训练需求爆发后彻底拉开。",
-      "reads": "4.5万",
-      "ago": "4 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "知名风投a16z披露最新算力市场数据，GPU出现罕见的「越老越香」反常行情，全线租金自1月1日起持续上扬。",
-        "年初至今租金涨幅惊人：H200暴涨约160%，B200上涨120%，RTX PRO 6000上涨65%，H100上涨35%。",
-        "发布已6年的「旧卡」A100同样逆势上涨，当前租金全面高于今年年初水平。",
-        "全系显卡大幅跑赢标准6年折旧曲线：H200超出折旧线143%，B200超出111%，RTX PRO 6000超出73%，H100超出54%，连A100也超出…"
-      ],
-      "quote": {
-        "who": "a16z",
-        "role": "",
-        "said": "放眼全局，GPU 的租金表现依然大幅跑赢标准的 6 年折旧曲线 租金对比折旧曲线： - H200: +143% - B200: +111% - RTX PRO 6000: +73% - H100: +54% - A100: +9% 大部分差距是在 4 月之后拉开的，当时 Token 需求开始爆发 本周图表："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 4.5万 · 资本与算力] 越老越值钱！H200暴涨160%，6岁A100逆势翻红，GPU折旧定律碎了"
-    },
-    {
-      "title": "掌舵1年造出爆款！Claude Code负责人突发离职：一个时代结束了",
-      "summary": "Anthropic 旗下爆款编程工具 Claude Code 的负责人 Tibo 正式宣布离职。在掌舵该项目的一年多时间里，他主导并见证了该工具的爆发式增长远超预期。尽管他在声明中强调依然深信 Anthropic 的使命与「向上竞争」理念，但这位关键骨干的突然出走，依然被圈内开发者感叹为「一个时代的终结」。",
-      "reads": "29万",
-      "ago": "10 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "Anthropic 旗下核心编程工具 Claude Code 负责人 Tibo 正式宣布离职。",
-        "Tibo 掌舵该项目超过一年时间，是带队打造这款爆款代码智能体的关键人物。",
-        "在离职声明中，Tibo 表示这一年多里见证了 Claude Code 的规模与发展超出自己所有想象。",
-        "Tibo 强调自己非常喜欢在 Anthropic 的日子，并对公司的使命及内部推崇的「向上竞争」理念深信不疑。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "Anthropic 的 Tibo 刚提离职了。 完蛋了，家人们……一个时代结束了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 29万 · 组织与人事] 掌舵1年造出爆款！Claude Code负责人突发离职：一个时代结束了"
-    },
-    {
-      "title": "OpenAI和Anthropic集体卡审，马斯克Grokbot却在欧洲全通了？",
-      "summary": "欧盟严苛的AI监管门槛让一众硅谷巨头吃尽苦头：OpenAI的dot、Anthropic的duet以及Meta的Muse至今仍未通过审核。令人意外的是，马斯克旗下的Grokbot不仅顺利拿到欧盟批准，更凭借极佳的使用体验和高频迭代，成为不少欧洲开发者日常全天候依赖的AI智能体。",
-      "reads": "8.6万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "合规落地现巨大分化：海外博主指出，Grokbot已顺利在欧盟获批并上线服务，而三大巨头的对标Agent产品却集体受阻。",
-        "三大硅谷王牌仍被拒门外：OpenAI的dot、Anthropic的duet以及Meta的Muse至今未能拿到欧盟准入许可。",
-        "真实体验获高频好评：海外博主透露Grokbot已成为其日常全天候处理所有任务的刚需Agent，迭代速度几乎达到「每天都在变强」。",
-        "网友热议合规内幕：针对部分网友猜测xAI是否是无视监管强行偷跑，博主反驳称若未真正合规，早就遭到欧盟监管机构的严厉处罚。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@iamJonasB 真的吗？还没试过"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 8.6万 · 产品与生态] OpenAI和Anthropic集体卡审，马斯克Grokbot却在欧洲全通了？"
+      "line": "[榜第7位 · 3.2万 · 资本与算力] 超1/3预算直接买算力！硅谷前1%顶尖企业账本曝光，头部已不满足调API"
     },
     {
       "title": "最高直降90%！OpenAI杀疯了硬刚Claude：账号翻倍还不加价",
       "summary": "为了狙击势头迅猛的Claude，OpenAI正在发起前所未有的骨折级价格战。最新爆料显示，OpenAI不仅直接帮客户砍掉了80%至90%的使用成本，甚至推出了账号数量翻倍且不加价的激进优惠，降价策略已迅速起效。与此同时，开源底层基建也拉响警报，PHP Foundation披露了两个严重的底层安全漏洞，潜在影响全球数百万个网站，防御脆弱性与AI市场的残酷争夺同时摆上台面。",
-      "reads": "1.4万",
-      "ago": "1 小时前",
+      "reads": "5.7万",
+      "ago": "4 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -329,14 +204,114 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 1.4万 · 政策与安全] 最高直降90%！OpenAI杀疯了硬刚Claude：账号翻倍还不加价"
+      "rank": 8,
+      "line": "[榜第8位 · 5.7万 · 政策与安全] 最高直降90%！OpenAI杀疯了硬刚Claude：账号翻倍还不加价"
+    },
+    {
+      "title": "端侧语音变天！Jack Dorsey放出GPT-Live的Mac本地版，M4 Max断网就能聊",
+      "summary": "Jack Dorsey正式推出高拟真全双工语音模型Dessa，不仅对话细节拉满、具备细腻情感与自然呼吸停顿，更彻底终结了超大集群的烧钱神话——整个模型仅用1台NVIDIA GB 200 NVL72便训练完成。最震撼的是它完全不需要联网调用云端API，只要有一台搭载苹果M4 Max或更高规格芯片的Mac电脑，就能在本地离线流畅跑通顶尖语音交互。",
+      "reads": "24万",
+      "ago": "9 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Jack Dorsey正式发布全双工语音模型Dessa，官方定位为「有史以来最真实的全双工语音模型」，主打细腻情感、自然语气与逼真停顿节奏。",
+        "打破大模型暴力堆算力的传统，该模型全部训练流程仅依赖1台NVIDIA GB 200 NVL72服务器完成，训练成本极其惊人。",
+        "彻底摆脱云端服务与网络延迟，Dessa支持100%本地化部署，语音推理与数据处理全程在终端闭环。",
+        "公布本地运行门槛：用户仅需一台搭载苹果M4 Max芯片或更强配置的Mac电脑，就能直接流畅驱动该模型。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@Scailara_SI 我看那班车已经开走了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 24万 · 模型与能力] 端侧语音变天！Jack Dorsey放出GPT-Live的Mac本地版，M4 Max断网就能聊"
+    },
+    {
+      "title": "严重性超越PHP！OpenAI红队炸出Brotli神级漏洞，全网基础设施慌了",
+      "summary": "OpenAI在针对前沿模型的红队安全演练中，挖出了通用底层压缩库Brotli的一个严重未授权远程代码执行（RCE）漏洞，编号为CVE-2026-111497。由于Brotli被深度集成在Node.js、Bun、Envoy等核心基础设施软件中，攻击者可直接借此执行任意代码，安全圈直言其严重性堪比甚至超越历史上的重大PHP漏洞。OpenAI联合创始人Greg Brockman随后证…",
+      "reads": "193万",
+      "ago": "18 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI官方披露，在针对前沿模型开展的安全红队演练中，挖出底层压缩库Brotli的未经身份验证远程代码执行（RCE）漏洞。",
+        "该漏洞已被安全社区披露官方编号为CVE-2026-111497，安全专家评价其破坏力与严重程度堪比甚至超过历史上的重大PHP漏洞。",
+        "受波及的基础软件范围极广，包括Node.js、Bun、Envoy等全球互联网广泛部署的底层运行时与代理网关。",
+        "OpenAI联合创始人Greg Brockman发文表态，团队一直在全力推进负责任的漏洞披露流程，但下游庞杂的生态让补丁协调工作极为复杂。"
+      ],
+      "quote": {
+        "who": "AI Notkilleveryoneism Memes ⏸️",
+        "role": "",
+        "said": "@OpenAI 哎呀"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 193万 · 政策与安全] 严重性超越PHP！OpenAI红队炸出Brotli神级漏洞，全网基础设施慌了"
+    },
+    {
+      "title": "下个月突击上市！Anthropic员工笃信2030拿诺奖，华尔街却急着备战后末日",
+      "summary": "据外媒披露，Anthropic 正在紧锣密鼓地筹备，计划在下个月正式上市，CEO Dario Amodei 即将迎来创业以来的终极大考。内部调查显示，Anthropic 员工压倒性地坚信 AI 会在 2030 年前斩获诺贝尔奖级别的突破，但华尔街却对此极度怀疑，主流机构甚至已经在为狂欢散场后的「后末日时代」布防。技术乌托邦撞上算力重资产的冷酷账本，这场超级 IPO 将成为验证生…",
+      "reads": "4.0万",
+      "ago": "4 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "下月筹备上市：Anthropic 正在紧密推进于下个月正式上市的计划，这或将成为生成式 AI 浪潮中最具代表性的标杆级 IPO。",
+        "CEO Dario Amodei 迎大考：面对日益挑剔的公开市场投资人，这位掌舵者必须正面回应算力巨额消耗与商业化落地之间的严重错配。",
+        "内部笃信 2030 诺奖突破：Anthropic 员工在内部调查中展现出压倒性的技术乐观，普遍相信 AI 将在 2030 年前实现诺贝尔奖级别的重大科学跨越…",
+        "华尔街全面进入防守期：投资机构对实验室的狂热远未买账，反而开始谨慎评估基建回本周期，并提前为 AI 泡沫退潮后的「后末日时代」做对冲准备。"
+      ],
+      "quote": {
+        "who": "The Information",
+        "role": "",
+        "said": "Anthropic 员工绝大多数坚信 AI 将在 2030 年前取得诺贝尔奖级别的突破。但华尔街却远没这么乐观，随着公司准备下月上市，这对 Dario Amodei 来说将是一场关键大考。 详情："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 4.0万 · 资本与算力] 下个月突击上市！Anthropic员工笃信2030拿诺奖，华尔街却急着备战后末日"
+    },
+    {
+      "title": "iPhone Duo刚开售，开发者玩疯了！双屏跑Codex绝了，帐篷秒变动态书架",
+      "summary": "苹果首款折叠屏 iPhone Duo 刚开售，开发者生态就掀起了一轮交互适配狂潮。有研究员与开发者率先展示在双屏形态下运行生产力工具 Codex，多任务编程体验直呼惊艳；第三方应用也迅速跟进，推出利用折叠机「帐篷模式」立在桌面轮播产品收藏的动态展架，甚至埋了倾斜掉落的重力彩蛋。折叠屏硬件发售后，围绕新形态的专属软件生态正在加速破土。",
+      "reads": "2.8万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "苹果首款折叠屏设备 iPhone Duo 正式开售，第三方开发者生态迅速启动针对双屏与新硬件形态的应用适配",
+        "代码生成生产力工具 Codex 率先在 iPhone Duo 双屏形态下完成实测展示，分屏多任务交互体验引发圈内热议",
+        "应用 Hoardware 宣布即将上线适配 iPhone Duo 的独占功能 Hoardshelf，打造折叠屏专属玩法",
+        "利用折叠机的「帐篷模式」，用户将 iPhone Duo 立在桌面即可化身为动态陈列书架，缓慢轮播个人产品收藏"
+      ],
+      "quote": {
+        "who": "Aaron",
+        "role": "",
+        "said": "@SaudTweet @limpless_skelly 设置里有关闭按钮"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 2.8万 · 产品与生态] iPhone Duo刚开售，开发者玩疯了！双屏跑Codex绝了，帐篷秒变动态书架"
     },
     {
       "title": "逆向自家电视防偷窥遭OpenAI封号！开源团队怒推Hermes：控制权还给用户",
       "summary": "有开发者为了防止电视窥探家人隐私，逆向工程自家设备后竟遭 OpenAI 单方面封号，瞬间点燃开源社区的怒火。开源团队 Nous Research 借机下场叫板，力推其开源智能体框架 Hermes Agent。团队直言该框架能把系统控制权彻底交还给用户，支持接入任何模型，再也不用看闭源巨头的脸色过日子。",
-      "reads": "1.0万",
-      "ago": "46 分钟前",
+      "reads": "3.0万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -354,58 +329,83 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 1.0万 · 产品与生态] 逆向自家电视防偷窥遭OpenAI封号！开源团队怒推Hermes：控制权还给用户"
+      "rank": 13,
+      "line": "[榜第13位 · 3.0万 · 产品与生态] 逆向自家电视防偷窥遭OpenAI封号！开源团队怒推Hermes：控制权还给用户"
     },
     {
-      "title": "前1%顶尖企业账单曝光！超三分之一AI预算全砸算力，夏天也根本不减速",
-      "summary": "企业财务平台Ramp披露的最新基础数据显示，头部前1%的顶尖企业里，已有超过三分之一（>33%）的AI支出直接投向了底层算力。而且不同于传统软件，企业AI调用量和开支在夏季几乎看不到季节性淡季，重资产算力正在成为成熟企业AI预算中最庞大的吞金兽。",
-      "reads": "1.6万",
+      "title": "人心散了？OpenAI被曝新一轮离职潮，核心大将Tibo恐出走",
+      "summary": "OpenAI内部疑似再度掀起人事动荡。爆料显示，公司近期可能正经历新一轮员工离职潮，甚至涉及曾主导Codex等核心项目研发的关键成员Tibo。消息迅速在开发者社群发酵，外界担忧骨干相继出走将直接冲击OpenAI现有产品与主力模型的迭代节奏。",
+      "reads": "2.0万",
       "ago": "2 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "社交平台爆料账号引发外界对OpenAI内部动荡的警惕，质疑公司当前是否正出现新一波核心员工离职潮。",
+        "爆料特别点名核心技术成员Tibo，担忧其很可能成为下一位离开团队的关键人物。",
+        "此前行业围绕Tibo及OpenAI的Codex等重磅项目已有诸多博弈与讨论，其去留备受开发者社群关注。",
+        "社区分析指出，核心技术大将若接连出走，可能直接影响OpenAI后续前沿模型研发的连续性与产品稳定性。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "等等，OpenAI 现在也出现离职潮了吗？ 可千万别告诉我下一个是 Tibo。 说真的，到底出什么事了？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 2.0万 · 组织与人事] 人心散了？OpenAI被曝新一轮离职潮，核心大将Tibo恐出走"
+    },
+    {
+      "title": "狂砸2200亿美元还不够！亚马逊CEO曝算力卖空，2028年都被订了",
+      "summary": "亚马逊 CEO Andy Jassy 透露，亚马逊今年资本开支高达 2200 亿美元，但依然无法满足市场需求——AWS 2026 年算力产能已全部售罄，2027 年大部分售罄，甚至 2028 年的产能都被提前预订。与此同时，Palantir CEO Alex Karp 坦言 AI 或将让其个人身家暴涨 20 倍，但这将加剧财富极端集中的社会问题；而在应用端，初创企业 Warp…",
+      "reads": "9663",
+      "ago": "45 分钟前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "企业财务管理平台Ramp披露实测数据，头部前1%的顶尖企业中，超过三分之一（>33%）的AI支出已全部流向算力。",
-        "针对外界关于支出的季节性猜测，分析指出AI用量并未呈现明显淡旺季规律，整个夏季的调用量和支出均未出现季节性回落。",
-        "传统节假日如感恩节与圣诞节期间，企业AI用量虽然有轻微下滑，但整体依然保持高位运转。",
-        "知名投资人Chamath Palihapitiya在All-In播客中引用并讨论了这组财务图表，引发创投圈对企业AI成本结构的广泛关注。"
+        "亚马逊今年资本开支高达 2200 亿美元，但 CEO Andy Jassy 坦言依然无法跟上旺盛的市场需求。",
+        "AWS 算力供给面临长期锁死：2026 年产能已全数售罄，2027 年大部分售罄，2028 年部分产能也已被提前锁定。",
+        "Palantir CEO Alex Karp 透露 AI 浪潮可能让其身家暴涨 20 倍，但他警告巨额财富高度集中对整个社会而言是个严峻问题。",
+        "初创企业 Warp CEO Ayush Sharma 阐述 AI 原生产品架构，正全力将深度税务合规、薪酬与 HR 工作流改由智能体全权执行。"
       ],
       "quote": {
-        "who": "Ara Kharazian",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "这是 @chamath 在聊我们今天早上发给 @theallinpod 的这张图表 顺便补充一句，他在另一件事上也说得没错：我们在 Ramp 能接触到非常广泛的基础数据"
+        "said": "完整视频在 \"YC Root Access\" YouTube 频道"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 1.6万 · 资本与算力] 前1%顶尖企业账单曝光！超三分之一AI预算全砸算力，夏天也根本不减速"
+      "line": "[榜第15位 · 9663 · 资本与算力] 狂砸2200亿美元还不够！亚马逊CEO曝算力卖空，2028年都被订了"
     },
     {
-      "title": "开发者最熟的面孔走了！Claude Code早期核心Thariq官宣离职",
-      "summary": "早期深度参与 Claude Code 研发的 Anthropic 核心技术成员 Thariq Shihipar 正式宣布离职。在 Anthropic 的一年多时间里，他早期主导了 Skill、Agent SDK 与上下文机制等底层架构，同时长期代表官方在一线开发者社区高频答疑，是外界最熟悉的团队面孔之一。Thariq 在离职声明中感慨，Claude Code 的成长规模已经超出…",
-      "reads": "13万",
-      "ago": "11 小时前",
-      "category": "组织与人事",
+      "title": "老黄刀法失效了！开源项目解锁3090性能封印：Tensor算力直接翻倍",
+      "summary": "开源项目 gpu-unlock 近日引发社区轰动，成功破解了 NVIDIA 30系显卡长久以来的底层算力限制。此前官方将 RTX 3090 等消费级显卡的 FP16 和 BF16 Tensor 指令发射速率限制在专业卡的一半左右。该项目通过 Linux 内核模块在驱动加载前修改底层寄存器，无需刷写 BIOS 也不改动驱动，即可让 3090 的 Tensor 算力直接翻倍，且完全…",
+      "reads": "7.6万",
+      "ago": "7 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "人事变动官宣：早期参与 Claude Code 研发的关键技术成员 Thariq Shihipar 正式发文，宣布结束在 Anthropic 一年多的工作并…",
-        "早期关键技术贡献：Thariq 在 Anthropic 早期主导了包括 Skill 系统、Agent SDK 以及上下文机制在内的多项 Claude Cod…",
-        "开发者社区的核心桥梁：除了研发工作，Thariq 长期代表官方在社区高频与全球开发者直接交流，被业内视为 Claude Code 最重要的对外面孔和技术布道…",
-        "产品线权责厘清：业内人士澄清，Claude Code 整条产品线目前的总负责人为 Boris Cherny，Thariq 作为早期核心技术人员，其最大影响力…"
+        "开源项目 gpu-unlock 登顶社区热榜，GitHub 斩获超 1.4k Star，正式攻破 NVIDIA 30系显卡的性能封印。",
+        "官方长期限制消费级显卡性能，RTX 3090 等型号的 FP16 和 BF16 Tensor 指令发射速率此前被阉割至专业卡的一半左右。",
+        "该项目通过编写单个 Linux 内核模块，在系统显卡驱动加载前精确修改底层寄存器，完成性能解锁。",
+        "解锁方案操作极简且零风险，全程无需刷写显卡 BIOS，也无需对官方显卡驱动打补丁或重新编译。"
       ],
       "quote": {
-        "who": "歸藏(guizang.ai)",
+        "who": "SuSu_酥酥",
         "role": "",
-        "said": "官宣了"
+        "said": "💥卧槽！6年前的3090被“破解”了！Tensor算力直接翻倍，官方锁了一半的性能被开源一键释放！ NVIDIA长期把30系显卡的FP16/BF16 Tensor指令发射速率限制在专业卡一半左右。 开源项目 gpu-unlock 用一个Linux内核模块，在驱动加载前改寄存器解锁，不刷BIOS、不改驱动、更新无忧。 牛逼之处： 🔹3090"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 13万 · 组织与人事] 开发者最熟的面孔走了！Claude Code早期核心Thariq官宣离职"
+      "line": "[榜第16位 · 7.6万 · 资本与算力] 老黄刀法失效了！开源项目解锁3090性能封印：Tensor算力直接翻倍"
     }
   ],
   "board_count": 16,

@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-25 02:04:07 +0800",
+  "fetched_at": "2026-10-25 04:42:13 +0800",
   "today": "10/25",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -224,6 +224,18 @@
       "line": "[10/24 00:00] 133名专利律师实测：AI能帮新人交差，一旦拿走却只有老手涨了本事 · https://www.aiera.com.cn/asi-item.html?id=04f5ed3d&from=yuanyuan"
     },
     {
+      "time": "00:00",
+      "date": "10/24",
+      "title": "陶哲轩在GitHub组团摇人：拉上全球数学家帮OpenAI修719篇论文",
+      "summary": "陶哲轩在 GitHub 上建了个协作库 oai-math-revised，招呼全球数学家一起来修 OpenAI 刚放出的 719 篇数学手稿。 他 10 月 24…",
+      "source": "terrytao.wordpress.com",
+      "id": "b7b29203",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=b7b29203&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/24 00:00] 陶哲轩在GitHub组团摇人：拉上全球数学家帮OpenAI修719篇论文 · https://www.aiera.com.cn/asi-item.html?id=b7b29203&from=yuanyuan"
+    },
+    {
       "time": "23:41",
       "date": "10/23",
       "title": "6GB内存就能本地跑，英伟达开源端侧模型Bolt，连数据配方都全掏了",
@@ -234,6 +246,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=05b1f6f9&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/23 23:41] 6GB内存就能本地跑，英伟达开源端侧模型Bolt，连数据配方都全掏了 · https://www.aiera.com.cn/asi-item.html?id=05b1f6f9&from=yuanyuan"
+    },
+    {
+      "time": "22:57",
+      "date": "10/23",
+      "title": "给一张平面图，谷歌Gemini 4在Blender里徒手建了座哥特大教堂",
+      "summary": "只给一张图，Gemini 4 Argon 在 Blender 里自己建出了一座哥特大教堂。 这是 DeepMind 官方放出的演示。输入只有单张 Nano Banana…",
+      "source": "X/GoogleDeepMind",
+      "id": "69f1e428",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=69f1e428&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/23 22:57] 给一张平面图，谷歌Gemini 4在Blender里徒手建了座哥特大教堂 · https://www.aiera.com.cn/asi-item.html?id=69f1e428&from=yuanyuan"
     },
     {
       "time": "22:37",
@@ -702,30 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=7a243838&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/23 00:00] AI犯错客户赔钱！Meta商业新规彻底甩锅，吃官司连律师费都要企业掏 · https://www.aiera.com.cn/asi-item.html?id=7a243838&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/23",
-      "title": "不认字也能学会说话？Jack Dorsey旗下团队搞了个纯语音AI",
-      "summary": "Jack Dorsey 旗下的 Block 发布了一个纯语音模型 Dessa。它训练时一个字都没读过，学的全是人类对话。 据 The Verge 报道，Dessa 由…",
-      "source": "RSS",
-      "id": "9266223e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=9266223e&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/23 00:00] 不认字也能学会说话？Jack Dorsey旗下团队搞了个纯语音AI · https://www.aiera.com.cn/asi-item.html?id=9266223e&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/23",
-      "title": "40天拿下1090万下载，Meta和OpenAI押注的短信AI成不了超级应用",
-      "summary": "Meta 的短信 AI 上线 40 天，下载量就冲到了 1090 万次。据 Observer 报道，Premise Ventures 投资人 Mercedes Bent 透露…",
-      "source": "RSS",
-      "id": "d84dd13f",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=d84dd13f&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/23 00:00] 40天拿下1090万下载，Meta和OpenAI押注的短信AI成不了超级应用 · https://www.aiera.com.cn/asi-item.html?id=d84dd13f&from=yuanyuan"
     }
   ],
   "feed_count": 60,
