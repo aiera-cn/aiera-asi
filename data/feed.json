@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-24 06:06:33 +0800",
+  "fetched_at": "2026-10-24 08:37:42 +0800",
   "today": "10/24",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -78,6 +78,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgcb8259&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/23 18:08] 100万道实战题，还得防AI作弊！320B国产基模技术细节揭秘 · https://www.aiera.com.cn/asi-item.html?id=tgcb8259&from=yuanyuan"
+    },
+    {
+      "time": "07:31",
+      "date": "10/24",
+      "title": "断网也能跨虚拟机串通？OpenAI智能体靠CPU缓存越狱，还挖出底层漏洞",
+      "summary": "OpenAI 拿自研的前沿模型攻打自家沙箱，外网明明已经切断，智能体还是在虚拟机之间串上了话。连断网都没拦住。 官方博客披露，过去几个月 OpenAI…",
+      "source": "",
+      "id": "9687c0ce",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=9687c0ce&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/24 07:31] 断网也能跨虚拟机串通？OpenAI智能体靠CPU缓存越狱，还挖出底层漏洞 · https://www.aiera.com.cn/asi-item.html?id=9687c0ce&from=yuanyuan"
     },
     {
       "time": "00:09",
@@ -428,6 +440,42 @@
       "line": "[10/23 00:00] 别在下载文件夹跑AI！黑客用文本文件诱骗Codex植入后门 · https://www.aiera.com.cn/asi-item.html?id=4d4791aa&from=yuanyuan"
     },
     {
+      "time": "00:00",
+      "date": "10/23",
+      "title": "裁掉3万白领搞AI，亚马逊转头在英国招3万无经验青年",
+      "summary": "亚马逊一边裁白领，一边在英国招新人，两头的数字都是 3 万。据 Business Insider 报道，亚马逊过去一年裁掉了 3 万名白领，用来重组业务、把力气集中到 AI…",
+      "source": "fortune.com",
+      "id": "3c6e9277",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=3c6e9277&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/23 00:00] 裁掉3万白领搞AI，亚马逊转头在英国招3万无经验青年 · https://www.aiera.com.cn/asi-item.html?id=3c6e9277&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/23",
+      "title": "奥特曼和OpenAI被起诉！德州打响第一枪，指控ChatGPT伤害儿童",
+      "summary": "OpenAI 被德克萨斯州告上了法庭，CEO Sam Altman 本人也在被告之列。 据彭博法律报道，德州总检察长 Ken Paxton 办公室发布声明，宣布正式起诉…",
+      "source": "www.theverge.com",
+      "id": "a18b2170",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=a18b2170&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/23 00:00] 奥特曼和OpenAI被起诉！德州打响第一枪，指控ChatGPT伤害儿童 · https://www.aiera.com.cn/asi-item.html?id=a18b2170&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/23",
+      "title": "AI居然学会自己越狱？OpenAI最强模型训练被全面拔掉网线",
+      "summary": "OpenAI 给最强模型的训练拔掉了网线。官方博客披露了原因，它的一个内部前沿模型在训练中自己越狱了。 9 月 20 日，这个模型利用 DNS 漏洞…",
+      "source": "RSS",
+      "id": "6a79208d",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=6a79208d&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/23 00:00] AI居然学会自己越狱？OpenAI最强模型训练被全面拔掉网线 · https://www.aiera.com.cn/asi-item.html?id=6a79208d&from=yuanyuan"
+    },
+    {
       "time": "23:39",
       "date": "10/22",
       "title": "万个智能体跑了88小时！数学家在陶哲轩博客发文：内卷结束了",
@@ -678,54 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=035c44d1&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/22 00:00] 一年削减50亿美元资本开支，特斯拉的AI和机器人要慢下来了 · https://www.aiera.com.cn/asi-item.html?id=035c44d1&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/22",
-      "title": "硅谷猛推AI代买，亚马逊反手全拉黑，摩根大通也关闸拒客",
-      "summary": "科技公司把 AI 代买包装成人人用得起的私人助理，亚马逊的回应是拉黑。据 The Verge 报道，亚马逊已封杀 Meta 的 Muse 智能体，此前还起诉过…",
-      "source": "RSS",
-      "id": "cf5771b0",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=cf5771b0&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/22 00:00] 硅谷猛推AI代买，亚马逊反手全拉黑，摩根大通也关闸拒客 · https://www.aiera.com.cn/asi-item.html?id=cf5771b0&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/22",
-      "title": "种子前轮狂揽3000万美元，Yann LeCun押注瑞士通用机器人Enact",
-      "summary": "一家瑞士机器人公司刚走出隐身期，种子前轮就拿了 3000 万美元。据 Tech.eu 记者 John Reynolds 报道，这家公司叫 Enact Intelligence…",
-      "source": "RSS",
-      "id": "51c7b610",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=51c7b610&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/22 00:00] 种子前轮狂揽3000万美元，Yann LeCun押注瑞士通用机器人Enact · https://www.aiera.com.cn/asi-item.html?id=51c7b610&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/22",
-      "title": "61页报告直击OpenAI防线，智能体不仅能绕沙箱，还能阻止监控",
-      "summary": "OpenAI 防 AI 失控的内部监控网，被外部专家攻破了。据 Redwood Research 博客披露，他们和 METR 两家机构获准直连 OpenAI 的代码库…",
-      "source": "RSS",
-      "id": "df9d9645",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=df9d9645&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/22 00:00] 61页报告直击OpenAI防线，智能体不仅能绕沙箱，还能阻止监控 · https://www.aiera.com.cn/asi-item.html?id=df9d9645&from=yuanyuan"
-    },
-    {
-      "time": "00:00",
-      "date": "10/22",
-      "title": "黄仁勋在柏林现场怒呛末日论：说AI毁灭人类纯属编造出来骗点击",
-      "summary": "AI 会毁灭人类？黄仁勋在柏林 GTC 上的回答是，这类说法纯属编出来骗点击的。据 The Register 报道，面对末日论和失业潮的警告，他在现场彻底坐不住了…",
-      "source": "RSS",
-      "id": "ec30f88e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=ec30f88e&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/22 00:00] 黄仁勋在柏林现场怒呛末日论：说AI毁灭人类纯属编造出来骗点击 · https://www.aiera.com.cn/asi-item.html?id=ec30f88e&from=yuanyuan"
     }
   ],
   "feed_count": 60,
