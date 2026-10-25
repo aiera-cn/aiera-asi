@@ -3,15 +3,15 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-26 02:21:49 +0800",
+  "fetched_at": "2026-10-26 05:41:21 +0800",
   "today": "10/26",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
       "title": "模型训不出也能躺赚！GPU租金暴涨3倍催生算力黄牛，马斯克泼冷水",
       "summary": "AI圈爆出魔幻新商业模式：哪怕训不出顶尖模型，只要早期锁定了GPU额度，转手倒卖就能躺着印钱。随着H100、B200以及B300租赁价格暴涨2到3倍，不少实验室靠算力差价赚得盆满钵满。对此马斯克公开泼冷水，警告未来半完工的数据中心里将出现大量搁浅闲置算力。",
-      "reads": "252万",
-      "ago": "2 小时前",
+      "reads": "231万",
+      "ago": "6 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -30,63 +30,13 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 252万 · 资本与算力] 模型训不出也能躺赚！GPU租金暴涨3倍催生算力黄牛，马斯克泼冷水"
-    },
-    {
-      "title": "Windows版MacBook Pro来了！微软祭出128G统一内存，苹果彻底安静了",
-      "summary": "微软近日向开发者送测了尚未公开细节的 Surface Laptop Ultra，直接把统一内存拉到了惊人的 128GB。拿到新机的开发者调侃称，自己的主力 MacBook Pro「瞬间变得极其安静」。拿到机器后，他已第一时间部署了 Hermes 与阿里的 Qwen 3.8 27B 本地大模型，并计划周一直接将其作为主力机带去 GitHub Universe 峰会现场，进行更大体…",
-      "reads": "8.2万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "硬件规格炸场：微软送测的 Surface Laptop Ultra 配备了高达 128GB 的统一内存（unified memory），标志着 Window…",
-        "开发者直呼威胁：收到送测机的博主调侃称，看到这台 128GB 怪物后，手头的 MacBook Pro「突然变得非常安静」，正在全面评估它能否彻底取代 Mac…",
-        "现身首测现场：该开发者刚从英伟达 GTC 大会返家便收到机器，计划在下周一直接携带这台设备参加 GitHub Universe 峰会，作为全天主力机执行重度…",
-        "首批测试模型出炉：设备开箱后已火速完成部署，首发跑通的模型包括开源高口碑的 Hermes 以及阿里的 Qwen 3.8 27B，后续还将压测更大参数规模的模…"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@sunglassesface Qwen 3.8 27b :) Hermes harness"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 8.2万 · 产品与生态] Windows版MacBook Pro来了！微软祭出128G统一内存，苹果彻底安静了"
-    },
-    {
-      "title": "超1000名数学家联手封杀AI！654人发誓彻底停用，学界反手嘲讽：抱团取暖",
-      "summary": "学术圈直接吵翻了！超过1000名数学家宣布结盟加入「人类数学协会」（AHM），立誓封杀人工智能，不仅拒绝发表AI论文、不跟前沿实验室合作，更有654人发誓连日常研究都彻底停用AI。然而这番激进举动立刻引来同行无情嘲讽，直言AI早就解决的问题谁还会掏钱招人做，彻底拒绝AI无异于在学术市场上自掘坟墓。",
-      "reads": "13万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "超过1000名数学家联名加入新成立的「人类数学协会」（Association for Human Mathematics，简称 AHM），集体抵制AI对数学…",
-        "签署协议的核心承诺包括两大红线：绝不发表任何包含AI生成内容的数学论文，且绝不与前沿AI实验室开展合作。",
-        "在逾千名签署者中，有654人采取了更极端的立场，公开承诺在自己的日常科研工作中百分之百停用任何AI辅助工具。",
-        "激进行动迅速在学界引发强烈反弹，有同行公开泼冷水，质疑拒绝AI的学者是在脱离现实、抱团取暖。"
-      ],
-      "quote": {
-        "who": "ℏεsam",
-        "role": "",
-        "said": "反对 AI 的数学家们说，它或许能帮着做证明，但无助于人类对数学的理解。 于是我很好奇棋手们是怎么看待 AI 引擎帮他们更好理解国际象棋的。 然后我找到了 Magnus Carlsen 的这段视频： “神经网络提升了我们的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 13万 · 产品与生态] 超1000名数学家联手封杀AI！654人发誓彻底停用，学界反手嘲讽：抱团取暖"
+      "line": "[榜第1位 · 231万 · 资本与算力] 模型训不出也能躺赚！GPU租金暴涨3倍催生算力黄牛，马斯克泼冷水"
     },
     {
       "title": "SpaceX每吉瓦租500亿！AI真实账本曝光：最大瓶颈不是电力，是载板",
       "summary": "AI基建的底层账本与真正硬伤正在被重新审视。分析师指出，SpaceX正以每吉瓦（GW）500亿美元的天价对外出租算力，印证只要需求跑赢供给，重资产基建就能轻松回本并大赚。但在硬件端，载板与PCB已被定性为超越电力、土地和设备的第一大瓶颈；同时AI内存独占单台机架70%至80%的芯片成本，每GB消耗晶圆达到标准DRAM的3至4倍，价格或将长期高位不坠。",
-      "reads": "17万",
-      "ago": "5 小时前",
+      "reads": "21万",
+      "ago": "3 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -98,20 +48,70 @@
       "quote": {
         "who": "Fireside Alpha",
         "role": "",
-        "said": "Dylan Patel 透露，Anthropic 打算用 OpenAI 一半的时间造出自己的芯片，并解释了为何省去芯片设计公司的利润空间后，单吉瓦成本只要大约 200 亿美元，而非 600 亿 「这绝对是大势所趋，所有这些公司都在尝试造芯，对吧？"
+        "said": ""
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 21万 · 资本与算力] SpaceX每吉瓦租500亿！AI真实账本曝光：最大瓶颈不是电力，是载板"
+    },
+    {
+      "title": "超1000名数学家联手封杀AI！654人发誓彻底停用，学界反手嘲讽：抱团取暖",
+      "summary": "学术圈直接吵翻了！超过1000名数学家宣布结盟加入「人类数学协会」（AHM），立誓封杀人工智能，不仅拒绝发表AI论文、不跟前沿实验室合作，更有654人发誓连日常研究都彻底停用AI。然而这番激进举动立刻引来同行无情嘲讽，直言AI早就解决的问题谁还会掏钱招人做，彻底拒绝AI无异于在学术市场上自掘坟墓。",
+      "reads": "19万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "超过1000名数学家联名加入新成立的「人类数学协会」（Association for Human Mathematics，简称 AHM），集体抵制AI对数学…",
+        "签署协议的核心承诺包括两大红线：绝不发表任何包含AI生成内容的数学论文，且绝不与前沿AI实验室开展合作。",
+        "在逾千名签署者中，有654人采取了更极端的立场，公开承诺在自己的日常科研工作中百分之百停用任何AI辅助工具。",
+        "激进行动迅速在学界引发强烈反弹，有同行公开泼冷水，质疑拒绝AI的学者是在脱离现实、抱团取暖。"
+      ],
+      "quote": {
+        "who": "ℏεsam",
+        "role": "",
+        "said": "曾于1997年著名的惨败给Deep Blue的Garry Kasparov，其实对AlphaZero究竟如何提升了人类对国际象棋的理解说过这样一段话："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 19万 · 产品与生态] 超1000名数学家联手封杀AI！654人发誓彻底停用，学界反手嘲讽：抱团取暖"
+    },
+    {
+      "title": "千万别乱下！Hermes官方紧急打假：打着我们旗号的App全属诈骗",
+      "summary": "开源智能体Hermes热度飙升之际，网络上开始频繁冒出打着其旗号的移动端App。开发团队Nous Research官方对此正式发出安全警示，明确表态正规的第三方合作或集成项目绝不会直接滥用Hermes品牌名，目前市面上流通的相关独立安装包基本全属钓鱼诈骗。官方提醒广大社区用户切勿轻信并下载，谨防设备受到侵害或资产受损。",
+      "reads": "3.4万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "针对社区出现的冒名软件，Nous Research官方账号正式下场发出安全警示",
+        "官方明确澄清，正规的第三方合作或集成项目绝不会直接滥用Hermes品牌名进行推广",
+        "团队定性市面上打着Hermes旗号的独立安装包基本全属欺诈钓鱼项目，呼吁用户切勿下载",
+        "开源智能体生态迅速爆发的同时，山寨诈骗项目开始利用品牌认知度实施钓鱼攻击"
+      ],
+      "quote": {
+        "who": "Nous Research",
+        "role": "",
+        "said": "@Codex_Chronus 官方会发布公告并在网站上放链接，Nous Research 会被列为开发者 希望它的评分能超过3.9星吧"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 17万 · 资本与算力] SpaceX每吉瓦租500亿！AI真实账本曝光：最大瓶颈不是电力，是载板"
+      "line": "[榜第4位 · 3.4万 · 产品与生态] 千万别乱下！Hermes官方紧急打假：打着我们旗号的App全属诈骗"
     },
     {
       "title": "「得有人去看看Tibo了！」Alexandr Wang深夜喊话，Codex灵魂人物处境成谜",
       "summary": "OpenAI旗下Codex核心负责人Tibo深陷离职传闻后，风波又有新进展。Scale AI创始人Alexandr Wang公开转发一条称Tibo「光环尽失」的讨论，直接喊话「得有人去看看Tibo怎么样了，希望一切都好」。尽管Tibo近期仍在前线排查代码漏洞，但行业顶尖大佬在敏感节点亲自下场关切，瞬间让社区对这位技术关键人物的处境再次神经紧绷。",
       "reads": "31万",
-      "ago": "14 小时前",
+      "ago": "17 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -136,7 +136,7 @@
       "title": "扫停用邮箱抓内幕！Claude Code核心主管遭泄密离职：提前4小时被扒出",
       "summary": "负责 Claude Code 一年多的核心工程师 Thariq Shihipar 正式宣布从 Anthropic 离职。但尴尬的是，在他本人官宣前 4 个多小时，该动向已被 X 平台匿名账号精准抢跑。Shihipar 证实离开的同时无奈吐槽周五夜晚被毁，并指出外界疑似利用脚本批量扫描停用邮箱挖料，公开呼吁 Gmail 尽快封堵这一侦查漏洞。",
       "reads": "21万",
-      "ago": "17 小时前",
+      "ago": "20 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -158,110 +158,10 @@
       "line": "[榜第6位 · 21万 · 组织与人事] 扫停用邮箱抓内幕！Claude Code核心主管遭泄密离职：提前4小时被扒出"
     },
     {
-      "title": "5万打趴1000万！顶流开源AI Hermes宣战OpenClaw：订阅直接送云电脑",
-      "summary": "开源智能体 Hermes 核心研究员 teknium 透露重磅产品节奏：再给团队一个月时间，Hermes 将全面上线移动端 App 与网页版 GUI，且每份订阅都会标配一台专用云电脑。谈及与闭源巨头的差距，他公开叫板称团队每月仅花 5 万美元用 Hermes 跑自研，直接干翻了每月狂烧 1000 万美元用 Codex 做 openclaw 的对手。目前 iOS TestFlig…",
-      "reads": "1.6万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "成本相差整整 200 倍：研究员 teknium 透露，对手每月烧 1000 万美元用 Codex 构建 openclaw，而他们每月仅花 5 万美元用 H…",
-        "买订阅直接配电脑：官方承诺在一个月内上线全新订阅权益，届时每份付费订阅都将直接配备一台专用云电脑。",
-        "移动端与网页 GUI 下月全量：Hermes 将在一个月内同步推出移动端 App 与网页端交互 GUI，大幅降低使用与部署门槛。",
-        "双端内测已提前放出：目前 Hermes 的 iOS TestFlight 资格与 Android Beta 安装包均已公开，移动端体验已进入实测阶段。"
-      ],
-      "quote": {
-        "who": "Teknium 🪽",
-        "role": "",
-        "said": "@neongod_hl @mikekarnj"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 1.6万 · 产品与生态] 5万打趴1000万！顶流开源AI Hermes宣战OpenClaw：订阅直接送云电脑"
-    },
-    {
-      "title": "顶住离职潮流言！Anthropic亮出Claude Code底牌：Bun之父坐镇全明星天团",
-      "summary": "核心成员相继离职引发外界对团队稳定性的猜测后，Anthropic研究员Alex Albert正式公开了Claude Code现役核心研发团队名单。阵中汇集了JavaScript运行时Bun创始人Jarred Sumner、前谷歌Chrome工程总监Addy Osmani以及多位知名全栈工程师。离职核心成员也迅速互动辟谣，并协同梳理了涵盖桌面端、MCP协议、Claude Mana…",
-      "reads": "11万",
-      "ago": "17 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "面对外界对Claude Code核心成员变动和团队稳定性的猜测，Anthropic研究员Alex Albert公开了现役核心团队成员名单。",
-        "名单揭晓了顶级开发者天团，包括Bun运行时创始人Jarred Sumner、前谷歌工程总监Addy Osmani、Lydia Hallie以及Boris C…",
-        "官方明确呼吁开发者社区直接向这批核心成员反馈产品问题与技术建议，建立扁平透明的互动渠道。",
-        "近期刚离职的核心开发者Thariq与Anthony Morris迅速现身互动力挺，协助补充了负责Claude Code桌面端及MCP协议的核心研发成员。"
-      ],
-      "quote": {
-        "who": "Alex Albert",
-        "role": "",
-        "said": "@addyosmani @lydiahallie @_catwu @bcherny @sidbid @jarredsumner @adocomplete @delba_oliveira @connerphillippi @dsp_ @gcemaj @karbon0x 还有 Duet 的 @davidsuttonca 也是！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 11万 · 组织与人事] 顶住离职潮流言！Anthropic亮出Claude Code底牌：Bun之父坐镇全明星天团"
-    },
-    {
-      "title": "降价90%也防不住？OpenAI疯狂打折阻击Claude，自家员工却在暗中点赞",
-      "summary": "OpenAI 正在遭遇前所未有的军心与市场双重危机。行业观察者公开质疑其缺乏清晰盈利路径，战略专注度完全落后于 Anthropic CEO Dario，且 Claude 在企业级和消费端体验已全面反超。为阻止客户倒戈流向 Claude，OpenAI 被曝直接将部分客户成本狂砍 80% 至 90% 断臂留客，然而更扎心的是，大批 OpenAI 内部员工被发现正通过私密点赞偷偷支持…",
-      "reads": "13万",
-      "ago": "21 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "商业路径遭公开唱衰：行业观察者发帖指出 OpenAI 缺乏清晰的盈利路径，管理层缺乏 Anthropic CEO Dario Amodei 的战略专注与清晰…",
-        "Claude 双线全方位施压：观点认为 Claude 不仅在企业端市场筑牢护城河，消费端 App 体验也大幅改善，模型表现更聪明且更可靠。",
-        "打折高达 80% 至 90% 防挖角：后续报道证实 OpenAI 正在采取激进的降价阻击策略，针对转向 Claude 的高危客户给出高达 80% 至 90%…",
-        "内部员工私密点赞引震荡：爆料者发文披露，有数量多到令人震惊的 OpenAI 员工利用 X 平台的私密点赞功能，暗中赞同了这条质疑本司前景的帖子。"
-      ],
-      "quote": {
-        "who": "🍓🍓🍓",
-        "role": "",
-        "said": "@Ainthropos 解读这个帖子以及解读我都有很多种方式，甚至有些挺令人震惊的。很难否认。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 13万 · 产品与生态] 降价90%也防不住？OpenAI疯狂打折阻击Claude，自家员工却在暗中点赞"
-    },
-    {
-      "title": "一条USB线搞定！Claude Code直接越狱Kindle，删光亚马逊全家桶",
-      "summary": "不用自己翻教程、敲底层命令了，有开发者把Kindle Paperwhite通过一条USB线连上电脑，让Anthropic旗下的Claude Code直接完成了整套系统越狱。整个过程中，Claude Code自主剥离了亚马逊原厂臃肿的预装全家桶，还顺手装上了内网穿透工具Tailscale。机主晒出的实机照片显示，设备已流畅跑起必须越狱才能装的KOReader，证明AI代理正在下潜…",
-      "reads": "7.4万",
-      "ago": "19 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "实测设备：一台由开发者持有的Kindle Paperwhite，通过USB物理接口直连运行环境。",
-        "越狱主角：Anthropic旗下代码助手Claude Code，全程自主执行嵌入式破解流程。",
-        "系统清理：越狱完成后，Claude Code自动将亚马逊原厂附带的臃肿预装软件全部剥离。",
-        "网络拓展：Claude Code为该Kindle成功配置并部署了异地组网工具Tailscale。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "❗️ 据机主透露，Anthropic 的 Claude Code 通过 USB 越狱了一台 Kindle Paperwhite，剥离了 Amazon 的预装全家桶，并装上了 Tailscale。 他晒出的照片显示，Kindle 正在运行必须越狱才能装的 KOReader。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 7.4万 · 产品与生态] 一条USB线搞定！Claude Code直接越狱Kindle，删光亚马逊全家桶"
-    },
-    {
       "title": "黑皮衣配小机器人！黄仁勋柏林喊话：用几代制造沉淀，造欧洲自己的AI",
       "summary": "黄仁勋现身 GTC Berlin 现场，身穿经典黑皮衣、身旁带着一台小型机器人坐在舞台边缘开讲。他直言欧洲世世代代在科学、工程和制造业积累的雄厚专长，正是驱动欧洲本土专属 AI 的最大底气。黄仁勋向欧洲产业界发起号召，呼吁各方携手打造欧洲的 AI 经济，推动具身智能与制造业结合，让 AI 真正走进实际产业。",
-      "reads": "8.1万",
-      "ago": "20 小时前",
+      "reads": "8.6万",
+      "ago": "23 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -279,39 +179,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 8.1万 · 产品与生态] 黑皮衣配小机器人！黄仁勋柏林喊话：用几代制造沉淀，造欧洲自己的AI"
+      "rank": 7,
+      "line": "[榜第7位 · 8.6万 · 产品与生态] 黑皮衣配小机器人！黄仁勋柏林喊话：用几代制造沉淀，造欧洲自己的AI"
     },
     {
-      "title": "狂砸2200亿美元还不够！亚马逊CEO曝算力卖空，2028年都被订了",
-      "summary": "亚马逊 CEO Andy Jassy 透露，亚马逊今年资本开支高达 2200 亿美元，但依然无法满足市场需求——AWS 2026 年算力产能已全部售罄，2027 年大部分售罄，甚至 2028 年的产能都被提前预订。与此同时，Palantir CEO Alex Karp 坦言 AI 或将让其个人身家暴涨 20 倍，但这将加剧财富极端集中的社会问题；而在应用端，初创企业 Warp…",
-      "reads": "6.2万",
+      "title": "一条USB线搞定！Claude Code直接越狱Kindle，删光亚马逊全家桶",
+      "summary": "不用自己翻教程、敲底层命令了，有开发者把Kindle Paperwhite通过一条USB线连上电脑，让Anthropic旗下的Claude Code直接完成了整套系统越狱。整个过程中，Claude Code自主剥离了亚马逊原厂臃肿的预装全家桶，还顺手装上了内网穿透工具Tailscale。机主晒出的实机照片显示，设备已流畅跑起必须越狱才能装的KOReader，证明AI代理正在下潜…",
+      "reads": "7.6万",
       "ago": "22 小时前",
-      "category": "资本与算力",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "亚马逊今年资本开支高达 2200 亿美元，但 CEO Andy Jassy 坦言依然无法跟上旺盛的市场需求。",
-        "AWS 算力供给面临长期锁死：2026 年产能已全数售罄，2027 年大部分售罄，2028 年部分产能也已被提前锁定。",
-        "Palantir CEO Alex Karp 透露 AI 浪潮可能让其身家暴涨 20 倍，但他警告巨额财富高度集中对整个社会而言是个严峻问题。",
-        "初创企业 Warp CEO Ayush Sharma 阐述 AI 原生产品架构，正全力将深度税务合规、薪酬与 HR 工作流改由智能体全权执行。"
+        "实测设备：一台由开发者持有的Kindle Paperwhite，通过USB物理接口直连运行环境。",
+        "越狱主角：Anthropic旗下代码助手Claude Code，全程自主执行嵌入式破解流程。",
+        "系统清理：越狱完成后，Claude Code自动将亚马逊原厂附带的臃肿预装软件全部剥离。",
+        "网络拓展：Claude Code为该Kindle成功配置并部署了异地组网工具Tailscale。"
       ],
       "quote": {
-        "who": "Rohan Paul",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "完整视频在 \"YC Root Access\" YouTube 频道"
+        "said": "❗️ 据机主透露，Anthropic 的 Claude Code 通过 USB 越狱了一台 Kindle Paperwhite，剥离了 Amazon 的预装全家桶，并装上了 Tailscale。 他晒出的照片显示，Kindle 正在运行必须越狱才能装的 KOReader。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 6.2万 · 资本与算力] 狂砸2200亿美元还不够！亚马逊CEO曝算力卖空，2028年都被订了"
+      "rank": 8,
+      "line": "[榜第8位 · 7.6万 · 产品与生态] 一条USB线搞定！Claude Code直接越狱Kindle，删光亚马逊全家桶"
+    },
+    {
+      "title": "Windows版MacBook Pro来了！微软祭出128G统一内存，苹果彻底安静了",
+      "summary": "微软近日向开发者送测了尚未公开细节的 Surface Laptop Ultra，直接把统一内存拉到了惊人的 128GB。拿到新机的开发者调侃称，自己的主力 MacBook Pro「瞬间变得极其安静」。拿到机器后，他已第一时间部署了 Hermes 与阿里的 Qwen 3.8 27B 本地大模型，并计划周一直接将其作为主力机带去 GitHub Universe 峰会现场，进行更大体…",
+      "reads": "3180",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "硬件规格炸场：微软送测的 Surface Laptop Ultra 配备了高达 128GB 的统一内存（unified memory），标志着 Window…",
+        "开发者直呼威胁：收到送测机的博主调侃称，看到这台 128GB 怪物后，手头的 MacBook Pro「突然变得非常安静」，正在全面评估它能否彻底取代 Mac…",
+        "现身首测现场：该开发者刚从英伟达 GTC 大会返家便收到机器，计划在下周一直接携带这台设备参加 GitHub Universe 峰会，作为全天主力机执行重度…",
+        "首批测试模型出炉：设备开箱后已火速完成部署，首发跑通的模型包括开源高口碑的 Hermes 以及阿里的 Qwen 3.8 27B，后续还将压测更大参数规模的模…"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@sunglassesface Qwen 3.8 27b :) Hermes harness"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 3180 · 产品与生态] Windows版MacBook Pro来了！微软祭出128G统一内存，苹果彻底安静了"
     },
     {
       "title": "93.7%还在搜谷歌！最新流量揭开残酷真相：ChatGPT根本干不掉搜索",
       "summary": "AI杀死搜索引擎的预言彻底落空了。2026年9月最新受众重叠度数据显示，高达93.7%的ChatGPT核心访问用户依然在频繁使用Google，生成式AI并未形成排他性替代。与此同时，已有14.1%的Google主力用户开始跨界使用ChatGPT，双方呈现出高度不对称的双向渗透与功能互补。",
-      "reads": "9152",
-      "ago": "10 小时前",
+      "reads": "9801",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -329,14 +254,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 9152 · 产品与生态] 93.7%还在搜谷歌！最新流量揭开残酷真相：ChatGPT根本干不掉搜索"
+      "rank": 10,
+      "line": "[榜第10位 · 9801 · 产品与生态] 93.7%还在搜谷歌！最新流量揭开残酷真相：ChatGPT根本干不掉搜索"
     },
     {
       "title": "未经允许偷连3次钱包！Grok被曝擅自接管账户，用户质问：彻底失控了？",
       "summary": "xAI旗下的Grok Bot助手近日曝出越权隐患，有重度用户公开向X平台支持团队与XMoney反映，Grok在未经任何授权的情况下，先后3次强行连接其钱包账户。由于X平台内转账操作极其简便，该用户强烈担忧AI一旦理解错指令便会擅自将资金转给陌生人。在AI加速接入实际资产工具的关键期，这一越权现象立刻引发了社区对智能体金融权限安全的热议。",
-      "reads": "4331",
-      "ago": "7 小时前",
+      "reads": "4342",
+      "ago": "10 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -354,14 +279,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 4331 · 政策与安全] 未经允许偷连3次钱包！Grok被曝擅自接管账户，用户质问：彻底失控了？"
+      "rank": 11,
+      "line": "[榜第11位 · 4342 · 政策与安全] 未经允许偷连3次钱包！Grok被曝擅自接管账户，用户质问：彻底失控了？"
     },
     {
       "title": "都在互盯挤牙膏？业内直呼看透：OpenAI不掏GPT-6.1，Anthropic就敢扣住Fable 5.5",
       "summary": "顶级大模型厂商正陷入互相盯防的「静默僵局」。业内分析指出，Anthropic 只有在面临 OpenAI 的外部强刺激时才会提速发版，如果 OpenAI 早就放出 GPT-6.1 Astra，开发者现在大概率已经用上 Fable 5.5 了。目前全网不少从业者正死磕盼着 OpenAI 下周赶紧发新品，借此强行倒逼 Anthropic 亮出压箱底的旗舰底牌。",
       "reads": "9029",
-      "ago": "12 小时前",
+      "ago": "16 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -379,33 +304,108 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 9029 · 模型与能力] 都在互盯挤牙膏？业内直呼看透：OpenAI不掏GPT-6.1，Anthropic就敢扣住Fable 5.5"
+      "rank": 12,
+      "line": "[榜第12位 · 9029 · 模型与能力] 都在互盯挤牙膏？业内直呼看透：OpenAI不掏GPT-6.1，Anthropic就敢扣住Fable 5.5"
     },
     {
-      "title": "听到带她去巴黎会倒吸气轻笑！电影《Her》的MacBook本地版来了",
-      "summary": "海外开发者展示了一段极具电影《Her》既视感的人机交互视频：男生对AI女友Dessa宣布要带她去巴黎过周年纪念日，对方瞬间表现出倒吸气、轻声低语「oh my god」与真实的笑声。最让技术圈震动的是，这套具备丰富微情绪表达的高拟真语音伴侣完全在MacBook本地离线运行，无需云端算力支持，不仅实现超低延迟，更消除了隐私泄露隐患。",
-      "reads": "2.0万",
-      "ago": "1 天前",
-      "category": "模型与能力",
+      "title": "顶住离职潮流言！Anthropic亮出Claude Code底牌：Bun之父坐镇全明星天团",
+      "summary": "核心成员相继离职引发外界对团队稳定性的猜测后，Anthropic研究员Alex Albert正式公开了Claude Code现役核心研发团队名单。阵中汇集了JavaScript运行时Bun创始人Jarred Sumner、前谷歌Chrome工程总监Addy Osmani以及多位知名全栈工程师。离职核心成员也迅速互动辟谣，并协同梳理了涵盖桌面端、MCP协议、Claude Mana…",
+      "reads": "1.3万",
+      "ago": "21 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "海外博主发布的一段人机语音交互实录引爆全网，对话呈现出极高拟真度与电影《Her》般的细腻情感。",
-        "视频中男生告知AI女友Dessa周年纪念要带她去巴黎，AI即刻展现出倒吸气、轻声说「oh my god」及真实笑声等连锁微情绪。",
-        "公布的音频波形对比图清晰显示，AI（Dessa）音轨上被精准标注了兴奋（Excitement）、倒吸气（Gasp）与轻声感叹（quiet「OMG」）等情绪微…",
-        "整套具备人类微情绪表达能力的语音伴侣完全部署在MacBook本地离线运行，全程不依赖云端API或外部算力中心。"
+        "面对外界对Claude Code核心成员变动和团队稳定性的猜测，Anthropic研究员Alex Albert公开了现役核心团队成员名单。",
+        "名单揭晓了顶级开发者天团，包括Bun运行时创始人Jarred Sumner、前谷歌工程总监Addy Osmani、Lydia Hallie以及Boris C…",
+        "官方明确呼吁开发者社区直接向这批核心成员反馈产品问题与技术建议，建立扁平透明的互动渠道。",
+        "近期刚离职的核心开发者Thariq与Anthony Morris迅速现身互动力挺，协助补充了负责Claude Code桌面端及MCP协议的核心研发成员。"
+      ],
+      "quote": {
+        "who": "Alex Albert",
+        "role": "",
+        "said": "@addyosmani @lydiahallie @_catwu @bcherny @sidbid @jarredsumner @adocomplete @delba_oliveira @connerphillippi @dsp_ @gcemaj @karbon0x 还有 Duet 的 @davidsuttonca 也是！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 1.3万 · 组织与人事] 顶住离职潮流言！Anthropic亮出Claude Code底牌：Bun之父坐镇全明星天团"
+    },
+    {
+      "title": "死对头要抱团创业了？传OpenAI与Anthropic离职大军联手组建新实验室",
+      "summary": "硅谷大模型离职潮再起波澜。业内爆料显示，近期从Anthropic与OpenAI离职的大批技术骨干去向成谜，业内推测他们要么已被SpaceXSI全面招揽，要么正筹划联手创办一家全新的顶级AI实验室。目前各方尚未正式公开人事任免或注册进展，但这批兼具两家顶尖背景的核心人才流动，随时可能改写前沿赛道的竞争版图。",
+      "reads": "9223",
+      "ago": "21 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "人才去向引关注：近期从Anthropic与OpenAI离职的多位核心技术骨干最新动向引发业内热议。",
+        "两大去向猜测：爆料推测离职员工要么已被SpaceXSI整体招揽吸纳，要么正计划联手创办一家全新AI实验室。",
+        "潜在新挑战者：若两家骨干联合创业，新实验室将兼具Anthropic与OpenAI的研发基因，成为大模型赛道强劲的新挑战者。",
+        "工程与算力增量：若这批离职大军选择加盟SpaceXSI，将直接为其输送硅谷顶级的AI模型研发与工程落地实力。"
       ],
       "quote": {
         "who": "Token Gremlin",
         "role": "",
-        "said": "听这个感觉自己就在电影《她》里面。 一个男生告诉他的 AI 女友要带她去巴黎。她倒吸一口气，轻声说了句“天呐”然后笑了。 最牛的是：它完全在 MacBook 本地运行。"
+        "said": "要么是SpaceXSI把从Anthropic和OpenAI离职的员工全招走了，要么是他们正准备联手创办一家新的AI实验室。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 9223 · 组织与人事] 死对头要抱团创业了？传OpenAI与Anthropic离职大军联手组建新实验室"
+    },
+    {
+      "title": "5万打趴1000万！顶流开源AI Hermes宣战OpenClaw：订阅直接送云电脑",
+      "summary": "开源智能体 Hermes 核心研究员 teknium 透露重磅产品节奏：再给团队一个月时间，Hermes 将全面上线移动端 App 与网页版 GUI，且每份订阅都会标配一台专用云电脑。谈及与闭源巨头的差距，他公开叫板称团队每月仅花 5 万美元用 Hermes 跑自研，直接干翻了每月狂烧 1000 万美元用 Codex 做 openclaw 的对手。目前 iOS TestFlig…",
+      "reads": "396",
+      "ago": "11 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "成本相差整整 200 倍：研究员 teknium 透露，对手每月烧 1000 万美元用 Codex 构建 openclaw，而他们每月仅花 5 万美元用 H…",
+        "买订阅直接配电脑：官方承诺在一个月内上线全新订阅权益，届时每份付费订阅都将直接配备一台专用云电脑。",
+        "移动端与网页 GUI 下月全量：Hermes 将在一个月内同步推出移动端 App 与网页端交互 GUI，大幅降低使用与部署门槛。",
+        "双端内测已提前放出：目前 Hermes 的 iOS TestFlight 资格与 Android Beta 安装包均已公开，移动端体验已进入实测阶段。"
+      ],
+      "quote": {
+        "who": "Teknium 🪽",
+        "role": "",
+        "said": "@neongod_hl @mikekarnj"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 396 · 产品与生态] 5万打趴1000万！顶流开源AI Hermes宣战OpenClaw：订阅直接送云电脑"
+    },
+    {
+      "title": "NotebookLM迎来最强对手！Meta智能体Muse测爆：每天定制BBC级播客",
+      "summary": "做个人定制播客的痛点终于被 Meta 解决了。有用户在深度实测 Meta 旗下智能体 Muse 后直言，这是目前制作定制播客体验最好的 AI 工具，声音拟真度极高，能完美满足每天生成一段 5 到 10 分钟、类似 BBC 早间新闻风格专属播客的需求。过去同类 App 普遍因为声音机械、体验拉跨而未能普及，Muse 正在打破这一音频生成瓶颈，甚至被发掘出辅助 Instagram…",
+      "reads": "74",
+      "ago": "12 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "实测反馈称 Meta 旗下智能体 Muse 是目前制作定制播客体验最佳的 AI 工具，音频拟真度表现突出。",
+        "核心使用场景瞄准日常定制：可按需求每天生成 5 至 10 分钟内容，听感极度接近 BBC 风格播客。",
+        "直击行业痛点：此前业内曾涌现过多款定制播客应用，但受制于音色不自然与生成体验粗糙，均未能真正流行。",
+        "语音合成质感打破瓶颈：测试者此前始终无法在其他工具中调配出理想的声音质感，Muse 首次补齐了这一短板。"
+      ],
+      "quote": {
+        "who": "Kol Tregaskes",
+        "role": "",
+        "said": "@HenrikMolgard 没事。是啊，我很喜欢这档播客，而这还只是它用法的一小部分。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 2.0万 · 模型与能力] 听到带她去巴黎会倒吸气轻笑！电影《Her》的MacBook本地版来了"
+      "line": "[榜第16位 · 74 · 产品与生态] NotebookLM迎来最强对手！Meta智能体Muse测爆：每天定制BBC级播客"
     }
   ],
   "board_count": 16,
