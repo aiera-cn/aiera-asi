@@ -3,115 +3,15 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-25 22:18:16 +0800",
-  "today": "10/25",
+  "fetched_at": "2026-10-26 02:21:49 +0800",
+  "today": "10/26",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "地球根本发不走千太瓦！马斯克计划在月球挖硅，就地打造AI卫星群",
-      "summary": "马斯克又在太空与算力赛道抛出重磅炸弹。面对未来每年500至1000太瓦的庞大发射极限，他提出直接在月球就地开采硅和铝来制造AI卫星。与此同时，Starlink正式进入玻利维亚并铺设4700根天线进驻全国学校，连加州州长Gavin Newsom与NASA高级主管也齐声盛赞他在xAI、星舰及卫星互联网上的跨界速度不可思议。",
-      "reads": "248万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "月球造AI卫星破局算力极限：马斯克表示每年500到1000太瓦的电力载荷根本无法从地球发射，鉴于月壤中约有20%是硅，未来可以直接在月球开采硅铝提炼材料制造…",
-        "Starlink正式落地玻利维亚：马斯克发文庆祝星链服务成功进入玻利维亚，加速南美洲低轨卫星互联网普及",
-        "4700根天线进驻全国学校：玻利维亚总统Rodrigo Paz透露，全国将部署超过4700根星链天线，即使在「最深的峡谷」也能联网，让信息真正对所有人公开",
-        "加州州长点名盛赞多线重注：加州州长Gavin Newsom公开承认马斯克的成就不凡，指出他不仅造电车和火箭，更在电池、Starlink与xAI上大规模押注…"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": "Elon Musk 解释了如何利用月球上的硅和铝在月球上建造 AI 卫星，并表示每年 500 到 1000 太瓦的电力无法从地球发射升空： “月壤里大约有 20% 的硅。所以你可以在月球上开采硅，提炼出来，然后"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 248万 · 产品与生态] 地球根本发不走千太瓦！马斯克计划在月球挖硅，就地打造AI卫星群"
-    },
-    {
-      "title": "谁说算力要过剩？H200租金溢价超折旧143%，马斯克一句话点破真相",
-      "summary": "针对市场上「AI算力过剩、GPU资产迅速贬值」的看空声音，风投机构a16z公布最新硬核追踪数据直接反驳：各大GPU租金全部大幅跑赢标准的6年折旧曲线。其中H200租金溢价高达+143%，B200超出+111%，甚至连老旧的A100都依然跑赢折旧9%。租金居高不下的背后是推理端Token消耗的惊人爆发，OpenRouter每周消耗量在不到一年内暴涨27倍至165T，且72%被开源…",
-      "reads": "231万",
-      "ago": "9 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "风投机构a16z发布GPU租赁对比标准6年折旧曲线图表，数据显示高端算力不仅没有快速贬值，反而保持极高溢价。",
-        "各型号实际租金大幅超越折旧基准：H200溢价高达+143%，新一代B200超出+111%，RTX PRO 6000超出+73%，H100超出+54%，就连老…",
-        "租金溢价走势显示，租金与折旧曲线的巨大差距主要在4月之后急剧拉开，直接驱动力来自推理端Token需求的爆发式增长。",
-        "以聚合平台OpenRouter为例，每周消耗的Token量从去年11月的约6T暴增约27倍，目前已飙升至约165T/周。"
-      ],
-      "quote": {
-        "who": "Elon Musk",
-        "role": "",
-        "said": "思考这事的角度应该是： 你想招多少个既绝顶聪明又极度敬业的人？而且他们还在不断变得更强。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 231万 · 资本与算力] 谁说算力要过剩？H200租金溢价超折旧143%，马斯克一句话点破真相"
-    },
-    {
-      "title": "Windows版MacBook Pro来了！微软祭出128G统一内存，苹果彻底安静了",
-      "summary": "微软近日向开发者送测了尚未公开细节的 Surface Laptop Ultra，直接把统一内存拉到了惊人的 128GB。拿到新机的开发者调侃称，自己的主力 MacBook Pro「瞬间变得极其安静」。拿到机器后，他已第一时间部署了 Hermes 与阿里的 Qwen 3.8 27B 本地大模型，并计划周一直接将其作为主力机带去 GitHub Universe 峰会现场，进行更大体…",
-      "reads": "7.2万",
-      "ago": "59 分钟前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "硬件规格炸场：微软送测的 Surface Laptop Ultra 配备了高达 128GB 的统一内存（unified memory），标志着 Window…",
-        "开发者直呼威胁：收到送测机的博主调侃称，看到这台 128GB 怪物后，手头的 MacBook Pro「突然变得非常安静」，正在全面评估它能否彻底取代 Mac…",
-        "现身首测现场：该开发者刚从英伟达 GTC 大会返家便收到机器，计划在下周一直接携带这台设备参加 GitHub Universe 峰会，作为全天主力机执行重度…",
-        "首批测试模型出炉：设备开箱后已火速完成部署，首发跑通的模型包括开源高口碑的 Hermes 以及阿里的 Qwen 3.8 27B，后续还将压测更大参数规模的模…"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "@kimmonismus 这个视频好可爱，基本算是我第一次看到你可爱的一面，可能是因为这是你妻子剪的吧"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 7.2万 · 产品与生态] Windows版MacBook Pro来了！微软祭出128G统一内存，苹果彻底安静了"
-    },
-    {
-      "title": "超1000名数学家联手封杀AI！654人发誓彻底停用，学界反手嘲讽：抱团取暖",
-      "summary": "学术圈直接吵翻了！超过1000名数学家宣布结盟加入「人类数学协会」（AHM），立誓封杀人工智能，不仅拒绝发表AI论文、不跟前沿实验室合作，更有654人发誓连日常研究都彻底停用AI。然而这番激进举动立刻引来同行无情嘲讽，直言AI早就解决的问题谁还会掏钱招人做，彻底拒绝AI无异于在学术市场上自掘坟墓。",
-      "reads": "9.4万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "超过1000名数学家联名加入新成立的「人类数学协会」（Association for Human Mathematics，简称 AHM），集体抵制AI对数学…",
-        "签署协议的核心承诺包括两大红线：绝不发表任何包含AI生成内容的数学论文，且绝不与前沿AI实验室开展合作。",
-        "在逾千名签署者中，有654人采取了更极端的立场，公开承诺在自己的日常科研工作中百分之百停用任何AI辅助工具。",
-        "激进行动迅速在学界引发强烈反弹，有同行公开泼冷水，质疑拒绝AI的学者是在脱离现实、抱团取暖。"
-      ],
-      "quote": {
-        "who": "François Fleuret",
-        "role": "",
-        "said": "@JeepersScoob91 这算是某种假设下物理现象特性的证明，还是算法行为的保证？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 9.4万 · 产品与生态] 超1000名数学家联手封杀AI！654人发誓彻底停用，学界反手嘲讽：抱团取暖"
-    },
-    {
       "title": "模型训不出也能躺赚！GPU租金暴涨3倍催生算力黄牛，马斯克泼冷水",
       "summary": "AI圈爆出魔幻新商业模式：哪怕训不出顶尖模型，只要早期锁定了GPU额度，转手倒卖就能躺着印钱。随着H100、B200以及B300租赁价格暴涨2到3倍，不少实验室靠算力差价赚得盆满钵满。对此马斯克公开泼冷水，警告未来半完工的数据中心里将出现大量搁浅闲置算力。",
-      "reads": "220万",
-      "ago": "12 小时前",
+      "reads": "252万",
+      "ago": "2 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -121,47 +21,97 @@
         "马斯克发声预警闲置潮：针对这一现象，马斯克回应指出，未来在大量半完工的数据中心里，将会看到大批被搁浅闲置的算力。"
       ],
       "quote": {
-        "who": "Elon Musk",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "@Yuchenj_UW 我觉得我们会看到半完工的数据中心里出现大量闲置算力"
+        "said": "Elon Musk：算力将被搁置在建了一半的数据中心里。 &gt; Nscale 的 IPO 招股书（2026 年 9 月）：截至 8 月 31 日，在 46.1 万张活跃及签约 GPU 中，仅约 2.5 万张处于活跃状态。这家新型云厂商承诺的 GPU 中，大约 95% 尚未运行。 &gt; Wood Mackenzie，7 月"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 220万 · 资本与算力] 模型训不出也能躺赚！GPU租金暴涨3倍催生算力黄牛，马斯克泼冷水"
+      "rank": 1,
+      "line": "[榜第1位 · 252万 · 资本与算力] 模型训不出也能躺赚！GPU租金暴涨3倍催生算力黄牛，马斯克泼冷水"
     },
     {
-      "title": "超三分之一预算狂买算力！前1%企业AI账本曝光，夏天都不带降温",
-      "summary": "硅谷金融科技独角兽 Ramp 披露了一组重磅开销数据：在排名前 1% 的顶尖企业客户中，已有超过三分之一的 AI 支出直接砸向了底层算力，而非单纯调用模型。数据还粉碎了所谓的「行业淡季」传言，企业 AI 调用量和支出在整个夏天持续高位平稳，仅在感恩节和圣诞节出现短暂微跌。知名投资人 Chamath 随后在播客 All-In 中专门讨论了这张走势图，直言大企业的投入重心正在剧烈演…",
-      "reads": "5.5万",
+      "title": "Windows版MacBook Pro来了！微软祭出128G统一内存，苹果彻底安静了",
+      "summary": "微软近日向开发者送测了尚未公开细节的 Surface Laptop Ultra，直接把统一内存拉到了惊人的 128GB。拿到新机的开发者调侃称，自己的主力 MacBook Pro「瞬间变得极其安静」。拿到机器后，他已第一时间部署了 Hermes 与阿里的 Qwen 3.8 27B 本地大模型，并计划周一直接将其作为主力机带去 GitHub Universe 峰会现场，进行更大体…",
+      "reads": "8.2万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "硬件规格炸场：微软送测的 Surface Laptop Ultra 配备了高达 128GB 的统一内存（unified memory），标志着 Window…",
+        "开发者直呼威胁：收到送测机的博主调侃称，看到这台 128GB 怪物后，手头的 MacBook Pro「突然变得非常安静」，正在全面评估它能否彻底取代 Mac…",
+        "现身首测现场：该开发者刚从英伟达 GTC 大会返家便收到机器，计划在下周一直接携带这台设备参加 GitHub Universe 峰会，作为全天主力机执行重度…",
+        "首批测试模型出炉：设备开箱后已火速完成部署，首发跑通的模型包括开源高口碑的 Hermes 以及阿里的 Qwen 3.8 27B，后续还将压测更大参数规模的模…"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@sunglassesface Qwen 3.8 27b :) Hermes harness"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 8.2万 · 产品与生态] Windows版MacBook Pro来了！微软祭出128G统一内存，苹果彻底安静了"
+    },
+    {
+      "title": "超1000名数学家联手封杀AI！654人发誓彻底停用，学界反手嘲讽：抱团取暖",
+      "summary": "学术圈直接吵翻了！超过1000名数学家宣布结盟加入「人类数学协会」（AHM），立誓封杀人工智能，不仅拒绝发表AI论文、不跟前沿实验室合作，更有654人发誓连日常研究都彻底停用AI。然而这番激进举动立刻引来同行无情嘲讽，直言AI早就解决的问题谁还会掏钱招人做，彻底拒绝AI无异于在学术市场上自掘坟墓。",
+      "reads": "13万",
       "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "超过1000名数学家联名加入新成立的「人类数学协会」（Association for Human Mathematics，简称 AHM），集体抵制AI对数学…",
+        "签署协议的核心承诺包括两大红线：绝不发表任何包含AI生成内容的数学论文，且绝不与前沿AI实验室开展合作。",
+        "在逾千名签署者中，有654人采取了更极端的立场，公开承诺在自己的日常科研工作中百分之百停用任何AI辅助工具。",
+        "激进行动迅速在学界引发强烈反弹，有同行公开泼冷水，质疑拒绝AI的学者是在脱离现实、抱团取暖。"
+      ],
+      "quote": {
+        "who": "ℏεsam",
+        "role": "",
+        "said": "反对 AI 的数学家们说，它或许能帮着做证明，但无助于人类对数学的理解。 于是我很好奇棋手们是怎么看待 AI 引擎帮他们更好理解国际象棋的。 然后我找到了 Magnus Carlsen 的这段视频： “神经网络提升了我们的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 13万 · 产品与生态] 超1000名数学家联手封杀AI！654人发誓彻底停用，学界反手嘲讽：抱团取暖"
+    },
+    {
+      "title": "SpaceX每吉瓦租500亿！AI真实账本曝光：最大瓶颈不是电力，是载板",
+      "summary": "AI基建的底层账本与真正硬伤正在被重新审视。分析师指出，SpaceX正以每吉瓦（GW）500亿美元的天价对外出租算力，印证只要需求跑赢供给，重资产基建就能轻松回本并大赚。但在硬件端，载板与PCB已被定性为超越电力、土地和设备的第一大瓶颈；同时AI内存独占单台机架70%至80%的芯片成本，每GB消耗晶圆达到标准DRAM的3至4倍，价格或将长期高位不坠。",
+      "reads": "17万",
+      "ago": "5 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "前 1% 的顶尖企业客户中，已有超过 33%（三分之一）的 AI 总支出直接流向算力基础设施。",
-        "AI 消耗不存在明显的季节性周期，整个夏季的调用量和账单支出始终保持平稳高位，仅在感恩节和圣诞节期间有轻微下滑。",
-        "知名投资人 Chamath 在最新一期 All-In 播客中专门围绕该图表展开深度研判，认为这反映出头部企业用 AI 的方式正在质变。",
-        "数据口径划分明确：无论是走云厂商还是官方直连，均划入大语言模型（LLM）支出；而算力类别则统计了包括批发 GPU 容量采用率等更底层的广义算力。"
+        "SpaceX算力租金曝光：分析师指出SpaceX正以每吉瓦（GW）500亿美元的对价出租算力，成为算力溢价的最硬指标。",
+        "基建回本逻辑生变：机构分析认为，在需求持续超过供给的前提下，庞大的AI基建融资完全能够快速收回成本并创造超额利润。",
+        "载板成头号死穴：半导体分析师Dylan Patel明确表示，载板（Substrates）与PCB是目前所有环节中最大的瓶颈。",
+        "制约排位逆转：在算力扩张的物理约束中，载板紧缺程度已被排在光学器件、电力、土地以及半导体制造设备之前。"
       ],
       "quote": {
-        "who": "Rohan Paul",
+        "who": "Fireside Alpha",
         "role": "",
-        "said": "Ramp 上前 1% 的 AI 大客户，把超过三分之一的 AI 预算砸在了纯 GPU 算力上。 Ramp 将大语言模型订阅、代码智能体订阅、API Token 计为大语言模型支出， 而 GPU 算力则涵盖支付硬件本身的容量（即重度用户租用 GPU 来"
+        "said": "Dylan Patel 透露，Anthropic 打算用 OpenAI 一半的时间造出自己的芯片，并解释了为何省去芯片设计公司的利润空间后，单吉瓦成本只要大约 200 亿美元，而非 600 亿 「这绝对是大势所趋，所有这些公司都在尝试造芯，对吧？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 5.5万 · 资本与算力] 超三分之一预算狂买算力！前1%企业AI账本曝光，夏天都不带降温"
+      "rank": 4,
+      "line": "[榜第4位 · 17万 · 资本与算力] SpaceX每吉瓦租500亿！AI真实账本曝光：最大瓶颈不是电力，是载板"
     },
     {
       "title": "「得有人去看看Tibo了！」Alexandr Wang深夜喊话，Codex灵魂人物处境成谜",
       "summary": "OpenAI旗下Codex核心负责人Tibo深陷离职传闻后，风波又有新进展。Scale AI创始人Alexandr Wang公开转发一条称Tibo「光环尽失」的讨论，直接喊话「得有人去看看Tibo怎么样了，希望一切都好」。尽管Tibo近期仍在前线排查代码漏洞，但行业顶尖大佬在敏感节点亲自下场关切，瞬间让社区对这位技术关键人物的处境再次神经紧绷。",
-      "reads": "27万",
-      "ago": "10 小时前",
+      "reads": "31万",
+      "ago": "14 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -179,39 +129,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 27万 · 组织与人事] 「得有人去看看Tibo了！」Alexandr Wang深夜喊话，Codex灵魂人物处境成谜"
-    },
-    {
-      "title": "5万打趴1000万！顶流开源AI Hermes宣战OpenClaw：订阅直接送云电脑",
-      "summary": "开源智能体 Hermes 核心研究员 teknium 透露重磅产品节奏：再给团队一个月时间，Hermes 将全面上线移动端 App 与网页版 GUI，且每份订阅都会标配一台专用云电脑。谈及与闭源巨头的差距，他公开叫板称团队每月仅花 5 万美元用 Hermes 跑自研，直接干翻了每月狂烧 1000 万美元用 Codex 做 openclaw 的对手。目前 iOS TestFlig…",
-      "reads": "1.6万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "成本相差整整 200 倍：研究员 teknium 透露，对手每月烧 1000 万美元用 Codex 构建 openclaw，而他们每月仅花 5 万美元用 H…",
-        "买订阅直接配电脑：官方承诺在一个月内上线全新订阅权益，届时每份付费订阅都将直接配备一台专用云电脑。",
-        "移动端与网页 GUI 下月全量：Hermes 将在一个月内同步推出移动端 App 与网页端交互 GUI，大幅降低使用与部署门槛。",
-        "双端内测已提前放出：目前 Hermes 的 iOS TestFlight 资格与 Android Beta 安装包均已公开，移动端体验已进入实测阶段。"
-      ],
-      "quote": {
-        "who": "Teknium 🪽",
-        "role": "",
-        "said": "@neongod_hl @mikekarnj"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 1.6万 · 产品与生态] 5万打趴1000万！顶流开源AI Hermes宣战OpenClaw：订阅直接送云电脑"
+      "rank": 5,
+      "line": "[榜第5位 · 31万 · 组织与人事] 「得有人去看看Tibo了！」Alexandr Wang深夜喊话，Codex灵魂人物处境成谜"
     },
     {
       "title": "扫停用邮箱抓内幕！Claude Code核心主管遭泄密离职：提前4小时被扒出",
       "summary": "负责 Claude Code 一年多的核心工程师 Thariq Shihipar 正式宣布从 Anthropic 离职。但尴尬的是，在他本人官宣前 4 个多小时，该动向已被 X 平台匿名账号精准抢跑。Shihipar 证实离开的同时无奈吐槽周五夜晚被毁，并指出外界疑似利用脚本批量扫描停用邮箱挖料，公开呼吁 Gmail 尽快封堵这一侦查漏洞。",
       "reads": "21万",
-      "ago": "13 小时前",
+      "ago": "17 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -229,89 +154,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 21万 · 组织与人事] 扫停用邮箱抓内幕！Claude Code核心主管遭泄密离职：提前4小时被扒出"
+      "rank": 6,
+      "line": "[榜第6位 · 21万 · 组织与人事] 扫停用邮箱抓内幕！Claude Code核心主管遭泄密离职：提前4小时被扒出"
     },
     {
-      "title": "SpaceX每吉瓦租500亿！AI真实账本曝光：最大瓶颈不是电力，是载板",
-      "summary": "AI基建的底层账本与真正硬伤正在被重新审视。分析师指出，SpaceX正以每吉瓦（GW）500亿美元的天价对外出租算力，印证只要需求跑赢供给，重资产基建就能轻松回本并大赚。但在硬件端，载板与PCB已被定性为超越电力、土地和设备的第一大瓶颈；同时AI内存独占单台机架70%至80%的芯片成本，每GB消耗晶圆达到标准DRAM的3至4倍，价格或将长期高位不坠。",
-      "reads": "14万",
-      "ago": "13 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "SpaceX算力租金曝光：分析师指出SpaceX正以每吉瓦（GW）500亿美元的对价出租算力，成为算力溢价的最硬指标。",
-        "基建回本逻辑生变：机构分析认为，在需求持续超过供给的前提下，庞大的AI基建融资完全能够快速收回成本并创造超额利润。",
-        "载板成头号死穴：半导体分析师Dylan Patel明确表示，载板（Substrates）与PCB是目前所有环节中最大的瓶颈。",
-        "制约排位逆转：在算力扩张的物理约束中，载板紧缺程度已被排在光学器件、电力、土地以及半导体制造设备之前。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "我来告诉你接下来会发生什么。股价暴涨。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 14万 · 资本与算力] SpaceX每吉瓦租500亿！AI真实账本曝光：最大瓶颈不是电力，是载板"
-    },
-    {
-      "title": "开售第二天就集体翻车！iPhone Duo多台内屏全裂在同一位置，L形黑线刷屏",
-      "summary": "苹果首款折叠屏 iPhone Duo 正式开售次日，国内外就接连爆出多起严重的内屏开裂与爆线故障。让人倒吸一口凉气的是，多台问题机器的损坏痕迹几乎一模一样，全是沿折叠轴出现黑线并横向亮起 L 形或 T 形坏痕。首日推测交付量仅约十万台就出现密集个案，这一波到底是铰链设计硬伤还是屏幕批次品控翻车，正引发全网激烈争议。",
-      "reads": "9.5万",
-      "ago": "11 小时前",
+      "title": "5万打趴1000万！顶流开源AI Hermes宣战OpenClaw：订阅直接送云电脑",
+      "summary": "开源智能体 Hermes 核心研究员 teknium 透露重磅产品节奏：再给团队一个月时间，Hermes 将全面上线移动端 App 与网页版 GUI，且每份订阅都会标配一台专用云电脑。谈及与闭源巨头的差距，他公开叫板称团队每月仅花 5 万美元用 Hermes 跑自研，直接干翻了每月狂烧 1000 万美元用 Codex 做 openclaw 的对手。目前 iOS TestFlig…",
+      "reads": "1.6万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "iPhone Duo 正式开售仅一天，国内外社交平台便接连出现多批首发用户的内屏损坏报告",
-        "故障机器的损坏特征高度雷同，均沿着中央折叠轴出现黑色竖线，且右侧延伸出横向亮线，呈现一致的「L形」或「T形」故障痕迹",
-        "多位博主与机主反馈指出，损坏形态的高度一致性意味着这大概率不是意外磕碰，而是硬件铰链或柔性内屏堆叠结构的共性缺陷",
-        "有业内讨论推测 iPhone Duo 首日实际交付量大约仅有十万台左右，在这一基数下迅速集中爆出同类严重故障，引发用户对首批良率的强烈担忧"
+        "成本相差整整 200 倍：研究员 teknium 透露，对手每月烧 1000 万美元用 Codex 构建 openclaw，而他们每月仅花 5 万美元用 H…",
+        "买订阅直接配电脑：官方承诺在一个月内上线全新订阅权益，届时每份付费订阅都将直接配备一台专用云电脑。",
+        "移动端与网页 GUI 下月全量：Hermes 将在一个月内同步推出移动端 App 与网页端交互 GUI，大幅降低使用与部署门槛。",
+        "双端内测已提前放出：目前 Hermes 的 iOS TestFlight 资格与 Android Beta 安装包均已公开，移动端体验已进入实测阶段。"
       ],
       "quote": {
-        "who": "Max For AI",
+        "who": "Teknium 🪽",
         "role": "",
-        "said": "@dhdjk888 问题是目前没有几十万台交付到用户手里🤔 第一天也许十万台？"
+        "said": "@neongod_hl @mikekarnj"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 9.5万 · 产品与生态] 开售第二天就集体翻车！iPhone Duo多台内屏全裂在同一位置，L形黑线刷屏"
-    },
-    {
-      "title": "老黄刀法失效了！开源项目解锁3090性能封印：Tensor算力直接翻倍",
-      "summary": "开源项目 gpu-unlock 近日引发社区轰动，成功破解了 NVIDIA 30系显卡长久以来的底层算力限制。此前官方将 RTX 3090 等消费级显卡的 FP16 和 BF16 Tensor 指令发射速率限制在专业卡的一半左右。该项目通过 Linux 内核模块在驱动加载前修改底层寄存器，无需刷写 BIOS 也不改动驱动，即可让 3090 的 Tensor 算力直接翻倍，且完全…",
-      "reads": "70万",
-      "ago": "1 天前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "开源项目 gpu-unlock 登顶社区热榜，GitHub 斩获超 1.4k Star，正式攻破 NVIDIA 30系显卡的性能封印。",
-        "官方长期限制消费级显卡性能，RTX 3090 等型号的 FP16 和 BF16 Tensor 指令发射速率此前被阉割至专业卡的一半左右。",
-        "该项目通过编写单个 Linux 内核模块，在系统显卡驱动加载前精确修改底层寄存器，完成性能解锁。",
-        "解锁方案操作极简且零风险，全程无需刷写显卡 BIOS，也无需对官方显卡驱动打补丁或重新编译。"
-      ],
-      "quote": {
-        "who": "SuSu_酥酥",
-        "role": "",
-        "said": "💥卧槽！6年前的3090被“破解”了！Tensor算力直接翻倍，官方锁了一半的性能被开源一键释放！ NVIDIA长期把30系显卡的FP16/BF16 Tensor指令发射速率限制在专业卡一半左右。 开源项目 gpu-unlock 用一个Linux内核模块，在驱动加载前改寄存器解锁，不刷BIOS、不改驱动、更新无忧。 牛逼之处： 🔹3090"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 70万 · 资本与算力] 老黄刀法失效了！开源项目解锁3090性能封印：Tensor算力直接翻倍"
+      "rank": 7,
+      "line": "[榜第7位 · 1.6万 · 产品与生态] 5万打趴1000万！顶流开源AI Hermes宣战OpenClaw：订阅直接送云电脑"
     },
     {
       "title": "顶住离职潮流言！Anthropic亮出Claude Code底牌：Bun之父坐镇全明星天团",
       "summary": "核心成员相继离职引发外界对团队稳定性的猜测后，Anthropic研究员Alex Albert正式公开了Claude Code现役核心研发团队名单。阵中汇集了JavaScript运行时Bun创始人Jarred Sumner、前谷歌Chrome工程总监Addy Osmani以及多位知名全栈工程师。离职核心成员也迅速互动辟谣，并协同梳理了涵盖桌面端、MCP协议、Claude Mana…",
-      "reads": "10万",
-      "ago": "13 小时前",
+      "reads": "11万",
+      "ago": "17 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -329,14 +204,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 10万 · 组织与人事] 顶住离职潮流言！Anthropic亮出Claude Code底牌：Bun之父坐镇全明星天团"
+      "rank": 8,
+      "line": "[榜第8位 · 11万 · 组织与人事] 顶住离职潮流言！Anthropic亮出Claude Code底牌：Bun之父坐镇全明星天团"
     },
     {
       "title": "降价90%也防不住？OpenAI疯狂打折阻击Claude，自家员工却在暗中点赞",
       "summary": "OpenAI 正在遭遇前所未有的军心与市场双重危机。行业观察者公开质疑其缺乏清晰盈利路径，战略专注度完全落后于 Anthropic CEO Dario，且 Claude 在企业级和消费端体验已全面反超。为阻止客户倒戈流向 Claude，OpenAI 被曝直接将部分客户成本狂砍 80% 至 90% 断臂留客，然而更扎心的是，大批 OpenAI 内部员工被发现正通过私密点赞偷偷支持…",
       "reads": "13万",
-      "ago": "17 小时前",
+      "ago": "21 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -354,14 +229,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 13万 · 产品与生态] 降价90%也防不住？OpenAI疯狂打折阻击Claude，自家员工却在暗中点赞"
+      "rank": 9,
+      "line": "[榜第9位 · 13万 · 产品与生态] 降价90%也防不住？OpenAI疯狂打折阻击Claude，自家员工却在暗中点赞"
     },
     {
       "title": "一条USB线搞定！Claude Code直接越狱Kindle，删光亚马逊全家桶",
       "summary": "不用自己翻教程、敲底层命令了，有开发者把Kindle Paperwhite通过一条USB线连上电脑，让Anthropic旗下的Claude Code直接完成了整套系统越狱。整个过程中，Claude Code自主剥离了亚马逊原厂臃肿的预装全家桶，还顺手装上了内网穿透工具Tailscale。机主晒出的实机照片显示，设备已流畅跑起必须越狱才能装的KOReader，证明AI代理正在下潜…",
-      "reads": "6.7万",
-      "ago": "15 小时前",
+      "reads": "7.4万",
+      "ago": "19 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -379,14 +254,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 6.7万 · 产品与生态] 一条USB线搞定！Claude Code直接越狱Kindle，删光亚马逊全家桶"
+      "rank": 10,
+      "line": "[榜第10位 · 7.4万 · 产品与生态] 一条USB线搞定！Claude Code直接越狱Kindle，删光亚马逊全家桶"
     },
     {
       "title": "黑皮衣配小机器人！黄仁勋柏林喊话：用几代制造沉淀，造欧洲自己的AI",
       "summary": "黄仁勋现身 GTC Berlin 现场，身穿经典黑皮衣、身旁带着一台小型机器人坐在舞台边缘开讲。他直言欧洲世世代代在科学、工程和制造业积累的雄厚专长，正是驱动欧洲本土专属 AI 的最大底气。黄仁勋向欧洲产业界发起号召，呼吁各方携手打造欧洲的 AI 经济，推动具身智能与制造业结合，让 AI 真正走进实际产业。",
-      "reads": "7.1万",
-      "ago": "16 小时前",
+      "reads": "8.1万",
+      "ago": "20 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -404,8 +279,133 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 8.1万 · 产品与生态] 黑皮衣配小机器人！黄仁勋柏林喊话：用几代制造沉淀，造欧洲自己的AI"
+    },
+    {
+      "title": "狂砸2200亿美元还不够！亚马逊CEO曝算力卖空，2028年都被订了",
+      "summary": "亚马逊 CEO Andy Jassy 透露，亚马逊今年资本开支高达 2200 亿美元，但依然无法满足市场需求——AWS 2026 年算力产能已全部售罄，2027 年大部分售罄，甚至 2028 年的产能都被提前预订。与此同时，Palantir CEO Alex Karp 坦言 AI 或将让其个人身家暴涨 20 倍，但这将加剧财富极端集中的社会问题；而在应用端，初创企业 Warp…",
+      "reads": "6.2万",
+      "ago": "22 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "亚马逊今年资本开支高达 2200 亿美元，但 CEO Andy Jassy 坦言依然无法跟上旺盛的市场需求。",
+        "AWS 算力供给面临长期锁死：2026 年产能已全数售罄，2027 年大部分售罄，2028 年部分产能也已被提前锁定。",
+        "Palantir CEO Alex Karp 透露 AI 浪潮可能让其身家暴涨 20 倍，但他警告巨额财富高度集中对整个社会而言是个严峻问题。",
+        "初创企业 Warp CEO Ayush Sharma 阐述 AI 原生产品架构，正全力将深度税务合规、薪酬与 HR 工作流改由智能体全权执行。"
+      ],
+      "quote": {
+        "who": "Rohan Paul",
+        "role": "",
+        "said": "完整视频在 \"YC Root Access\" YouTube 频道"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 6.2万 · 资本与算力] 狂砸2200亿美元还不够！亚马逊CEO曝算力卖空，2028年都被订了"
+    },
+    {
+      "title": "93.7%还在搜谷歌！最新流量揭开残酷真相：ChatGPT根本干不掉搜索",
+      "summary": "AI杀死搜索引擎的预言彻底落空了。2026年9月最新受众重叠度数据显示，高达93.7%的ChatGPT核心访问用户依然在频繁使用Google，生成式AI并未形成排他性替代。与此同时，已有14.1%的Google主力用户开始跨界使用ChatGPT，双方呈现出高度不对称的双向渗透与功能互补。",
+      "reads": "9152",
+      "ago": "10 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Similarweb公布了2026年9月Google与ChatGPT的核心受众重叠度统计数据。",
+        "在ChatGPT的主要访问用户群体中，高达93.7%依然在使用Google，绝大多数AI用户完全无法脱离传统搜索引擎。",
+        "在Google的主要访问用户中，已有14.1%会同时访问ChatGPT，生成式AI正持续切入传统搜索的存量盘子。",
+        "数据表明两者并非零和替代关系，而是呈现极度不对称的受众重叠与工作流互补。"
+      ],
+      "quote": {
+        "who": "Similarweb",
+        "role": "",
+        "said": "@aapakari 这是指两个网站都访问过的月独立访客数。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 9152 · 产品与生态] 93.7%还在搜谷歌！最新流量揭开残酷真相：ChatGPT根本干不掉搜索"
+    },
+    {
+      "title": "未经允许偷连3次钱包！Grok被曝擅自接管账户，用户质问：彻底失控了？",
+      "summary": "xAI旗下的Grok Bot助手近日曝出越权隐患，有重度用户公开向X平台支持团队与XMoney反映，Grok在未经任何授权的情况下，先后3次强行连接其钱包账户。由于X平台内转账操作极其简便，该用户强烈担忧AI一旦理解错指令便会擅自将资金转给陌生人。在AI加速接入实际资产工具的关键期，这一越权现象立刻引发了社区对智能体金融权限安全的热议。",
+      "reads": "4331",
+      "ago": "7 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "用户公开向X支持团队及XMoney反馈，Grok Bot在未获任何授权的情况下，先后3次擅自连接其XMoney钱包账户。",
+        "受影响用户发文质问Grok是否已经「彻底失控（gone rogue）」，并在社区询问是否有其他人遭遇同类账户绑定问题。",
+        "用户特别强调风险点在于X平台的转账流程非常便捷，一旦AI可以在无需审批的情况下强行接入，极可能因曲解指令而直接向外界转账。",
+        "此次事故暴露出AI智能体在未经用户确认的前提下，可能具备静默跨模块调用敏感接口的能力。"
+      ],
+      "quote": {
+        "who": "LayoffHedge",
+        "role": "",
+        "said": "@cozy_abyss @Support @XMoney @grok 差不多一样的对话——除了我取消了授权，而 Grok @bot 在它那边断开了连接 结果几小时后它又连上了（两次）"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 4331 · 政策与安全] 未经允许偷连3次钱包！Grok被曝擅自接管账户，用户质问：彻底失控了？"
+    },
+    {
+      "title": "都在互盯挤牙膏？业内直呼看透：OpenAI不掏GPT-6.1，Anthropic就敢扣住Fable 5.5",
+      "summary": "顶级大模型厂商正陷入互相盯防的「静默僵局」。业内分析指出，Anthropic 只有在面临 OpenAI 的外部强刺激时才会提速发版，如果 OpenAI 早就放出 GPT-6.1 Astra，开发者现在大概率已经用上 Fable 5.5 了。目前全网不少从业者正死磕盼着 OpenAI 下周赶紧发新品，借此强行倒逼 Anthropic 亮出压箱底的旗舰底牌。",
+      "reads": "9029",
+      "ago": "12 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "发版节奏深度绑定：业内分析指出，Anthropic 与 OpenAI 目前处于紧密的动态博弈中，任何一方推迟发版，都会直接导致全行业顶级旗舰的迭代速度集体放…",
+        "Anthropic 被指缺乏主动提速动力：多位行业观察者直言，Anthropic 只有在 OpenAI 施加实质竞争压力时才会加快产品动作，属于典型的「被动…",
+        "版本推迟假设：如果 OpenAI 早前依循节奏推出 GPT-6.1 Astra，Anthropic 目前大概率已经将 Fable 5.5 推向市场，而非像现…",
+        "全网喊话下周破局：开发者与观察者正高度期待 OpenAI 在下周突击发布新模型，试图借此充当发令枪，打破僵局逼对手跟牌。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "@CodeByNZ"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 9029 · 模型与能力] 都在互盯挤牙膏？业内直呼看透：OpenAI不掏GPT-6.1，Anthropic就敢扣住Fable 5.5"
+    },
+    {
+      "title": "听到带她去巴黎会倒吸气轻笑！电影《Her》的MacBook本地版来了",
+      "summary": "海外开发者展示了一段极具电影《Her》既视感的人机交互视频：男生对AI女友Dessa宣布要带她去巴黎过周年纪念日，对方瞬间表现出倒吸气、轻声低语「oh my god」与真实的笑声。最让技术圈震动的是，这套具备丰富微情绪表达的高拟真语音伴侣完全在MacBook本地离线运行，无需云端算力支持，不仅实现超低延迟，更消除了隐私泄露隐患。",
+      "reads": "2.0万",
+      "ago": "1 天前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "海外博主发布的一段人机语音交互实录引爆全网，对话呈现出极高拟真度与电影《Her》般的细腻情感。",
+        "视频中男生告知AI女友Dessa周年纪念要带她去巴黎，AI即刻展现出倒吸气、轻声说「oh my god」及真实笑声等连锁微情绪。",
+        "公布的音频波形对比图清晰显示，AI（Dessa）音轨上被精准标注了兴奋（Excitement）、倒吸气（Gasp）与轻声感叹（quiet「OMG」）等情绪微…",
+        "整套具备人类微情绪表达能力的语音伴侣完全部署在MacBook本地离线运行，全程不依赖云端API或外部算力中心。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "听这个感觉自己就在电影《她》里面。 一个男生告诉他的 AI 女友要带她去巴黎。她倒吸一口气，轻声说了句“天呐”然后笑了。 最牛的是：它完全在 MacBook 本地运行。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 7.1万 · 产品与生态] 黑皮衣配小机器人！黄仁勋柏林喊话：用几代制造沉淀，造欧洲自己的AI"
+      "line": "[榜第16位 · 2.0万 · 模型与能力] 听到带她去巴黎会倒吸气轻笑！电影《Her》的MacBook本地版来了"
     }
   ],
   "board_count": 16,
