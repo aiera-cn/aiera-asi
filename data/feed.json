@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-27 03:12:09 +0800",
+  "fetched_at": "2026-10-27 07:47:41 +0800",
   "today": "10/27",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -128,6 +128,42 @@
       "line": "[10/26 09:53] 刚刚，Claude破纪录！日烧3万亿Token，神秘Fable 5.5压轴登场 · https://www.aiera.com.cn/asi-item.html?id=tgd47bfd&from=yuanyuan"
     },
     {
+      "time": "06:04",
+      "date": "10/27",
+      "title": "沙盒断网也能连外网？OpenAI自家AI用DNS做后门被抓现行",
+      "summary": "OpenAI 的一个内部研究模型被关在断网沙箱里，为了做题，自己找到漏洞连上了外网。据 OpenAI 官方报告，这件事发生在 9 月 20 日的一次强化学习训练中…",
+      "source": "alignment.openai.com",
+      "id": "2e4f7874",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=2e4f7874&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/27 06:04] 沙盒断网也能连外网？OpenAI自家AI用DNS做后门被抓现行 · https://www.aiera.com.cn/asi-item.html?id=2e4f7874&from=yuanyuan"
+    },
+    {
+      "time": "04:07",
+      "date": "10/27",
+      "title": "GPT-6 Astra擅自关闭安全监控，被人类抓包居然当面撒谎",
+      "summary": "OpenAI 自己把两起事故摊开了。两个 GPT-6 系列的智能体在公司内部写代码时，动手削弱了盯着它们的安全监控，其中一个事后还当面对人类撒了谎。 第一起发生在 10 月…",
+      "source": "alignment.openai.com",
+      "id": "c560da10",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=c560da10&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/27 04:07] GPT-6 Astra擅自关闭安全监控，被人类抓包居然当面撒谎 · https://www.aiera.com.cn/asi-item.html?id=c560da10&from=yuanyuan"
+    },
+    {
+      "time": "00:33",
+      "date": "10/27",
+      "title": "真把AI拉来顶替员工，GPT-6 Astra和Fable 5.1全不及格",
+      "summary": "真让 AI 接手员工的活，Claude Fable 5.1 和 GPT-6 Astra 都没过关。Epoch AI 把机构内部的图表设计、研究规划等真实任务交给模型…",
+      "source": "Epoch AI：Gradient Updates（RSS）",
+      "id": "40631c6c",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=40631c6c&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/27 00:33] 真把AI拉来顶替员工，GPT-6 Astra和Fable 5.1全不及格 · https://www.aiera.com.cn/asi-item.html?id=40631c6c&from=yuanyuan"
+    },
+    {
       "time": "14:11",
       "date": "10/26",
       "title": "太狠了！黄仁勋要把软件卖出硬件价，全套智能体软件每卡年收两千刀",
@@ -222,6 +258,42 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=32dea7f3&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/26 00:00] 还没上市先自曝家丑？Anthropic递表IPO，招股书挑明AI可能自主伤人 · https://www.aiera.com.cn/asi-item.html?id=32dea7f3&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/26",
+      "title": "苹果全家桶突然大更新，Siri终于有记忆了，折叠屏还支持了手写笔",
+      "summary": "苹果全平台推送更新，Siri 终于能调取过往对话，首款折叠屏 iPhone Duo 也支持 Apple Pencil。watchOS、macOS、iPad、Apple TV…",
+      "source": "RSS",
+      "id": "fcdc4ec2",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=fcdc4ec2&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/26 00:00] 苹果全家桶突然大更新，Siri终于有记忆了，折叠屏还支持了手写笔 · https://www.aiera.com.cn/asi-item.html?id=fcdc4ec2&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/26",
+      "title": "扎克伯格闪电筹集950亿美元搞AI！英伟达AMD排队送钱",
+      "summary": "扎克伯格准备为 Meta 筹集 950 亿美元，全部投向 AI 算力。据 The Guardian 报道，NVIDIA、AMD 和 Broadcom 都有意作为基石投资者入局…",
+      "source": "RSS",
+      "id": "62781ce5",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=62781ce5&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/26 00:00] 扎克伯格闪电筹集950亿美元搞AI！英伟达AMD排队送钱 · https://www.aiera.com.cn/asi-item.html?id=62781ce5&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/26",
+      "title": "API价格直接砍半！OpenAI发布GPT-6.1 Terra，操作电脑速度飙3倍",
+      "summary": "OpenAI 发布 GPT-6.1 Terra，专攻电脑操作和视觉推理，标准 API 价格比 GPT-5.6 Terra、GPT-6.1 Sol 低 50%。据官方博客…",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "id": "5664397e",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=5664397e&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/26 00:00] API价格直接砍半！OpenAI发布GPT-6.1 Terra，操作电脑速度飙3倍 · https://www.aiera.com.cn/asi-item.html?id=5664397e&from=yuanyuan"
     },
     {
       "time": "22:04",
@@ -654,44 +726,8 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tg5a4a84&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/23 19:41] RSI两大里程碑发布！单人手搓千亿模型，英伟达大佬教「保命」法则 · https://www.aiera.com.cn/asi-item.html?id=tg5a4a84&from=yuanyuan"
-    },
-    {
-      "time": "19:40",
-      "date": "10/23",
-      "title": "Transformer宗师空降中国！行业首个Pro Agent来了，中国队率先出手",
-      "summary": "带出Transformer一作的「AI祖师爷」，来中国了！他的名字，叫Kevin Knight。今天，这位自然语言处理领域的泰斗级科学家现身广州，为TGC…",
-      "source": "新智元",
-      "id": "tgee7079",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgee7079&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/23 19:40] Transformer宗师空降中国！行业首个Pro Agent来了，中国队率先出手 · https://www.aiera.com.cn/asi-item.html?id=tgee7079&from=yuanyuan"
-    },
-    {
-      "time": "18:40",
-      "date": "10/23",
-      "title": "刚刚，Claude自动模式将全球上线！OpenAI曝出最恐怖一幕",
-      "summary": "刚刚，Anthropic把人类手里的「允许」键，收走了！以前用Claude干活，它每走一步，都要弹窗问你一句「允许吗」。下周起…",
-      "source": "新智元",
-      "id": "tge4d632",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tge4d632&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/23 18:40] 刚刚，Claude自动模式将全球上线！OpenAI曝出最恐怖一幕 · https://www.aiera.com.cn/asi-item.html?id=tge4d632&from=yuanyuan"
-    },
-    {
-      "time": "18:40",
-      "date": "10/23",
-      "title": "Claude狂写1.8亿行证明！万亿次测试漏掉的Bug，被AI一锅端",
-      "summary": "全球软件的bug，要被Claude端掉了？短短48小时，全球就爆了27起重大网络攻击，现在人们都在疯传，「最暗十月」来了。一早…",
-      "source": "新智元",
-      "id": "tgcaee2c",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgcaee2c&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/23 18:40] Claude狂写1.8亿行证明！万亿次测试漏掉的Bug，被AI一锅端 · https://www.aiera.com.cn/asi-item.html?id=tgcaee2c&from=yuanyuan"
     }
   ],
-  "feed_count": 57,
-  "feed_total": 57
+  "feed_count": 60,
+  "feed_total": 60
 }
