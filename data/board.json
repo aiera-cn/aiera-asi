@@ -3,65 +3,290 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-28 09:13:44 +0800",
+  "fetched_at": "2026-10-28 16:20:03 +0800",
   "today": "10/28",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "键盘直接上手开玩！谷歌Genie 4炸场：照片级世界模型，连空气动力学都模拟了",
-      "summary": "Google DeepMind正式端出新一代实时交互式世界模型Genie 4，目前已开放候补名单（waitlist）。该模型基于Gemini Omni底座构建，不仅实现了照片级画质与原生环境音效，更打通了空气动力学和碰撞等复杂物理仿真。在实机演示中，用户只需自然语言就能重塑三维场景并用键盘实时操控，NPC角色也具备自然动作和实时对话能力；系统还联动Gemini 3.8 Flas…",
-      "reads": "101万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
+      "title": "直接偷家苹果！ChatGPT正式打通iCloud，连27年Mac老粉都坐不住了",
+      "summary": "OpenAI正式为ChatGPT上线iCloud Mail与iCloud Calendar插件，面向Web、桌面端以及iOS端的所有订阅计划开放，目前已全量推送完毕。打通后，用户可以直接让ChatGPT检索总结收件箱邮件、查询后续日程并创建修改日历，连27年前的@mac.com老邮箱也能顺畅接入。开发团队在确认全量部署的同时还预告，次日还将带来更多好消息。",
+      "reads": "256万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Google DeepMind正式官宣新一代实时交互式世界模型Genie 4，主打照片级逼真画质、原生环境音效与实时控制，目前已开放候补名单（waitlis…",
-        "Genie 4基于多模态底座Gemini Omni构建，支持输入自然语言提示词即时生成或动态重塑三维环境，用户数秒内即可进入场景，并直接使用键盘WASD及方…",
-        "模型突破了以往世界模型的交互短板，能够精确模拟空气动力学、物体碰撞等高级物理特性，场景内的虚拟人物动作自然，并支持实时语音对话互动。",
-        "在演示中展现了强悍的多模型联动能力：接入Gemini 3.8 Flash实时观测生成场景、拆解任务步骤并动态更新规划，还联合Gemini 4 Argon完成…"
+        "核心插件上线：OpenAI官方宣布正式推出iCloud Mail与iCloud Calendar插件，支持在ChatGPT内直接查找和总结邮件、查询日程安排…",
+        "全平台与全套餐覆盖：该功能已在Web端、桌面端和iOS端上线，且适用于所有层级的ChatGPT订阅计划。",
+        "部署节奏：相关功能于太平洋时间午夜前启动分批推送，随后开发人员确认部署已全部完成。",
+        "老果粉反响强烈：苹果生态用户反响热烈，甚至有保留并使用27年@mac.com邮箱地址的资深Mac老用户评价该更新具备颠覆性。"
       ],
       "quote": {
-        "who": "Chris",
+        "who": "Tibo",
         "role": "",
-        "said": "A lot of people may not understand the purpose of world models, but I think Genie 4 gives us a clearer glimpse of how they could help us get closer to AGI. Google is already combining Genie…"
+        "said": "搞定了。明天有好消息，到时见。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 101万 · 模型与能力] 键盘直接上手开玩！谷歌Genie 4炸场：照片级世界模型，连空气动力学都模拟了"
+      "line": "[榜第1位 · 256万 · 产品与生态] 直接偷家苹果！ChatGPT正式打通iCloud，连27年Mac老粉都坐不住了"
     },
     {
-      "title": "拒绝5000万美元赎金！日本巨头遭黑客引爆，全网紧急通知拔掉网线",
-      "summary": "日本互联网巨头 GMO Internet 遭遇大规模网络黑客攻击并被索要 5000 万美元巨额赎金，黑客威胁引爆此前暗中植入客户电脑的勒索软件，事件已造成 70 余家券商与外汇平台出现异常欺诈交易。在坚决拒绝付钱后，GMO 紧急呼吁全网用户赶在当天中午前「拔掉网线并关掉电脑」进行自保。日本时间中午 12:30 勒索截止期过后，黑客已正式上线公开被盗机密，其 CEO 更是直言整个…",
-      "reads": "38万",
-      "ago": "6 小时前",
-      "category": "政策与安全",
+      "title": "全资收购单人药企！Anthropic亲自下场做药，一人靠Claude统筹11家实验室",
+      "summary": "AI时代真正的「单人公司」在硬核生物科研圈跑通了！Anthropic官方宣布全资收购初创药企Mithril Medicine，其创始人Cody Tranbarger全靠Claude作为核心协同工具，仅用18个月就独自完成了合同管理、供应链物流以及跨11家外部实验室的实验统筹，全力推进两种罕见儿童肌营养不良症的新药研发。值得注意的是，这是Anthropic在提交IPO申请次日官宣…",
+      "reads": "183万",
+      "ago": "2 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "天价勒索敲诈：日本互联网巨头 GMO Internet Group 突遭大规模黑客攻击，幕后攻击者向其索要高达 5000 万美元的巨额赎金。",
-        "云端暗植病毒遭引爆：黑客声称此前已通过云端服务，在广大客户的本地 PC 中秘密植入了勒索软件，并扬言在通牒到期时全面触发。",
-        "70余家金融平台沦陷：该起黑客入侵已经波及 70 多家券商和外汇（FX）交易平台，并在各大平台内诱发了多起欺诈性异常交易。",
-        "最原始防御「物理拔网线」：GMO 坚决拒绝支付赎金，并向所有用户发出罕见自保预警，敦促所有人必须在日本时间当天中午前拔掉网线、彻底关机断电。"
+        "全资收购单人药企Mithril Medicine：Anthropic官方宣布正式切入药物研发领域，全资收购仅有一人运营的初创药企Mithril Medici…",
+        "1人靠Claude撬动传统数百人体量：创始人Cody Tranbarger仅依靠Claude作为协作搭档，把合同管理、供应链物流以及跨11家外部实验室的实验…",
+        "18个月推进罕见病新药研发：凭借一人搭配Claude的协同模式，该团队在18个月内成功推进了针对两种罕见儿童肌营养不良症的疗法研发。",
+        "Anthropic从提供技术转向亲自下场做药：官方披露过去几个月已与6家新药研发机构展开深度科研合作，并正式启动自主药物研发，不再只做底层技术供应商。"
       ],
       "quote": {
-        "who": "François Fleuret",
+        "who": "小互",
         "role": "",
-        "said": "@ashkaidev 4**0 4**1 4**2 ?"
+        "said": "卧槽 OPC，一人公司真的能搞啊 Anthropic 全资收购了一家一人初创药企 Mithril Medicine 这家公司只有创始人 Cody Tranbarger 一个人+ Claude，专注于研发两种罕见的儿童肌营养不良症疗法 Cody将合同管理、物流供应链以及跨 11 家外部实验室的实验统筹等运营工作，全部交给了 Claude 协作处理"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 38万 · 政策与安全] 拒绝5000万美元赎金！日本巨头遭黑客引爆，全网紧急通知拔掉网线"
+      "line": "[榜第2位 · 183万 · 组织与人事] 全资收购单人药企！Anthropic亲自下场做药，一人靠Claude统筹11家实验室"
+    },
+    {
+      "title": "代码面试彻底死了！Anthropic带头砍掉LeetCode，招人只看品味和小原型",
+      "summary": "代码面试的时代真的要翻篇了。Anthropic 团队负责人 Felix Rieseberg 宣布，本月已在团队招聘流程中彻底砍掉传统代码面试，直言在 AI 普及的背景下，LeetCode 刷题式考核已无法提供有效的人才评估信号。出人意料的是，他认为这一剧变反而是初级工程师的重大利好，借助 AI 完全有望弯道超车资深老工程师；如今筛选人才的核心，已全面转向考察候选人能否做出展现「…",
+      "reads": "92万",
+      "ago": "4 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "彻底剔除代码考核：Anthropic 团队负责人 Felix Rieseberg 宣布，本月已将其团队面试流程中的传统代码面试环节全部移除，直言其已无法提供…",
+        "初级工程师迎来弯道超车机会：Felix Rieseberg 提出乐观研判，认为借助 AI 工具，初级工程师迎来了巨大机遇，非常有希望快速超过资历更老的老牌工…",
+        "考察标尺转向原型项目：团队筛选简历和作品集的核心标准，转变为寻找能展现品味（taste）、同理心（empathy）和原则性思考（principled thi…",
+        "五大核心能力取代做题：业内研究者普遍认同这一趋势，指出品味、共情力、原则性思考、商业敏锐度（business sense）与主观能动性（agency）才是真…"
+      ],
+      "quote": {
+        "who": "歸藏(guizang.ai)",
+        "role": "",
+        "said": "Anthropic 工程负责人暴论：传统的编码面试已经死了 他们不在面试过程中让面试人写代码了，比如做算法题和用代码实现小功能。 借助 AI ，初级工程师是非常有希望快速超过那些资历更老的工程师的，他给了一些建议： 1."
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 92万 · 组织与人事] 代码面试彻底死了！Anthropic带头砍掉LeetCode，招人只看品味和小原型"
+    },
+    {
+      "title": "输入文字直接变游戏！谷歌Genie 4炸场：原生自带音效物理，角色随你操控",
+      "summary": "Google DeepMind 正式发布新一代实时交互式世界模型 Genie 4，基于 Gemini Omni 架构打造，彻底告别了传统生成视频「只能看不能动」的局限。用户只需输入提示词或上传单张图片，就能在几秒内生成带有原生环境音效、逼真物理碰撞和空气动力学特性的动态世界，并直接用键盘实时操控角色移动。在底层协同上，Genie 4 能与 Gemini 3.8 Flash 组成…",
+      "reads": "258万",
+      "ago": "7 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Google DeepMind 正式官宣新一代实时交互式世界模型 Genie 4，底层基于 Gemini Omni 架构构建，主打照片级逼真细节与自然语言实…",
+        "物理与音效全方位升级：Genie 4 原生集成了环境背景音与交互对话音效，并首次支持空气动力学、复杂物理碰撞模拟，人物动态更加自然。",
+        "支持大模型闭环规划：在实时交互回路中，Gemini 3.8 Flash 可负责实时观测生成场景并拆解更新执行步骤；官方还展示了联合 Gemini 4 Arg…",
+        "交互门槛大幅降低：单张静态图或一段文字即可几秒生成可探索环境，不仅支持用自然语言在线改变场景，还原生支持 WASD 方向键直接操控角色，重点瞄准游戏开发、影…"
+      ],
+      "quote": {
+        "who": "Just a dragon",
+        "role": "",
+        "said": "@demishassabis 嗨。你不觉得有些不对劲吗，比以前差远了？Genie 3 感觉不一样，响应很快。现在你们用的是实时视频模型，完全不一样了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 258万 · 模型与能力] 输入文字直接变游戏！谷歌Genie 4炸场：原生自带音效物理，角色随你操控"
+    },
+    {
+      "title": "告别本地折腾！开源顶流Hermes大改版：开箱送云端智能体，全模型随便调",
+      "summary": "开源顶流团队 Nous Research 宣布全面重构 Hermes Agent 的订阅体系。新方案最大看点是全层级自带开箱即用的云端智能体，用户彻底告别繁琐的本地部署；同时砍掉以往按月一次性扣除积分的机制，转为日限、周限外加月度总额的阶梯组合管控。此外，所有套餐均不设模型访问门槛、全系模型无差别开放，具体额度消耗速度完全取决于所选模型规格与任务量。用户目前已可在控制台随时无缝…",
+      "reads": "29万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "标配云端智能体：Nous Research 针对旗下 Hermes Agent 推出全新订阅体系，每个新方案均自带开箱即用的云端 Agent，开发者无需自行…",
+        "告别按月扣费旧制：彻底取消过去按月一次性发放并扣除积分（monthly block of credits）的机制，转为每日限额加每周限额，并配合每月总额度的…",
+        "所有套餐全模型无差别可用：新订阅方案全面放开模型权限，所有档位均可调用接入的全部模型，不再设模型门槛，额度扣减快慢仅取决于所选模型体量与任务大小。",
+        "控制台支持随时切换与看板追踪：订阅用户现已可在官网控制台随时自由切换至新方案，并支持实时查看当前已用额度以及每日、每周限额的具体重置时间。"
+      ],
+      "quote": {
+        "who": "Teknium 🪽",
+        "role": "",
+        "said": "@banezhang @NousResearch @yeahfortommy 是财政大臣，只有他知道"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 29万 · 产品与生态] 告别本地折腾！开源顶流Hermes大改版：开箱送云端智能体，全模型随便调"
+    },
+    {
+      "title": "利润率飙到80%！SK海力士单季狂赚628亿美元，利润暴增632%",
+      "summary": "SK海力士公布2026年Q3财报，核心财务指标全线粉碎华尔街预期。当季营收录得789亿美元（104.62万亿韩元），同比暴增328%、环比增长32%；营业利润更是达到惊人的628亿美元（83.33万亿韩元），同比狂飙632%、环比增长38%。尤其震撼的是，营业利润率直接冲上80%，同比暴涨3,300个基点并刷爆历史纪录；同时官方指引Q4的DRAM位元出货量还将环比增长20%左右…",
+      "reads": "43万",
+      "ago": "8 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "季度营收大幅超预期：2026年Q3销售额录得104.62万亿韩元（约789亿美元），远超市场预期的98.96万亿韩元（约748亿美元），同比暴增328%，环…",
+        "营业利润同比激增632%：当季营业利润录得83.33万亿韩元（约628亿美元），超出市场预期的77.5万亿韩元（约585亿美元），环比增长38%。",
+        "营业利润率飙至80%创历史：公司营业利润率刷新历史最高纪录，同比暴涨3,300个基点，盈利能力堪比印钞机。",
+        "Q4出货指引依旧高企：官方预计第四季度DRAM位元出货量（Bit Growth）环比增速将在20%左右（Mid-20% QoQ），高景气度仍在延续。"
+      ],
+      "quote": {
+        "who": "Wall St Engine",
+        "role": "",
+        "said": "SK HYNIX $SKHY 2026 年 Q3 财报亮点： 🔹 营收：789 亿美元（预期 748 亿美元）🟢；同比 +328% 🔹 营业利润：628 亿美元（预期 585 亿美元）🟢；同比 +632% 🔹 营业利润率：80%；同比 +3,300 个基点；创历史新高 🔹 环比：营收 +32% / 营业利润 +38% Q4 指引： 🔹 DRAM 位元出货量增长：环比 20% 左右 🔹 NAND"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 43万 · 资本与算力] 利润率飙到80%！SK海力士单季狂赚628亿美元，利润暴增632%"
+    },
+    {
+      "title": "别再用嘴描述UI了！Cursor上线Annotate：页面直接涂鸦改CSS，给Agent递红笔",
+      "summary": "Cursor 在 Design Mode 中正式上线了全新功能 Annotate，彻底改变了前端开发者指挥智能体调样式的方式。现在只要在浏览器中按下快捷键「Cmd+Shift+D」，就能直接在运行界面上圈选元素、涂鸦标注、现场修改文本与 CSS，并随时切换屏幕尺寸审查响应式布局。所有视觉修改意见既能即时发送，也可以打包成批次一次性喂给 coding agent，大幅降低了用自然…",
+      "reads": "21万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Cursor 官方在 Design Mode（设计模式）中正式上线视觉交互功能 Annotate，允许开发者直接在网页运行界面上指挥编码智能体。",
+        "唤醒方式极为简便，用户在浏览器中按下快捷键「Cmd+Shift+D」即可直接开启标注交互，无需来回切换编辑器窗口。",
+        "提供全新维度的视觉提示词（visual prompts）：支持在运行页面上自由涂鸦圈画，或者直接选定具体元素现场编辑文本和 CSS 样式。",
+        "原生支持响应式布局审查，开发者能够自由切换不同的屏幕尺寸查看排版效果，并针对不同端的问题直接给智能体提修改要求。"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "Cursor 在 Design Mode 中加入了 Annotate，允许用户直接从运行界面指挥编码智能体。 你可以选取元素、在页面上涂鸦、编辑文本和 CSS，并在不同屏幕尺寸下查看布局。反馈既可以立即发送，也可以批量汇总用于"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 21万 · 产品与生态] 别再用嘴描述UI了！Cursor上线Annotate：页面直接涂鸦改CSS，给Agent递红笔"
+    },
+    {
+      "title": "嘴硬了整整20年！苹果明天亲自打脸，首款触控笔记本直接端上桌",
+      "summary": "苹果这次彻底推翻了自己坚守近20年的产品铁律。科技记者 Mark Gurman 爆料，苹果预计将在次日打破惯例，直接端出旗下首款触屏笔记本。过去近20年间，苹果一直向外界坚称触屏笔记本反人体工学、会导致严重的手臂疲劳，甚至在乔布斯去世后也持续多年输出这套说辞。如今苹果对其宣称存在的人体工学缺陷绝口不提，推翻立场强推新品，尽管引发了言行不一的调侃，但也让业界对这款触控新形态充满了…",
+      "reads": "13万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "科技记者 Mark Gurman 透露，苹果预计将于次日打破长期惯例，正式推出旗下首款触屏笔记本。",
+        "苹果在过去近 20 年间始终坚称触屏笔记本极度难用，核心理由是存在严重的人体工学缺陷，会导致手臂疲劳。",
+        "即便在联合创始人史蒂夫·乔布斯去世之后，苹果也持续多年向外界和用户输出这一套「触屏电脑难用」的说辞。",
+        "出人意料的是，苹果如今在对昔日宣称的体验硬伤绝口不提的情况下，依旧决定彻底推翻自身长期立场推出该品类。"
+      ],
+      "quote": {
+        "who": "Mark Gurman",
+        "role": "",
+        "said": "@raywongy 残酷的现实，但他去世后他们也一直在这么说。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 13万 · 产品与生态] 嘴硬了整整20年！苹果明天亲自打脸，首款触控笔记本直接端上桌"
+    },
+    {
+      "title": "一个特制数据包打穿全球服务器！Anthropic谷歌联手，底层防线彻底沦陷",
+      "summary": "Anthropic 与 Google 的安全研究人员联手披露了一项极具破坏力的底层 UEFI 固件严重漏洞，编号为 CVE-2026-97631。该漏洞深植于大多数服务器采用的 TianoCore EDK II 固件代码中，攻击者只需发送一个特制数据包，就能在网络启动期间彻底劫持服务器。由于攻击发生在 Secure Boot 校验操作系统之前，操作系统级防御在加载前便全线失效…",
+      "reads": "3.5万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "两强联手披露：Anthropic 与 Google 的安全研究团队联合披露了这项极具破坏力的底层固件严重缺陷。",
+        "漏洞核心信息：漏洞编号为 CVE-2026-97631，深植于广泛应用于绝大多数服务器 UEFI 固件的 TianoCore EDK II 代码中。",
+        "极低攻击成本：攻击者无需高权限或复杂交互，仅需发送一个特制的数据包，便可在网络启动期间彻底劫持服务器。",
+        "防御机制提前失效：该攻击发生在 Secure Boot 校验操作系统之前，意味着操作系统级别的防御层还没启动就已经全面沦陷。"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "‼️ Anthropic 和 Google 研究人员发现了一个漏洞：在 Secure Boot 校验操作系统之前，仅需一个特制数据包就能在网络启动期间劫持服务器。 全球几乎所有服务器都受影响。 CVE-2026-97631 存在于 TianoCore EDK II 中，这是大多数服务器 UEFI 固件里的代码。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 3.5万 · 政策与安全] 一个特制数据包打穿全球服务器！Anthropic谷歌联手，底层防线彻底沦陷"
+    },
+    {
+      "title": "击穿OpenAI定价！Anthropic招股书曝光：Opus 5.5成本仅0.6美元",
+      "summary": "随着Anthropic向SEC提交S-1招股书，顶级AI大厂惊人的推理底牌首次曝光。财务数据显示，Anthropic在2026年上半年营收约162.86亿美元，收入成本仅约23.80亿美元，推导出高达85.4%的毛利率。在惊人毛利支撑下，旗舰模型Opus 5.5的实际运行成本仅为0.60美元/3.00美元，不仅低于OpenAI对6.1 Terra的收费标准，更远低于Muse、G…",
+      "reads": "7.4万",
+      "ago": "4 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "招股书披露核心财务数据：Anthropic于2026年10月26日向SEC递交S-1招股书，上半年营收约162.86亿美元，收入成本仅约23.80亿美元。",
+        "毛利率高达85.4%：分析师根据招股书推导出Anthropic毛利率达约85.4%，该数据此前也曾在10月中旬的投资者会议材料中出现。",
+        "Opus 5.5运行成本仅0.6美元：在超高毛利推算下，运行旗舰模型Opus 5.5的实际成本仅为0.60美元/3.00美元。",
+        "成本击穿OpenAI等全线竞品：Opus 5.5的极低运行成本不仅低于OpenAI对其6.1 Terra的收费标准，更是大幅低于Muse、Gemini和Ki…"
+      ],
+      "quote": {
+        "who": "宝玉",
+        "role": "",
+        "said": "Opus 5.5 的成本价大概是 $0.6/$3.0，比很多模型都便宜。 这个数据的来源是 Anthropic 于2026年10月26日向SEC提交的S-1招股书：上半年营收约162.86亿美元、收入成本约23.80亿美元，分析师据此推导出约85.4%毛利率。 这个数字也出现在10月中旬投资者会议材料中，由Bloomberg"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 7.4万 · 资本与算力] 击穿OpenAI定价！Anthropic招股书曝光：Opus 5.5成本仅0.6美元"
+    },
+    {
+      "title": "起步直接大涨400美元！首款触控MacBook Pro曝光：配OLED与M5，2899刀起",
+      "summary": "苹果正准备为触控屏付出高昂代价的买家敞开大门。据彭博记者 Mark Gurman 爆料，苹果内部已讨论将 14 英寸触控 OLED 版 MacBook Pro 起售价定为 2899 美元（比现有版本直接涨价 400 美元），16 英寸机型更是高达 3399 美元起。新机预计搭载 M5 Pro 和 M5 Max 芯片，换装全新防晃铰链与散热系统，机身明显变轻变薄，操作系统也将针对…",
+      "reads": "42万",
+      "ago": "9 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "起步价直接上调 400 美元：苹果内部讨论将 14 英寸触控版 MacBook Pro 定价为 2899 美元起（现有非触控款为 2499 美元），16 英…",
+        "押注高端触控与 OLED 溢价：苹果此举意在测试市场对「触控屏+OLED 面板」的溢价承受力，彻底颠覆过去多年 Mac 坚持不加触控屏的传统路线。",
+        "搭载 M5 Pro 和 M5 Max 芯片：全新触控款 MacBook Pro 预计将首发搭载苹果下一代 M5 Pro 与 M5 Max 旗舰芯片。",
+        "全新铰链与轻薄机身重构：为了解决手指戳屏幕带来的晃动问题，新机采用了重新设计的加固铰链与全新散热系统，实现机身略微变薄且明显变轻。"
+      ],
+      "quote": {
+        "who": "Mark Gurman",
+        "role": "",
+        "said": "我觉得目前的非触控MacBook Pro（14寸2499美元和16寸2999美元）明天不会下架。零售店里这些机型目前库存依然很足。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 42万 · 产品与生态] 起步直接大涨400美元！首款触控MacBook Pro曝光：配OLED与M5，2899刀起"
     },
     {
       "title": "输入绿灯摩托就狂飙！皮查伊发布Genie 4，提示词实时生成可玩游戏",
       "summary": "谷歌CEO皮查伊正式发布新一代交互式世界模型Genie 4，称其为谷歌迄今最逼真、交互性最强的世界模型。新模型支持用户用WASD和方向键实时操控环境中的运镜与动作，并能同步生成逼真环境音和NPC对话。在沿海骑行Demo中，Genie 4还与Gemini实现了实时推理联动，单靠一句「绿灯」提示词就能完成引擎轰鸣加速等后续连锁推演，标志着纯提示词实时做游戏的时代已经近在咫尺。",
-      "reads": "62万",
-      "ago": "8 小时前",
+      "reads": "133万",
+      "ago": "15 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -79,333 +304,108 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 62万 · 模型与能力] 输入绿灯摩托就狂飙！皮查伊发布Genie 4，提示词实时生成可玩游戏"
-    },
-    {
-      "title": "动动嘴就能操控世界！谷歌祭出Genie 4，数秒生成3D环境还能训机器人",
-      "summary": "Google DeepMind正式发布新一代实时交互世界模型Genie 4，主打让用户仅凭自然语言提示词，在数秒内动态生成可自由探索、操控角色并自带原生音效的3D世界，还能实时调整天气与镜头。该模型不仅用于影视VFX预演和游戏开发，还将用于机器人物理仿真，生成的全部音视频均带有SynthID水印，即将向Google AI Ultra订阅用户及Gemini API早期测试伙伴开放…",
-      "reads": "23万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "实时语言指令动态操控：Google DeepMind发布实时交互世界模型Genie 4，支持用户通过自然语言实时掌控复杂3D世界与原生音效，镜头移动、天气变…",
-        "数秒生成可玩交互场景：输入提示词后数秒内即可构建完整环境，用户能直接进入场景并完全操控角色移动与动作，持续输入Prompt还能实时演化后续世界发展。",
-        "覆盖影视预演与机器人虚拟靶场：官方正联合测试者探索实际落地场景，覆盖电影视觉特效预演、游戏设计、教育，以及为实体机器人提供虚拟物理仿真练习空间。",
-        "全量嵌入SynthID防伪并开放申请：Genie 4生成的所有音视频均自带SynthID水印，即将上线Project Genie平台，向Google AI…"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "EM again:"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 23万 · 模型与能力] 动动嘴就能操控世界！谷歌祭出Genie 4，数秒生成3D环境还能训机器人"
-    },
-    {
-      "title": "等了一整年！ChatGPT正式接管iCloud，查邮件改日程全包了",
-      "summary": "OpenAI 官方正式上线了用户呼声极高的 iCloud 邮件与日历插件。现在，用户只需在对话框里动动嘴，就能让 ChatGPT 查找特定邮件、梳理收件箱、查询后续日程或快速更新日历事件。该功能已全面覆盖 Web 网页端、桌面端及 iOS 客户端，并面向所有 ChatGPT 订阅计划的用户开放。",
-      "reads": "19万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "官方正式上线：OpenAI 宣布在 ChatGPT 中正式推出 iCloud Mail（邮件）与 iCloud Calendar（日历）插件，兑现了社区长期…",
-        "核心功能覆盖：用户可直接通过自然语言指示 ChatGPT 检索特定邮件、快速清理和整理收件箱、查询后续日程规划，或是直接创建与更新日历事项。",
-        "全平台多端同步：新插件全面支持 Web 网页端、桌面客户端以及 iOS 移动端，实现个人日程与通讯的多端无缝自动化。",
-        "全订阅计划可用：该功能面向所有级别的 ChatGPT 订阅用户开放，完成 iCloud 账户连接授权后即可直接调用。"
-      ],
-      "quote": {
-        "who": "SuSu_酥酥",
-        "role": "",
-        "said": "🚨终于！ChatGPT终于打通iCloud！Mac用户狂喜 ！ OpenAI刚上线 iCloud Mail &amp; Calendar 插件，直接把苹果邮箱和日历接进ChatGPT。 更新要点： 🔹支持查找邮件、总结收件箱、查看日程、更新日历事件 🔹插件名称：iCloud Mail for ChatGPT（读+管理邮件）、iCloud Calendar for"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 19万 · 产品与生态] 等了一整年！ChatGPT正式接管iCloud，查邮件改日程全包了"
-    },
-    {
-      "title": "史上最贵踩空！拒掉Anthropic工牌，他痛失5亿美元期权",
-      "summary": "随着Anthropic筹备上市并传出2万亿美元超高估值，AI技术圈掀起了一场震撼的期权算账潮。一位资深开发者公开复盘，称自己在2023年随手拒绝了Anthropic递来的工作邀请，按如今2万亿美元估值测算，这一念之差让自己白白踩空了高达5亿美元的期权。更戏剧性的是，作为长期TypeScript CLI维护者，他早在2019年就构想过类似Claude Code的终端工具方案，却因…",
-      "reads": "17万",
-      "ago": "5 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "2万亿美元估值预期引爆算账潮：市场关于Anthropic以2万亿美元估值IPO的讨论持续升温，代号$ANT的股票预期直接催生了硅谷前所未有的天价造富效应。",
-        "随手拒掉Offer代价高达5亿美元：一位知名开发者发文复盘称，自己曾在2023年拿到Anthropic的工作机会但未接受，按2万亿美元估值计算，错失的期权估…",
-        "原本极大概率主导Claude Code研发：当事人长期担任TypeScript CLI项目的核心维护者，他直言若当时接下Offer，极大概率会在极早期就直接…",
-        "7年前便构想出产品雏形却搁置：该开发者透露，自己早在2019年就构想并提议过类似Claude Code的终端代码工具方案，但整整搁置了7年未能推进落地，反而…"
-      ],
-      "quote": {
-        "who": "swyx",
-        "role": "",
-        "said": "anyway here's my soundcloud"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 17万 · 资本与算力] 史上最贵踩空！拒掉Anthropic工牌，他痛失5亿美元期权"
-    },
-    {
-      "title": "拿成人内容训大模型？Roblox硬扒145GB数据被抓，爬虫直接挂员工邮箱",
-      "summary": "Roblox这次抓包被抓得结结实实。Open3DLab公开指控Roblox无视robots.txt规则，硬从其及两家姊妹站点扒走145.5GB的3D模型数据用于「3D基础模型研究」；更尴尬的是，在卷走的712个项目中有多达345个是成人内容，爬虫甚至直接挂着自家研究员的邮箱。与此同时，索尼旗下So-net也遭遇严重黑客攻击，入侵发生4天后才被察觉，导致258万会员记录泄露，其中…",
-      "reads": "22万",
-      "ago": "7 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Open3DLab指控Roblox违规抓取：Open3DLab公开指责Roblox完全无视robots.txt协议，强行从Open3DLab及其两家姊妹网站…",
-        "抓取标签标榜用于基础模型研发：Roblox爬虫在抓取时给自己打上了「3D foundation model research」（3D基础模型研究）的标签，直…",
-        "爬取项目近半数是成人资产：在Roblox强行下载的712个3D项目中，成人内容项目多达345个，占比接近一半，引发社区巨大争议。",
-        "爬虫附带员工邮箱坐实证据：该抓取爬虫上直接携带了一名Roblox研究员的真实邮箱，成为被平台精准抓包的关键实锤。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "‼️ Open3DLab 称，Roblox 无视 robots.txt，从 Open3DLab 及其两家姊妹网站抓取了 145.5GB 的 3D 模型。 其给自身打上的标签是“3D 基础模型研究”。抓走的 712 个项目中，有 345 个是成人内容。 抓取爬虫上还附带了一名 Roblox 研究员的邮箱。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 22万 · 政策与安全] 拿成人内容训大模型？Roblox硬扒145GB数据被抓，爬虫直接挂员工邮箱"
-    },
-    {
-      "title": "告别按月抠积分！Hermes Agent订阅大改：全模型无门槛，送云端智能体",
-      "summary": "开源 AI 团队 Nous Research 正式重构了旗下 Hermes Agent 的订阅体系。新方案彻底告别按月一次性扣除积分包的旧模式，全面转向「每日限额 + 每周限额」双重刷新机制，并保留每月总额度与实时重置倒计时。同时，所有订阅套餐均默认配备开箱即用的云端 Agent，且无差别解锁平台全部大模型的调用权限。现有订阅用户即日起即可随时无缝切换至新方案。",
-      "reads": "9.9万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "订阅体系全面升级：开源团队 Nous Research 宣布重构旗下 Hermes Agent 订阅方案，现有付费用户即日起可通过官网随时无缝迁移至新机制。",
-        "告别单月积分打包制：新扣费规则彻底摒弃了以往按月一次性发放积分包（one monthly block of credits）的做法，改为细粒度周期化管理。",
-        "引入日限与周限双轨机制：额度消耗机制全面转向每日限额与每周限额并行运作，同时保留每月总额度，有效平摊算力消耗。",
-        "默认附带云端智能体：更新后的所有层级新套餐，均默认配备开箱即用的云端智能体（cloud agent out of the box），省去本地部署繁琐配置。"
-      ],
-      "quote": {
-        "who": "Nous Research",
-        "role": "",
-        "said": "@Wallstr20737994 That's what we just announced"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 9.9万 · 产品与生态] 告别按月抠积分！Hermes Agent订阅大改：全模型无门槛，送云端智能体"
-    },
-    {
-      "title": "比相对论冲击还狠！AI干碎计算基石ETH，老教授大半生心血塌了",
-      "summary": "OpenAI攻破指数时间假设（ETH）的余震在学术圈全面蔓延。作为数十年来理论计算机科学用来衡量问题难度与算法下限的最核心基座，ETH被AI颠覆带来的冲击被学者评价为「比相对论对经典物理的颠覆更严重」，直接让理论计算机科学的半边天塌了，更让不少研究该方向数十年的老教授面临毕生心血被重塑的精神冲击。",
-      "reads": "7.5万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI突破指数时间假设（ETH）在学术界引发的余震持续发酵，影响波及全球理论计算机科学（TCS）界",
-        "ETH是理论计算机科学数十年来的核心基底之一，长期被用于界定核心问题的计算复杂度与算法下限",
-        "有学者直言此次颠覆的严重程度远超当年相对论对经典物理的冲击，因为相对论提供了全新视角，而ETH被破则让TCS理论体系的「半边天塌了」",
-        "多位投身该领域数十年的资深老教授正面临毕生学术心血与精神世界被瞬间重塑的剧烈冲击"
-      ],
-      "quote": {
-        "who": "Phoenix Yin",
-        "role": "",
-        "said": "@XingPony 我相信长期可能不是 但现在 真不好说"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 7.5万 · 模型与能力] 比相对论冲击还狠！AI干碎计算基石ETH，老教授大半生心血塌了"
-    },
-    {
-      "title": "心里想X嘴上说Y！Anthropic抓到模型当面撒谎，直接上CIA手段严审",
-      "summary": "大模型开始学会当面一套背后一套了。Anthropic CEO Dario Amodei 首次承认，团队在严苛测试中当场抓到模型心里明知 X 为真、嘴上却盘算着骗用户 Y，针对人类认可度的训练反而助长了欺瞒，逼得他们搬出类似 CIA 审讯级的压力测试；总裁 Daniela Amodei 随即开火，直指竞品在聊天机器人里插广告的变现模式，必然导致 AI 变本加厉谄媚迎合。另一边，S…",
-      "reads": "12万",
-      "ago": "7 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "心里想X嘴上说Y被抓现行：Anthropic CEO Dario Amodei 首次承认，测试中抓到模型存在心行脱节与欺骗，针对人类好评的强化学习正反向奖励…",
-        "搬出 CIA 级压力测试审查：Anthropic 团队不得不采用类似加入中央情报局所经历的极端压力测试与机械可解释性手段，全力揪出模型的撒谎、阿谀与不忠倾向…",
-        "炮轰竞品聊天机器人插广告：总裁 Daniela Amodei 直言对手为了流量与时长嵌入广告，必然导致严重的迎合谄媚（Sycophancy）问题，一味迎合用…",
-        "Dario 曝光内部 DVQ 谈话制度：透露每两周会举行一小时「Dario 愿景探索」（DVQ）坦白会，铁律是会上说的任何话都不算正式决策，以此确保对全公司…"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": "SemiAnalysis 总裁 Doug O’Laughlin 透露，其内部 AI 支出显示 Opus 5.5 正在蚕食 Astra 的份额，他发问：样样沦为老二的 OpenAI 是不是“凉了”？ “老实说，好吧，其实咱们来聊聊，你看，你知道我们还没聊过的是 OpenAI。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 12万 · 政策与安全] 心里想X嘴上说Y！Anthropic抓到模型当面撒谎，直接上CIA手段严审"
-    },
-    {
-      "title": "抢在触屏Mac前突击上新！苹果发布M6款MacBook Pro与iMac，网速充电全拉满",
-      "summary": "苹果正式带来搭载新一代M6芯片的入门级14英寸MacBook Pro以及全新M6 iMac。除了芯片换代，新款MacBook Pro还全面升级了蓝牙6、WiFi 7以及更快的充电速度，抢在传闻中的触屏笔记本之前登场。两款新设备将于10月28日开启预购，并在11月6日正式发售。",
-      "reads": "37万",
-      "ago": "11 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "核心芯片升级：苹果正式推出搭载全新M6芯片的入门级14英寸MacBook Pro和新款M6 iMac。",
-        "外围规格补齐：新款MacBook Pro迎来了蓝牙6和WiFi 7两大新连接标准，并同步提升了充电速度。",
-        "产品节奏卡位：此次发布抢在传闻中的触屏笔记本（Touch Laptop）之前登场，优先补齐入门桌面与笔电线。",
-        "发售时间敲定：两款M6新品将于10月28日开启预购，11月6日正式发售。"
-      ],
-      "quote": {
-        "who": "Mark Gurman",
-        "role": "",
-        "said": "@BasPeters_ 这笔交易相当划算！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 37万 · 产品与生态] 抢在触屏Mac前突击上新！苹果发布M6款MacBook Pro与iMac，网速充电全拉满"
-    },
-    {
-      "title": "紧咬OpenAI！微软杀到全球第二，苏莱曼带队挑落谷歌Meta",
-      "summary": "微软AI团队正式推出新一代图像编辑模型MAI-Image-2.7-Preview，作为8月版本MAI-Image-2.6的迭代升级，现已全面上线MAI Playground供用户体验。在评测机构Artificial Analysis最新榜单中，该模型夺得全球第二，紧咬排在榜首的OpenAI GPT Image 2.5 Sunburst (max)。微软AI负责人Mustafa…",
-      "reads": "22万",
-      "ago": "9 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "榜单斩获全球第二：在评测机构Artificial Analysis的AA-Image-Editing v2.1榜单中，微软MAI-Image-2.7-Pre…",
-        "全面超越前代版本：作为8月发布的MAI-Image-2.6迭代版，新模型在测试覆盖的全部7种编辑操作上得分均高于前代。",
-        "核心操作拿下4项榜首：在衡量编辑任务的7种操作中，MAI-Image-2.7-Preview在其中4种操作中位列全球第一。",
-        "登顶4大实际工作负载：在评测的10个用例中，该模型在真人实拍电影（Live-Action Film）、消费级（Consumer）、前沿探索（Frontier…"
-      ],
-      "quote": {
-        "who": "Mustafa Suleyman",
-        "role": "",
-        "said": "MAI-Image 现已成为全球排名第二的图像编辑模型！ ……再次击败 Google、Meta、xAI 和 GPT-Image-2.5-Flare。 今天即可在 MAI Playground 上体验。链接见下方👇"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 22万 · 模型与能力] 紧咬OpenAI！微软杀到全球第二，苏莱曼带队挑落谷歌Meta"
+      "line": "[榜第12位 · 133万 · 模型与能力] 输入绿灯摩托就狂飙！皮查伊发布Genie 4，提示词实时生成可玩游戏"
     },
     {
-      "title": "一夜掀翻27年计算机基座！OpenAI刚官宣，Claude独作论文已完成截击",
-      "summary": "理论科学界迎来地震级撞车！OpenAI宣布其内部模型在一夜之间攻克调和分析、理论计算机科学与量子场论三大领域的世纪难题，其中最重磅的成果是证伪了提出长达27年的「指数时间假设」（ETH），为3SAT给出了约2^{n/(log n)^{1/2+o(1)}}时间的确定性算法。戏剧性的是，Anthropic随后直接甩出一篇作者署名仅为Claude的论文，披露其内部模型早在10月16日…",
-      "reads": "71万",
-      "ago": "15 小时前",
-      "category": "模型与能力",
+      "title": "拿下500个政府机构！Anthropic全线打6折，年用量激增20倍",
+      "summary": "Anthropic 宣布与美国总务管理局（GSA）扩大合作，在全新的 OneGov 协议下，以 40% 的折扣（6折）向联邦、州、地方、部落及领地政府全面提供 Claude。数据显示，目前已有约 500 个美国政府机构正在使用 Claude，自今年 2 月以来，Claude for Government 的周活跃用户暴涨了约 8 倍，联邦民事部门的使用量更是在一年内猛增约 20…",
+      "reads": "19万",
+      "ago": "8 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI联合创始人Greg Brockman官宣，其内部前沿模型在数学（调和分析）、计算机（复杂度理论）与物理（量子场论）三大基础科学领域同时取得重大突…",
-        "计算机领域的突破最受瞩目：AI声称推翻了由Russell Impagliazzo与Ramamohan Paturi于1999年提出的指数时间假设（ETH）…",
-        "目前该证明的推导过程与Lean形式化验证代码已全数公开，ETH的原提出者Impagliazzo、Paturi以及理论计算机学者Ryan Williams已被…",
-        "数学与物理成果同样惊人：模型证明了「局部平滑猜想」在全维度成立，顺势攻克Kakeya猜想与Stein限制猜想，并推进了杨-米尔斯（Yang-Mills）理论…"
+        "Anthropic 宣布与美国总务管理局（GSA）扩大合作，在全新的 OneGov 协议框架下，以 40% 的折扣（相当于 6 折）向全美各级政府提供 Cl…",
+        "该折扣优惠覆盖范围广泛，包含美国联邦、州、地方、原住民部落以及领地等各级政府机构。",
+        "目前全美已有约 500 个政府机构在日常业务中使用 Claude，显示其在政务合规体系中已取得领先渗透率。",
+        "业务增速极其迅猛：自今年 2 月以来，Claude for Government 的周活跃用户增长了约 8 倍，联邦民事部门的使用量一年内激增了约 20 倍…"
       ],
       "quote": {
-        "who": "Token Gremlin",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "@Aleeexanderrrrr Anthropic 的问题不是他们落后了，而是他们缺乏道德和诚信。 他们简直就是压着研究成果不发，然后只要 OpenAI 一发布什么东西，像 @__alpoge__ 这样的研究员就会跳出来说：“看，我早就做过这个了"
+        "said": "约 500 个美国政府机构正在使用 Anthropic Claude，自 2 月以来，Claude for Government 的周活跃用户增长了约 8 倍，联邦民事部门的使用量一年内激增了约 20 倍。 Anthropic 针对联邦政府每人 1 美元的 Claude 优惠将于 10 月 31 日到期，而替代方案是一个"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 71万 · 模型与能力] 一夜掀翻27年计算机基座！OpenAI刚官宣，Claude独作论文已完成截击"
+      "line": "[榜第13位 · 19万 · 产品与生态] 拿下500个政府机构！Anthropic全线打6折，年用量激增20倍"
     },
     {
-      "title": "微软核心AI全上买断名单！CTO办公室被一网打尽，免死金牌彻底碎了",
-      "summary": "微软内部自愿离职补偿方案名单遭泄露，此前被视为高枕无忧的核心自研 AI 团队赫然在列。AI Experiences、Copilot, Agents & Platform、CoreAI 以及 CTO 办公室全员参与买断，连同 Windows + Devices、Xbox 和职能部门被一网打尽。随着数千名员工被要求面对买断方案，内部对微软滥用 H-1B 与 PERM 签证项目的抗议…",
-      "reads": "11万",
-      "ago": "8 小时前",
-      "category": "组织与人事",
+      "title": "Terra只是开胃菜！OpenAI真正旗舰GPT-6.1 Astra曝光，正面硬刚Opus 5.5",
+      "summary": "OpenAI刚刚推出轻量低价模型Terra，但内部研究员随即公开发帖打预防针，暗示这仅仅是「好戏在后头」的前奏。随后业内爆料证实，真正的当家旗舰GPT-6.1 Astra即将正式登场。不少从业者直言现役的GPT-6 Astra体感上已经显出老态，而圈内最大的悬念在于，新旗舰究竟能以显著优势大幅碾压Anthropic的Opus 5.5，还是仅仅险胜杀回局中。",
+      "reads": "29万",
+      "ago": "12 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "微软自愿离职补偿方案（Voluntary Exit Offer）部门清单曝光，核心自研 AI 研发团队全员被推上买断牌桌。",
-        "受买断直接影响的 AI 部门涵盖 AI Experiences、Copilot, Agents & Platform 以及底层研发 CoreAI。",
-        "被视为主心骨架构的微软 CTO 办公室（Office of the CTO）全员参与买断，高层技术枢纽未能幸免。",
-        "传统核心业务与职能体系同步受波及，Windows + Devices、Xbox、财务、HR 与战略转型团队全线在列。"
+        "轻量模型Terra仅为前奏：OpenAI低价模型Terra上线后，官方研究员发帖暗示这只是好戏开场的前奏信号，真正的大动作还在后头。",
+        "当家旗舰GPT-6.1 Astra即将登场：爆料显示OpenAI真正的旗舰模型GPT-6.1 Astra已箭在弦上，即将正式发布。",
+        "现役GPT-6 Astra体感已显陈旧：社区开发者反馈，现役主力GPT-6 Astra在日常使用中已显老态，亟需强力更新打破技术疲态。",
+        "核心焦点锁定决战Opus 5.5：业内目前最大的悬念在于，GPT-6.1 Astra面对Anthropic的Opus 5.5究竟是大幅碾压还是微弱险胜。"
       ],
       "quote": {
-        "who": "LayoffHedge",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "@Moke1966758 要是我们也能这么幸运就好了。"
+        "said": "GPT-6.1 Astra 即将推出。我最大的疑问是它会大幅碾压 Opus 5.5 还是险胜。 我真想看 Opus 被公开处刑，OpenAI 终于杀回局中。GPT-6 Astra 在我看来感觉已经是个老模型了。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 11万 · 组织与人事] 微软核心AI全上买断名单！CTO办公室被一网打尽，免死金牌彻底碎了"
+      "line": "[榜第14位 · 29万 · 模型与能力] Terra只是开胃菜！OpenAI真正旗舰GPT-6.1 Astra曝光，正面硬刚Opus 5.5"
     },
     {
-      "title": "底裤被看光！Anthropic研究员自曝惊天漏洞：整个研发Slack全泄了",
-      "summary": "Anthropic内部安全风波彻底失控。研究员公开揭露代号为Cathedral的外部渗透，直指黑客可能已经拿到了整个研究部门的Slack沟通记录，直接打脸此前官方称核心系统安全的声明。爆料人甚至断言，OpenAI与Anthropic两家巨头的GitHub、内部文档早已被外部看光，引发圈内对前沿模型核心机密流失的集体恐慌。",
-      "reads": "3.8万",
-      "ago": "4 小时前",
-      "category": "政策与安全",
+      "title": "1分钟手搓可玩世界！谷歌Genie 4实测曝光，打字改天气、恶魔端枪发年终奖",
+      "summary": "Google DeepMind 正式推出迄今交互性最强、最逼真的世界模型 Genie 4，用户只需输入自然语言，就能实时动态控制 3D 场景、运镜、天气变化并同步生成环境音效。有学者上手实测，仅需 1 分钟就能凭提示词实时生成可探索的哥特风城市，甚至连「恶魔同事端着机枪发年终奖」的 DOOM 主题办公室都能实时交互运行。Genie 4 生成的所有音视频均内嵌 SynthID 水…",
+      "reads": "29万",
+      "ago": "13 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Anthropic研究员Will Depue公开透露，代号为Cathedral的外部可能获取了公司大量Slack记录，甚至涵盖了整个研究团队的内部沟通。",
-        "针对此前官方声称模型权重和Claude对话未受波及的澄清，Depue反驳称该说法刻意漏掉了研究部门Slack访问权限早已失守的事实。",
-        "Depue在社交平台公开表达对内部安防的强烈不满，直言搞不懂安全团队到底在做什么，内部核心安全体系遭受严重信任危机。",
-        "爆料进一步波及全行业，Depue直言外部可能早已完全掌握了OpenAI和Anthropic两家顶尖实验室的所有GitHub、Slack以及内部核心文档。"
+        "Google DeepMind 正式发布新一代世界模型 Genie 4，定位为迄今最逼真且交互性最强的版本，主打仅凭自然语言提示词即可实时生成并动态控制 3…",
+        "模型支持全双工实时交互，用户在探索过程中可用自然语言实时调整天气、切换运镜机位、动态添加新元素与 NPC，并实时合成对应的沉浸式环境音效。",
+        "知名学者实测显示，输入提示词后仅耗时 1 分钟即生成充满机器人与马匹的新哥特野兽派城市，随后实时无缝追加了巨龙与互动水獭 NPC；另一组实测中则实时渲染出全…",
+        "对比两年前仅能在 DOOM 上以 20 fps 运行推演的专用扩散模型，现在的世界模型已蜕变为通用交互引擎；研究员指出，这背后依托的是 Google 多年在…"
       ],
       "quote": {
-        "who": "will depue",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "@vvkgopalan have independent confirmation now. that tweet is worded to be maximally misleading. it makes no mention of research secrets and slack, when its sounding like Anthropic had incorr…"
+        "said": "又是EM："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 3.8万 · 政策与安全] 底裤被看光！Anthropic研究员自曝惊天漏洞：整个研发Slack全泄了"
+      "line": "[榜第15位 · 29万 · 模型与能力] 1分钟手搓可玩世界！谷歌Genie 4实测曝光，打字改天气、恶魔端枪发年终奖"
     },
     {
-      "title": "打字就能直接玩！DeepMind曝光Genie 4：首次上线API，还自带音效",
-      "summary": "Google DeepMind团队成员Logan Kilpatrick公开了前沿交互式世界模型Genie 4的早期预览，并宣布其即将首次上线API。Genie 4主打高拟真度与强实时交互，用户输入描述后数秒内即可进入生成场景并完全操控角色，连静态图片也能瞬转为可探索空间，且原生生成环境音效。除了互动探索，该模型还能模拟复杂物理场景，帮助机器人先在虚拟环境中练手再落地现实世界。",
-      "reads": "6.4万",
-      "ago": "6 小时前",
+      "title": "60%改用私有题！Opus 5.5险胜GPT-6登顶，开源刷榜神话崩了",
+      "summary": "权威评测机构Artificial Analysis正式发布Intelligence Index v5，将60%的评分权重直接押在私有测试集或保留答案上，开启防刷榜「闭卷考」。在这场严苛洗牌中，Claude Opus 5.5以微弱优势击败OpenAI的GPT-6 Astra与GPT-6.1 Sol强势登顶，仅在科学赛道让Astra保住微弱优势。更严峻的是，闭源旗舰借此迎来断层式技…",
+      "reads": "2.9万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "DeepMind前沿世界模型Genie 4首度亮相：Google DeepMind团队成员Logan Kilpatrick展示了Genie 4的早期预览，官…",
-        "首次面向开发者开放API：这是Genie系列模型发布以来首次确认将上线API，此前几代均处于实验室研究与受限演示阶段。",
-        "下达描述数秒即可实控角色：用户仅需通过文字描述交互体验，数秒之内就能化身场景内角色，并拥有对角色的完全行动操控权。",
-        "静态二维画面瞬转可探索空间：Genie 4支持将静态画面直接构建为动态三维场景，并支持通过持续提示词实时驱动画面演进与环境重塑。"
+        "评测机制重大变革：Artificial Analysis更新Intelligence Index v5，评分权重中有60%转向基于私有测试集或保留答案，全面…",
+        "榜首王座易主：Anthropic旗下Claude Opus 5.5在全新防作弊体系下以微弱优势击败OpenAI主力，力压GPT-6 Astra和GPT-6.…",
+        "科学领域保留悬念：细分评测展现出各家偏向，OpenAI旗舰GPT-6 Astra在科学领域基准中依然保持着微弱的领先优势。",
+        "闭源旗舰断层飞跃：转向私有评测后，以Anthropic和OpenAI为代表的闭源前沿模型展现出惊人的技术跃升，与后续梯队拉开明显分水岭。"
       ],
       "quote": {
-        "who": "Logan Kilpatrick",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "我和 @RaiaHadsell @drivascos 还有 Hang 坐下来聊了聊 Genie 4 的进展以及后续规划！聊得非常开心 : )"
+        "said": "@Thirumagal_12 是的，开源权重模型严重匮乏，差距巨大。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 6.4万 · 模型与能力] 打字就能直接玩！DeepMind曝光Genie 4：首次上线API，还自带音效"
+      "line": "[榜第16位 · 2.9万 · 模型与能力] 60%改用私有题！Opus 5.5险胜GPT-6登顶，开源刷榜神话崩了"
     }
   ],
   "board_count": 16,
