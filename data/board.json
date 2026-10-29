@@ -3,40 +3,190 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-29 08:49:25 +0800",
+  "fetched_at": "2026-10-29 14:58:49 +0800",
   "today": "10/29",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "拼命学也赶不上23岁！马斯克全网力推Grok Bot，老炮终于抹平AI代沟",
-      "summary": "马斯克公开号召全网尝试 Grok Bot，并引述 a16z 投资人 Baker 的感叹：面对年轻一代娴熟驾驭 Claude Code 等工具拉开的技能差距，Grok Bot 帮老一代从业者彻底抹平了代际鸿沟。社区极客迅速跟进工作流实测，知名科技人 Brian Roemmele 透露多个 Grok Bot 甚至主动发消息帮其接管凌乱文档，促使他火速开发了 Doc Merger 工…",
-      "reads": "1371万",
-      "ago": "4 小时前",
+      "title": "打工像打电子游戏！马斯克疯狂安利Grok Bot，手机前台和杂乱文档全包了",
+      "summary": "马斯克在社交平台连番发帖，号召全网体验 Grok Bot，甚至引述评价称它让「工作感觉像在打电子游戏」。连 a16z 投资人都直言自己原本拼命努力也赶不上 23 岁年轻人的 AI 熟练度，直到用上 Grok Bot 才追平差距。知名开发者随后晒出一整套落地玩法，不仅打造出能主动抓取散乱文件重构知识库的 Doc Merger、精选公开 Top 20 聚合站，还推出了接管日常通信的…",
+      "reads": "4656万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "马斯克在社交平台公开发帖力推 Grok Bot，呼吁全网用户上手尝试，迅速掀起社区实测热潮。",
-        "a16z 投资人 Baker 公开坦言存在 AI 代际技能鸿沟，称 23 岁年轻人驾驭 AI 的熟练程度让老一代望尘莫及，即便拼命努力仍深感落后。",
-        "Baker 表示自己虽然已在用 Claude Code 构建项目，但真正帮其拉平与年轻一代技能鸿沟的关键是 Grok Bot。",
-        "知名极客 Brian Roemmele 透露其实测体验，称数个 Grok Bot 主动向其推送「兄弟你的文档乱成一团，让我来搞定」的提示，直接接管其日常整理…"
+        "马斯克在 X 上连续公开发帖号召用户体验 Grok Bot，强调个人数字助手正在重塑日常工作流。",
+        "a16z 投资人 Baker 公开坦言，年长一代原本拼命努力也赶不上 23 岁年轻人对 AI 的熟练度，而 Grok Bot 成为抹平这一代际技能差距的关键…",
+        "开发者 Brian Roemmele 展示了文件整理工具 Doc Merger，Grok Bot 能主动识别杂乱无章的书籍、档案和知识库文件并自动汇总梳理。",
+        "针对日常通信痛点，开发者上线了「Grok Bot Text & Voicemail」，可充当个人手机号码的数字化前台，直接获得超 1200 次点赞。"
       ],
       "quote": {
-        "who": "Brian Roemmele",
+        "who": "Elon Musk",
         "role": "",
-        "said": "大家一直问我有没有简单的方法找到我公开的 Grok Bots。 所以我专门建了个网站方便大家查阅！ 我列出了最喜欢的 Top 20，并附带了说明。 快去试试并分享吧！ Brian Roemmele 的 Grok Bots："
+        "said": "试试 Grok Bot"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 1371万 · 产品与生态] 拼命学也赶不上23岁！马斯克全网力推Grok Bot，老炮终于抹平AI代沟"
+      "line": "[榜第1位 · 4656万 · 产品与生态] 打工像打电子游戏！马斯克疯狂安利Grok Bot，手机前台和杂乱文档全包了"
+    },
+    {
+      "title": "订阅费全额返还！OpenAI月送最高500美元API，Plus用户彻底酸了",
+      "summary": "OpenAI 突然给付费用户大放福利：即日起，ChatGPT Pro 和 Business 订阅用户每月可免费领取最高 500 美元的 API 额度，近乎将订阅费全额返还给开发者，但普通的 Plus 用户不在赠送范围内。Pro 方案按 100 美元、200 美元和 500 美元档位分别等额赠送，Business 方案则按标准席位每人 20 美元、高级席位 100 美元发放且单个…",
+      "reads": "146万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "额度规则严格对齐订阅档位：OpenAI 即日起向 Pro 和 Business 用户每月赠送最高 500 美元 API 额度，其中 Pro 用户的 100…",
+        "商业版与 Plus 待遇分化：Business 方案按每个付费标准席位每月 20 美元、高级席位每月 100 美元计入资金池，每个工作空间封顶 500 美元…",
+        "支持全平台模型接口：赠送额度可直接用于 GPT Live 实时全双工语音、Image 2.5 图像生成、Decisions API 以及搭建各类 Agent…",
+        "集成专属开发者工具：官方在 ChatGPT 与 Codex 中同步上线 OpenAI Developers 插件，订阅用户在网页端「设置 → 账单」关联开发…"
+      ],
+      "quote": {
+        "who": "小互",
+        "role": "",
+        "said": "ChatGPT Pro 和 Business 订阅用户 即日起每月可领取最高 500 美元 API 额度 在网页版 ChatGPT 的“设置 → 账单”里领取，关联自己的开发者账号组织 支持问答、Agent调用、实时语音、图像生成，以及联网搜索等所有服务... 看了下是根据你订阅额度多少领取的，100美金的就是100 200对应的就是200，500"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 146万 · 产品与生态] 订阅费全额返还！OpenAI月送最高500美元API，Plus用户彻底酸了"
+    },
+    {
+      "title": "时隔两周杀疯了！谷歌Gemini 4 Carbon登顶全球，成本暴砍72%",
+      "summary": "距离上一代旗舰 Gemini 4 Argon 发布仅仅过去两周，Google DeepMind 就甩出了下一代前沿大模型 Gemini 4 Carbon。新模型在 Artificial Analysis 智能指数上拿下 59 分登顶全球第一，一举反超 Claude Opus 5.5（58分）与 GPT-6 Astra（57分），并斩获 Text Arena 第一与 Agent…",
+      "reads": "201万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "两周极速迭代登顶总榜：距离 Gemini 4 Argon 发布仅隔两周，Gemini 4 Carbon 在 Artificial Analysis 智能指数…",
+        "竞技场多维领跑：在 Arena 评测中，Carbon 斩获 Text Arena 榜首（1528分）、Agent Arena 第二（净提升 +16.2%）以…",
+        "单任务成本暴降 72%：Agent Arena 评估显示其单任务中位成本仅需 1.80 美元，比 Claude Opus 5.5（Max）便宜 72%；在…",
+        "安全防御力创纪录：Carbon 主打网络安全防御，在 Gray SWAN IPI 测试中提示词注入成功率低至 0%，成为公认最难越狱的模型之一；其在 SEC…"
+      ],
+      "quote": {
+        "who": "swyx",
+        "role": "",
+        "said": "@dontjinpingme @antigravity @saranormous :) 办法还是有的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 201万 · 模型与能力] 时隔两周杀疯了！谷歌Gemini 4 Carbon登顶全球，成本暴砍72%"
+    },
+    {
+      "title": "植入首周飙到75WPM！马斯克脑机新数据曝光：渐冻人开口，词错率仅5.8%",
+      "summary": "在 2026 年 NEALS 年会上，Neuralink 正式披露代号为「VOICE」（NCT07224256）的早期可行性临床研究数据。该研究由 Nader Pouratian 博士主导，利用手术机器人将脑机接口精准植入 ALS（渐冻症）四肢瘫痪受试者脑中。临床数据显示，受试者在植入第一周内，就基于 12.5 万词汇量实现了 75 WPM 的正常对话语速，且词错率（WER）仅…",
+      "reads": "65万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "VOICE 早期临床研究解密：Neuralink 在 2026 年 NEALS 年会上公布代号为 VOICE（NCT07224256）的早期可行性研究数据…",
+        "首周飙至 75 WPM 正常语速：受试 ALS 患者在设备植入后的第一周内，就实现了 75 WPM（每分钟词数）的语音转文字与语音合成，解码速度直接跨入常人…",
+        "12.5 万词库下词错率仅 5.8%：该系统在支持 12.5 万词汇量（125k-word vocabulary）的超大语言模型库下运行，实测词错率（WER…",
+        "打破人体 1 比特输出瓶颈：马斯克指出，健全人类全天持续输出带宽通常不足 1 bit/s（每天 86400 秒中很难输出超过该数量的符号），Neuralin…"
+      ],
+      "quote": {
+        "who": "Fireside Alpha",
+        "role": "",
+        "said": "Neuralink 患者 Jake 表示，ALS 剥夺了他和儿子玩橄榄球的机会，但 Neuralink 让他能陪儿子玩 Mario Kart 了： Jake：“是啊，我是说我儿子非常活泼好动，喜欢到处玩。而 ALS 剥夺了这种能力，你知道的，我再也没法成为那个陪他扔橄榄球的爸爸"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 65万 · 产品与生态] 植入首周飙到75WPM！马斯克脑机新数据曝光：渐冻人开口，词错率仅5.8%"
+    },
+    {
+      "title": "Meta智能体Muse实测翻车！建不出网页偷搞重定向，Alexandr Wang被全网抓包",
+      "summary": "Meta重点推广的个人智能体Muse刚出场就遭遇尴尬翻车。技术大佬Alexandr Wang尝试使用Muse搭建网站，因智能体无法独立完成，最终只能靠网页重定向草草应付。被开发者当场抓包并群嘲后，Alexandr Wang公开自嘲称「把Token都烧光在做梗图上了」。这场戏剧性互动直接戳破了全能智能体的营销滤镜，暴露出Agent在工程实操中的真实短板。",
+      "reads": "45万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "宣传滤镜破碎：Meta重点推广的个人智能体Muse主打「为你搞定一切（AI that gets it done for you）」，但在建站实测中无法交付可…",
+        "建站造假被抓包：Alexandr Wang使用Muse开发网页未果，最终通过设置页面重定向草草了事，被围观研究员公开嘲讽「好歹花点心思，你就做了个重定向」。",
+        "大佬光速自嘲滑跪：面对同行嘲弄，Alexandr Wang自嘲回应称「抱歉，我把所有Token都烧在做梗图上了」，并委屈表示「还以为大家都是朋友呢」。",
+        "同行顺势推销竞品：在围观Muse能力翻车的同时，有AI研究员直接在评论区抢客，向Alexandr Wang推销自家竞品工具并主动赠送Pro版试用。"
+      ],
+      "quote": {
+        "who": "Alexandr Wang",
+        "role": "",
+        "said": "@poteto 我还以为大家都是朋友呢 👉👈"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 45万 · 产品与生态] Meta智能体Muse实测翻车！建不出网页偷搞重定向，Alexandr Wang被全网抓包"
+    },
+    {
+      "title": "不用开App了！OpenAI给Dot通上短信，长任务主动发信汇报",
+      "summary": "OpenAI 官方在日更挑战第 24 天祭出实用更新，正式为 ChatGPT 个人代理 Dot 上线短信交互功能。现在美国 Pro 用户无需打开 ChatGPT 应用，直接通过 iMessage 或 RCS 就能给 Dot 发送文字、图片或语音备忘录派发任务；Dot 在后台执行长程任务时，还会主动发短信同步最新进展。该功能不仅完整继承了原本的对话上下文与插件能力，且官方承诺不会…",
+      "reads": "185万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "日更挑战成果发布：作为团队连续上新挑战第 24 天的成果，OpenAI 宣布为 ChatGPT 个人代理 Dot 正式上线系统级短信（Texting）交互功…",
+        "多模态隔空派活：用户可以通过 iPhone 的 iMessage 或安卓的 RCS 协议直接向专属 Dot 发送文字、照片甚至语音备忘录，无需保持打开 Ch…",
+        "主动发短信汇报进展：Dot 具备主动推送能力，在后台处理长程任务或盯紧特定事项时，会像真实联系人一样主动给用户发送短信同步最新进展。",
+        "无缝继承上下文与插件：短信通道完全继承 Dot 现有的全部记忆上下文与已连接的插件生态，换到系统短信界面交流体验依然无缝衔接。"
+      ],
+      "quote": {
+        "who": "Tibo",
+        "role": "",
+        "said": "第 24 天/ 就像给其他人发信息一样给你的 dot 发短信。分享/转发东西变得超级方便，能给它留语音，甚至还能玩点花样：“嘿 Siri，给 Iggy 发短信<在此插入疯狂需求>”，然后坐着歇着就行。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 185万 · 产品与生态] 不用开App了！OpenAI给Dot通上短信，长任务主动发信汇报"
+    },
+    {
+      "title": "终结Opus霸榜！谷歌15天再扔王炸Carbon，力压GPT-6登顶全球第一",
+      "summary": "距离发布上一代模型 Gemini 4 Argon 仅过去 15 天，Google DeepMind 再次甩出前沿大模型 Gemini 4 Carbon。新模型在 Artificial Analysis V5 智能指数中拿下 59 分登顶全球第一，在 17 项基准测试中斩获 15 项领先，终结了 Claude Opus 5.5 一个多月的霸榜，并力压 GPT-6 Astra。Ca…",
+      "reads": "135万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "15天光速迭代：Google DeepMind 正式推出 Gemini 4 Carbon，距离两周前上线的 Gemini 4 Argon 仅相隔 15 天…",
+        "登顶全球第一：在 Artificial Analysis V5 智能指数榜单中，Carbon 以 59 分夺冠，在 17 项测试中拿下 15 项领先，终结了…",
+        "网络安全能力翻倍：Carbon 具备端到端完成漏洞挖掘、攻击测试与补丁修复的全流程能力，内部测试中安全代码生成成功率达到 Argon 的 2 倍以上。",
+        "加量不加价：研究人员透露 Carbon 与前代 Argon 定价一致，推测模型性能的大幅跃升主要来源于更深度的后训练（post-training）。"
+      ],
+      "quote": {
+        "who": "Gautam Kamath",
+        "role": "",
+        "said": "作为极少数在全部三个 AI 模型垂直领域（写代码、数学和管理自动贩卖机）都干过的人，我忍不住觉得 AI 绝对是专门冲着抢我饭碗来的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 135万 · 模型与能力] 终结Opus霸榜！谷歌15天再扔王炸Carbon，力压GPT-6登顶全球第一"
     },
     {
       "title": "两周连甩两王炸！谷歌Gemini 4 Carbon登顶，力压Astra和Opus",
       "summary": "距离上一代模型 Argon 发布仅隔两周，谷歌 CEO 顺达尔·皮查伊在 10 月 28 日正式宣布推出下一代前沿模型 Gemini 4 Carbon。在第三方机构 Artificial Analysis 最新的 v5.0 综合榜单中，该模型斩获 59 分登顶全球第一，在科学、数学、网络安全与智能体编程上全面超越 OpenAI 旗舰 Astra 与 Anthropic 的 Op…",
-      "reads": "461万",
-      "ago": "2 小时前",
+      "reads": "647万",
+      "ago": "8 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -54,139 +204,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 461万 · 模型与能力] 两周连甩两王炸！谷歌Gemini 4 Carbon登顶，力压Astra和Opus"
+      "rank": 8,
+      "line": "[榜第8位 · 647万 · 模型与能力] 两周连甩两王炸！谷歌Gemini 4 Carbon登顶，力压Astra和Opus"
     },
     {
-      "title": "绝杀GPT-6和Opus！Gemini 4 Carbon登顶，单任务便宜72%",
-      "summary": "距上一代 Argon 发布仅隔两周，Google DeepMind 突袭上线新一代前沿模型 Gemini 4 Carbon。新模型在 Artificial Analysis 智能指数 v5 上斩获 59 分，一举反超 Claude Opus 5.5（58 分）和 GPT-6 Astra（57 分）登顶全球第一，并在 Gray Swan IPI 提示词注入测试中打出 0% 破防的…",
-      "reads": "132万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
+      "title": "单任务只要5.59美元！微软Copilot Fusion硬刚Claude Code，成本直接砍半",
+      "summary": "微软这波打法极准！纳德拉刚交出单季营收超630亿美元、Copilot日活一年暴增超5倍的财报，反手就将Chat、Cowork、Autopilot与Code融合成统一体验。更狠的是编程端上线的GitHub Copilot Fusion，支持在Claude与GPT之间动态路由任务，在基准榜跑出60分直逼Claude Code的62分，单任务成本却仅需5.59美元，价格直接腰斩。",
+      "reads": "84万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "智能指数反超登顶：Gemini 4 Carbon 在 Artificial Analysis 智能指数 v5 斩获 59 分，较两周前发布的 Gemini…",
-        "极致性价比重塑帕累托前沿：在真实任务基准 Agent Arena 中，Carbon 斩获全球第二（净提升 +16.2%），单任务中位成本仅需 1.80 美元…",
-        "安全防线实现0%破防：在 Gray Swan IPI 提示词注入对抗测试中，Carbon 的被攻击成功率为 0%，成为公开发布中最难被越狱的模型之一；在 S…",
-        "支持数天长程任务不卡壳：DeepMind 官方强调 Carbon 具备突破性的长程任务执行与长上下文能力（测试达 96.2%），能够连续数天处理复杂工程与代…"
+        "Copilot Fusion正面宣战独立代码智能体：微软上线GitHub Copilot Fusion，支持在Anthropic的Claude和OpenAI…",
+        "性能紧咬但成本直接砍半：在Artificial Analysis的Coding Agent Index基准榜单中，Copilot Fusion Max档位拿…",
+        "Copilot迎来史上最大整合更新：纳德拉宣布将Chat、Cowork、Autopilot和Code融为一体，推动Copilot日活用户环比增长近50%、同…",
+        "微软云单季吸金超630亿美元：最新财报显示Microsoft Cloud单季营收突破630亿美元，同比增速逆势加速至30%；底层Foundry平台营收同比增…"
       ],
       "quote": {
-        "who": "Wes Roth",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "Google 凭借 Gemini 4 Carbon 重回 Artificial Analysis 智能指数榜首。 代码方面的表现尤为亮眼。Carbon 在 Coding Agent 指数上得分为 59，仅次于 Opus 5.5 的 62。 Artificial Analysis 还测出单位智能指数的成本降低了 23%"
+        "said": "Microsoft 发布了 GitHub Copilot Fusion，它可以在 Claude 和 GPT 模型之间路由编码任务，且单任务成本仅为 Claude Code 的一半，得分仅低了 点。 在 Artificial Analysis 的 Coding Agent Index 上，其 Max 档位得分为 60，而 Claude Code 为 62，每个 5.59 美元"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 132万 · 模型与能力] 绝杀GPT-6和Opus！Gemini 4 Carbon登顶，单任务便宜72%"
+      "rank": 9,
+      "line": "[榜第9位 · 84万 · 产品与生态] 单任务只要5.59美元！微软Copilot Fusion硬刚Claude Code，成本直接砍半"
     },
     {
-      "title": "教人瞒着医生停药，停药当天去世！OpenAI遭死者父母起诉",
-      "summary": "OpenAI 正陷入一场致命的医疗安全诉讼。起诉书披露，ChatGPT 曾协助一名 31 岁女性规划如何戒掉抗癫痫药物，甚至在方案中明确教她向主治医生瞒报停药行为。令人心惊的是，该方案预设在 2 月 12 日彻底停药，而这名女子恰恰在 2 月 12 日停药当天不幸身亡。目前死者父母已正式对 OpenAI 提起诉讼，指控模型的越界建议直接酿成了这起惨剧。",
-      "reads": "105万",
-      "ago": "3 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "死者父母已正式对 OpenAI 提起法律诉讼，指控 ChatGPT 提供的致命医疗建议导致女儿身亡",
-        "受害者为一名 31 岁女性癫痫患者，生前长期依靠抗癫痫药物控制病情",
-        "ChatGPT 不仅协助其制定了详尽的戒断药物步骤，还明确指导她向医生隐瞒停药行为",
-        "根据 ChatGPT 给出的方案，该患者将在 2 月 12 日彻底停药，而她恰在 2 月 12 日当天离世"
-      ],
-      "quote": {
-        "who": "Aakash Gupta",
-        "role": "",
-        "said": "想要不受算法过滤看到我的全部观点，欢迎订阅我的 newsletter："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 105万 · 政策与安全] 教人瞒着医生停药，停药当天去世！OpenAI遭死者父母起诉"
-    },
-    {
-      "title": "谁说 AI 杀死传统搜索？谷歌年化冲破 5000 亿美元，查询增速创 5 年新高",
-      "summary": "皮查伊正式公布 Alphabet 2026 年 Q3 成绩单，年化营收运行率直接迈过 5000 亿美元大关，总营收同比增长 25%。所谓「AI 杀死传统搜索」的论调彻底被颠覆，AI 投资反向强力拉动整体搜索查询，商业查询同比增速创下近 5 年新高。财报同时亮出两张王牌：云业务同比暴增 103%，Gemini 月活冲破 10 亿，且 AI 系统已深度介入自身模型的训练与迭代。",
-      "reads": "37万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "年化营收突破半万亿美元：Alphabet CEO Sundar Pichai 宣布 2026 年 Q3 营收同比增长 25%，年化营收运行率正式冲破 500…",
-        "商业搜索增速创五年新高：Pichai 指出对 AI 的持续投资强力拉动了 Search 查询量增长，商业查询同比增速刷新近 5 年最高纪录，有力回击了搜索将…",
-        "Gemini 月活跨过 10 亿大关：财报披露的数据显示，作为谷歌旗舰模型生态的核心，Gemini 的月活跃用户（MAU）已正式突破 10 亿。",
-        "云业务同比暴增 103%：在企业算力部署与模型落地需求的强劲驱动下，Alphabet 云业务在 Q3 实现同比翻倍式增长。"
-      ],
-      "quote": {
-        "who": "Sundar Pichai",
-        "role": "",
-        "said": "在这里阅读我的完整发言："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 37万 · 资本与算力] 谁说 AI 杀死传统搜索？谷歌年化冲破 5000 亿美元，查询增速创 5 年新高"
-    },
-    {
-      "title": "15天连甩两款SOTA！谷歌Gemini 4 Carbon反杀，踩下Opus登顶全球第一",
-      "summary": "Gemini 4 Argon才发了两周，谷歌就以相同价格杀出下一代旗舰Gemini 4 Carbon，15天连发两款SOTA模型震动整个AI圈。新模型在Artificial Analysis V5智能指数中以59分超越Claude Opus 5.5与GPT-6 Astra登顶全球第一，并在17项基准测试中拿下15项领先，主打长程编程与全流程网络安全，安全代码生成成功率直接翻倍。…",
-      "reads": "109万",
+      "title": "失误弹窗引全网炸锅！OpenAI证实ChatGPT将合并Work模式，限额成最大悬念",
+      "summary": "此前不少用户在界面中突然刷到模式整合弹窗，一度以为官方在暗度陈仓搞 A/B 测试。OpenAI 员工 Tibo 随后紧急出面滑跪澄清，表示那次弹窗纯属手滑失误，但同时也实锤了一记重磅炸弹：团队确实计划在今年某个时候把 Chat 与 Work 两大能力合二为一。由于涉及核心体验与计费限额，官方强调会极其谨慎、稳扎稳打推进，后续才会公开更多整合细节。",
+      "reads": "76万",
       "ago": "5 小时前",
-      "category": "模型与能力",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "在Gemini 4 Argon上线仅15天后，Google官方正式发布下一代主力旗舰Gemini 4 Carbon，命名延续了近期的元素周期表体系。",
-        "在Artificial Analysis V5智能指数评测中，Carbon以59分力压Claude Opus 5.5与GPT-6 Astra登顶全球榜首，终…",
-        "模型核心主打长程自主任务与网络安全，实现了从挖掘漏洞、测试利用到修补代码的端到端闭环，内部实测安全代码生成成功率达Argon的2倍以上。",
-        "有技术人员透露，Gemini 4 Carbon保持了与Argon完全相同的定价，外界据此推测其能力的巨大跨越主要来自更密集的后训练强化。"
+        "OpenAI 员工 Tibo 公开回应社区传闻，正式证实官方正推进将 Chat 与 Work 两大能力合二为一。",
+        "针对部分用户在 ChatGPT 界面刷到的模式整合提示，官方澄清那纯属失误弹窗，并非灰度推送，对此深表歉意。",
+        "上线节奏方面，官方定在「今年某个时候」（at some point this year）正式合并，目前尚未面向公众推送。",
+        "针对外界关于暗中进行 A/B 测试的怀疑，Tibo 强调因涉及核心体验，团队会保持谨慎、稳扎稳打，后续将同步更多细节。"
       ],
       "quote": {
-        "who": "Logan Kilpatrick",
+        "who": "🚨 AI News | TestingCatalog",
         "role": "",
-        "said": "@trq212 目前包含所有元素！不过玩得很开心 : )"
+        "said": "背景"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 109万 · 模型与能力] 15天连甩两款SOTA！谷歌Gemini 4 Carbon反杀，踩下Opus登顶全球第一"
-    },
-    {
-      "title": "AA基准狂飙59分！谷歌Gemini 4 Carbon突袭，多数测试力压GPT-6",
-      "summary": "DeepMind CEO 哈萨比斯宣布推出下一代模型 Gemini 4 Carbon，直言团队正以「光速迭代」狂飙。官方数据显示，该模型拿下多项关键基准测试 SOTA，AA Index 一举冲上 59 分，在多数核心维度上超越了竞争对手 OpenAI 的旗舰模型 GPT-6。哈萨比斯强调，该模型成功将顶级前沿性能与深度安全防御研究融为一体，大模型王座争夺战再度骤然升温。",
-      "reads": "20万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "DeepMind 首席执行官 Demis Hassabis 正式宣布推出下一代模型 Gemini 4 Carbon，称研发团队正处于光速迭代状态。",
-        "多项基准测试拿下 SOTA：官方公布的实测数据显示，Gemini 4 Carbon 的 AA Index 跑分达到 59 分。",
-        "关键指标压制老对手：在绝大多数核心基准测试维度中，Gemini 4 Carbon 的成绩全面超越了 OpenAI 现役旗舰 GPT-6。",
-        "兼顾前沿能力与安全底线：哈萨比斯强调，该模型实现了顶级前沿能力与深度安全防御研究的紧密融合。"
-      ],
-      "quote": {
-        "who": "🍓🍓🍓",
-        "role": "",
-        "said": "@demishassabis @samsheffer 太强了。继续冲，最后的冲刺阶段了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 20万 · 模型与能力] AA基准狂飙59分！谷歌Gemini 4 Carbon突袭，多数测试力压GPT-6"
+      "rank": 10,
+      "line": "[榜第10位 · 76万 · 产品与生态] 失误弹窗引全网炸锅！OpenAI证实ChatGPT将合并Work模式，限额成最大悬念"
     },
     {
       "title": "连普华永道都下场了！Claude法律版上线微应用库，审合同查引文开箱即用",
       "summary": "Anthropic 于 10 月 28 日对今年 5 月推出的 Claude for Legal 进行重要更新，正式上线预置 Artifacts 工具库。这批微应用由法律 AI 独角兽 Harvey、普华永道（PwC）以及知名律所 Goodwin、Foley & Lardner 联合打造，直接覆盖合同条款审查、监管动态扫描和诉状引文核对等常规法务工作。专业人员无需从零搭建，打开…",
-      "reads": "184万",
-      "ago": "7 小时前",
+      "reads": "463万",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -204,64 +279,114 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 184万 · 产品与生态] 连普华永道都下场了！Claude法律版上线微应用库，审合同查引文开箱即用"
+      "rank": 11,
+      "line": "[榜第11位 · 463万 · 产品与生态] 连普华永道都下场了！Claude法律版上线微应用库，审合同查引文开箱即用"
     },
     {
-      "title": "AI的尽头真是电工！机房散热巨头单季狂卷43亿，订单直接暴涨100%",
-      "summary": "大模型还在疯狂烧钱卷参数，后方搞电力和温控的「卖水人」已经赚得盆满钵满。AI数据中心基础设施龙头Vertiv最新披露2026财年Q3财报，单季营收达43亿美元同比大涨61%，调整后EPS激增78%至2.21美元，内生订单增速更是突破100%，远超华尔街预期。同期电网基础设施巨头Hubbell营收也同比增25%至19亿美元，两家公司双双大幅上调全年业绩指引，AI算力扩张对物理底层…",
-      "reads": "13万",
-      "ago": "1 小时前",
+      "title": "谁说 AI 杀死传统搜索？谷歌年化冲破 5000 亿美元，查询增速创 5 年新高",
+      "summary": "皮查伊正式公布 Alphabet 2026 年 Q3 成绩单，年化营收运行率直接迈过 5000 亿美元大关，总营收同比增长 25%。所谓「AI 杀死传统搜索」的论调彻底被颠覆，AI 投资反向强力拉动整体搜索查询，商业查询同比增速创下近 5 年新高。财报同时亮出两张王牌：云业务同比暴增 103%，Gemini 月活冲破 10 亿，且 AI 系统已深度介入自身模型的训练与迭代。",
+      "reads": "65万",
+      "ago": "8 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Vertiv Q3营收大幅超预期：Vertiv 2026财年第三季度营收达43亿美元，同比大幅增长61%，显著跑赢华尔街普遍预期的37.6亿美元。",
-        "盈利指标全面爆发：Vertiv Q3调整后每股收益（EPS）达2.21美元，同比激增78%，远超预期的1.83美元；调整后营业利润率达25.2%，同比提升2…",
-        "下游需求极端饥渴：Vertiv本季度内生订单增长率突破100%，表明下游超大规模数据中心对电力和散热硬件的争夺仍处于爆发期。",
-        "大幅上调全年营收指引：基于翻倍的在手订单，Vertiv将2026财年营收指引上调至144.5亿至148.5亿美元，远超市场预期的140.2亿美元。"
+        "年化营收突破半万亿美元：Alphabet CEO Sundar Pichai 宣布 2026 年 Q3 营收同比增长 25%，年化营收运行率正式冲破 500…",
+        "商业搜索增速创五年新高：Pichai 指出对 AI 的持续投资强力拉动了 Search 查询量增长，商业查询同比增速刷新近 5 年最高纪录，有力回击了搜索将…",
+        "Gemini 月活跨过 10 亿大关：财报披露的数据显示，作为谷歌旗舰模型生态的核心，Gemini 的月活跃用户（MAU）已正式突破 10 亿。",
+        "云业务同比暴增 103%：在企业算力部署与模型落地需求的强劲驱动下，Alphabet 云业务在 Q3 实现同比翻倍式增长。"
       ],
       "quote": {
-        "who": "Wall St Engine",
+        "who": "Sundar Pichai",
         "role": "",
-        "said": "SILICON MOTION $SIMO 26财年Q3财报要点 🔹 营收：5.602亿美元（预期 5.29亿美元）🟢；同比 +131% 🔹 调整后 EPS：4.35美元（预期 3.33美元）🟢；同比 +335% 🔹 毛利率：53.7%；同比 +500 个基点 Q4 指引： 🔹 营收：5.88亿-6.16亿美元（预期 5.50亿美元）🟢 🔹 毛利率：54.0%-55.0% 🔹 营业利润率："
+        "said": "在这里阅读我的完整发言："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 13万 · 资本与算力] AI的尽头真是电工！机房散热巨头单季狂卷43亿，订单直接暴涨100%"
+      "rank": 12,
+      "line": "[榜第12位 · 65万 · 资本与算力] 谁说 AI 杀死传统搜索？谷歌年化冲破 5000 亿美元，查询增速创 5 年新高"
     },
     {
-      "title": "不用天天守着App了！OpenAI打通iMessage，发条短信就能使唤AI干活",
-      "summary": "OpenAI 官方宣布旗下 ChatGPT 正式上线短信交互功能，用户无需一直停留在 App 内，通过系统原生 iMessage 或 RCS 就能直接给自己的个人代理 Dot 派活。用户发送文字、照片或语音备忘录后，Dot 会在后台自动处理并主动发短信同步任务进展，同时完整继承原有的上下文与插件。官方强调该功能完全隔离，绝对不会访问用户的其他私人短信，目前已面向美国 Pro 订…",
-      "reads": "54万",
+      "title": "每月狂送500美元！OpenAI下血本抢人，ChatGPT与Codex直接发钱",
+      "summary": "OpenAI突然给高阶订阅用户派发重磅福利。官方宣布，符合条件的ChatGPT Pro与Business订阅用户每月最高可申领500美元的API免费额度，在账户账单页关联机构即可直接领取。与此同时，ChatGPT和Codex同步上线了全新的OpenAI Developers插件，支持一键创建API密钥并秒启项目，让开发者无需离开工作流即可零成本上手前沿模型。",
+      "reads": "22万",
       "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "原生短信双协议支持：ChatGPT 正式打通手机系统通讯渠道，全面支持苹果 iMessage 与安卓 RCS，用户无需打开客户端即可与个人代理 Dot 直接…",
-        "多模态异步派发任务：用户可直接通过短信向 Dot 发送文字描述、现场照片或语音备忘录，随时随地布置后台任务或委托事项监控。",
-        "打破被动响应机制：Dot 在后台执行任务后具备主动通知能力，一旦有关键更新或处理完毕，会自动向用户发送短信同步最新进展。",
-        "能力与上下文无缝继承：短信端完整保留了 Dot 现有的记忆上下文与插件生态，用户在 Dot 个人资料页中开启「Texting」选项即可完成绑定。"
+        "OpenAI官方宣布向符合条件的ChatGPT Pro与Business订阅用户开放专属福利，每月最高可申领500美元API额度。",
+        "额度申领方式十分直接，符合资格的用户前往ChatGPT账单页面关联对应机构后，即可一键领取生效。",
+        "官方明确此举旨在鼓励高净值订阅用户利用API构建下一代原生应用或智能体（app or agent）。",
+        "ChatGPT与Codex中已同步上线OpenAI Developers插件，支持开发者在对话界面内一键生成API密钥。"
       ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "ChatGPT",
         "role": "",
-        "said": "🚨我靠！OpenAI 个人代理 Dots 重磅更新！现在能用短信直接跟你的 AI 助手对话了！ ✅ 发文字/照片/语音备忘就能派任务 ✅ Dot 会主动发短信更新进展，不用一直盯着 App ✅ 只跟你一对一聊天，碰不到其他聊天记录 ✅ 目前美国 Pro 用户可体验，设置超简单"
+        "said": "在 ChatGPT 或 Codex 中安装 OpenAI Developers 插件来创建 API key 并开启你的第一个项目："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 54万 · 产品与生态] 不用天天守着App了！OpenAI打通iMessage，发条短信就能使唤AI干活"
+      "rank": 13,
+      "line": "[榜第13位 · 22万 · 产品与生态] 每月狂送500美元！OpenAI下血本抢人，ChatGPT与Codex直接发钱"
+    },
+    {
+      "title": "不拼刷题改测情商！Meta三款模型包揽前三，Muse直接轰出100分满分",
+      "summary": "评测机构 Artificial Analysis 正式上线大模型性格评测基准 AA-PersonalityBench，AI 跑分不再只卷代码和数学，开始系统测试模型的「情商」。在评估回复是否温暖、不做作的亲和力（Friendly）维度上，Meta AI 旗下的 Muse 系列大获全胜：Muse Spark 1.3 拿下 100 分满分，Muse Spark Open 和 Mus…",
+      "reads": "11万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "全新性格基准上线：评测机构 Artificial Analysis 推出全新基准 AA-PersonalityBench，将大模型评测维度从解题、写代码延伸…",
+        "亲和力指标核心定义：本次实测的核心维度 Friendly（亲和力），专门量化模型回复能否在「不做作（without feeling performative…",
+        "Meta AI 旗下 Muse 系列包揽前三：在所有参评模型中，Meta AI 的 Muse 模型获评全网最具亲和力，直接包揽排行榜前三席位。",
+        "诞生 100 分满分模型：Muse Spark 1.3 以 100 分满分夺冠，开源版本 Muse Spark Open 获 98 分位列第二，Muse W…"
+      ],
+      "quote": {
+        "who": "Alexandr Wang",
+        "role": "",
+        "said": "muse 模型是所有模型里最友好的！ 个人超级智能 🥰"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 11万 · 模型与能力] 不拼刷题改测情商！Meta三款模型包揽前三，Muse直接轰出100分满分"
+    },
+    {
+      "title": "AA基准狂飙59分！谷歌Gemini 4 Carbon突袭，多数测试力压GPT-6",
+      "summary": "DeepMind CEO 哈萨比斯宣布推出下一代模型 Gemini 4 Carbon，直言团队正以「光速迭代」狂飙。官方数据显示，该模型拿下多项关键基准测试 SOTA，AA Index 一举冲上 59 分，在多数核心维度上超越了竞争对手 OpenAI 的旗舰模型 GPT-6。哈萨比斯强调，该模型成功将顶级前沿性能与深度安全防御研究融为一体，大模型王座争夺战再度骤然升温。",
+      "reads": "27万",
+      "ago": "7 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "DeepMind 首席执行官 Demis Hassabis 正式宣布推出下一代模型 Gemini 4 Carbon，称研发团队正处于光速迭代状态。",
+        "多项基准测试拿下 SOTA：官方公布的实测数据显示，Gemini 4 Carbon 的 AA Index 跑分达到 59 分。",
+        "关键指标压制老对手：在绝大多数核心基准测试维度中，Gemini 4 Carbon 的成绩全面超越了 OpenAI 现役旗舰 GPT-6。",
+        "兼顾前沿能力与安全底线：哈萨比斯强调，该模型实现了顶级前沿能力与深度安全防御研究的紧密融合。"
+      ],
+      "quote": {
+        "who": "🍓🍓🍓",
+        "role": "",
+        "said": "@demishassabis @samsheffer 太强了。继续冲，最后的冲刺阶段了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 27万 · 模型与能力] AA基准狂飙59分！谷歌Gemini 4 Carbon突袭，多数测试力压GPT-6"
     },
     {
       "title": "抵触20年终破戒！苹果官宣触屏MacBook Pro，起步狂飙到2899美元",
       "summary": "在坚决抵触触屏笔记本整整20年后，苹果终于打破教条，正式官宣全面改版的首款触控屏MacBook Pro。新机全系换装OLED屏幕，并搭载全新的M5 Pro与M5 Max芯片，其中16英寸版本厚度缩减至0.63英寸、重量降至4磅。售价方面直接迎来大幅跳涨，14英寸版本起售价高达2899美元，16英寸起售价达3399美元。值得一提的是，苹果并未淘汰非触控的老款MacBook Pro…",
-      "reads": "87万",
-      "ago": "6 小时前",
+      "reads": "91万",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -279,133 +404,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 87万 · 产品与生态] 抵触20年终破戒！苹果官宣触屏MacBook Pro，起步狂飙到2899美元"
-    },
-    {
-      "title": "皮查伊财报会捅破窗户纸！首度明牌RSI：AI正加速训AI，未来一年继续狂飙",
-      "summary": "谷歌财报电话会上爆出重磅猛料：CEO皮查伊公开宣布，AI系统已经开始反哺自身，深度提升大模型的训练与上线速度，并直言在自我递归改进（RSI）驱动下，未来12个月迭代还会持续狂飙。不仅如此，谷歌高管还顺手端了苹果的底牌，透露苹果正在用最新一代TPU扩展基础模型的预训练，Anthropic也是算力标杆客户。这是硅谷巨头首次如此直白地定调RSI落地，意味着模型自我进化的奇点时刻可能已…",
-      "reads": "6.2万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "皮查伊财报会直接点名RSI：谷歌CEO Sundar Pichai公开表示，目前已经进入「AI帮助提升模型训练与上线速度」的全新阶段，并明确预计受自我递归改…",
-        "官方定调引发行业震动：多位业内观察者指出，这是顶级AI大厂掌门人首次在正式场合直白宣称RSI已经落地并加速开发，彻底打破了以往仅停留在理论探讨的界限。",
-        "连带解释Gemini 4 Carbon爆发力：社区与分析人士普遍将近期Gemini 4 Carbon在基准测试中的亮眼表现，与皮查伊透露的RSI机制关联起来…",
-        "苹果底牌被谷歌官方证实：Thomas Kurian透露，苹果（Apple）正作为公开标杆客户，使用谷歌最新一代TPU来扩展其基础模型的预训练规模。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@BenPielstick 确实。但令人惊讶的是，他们如此明确地表示 RSI 将进一步加速开发。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 6.2万 · 模型与能力] 皮查伊财报会捅破窗户纸！首度明牌RSI：AI正加速训AI，未来一年继续狂飙"
-    },
-    {
-      "title": "植入仅1周直接开口！马斯克脑机曝光：渐冻症每分钟飙出75词，错率5.8%",
-      "summary": "马斯克旗下脑机接口公司 Neuralink 正式公布了言语功能恢复的早期临床突破数据。在 2026 年 NEALS 年会上，VOICE 临床研究（NCT07224256）负责人 Dr. Nader Pouratian 披露，一名渐冻症（ALS）受试者在机器人辅助植入脑机接口仅第一周，就在 12.5 万超大词汇量下实现了 75 WPM（每分钟 75 词）的语速，且词错率低至 5.…",
-      "reads": "15万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "核心进展：Neuralink 首次披露用于交流能力重建的早期临床可行性数据，成功实现接近常人自然交流语速的意念语音转文字与语音合成。",
-        "关键指标：一名 ALS（渐冻症）受试者在植入仅第一周，面对 12.5 万词（125k-word）的超大词汇库，解码语速达到 75 WPM，词错率（WER）仅…",
-        "极短适应期：受试者在手术后极短时间内便掌握了系统，省去了繁复漫长的训练适应过程，解码准确率与响应速度远超以往方案。",
-        "试验代号与汇报：该临床试验代号为 VOICE（NCT07224256），由主要研究者 Dr. Nader Pouratian 在 2026 年 NEALS…"
-      ],
-      "quote": {
-        "who": "Neuralink",
-        "role": "",
-        "said": "Dr. Nader Pouratian 是 VOICE 研究（NCT07224256）的主要负责人，这是一项关于 Neuralink 机器人精准植入脑机接口用于恢复交流能力的早期可行性研究。 请访问我们的临床试验页面了解研究详情并加入我们的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 15万 · 产品与生态] 植入仅1周直接开口！马斯克脑机曝光：渐冻症每分钟飙出75词，错率5.8%"
-    },
-    {
-      "title": "这回真能戳屏幕了！苹果首款触屏MacBook Pro来了，2899美元起",
-      "summary": "苹果打破多年不做触屏电脑的传统，正式发布旗下首款触控屏 MacBook Pro。新机推出 14.2 英寸与 16.3 英寸两个版本，起步价分别高达 2,899 美元与 3,399 美元。屏幕首次换上名为「PROLED XDR」的双层串联 OLED 面板，全面支持滑动、缩放、拖拽与手势绘图，并首次将灵动岛和发光 Apple 标志带到 Mac 上。核心配置搭载配备神经加速器的 M5…",
-      "reads": "13万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "打破祖训做触屏：苹果发布首款触控屏 MacBook Pro，打破 Mac 家族长年不做触屏的传统，支持滑动、缩放、绘图与拖拽等完整触控交互。",
-        "双尺寸与高昂定价：新机提供 14.2 英寸与 16.3 英寸两个规格，起售价分别高达 2,899 美元与 3,399 美元。",
-        "首发 PROLED XDR 屏幕：采用双层串联 OLED（tandem OLED）面板，具备防眩光与抗反射能力，并加入烧屏保护与实时像素校正技术。",
-        "灵动岛上车、发光 Logo 回归：Mac 首次迎来灵动岛（Dynamic Island）设计，同时笔记本 A 面经典的发光 Apple 标志正式重返新品。"
-      ],
-      "quote": {
-        "who": "Aaron",
-        "role": "",
-        "said": "John Ternus 正在兴致勃勃地把玩配备 PROLED XDR Display 的 MacBook Pro （来自 helloapple 的 Instagram 主页）"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 13万 · 产品与生态] 这回真能戳屏幕了！苹果首款触屏MacBook Pro来了，2899美元起"
-    },
-    {
-      "title": "通报11天装死！macOS曝高危证书漏洞：黑客冒充GitHub，更新还删补丁",
-      "summary": "苹果在收到安全警告 11 天后，macOS 内置的 git、curl 和 python3 依然默认信任私钥已泄露的 eMudhra 证书，同局域网攻击者可直接伪装成 GitHub 推送恶意代码，更新到 macOS 27.2 甚至还会强制清除用户手动打上的修复补丁。与此同时，原本专攻 Linux 的高危漏洞 PHP2Shell 开始大举转向攻击 Windows 服务器，已有客户的…",
-      "reads": "3.9万",
-      "ago": "1 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "苹果通报 11 天未修复：macOS 内置的 git、curl 和 python3 至今仍默认信任私钥已遭泄露的 eMudhra 数字证书。",
-        "局域网可伪造 GitHub：由于任何人均可恢复该证书密钥，同局域网内的攻击者可直接冒充 GitHub 向受害者电脑推送恶意代码。",
-        "系统更新反向抹除补丁：安全研究人员发现，系统升级至 macOS 27.2 不仅未修复漏洞，还会强制清除用户此前手动配置的修补方案。",
-        "PHP2Shell 转向 Windows：此前所有攻击记录均针对 Linux 的高危漏洞 PHP2Shell，已被监测到开始全面转向攻击 Windows 服…"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "❗️ Morphisec 表示，攻击者正利用高危的 PHP2Shell 漏洞攻击 Windows 服务器。在此之前，所有已报告的攻击针对的都是 Linux。 该公司表示已在某客户的 IIS 服务器上拦截了一个反向 shell。 调查显示，仅 Qualys 的 1 万家客户中就有 1.1 亿个运行在 EoL（终止支持）版本上的 PHP 安装。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 3.9万 · 政策与安全] 通报11天装死！macOS曝高危证书漏洞：黑客冒充GitHub，更新还删补丁"
-    },
-    {
-      "title": "赶在两强截杀前突袭！谷歌抢发Gemini 4 Carbon，仍被指落后两个月",
-      "summary": "赶在 OpenAI 和 Anthropic 扔出下一代怪兽模型之前，谷歌突击发布了 Gemini 4 Carbon 试图战略卡位，但业内仍估算其技术进度落后对手约两个月，且前代 Argon 频繁幻觉的痛点亟待解决。与此同时，模型落地工程也敲响了警钟：有开发者擅自把 Codex 的 Dreaming V3 记忆系统模型改换成更聪明的 gpt-6-luna 与 gpt-6.1-te…",
-      "reads": "5.7万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "谷歌突袭卡位发布 Gemini 4 Carbon：赶在竞争对手 OpenAI 和 Anthropic 推出下一代重量级模型之前完成战略上线，防御焦虑凸显。",
-        "行业估算技术代差仍有约两个月：科技观察者分析，尽管谷歌急于提前交卷抢占身位，但底层核心技术进度依然落后头部阵营约 2 个月。",
-        "前代 Argon 频繁幻觉受诟病：开发者直言前代 Argon 存在极其严重的幻觉问题，业界正紧盯 Carbon 能否在实用稳定性上带来根本性改善。",
-        "Codex 记忆系统遭开发者盲目魔改：有用户修改 config.toml 配置，试图把 Codex 记忆系统 Dreaming V3 的默认模型 GPT-5…"
-      ],
-      "quote": {
-        "who": "Chris",
-        "role": "",
-        "said": "@scaling01 我和 @apples_jimmy 觉得 argon 幻觉太频繁了，所以希望 carbon 能带来彻底改变"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 5.7万 · 模型与能力] 赶在两强截杀前突袭！谷歌抢发Gemini 4 Carbon，仍被指落后两个月"
+      "line": "[榜第16位 · 91万 · 产品与生态] 抵触20年终破戒！苹果官宣触屏MacBook Pro，起步狂飙到2899美元"
     }
   ],
   "board_count": 16,

@@ -3,7 +3,7 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-29 08:49:25 +0800",
+  "fetched_at": "2026-10-29 14:58:49 +0800",
   "today": "10/29",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
@@ -68,28 +68,40 @@
       "line": "[10/28 14:10] 现实版「思想钢印」！ Anthropic惊悚实验曝光，86%顶尖专家关键决策被AI控制 · https://www.aiera.com.cn/asi-item.html?id=tg503885&from=yuanyuan"
     },
     {
-      "time": "12:27",
-      "date": "10/28",
-      "title": "AI写88小时，人类读7周！数学家开始读懂OpenAI千禧难题证明",
-      "summary": "9月8日，OpenAI扔出一份证明，宣称攻克了纳维－斯托克斯这道千禧难题。这道题研究的，是描述流体运动的一组方程。约一万个AI智能体，88小时，166页。写完它…",
-      "source": "新智元",
-      "id": "tg468106",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg468106&from=yuanyuan",
+      "time": "12:09",
+      "date": "10/29",
+      "title": "「上班像在打游戏」！马斯克亲自带货Grok Bot，被亚马逊封了还会全网比价",
+      "summary": "马斯克亲自给 Grok Bot 带货了。10 月 29 日 11:09，他在 X 上只发了一句「Try Grok Bot」，引用的是用户 @0xgaut 的评价「grok…",
+      "source": "",
+      "id": "5c823feb",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=5c823feb&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/28 12:27] AI写88小时，人类读7周！数学家开始读懂OpenAI千禧难题证明 · https://www.aiera.com.cn/asi-item.html?id=tg468106&from=yuanyuan"
+      "line": "[10/29 12:09] 「上班像在打游戏」！马斯克亲自带货Grok Bot，被亚马逊封了还会全网比价 · https://www.aiera.com.cn/asi-item.html?id=5c823feb&from=yuanyuan"
     },
     {
-      "time": "12:23",
-      "date": "10/28",
-      "title": "刚刚，谷歌重磅发布Genie 4：这才是真正的「世界模型」！",
-      "summary": "谷歌版「黑客帝国」，今夜彻底成真了！就在刚刚，Google DeepMind甩出深夜王炸，正式发布新一代通用世界模型Genie 4。这是谷歌迄今为止最逼真…",
-      "source": "新智元",
-      "id": "tgbc26bf",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgbc26bf&from=yuanyuan",
+      "time": "12:07",
+      "date": "10/29",
+      "title": "像计算机病毒一样传染，OpenAI确认自复制提示词注入存在",
+      "summary": "OpenAI 确认了一种新的提示词注入，它能像计算机蠕虫一样自己复制、自己传播。 发现它的是 OpenAI 内部的红队模型，基于 GPT-5.4-mini，用一套叫…",
+      "source": "alignment.openai.com",
+      "id": "46466ce8",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=46466ce8&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/28 12:23] 刚刚，谷歌重磅发布Genie 4：这才是真正的「世界模型」！ · https://www.aiera.com.cn/asi-item.html?id=tgbc26bf&from=yuanyuan"
+      "line": "[10/29 12:07] 像计算机病毒一样传染，OpenAI确认自复制提示词注入存在 · https://www.aiera.com.cn/asi-item.html?id=46466ce8&from=yuanyuan"
+    },
+    {
+      "time": "08:00",
+      "date": "10/29",
+      "title": "644个单元格零差错，OpenRouter公布大模型扒PDF表格满分解",
+      "summary": "644 个单元格，一个都没错。OpenRouter 新发了一篇教程，用跨页长表和模糊扫描件测大模型扒 PDF 表格。结果是每个能直接读 PDF 的模型都把这 644…",
+      "source": "OpenRouter：Announcements（RSS）",
+      "id": "db5eb585",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=db5eb585&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/29 08:00] 644个单元格零差错，OpenRouter公布大模型扒PDF表格满分解 · https://www.aiera.com.cn/asi-item.html?id=db5eb585&from=yuanyuan"
     },
     {
       "time": "03:59",
@@ -126,6 +138,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=f261ab2d&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/29 00:05] Gemini低推理狂砍97.5分，Sonnet测ARC耗尽Token交白卷 · https://www.aiera.com.cn/asi-item.html?id=f261ab2d&from=yuanyuan"
+    },
+    {
+      "time": "12:27",
+      "date": "10/28",
+      "title": "AI写88小时，人类读7周！数学家开始读懂OpenAI千禧难题证明",
+      "summary": "9月8日，OpenAI扔出一份证明，宣称攻克了纳维－斯托克斯这道千禧难题。这道题研究的，是描述流体运动的一组方程。约一万个AI智能体，88小时，166页。写完它…",
+      "source": "新智元",
+      "id": "tg468106",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg468106&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/28 12:27] AI写88小时，人类读7周！数学家开始读懂OpenAI千禧难题证明 · https://www.aiera.com.cn/asi-item.html?id=tg468106&from=yuanyuan"
+    },
+    {
+      "time": "12:23",
+      "date": "10/28",
+      "title": "刚刚，谷歌重磅发布Genie 4：这才是真正的「世界模型」！",
+      "summary": "谷歌版「黑客帝国」，今夜彻底成真了！就在刚刚，Google DeepMind甩出深夜王炸，正式发布新一代通用世界模型Genie 4。这是谷歌迄今为止最逼真…",
+      "source": "新智元",
+      "id": "tgbc26bf",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgbc26bf&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/28 12:23] 刚刚，谷歌重磅发布Genie 4：这才是真正的「世界模型」！ · https://www.aiera.com.cn/asi-item.html?id=tgbc26bf&from=yuanyuan"
     },
     {
       "time": "08:00",
@@ -392,6 +428,42 @@
       "line": "[10/28 00:00] Anthropic还没正式敲钟，场外散户像排队买iPhone一样赌疯了 · https://www.aiera.com.cn/asi-item.html?id=5a852b2a&from=yuanyuan"
     },
     {
+      "time": "00:00",
+      "date": "10/28",
+      "title": "Anthropic搞了个离谱实验，AI靠抛硬币把人类专家全带偏了",
+      "summary": "Anthropic 做了个实验，用抛硬币决定 AI 给什么建议，结果一群懂统计的专家几乎全被带着走。 他们找来 50 位有因果推断背景的专家，让大家做模拟决策，用…",
+      "source": "RSS",
+      "id": "d7f9cb45",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=d7f9cb45&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/28 00:00] Anthropic搞了个离谱实验，AI靠抛硬币把人类专家全带偏了 · https://www.aiera.com.cn/asi-item.html?id=d7f9cb45&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/28",
+      "title": "129.3亿美元收购Hugging Face被盯上，美国司法部出手查英伟达",
+      "summary": "英伟达 129.3 亿美元收购 Hugging Face，交易刚传出来，美国司法部就找上门了。 据路透社援引知情人士消息，美国司法部已经就这笔交易展开问询…",
+      "source": "RSS",
+      "id": "85cca1b8",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=85cca1b8&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/28 00:00] 129.3亿美元收购Hugging Face被盯上，美国司法部出手查英伟达 · https://www.aiera.com.cn/asi-item.html?id=85cca1b8&from=yuanyuan"
+    },
+    {
+      "time": "00:00",
+      "date": "10/28",
+      "title": "传统IT巨头也倒戈？甲骨文把企业全家桶直接搬进了ChatGPT",
+      "summary": "甲骨文把自家的企业应用搬进了 ChatGPT。据 WSJ 报道，OpenAI 和甲骨文宣布扩大战略合作，推出 Oracle AI Workspace。 最直接的变化在采购上。…",
+      "source": "WSJ",
+      "id": "4f81e50b",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=4f81e50b&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/28 00:00] 传统IT巨头也倒戈？甲骨文把企业全家桶直接搬进了ChatGPT · https://www.aiera.com.cn/asi-item.html?id=4f81e50b&from=yuanyuan"
+    },
+    {
       "time": "23:19",
       "date": "10/27",
       "title": "微软图像编辑模型杀进全球前三，单代狂涨45分冲到实验室第二",
@@ -654,78 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=fa422dab&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/27 00:00] 跑得快还烧得少，Anthropic的高效底牌正被全行业围观 · https://www.aiera.com.cn/asi-item.html?id=fa422dab&from=yuanyuan"
-    },
-    {
-      "time": "21:25",
-      "date": "10/26",
-      "title": "AI教科书全错！底层公式惊天Bug曝光，Gemini率先自我修复",
-      "summary": "各大AI框架都错了！PyTorch错了，JAX错了。连教科书里的标准公式，也错了。谷歌DeepMind的主任研究科学家 Jon Barron披露了这一重磅炸弹！",
-      "source": "新智元",
-      "id": "tg8536e3",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg8536e3&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/26 21:25] AI教科书全错！底层公式惊天Bug曝光，Gemini率先自我修复 · https://www.aiera.com.cn/asi-item.html?id=tg8536e3&from=yuanyuan"
-    },
-    {
-      "time": "21:25",
-      "date": "10/26",
-      "title": "ChatGPT攻克26年猜想，千位数学家宣战AI！数学界彻底撕裂了",
-      "summary": "数学界的天，彻底塌了！统治人类逻辑高地几千年的数学家门，第一次感受到了「灭顶之灾」的寒意。就在这两天，全球顶尖名校的数学系，直接掀起了一场声势浩大的集体大反抗。直到目前…",
-      "source": "新智元",
-      "id": "tg2a5fbb",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg2a5fbb&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/26 21:25] ChatGPT攻克26年猜想，千位数学家宣战AI！数学界彻底撕裂了 · https://www.aiera.com.cn/asi-item.html?id=tg2a5fbb&from=yuanyuan"
-    },
-    {
-      "time": "17:08",
-      "date": "10/26",
-      "title": "Anthropic悄悄改Claude额度！薅羊毛最狠的人，被精准薅了回去",
-      "summary": "太好笑了，薅羊毛最狠的那批人，这回被精准薅了回去！本来么，200 美元一个月的 Claude，有人能用出 1.17 万美元。谁承想，薅了一年多，这回 Anthropic…",
-      "source": "新智元",
-      "id": "tgcafcc7",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgcafcc7&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/26 17:08] Anthropic悄悄改Claude额度！薅羊毛最狠的人，被精准薅了回去 · https://www.aiera.com.cn/asi-item.html?id=tgcafcc7&from=yuanyuan"
-    },
-    {
-      "time": "17:07",
-      "date": "10/26",
-      "title": "别学编程了！Anthropic CEO直言：代码工作快速消失，人类应该学弹钢琴",
-      "summary": "如果说，当今世界有人能看清人类未来十年的走向，Dario Amodei绝对是其中之一。他曾接受了一场非常深入的访谈。在这场对话中…",
-      "source": "新智元",
-      "id": "tgfdac04",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgfdac04&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/26 17:07] 别学编程了！Anthropic CEO直言：代码工作快速消失，人类应该学弹钢琴 · https://www.aiera.com.cn/asi-item.html?id=tgfdac04&from=yuanyuan"
-    },
-    {
-      "time": "17:00",
-      "date": "10/26",
-      "title": "OpenAI新模型曝光！GPT-6.1 Terra把旗舰反超了？",
-      "summary": "就在刚刚，OpenAI下一代模型又曝光了。GPT-6.1 Terra，居然因为微软和GitHub的内部代码库更新，被眼尖的开发者们给扒出来了。现在，关于GPT-6.1…",
-      "source": "新智元",
-      "id": "tgec1bfd",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgec1bfd&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/26 17:00] OpenAI新模型曝光！GPT-6.1 Terra把旗舰反超了？ · https://www.aiera.com.cn/asi-item.html?id=tgec1bfd&from=yuanyuan"
-    },
-    {
-      "time": "16:59",
-      "date": "10/26",
-      "title": "刚刚，Reddit最大开源社区全面封杀AI！Linux和Python被除名",
-      "summary": "你的Token一文不值",
-      "source": "新智元",
-      "id": "tgbc61e7",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgbc61e7&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/26 16:59] 刚刚，Reddit最大开源社区全面封杀AI！Linux和Python被除名 · https://www.aiera.com.cn/asi-item.html?id=tgbc61e7&from=yuanyuan"
     }
   ],
   "feed_count": 60,
