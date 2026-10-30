@@ -3,15 +3,65 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-31 03:14:39 +0800",
+  "fetched_at": "2026-10-31 07:39:30 +0800",
   "today": "10/31",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "写代码不怕被掐断！Claude顶配更名Ultra，直接拔掉5小时限额",
+      "summary": "Anthropic 正式重构 Claude 订阅体系，原有的每月 100 美元 Max 5x 简化为「Max」，每月 200 美元的 Max 20x 更名为「Ultra」，现有用户无需手动迁移，价格维持不变。即日起，绝大多数已认证的 Ultra 账户彻底取消了 5 小时滚动使用限制，重度开发者在 Claude Code 里跑长任务再也不会半途被强制掐断。官方与社区也借机澄清了额…",
+      "reads": "310万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "套餐更名与定价：Max 5x 更名为 Max，每月 100 美元；Max 20x 更名为 Ultra，每月 200 美元（欧洲区对应 90 欧元与 180…",
+        "核心痛点消除：彻底废除已认证 Ultra 账户的 5 小时滚动速率限制。以往重度开发者使用 Claude Code 跑长时间自动编程或复杂长任务时，每隔 5…",
+        "风控与认证机制：取消 5 小时限制自即日起面向大多数现有已验证 Ultra 账户生效；新注册或尚未完成身份验证的账户暂时保留限制，完成验证后自动解除。",
+        "官方澄清「20倍」概念：官方订阅业务负责人与社区梳理了此前混淆的额度定义。原 Max 20x 中的「20x」仅指 5 小时单次会话窗口内的爆发额度是 Pro…"
+      ],
+      "quote": {
+        "who": "Mark Kretschmann",
+        "role": "",
+        "said": "@drkpxl_ 我甚至都不是 Anthropic 用户，我根本没什么好洗的。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 310万 · 产品与生态] 写代码不怕被掐断！Claude顶配更名Ultra，直接拔掉5小时限额"
+    },
+    {
+      "title": "真·云算力上天！Google首个太空版AI数据中心点火，4颗TPU在轨写俳句",
+      "summary": "「云计算」这回真飘在头顶了。Google CEO Sundar Pichai 宣布，Project Suncatcher 迎来首个「Hello World」里程碑：10 月 1 日由 SpaceX 火箭送入轨道的原型卫星，成功在太空启动并跑通了自研的 Gemma 模型。该卫星由 Google 与 Planet 联合研制并搭载了 4 颗 TPU，地面团队向太空发送提示词后，顺利接…",
+      "reads": "268万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "项目代号与定位：Google 登月级太空 AI 计划「Project Suncatcher」达成首个「Hello World」里程碑，目标是探索将 AI 数…",
+        "发射与硬件配置：原型卫星由 Google 与 Planet 联合制造，于 10 月 1 日搭乘 SpaceX 火箭升空，星上共搭载了 4 颗 Google…",
+        "在轨推理全流程：地面团队向轨道卫星发送指令并成功唤醒 TPU，在轨调用 Google 自研 Gemma 模型完成推理计算。",
+        "首份来自太空的回复：测试提示词要求模型以环绕地球的视角写诗，卫星随后成功向地面回传了一首 Gemma 创作的太空主题俳句。"
+      ],
+      "quote": {
+        "who": "NIK",
+        "role": "",
+        "said": "Google CEO："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 268万 · 资本与算力] 真·云算力上天！Google首个太空版AI数据中心点火，4颗TPU在轨写俳句"
+    },
+    {
       "title": "脑中默念唤起Grok！马斯克祭出Computer Use脑机版，带宽碾压人类打字",
       "summary": "在与受试者连续奋战 72 小时黑客松后，马斯克正式将 Neuralink 首款脑机接口产品定名为 Telepathy，并公布了第二款助盲人复明的 Blindsight。受试者现在只需在脑中默念「Hey Neuralink」即可唤起 Grok 智能体操控电脑，还能通过专属 App「Bloom」将解码语音无缝注入 iPhone 通话麦克风流。马斯克断言 Telepathy 的意念通…",
-      "reads": "987万",
-      "ago": "1 小时前",
+      "reads": "723万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -29,64 +79,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 987万 · 产品与生态] 脑中默念唤起Grok！马斯克祭出Computer Use脑机版，带宽碾压人类打字"
+      "rank": 3,
+      "line": "[榜第3位 · 723万 · 产品与生态] 脑中默念唤起Grok！马斯克祭出Computer Use脑机版，带宽碾压人类打字"
     },
     {
-      "title": "皮查伊官宣太空版TPU！轨道首次跑通AI推理，写了首俳句传回地球",
-      "summary": "AI 推理算力真的搬出地球了。Google CEO 皮查伊宣布，数周前发射的 Project Suncatcher 原型卫星成功在轨道上启动了 TPU 芯片，并跑完提示词向地球传回了首份完整回复——一首俳句。这标志着人类首次在太空轨道实现 AI 原生推理，真正的『云计算』终于飘在了人类头顶。马斯克随后现身围观评价『Cool』，引发全网集体喊话：xAI 的 Grok 什么时候也送…",
-      "reads": "110万",
-      "ago": "52 分钟前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "Google CEO Sundar Pichai 宣布，Google 太空项目 Project Suncatcher 达成「hello world」关键里程…",
-        "该原型卫星于数周前发射升空，地面团队近日成功向轨道发送控制指令，顺利完成了唤醒 TPU、运行提示词推理、向地球完整回传结果的全套流程。",
-        "在轨 TPU 顺利完成的第一个任务是根据地面提示词进行文本生成，发回地球的第一条完整回复是一首俳句。",
-        "业内分析指出，这是 AI 推理基础设施首次脱离地球表面部署至太空轨道，标志着空间计算与轨道数据中心迈出实质性一步。"
-      ],
-      "quote": {
-        "who": "Riley Goodside",
-        "role": "",
-        "said": "总有一天，我会给孙辈讲一个无聊的冷知识：早在「云」真正飘在我们头顶上的很多年前，它就被称为「云」了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 110万 · 资本与算力] 皮查伊官宣太空版TPU！轨道首次跑通AI推理，写了首俳句传回地球"
-    },
-    {
-      "title": "跑长任务不用等重置了！Claude顶配更名Ultra，200美元档砍掉5小时限制",
-      "summary": "Anthropic 官方宣布重构订阅体系，原每月 100 美元的 Max 5x 精简为 Max，原每月 200 美元的 Max 20x 正式更名为 Ultra，价格维持不变且老用户无需操作自动切换。从即日起，已验证的 Ultra 用户彻底解除 5 小时滚动速率限制，每周拥有约 10 倍于 Pro 的用量。这意味着使用 Claude Code 执行长周期任务再也不用每 5 小时停…",
-      "reads": "33万",
-      "ago": "38 分钟前",
+      "title": "隐藏条款曝光！12月起ChatGPT与Codex共享额度，写代码聊天互相抢",
+      "summary": "ChatGPT 网页端订阅结算页面悄悄出现了一条隐藏免责声明：从 12 月开始，套餐用量将在所有 ChatGPT 和 Codex 之间统一共享额度上限。这意味着原本相互独立的对话与编程算力池将被彻底打通，重度开发者日常写代码和聊天将共用同一个配额。对此，OpenAI 官方人员随后证实，团队确实在推进 Chat 与 Work 两大功能板块的大合并，计划今年内将两者的最佳能力结合…",
+      "reads": "67万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "档位名称全面简化：每月 100 美元的原 Max 5x 更名为 Max，每月 200 美元的原 Max 20x 更名为 Ultra，现有订阅用户自动生效，资…",
-        "解除 5 小时速率枷锁：即日起面向大多数已完成认证的现有 Ultra 账户，正式移除原有的 5 小时滚动速率限制。",
-        "长周期开发痛点终结：针对使用 Claude Code 等工具的高频开发者，彻底解决了以往每隔 5 小时被迫中断等待冷却的困扰，支持长时间连续执行。",
-        "用量相当于 10 倍 Pro：据产品负责人回顾，该套餐自 2025 年 4 月上线以来历经调整，此次拿掉 5 小时限制后，每周直接提供相当于 Pro 档 1…"
+        "隐藏免责声明曝光：ChatGPT 网页端订阅结算页面被发现新增了一条未公开提示，明确写明从 12 月开始，套餐用量将在所有 ChatGPT 和 Codex…",
+        "两大独立额度池彻底打通：此前 ChatGPT 的日常聊天和 Codex 的编程工作流拥有相对区隔的用量配额，新调整意味着高频写代码会直接扣减日常对话的额度。",
+        "Chat 与 Work 标签页合体在即：多方分析指出，统一计费是 OpenAI 整合 Chat（对话）和 Work（工作/开发）标签页的关键一步，该整合工程…",
+        "OpenAI 官方证实推进：OpenAI 员工 Tibo 回复证实，团队确实计划在今年某个时候将 Chat 与 Work 各自的最强能力融为一体，但目前该规…"
       ],
       "quote": {
-        "who": "Rohan Paul",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "@claudeai 确实，明显清爽多了"
+        "said": "相关内容："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 33万 · 产品与生态] 跑长任务不用等重置了！Claude顶配更名Ultra，200美元档砍掉5小时限制"
+      "rank": 4,
+      "line": "[榜第4位 · 67万 · 产品与生态] 隐藏条款曝光！12月起ChatGPT与Codex共享额度，写代码聊天互相抢"
     },
     {
       "title": "哈萨比斯甩出Gemini 4 Carbon！59分登顶第一，力压GPT-6与Opus",
       "summary": "谷歌新王登顶！Google DeepMind 首席执行官 Demis Hassabis 晒出战绩：下一代模型 Gemini 4 Carbon 在权威评测榜 Artificial Analysis Intelligence Index v5.0 中以 59 分跃居全球第一。它不仅以 1 分优势险胜 Anthropic 的 Claude Opus 5.5（58 分），更将 Open…",
-      "reads": "78万",
-      "ago": "2 小时前",
+      "reads": "85万",
+      "ago": "6 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -104,14 +129,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 78万 · 模型与能力] 哈萨比斯甩出Gemini 4 Carbon！59分登顶第一，力压GPT-6与Opus"
+      "rank": 5,
+      "line": "[榜第5位 · 85万 · 模型与能力] 哈萨比斯甩出Gemini 4 Carbon！59分登顶第一，力压GPT-6与Opus"
+    },
+    {
+      "title": "直接放大招！OpenAI全新GPT-6.2遭抓包，代号「bel」或近期登场",
+      "summary": "OpenAI 似乎正准备亮出真正的重磅武器。第三方追踪系统最新捕捉到一款代号为「bel」的全新模型 GPT-6.2，消息一出迅速在开发者社区疯传，甚至有从业者直接喊话 Sam Altman 要求改名。尽管该爆料尚未得到官方证实，但多方消息称相关谜底很快就将揭晓。",
+      "reads": "9.6万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "核心爆料浮出水面：第三方追踪系统最新监测到 OpenAI 正在筹备全新模型，版本号直指 GPT-6.2，内部代号为「bel」。",
+        "社区热度瞬间拉满：抓包信息曝光后在开发者圈内如野火般迅速蔓延，甚至有从业者直接在社交平台喊话 Sam Altman 赶紧改名。",
+        "定调大招级别：爆料人士明确将此次动向形容为 OpenAI 准备祭出「重型武器」，暗示其性能较现役主力将有重要迭代。",
+        "传闻揭晓节点临近：爆料者坦言目前尚无法完全证实该模型的所有细节，但透露传闻很快就会正式见分晓。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@EmersonfBraun 我也不知道……但传闻说我们很快就会知道了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 9.6万 · 模型与能力] 直接放大招！OpenAI全新GPT-6.2遭抓包，代号「bel」或近期登场"
     },
     {
       "title": "Cursor市场遭黑客投毒！伪造Claude插件上线，多达5000名开发者中招",
       "summary": "AI代码编辑器Cursor突发严重供应链安全事件，其IDE插件市场遭到恶意软件投毒，多达5000名开发者受到波及。攻击者利用插件市场权限，上传并分发了一款冒充官方的篡改版Claude Code插件，直接对本地开发环境构成威胁。随后Anthropic与Cursor连夜排查并紧急辟谣，强调Anthropic内网及官方插件未受任何破坏，问题出在Cursor插件市场的权限管控上。",
-      "reads": "84万",
-      "ago": "3 小时前",
+      "reads": "85万",
+      "ago": "7 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -129,14 +179,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 84万 · 政策与安全] Cursor市场遭黑客投毒！伪造Claude插件上线，多达5000名开发者中招"
+      "rank": 7,
+      "line": "[榜第7位 · 85万 · 政策与安全] Cursor市场遭黑客投毒！伪造Claude插件上线，多达5000名开发者中招"
     },
     {
       "title": "受够了厂商随意改规则！知名开发者呼吁夺回 Harness，别把工具链拱手让人",
       "summary": "Anthropic 日前通过不可关闭的 flag「tengu_heron_brook」在 Claude Code 强制禁止复刻游戏，引爆技术社区对大厂审查的强烈反弹。知名开发者公开发声呼吁，开发者必须拥有属于自己的 harness，绝不能受制于大厂随意修改规则。他强调 Codex 本就属于开源项目，而由基金会维护的 OpenClaw 更配备了模型切换器，开发者唯有掌控外层工具链…",
-      "reads": "22万",
-      "ago": "44 分钟前",
+      "reads": "25万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -154,64 +204,89 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 22万 · 产品与生态] 受够了厂商随意改规则！知名开发者呼吁夺回 Harness，别把工具链拱手让人"
+      "rank": 8,
+      "line": "[榜第8位 · 25万 · 产品与生态] 受够了厂商随意改规则！知名开发者呼吁夺回 Harness，别把工具链拱手让人"
     },
     {
-      "title": "2026年后彻底停招程序员！Proton备忘录曝光：给了两年，耐心耗尽了",
-      "summary": "隐私巨头Proton首席执行官Andy Yen近日宣布，2026年后将全面停止招聘人类工程师，把软件研发彻底交给AI接管。这一激进表态引发内部剧震与备忘录流出，知名技术研究者随后公开声援，直言管理层已经给了团队两年过渡期，面对AI重塑软件行业的大势，部分工程师的身份认同危机固然值得同情，但企业经营者的耐心早已见底。由于欧洲严苛的劳动监管环境限制了裁员换血，保守的「欧洲化思维」正…",
+      "title": "给了整整两年还不够！研究员揭秘Proton内讧：欧洲思维太保守，老板没耐心了",
+      "summary": "隐私巨头Proton停招程序员全面倒向AI引发轩然大波后，曾为OpenAI加固内部安全的研究员公开发声力挺CEO Andy Yen。他直言整个行业已经给了大家整整两年时间消化AI冲击，老板在商言商，耐心早已耗尽。Proton工程团队深陷「欧洲化思维」过于保守，而欧洲严苛的劳动监管又让管理层无法招募新人换血。对于外界担忧的代码安全，他反驳称AI早已让持续渗透测试变得极其轻而易举…",
       "reads": "15万",
-      "ago": "41 分钟前",
+      "ago": "4 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "停招时间表确定：知名隐私服务巨头Proton首席执行官Andy Yen定下死线，2026年之后全面停止招聘软件工程师，开发工作逐步交由AI接管。",
-        "两年过渡期耗尽：业内知名技术专家公开力挺该决定，指出AI重构研发已有两年窗口期，面对迟迟不转型的团队，企业经营者的耐心已经消耗殆尽。",
-        "核心矛盾直指「欧洲化思维」：分析指出Proton内部冲突激化的根源在于工程团队观念过于保守、节奏拖沓，跟不上AI时代的交付效率。",
-        "安全测试门槛瓦解：针对流出备忘录中关于渗透测试的争议，业内人士直言当前AI模型早已让持续渗透测试变得轻而易举，传统流程必须重构。"
+        "公开发声力挺管理层：曾为OpenAI内部加固OpenClaw工具的安全研究员表态，全力支持Proton CEO Andy Yen拥抱AI的商业决断，称其非常…",
+        "两年缓冲期已经过去：指出AI重塑软件行业已有整整两年时间，工程师群体感受到的职业身份认同丧失固然值得同情，但企业经营者的耐心非常有限。",
+        "工程团队思维太「欧洲化」：直指Proton内部冲突激化的根源在于工程团队过于保守，习惯了传统的欧洲化工作模式与思维，对技术剧变反应迟钝。",
+        "欧洲监管锁死人员汰换：透露管理层原本希望招募不同思维的新人推进改革，但受困于欧洲极为严苛的雇佣法规与监管环境，根本难以对团队进行换血。"
       ],
       "quote": {
         "who": "Peter Steinberger 🦞",
         "role": "",
-        "said": "@DenLoginoff 我知道我们目前的发展轨迹可能让人很难接受。过个一两年咱们再聊。"
+        "said": "@Cinaed4 @matijaoe 我今年大半时间都在做 OpenClaw 的安全工作，为 OpenAI 内部使用进行加固，所以还挺了解的。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 15万 · 组织与人事] 2026年后彻底停招程序员！Proton备忘录曝光：给了两年，耐心耗尽了"
+      "rank": 9,
+      "line": "[榜第9位 · 15万 · 组织与人事] 给了整整两年还不够！研究员揭秘Proton内讧：欧洲思维太保守，老板没耐心了"
     },
     {
-      "title": "上下文还没满就撞墙？Anthropic连夜扩容4倍，Claude单次请求暴涨至128MB",
-      "summary": "Claude 开发者终于不用为请求体积提心吊胆了。Anthropic 官方宣布将第一方 Claude API 的 Messages 与 Token Counting 请求体积上限由 32 MB 一口气拉升至 128 MB，可用空间直接翻了约 4 倍。同时针对超过 20 张图片的请求，单图尺寸限制也放宽至 3000 px。这意味着跑 Computer Use 长会话或塞大体积 P…",
-      "reads": "39万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
+      "title": "代码手搓写实级大片！Fable 5.5 Max偷跑，即将登陆Claude Code",
+      "summary": "Anthropic下一代主力模型Fable 5.5 Max生成样张遭社区曝光。仅凭一句「生成精美的鹈鹕骑自行车SVG」简短提示词，模型就用原生代码构建出写实级羽毛与机械结构的超精细矢量图，引来从业者直呼刷新了对SVG表现力的认知。据悉，该模型即将正式登陆编程工具Claude Code，在冲刺上市的关键阶段，为开发者生态再添重磅底牌。",
+      "reads": "5.1万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "单次请求容量扩大约 4 倍：Anthropic 官方将 Claude API 的 Messages（核心调用接口）与 Token Counting 请求体积…",
-        "单图分辨率限制同步放宽：针对单次包含超过 20 张图像的多模态请求，单张图片的尺寸上限从 2000 px 拔高到 3000 px。",
-        "精准解决 Agent 提前撞墙痛点：此前在长时间 computer-use 自动化会话或解析大型 PDF 时，多图载荷常导致数据在上下文窗口尚未耗尽前就先撞…",
-        "免去切块丢上下文的工程负担：扩容后多模态 AI Agent 能更持久稳定地处理长线任务，开发者无需再被迫频繁压缩截图或裁切历史多模态上下文。"
+        "下一代模型样张曝光：技术社区最新泄露了Anthropic新模型Fable 5.5 Max的实测案例，展现出顶尖的代码构图力。",
+        "极简Prompt生成超写实图像：面对「生成一只鹈鹕骑自行车的SVG」指令，模型直接依靠SVG代码输出了写实风格的鹈鹕与公路自行车细节。",
+        "打破SVG表现力上限：生成的矢量图兼具逼真的光影质感与复杂的机械结构，让从业者惊呼「甚至不知道SVG还能这么好看」。",
+        "即将登陆Claude Code：爆料透露，Fable 5.5 Max很快将正式接入Anthropic旗下编程智能体工具Claude Code。"
       ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "Chris",
         "role": "",
-        "said": "Claude 居然把单次请求上限从 32MB 干到 128MB 了！ 以前跑 Computer Use 或者丢一堆截图、大 PDF 进去，上下文还剩一堆，结果先被体积限制卡死，现在基本没这问题了。 说白了就是 Agent 能更连续地干活，不用老是被迫切块、丢历史截图。 #Claude #AIAgent #ComputerUse #Anthropic #Dario"
+        "said": "我都不知道 SVG 还能这么好看"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 39万 · 产品与生态] 上下文还没满就撞墙？Anthropic连夜扩容4倍，Claude单次请求暴涨至128MB"
+      "rank": 10,
+      "line": "[榜第10位 · 5.1万 · 模型与能力] 代码手搓写实级大片！Fable 5.5 Max偷跑，即将登陆Claude Code"
+    },
+    {
+      "title": "抓黑客的被AI偷家了！链上安全巨头遭进攻型智能体渗透，紧急辟谣63亿大案",
+      "summary": "专门帮全球警方抓黑客的区块链安全老大哥，这次自己家被端了。知名加密追踪机构 Chainalysis 遭遇黑客攻击，其向客户发送的邮件显示，攻击者利用新型「进攻型智能体技术」渗透了系统，导致部分用户的姓名、电子邮箱及角色标签等敏感信息被非法访问。面对外界传闻，官方已紧急出面澄清，声明此次遇袭与涉案 63 亿美元的币安（Binance）惊天大案毫无关系。",
+      "reads": "4.1万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "全球顶尖加密追踪机构 Chainalysis 自身遭遇网络攻击，该机构以往主要协助执法部门追踪黑客与链上赃款。",
+        "黑客入侵手段发生质变：根据曝光的客户内部邮件，攻击者采用了「进攻型智能体技术（offensive agentic techniques）」进行自动化渗透。",
+        "数据泄露范围曝光：受影响的数据包括部分注册用户的姓名、电子邮箱以及内部角色标签等信息。",
+        "官方紧急发布澄清：Chainalysis 明确否认了外界传闻，强调本次遭遇的攻击与涉案金额高达 63 亿美元的币安（Binance）失窃案毫无关联。"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "@109problems 你把那几十亿藏哪儿了？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 4.1万 · 政策与安全] 抓黑客的被AI偷家了！链上安全巨头遭进攻型智能体渗透，紧急辟谣63亿大案"
     },
     {
       "title": "给最强模型装隐私锁！OpenAI祭出私密智能，联手大客户解决合规",
       "summary": "大企业想用最前沿大模型，又卡在数据隐私与合规红线，这块最大的心病终于被 OpenAI 提上日程。官方正式官宣推出面向企业客户的「OpenAI Private Intelligence」，明确喊出隐私保护必须跟上智能步伐的口号。该机制让企业在直接调用 OpenAI 最强模型的同时，能把数据控制权牢牢握在自己手里。目前 OpenAI 正拉上多位核心大客户闭门共建，全力扫清尖端 AI…",
-      "reads": "18万",
-      "ago": "3 小时前",
+      "reads": "24万",
+      "ago": "7 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -229,39 +304,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 18万 · 政策与安全] 给最强模型装隐私锁！OpenAI祭出私密智能，联手大客户解决合规"
+      "rank": 12,
+      "line": "[榜第12位 · 24万 · 政策与安全] 给最强模型装隐私锁！OpenAI祭出私密智能，联手大客户解决合规"
     },
     {
-      "title": "2026是最后一年！Proton停招程序员倒向AI，CEO怒骂反对者「失败者思维」",
-      "summary": "瑞士知名加密与隐私服务商Proton突发震荡，CEO Andy Yen在Slack内部明确通知员工，2026年将是公司最后一年招聘工程师，后续将全面转向AI。面对员工对激进转型节奏的担忧，Yen甚至直斥反对意见纯属「扯淡和失败者思维」，CTO亦同步撰写了内部AI宣言。在8位员工爆料及会议音频曝光后，Proton官方发言人全盘证实了报道的真实性，仅辩解称一心求快时用词过于生硬。这…",
-      "reads": "27万",
-      "ago": "5 小时前",
-      "category": "组织与人事",
+      "title": "凭什么SpaceX是投资级Anthropic不算？S-1亮出净现金，评级机构被喷瞎了",
+      "summary": "评级机构将重资产的 SpaceX 稳稳列入投资级，却把大模型新贵 Anthropic 拒之门外，在科技圈引发强烈反弹。根据 Anthropic 最新披露的 S-1 招股书，公司不仅在核心市场保持领先与指数级增长，更展现出健康的推理经济学模型，烧钱速度严格受控且坐拥净现金头寸。面对传统财经媒体长期唱衰 AI 的基调，业内人士直接开炮：传统评级机构的刻舟求剑，已经彻底看不懂大模型经…",
+      "reads": "7.2万",
+      "ago": "4 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "终止招聘时间表敲定：CEO Andy Yen在公司Slack发文通知全体员工，「这将是我们最后一年招聘工程师」（This will be the last…",
-        "CEO痛斥内部异议：内部聊天记录与会议录音显示，针对员工放慢激进AI转型节奏的呼吁，Yen直接定性为「纯属扯淡和失败者思维」（bullshit and lo…",
-        "CTO起草AI宣言全速推进：除CEO定调外，Proton的CTO已起草专门的AI宣言，驱动旗下核心业务Proton Mail与Proton VPN全面重构技…",
-        "8名员工曝光内幕，官方全盘认领：多达8位现任员工接受采访并提供了内部音频与通信证据；Proton官方发言人回应时对所有爆料细节均未提出异议，仅承认在追求高速…"
+        "科技记者公开炮轰华尔街评级标准，核心争议在于评级机构给予 SpaceX 投资级评级，却未给予 Anthropic 投资级待遇。",
+        "Anthropic 最新的 S-1 招股书披露了关键财务底牌，官方数据证实其当前处于净现金头寸（net cash position）。",
+        "招股书数据展现出健康的推理经济学（inference economics），打破了外界对前沿大模型无底洞亏损的刻板印象。",
+        "在维持指数级业务增长的同时，Anthropic 成功将现金消耗速度控制在有限范围内，展现出极强的资本效率。"
       ],
       "quote": {
-        "who": "LayoffHedge",
+        "who": "tae kim",
         "role": "",
-        "said": "Proton 自己的“关于”页面上写着，必须“永远把人放在利润之前”。 其主要股东是一家非营利基金会。 时代变了。"
+        "said": "哪个平行宇宙里 SpaceX 算投资级，而 Anthropic 却不是？在 S-1 披露了其推理经济学、指数级增长伴随着有限的烧钱速度、在这一代最重要的市场中处于领先地位以及净现金头寸之后？评级机构是疯了吗？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 27万 · 组织与人事] 2026是最后一年！Proton停招程序员倒向AI，CEO怒骂反对者「失败者思维」"
+      "rank": 13,
+      "line": "[榜第13位 · 7.2万 · 资本与算力] 凭什么SpaceX是投资级Anthropic不算？S-1亮出净现金，评级机构被喷瞎了"
+    },
+    {
+      "title": "5000美元以下没人接的案子，AI全包了！律师带客量从100暴涨到500",
+      "summary": "过去代理费低于 5000 美元的小案子，大部分律所因为成本太高根本不愿接，但 AI 正在彻底颠覆这套经济模型。法律 AI 公司 Eve 联合创始人兼 CEO Jayanth Madheswaran 与 a16z 合伙人 Alex Rampell 深入复盘：AI 已经能把原告律所从首通客户电话到最终执行和解的全流程自动化。洛杉矶一家律所借此将单名律师服务的客户规模从 100 人硬…",
+      "reads": "4.7万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "颠覆律所经济账：原告律所过去受制于高昂的人力时间成本，单案律师费低于 5000 美元的案子基本拒接，AI 将流程成本压低后，让小额赔偿诉讼成为有利可图的规模…",
+        "全流程端到端自动化：Eve 展示了 AI 贯穿原告法律业务的能力，从潜在客户打来的第一通咨询电话开始，直至最终签署和解，全链条无需大量人工倒手。",
+        "单人管理体量拉升 5 倍：洛杉矶一家律所落地实测显示，单名律师原本只能同时管理约 100 名客户，在 AI 介入后跃升至 500 人，组织人效发生量级蜕变。",
+        "律所向软件公司重构：Madheswaran 预判，未来大量律所的组织形式将高度近似软件公司，律所的核心壁垒不再只是资质或关系，而是自身积累沉淀的专有办案数据…"
+      ],
+      "quote": {
+        "who": "a16z",
+        "role": "",
+        "said": "Eve 联合创始人兼 CEO Jayanth Madheswaran 表示，律师们正在开始像数据科学家和工程师一样工作，一家律所利用 AI 将每位律师服务的客户量提升了 5 倍： “洛杉矶的一家律所从每位律师管理约 100 名客户做到 500 名。这种事情是"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 4.7万 · 产品与生态] 5000美元以下没人接的案子，AI全包了！律师带客量从100暴涨到500"
     },
     {
       "title": "折叠屏上手就陷碎屏争议！苹果两大新品遭拆解，触屏MacBook被群嘲",
       "summary": "科技名记马克·古尔曼在最新一期 Power On 播客中，对手头实测的苹果两大硬件新品进行了全方位拆解。首款触控屏 MacBook Pro 虽然换上了 OLED 屏与全新交互界面，但高昂的定价和缺乏实用场景的硬伤，正遭到开发者与首批用户的集中群嘲。与此同时，备受瞩目的折叠屏设备 iPhone Duo 也完成了真机上手，不仅直接卷入碎屏争议风波，更暴露出苹果当前面临的棘手供应链难…",
-      "reads": "6.2万",
-      "ago": "1 小时前",
+      "reads": "7.9万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -279,133 +379,33 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 6.2万 · 产品与生态] 折叠屏上手就陷碎屏争议！苹果两大新品遭拆解，触屏MacBook被群嘲"
-    },
-    {
-      "title": "答完反手暗中自审！Claude静默上线自我评估，越狱成功率暴跌至54%",
-      "summary": "Anthropic 官方宣布为 Claude 引入「自我评估」（self-assessment）安全机制，自 2026 年 6 月起已在生产环境静默运行数月，覆盖全球大部分流量。该机制在 Claude 每次生成回答后，直接复用已有上下文的 KV cache 进行后台隐蔽安全复核，单次仅耗费约 10 个额外 Token、增加不足 2% 的推理算力，且成本全由官方承担不向用户加价。…",
-      "reads": "138万",
-      "ago": "12 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "静默上线与覆盖面：自 2026 年 6 月起，「自我评估」（self-assessment）防滥用技术已在生产环境秘密运行，目前已覆盖 Claude 全球大…",
-        "运行机制与实现：Claude 在每次生成回复后，会利用现有的 KV cache 在后台无感执行安全复核，判定自身是否协助造成潜在危害，并将私密审查结果提交给…",
-        "极低推理开销：单次自我评估仅消耗约 10 个额外 Token，推理算力开销低于 2%，全部算力成本由 Anthropic 承担，不对终端用户收取额外费用。",
-        "防御硬核数据：在 Claude Fable 5 评估中，该机制以仅 1% 的误报率标记出 94% 的高优先级违规对话，将越狱攻击成功率从 79% 骤降至 5…"
-      ],
-      "quote": {
-        "who": "Max For AI",
-        "role": "",
-        "said": "牛逼， @AnthropicAI 公开承认，Claude在回答完你的问题之后，还会在后台偷偷审查你刚才说了什么。 这套机制叫Self-Assessment（自我评估），从今年6月就已经在生产环境运行了，覆盖了Claude全球很大一部分对话流量。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 138万 · 政策与安全] 答完反手暗中自审！Claude静默上线自我评估，越狱成功率暴跌至54%"
-    },
-    {
-      "title": "裁掉4000人反手给无限Token！思科27岁员工，一人单挑全公司老代码",
-      "summary": "思科总裁 Jeetu Patel 近期披露，已为 27 岁员工 Padmanabhan Krishnamurthy 开放无限量 AI Token，支持其以单人形式重写公司的全部遗留代码。讽刺的是，思科刚在 5 月宣布裁员 4000 人，内部备忘录当时还宣称要重点投资「全员 AI 化」。一边用无限 Token 催生极端一人团队、大幅削减本土编制，一边又在去年 10 月至今年 6…",
-      "reads": "6.3万",
-      "ago": "3 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "思科总裁 Jeetu Patel 确认，已向 27 岁的工程员工 Padmanabhan Krishnamurthy 开放无限量 AI Token，由其以单…",
-        "该工程策略紧随大规模裁员落地：思科曾在 5 月宣布裁撤 4000 名员工，官方备忘录明确强调将把资源转向投资「全公司员工对 AI 的使用」。",
-        "在削减本土工程岗位的同时，思科仍在大规模申请工作签证，去年 10 月至今年 6 月期间已提交 1184 份 H-1B 申请，几乎追平此前全年的 1237 份…",
-        "区域签证数据显示，自 2015 年以来思科在得克萨斯州提交的 H-1B 申请累计达 1478 份；得州自 2020 年以来 H-1B 申请量已飙升 49%。"
-      ],
-      "quote": {
-        "who": "LayoffHedge",
-        "role": "",
-        "said": "Cisco 从 10 月到 6 月提交了 1,184 份 H-1B 申请。去年全年的总数是 1,237 份。 自 2015 年以来，Cisco 的申请中有 1,478 份来自 Texas。 裁员、一人团队，却依然在申请签证。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 6.3万 · 组织与人事] 裁掉4000人反手给无限Token！思科27岁员工，一人单挑全公司老代码"
-    },
-    {
-      "title": "低于5000美元绝不接单！AI全流程接管打官司，律所要变软件公司了",
-      "summary": "如果代理费挣不到5000美元，绝大多数传统律师看都不看一眼就直接拒单，但AI正在彻底改写这套算盘。法律AI初创企业Eve联合创始人兼CEO Jay Madheswaran在连线a16z时指出，AI已经能把原告法律业务从初次接听客户电话一直自动化推进到最终和解。未来律所的运作逻辑将全面倒向软件公司，而各家沉淀的专有数据，将成为唯一的深水护城河。",
-      "reads": "2.6万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "传统律所承接门槛极高：在现行成本结构下，若单案代理费预计低于5000美元，绝大多数律师会直接放弃承接，海量低标的案件长期被拒之门外。",
-        "AI重构法律服务经济账：法律AI企业Eve联合创始人兼CEO Jay Madheswaran连线a16z合伙人Alex Rampell指出，AI正在从根本上…",
-        "诉讼全流程实现端到端自动化：AI技术正逐步实现原告业务全生命周期覆盖，从初次接听客户电话、案情梳理，一直全自动推进至最终和解阶段。",
-        "律所形态面临全面重塑：Madheswaran预测未来的律所组织架构将越来越向软件公司靠拢，不再依赖堆砌人力，而是依靠系统化软件驱动业务运转。"
-      ],
-      "quote": {
-        "who": "a16z",
-        "role": "",
-        "said": "Eve 联合创始人兼 CEO Jayanth Madheswaran 表示，律所将会越来越像软件公司，并以专有数据作为核心优势： “我认为即将发生的转变是，很多这类律所会越来越像软件公司。我认为"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 2.6万 · 产品与生态] 低于5000美元绝不接单！AI全流程接管打官司，律所要变软件公司了"
-    },
-    {
-      "title": "卸载也清不掉！Cursor向5000人推送带毒插件，后门已死死焊在电脑里",
-      "summary": "AI代码编辑器Cursor遭遇严重的插件供应链投毒，已向多达5000名用户分发了被篡改的恶意版Claude Code插件。网络安全专家Kevin Beaumont与Cursor官方接连发出紧急警示：该恶意程序一旦加载便会在本地系统建立持久化驻留，单纯更新插件或彻底卸载根本无法清除后门。受波及开发者的本地主机已面临直接威胁，常规的覆盖与删除防护手段全线失效。",
-      "reads": "2.5万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "供应链遭遇投毒：AI代码编辑器Cursor遭遇插件供应链攻击，已向多达5000名用户推送了被篡改的Claude Code插件。",
-        "安全专家紧急示警：网络安全专家Kevin Beaumont明确警告，用户即使将插件更新至最新版，也无法移除潜藏的后门程序。",
-        "Cursor官方承认失效：Cursor官方随后向受影响用户发出警告，承认常规操作已无济于事，哪怕彻底卸载该插件也可能无法脱险。",
-        "已建立本地持久化：技术分析表明该后门并不单纯寄生在插件扩展体内，加载运行后便会迅速在本地操作系统中建立持久化驻留。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "‼️ 警告：Kevin Beaumont 表示，更新被投毒的 Claude Code 插件并不能清除后门。 Cursor 曾向多达 5000 名用户推送了该恶意版本，并警告称哪怕彻底卸载可能也不管用。 这个后门从来就不只存在于插件内部。一旦加载，它"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 2.5万 · 政策与安全] 卸载也清不掉！Cursor向5000人推送带毒插件，后门已死死焊在电脑里"
+      "line": "[榜第15位 · 7.9万 · 产品与生态] 折叠屏上手就陷碎屏争议！苹果两大新品遭拆解，触屏MacBook被群嘲"
     },
     {
-      "title": "连手搓GTA都不行了！Anthropic为IPO扫除版权雷区，开发者集体倒向开源",
-      "summary": "开发者发现，Claude如今已不再允许协助生成Minecraft或GTA 5这类经典游戏的复刻代码，连作为基准测试都被全面拦截。社区普遍分析，这是Anthropic在筹备IPO期间的激进避险动作，宁可牺牲开发者体验也要彻底杜绝版权侵权诉讼。而且Anthropic未来绝无可能发文退让，这种严苛的封锁正强力推动技术社区彻底投向不受厂商约束的开源生态。",
-      "reads": "3.6万",
+      "title": "丢句SSH自己全搞懂！GPT-6 Astra自主接管机械臂，还拍下人类确认",
+      "summary": "OpenAI 开发者官方展示了旗舰模型 GPT-6 Astra 探索物理世界的一场硬核实验。在旧金山共享机器人实验室 Mission Robotics 中，开发者仅仅给出了一句提示「机器人在那边，SSH连上去试试看能否控制」，GPT-6 Astra 便自行摸清了底层的控制系统与摄像头调用。不仅机械臂成功受控运转，模型还主动调取摄像头拍下了站在旁边的开发者以此确认环境，通用大模型…",
+      "reads": "3.2万",
       "ago": "4 小时前",
-      "category": "政策与安全",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "全面封杀经典游戏复刻：Claude已明确禁止协助复刻Minecraft（我的世界）或GTA 5等知名游戏，即使用于基准测试也无法通过。",
-        "激进避险剑指IPO：社区广泛分析指出，Anthropic此举是在筹备IPO的关键期严防死守，力求彻底规避因侵犯游戏IP版权而卷入高昂的法律诉讼。",
-        "官方绝无退让可能：业内人士断言，Anthropic在合规问题上不会有好转的可能，后续绝不会公开发文放松限制或允许开发者抄袭IP。",
-        "开发者基准测试受阻：复刻复杂经典游戏此前是衡量AI编码极限能力的关键民间基准，一刀切封禁让闭源模型的实用性大打折扣。"
+        "实验背景：OpenAI 开发者官方展示了与旧金山共享机器人实验室 Mission Robotics 的最新实验，展现旗舰模型 GPT-6 Astra 自主接…",
+        "极简指令接管：实验室负责人 Maddy Fairchild 在测试中并未提供预设驱动，仅提示「机器人在那边」并让模型通过 SSH 尝试远程连接。",
+        "自主摸清底层系统：GPT-6 Astra 在没有人工软硬件适配的情况下，自行摸索弄懂了机械臂的底层控制协议与指令，并成功驱动机械臂。",
+        "自主调用摄像头确认：在接管硬件的过程中，GPT-6 Astra 还自主识别并调用了实验室的摄像头，拍下一旁站立的开发者画面并传回以确认所处物理环境。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "OpenAI Developers",
         "role": "",
-        "said": "@BenPielstick 说得在理。看到事情变成这样真让人难过……"
+        "said": "认识一下 @Scav，他把开发者们聚集在一个共享机器人社区中，一起探索 AI 在物理世界中的可能性边界。 在一次实验中，GPT-6 Astra 远程控制了一个机械臂："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 3.6万 · 政策与安全] 连手搓GTA都不行了！Anthropic为IPO扫除版权雷区，开发者集体倒向开源"
+      "line": "[榜第16位 · 3.2万 · 模型与能力] 丢句SSH自己全搞懂！GPT-6 Astra自主接管机械臂，还拍下人类确认"
     }
   ],
   "board_count": 16,
