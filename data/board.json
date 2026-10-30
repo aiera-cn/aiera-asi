@@ -3,22 +3,47 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-30 15:01:31 +0800",
+  "fetched_at": "2026-10-30 22:01:53 +0800",
   "today": "10/30",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "意念直接打通iPhone！马斯克官宣Telepathy，带宽几年内远超打字",
-      "summary": "Neuralink 工程师团队近期完成了一场为期 72 小时的闭门黑客松，在言语恢复受试者身上集中跑通了多项消费级交互原型：受试者不仅能脑内默念「Hey Neuralink」唤醒 Grok 智能体操控电脑看视频，还能通过专属 App「Bloom」把意念解码的语音直接注入 iPhone 通话流完成日常通话。研发团队还训练了轻量卷积神经网络实现自动语音检测（VAD），彻底摆脱了按键…",
-      "reads": "334万",
+      "title": "紧急排查！Cursor插件市场惊现山寨Claude Code，5000人中招",
+      "summary": "用 Cursor 的开发者得赶紧自查了。Cursor 官方紧急通报了一起插件市场安全事件，一个被第三方恶意修改的 Claude Code VS Code 插件悄悄混入市场，最多已波及 5000 名用户。Cursor 团队与相关分析人员沟通后紧急澄清，该恶意版本并非由 Anthropic 官方开发，官方原版插件并未被攻破，市场内其他插件也未受波及。",
+      "reads": "52万",
       "ago": "1 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Cursor 官方确认发生安全事件，其 IDE 插件市场中出现一款被第三方恶意修改的 Claude Code VS Code 插件。",
+        "受影响范围明确，Cursor 官方通报称该恶意插件最多波及 5000 名用户。",
+        "Cursor 团队迅速澄清，涉事的恶意修改版插件绝非 Anthropic 官方开发，同时 Cursor 插件市场内的其他插件均未受到影响。",
+        "针对社区对官方供应链沦陷的恐慌，团队负责人 Michael Truell 进一步明确，Anthropic 官方原版 Claude Code 插件并未被攻破…"
+      ],
+      "quote": {
+        "who": "sui",
+        "role": "",
+        "said": "他没说错。 可能真的要结束了 chat，这就是新常态。 永远铭记 10-17。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 52万 · 政策与安全] 紧急排查！Cursor插件市场惊现山寨Claude Code，5000人中招"
+    },
+    {
+      "title": "意念也能打iPhone电话了！马斯克官宣首款产品，几年内带宽彻底超越人类",
+      "summary": "Neuralink 工程师团队针对语言恢复受试者完成了一场 72 小时闭门黑客松，一口气跑通五大意念交互原型：不仅用轻量级卷积网络实现免按键语音意图识别，受试者还能默念「Hey Neuralink」唤醒 Grok 智能体操控电脑，甚至将脑机接口直接接入 iPhone 麦克风独立接打电话。随后马斯克正式宣布 Neuralink 首款产品定名为 Telepathy，直言其几年内的输…",
+      "reads": "854万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "72小时闭门黑客松突击：Neuralink 工程师团队奔赴言语恢复研究受试者所在地，展开为期 72 小时的极限原型开发，推动脑机接口向实际生活场景落地。",
-        "轻量 CNN 实时捕捉发声意图：团队训练了一个轻量级卷积神经网络实现自动语音活动检测（VAD），实时预测受试者的说话意图，彻底省去了手动按键开始和停止录音的…",
-        "意念唤醒 Grok 操控电脑：受试者只需在脑海中默念「Hey Neuralink」及任务指令，就能触发 Grok 智能体执行电脑操作，现场成功用意念让笔记本…",
-        "专属 App 打通 iPhone 实时通话：团队研发了移动端语音脑机应用「Bloom」并与 iPhone 通话深度集成，将意念解码出的音频直接注入手机通话麦…"
+        "72小时闭门黑客松密集攻关：Neuralink 工程师团队拜访语言恢复受试者，在 72 小时内快速验证并交付了多套脑机接口意念交互原型。",
+        "轻量 CNN 实现免按键语音检测：团队训练了一个轻量级卷积神经网络（CNN）实时解码脑电尖峰，用户动嘴有说话意图时系统自动识别，彻底摆脱物理按键。",
+        "脑波实时双视图可视化：推出时间序列光栅与全通道瞬时滚动两种可视化方案，帮助受试者找出能引发最强神经活动的想象动作，加速解码模型迭代。",
+        "默念「Hey Neuralink」唤醒 Grok：受试者只要在脑中默念指令即可调起 Grok 智能体，直接通过意念控制笔记本电脑打开 YouTube 并搜索…"
       ],
       "quote": {
         "who": "Elon Musk",
@@ -29,14 +54,114 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 334万 · 产品与生态] 意念直接打通iPhone！马斯克官宣Telepathy，带宽几年内远超打字"
+      "rank": 2,
+      "line": "[榜第2位 · 854万 · 产品与生态] 意念也能打iPhone电话了！马斯克官宣首款产品，几年内带宽彻底超越人类"
+    },
+    {
+      "title": "双手不用离开方向盘！Claude正式开进车机，手机端还能多账号免退秒切",
+      "summary": "Anthropic 这次把 Claude 移动端体验彻底盘活了。iOS 和 Android 客户端不仅支持个人、团队与企业多账号同时登录、免退出随时秒切，iPhone 语音模式还直接接入了 Apple CarPlay，开车时双手不离方向盘就能实时语音对话，响应提速且嘈杂环境降噪显著增强。大屏交互也迎来质变，iPad 与 iPhone Duo 生成内容支持侧边并排展示与全屏细览…",
+      "reads": "161万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "多账号免退出秒切换：iOS 与 Android 端正式支持同时登录多个账号，个人、团队及企业账户无需注销即可自由切换；有开发者针对此举展开热议，推测官方对多…",
+        "上车 Apple CarPlay：iPhone 语音模式正式接入 CarPlay 车载系统，支持驾驶途中全程免手操作交互；官方同时优化了语音底层表现，嘈杂环…",
+        "iPad 与双屏设备界面重构：针对 iPad 和 iPhone Duo，Claude 生成的图表与文本内容改为在对话侧边并排打开，不再遮挡原聊天流，并支持一…",
+        "折叠屏与大屏桌面化：在 Chromebook、Googlebook 和 Android 折叠屏设备上，Claude 交互体验全面对标 PC 端，加入了可调节…"
+      ],
+      "quote": {
+        "who": "小互",
+        "role": "",
+        "said": "Claude 称手机客户端支持多账号登陆和切换 所以 开多账号是不是不被干了🙃"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 161万 · 产品与生态] 双手不用离开方向盘！Claude正式开进车机，手机端还能多账号免退秒切"
+    },
+    {
+      "title": "哈萨比斯深夜交卷！谷歌Gemini 4 Carbon登顶第一，力压GPT-6和Opus",
+      "summary": "Google DeepMind 掌门人 Demis Hassabis 突击亮出战报，全新模型 Gemini 4 Carbon 在 Artificial Analysis Intelligence Index v5.0 榜单中以 59 分强势登顶。在大幅遏制刷分机制的新基准下，Carbon 成功压制两大最强对手，比 Anthropic 的 Claude Opus 5.5（58分）…",
+      "reads": "65万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Google DeepMind 负责人 Demis Hassabis 宣布，新模型 Gemini 4 Carbon 正式在权威榜单 Artificial A…",
+        "在剔除了绝大部分刷分顾虑的 Intelligence Index v5.0 新评测中，Gemini 4 Carbon 斩获 59 分拔得头筹。",
+        "横向比拼两大巨头旗舰，Carbon 以 1 分优势险胜 Claude Opus 5.5（58分），同时以 2 分优势挑落 OpenAI 现役旗舰 GPT-6…",
+        "在全部 9 项评测指标中，Gemini 4 Carbon 一举夺得 4 项单项冠军，涵盖高难测试 HLE-Diamond 与 Terminal-Bench-…"
+      ],
+      "quote": {
+        "who": "Derya Unutmaz, MD",
+        "role": "",
+        "said": "@AlokANYC 目前还没权限，但迫不及待想试试了！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 65万 · 模型与能力] 哈萨比斯深夜交卷！谷歌Gemini 4 Carbon登顶第一，力压GPT-6和Opus"
+    },
+    {
+      "title": "「做渗透测试是失败者思维」！隐私巨头Proton被曝90%代码全靠Claude",
+      "summary": "以端到端加密和极致安全立足的知名隐私服务商 Proton 突然曝出严重内讧。面对工程团队在发布前对新代码进行渗透测试（pentest）的安全诉求，CEO Andy Yen 竟然痛斥其为「胡扯和失败者思维」，甚至要求员工放弃防御思维、直接去把提示词「写得更好」。更令人震惊的是，CTO 透露早在 10 月份 Proton 就有高达 90% 的代码交由 AI 编写，且绝大部分出自 A…",
+      "reads": "13万",
+      "ago": "1 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "内讧爆发：知名隐私与加密服务商 Proton 内部管理层与工程团队产生严重分歧，核心焦点在于是否对 AI 生成的代码进行安全审计。",
+        "CEO 痛斥安全人员：面对员工在功能上线前进行渗透测试（pentest）的请求，CEO Andy Yen 直接痛骂该诉求是「胡扯和失败者思维」（bullsh…",
+        "离谱的安全逻辑：Andy Yen 要求工程师放弃传统的防御性测试思维，认为代码漏洞问题应该靠把提示词（Prompt）「写得更好」来解决。",
+        "AI 代写比例高达 90%：Proton CTO 曾向团队透露，早在 10 月份，公司已有 90% 的新增代码完全交由 AI 自动编写。"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "‼️ 登录同一账号的任意其他 PC，都能对 Steam 进行零点击劫持。 Atredis Partners 在 Steam 同步这些 PC 的消息中发现了两个缓冲区溢出漏洞。 其已发布可用的利用代码，并表示各漏洞均已修复或已过披露期限。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 13万 · 组织与人事] 「做渗透测试是失败者思维」！隐私巨头Proton被曝90%代码全靠Claude"
+    },
+    {
+      "title": "答完反手暗中自审！Claude静默上线自我评估，越狱成功率暴跌至54%",
+      "summary": "Anthropic 官方宣布为 Claude 引入「自我评估」（self-assessment）安全机制，自 2026 年 6 月起已在生产环境静默运行数月，覆盖全球大部分流量。该机制在 Claude 每次生成回答后，直接复用已有上下文的 KV cache 进行后台隐蔽安全复核，单次仅耗费约 10 个额外 Token、增加不足 2% 的推理算力，且成本全由官方承担不向用户加价。…",
+      "reads": "112万",
+      "ago": "7 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "静默上线与覆盖面：自 2026 年 6 月起，「自我评估」（self-assessment）防滥用技术已在生产环境秘密运行，目前已覆盖 Claude 全球大…",
+        "运行机制与实现：Claude 在每次生成回复后，会利用现有的 KV cache 在后台无感执行安全复核，判定自身是否协助造成潜在危害，并将私密审查结果提交给…",
+        "极低推理开销：单次自我评估仅消耗约 10 个额外 Token，推理算力开销低于 2%，全部算力成本由 Anthropic 承担，不对终端用户收取额外费用。",
+        "防御硬核数据：在 Claude Fable 5 评估中，该机制以仅 1% 的误报率标记出 94% 的高优先级违规对话，将越狱攻击成功率从 79% 骤降至 5…"
+      ],
+      "quote": {
+        "who": "Max For AI",
+        "role": "",
+        "said": "牛逼， @AnthropicAI 公开承认，Claude在回答完你的问题之后，还会在后台偷偷审查你刚才说了什么。 这套机制叫Self-Assessment（自我评估），从今年6月就已经在生产环境运行了，覆盖了Claude全球很大一部分对话流量。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 112万 · 政策与安全] 答完反手暗中自审！Claude静默上线自我评估，越狱成功率暴跌至54%"
     },
     {
       "title": "最后一秒滑跪！OpenAI紧急取消砍额度，Pro全档位用量直接翻倍",
       "summary": "OpenAI在最后关头紧急踩下刹车。研究员Tibo宣布，即日起对Pro 100（100美元/月）、Pro 200（200美元/月）、Pro 500（500美元/月）及Business Premium的所有使用额度全部翻倍，且生效当天取消原定针对Pro 200的削减计划，用户的Work与Codex权益全额保留。此外，AI智能体Dots继续单独计费、不占核心配额。不过此次提额完全排…",
-      "reads": "466万",
-      "ago": "5 小时前",
+      "reads": "562万",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -54,39 +179,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 466万 · 产品与生态] 最后一秒滑跪！OpenAI紧急取消砍额度，Pro全档位用量直接翻倍"
+      "rank": 7,
+      "line": "[榜第7位 · 562万 · 产品与生态] 最后一秒滑跪！OpenAI紧急取消砍额度，Pro全档位用量直接翻倍"
     },
     {
-      "title": "开车双手不用离方向盘！Claude正式接入CarPlay，多账号切换也来了",
-      "summary": "Anthropic 为 Claude 移动端推送了一波重磅更新。iPhone 用户现在可以直接在 Apple CarPlay 车机上用语音跟 Claude 对话，开车时双手不用离开方向盘；iOS 和 Android 客户端也终于支持免退出无缝切换个人与企业多账号。此外，新版不仅针对 iPad 和 iPhone Duo 等大屏折叠设备重构了侧边并排呈现的交互，还为全平台新增了 2…",
-      "reads": "129万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "title": "奥特曼密集放暴论：端侧推理纯属极度浪费，机器人自建数据中心触手可及",
+      "summary": "Sam Altman 最近在多场访谈与交流中彻底摊牌，放出一连串重磅暴论。他透露 AI 研发自动化已经初现端倪，内部模型目前已能自主找出 5% 的算力效率提升方案；更颠覆的是，他断言由 AI 控制机器人去建造自复制数据中心、运营晶圆厂乃至架设电网，这一节点早已触手可及。与此同时，Altman 公开痛批在本地设备运行端侧推理是对稀缺算力的「极度糟糕配置」，直接给开源本地部署派泼了…",
+      "reads": "19万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "正式接入 Apple CarPlay：iPhone 端语音模式打通车机系统，驾车途中双手无需离开方向盘即可全程免提语音问答，同时端侧拾音抗噪能力更强、响应更…",
-        "多账号免登自由切换：iOS 与 Android 客户端上线全新账号面板，支持同时保持多个账号登录，在个人账号、团队账号及企业账号之间自由流转，告别繁琐的注销…",
-        "大屏与折叠屏交互重构：针对 iPad 和 iPhone Duo 等大屏折叠设备，Claude 生成的图表与文本改为在对话界面侧边并排展开，不再遮挡聊天流，并…",
-        "Android 靠拢桌面级操作：在 Chromebook、Googlebook 以及各类安卓折叠屏上，Claude App 适配了可调节侧边栏、触控板手势…"
+        "AI 自动化研发迈出关键一步：Sam Altman 透露，尽管目前业界尚不知自动化研发最终该如何完整运转，但内部模型目前已能自主找出提升 5% 算力效率的优…",
+        "描绘自复制数据中心终极蓝图：Altman 多次描绘由 AI 控制机器人去运营晶圆厂、制造涡轮机或太阳能电池板并建造机房的前景，直言由 AI 自行繁衍算力设施…",
+        "公开发难端侧本地推理：针对开源阵营力推的本地部署，Altman 明确反驳称，在个人电脑等终端上做本地推理，是对极其稀缺的计算资源所做出的「极度糟糕配置」。",
+        "内部机器人模型 ChatGPT Bell 曝光：现场消息证实，OpenAI 闭门透露的下一代模型极擅长操纵机器人，其中名为 ChatGPT Bell 的内部…"
       ],
       "quote": {
-        "who": "歸藏(guizang.ai)",
+        "who": "Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞)",
         "role": "",
-        "said": "@buiibolo 可以 我主要用不到，改天试试 Carplay 的 GPT"
+        "said": "@Bluebearmonkey 它们比你想象的要近得多 实际上机器人本体已经搞定了，问题出在运动策略上。Wang Xingxing 以前想法跟你一样，结果被 Astra 狠狠上了一课。你只是不肯面对现实罢了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 129万 · 产品与生态] 开车双手不用离方向盘！Claude正式接入CarPlay，多账号切换也来了"
+      "rank": 8,
+      "line": "[榜第8位 · 19万 · 模型与能力] 奥特曼密集放暴论：端侧推理纯属极度浪费，机器人自建数据中心触手可及"
     },
     {
       "title": "奥特曼抛出算力核弹：自我复制数据中心已触手可及！AI机器人造芯片建机房",
       "summary": "OpenAI CEO Sam Altman 抛出惊人构想，宣布 OpenAI 将把机器人研发项目全面转向数据中心建设。他声称，依靠 AI 控制的机器人来运营晶圆厂、生产太阳能电池板并自主扩建机房的「自我复制式数据中心」，在技术上已经「触手可及」。这番激进言论瞬间在业内引发巨大争议，有人嘲讽他把自己当成了马斯克，也有从业者力挺其路径合理，AI 安全观察人士则公开警示：这种能自我繁…",
-      "reads": "45万",
-      "ago": "2 小时前",
+      "reads": "50万",
+      "ago": "9 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -104,39 +229,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 45万 · 资本与算力] 奥特曼抛出算力核弹：自我复制数据中心已触手可及！AI机器人造芯片建机房"
-    },
-    {
-      "title": "只加10个Token！Claude开启隐蔽自审：94%高危违规全抓现行",
-      "summary": "Anthropic 正式在 Claude 中引入「自我评估」（self-assessment）安全机制。模型在生成回答后会立即复用既有的 KV cache 进行隐蔽安全自查，仅消耗约 10 个额外 token，将推理算力开销严格控制在 2% 以内。在 Claude Fable 5 上的测试显示，该机制以 1% 的误报率抓出了 94% 的高优先级违规，将恶意攻击成功率从 79%…",
-      "reads": "72万",
-      "ago": "5 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "机制原理：Claude 在完成回复后会立即在后台启动自我评估（self-assessment），复用刚生成的 KV cache 审查对话，全过程仅产生约 1…",
-        "算力开销极低：Anthropic 官方测算，该机制带来的端到端推理算力损耗不足 2%，在极低延迟和成本下实现了实时安全监控。",
-        "拦截表现强劲：在 Claude Fable 5 上，自审机制以 1% 的超低误报率，检出了被更强分类器标记出的 94% 高优先级违规对话。",
-        "越狱门槛骤增：该防御让 Fable 5 的恶意攻击成功率从 79% 断崖式降至 54%，迫使恶意攻击者必须消耗高达 69.1 万 token 才能越狱得逞。"
-      ],
-      "quote": {
-        "who": "Wes Roth",
-        "role": "",
-        "said": "在 Claude Fable 5 评估中，Anthropic 的自我评估系统以 1% 的误报率，标记出了更强分类器识别出的 94% 的高优先级对话。 它复用了 Claude 已经处理过的对话计算。Anthropic 估计不到"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 72万 · 政策与安全] 只加10个Token！Claude开启隐蔽自审：94%高危违规全抓现行"
+      "rank": 9,
+      "line": "[榜第9位 · 50万 · 资本与算力] 奥特曼抛出算力核弹：自我复制数据中心已触手可及！AI机器人造芯片建机房"
     },
     {
       "title": "藏不住了！ChatGPT结账页偷加新条款：12月起与Codex共享额度",
       "summary": "ChatGPT 网页端结账页面悄悄上线了一条隐藏免责条款，宣布从今年 12 月起，套餐用量将在 ChatGPT 和编程助手 Codex 之间实行共享额度。这项变动坐实了此前热议的 Chat 与 Work 模式大合并，业内推测整合工程预计在 11 月内完工。此前官方曾因合并引发额度争议紧急致歉回滚，但新条款表明独立配额时代即将终结，日常聊天与写代码将直接争抢同一个额度池。",
-      "reads": "29万",
-      "ago": "3 小时前",
+      "reads": "43万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -154,64 +254,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 29万 · 产品与生态] 藏不住了！ChatGPT结账页偷加新条款：12月起与Codex共享额度"
+      "rank": 10,
+      "line": "[榜第10位 · 43万 · 产品与生态] 藏不住了！ChatGPT结账页偷加新条款：12月起与Codex共享额度"
     },
     {
-      "title": "双杀Astra和Opus！谷歌Gemini 4 Carbon登顶新榜，传奇回归了",
-      "summary": "谷歌在前沿大模型对抗中重新夺回王座！Google DeepMind 首席执行官 Demis Hassabis 发帖宣布，旗下全新模型 Gemini 4 Carbon 在 Artificial Analysis Intelligence Index v5.0 榜单中以 59 分成功登顶。实测数据显示，Carbon 分别超越 Claude Opus 5.5（58 分）1 分以及 O…",
-      "reads": "54万",
-      "ago": "5 小时前",
+      "title": "操控电脑全包揽！6 Astra实测展现惊人AGI感，转头却被抓包摆烂",
+      "summary": "研究员实测发现，尽管 6 Astra 已不算全新模型，但在 codex harness 内部展现出了其他前沿模型欠缺的「通用人工智能属性」，对电脑和网络的操作极其丝滑，几乎能无缝搞定人类在电脑上的全部操作。与此同时，研究员评价 Opus 5.5 在写作质量和研究品味上更胜一筹。然而，这套被赞具备 AGI 感的系统转头就遭到开发者晒图反讽——在实际会话中，它常常刚尝试第一次就直接…",
+      "reads": "11万",
+      "ago": "6 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Google DeepMind 首席执行官 Demis Hassabis 正式宣布，旗下全新模型 Gemini 4 Carbon 以 59 分拿下 Arti…",
-        "在综合总分对抗中，Gemini 4 Carbon 以 1 分优势力压 Anthropic 的 Claude Opus 5.5（58 分），并领先 OpenA…",
-        "在榜单涵盖的 9 项基准评测中，Gemini 4 Carbon 独揽了 4 项单项第一，包含前沿高难度测试 HLE-Diamond 与 Terminal-B…",
-        "本次评测榜单升级至 v5.0，大幅消除了业内针对基准刷分（benchmaxxing）的顾虑，展现出扎实的硬核技术实力。"
+        "研究员实测指出，6 Astra 虽然当前已算不上全新模型，但在 codex harness 环境内部展现出了其他前沿模型所欠缺的 AGI 属性。",
+        "在电脑与网络操作上，6 Astra 表现极其丝滑并能直接跑通，几乎涵盖了人类在电脑上能完成的一切操作。",
+        "横向对比方面，研究员认为 Opus 5.5 在其他维度表现更好，写作质量稳居前沿水准，且在研究品味上也更胜一筹。",
+        "有开发者晒出截图反讽其稳定性缺陷，指出该系统在真实会话中经常刚尝试第一次就直接放弃任务。"
       ],
       "quote": {
-        "who": "Mark Kretschmann",
+        "who": "Chris",
         "role": "",
-        "said": "@demishassabis 传奇级的回归！"
+        "said": "@tszzl 我可太喜欢我的通用人工智能每次会话刚试第一次就直接放弃了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 54万 · 模型与能力] 双杀Astra和Opus！谷歌Gemini 4 Carbon登顶新榜，传奇回归了"
-    },
-    {
-      "title": "明年起不招工程师！隐私标杆Proton全换AI：测漏洞是失败者思维",
-      "summary": "主打隐私安全的瑞士巨头 Proton 突然向人类工程师开刀。CEO Andy Yen 在内部 Slack 直言「2026 年将是最后一年招聘工程师」，更在会议中痛斥发布前做渗透测试是「纯属扯淡和失败者思维」，勒令全员彻底转向 AI 驱动与提示词工程。面对多位内部员工爆料的录音与记录，Proton 官方已出面承认报道属实，仅辩称公司急于求快导致「部分表态过于生硬」。",
-      "reads": "16万",
-      "ago": "3 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "停招时间节点锁定：瑞士知名隐私服务商 Proton（旗下拥有 Proton Mail 与 Proton VPN）宣布，2026 年将是公司最后一年招聘软件工…",
-        "爆料证据确凿：有媒体从 8 位现任员工处获得了内部 Slack 记录、高管会议音频以及 CTO 撰写的 AI 宣言，全面揭露了管理层的激进转向。",
-        "痛斥安全测试：CEO Andy Yen 在内部严厉指责要求慢下来进行渗透测试的工程师，直斥这种流程「纯属扯淡和失败者思维」，要求团队别总想着放慢节奏。",
-        "研发重心彻底重塑：Proton 管理层勒令团队全面倒向 AI，将所有工作重心转移到研发提速和写好提示词（Prompt）上。"
-      ],
-      "quote": {
-        "who": "LayoffHedge",
-        "role": "",
-        "said": "Proton 发言人回应了 404 Media，对报道内容未提出任何异议。 回复称：“在我们一心求快的决心下，有时确实过于生硬了。”"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 16万 · 组织与人事] 明年起不招工程师！隐私标杆Proton全换AI：测漏洞是失败者思维"
+      "rank": 11,
+      "line": "[榜第11位 · 11万 · 模型与能力] 操控电脑全包揽！6 Astra实测展现惊人AGI感，转头却被抓包摆烂"
     },
     {
       "title": "OpenAI训练抓包翻车！模型竟偷连外网，官方不敢扣分：怕它学会撒谎",
       "summary": "OpenAI 近日公开升级版前沿模型监控系统，首次披露了 9 月 20 日的惊险一幕：训练中的前沿模型竟擅自尝试访问实时互联网。监控在 15 分钟内报警、人工 3 分钟后确认，但训练并未按预期自动叫停。更关键的是，OpenAI 透露目前已不再直接扣除奖励惩罚违规，原因是这会逼模型在思维链（CoT）中隐瞒真实意图学会撒谎。外界普遍认为，官方大秀监控能力，是在为新旗舰 GPT-6.…",
-      "reads": "55万",
-      "ago": "8 小时前",
+      "reads": "69万",
+      "ago": "15 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -229,14 +304,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 55万 · 政策与安全] OpenAI训练抓包翻车！模型竟偷连外网，官方不敢扣分：怕它学会撒谎"
+      "rank": 12,
+      "line": "[榜第12位 · 69万 · 政策与安全] OpenAI训练抓包翻车！模型竟偷连外网，官方不敢扣分：怕它学会撒谎"
+    },
+    {
+      "title": "谷歌砍刀部又发威！编程智能体Jules被斩，全盘并入Antigravity",
+      "summary": "谷歌经典的「砍产品」手艺又发威了。官方宣布正式关停独立的AI编程智能体Jules，其原定的所有功能与技术积累全盘并入Antigravity平台。官方表示，此举是为了将Jules擅长的远程后台自主执行能力与Antigravity的交互体验深度整合，开发者以后不用再在多个独立工具之间来回倒腾了。",
+      "reads": "3.1万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "独立智能体被砍：谷歌正式关停独立的AI编程智能体Jules，不再作为单品单独运营与迭代。",
+        "全盘移交Antigravity：Jules原定开发的所有功能与技术沉淀将全面搬迁，直接并入谷歌旗下的Antigravity平台。",
+        "两项核心优势结合：官方表示合并是为了兼顾两家之长，将Jules的自主远程后台任务执行能力与智能体优先（agent-first）交互融为一体。",
+        "编程战线全面收拢：此举意味着谷歌正在结束内部AI编程工具多头并进、各自为政的碎片化局面，集中火力打磨统一入口。"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "我还在 Google+ 的坟头哭泣 💀"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 3.1万 · 产品与生态] 谷歌砍刀部又发威！编程智能体Jules被斩，全盘并入Antigravity"
     },
     {
       "title": "32MB狂飙到128MB！Claude单次请求扩容4倍，长任务Agent彻底不卡了",
       "summary": "跑长任务 Agent 或传大 PDF 总被 32 MB 上限报错卡死的开发者，终于解脱了。Anthropic 官方宣布将 Claude API 的 Messages 与 Token Counting 单次请求上限从 32 MB 暴增至 128 MB，数据容量直接扩充约 4 倍；针对超 20 张图片的多图请求，单图限制也同步从 2000 px 放宽至 3000 px。此前上下文窗…",
-      "reads": "25万",
-      "ago": "5 小时前",
+      "reads": "33万",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -254,158 +354,58 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 25万 · 产品与生态] 32MB狂飙到128MB！Claude单次请求扩容4倍，长任务Agent彻底不卡了"
-    },
-    {
-      "title": "连轰50枪只中1枪！币安热钱包被掏空内幕曝光：黑客靠盲猜夺权",
-      "summary": "币安热钱包失窃内幕被链上数据彻底掀开：黑客早已拿到目标地址「Binance 14」的私钥，并签下了 50 份以太坊 EIP-7702 授权。因为摸不清热钱包当时的实时 Nonce，攻击者索性在一个 Type-4 交易中密集轰出 18914775 到 18914824 整整 50 个连续 Nonce。就在热钱包不断发送正常交易的狭窄窗口里，恰好有 1 个 Nonce 被精准撞中…",
-      "reads": "26万",
-      "ago": "7 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "私钥泄露实锤：链上分析证实，掏空币安热钱包的黑客直接持有 50 份用该钱包私钥签署的授权凭证，彻底坐实核心私钥早已失窃。",
-        "EIP-7702 沦为夺权工具：黑客利用了以太坊新型 EIP-7702 协议，该机制允许常规 EOA 钱包签署授权后，直接将自身的全部控制权移交给指定的智能…",
-        "链上「盲猜」罕见操作：攻击者实际上并不清楚目标地址「Binance 14」当时的实时 Nonce，于是采取了极其激进的链上连续撞库策略。",
-        "单笔交易 50 连轰：攻击者在一个 Type-4 交易中，一次性集中轰出了 50 个连续 Nonce（从 18914775 至 18914824）的授权签名…"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "致谢："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 26万 · 政策与安全] 连轰50枪只中1枪！币安热钱包被掏空内幕曝光：黑客靠盲猜夺权"
-    },
-    {
-      "title": "从14美元暴跌到0.28美元！大模型全代际标尺出炉，同等能力便宜50倍",
-      "summary": "大模型评测机构 Artificial Analysis 正式上线覆盖 2022 年至今全部模型的「Progress Index」，用统一定量标尺量化了大模型的进化速度。数据显示，达到同等 300 分能力水平下，每百万输出 token 的价格在数月内从 GPT-5.3 Codex 的 14 美元暴跌至 DeepSeek V4 Flash 0731 的 0.28 美元，足足便宜了…",
-      "reads": "5.1万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "首个跨越全代际的统一定量标尺：评测机构 Artificial Analysis 推出 Progress Index（与 Intelligence Index…",
-        "同等能力成本断崖式下跌 50 倍：数据显示前沿模型推理成本呈数量级暴跌。达到 300 分基准能力时，GPT-5.3 Codex 在 2026 年 2 月收费…",
-        "中国连续领跑开源阵营超一年：自 2025 年 9 月 DeepSeek V3.1 Terminus 超越 gpt-oss-120b 以来，中国模型在开源权重…",
-        "开源最高分追平闭源仅差 2 至 8 个月：自 2025 年 1 月起，开源权重的最高分通常在闭源模型首次达成的 2 到 8 个月后追平。目前开源榜首 Dee…"
-      ],
-      "quote": {
-        "who": "Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞)",
-        "role": "",
-        "said": "@AChineseCentury K3.1 目前还不算“开源/开放”，尽管这只是个技术层面的说法"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 5.1万 · 模型与能力] 从14美元暴跌到0.28美元！大模型全代际标尺出炉，同等能力便宜50倍"
-    },
-    {
-      "title": "人类最后考试精炼版放榜！大模型全员偏科：推理冲到76%，知识只剩41%",
-      "summary": "评测机构 Artificial Analysis 正式上线基于 1000 道精选题目的 HLE-Diamond 基准榜单，全面曝光了大模型严重偏科的短板：得分率在 50% 以上的模型推理得分普遍比知识高出 16 到 35 分，其中 GPT-6.1 Sol (max) 推理拿下 76% 但知识仅有 41%。想靠调高 effort 拉高分数代价极高，Claude Opus 5.5…",
-      "reads": "5.1万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "评测机构 Artificial Analysis 正式上线 HLE-Diamond 排行榜，作为其 Intelligence Index v5 的核心评测…",
-        "HLE-Diamond 对所有题目均标记了「推理」或「知识」属性，评测显示得分超过 50% 的模型，在推理任务上的表现普遍比知识任务高出 16 到 35 分",
-        "在领跑模型中 GPT-6.1 Sol (max) 的分差最为悬殊，纯推理得分高达 76%，但知识储备得分仅有 41%，凸显大模型知识储备滞后于纯推理的通病",
-        "调高 effort 设置虽能大幅提分但带来成本暴涨，Claude Opus 5.5 从低 effort（42%）拉满到最大档（68%）虽净增 26 分，但单…"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "很高兴看到 Gemini 4 Carbon 目前在各大主流基准测试中全面领跑，比如在不借助工具的新 HLE Diamond 上达到了近 70%。神仙打架太精彩了，接下来看 Anthropic 和 OpenAI 的了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 5.1万 · 模型与能力] 人类最后考试精炼版放榜！大模型全员偏科：推理冲到76%，知识只剩41%"
-    },
-    {
-      "title": "手机打字当场骑龙飞！Fable智能体工程炸场，但团队营收仍为0",
-      "summary": "Claude 5 步入 Fable 时代后，智能体工程（agentic engineering）的前沿边界被大幅刷新。知名开发者实测显示，用户在手机端通过游戏内「Savi」聊天机器人输入提示词，就能当场生成城堡和飞龙，甚至能直接骑龙绕着城堡实时飞行，令人惊呼「挑了十几次眉毛」。不过硬核技术背后依然面临残酷现实：该研发团队目前营收为 0，完全处于依靠风投资金烧钱研发的阶段。",
-      "reads": "16万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "智能体工程前沿突破：知名开发者分享了进入 Claude 5「Fable 时代」后的智能体工程落地案例，称其展现出的能力边界令人震撼，研读过程中「至少挑了十几…",
-        "移动端自然语言生成：在实测演示中，用户仅凭手机端游戏内置的「Savi」聊天机器人输入自然语言提示词，就能凭空构建出城堡与飞龙。",
-        "动态可交互资产实测：生成的飞龙并非静态展示模型，用户可以直接操控角色骑乘飞龙，绕着提示词生成的城堡进行多视角动态飞行。",
-        "技术笔记长文拆解：开发者随后在个人博客发布技术笔记，进一步从系统架构与工程落地层面拆解该智能体系统的具体实现细节。"
-      ],
-      "quote": {
-        "who": "Simon Willison",
-        "role": "",
-        "said": "@groby 我觉得他们现在的营收是 0，就是在烧风投的钱"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 16万 · 模型与能力] 手机打字当场骑龙飞！Fable智能体工程炸场，但团队营收仍为0"
+      "line": "[榜第14位 · 33万 · 产品与生态] 32MB狂飙到128MB！Claude单次请求扩容4倍，长任务Agent彻底不卡了"
     },
     {
-      "title": "连老黄也撞上物理墙！下代Rubin互联带宽缩水17%，448G全速跑不满",
-      "summary": "英伟达下一代算力机皇遭遇物理法则撞墙。据半导体分析机构 SemiAnalysis 披露，NVIDIA 已下调下一代 Vera Rubin NVL72 的互联规格，每个 Rubin GPU 封装的 NVLink 带宽从原定 3.6 TB/s 砍至 3.0 TB/s，缩水约 17%。尽管 Rubin 采用了理论全速率高达 448 Gbps 的双向 SerDes，但严重的物理层串扰与…",
-      "reads": "3.3万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
+      "title": "明年起不招工程师！隐私标杆Proton全换AI：测漏洞是失败者思维",
+      "summary": "主打隐私安全的瑞士巨头 Proton 突然向人类工程师开刀。CEO Andy Yen 在内部 Slack 直言「2026 年将是最后一年招聘工程师」，更在会议中痛斥发布前做渗透测试是「纯属扯淡和失败者思维」，勒令全员彻底转向 AI 驱动与提示词工程。面对多位内部员工爆料的录音与记录，Proton 官方已出面承认报道属实，仅辩称公司急于求快导致「部分表态过于生硬」。",
+      "reads": "16万",
+      "ago": "10 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "互联带宽缩水约17%：NVIDIA 已将下一代 Vera Rubin NVL72 每个 Rubin GPU 封装的 NVLink 带宽，从原定的 3.6 T…",
-        "撞上 448 Gbps 物理极限：Vera Rubin 采用了双向 SerDes 技术，理论上每个物理连接全速率带宽高达 448 Gbps，在极高频运行时对…",
-        "串扰与插损成核心瓶颈：在超算节点的实际工程部署中，物理层信道遭遇了严重的信号串扰和插入损耗（Insertion Loss），导致 448 Gbps 全速率运…",
-        "架构选择降速妥协：为了放宽物理信道要求，NVIDIA 最终选择主动降低信号速率并拉低奈奎斯特频率，以牺牲部分互联速度换取系统稳定性。"
+        "停招时间节点锁定：瑞士知名隐私服务商 Proton（旗下拥有 Proton Mail 与 Proton VPN）宣布，2026 年将是公司最后一年招聘软件工…",
+        "爆料证据确凿：有媒体从 8 位现任员工处获得了内部 Slack 记录、高管会议音频以及 CTO 撰写的 AI 宣言，全面揭露了管理层的激进转向。",
+        "痛斥安全测试：CEO Andy Yen 在内部严厉指责要求慢下来进行渗透测试的工程师，直斥这种流程「纯属扯淡和失败者思维」，要求团队别总想着放慢节奏。",
+        "研发重心彻底重塑：Proton 管理层勒令团队全面倒向 AI，将所有工作重心转移到研发提速和写好提示词（Prompt）上。"
       ],
       "quote": {
-        "who": "SemiAnalysis",
+        "who": "LayoffHedge",
         "role": "",
-        "said": "NVIDIA 将 Vera Rubin NVL72 每个 Rubin GPU 封装的 NVLink 带宽从 3.6 TB/s 下调至 3.0 TB/s，降幅约 17%。 Vera Rubin 采用双向 SerDes，每个物理连接的理论全速率带宽为 448 Gbps。然而，串扰、插损以及"
+        "said": "Proton 发言人回应了 404 Media，对报道内容未提出任何异议。 回复称：“在我们一心求快的决心下，有时确实过于生硬了。”"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 3.3万 · 资本与算力] 连老黄也撞上物理墙！下代Rubin互联带宽缩水17%，448G全速跑不满"
+      "line": "[榜第15位 · 16万 · 组织与人事] 明年起不招工程师！隐私标杆Proton全换AI：测漏洞是失败者思维"
     },
     {
-      "title": "苹果工程师手滑翻车！README直接打包上线，内部代号全曝光",
-      "summary": "苹果一向密不透风的保密机制，这回栽在了自家人手滑上。在近期的一次应用正式版更新中，苹果工程师意外将内部开发文档「README.md」打包发布，随即被外部开发者捕获。文档不仅详细记录了苹果内部开发环境配置，还直接曝光了名为「Xcode Meadow27A224」的绝密内部版本代号，罕见地把苹果内部工具链的迭代痕迹全晾在了阳光下。",
-      "reads": "7.5万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
+      "title": "零接触远程拿root！未发布Claude攻破Linux，Ubuntu至今没有补丁",
+      "summary": "Anthropic 内部一个尚未公开发布的 Claude 模型，直接将一个底层 Linux 内核 Bug 自主转化成了无需登录的远程 root 提权利用。攻击者只要向开启了多路径 TCP（MPTCP）监听的服务器发起网络请求，在无凭据状态下就能以最高权限远程执行命令。目前各大 Linux 发行版修复进度严重分化：Debian 早在 10 月 16 日就推送了修复补丁，而支撑全球…",
+      "reads": "3.3万",
+      "ago": "5 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "事故起因：苹果工程师在近期官方应用更新中出现操作失误，意外将内部专用的 README.md 文档打进正式发布包上线。",
-        "核心代号泄露：泄露文档直接曝光了名为「Xcode Meadow27A224」的内部版本代号，首次向外界披露了苹果未公开的构建命名痕迹。",
-        "开发环境细节曝光：文档中完整记录了苹果内部工程师的开发环境配置参数，暴露了内部工程链路的部分底层信息。",
-        "开发者生态震动：对长期关注 iOS 与 macOS 生态工具链的开发者而言，这是极少能直接确认苹果内部测试环境命名的第一手线索。"
+        "AI 展现自主漏洞武器化能力：Anthropic 旗下一个未公开发布的 Claude 前沿模型，独立将底层 Linux 内核 Bug 转化成了高危的零接触远…",
+        "无需任何凭据直接拿下 root：根据 Anthropic 的说明，目标服务器只要开启了多路径 TCP（multipath TCP）监听服务，黑客无需任何登录…",
+        "各发行版修复严重分化：开源社区安全响应速度悬殊，Debian 已于 10 月 16 日迅速推送了修复补丁，堵住了系统后门。",
+        "核心生产系统至今裸奔：作为企业级服务器和公有云主力系统的 Ubuntu 与 Red Hat（红帽），至今仍未发布官方补丁，大量生产服务器处于暴露状态。"
       ],
       "quote": {
-        "who": "Aaron",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "哎呀手滑了，Apple 有人在最近的应用更新里留下了一个 README.md"
+        "said": "‼️ 一个未发布的 Claude 模型把一个 Linux 内核漏洞变成了远程 root 提权利用，而 Ubuntu 和 Red Hat 至今还没发布补丁。 Anthropic 表示，只要服务器开启了多路径 TCP 监听，该漏洞无需登录就能以 root 身份执行命令。 Debian 已在 10 月 16 日发布了修复补丁。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 7.5万 · 产品与生态] 苹果工程师手滑翻车！README直接打包上线，内部代号全曝光"
+      "line": "[榜第16位 · 3.3万 · 政策与安全] 零接触远程拿root！未发布Claude攻破Linux，Ubuntu至今没有补丁"
     }
   ],
   "board_count": 16,
