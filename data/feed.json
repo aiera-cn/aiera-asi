@@ -3,10 +3,22 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-10-31 13:26:29 +0800",
+  "fetched_at": "2026-10-31 20:14:09 +0800",
   "today": "10/31",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
+    {
+      "time": "14:33",
+      "date": "10/31",
+      "title": "苹果正式官宣：Apple 智能下周登陆中国！",
+      "summary": "苹果今天早上终于官宣：Apple 智能将登陆国行 iPhone，Siri、写作工具和视觉智能可以直接调用阿里巴巴的千问！首批功能 11 月 4 日起随最新的 iOS 开发者…",
+      "source": "新智元",
+      "id": "tg44b198",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg44b198&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/31 14:33] 苹果正式官宣：Apple 智能下周登陆中国！ · https://www.aiera.com.cn/asi-item.html?id=tg44b198&from=yuanyuan"
+    },
     {
       "time": "12:17",
       "date": "10/31",
@@ -68,30 +80,6 @@
       "line": "[10/30 20:34] 重磅！AI补全人类史上最大数学证明，数学家当场泪崩 · https://www.aiera.com.cn/asi-item.html?id=tg71221c&from=yuanyuan"
     },
     {
-      "time": "19:15",
-      "date": "10/30",
-      "title": "连拿四个第一，力压Genie 4和Atlas！中国团队造出真物理世界模型",
-      "summary": "世界模型赛道，这两天彻底迎来了大爆发！就在昨天，谷歌DeepMind发布了全新一代实时世界模型Genie 4，做到了每秒24帧实时生成、单帧延迟低至40毫秒…",
-      "source": "新智元",
-      "id": "tg1aa4b9",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg1aa4b9&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/30 19:15] 连拿四个第一，力压Genie 4和Atlas！中国团队造出真物理世界模型 · https://www.aiera.com.cn/asi-item.html?id=tg1aa4b9&from=yuanyuan"
-    },
-    {
-      "time": "18:18",
-      "date": "10/30",
-      "title": "人类要关停，AI不能躲！OpenAI更新模型家法",
-      "summary": "10月29日，OpenAI 为它的模型更新了「家法」：新版Model Spec。这份文件为OpenAI的模型定下了行为规范。其中一条要求模型在人类监督面前「保持可纠正」…",
-      "source": "新智元",
-      "id": "tgb648e2",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgb648e2&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/30 18:18] 人类要关停，AI不能躲！OpenAI更新模型家法 · https://www.aiera.com.cn/asi-item.html?id=tgb648e2&from=yuanyuan"
-    },
-    {
       "time": "01:29",
       "date": "10/31",
       "title": "Claude取消5小时限制，200美元Ultra会员放开跑",
@@ -114,6 +102,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=d3444d22&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/30 20:52] 5000名开发者电脑险被黑客接管，Cursor插件市场突遭投毒 · https://www.aiera.com.cn/asi-item.html?id=d3444d22&from=yuanyuan"
+    },
+    {
+      "time": "19:15",
+      "date": "10/30",
+      "title": "连拿四个第一，力压Genie 4和Atlas！中国团队造出真物理世界模型",
+      "summary": "世界模型赛道，这两天彻底迎来了大爆发！就在昨天，谷歌DeepMind发布了全新一代实时世界模型Genie 4，做到了每秒24帧实时生成、单帧延迟低至40毫秒…",
+      "source": "新智元",
+      "id": "tg1aa4b9",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg1aa4b9&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/30 19:15] 连拿四个第一，力压Genie 4和Atlas！中国团队造出真物理世界模型 · https://www.aiera.com.cn/asi-item.html?id=tg1aa4b9&from=yuanyuan"
+    },
+    {
+      "time": "18:18",
+      "date": "10/30",
+      "title": "人类要关停，AI不能躲！OpenAI更新模型家法",
+      "summary": "10月29日，OpenAI 为它的模型更新了「家法」：新版Model Spec。这份文件为OpenAI的模型定下了行为规范。其中一条要求模型在人类监督面前「保持可纠正」…",
+      "source": "新智元",
+      "id": "tgb648e2",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgb648e2&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[10/30 18:18] 人类要关停，AI不能躲！OpenAI更新模型家法 · https://www.aiera.com.cn/asi-item.html?id=tgb648e2&from=yuanyuan"
     },
     {
       "time": "13:11",
@@ -558,18 +570,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgad52b1&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/27 01:27] Anthropic科学家宣布：全球博士生职业生涯一夜清零！ · https://www.aiera.com.cn/asi-item.html?id=tgad52b1&from=yuanyuan"
-    },
-    {
-      "time": "01:25",
-      "date": "10/27",
-      "title": "刚刚，Anthropic冲刺超级智能第一股！招股书曝光：AI第一次造出智能",
-      "summary": "历史性的一刻！就在今晚，Claude背后的Anthropic正式向美国SEC公开递交S-1招股书，冲刺纳斯达克，股票代码「ANT」。「人类历史上第一次…",
-      "source": "新智元",
-      "id": "tg738e05",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg738e05&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/27 01:25] 刚刚，Anthropic冲刺超级智能第一股！招股书曝光：AI第一次造出智能 · https://www.aiera.com.cn/asi-item.html?id=tg738e05&from=yuanyuan"
     }
   ],
   "feed_count": 47,
