@@ -3,40 +3,290 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-01 22:59:23 +0800",
-  "today": "11/01",
+  "fetched_at": "2026-11-02 03:34:04 +0800",
+  "today": "11/02",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "120万张Blackwell年底进场！马斯克5倍狂暴扩容，算力断层来了",
-      "summary": "马斯克在 X 上正式交底：xAI 旗下超级算力集群 Colossus 2 到今年年底将总共部署约 120 万块 Blackwell 芯片。这一规模达到现役 Colossus 1 的 5 倍以上，意味着整个基建只用短短一年半便完成了爆发式扩建。面对外界关于 Grok 4.7 尚未彻底拉开与 Claude 旗舰差距的讨论，马斯克正试图用百万张级硬件断层，彻底改写算力竞赛的门槛。",
-      "reads": "94万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
+      "title": "觉都不睡了！OpenAI刚偷跑GPT-6.2，Claude源码连夜泄露Mythos 5.5",
+      "summary": "AI 旗舰大模型军备竞赛在同一天掀开底牌。先是有开发者在 Codex 用量分析中捕获到，OpenAI 正在 GPT-6 Astra 入口下对 GPT-6.2 Astra 进行灰度测试；紧接着 Anthropic 官网 HTML 源码也被扒出隐藏了 6 处尚未发布的 Claude Mythos 5.5 埋点，Azure 价格表此前也短暂闪现过 Fable 5.5。官方文本注明该模…",
+      "reads": "43万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "马斯克在 X 平台公开确认，xAI 旗下 Colossus 2 算力集群到今年年底将总共部署约 120 万块英伟达 Blackwell 芯片。",
-        "这一算力规模达到现役 Colossus 1 的 5 倍以上，整个超级工程从启动到落成仅耗时一年半左右。",
-        "针对近期社区关于 Grok 4.7 尚未彻底击溃 Claude 旗舰模型的讨论，分析指出底层百万级硬件断层将成为 Grok 后续迭代的决定性支撑。",
-        "这一极速扩张直接加剧了大模型头部的算力军备竞赛，业内人士指出 Anthropic 首席执行官 Dario Amodei 等竞争对手将面临巨大的算力承压。"
+        "OpenAI 灰度偷跑 GPT-6.2 Astra：开发者在 Codex 用量分析中捕获到 GPT-6.2 Astra 正在 GPT-6 Astra 模型入…",
+        "Anthropic 官网源码惊现 Claude Mythos 5.5：技术社区在 Anthropic 官网 HTML 源码中挖出未公开的新旗舰代号，包含隐藏…",
+        "官方隐藏文本定性核心能力：官网源码中的描述注明「Claude Mythos 5.5 是我们在网络安全和生物学研究领域能力最强的模型类别」，引发外界对其是否会…",
+        "Fable 5.5 同步浮出水面：除官网出现的 Mythos 外，LiteLLM 的 Azure 价格表在 10 月 13 日也曾短暂上线 claude-f…"
       ],
       "quote": {
-        "who": "International Cyber Digest",
+        "who": "Pankaj Kumar",
         "role": "",
-        "said": "@elonmusk @XFreeze 但它能跑 Crysis 吗？"
+        "said": "@foombler 没错，如果他们真能搞定的话。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 94万 · 资本与算力] 120万张Blackwell年底进场！马斯克5倍狂暴扩容，算力断层来了"
+      "line": "[榜第1位 · 43万 · 模型与能力] 觉都不睡了！OpenAI刚偷跑GPT-6.2，Claude源码连夜泄露Mythos 5.5"
+    },
+    {
+      "title": "扎克伯格被偷家！X单次停留13分半登顶社媒榜，马斯克点破玄机",
+      "summary": "根据Similarweb最新出炉的2026年9月数据，X以单次平均停留13分25秒登顶主流社交媒体榜首，大幅甩开Meta旗下的Facebook（10分15秒）与Instagram（8分38秒）。面对快节奏碎片化娱乐的冲击，X展现出压制行业巨头的深度用户粘性。马斯克随后转发该榜单并总结称，X的产品追求就是「最大化长期的无悔用户使用秒数」。",
+      "reads": "162万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Similarweb发布2026年9月主流社交媒体网站单次平均访问时长榜单，X以每次停留13分25秒位居第一。",
+        "在单次访问深度维度上，X全面压制Meta主力产品，分别领先Facebook（10分15秒）3分10秒、领先Instagram（8分38秒）4分47秒。",
+        "马斯克随后转发该数据并将战绩归功于平台机制，正式亮出运营理念：最大化长期的无悔用户使用秒数。",
+        "在快节奏短视频娱乐全面挤占注意力的当下，X凭借图文深度与信息流重构逆势守住用户停留时长。"
+      ],
+      "quote": {
+        "who": "Similarweb",
+        "role": "",
+        "said": "@elonmusk 谢谢分享，Elon。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 162万 · 产品与生态] 扎克伯格被偷家！X单次停留13分半登顶社媒榜，马斯克点破玄机"
+    },
+    {
+      "title": "受够推荐算法！卡帕西2小时手搓Hacker News版YouTube",
+      "summary": "因为受够了YouTube不断推送让人上瘾的内容，知名AI研究员Andrej Karpathy利用周末搞了一个新项目「HackerTube」。他借助Claude搭配Opus 5.5模型，仅耗费约2小时就完成了系统搭建，把Hacker News社区20年来的4300万条评论清洗过滤，精选出被反复推荐的6454个硬核技术视频。整个网站界面仿照YouTube排版，重点呈现USB键盘工作…",
+      "reads": "19万",
+      "ago": "44 分钟前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "起因与动机：知名AI学者Andrej Karpathy公开周末实验项目「HackerTube」，起因是他对YouTube现有的算法推荐机制深感厌烦，希望能跳…",
+        "开发耗时与模型：整个项目由Karpathy联手Claude、调用Opus 5.5模型协同完成，从构思到完成系统搭建仅耗费约2小时。",
+        "海量数据清洗：系统对Hacker News社区过去20年间的4300万条历史评论进行了全面过滤，最终提炼出被技术群体反复推荐的6454个硬核视频。",
+        "纯粹技术导向：HackerTube的前端排版完全仿照YouTube，但彻底去除了吸睛杂质，重点呈现USB键盘工作原理、样条曲线等纯硬核技术解析。"
+      ],
+      "quote": {
+        "who": "Yuchen Jin",
+        "role": "",
+        "said": "@0_______J 我从不看 YouTube Shorts"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 19万 · 产品与生态] 受够推荐算法！卡帕西2小时手搓Hacker News版YouTube"
+    },
+    {
+      "title": "加400美元买触屏和灵动岛！苹果首款触控MacBook不支持Pencil",
+      "summary": "知名科技记者古尔曼发文爆料，苹果在新款 MacBook Pro 上对触控屏、OLED 和灵动岛额外加收 400 美元溢价，虽然目前保留了非触控版，但未来高端线全面走向融合已成定局。不过这款新机既不支持 Apple Pencil 也没有平板模式，形态未发生根本改变，完全不会蚕食自家 iPad 产线，也被直指错失了引领桌面触控革命的机会。此外，苹果计划于明年推出搭载 M7 Pro…",
+      "reads": "41万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "触控加价 400 美元：苹果在新款 MacBook Pro 上针对触控屏、OLED 与灵动岛三大升级额外加收 400 美元溢价。",
+        "高端产品线面临收拢：目前非触控版本虽仍暂时保留，但长期维持两条独立的高端 MacBook Pro 产品线并不现实，未来全面走向融合势在必行。",
+        "不蚕食 iPad 销量：触控屏 MacBook Pro 未配备平板模式，亦不支持 Apple Pencil，形态未有根本变革，与 iPad 更多是互补定位。",
+        "保守策略被指错失革命：古尔曼认为苹果在这次桌面触控的融合上过于保守，未能借机打破传统形态、引领颠覆性创新。"
+      ],
+      "quote": {
+        "who": "Mark Gurman",
+        "role": "",
+        "said": "触摸屏 MacBook Pro 并不会蚕食 iPad 的销量。它没有平板模式，不支持 Apple Pencil，形态也没有根本改变。真要说的话，Apple 让 Mac 和 iPad 更加互补了。但这家公司应该把眼光放得更远，去考虑他们的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 41万 · 产品与生态] 加400美元买触屏和灵动岛！苹果首款触控MacBook不支持Pencil"
+    },
+    {
+      "title": "Tibo搞了28天全是半成品？OpenAI狂暴更新收官，网友坐等Terra级新模型",
+      "summary": "OpenAI工程师Tibo主导的「28天持续改进」高强度迭代活动正式收官。尽管活动期间密集上线了大量功能更新，但社区开发者普遍反馈交付内容带有明显的半成品感，公开质疑这波造势是否名副其实。与此同时，坊间猜测这场密集动作是在为高于Terra级别的新模型铺路，但目前API、Arena及Codex后台尚未被抓到任何新的checkpoint踪迹。",
+      "reads": "12万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI工程师Tibo发起的「28天」（28 Days）持续交付与改进活动正式宣告收官。",
+        "社区观察者与开发者对交付成果提出质疑，直言很多功能仍像半成品，热议这轮密集宣发是否言过其实。",
+        "讨论中有爆料猜测，官方近一个月如此密集的改动，很可能是为了接入定位在Terra级别之上的全新模型。",
+        "开发者与玩家全网搜寻新模型证据，但目前在API、LMSYS Arena以及ChatGPT与Codex后台均未发现实质性的新checkpoint路由迹象。"
+      ],
+      "quote": {
+        "who": "Tibo",
+        "role": "",
+        "said": "@TokenGremlin 我要求一次 banked reset"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 12万 · 产品与生态] Tibo搞了28天全是半成品？OpenAI狂暴更新收官，网友坐等Terra级新模型"
+    },
+    {
+      "title": "别家全画卡通！Fable 5.5实测偷跑：写真级细节锁死第一，OpenAI悬了",
+      "summary": "Anthropic 尚未发布的新一代旗舰模型 Fable 5.5 实测在社区意外流出，多项表现展现出断代级实力。在「鹈鹕骑自行车」同题对比中，Opus 5.5 High、GPT-6 Astra Max 和 Gemini 4 Carbon 均停留在平面插画水平，Fable 5.5 则展现出逼真的真实世界写真质感，并能凭纯提示词一键生成复杂的 SVG 矢量代码。测试者直言其表现全面…",
+      "reads": "7.6万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "新一代旗舰实测流出：Anthropic 尚未正式公布的新模型 Fable 5.5 早期测试结果在社区曝光，其多模态生成与底层工程能力展现出惊人断代优势。",
+        "同题横评呈现画风差距：在同一提示词「鹈鹕骑自行车」的对比测试中，Opus 5.5 High、GPT-6 Astra Max 与 Gemini 4 Carbo…",
+        "真实物理世界级写性质感：与竞品的插画风形成剧烈反差，Fable 5.5 生成的鹈鹕骑车呈现出极致的光影与真实纹理细节，被评为完全贴近真实世界。",
+        "一键手搓硬核 SVG 矢量代码：除逼真的视觉呈现外，测试者还展示了 Fable 5.5 单凭一句提示词直接输出复杂 SVG 矢量图与完整底层代码的硬核工程能…"
+      ],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "Fable 5.5 > GPT 6.2 Astra"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 7.6万 · 模型与能力] 别家全画卡通！Fable 5.5实测偷跑：写真级细节锁死第一，OpenAI悬了"
+    },
+    {
+      "title": "后台狂憋42分钟！Claude新旗舰偷跑，One-shot搓出超写实3D动画",
+      "summary": "Anthropic 未发布的新一代旗舰实测在社交平台密集曝光，测试路由显示为 Fable 5.5 与 Opus-Next。新模型展现出惊人的长程推理与物理建模能力，在后台深度运行 42 分 17 秒后，一次性（one-shot）用 Three.js 写出极度逼真的海边鹈鹕骑车 3D 动画。开发者直言其超写实质感让独立图像与视频模型都显得不再必要，甚至爆料只要断网询问「Karpa…",
+      "reads": "21万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "内部代号曝光：多位开发者实测发现 Anthropic 正在灰度测试未发布的新旗舰，后台路由标记为 Fable 5.5 与 Opus-Next。",
+        "单次生成3D场景：在无需多轮微调的单次指令（one-shot）下，新模型成功用 Three.js 编写出海边鹈鹕骑自行车的逼真 3D 动画。",
+        "深度推理耗时42分17秒：生成该高难度 3D 场景代码时，模型后台持续深度构建与推理长达 42 分 17 秒，展示出极强的长任务处理能力。",
+        "物理质感碾压传统生图：同一提示词下，对比模型生成卡通插画风，Fable 直接输出了超写实光影与细节，被评价为「未来甚至不再需要独立的图像或视频模型」。"
+      ],
+      "quote": {
+        "who": "Chetaslua",
+        "role": "",
+        "said": "给不在我们 Discord 服务器里的人看的证明。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 21万 · 模型与能力] 后台狂憋42分钟！Claude新旗舰偷跑，One-shot搓出超写实3D动画"
+    },
+    {
+      "title": "超越Opus 5.5！GPT-6.2 Astra曝光，正面硬刚Fable",
+      "summary": "业内爆料曝光了 OpenAI 下一代旗舰模型「GPT-6.2 Astra」的最新进展。相比现役的 GPT-6 Astra，该版本实现了跨代式巨大飞跃，在多项核心维度上已经超越 Anthropic 的 Opus 5.5，展现出足以正面硬刚万众瞩目的 Fable 5.5 的强劲实力。据透露，GPT-6.2 Astra 不仅底层技术能力大幅增强，在设计品味与审美上也将迎来显著蜕变。",
+      "reads": "11万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "代际巨大飞跃：OpenAI 下一代模型 GPT-6.2 Astra 最新表现曝光，性能相较前代旗舰 GPT-6 Astra 实现了质的突破。",
+        "多项维度超越 Opus 5.5：在具体测试能力维度上，GPT-6.2 Astra 据称已在好几个领域超越 Anthropic 的 Opus 5.5。",
+        "正面硬刚 Fable 5.5：爆料明确指出，GPT-6.2 Astra 已具备充足实力，准备与业内高度期待的 Anthropic 旗舰 Fable 5.5…",
+        "设计审美显著进化：除技术指标外，新模型在设计品味（design taste）和审美能力上预计将迎来巨大提升。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "GPT-6.2 Astra 真的很惊艳。相比 GPT-6 Astra 实现了巨大飞跃，在好几个维度上都超越了 Opus 5.5，看来完全有实力和万众瞩目的 Fable 5.5 正面硬刚了。 预计在设计审美上会有巨大提升，技术能力也强得多，而且"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 11万 · 模型与能力] 超越Opus 5.5！GPT-6.2 Astra曝光，正面硬刚Fable"
+    },
+    {
+      "title": "Anthropic最神秘底牌定性！Mythos专攻网安与生物，普通用户彻底无缘",
+      "summary": "技术社区最新流出Anthropic官方对Mythos系列的定位描述，官方明确将其定义为「在网络安全与生物学研究领域能力最强的模型级别」。爆料者最初误将其当作新版Mythos 5.5偷跑，随后紧急发帖澄清该定义实指整个Mythos模型族。与日常可见的旗舰Fable共享同一底模型不同，Mythos全系只对特批机构开放，Anthropic正将最高层级的算力与推理能力全面押注在尖端科学…",
+      "reads": "6.6万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "官方定位流出：技术社区曝光的资料显示，Anthropic官方将Mythos级别模型明确定义为「在网络安全与生物学研究领域能力最强的模型级别」（Our mos…",
+        "乌龙迅速澄清：爆料者最初发帖时将其误标为即将发布的Mythos 5.5，六分钟后紧急跟进发帖澄清，表示该描述并非特指5.5版本，而是对整个Mythos模型家…",
+        "产品谱系揭秘：在Anthropic现役谱系中，Mythos系列通常与商用旗舰Fable共享同一底模型（如Fable 5.1与Mythos 5.1底层相同）…",
+        "算力倾斜尖端防御：这一定位权威证实了Anthropic的技术演进路线，并未将最高层推理能力仅用于通用日常任务，而是重点向网安防御、生物学研究等高壁垒、高敏感…"
+      ],
+      "quote": {
+        "who": "Lisan al Gaib",
+        "role": "",
+        "said": "好吧，标题指的是所有的 mythos 模型 并不是特指 5.5"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 6.6万 · 模型与能力] Anthropic最神秘底牌定性！Mythos专攻网安与生物，普通用户彻底无缘"
+    },
+    {
+      "title": "白宫晚宴名场面！OpenAI总裁找马斯克借算力，被当众痛骂「偷了我的慈善」",
+      "summary": "白宫晚宴上上演了一出硅谷巨头顶流撕逼名场面。OpenAI联合创始人Greg Brockman主动找上死对头马斯克，试探性询问对方有没有「闲置算力」可以匀一匀，结果马斯克当着全屋宾客毫不留情直接怒怼。包括谷歌联创Sergey Brin在内的顶尖大佬全程围观了这场正面交锋，将两家巨头之间的算力饥渴与新仇旧恨彻底端到了台面上。",
+      "reads": "2.2万",
+      "ago": "1 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "白宫晚宴突发正面交锋：OpenAI联合创始人兼总裁Greg Brockman在晚宴现场走向死对头Elon Musk，试探性询问对方是否有闲置算力（spare…",
+        "马斯克当着全屋宾客当场开怼：面对求助，Musk毫不留情地当众直斥：「老兄，你偷了我的慈善组织！你不能把事情做绝成一个混蛋，还反过来找人帮忙吧，醒醒？」",
+        "谷歌联合创始人现场围观：爆料称Google联合创始人Sergey Brin等多位科技顶流均在现场，亲眼目睹了两人撕破脸的全过程。",
+        "慈善恩怨再次摆上台面：Musk作为OpenAI早期最核心的出资人，此前已多次就OpenAI从非营利慈善机构倒向商业化提起诉讼，此次言论直接挑明了两人最核心的…"
+      ],
+      "quote": {
+        "who": "NIK",
+        "role": "",
+        "said": "化身 Greg Brockman 去白宫晚宴求你的死对头施舍算力 > “埃、Elon……哥们儿有多余的算力吗？” Elon 当着全屋人的面直接开怼：“老兄，你偷了我的慈善组织！你不能把事情做绝成一个混蛋还反过来找人帮忙吧，醒醒？” Sergey Brin：“他当时"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 2.2万 · 组织与人事] 白宫晚宴名场面！OpenAI总裁找马斯克借算力，被当众痛骂「偷了我的慈善」"
+    },
+    {
+      "title": "700B大模型秒出1000词！英伟达Rubin狂飙，单位算力成本暴降20.9倍",
+      "summary": "智能体集群编写的优化软件，直接把英伟达下一代硬件潜力榨出了新高度。在最新的NVIDIA AgentX提交数据中，HBM芯片在700B+超大模型上跑出了每用户超1000 tok/s的推理速度；即便在325 tok/s的超高速下，Rubin NVL72的单位TCO性能也达到了GB300 NVL72的20.9倍。底层技术依托Mooncake Store的扩展GPU内存功能，将Vera…",
+      "reads": "2.0万",
+      "ago": "1 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "NVIDIA AgentX提交的最新基准测试曝光：由智能体集群编写的优化软件大幅突破超大模型推理吞吐瓶颈。",
+        "在700B+超大参数模型上，HBM芯片实现了每用户超过1000 tok/s的推理速度。",
+        "硬件能效对比极其悬殊：在325 tok/s超高速度下，Rubin NVL72的单位TCO性能达到GB300 NVL72的20.9倍。",
+        "技术底层引入了Mooncake Store的全新扩展GPU内存（Extended GPU Memory）功能。"
+      ],
+      "quote": {
+        "who": "SemiAnalysis",
+        "role": "",
+        "said": "这次 Rubin 提交采用了 @KVCache_AI Mooncake Store 的全新扩展 GPU 内存（Extended GPU Memory）功能，其中存储在 Vera LPDDR5X 上的 KVCache 通过 NVLink 在全部 18 个 Rubin 计算托盘之间实现池化，取代了以往使用 RDMA 的方式，从而带来了超过 10 倍的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 2.0万 · 资本与算力] 700B大模型秒出1000词！英伟达Rubin狂飙，单位算力成本暴降20.9倍"
     },
     {
       "title": "为IPO全力冲刺！OpenAI被曝下周发GPT-6.2，代号bel正面狙击Fable 5.5",
       "summary": "OpenAI突然吹响新一轮旗舰战号角。科技圈多方消息证实，OpenAI下一代旗舰模型GPT-6.2已临近发布，极可能是近期代码与日志中频现的神秘代号「bel」。新模型不仅在运行效率上迎来大幅提升，更预计在下周正式上线以全力配合其IPO资本进程，正面硬刚Anthropic旗下的Fable 5.5，官方最快今明两天就可能释放首批确认信号。",
-      "reads": "4.0万",
-      "ago": "2 小时前",
+      "reads": "8.5万",
+      "ago": "7 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -54,358 +304,108 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 4.0万 · 模型与能力] 为IPO全力冲刺！OpenAI被曝下周发GPT-6.2，代号bel正面狙击Fable 5.5"
-    },
-    {
-      "title": "拿实战漏洞喂开源AI！黑客砸天价买凶遭拒：迟早有人接单",
-      "summary": "开发者 Jun Song 近日爆料，有匿名黑帽黑客团伙开出巨额报酬，试图招募他利用实战漏洞利用数据训练开源权重 AI 模型。尽管 Jun Song 当场拒绝了这一交易，但他坦言未来迟早会有其他开发者经受不住诱惑而接单。业内安全人士对此深表担忧，直言开源模型武器化正成为不可逆的趋势，伴随着类似币安被黑等现实威胁，让人不敢想象 2027 年的网络安全生态会演变成什么样。",
-      "reads": "3.9万",
-      "ago": "3 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Jun Song 遭遇黑帽组织买凶：匿名黑客团伙开出巨额资金，试图招募他利用高危漏洞利用（exploit）数据训练开源权重 AI 模型。",
-        "当事人拒单但发出严厉警示：虽然 Jun Song 本人当场拒绝了合作，但他直言在暴利诱惑下，迟早会有其他开发者接单。",
-        "开源模型正被黑产加速武器化：黑客团伙不再满足于普通脚本，而是试图将开源大模型改造成具备实战渗透与攻击能力的专属黑客工具。",
-        "现实安全风险持续升级：业内人士联想到 Binance 等重大被黑案例，指出恶意模型一旦成型，将对现有网络防御体系和普通用户资产构成降维打击。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@mysticaltech 是的，甚至不敢想象 2027 年会变成什么样"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 3.9万 · 政策与安全] 拿实战漏洞喂开源AI！黑客砸天价买凶遭拒：迟早有人接单"
-    },
-    {
-      "title": "Codex后台抓到现行！GPT-6.2 Astra曝光，最快本周狙击Fable 5.5",
-      "summary": "OpenAI 下一代旗舰模型彻底藏不住了。据社区开发者最新爆料，GPT-6.2 Astra 已经在 Codex 的用量分析后台中正式现身，目前距发布已极度接近，大概率将在近期甚至本周内突击上线。外界普遍认为，这是 OpenAI 正面迎击 Anthropic 旗下 Fable 5.5 并对冲其 IPO 预期的重磅反击，也是此前 Tibo 连发两次重置额度背后真正准备的终极彩蛋。",
-      "reads": "2.9万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "后台实锤现身：OpenAI 下一代旗舰模型 GPT-6.2 Astra 已在 Codex 用量分析（usage analytics）中留下明确痕迹，已被开发…",
-        "最快本周上线：爆料分析指出，模型上线准备工作已进入收尾阶段，极大概率在本周内直接突击推送。",
-        "正面狙击竞品：本次突袭发布的直接目标，被指是正面迎战 Anthropic 旗下主力旗舰 Fable 5.5，并精准对冲其 IPO 带来的市场预期。",
-        "额度福利联动：社区推测，近期 Tibo 为开发者提供的两次额度重置（banked resets），正是为了给 GPT-6.2 Astra 的上线铺路。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@TokenGremlin 是的，同感。我总觉得最后会搞个大的收尾"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 2.9万 · 模型与能力] Codex后台抓到现行！GPT-6.2 Astra曝光，最快本周狙击Fable 5.5"
-    },
-    {
-      "title": "LeCun怒斥Claude Code禁抄游戏：工具没资格指手画脚，侵权责任在用户",
-      "summary": "针对 Anthropic 在 Claude Code 中严禁克隆现有游戏的防抄袭举措，图灵奖得主 Yann LeCun 公开猛烈开火，痛斥其「站在道德高地指手画脚令人难以忍受」。LeCun 拿自己吹电吹管打比方，称这就像乐器阻止乐手跟着爵士大师的 solo 练习一样荒谬，直言 Anthropic 对自身和模型能力抱有膨胀的优越感。他强调，创作工具根本没有资格故意限制使用者的创造…",
-      "reads": "1.5万",
-      "ago": "1 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "针对 Anthropic 在 AI 编程工具 Claude Code 中严禁克隆现有游戏的举措，图灵奖得主 Yann LeCun 公开猛烈抨击，直接形成了顶…",
-        "LeCun 痛斥 Anthropic 站在道德高地指手画脚令人难以忍受，甚至直言 Anthropic「真是疯了」（isane）。",
-        "LeCun 打比方讽刺道，这就像乐手痛苦地想跟着 Miles Davis 或 John Coltrane 的 solo 模仿学习，手里的电吹管却跳出来阻止一…",
-        "LeCun 指出，Anthropic 存在一种膨胀的优越感，不仅体现在他们自视甚高，也体现在对自家模型最终能达到的能力抱有盲目优越。"
-      ],
-      "quote": {
-        "who": "Yann LeCun",
-        "role": "",
-        "said": "@Vanadiel_78 @BrianRoemmele 我有很多，包括我自己做的几个。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 1.5万 · 政策与安全] LeCun怒斥Claude Code禁抄游戏：工具没资格指手画脚，侵权责任在用户"
-    },
-    {
-      "title": "120万张GB300砸向孟菲斯！马斯克亮出算力怪兽，连午餐肉仓库都塞满了",
-      "summary": "马斯克亲自揭晓了孟菲斯超级算力集群 Colossus 2 的最新底牌：到 2026 年底，园区将拥有约 120 万块英伟达 Blackwell 架构 GPU。其中 Macroharder、Minihard 与 Gun Range 三个厂区各自配置了 22 万块带 800G 网卡的 GB300 专攻 AI 训练，而由旧食品仓库改建的 Spam 厂区则部署约 20 万块 GB300…",
-      "reads": "103万",
-      "ago": "16 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "集群总规模：位于孟菲斯的 Colossus 2 超级算力园区正进行大规模扩建，预计到 2026 年底将拥有约 120 万块英伟达 Blackwell 架构…",
-        "主力训练厂区配置：园区内的 Macroharder 和 Minihard 两个设施各自已部署 22 万块 Nvidia GB300 芯片，均搭载 800Gb…",
-        "后续训练节点跟进：第三个名为 Gun Range 的厂区也将跟进完全相同的硬件配置，同样搭载 22 万块配有 800G 网卡的 GB300。",
-        "特设推理专用机房：由旧食品仓库（曾存放荷美尔产品）改造而来的 Spam 厂区，计划部署约 20 万块 GB300 芯片，专门负责模型推理。"
-      ],
-      "quote": {
-        "who": "NIK",
-        "role": "",
-        "said": "Elon 用他的算力把所有人都碾压了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 103万 · 资本与算力] 120万张GB300砸向孟菲斯！马斯克亮出算力怪兽，连午餐肉仓库都塞满了"
-    },
-    {
-      "title": "Karpathy公开AI编程神装！抛弃终端用桌面版，默认上Opus 5.5",
-      "summary": "Karpathy 在最新的 HackerTube 博客中公开了自己的日常 AI 编程配置，直接给跟风配环境的开发者们画了重点。交互界面上他没有选开发者扎堆的命令行终端，而是主力使用 Mac 桌面端的 Claude Code；基座模型上，他则默认开启 Medium effort 模式运行 Opus 5.5。业内研究员对此分析指出，终端从来就不是编程智能体的正确界面形态，桌面端应用…",
-      "reads": "15万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Andrej Karpathy 在 HackerTube 博客发文，公开了自己目前主力使用的 AI 编程工作流配置。",
-        "在交互界面选型上，Karpathy 明确使用 Claude Code 的 Mac 桌面端应用，而非开发者常见的终端（Terminal）命令行。",
-        "在底座模型配置上，Karpathy 透露自己日常默认在 Medium effort 模式下运行 Opus 5.5。",
-        "有业内研究员针对该配置公开表态，认为终端根本不是 Coding Agent 的正确界面形态，桌面端应用才是当前阶段的最优解。"
-      ],
-      "quote": {
-        "who": "Yuchen Jin",
-        "role": "",
-        "said": "@MRRydon 我脑子里装了个智能路由器"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 15万 · 产品与生态] Karpathy公开AI编程神装！抛弃终端用桌面版，默认上Opus 5.5"
-    },
-    {
-      "title": "同提示词实测炸场！Fable超写实画质碾压，专用绘图模型要失业了",
-      "summary": "有开发者在 X 上晒出一组同提示词多模型实测对比，引发圈内热议。在生成海边骑车鹈鹕的测试中，其他结果仍停留在卡通插画水准，而 Fable 在没有附加特殊提示指令的情况下，自主输出了极具真实物理质感和光影细节的超写实画面。评测者直言 Fable 的表现实现全面碾压，并预测照此迭代演进，未来业界很可能不再需要专门的图像或视频模型。",
-      "reads": "5.5万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "同提示词实测对比：有开发者在社交平台 X 上公开了多模型在完全相同提示词下的渲染效果横评，引发广泛关注。",
-        "插画风对比超写实：在生成「海边骑车的鹈鹕」测试场景中，多数模型生成的均为扁平卡通插画，而 Fable 展现出了惊人的写实度和逼真画面质感。",
-        "无需微调自主出图：实测显示，Fable 在没有额外追加风格限制或提示词修饰的前提下，自主完成了光影、物理细节拉满的高精度渲染，质感堪比专业艺术家手绘。",
-        "综合性能全面碾压：测试者评价 Fable 的表现「碾压一切」，展现出顶尖通用模型对物理世界规律与视觉细节的极高理解力。"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "🚨 Fable 简直碾压一切：这是在同一个提示词下的效果 你能看到 Fable 无需多言就做到了超写实、细节拉满、物理质感堪比艺术家亲手绘制 照这种更新节奏，我们未来根本不再需要视频或图像模型了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 5.5万 · 模型与能力] 同提示词实测炸场！Fable超写实画质碾压，专用绘图模型要失业了"
-    },
-    {
-      "title": "eBay开卖9600张A100超算！标价近6000万美元，卖家居然给包邮",
-      "summary": "美国明尼苏达州硬件转售商 Core 4 Solutions 最近把一台退役的 AI 超算搬上了 eBay，一口价标到了 5970 万美元。这台庞然大物由 300 个机柜组成，塞满了整整 9,600 块 Nvidia A100 GPU。最戏剧性的是，卖家不仅接受砍价报价，还大方提供了全套免费包邮，只是白纸黑字注明了「不支持退货」，且买家必须签约保证不把硬件倒卖到受限国家。",
-      "reads": "1.3万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "明尼苏达州转售商 Core 4 Solutions 近日在 eBay 上架了一套退役 AI 超算，挂牌标价高达 5970 万美元（约合 4.3 亿元人民币）…",
-        "硬件配置极其庞大，整套系统总计包含 300 个机柜，共搭载了 9,600 块 Nvidia A100 GPU。",
-        "交易条款充满反差感，面对近 6000 万美元的硬件集群，卖家提供了免费包邮（Free shipping），但同时明确标注概不退货（Returns are n…",
-        "卖家虽开通了买家报价机制（Take offers），但严格规定买方必须签署法律协议，承诺绝不将其出口到受管制的限制国家。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "❗️ 一家明尼苏达州的转售商正在 eBay 上以 5970 万美元出售一台退役的 AI 超算，配备 9,600 块 Nvidia A100 GPU Core 4 Solutions 接受对这 300 个机柜的报价，买家必须同意不将其出口到受限国家。 包邮免运费，不支持退货。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 1.3万 · 资本与算力] eBay开卖9600张A100超算！标价近6000万美元，卖家居然给包邮"
-    },
-    {
-      "title": "OpenAI思考模式太割裂！GPT-6 Pro像请教神谕，却被锁死在Chat界面",
-      "summary": "知名学者深度实测 OpenAI 高阶思考模式后直言，产品线机制和命名已经彻底割裂。GPT-6 Pro 虽然响应奇慢、用起来也谈不上顺心，但在应对涉及复杂计算与深奥构想的单次问题时，宛如向「伟大的神谕」请教般惊艳。但令人费解的是，这个最强单模型推理体验目前被锁死在普通 Chat 界面；而在专业级的 Codex 和 ChatGPT Work 里，顶配的 Ultra 模式本质只是拉出…",
-      "reads": "7.4万",
-      "ago": "8 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "知名学者实测反馈，GPT 系列的 Pro 模型在处理涉及复杂计算、文献引用或深奥构想的 one-shot 问题时表现极其亮眼。",
-        "GPT-6 Pro 虽然响应速度不算快、交互体验也称不上顺手，但整体答题质感确实给人一种向「伟大的神谕」请教的感觉。",
-        "高阶模式入口出现产品割裂，最强大的 Pro 模式目前被严格限定在标准的 Chat 界面中调用。",
-        "在 Codex 与 ChatGPT Work 界面中，看似最顶级的思考模式被称为 Ultra，其实际机制是生成大量智能体协同解题，而非单模型深度推理。"
-      ],
-      "quote": {
-        "who": "Ethan Mollick",
-        "role": "",
-        "said": "Codex 和 Work 上还有一个 Max Thinking，它和 Pro Mode 不同，有时需要你在菜单里手动开启。这是在 Codex 和 Work 里能用到的不倾向于启动大量智能体的最高思考模式，但依然不如 Pro。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 7.4万 · 模型与能力] OpenAI思考模式太割裂！GPT-6 Pro像请教神谕，却被锁死在Chat界面"
-    },
-    {
-      "title": "连放12小时经典恐怖片！科技圈万圣节整活，英伟达机器人被骗来要糖",
-      "summary": "万圣节这天科技圈也热闹非凡，极客们把公共版权资产和硬核硬件玩出了别样节日感。独立研究者Brian Roemmele在X平台拉起一场长达12小时的马拉松直播，全天连播《活死人之夜》《鬼屋惊魂》等公有领域经典老片回馈社区。另一边，英伟达官方也放出双足小机器人站在满桌好时和KitKat糖果前「歪头讨糖」的实拍，让硬核技术圈平添了不少反差萌。",
-      "reads": "14万",
-      "ago": "10 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "直播时间长达12小时：独立研究者Brian Roemmele于太平洋时间2026年10月31日上午8点至晚上8点，在X平台开启万圣节全天LIVE特别节目。",
-        "公有领域老片连播：放映片单全部取材于无版权限制的公有领域影视资产，涵盖Vincent Price主演的《House on Haunted Hill》（鬼屋惊…",
-        "极客数字资产实验：该活动被作为节日礼物赠予社区支持者，展现了极客群体如何将公共文化遗产与现代社交流媒体工具进行二次融合。",
-        "英伟达双足机器人出镜：NVIDIA官方同步分享万圣节趣味实拍，一只小型双足机器人歪头站在木桌前，面前散落着KitKat和好时糖果，官方配文调侃「有人跟机器人…"
-      ],
-      "quote": {
-        "who": "Pliny the Liberator 🐉󠅫󠄼󠄿󠅆󠄵󠄐󠅀󠄼󠄹󠄾󠅉󠅭",
-        "role": "",
-        "said": "万圣节快乐！🎃"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 14万 · 产品与生态] 连放12小时经典恐怖片！科技圈万圣节整活，英伟达机器人被骗来要糖"
-    },
-    {
-      "title": "马斯克恐为数据中心借贷1万亿！阿克曼撕开算力泡沫：全成了高杠杆炒房客",
-      "summary": "华尔街知名投资人 Bill Ackman 近日抛出惊人预警，直言 Elon Musk 可能需要借贷高达 1 万亿美元来支撑吉瓦级数据中心的扩张，这将直接导致长期利率居高不下，而新兴算力云厂商更像是在玩命借钱的高杠杆房地产开发商。但颇具戏剧性的是，Ackman 自己的持仓里约三分之一正是亚马逊、Meta 和微软，且全是在股价下跌时逆势抄底拿下。此外，他还罕见透露患病女儿正在逐步恢…",
-      "reads": "73万",
-      "ago": "19 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "马斯克面临万亿债务重压：Bill Ackman 指出，Elon Musk 若要全面上线吉瓦（GW）级数据中心，可能需要借贷高达 1 万亿美元，庞大的吸金需求…",
-        "算力云新贵沦为「高杠杆地产商」：Ackman 将新一代算力云厂商（neoclouds）直接比作加了杠杆的房地产开发商，指出这类业务极度依赖廉价资金，对资本成…",
-        "三分之一仓位逆势抄底三巨头：尽管对基建高杠杆发出警告，Ackman 透露亚马逊（Amazon）、Meta 和微软（Microsoft）目前已占据其投资组合约…",
-        "拆解市场反常怪象：Ackman 表示市场上出现了一家公司宣布「需求巨大」而股价却反常下跌的奇特现象，但他坚信如今所有业务都已与 AI 深度绑定或应当转型。"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": "Bill Ackman 表示，Neuralink 和其他脑机接口将在“没几年内”让盲人重见光明 “你知道的，我女儿几乎丧失了所有基础机能，无法行走、无法说话、无法看见，现在正在恢复机能。她在认知上，"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 73万 · 资本与算力] 马斯克恐为数据中心借贷1万亿！阿克曼撕开算力泡沫：全成了高杠杆炒房客"
+      "line": "[榜第12位 · 8.5万 · 模型与能力] 为IPO全力冲刺！OpenAI被曝下周发GPT-6.2，代号bel正面狙击Fable 5.5"
     },
     {
-      "title": "发紧急更新就为删个README！苹果手滑现场被抓包，同行笑翻了",
-      "summary": "谁还没在发版时手滑过？苹果在近期的一次应用更新中出现疏漏，开发团队不慎将 README.md 内部说明文档直接打包装进了推送包。被外部开发者发现并曝光后，苹果反应神速，火速推送了一个紧急更新专门用来移除这个漏网之鱼。这场科技巨头的「闪电灭火」引来技术圈一片善意调侃。",
-      "reads": "99万",
-      "ago": "22 小时前",
+      "title": "底栏惊现Gemini 4！谷歌首个AI幕僚长曝光，动动嘴派生智能体干活",
+      "summary": "谷歌开发平台 Antigravity 迎来重磅功能偷跑，曝光界面中不仅出现了 Gemini 4 选项与 Gemini Live 实时语音控制按钮，还内置了代号为「Chief of Stuff」的全新主控智能体。该智能体能够自主接管 Antigravity 平台，通过实时语音直接指挥并自主派生多个子智能体来分工执行子任务，同时负责审查待处理的会话流程。继此前将编程智能体 Jule…",
+      "reads": "2.4万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "事故细节：苹果在近期推送的应用更新中出现配置疏漏，开发人员打包时未排除说明文件，导致 README.md 随安装包直接下发给终端用户。",
-        "社区曝光：有开发者在拆包或检查应用文件时发现了这一失误，并将其截图发到社交平台，迅速引来技术圈围观。",
-        "极速响应：面对曝光，苹果并未等待下一个常规迭代周期，而是展现出极快的应急响应，火速制作并推送了紧急修复版本。",
-        "专程删文件：本次紧急更新的核心目的非常明确，正是彻底清理并移除安装包内遗留的 README.md 文档。"
+        "Antigravity 平台迎重磅更新：谷歌正在为其开发平台 Antigravity 测试全新的 AI 智能体功能，全面整合 Gemini Live 语音交…",
+        "代号「Chief of Stuff」的主控智能体：该智能体目前代号为 Chief of Stuff，具备在 Antigravity 平台上自主操作的高级权限…",
+        "核心突破在于自主派生：Chief of Stuff 最关键的能力是自主派生子智能体（spawn other agents），将复杂的大任务拆解并分发给不同智…",
+        "系统界面曝光 Gemini 4 入口：流出的界面截图显示，操作底栏已赫然出现 Gemini 4 切换项以及 Live 语音交互按钮，曝光的演示音频更展现出多…"
       ],
       "quote": {
-        "who": "Aaron",
+        "who": "Nav Toor",
         "role": "",
-        "said": "Apple 刚发了个紧急更新把这个移除了，笑死"
+        "said": "@testingcatalog grok bots 已经有一套类似幕僚长的架构了 感觉这已经挺接近了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 99万 · 产品与生态] 发紧急更新就为删个README！苹果手滑现场被抓包，同行笑翻了"
+      "line": "[榜第13位 · 2.4万 · 产品与生态] 底栏惊现Gemini 4！谷歌首个AI幕僚长曝光，动动嘴派生智能体干活"
     },
     {
-      "title": "吹成2027全球最大AGI基地？马斯克4个字泼冷水：没那么大",
-      "summary": "全球 AI 算力军备竞赛彻底白热化，一份最新的巨型数据中心爆料在圈内激起千层浪。爆料称 Google 位于德州 Claude 的 Goodnight 数据中心将于 2027 年底登顶全球最大算力中心，专门用来训练 AGI，甚至可能被势头正盛的 Anthropic 直接接盘买下；同时全球前十大 AI 数据中心里竟有两座坐落在马来西亚，由 DayOne 运营且最大金主正是 Byte…",
-      "reads": "35万",
-      "ago": "16 小时前",
-      "category": "资本与算力",
+      "title": "8231款Bot全收录！Grok版GPT Store突然杀出，每3周翻一番",
+      "summary": "X 平台上分散难找的 Grok Bots 终于迎来了全景式入口。有第三方开发者正式上线了聚合目录网站，一口气在 32 个分类下收录了 8,231 款公开 Bot，另有 3,000 余款正在排队整理上线。开发者将这波生态井喷称为「寒武纪大爆发」，并预测整体规模将保持每 3 周翻一番的高速增长。虽然海量工具降低了使用门槛，但激增的调用需求也正与当前平台收紧的配额机制产生直接碰撞。",
+      "reads": "1.1万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "谷歌德州超级基地曝光：爆料称 Google 位于美国德克萨斯州 Claude 的 Goodnight 数据中心将于 2027 年底建成，预计届时将成为全球最…",
-        "基地归属充满戏剧变数：行业观点推测，该基地在 2027 年底要么被 Google 用于训练通用人工智能（AGI），要么直接被彻底起飞的 Anthropic…",
-        "马来西亚杀入全球前十：在全球排名前十的顶级 AI 数据中心版图中，有两座赫然坐落于马来西亚。",
-        "字节跳动海外算力底牌显现：马来西亚这两座排名前列的数据中心均由 DayOne 负责运营，其最大的客户正是 ByteDance。"
+        "专属聚合目录正式上线：针对 X 平台缺乏统一检索列表、工具分散难寻的痛点，研究者 Brian Roemmele 正式推出 Grok Bots 第三方聚合目录…",
+        "首批收录 8,231 款公开 Bot：该目录目前已划分 32 个细分场景类别，全面追踪并上架了 8,231 款公开可用的 Grok Bots。",
+        "后台仍有 3,000 余款排队待发：除现已展示的工具外，整理团队手中仍有 3,000 多款自建 Bot 正在排队审核，即将陆续补充进目录。",
+        "规模预计每 3 周翻倍：开发者将这一轮爆发式增长定性为生态的「寒武纪大爆发」，并预测整体收录规模将保持每 3 周翻一番的极高增速。"
       ],
       "quote": {
-        "who": "Elon Musk",
+        "who": "Brian Roemmele",
         "role": "",
-        "said": "@scaling01 没那么大"
+        "said": "只有 能为你呈现 Grok Bots 惊人的增长数据！ 我预测每 3 周就会翻一番！ 成为会员，参与到规模最大的用户自建解决方案中来！ 这是一场寒武纪大爆发，而你正身处边缘。 加入我们，见证……"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 35万 · 资本与算力] 吹成2027全球最大AGI基地？马斯克4个字泼冷水：没那么大"
+      "line": "[榜第14位 · 1.1万 · 产品与生态] 8231款Bot全收录！Grok版GPT Store突然杀出，每3周翻一番"
     },
     {
-      "title": "一口气思考10分钟！谷歌Gemini Carbon 4实测偷跑，价格只要Opus 5.5一半",
-      "summary": "谷歌尚未正式上线的全新旗舰模型 Gemini Carbon 4 遭到开发者实测曝光。在 Three.js 复杂 3D 渲染和前端编程中，该模型表现出极高水准且毫无偷懒，最惊人的是具备超长前置思考机制，有时输出前会深度思考 8 至 10 分钟。爆料显示其定价极具杀伤力，预计仅为 Opus 5.5 的一半，不仅能精准还原漫画打斗剧情，还展现出谷歌追赶顶尖模型的强劲势头。",
-      "reads": "6.1万",
-      "ago": "8 小时前",
+      "title": "陶哲轩直言NS方程全乱套！AI甩出数百万行代码，人类反而成了瓶颈",
+      "summary": "菲尔兹奖得主陶哲轩公开对 AI 解决数学难题的介入方式表达不满。他指出数学界原本希望 AI 充当计算器，如今却迎来了抢夺饭碗的竞争对手，此前围绕 Navier-Stokes 方程积累的大量研究已全陷入混乱。最棘手的是，AI 给出的证明动辄包含数百万行代码且无人能读懂，人类学者正从科研方向的把控者沦为单纯的「质检员」，未来甚至可能彻底变成科研推进的瓶颈。",
+      "reads": "2.5万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "未发先火：谷歌尚未正式上线的全新旗舰模型 Gemini Carbon 4 遭到实测曝光，在编程与复杂推理场景中表现惊艳。",
-        "超长深度思考：该模型展现出极为罕见的长思考机制，在输出前有时会进行长达 8 至 10 分钟的深度思考，杜绝草率答题。",
-        "Three.js实测零偷懒：在复杂前端 3D 渲染等高难度编程任务中，模型完成度极高，代码全程毫无偷懒缩减现象。",
-        "定价预计砍半：据开发者透露，Gemini Carbon 4 正式推出后的价格预计仅为 Opus 5.5 的一半，性价比极高。"
+        "陶哲轩公开指出对当前 AI 解决数学题的方式感到不满，并强调这与证明结果是否正确毫无关系。",
+        "数学界原本期望将 AI 作为计算器等辅助工具使用，但现实中 AI 正演变成抢夺学术主导权的竞争对手。",
+        "此前学术界围绕经典物理数学难题 Navier-Stokes（纳维-斯托克斯）方程积累的大量研究工作，目前已因 AI 的介入而全陷入混乱。",
+        "AI 产出的证明体量极其庞大，涉及多达数百万行代码（millions of lines of code），现实中根本没有任何人类能够读懂。"
       ],
       "quote": {
-        "who": "Chetaslua",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "@TimJayas 兄弟还没上线呢，没法比速度"
+        "said": "@RaghavMehtaM1 这可是几百万行代码，根本没人能读得过来"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 6.1万 · 模型与能力] 一口气思考10分钟！谷歌Gemini Carbon 4实测偷跑，价格只要Opus 5.5一半"
+      "line": "[榜第15位 · 2.5万 · 模型与能力] 陶哲轩直言NS方程全乱套！AI甩出数百万行代码，人类反而成了瓶颈"
     },
     {
-      "title": "难怪越看越不对劲！OpenAI宣传片被曝是GPT-6.2做的，最快周一掀盖子",
-      "summary": "OpenAI官方最新发布的宣传短片引发社区逐帧审查，画面背后似乎暗藏玄机。有开发者结合细节分析指出，这段短片极可能是完全由尚未公开的新旗舰 GPT-6.2 制作完成，这正好解答了外界对画质与生成特征的疑惑。该开发者预计官方最快将在下周一正式揭晓谜底，伴随近期密集的灰度测试爆料，新旗舰突袭发布的预期正在迅速升温。",
-      "reads": "5900",
-      "ago": "1 小时前",
+      "title": "鹈鹕驮自行车刷屏！Fable 5.5炸裂输出曝光：Astra 6.2毫无胜算",
+      "summary": "社区最新曝光了 Anthropic 下一代旗舰模型 Fable 5.5 的高难度超现实生成案例，画面中一只白鹈鹕在海面晚霞里展翅飞翔，背上驮着一辆青绿色公路自行车，细节表现极为惊艳。有爆料者据此直言 OpenAI 的 Astra 6.2 毫无胜算，并预告 11 月将迎来顶级大模型的巅峰对决。随后有爆料声音针锋相对回击称「GPT-6.2 Astra 依然能压制 Fable 5.5…",
+      "reads": "4.4万",
+      "ago": "6 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI官方发布了以探讨「未来有很多种，你想构建哪一种」为主题的最新宣传短片。",
-        "开发者对视频画面展开分析后推测，该短片很可能完全由下一代旗舰模型 GPT-6.2 生成制作。",
-        "此前社区已有开发者逐帧拆解该宣传片，发现其呈现明显的 AI 生成特征，两方分析形成印证。",
-        "针对官方的揭晓节点，分析人士预计 OpenAI 最快将在下周一正式对外公布真相。"
+        "**Fable 5.5 超现实生成细节流出**：社区爆料者曝光 Anthropic 新一代模型 Fable 5.5 的生成案例，画面准确呈现「海面晚霞中，白…",
+        "**爆料人断言竞品毫无胜算**：爆料者直言在看完 Fable 5.5 展现的炸裂输出后，认为 OpenAI 下一代旗舰 Astra 6.2 面对它「毫无胜算…",
+        "**直接锁定 11 月行业大决战**：爆料人明确预告 11 月整个行业将彻底燃炸（nov is gonna be super hot），呼吁大家做好迎接顶级…",
+        "**针锋相对抬出 GPT-6.2 反击**：针对唱衰 OpenAI 的论调，另有爆料声音迅速反驳，直接给出「GPT-6.2 Astra > Fable 5.…"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "@AdiKodez 不清楚。不过我估计是周一"
+        "said": "@vikktorrrre @notjazii 不是为了引战，这叫“希望”。你懂的，我不喜欢只炒作某一个东西。对竞争对手迟早能赢过 Anthropic 抱有乐观态度，这再好不过了。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 5900 · 模型与能力] 难怪越看越不对劲！OpenAI宣传片被曝是GPT-6.2做的，最快周一掀盖子"
+      "line": "[榜第16位 · 4.4万 · 模型与能力] 鹈鹕驮自行车刷屏！Fable 5.5炸裂输出曝光：Astra 6.2毫无胜算"
     }
   ],
   "board_count": 16,

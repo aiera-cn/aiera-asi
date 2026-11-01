@@ -3,8 +3,8 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-01 22:59:23 +0800",
-  "today": "11/01",
+  "fetched_at": "2026-11-02 03:34:04 +0800",
+  "today": "11/02",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
     {
@@ -90,6 +90,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgdb33d0&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/01 08:21] ChatGPT要和Codex抢额度了！奥特曼一声令下，12月Token全部合池 · https://www.aiera.com.cn/asi-item.html?id=tgdb33d0&from=yuanyuan"
+    },
+    {
+      "time": "00:42",
+      "date": "11/02",
+      "title": "OpenAI新旗舰提前偷跑？前端还在装傻，终端敲行代码直接调出GPT-6.2",
+      "summary": "OpenAI 的新旗舰已经能在终端里直接用了。X 上的开发者 @Smlay_ero 发帖说，gpt-6.2-astra 正在推送，在 Codex CLI 里敲一行 codex…",
+      "source": "@Smlay_ero / @TokenGremlin",
+      "id": "14a2f04d",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=14a2f04d&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/02 00:42] OpenAI新旗舰提前偷跑？前端还在装傻，终端敲行代码直接调出GPT-6.2 · https://www.aiera.com.cn/asi-item.html?id=14a2f04d&from=yuanyuan"
+    },
+    {
+      "time": "21:31",
+      "date": "11/01",
+      "title": "动动嘴就能让智能体生分身干活，谷歌Antigravity实机界面偷跑",
+      "summary": "谷歌给 Antigravity 准备的智能体，实机界面先漏出来了。开发者张嘴说话，它就能自己操作 Antigravity，还会派出别的智能体分头干活。 消息来自…",
+      "source": "@testingcatalog",
+      "id": "959179a7",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=959179a7&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/01 21:31] 动动嘴就能让智能体生分身干活，谷歌Antigravity实机界面偷跑 · https://www.aiera.com.cn/asi-item.html?id=959179a7&from=yuanyuan"
     },
     {
       "time": "17:33",
@@ -260,18 +284,6 @@
       "line": "[10/31 01:29] Claude取消5小时限制，200美元Ultra会员放开跑 · https://www.aiera.com.cn/asi-item.html?id=170bb3bf&from=yuanyuan"
     },
     {
-      "time": "20:52",
-      "date": "10/30",
-      "title": "5000名开发者电脑险被黑客接管，Cursor插件市场突遭投毒",
-      "summary": "Cursor 在自家插件市场里发现了一个恶意版本的 Claude Code。这个版本会想办法让黑客远程访问用户的电脑，可能波及的用户最多 5000 人。 消息来自…",
-      "source": "@Polymarket",
-      "id": "d3444d22",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=d3444d22&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/30 20:52] 5000名开发者电脑险被黑客接管，Cursor插件市场突遭投毒 · https://www.aiera.com.cn/asi-item.html?id=d3444d22&from=yuanyuan"
-    },
-    {
       "time": "20:34",
       "date": "10/30",
       "title": "重磅！AI补全人类史上最大数学证明，数学家当场泪崩",
@@ -306,18 +318,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgb648e2&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/30 18:18] 人类要关停，AI不能躲！OpenAI更新模型家法 · https://www.aiera.com.cn/asi-item.html?id=tgb648e2&from=yuanyuan"
-    },
-    {
-      "time": "14:11",
-      "date": "10/30",
-      "title": "「绝不要大重写」成了历史：Anthropic用Claude重构核心后端",
-      "summary": "Anthropic 把核心的 Messages API 整个用 Rust 重写了一遍。团队里一个 Rust 开发者都没有。 这件事是 Katelyn Lesse 在…",
-      "source": "@somi_ai",
-      "id": "e974bcca",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=e974bcca&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/30 14:11] 「绝不要大重写」成了历史：Anthropic用Claude重构核心后端 · https://www.aiera.com.cn/asi-item.html?id=e974bcca&from=yuanyuan"
     },
     {
       "time": "13:11",
@@ -366,102 +366,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tg9885c5&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[10/30 08:31] 突发！ChatGPT Pro所有档位额度，官宣翻倍 · https://www.aiera.com.cn/asi-item.html?id=tg9885c5&from=yuanyuan"
-    },
-    {
-      "time": "06:04",
-      "date": "10/30",
-      "title": "跑代码直接扣聊天额度，OpenAI结账小字曝光12月合体新规",
-      "summary": "从 12 月开始，在 Codex 里跑代码花掉的额度，要和 ChatGPT 里的日常聊天共用同一个上限了。 开发者 Tibor Blaho 在 X 上发帖说，ChatGPT…",
-      "source": "@btibor91",
-      "id": "0573de77",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=0573de77&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/30 06:04] 跑代码直接扣聊天额度，OpenAI结账小字曝光12月合体新规 · https://www.aiera.com.cn/asi-item.html?id=0573de77&from=yuanyuan"
-    },
-    {
-      "time": "05:49",
-      "date": "10/30",
-      "title": "32MB直接拉到128MB，Claude API请求上限暴涨4倍，大PDF随便喂",
-      "summary": "Claude API 的单次请求大小上限，从 32MB 直接拉到了 128MB，空间扩大约 4 倍。Claude 官方开发者账号 @ClaudeDevs 在 X…",
-      "source": "@ClaudeDevs",
-      "id": "4326d0a2",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=4326d0a2&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/30 05:49] 32MB直接拉到128MB，Claude API请求上限暴涨4倍，大PDF随便喂 · https://www.aiera.com.cn/asi-item.html?id=4326d0a2&from=yuanyuan"
-    },
-    {
-      "time": "03:32",
-      "date": "10/30",
-      "title": "终于来了！谷歌Antigravity上线插件市场，一口气接入Notion和Figma",
-      "summary": "谷歌 Antigravity 上线了插件市场，首批连接器一口气铺开，Notion 和 Figma 都在名单里。 消息来自 TestingCatalog 在 X 上的爆料。…",
-      "source": "@testingcatalog",
-      "id": "da9f8ea3",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=da9f8ea3&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/30 03:32] 终于来了！谷歌Antigravity上线插件市场，一口气接入Notion和Figma · https://www.aiera.com.cn/asi-item.html?id=da9f8ea3&from=yuanyuan"
-    },
-    {
-      "time": "03:03",
-      "date": "10/30",
-      "title": "谷歌搞出大模型睡眠机制，学完打个盹，不仅不遗忘连推理都涨了",
-      "summary": "大模型学了新的就忘旧的，谷歌的办法是让它学完先睡一觉。Google Research 在官方博客介绍，团队在持续学习流程里专门加了一个「睡眠」阶段…",
-      "source": "@diegocabezas01",
-      "id": "7194a3f6",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=7194a3f6&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/30 03:03] 谷歌搞出大模型睡眠机制，学完打个盹，不仅不遗忘连推理都涨了 · https://www.aiera.com.cn/asi-item.html?id=7194a3f6&from=yuanyuan"
-    },
-    {
-      "time": "02:22",
-      "date": "10/30",
-      "title": "Claude开始自己查自己，只多花约10个Token，算力开销不到2%",
-      "summary": "Claude 开始自己查自己了。每回完一条消息，它都会立刻掉头，给这段对话做一次安全评估。 Anthropic 在官方 X 账号上披露了这项训练技术，名字叫…",
-      "source": "@AnthropicAI",
-      "id": "61253108",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=61253108&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/30 02:22] Claude开始自己查自己，只多花约10个Token，算力开销不到2% · https://www.aiera.com.cn/asi-item.html?id=61253108&from=yuanyuan"
-    },
-    {
-      "time": "01:32",
-      "date": "10/30",
-      "title": "开车也能跟Claude直接对话了？移动端一口气大改版，连CarPlay多账号都齐了",
-      "summary": "开车的时候，也能直接跟 Claude 说话了。Claude 官方在 X 上宣布，iPhone 上的语音模式已经支持苹果 CarPlay，双手不用离开方向盘。 这是…",
-      "source": "@claudeai",
-      "id": "21f9e05b",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=21f9e05b&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/30 01:32] 开车也能跟Claude直接对话了？移动端一口气大改版，连CarPlay多账号都齐了 · https://www.aiera.com.cn/asi-item.html?id=21f9e05b&from=yuanyuan"
-    },
-    {
-      "time": "01:16",
-      "date": "10/30",
-      "title": "9600块英伟达A100整套甩卖，300架AI超算开价6000万美元光速下架",
-      "summary": "一整套 AI 超算，被人挂上了 eBay。据 Tom's Hardware 报道，一家 IT 经销商一口气上架了 300 个服务器机架，里面装着 9600 块英伟达 A100。…",
-      "source": "@Kalshi",
-      "id": "a84ea2c1",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=a84ea2c1&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/30 01:16] 9600块英伟达A100整套甩卖，300架AI超算开价6000万美元光速下架 · https://www.aiera.com.cn/asi-item.html?id=a84ea2c1&from=yuanyuan"
-    },
-    {
-      "time": "00:36",
-      "date": "10/30",
-      "title": "聊天框变成Office！Gemini直接改PDF和PPT，圈选就能换图换字",
-      "summary": "Gemini 的聊天框，能直接当 Office 用了。文档、PDF、演示文稿、表格，现在都能在 Gemini 里生成、预览，再直接上手改。 Google Gemini…",
-      "source": "@GeminiApp",
-      "id": "7d2d6164",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=7d2d6164&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[10/30 00:36] 聊天框变成Office！Gemini直接改PDF和PPT，圈选就能换图换字 · https://www.aiera.com.cn/asi-item.html?id=7d2d6164&from=yuanyuan"
     },
     {
       "time": "22:18",
@@ -560,6 +464,6 @@
       "line": "[10/28 14:11] 计算机领域天塌了！两大巨头同日宣布：世纪猜想ETH被证伪 · https://www.aiera.com.cn/asi-item.html?id=tg79841b&from=yuanyuan"
     }
   ],
-  "feed_count": 46,
-  "feed_total": 46
+  "feed_count": 38,
+  "feed_total": 38
 }
