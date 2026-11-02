@@ -3,115 +3,190 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-02 07:31:03 +0800",
+  "fetched_at": "2026-11-02 13:52:28 +0800",
   "today": "11/02",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "受够算法推荐！Karpathy两小时手搓网站，4300万评论淘出6454个宝藏视频",
-      "summary": "苦于 YouTube 等平台算法推荐的「沉迷陷阱」，AI 大佬 Andrej Karpathy 周末随手搓出了一个极简技术视频站 HackerTube。他使用 Claude 的 Opus 5.5 模型（Medium 思考强度），在几乎不写一行业务代码的情况下仅耗时约 2 小时，就从 Hacker News 过去 20 年的 4300 万条评论中淘出了 6454 个被工程师反复安…",
-      "reads": "191万",
-      "ago": "2 小时前",
+      "title": "受够算法投喂！Karpathy用Opus两小时手搓「YouTube的HN纯净版」",
+      "summary": "受够了 YouTube 充斥成瘾机制与算法投喂的糟糕体验，AI 大佬 Andrej Karpathy 周末直接动手反击。他借助 Claude，在 Opus 5.5 中等思考强度下仅耗时约 2 小时，便从 Hacker News 过去 20 年的 4300 万条评论中筛选出 6454 个被反复安利的高质量技术视频，手搓出专属站点 HackerTube。Karpathy 透露，整个…",
+      "reads": "323万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "受够算法喂养，Karpathy 周末手搓纯净版平台：因烦透了 YouTube 推荐算法的成瘾沉迷机制与无法永久关闭的短视频，前特斯拉 AI 总监 Andre…",
-        "两小时搞定全流程，Claude Opus 5.5 挑大梁：整个项目构建仅耗时约 2 小时，Karpathy 选用了 Claude 的 Opus 5.5 模型…",
-        "4300万条评论大淘沙，洗出6454个硬核视频：Claude 对 Hacker News 过去 20 年间的 4300 万条历史评论进行了深度清洗与挖掘，最…",
-        "工程管线细节披露，分层清洗节约 Token：面对外界对超大规模数据处理的追问，Karpathy 透露项目先通过正则表达式与规则过滤掉无效 URL 和垃圾信息…"
+        "Andrej Karpathy 公开个人周末项目 HackerTube，因不满主流视频平台充满成瘾机制的推荐算法，仅耗时约 2 小时便完成全站构建并上线。",
+        "该项目扫描了 Hacker News 过去 20 年间的 4300 万条评论，最终精选过滤出 6454 个被技术社区反复推荐的硬核视频（涵盖 USB 键盘原…",
+        "Karpathy 透露开发时使用了 Claude，底座采用 Opus 5.5 且仅开启了中等思考强度（Medium effort）；为节省 Token 开销…",
+        "Karpathy 本人形象地还原了提示词，直言现在开发者基本不用肉身写代码，只需提清需求、买域名、起服务器和配置 API，个性化软件的构建门槛与边际成本已近…"
       ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "Wes Roth",
         "role": "",
-        "said": "😱天呐！Karpathy周五晚上刷YouTube被气疯了！让Opus 5.5开中档仅耗时2小时做出高质量HackerTube！ 周六早上跟Claude说“用Hacker News这么多年评论里推荐过的视频，做个自己的YouTube”。 2小时后，6454个视频的HackerTube就上线了。 他现在基本不写代码，只负责买域名、开服务器、弄个API"
+        "said": "Karpathy 受够了 YouTube 的推荐机制，花了大概两个小时给自己手搓了一个全新的浏览方式。 这正是我觉得让人兴奋的那种 AI 项目。 HackerTube 抓取了 Hacker News 多年来的推荐内容，把常规缩略图替换成了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 191万 · 产品与生态] 受够算法推荐！Karpathy两小时手搓网站，4300万评论淘出6454个宝藏视频"
+      "line": "[榜第1位 · 323万 · 产品与生态] 受够算法投喂！Karpathy用Opus两小时手搓「YouTube的HN纯净版」"
     },
     {
-      "title": "一天风头都不给！GPT-6.2刚被抓包，Claude Mythos 5.5官网偷跑",
-      "summary": "OpenAI新旗舰GPT-6.2 Astra刚在Codex灰度测试中现身，Anthropic就立刻亮出底牌正面阻击。多位开发者在Anthropic官网HTML源码中捕获到隐藏的Claude Mythos 5.5，文案明确标注专攻网络安全与生物学研究，同时Fable 5.5也已在云端价格表泄露。随着双方核心模型代号接连曝光，两大阵营极可能在下周或Anthropic于11月中旬IP…",
-      "reads": "72万",
-      "ago": "3 小时前",
+      "title": "官网源码连藏6处被扒光！Anthropic新旗舰泄露，正面硬碰GPT-6.2",
+      "summary": "两大巨头又在发布节点上撞车了。Anthropic 官网 HTML 源码日前被扒出 6 处隐藏的「Mythos 5.5」标签，官方标注文档显示其主打网络安全与生物学研究，同系的 Fable 5.5 也短暂现身云端价格表，社区推测最快下周或在 11 月中旬 IPO 前上线。与此同时，OpenAI 也被曝正在 Codex 中秘密灰度测试 GPT-6.2 Astra，新一轮旗舰攻防战彻…",
+      "reads": "80万",
+      "ago": "1 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI灰度偷跑：开发者在Codex用量分析与API响应中捕获到「gpt-6.2-astra」测试痕迹，前端虽仍显示为GPT-6 Astra，但后台已在…",
-        "Anthropic官网源码遭扒：Anthropic官网HTML源码中被发现隐藏的「Mythos 5.5」字样，在页面h1和图片alt属性中一共出现了6次，而…",
-        "专攻网安与生物：泄露文案明确将Mythos 5.5定性为「我们在网络安全和生物学研究领域能力最强的模型级别」，网页快照证实该内容系近几天刚新增。",
-        "Fable 5.5同步浮出：除Mythos 5.5外，此前第三方工具的Azure价格表中也曾短暂出现「claude-fable-5-5」随后被撤下，意味着A…"
+        "官网源码暗藏玄机：开发者比对网页快照发现，Anthropic 官网 HTML 近日新增 6 处隐藏的「Mythos 5.5」标题与图片引用，尽管前端可见文本…",
+        "专攻网安与生物学：被挖掘出的隐藏文案明确标定为 2026 年，并将 Claude Mythos 5.5 定位为「在网络安全和生物学研究领域能力最强的模型级别…",
+        "双旗舰同步偷跑：除 Mythos 5.5 外，旗舰模型 claude-fable-5-5 也被发现在 10 月 13 日短暂现身 LiteLLM 的 Azu…",
+        "发布窗口锁定下周至 IPO 前夕：技术社区推测，Anthropic 最快将于下周突袭发布两款 5.5 系列新模型，或最迟赶在 11 月 10 日至 15 日…"
       ],
       "quote": {
-        "who": "Andrew Curran",
+        "who": "Wes Roth",
         "role": "",
-        "said": "Lisan:"
+        "said": "Anthropic 官方 Mythos 页面的源码中短暂出现过 Claude Mythos 5.5 的引用。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 72万 · 模型与能力] 一天风头都不给！GPT-6.2刚被抓包，Claude Mythos 5.5官网偷跑"
+      "line": "[榜第2位 · 80万 · 模型与能力] 官网源码连藏6处被扒光！Anthropic新旗舰泄露，正面硬碰GPT-6.2"
     },
     {
-      "title": "连轴转28天就这？OpenAI连续更新遭吐槽：半成品扎堆，神秘新模型或超Terra",
-      "summary": "OpenAI工程师Tibo主导的「28天连续改进」正式收官，但社区复盘却直接翻车，不少开发者直言大量功能仍是半成品、配不上此前宣传。随着高频刷版结束，开发者的视线迅速转移到背后的大动作上——有爆料称OpenAI正准备推出超越Terra级别的新底模。目前大批开发者正紧盯API与Arena暗测流量，试图扒出正在悄悄路由到ChatGPT或Codex的新checkpoint，同时集体催…",
-      "reads": "16万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
+      "title": "最高分才12%！前沿Agent大考难哭全网，皮柴带Gemini Carbon杀到第二",
+      "summary": "分析机构 SemiAnalysis 正式推出专注于万亿美元商业高回报领域的智能体基准测试 GDPx，结果给全行业泼了盆冷水——目前排名第一的 Anthropic 旗舰 Opus 5.5 得分仅有 12.0%，Google 尚未正式发布的 Gemini Carbon 以 10.9% 紧随其后。更耐人寻味的是，Opus 5.5 和 GPT-6 Astra 的成绩很大程度被自身的安全…",
+      "reads": "43万",
+      "ago": "50 分钟前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI工程师Tibo主导的28天连续功能交付活动（Tibo's 28 Days）正式落下帷幕。",
-        "社区复盘出现大面积吐槽，多位开发者指出虽然上线了不少改动，但大多仍显仓促且处于「半成品」（unfinished）状态，引发了活动是否炒作过度的争论。",
-        "讨论重心随后光速转向模型底层，有爆料推测OpenAI后续可能会放出高于「Terra」级别的新模型。",
-        "多位技术从业者正在全天候盯紧API与Arena测试场，严查是否有未公开的新checkpoint正在向ChatGPT或Codex进行分流路由。"
+        "分析机构 SemiAnalysis 发布面向最具经济价值领域的前沿智能体基准 GDPx，重点押注能带来万亿美元 AI 收入的高 ROI 垂直赛道。",
+        "榜单难度堪称灾难级：目前领跑的 Anthropic 旗舰模型 Opus 5.5 得分仅为 12.0%，Google 即将推出的 Gemini Carbon…",
+        "安全分类器成隐形绊脚石：Opus 5.5 和 GPT-6 Astra 在网络安全、生物和对齐等敏感领域因安全拦截频繁触发，实际综合战力被严重低估。",
+        "各垂直赛道分化明显：在安全分类器影响显著的网络安全领域，Muse Wonder Full 成为当前表现最好的网络安全模型，且优势显著。"
       ],
       "quote": {
-        "who": "Token Gremlin",
+        "who": "Sundar Pichai",
         "role": "",
-        "said": "@TP_IAmSoThirsty 听到了。🫡♥️"
+        "said": "很高兴看到留有空间的高质量基准测试，再看看 Carbon 的成本线🚀"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 16万 · 产品与生态] 连轴转28天就这？OpenAI连续更新遭吐槽：半成品扎堆，神秘新模型或超Terra"
+      "line": "[榜第3位 · 43万 · 模型与能力] 最高分才12%！前沿Agent大考难哭全网，皮柴带Gemini Carbon杀到第二"
     },
     {
-      "title": "免密远程拿Root！Anthropic未发模型打穿Linux，9.8分漏洞无解",
-      "summary": "Anthropic 的 AI 武器库再露獠牙：其未发布的 AI 模型已成功将危险评分高达 9.8 的 Linux 内核漏洞转化为无需凭证的远程 root 利用，目前 Ubuntu 和 Red Hat 仍未完成修复。另一边，开源社区上演离奇闹剧，Hugging Face 上所谓 14 万亿参数的 Anthropic「泄露模型」被证实完全由随机数生成器伪造。而在日常开发中，Andr…",
-      "reads": "20万",
+      "title": "评分9.8核弹级漏洞！Anthropic未发布模型直接拿root，红帽Ubuntu懵了",
+      "summary": "Anthropic近期密集曝光重磅动作：先是披露其尚未公开发布的AI模型已将评分高达9.8的Linux内核漏洞（CVE-2026-98432）转化为免密远程root利用，让至今未发补丁的Ubuntu和Red Hat措手不及；同时在服务端对Opus 5.5强推死规，彻底封死Claude Code复刻电子游戏的通道。另一边，Hugging Face上炒上天的「14万亿参数Anthr…",
+      "reads": "32万",
       "ago": "2 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Anthropic 披露其未发布的 AI 模型已成功攻破 Linux 内核漏洞 CVE-2026-98432，该漏洞危险评分高达 9.8（满分 10 分）…",
-        "该 AI 模型生成的漏洞利用代码无需任何凭证即可实现远程 root 权限获取，截至目前，主流发行版 Ubuntu 和 Red Hat 仍未发布有效修复补丁。",
-        "前特斯拉 AI 总监 Andrej Karpathy 透露，借助 Claude 仅耗时约 2 小时便搭建出 HackerTube 视频推荐平台，专门收录 H…",
-        "在搭建 HackerTube 过程中，Claude 自动化处理并筛选了 Hacker News 历时 20 年积累的 4300 万条评论，最终提炼出 645…"
+        "未发布AI攻破Linux内核高危漏洞：Anthropic披露旗下未公开模型已将危险评分达9.8分的IPv4 TCP握手漏洞（CVE-2026-98432）转…",
+        "14万亿参数开源闹剧彻底反转：此前在Hugging Face引发全网围观的「14万亿参数Anthropic大模型泄露」被研究者证实纯属虚构，其权重由随机数生…",
+        "Opus 5.5服务端强硬封杀游戏复刻：Anthropic自10月27日起向Opus 5.5推送无法关闭的强制规则，严格禁止Claude Code重新构建任…",
+        "Karpathy实测2小时手搓独立站：知名AI学者Andrej Karpathy表示，Claude仅耗费约2小时就从Hacker News过去20年的430…"
       ],
       "quote": {
         "who": "International Cyber Digest",
         "role": "",
-        "said": "❗️ Andrej Karpathy 表示，Claude 大概只用了 2 小时就帮他搭出了 HackerTube——一个专门推荐 Hacker News 上好评如潮视频的 YouTube。 Claude 从 Hacker News 20 年来的 4300 万条评论中筛选出 6454 个大家反复推荐的视频。 他说自己唯一的手工活，就是"
+        "said": "❗️ Cisco 给了一位 27 岁的前创始人无限量 AI Token，并定下了在 24 个月内重构其 98% 旧代码的目标。 Cisco 在 2025 年收购了他的翻译初创公司 EzDubs。总裁 Jeetu Patel 表示，后来发现 Padmanabhan Krishnamurthy 在自己手下第五级岗位，“被埋没在"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 20万 · 模型与能力] 免密远程拿Root！Anthropic未发模型打穿Linux，9.8分漏洞无解"
+      "line": "[榜第4位 · 32万 · 模型与能力] 评分9.8核弹级漏洞！Anthropic未发布模型直接拿root，红帽Ubuntu懵了"
+    },
+    {
+      "title": "手搓3D动画耗时42分钟！Claude 5.5秘密灰度，1/50中签率测疯全网",
+      "summary": "Anthropic新一代旗舰疑似提前偷跑，后台正以约2%的极低概率（50次命中1次）灰度路由Opus 5.5与Fable 5.5。开发者实测发现，新模型无需复杂调优即可展现出超写实的物理细节，曾单次耗时42分17秒用Three.js手搓出海边骑车鹈鹕动画，并在30分钟内完成高保真可交互超跑。为鉴别是否命中新版，测试者甚至摸索出断网询问「Karpathy在2026年去了哪里」的专…",
+      "reads": "27万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "灰度路由极度罕见：测试显示当前后台灰度抽中新模型的概率仅为1/50（约2%），系统会极其偶发地将请求路由至Opus 5.5或Fable 5.5。",
+        "专属验机暗号曝光：由于没有显式版本标识，开发者总结出唯一鉴别方法——在断网且关闭记忆工具的状态下提问「Karpathy在2026年去了哪里」，只有新一代模型…",
+        "单次提示手搓3D动画：在单次提示词（one-shot）要求下，模型耗时42分17秒直接用Three.js生成并渲染出超写实的海边骑车鹈鹕3D动画，物理细节与…",
+        "30分钟捏出高保真超跑：在另一项测试中，Opus 5.5耗时30分钟独立生成了红色Kestrel K1超跑的Three.js可交互3D模型，用户可在网页端自…"
+      ],
+      "quote": {
+        "who": "Chetaslua",
+        "role": "",
+        "said": "@JesusIsGod 永远这么问：@karpathy 2026 年去了哪里，不准用联网搜索和记忆工具 只有新的 Fable 知道答案，然后再给它发提示词 因为它每 50 次里只有 1 次会路由到 Opus 5.5，上面这个问题是唯一的鉴别方法"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 27万 · 模型与能力] 手搓3D动画耗时42分钟！Claude 5.5秘密灰度，1/50中签率测疯全网"
+    },
+    {
+      "title": "狂肝28天全是半成品？Tibo更新收官引争议，爆料称暗测Terra之上新模型",
+      "summary": "工程师 Tibo 主导的 Codex 与 ChatGPT 连续 28 天更新活动正式画上句号，虽然累积重置（banked reset）等呼声极高的功能赶在最后实装，但不少开发者复盘后直言大量更新仍像「半成品」，甚至质疑前期炒作过度。不过核心爆料者透露，这场长达近一个月的密集放量很可能是一场预演，真正目的是为 Terra 级别之上的全新模型进行流量承压与路由铺垫。目前社区正全网紧…",
+      "reads": "26万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "28天持续交付正式收官：工程师 Tibo 主导的 Codex 与 ChatGPT 连续 28 天高强度更新活动告一段落，社区针对近一个月的实际成果展开集中复…",
+        "口碑分化被指「半成品」：尽管连续更新改善了日常写代码体验，但许多开发者反馈大量功能交付匆忙、完成度欠佳，引发了对活动前期宣传是否过头的公开质疑。",
+        "累积重置等功能赶在收尾上线：在活动最终阶段，社区呼声极高的累积重置（banked reset）等核心功能获得官方实装，缓解了部分高频开发者的额度消耗焦虑。",
+        "曝密集放量意在暗测新模型：核心爆料者推测，这轮持续 28 天的密集放量与路由调整，极大概率是在为「Terra 级别之上」的未公开新模型提前进行全链路承压测试…"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "@estrela2204 @thsottiaux 非常感谢，这也是我看待自己与 Tibo 以及我们整个社区关系的方式。归根结底，我们只是想互相帮助。😊♥️"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 26万 · 产品与生态] 狂肝28天全是半成品？Tibo更新收官引争议，爆料称暗测Terra之上新模型"
+    },
+    {
+      "title": "全员到账！ChatGPT二次重置额度全面推送，爆料称留给GPT-6.2 Astra",
+      "summary": "OpenAI 为期 28 天的工程优化马拉松正式迎来收官节点（Day 28），官方团队正式向全体 ChatGPT 用户全量推送第二次存量重置（banked reset 2/2）。在过去的四周里，团队连续实装了提速、多账号切换以及额度翻倍等一系列工程调整。多位开发者与观察者紧急提醒，刚到账的重置额度千万别随手耗尽，建议直接存给即将突袭登场的新一代旗舰 GPT-6.2 Astra。",
+      "reads": "65万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 工程师 Tibo 主导的 28 天连续工程改进活动迎来收官，团队正式宣布完成第 28 天（Day 28）更新。",
+        "OpenAI 工程师正式确认，第二次存量重置（banked reset 2/2）已面向全体 ChatGPT 用户全量推送并生效。",
+        "在过去的 28 天里，团队集中上线了运行提速（speed boost）、多账号无缝切换（multiple accounts）及额度翻倍（double lim…",
+        "社区爆料者与多位开发者公开建议用户克制消耗，将手头的重置额度尽量存下来，留给即将上线的下一代旗舰 GPT-6.2 Astra。"
+      ],
+      "quote": {
+        "who": "Vaibhav (VB) Srivastav",
+        "role": "",
+        "said": "给你们存的重置额度——拿去爽吧！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 65万 · 产品与生态] 全员到账！ChatGPT二次重置额度全面推送，爆料称留给GPT-6.2 Astra"
     },
     {
       "title": "扎克伯格被偷家！X单次停留13分半登顶社媒榜，马斯克点破玄机",
       "summary": "根据Similarweb最新出炉的2026年9月数据，X以单次平均停留13分25秒登顶主流社交媒体榜首，大幅甩开Meta旗下的Facebook（10分15秒）与Instagram（8分38秒）。面对快节奏碎片化娱乐的冲击，X展现出压制行业巨头的深度用户粘性。马斯克随后转发该榜单并总结称，X的产品追求就是「最大化长期的无悔用户使用秒数」。",
-      "reads": "176万",
-      "ago": "9 小时前",
+      "reads": "219万",
+      "ago": "15 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -129,14 +204,64 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 176万 · 产品与生态] 扎克伯格被偷家！X单次停留13分半登顶社媒榜，马斯克点破玄机"
+      "rank": 8,
+      "line": "[榜第8位 · 219万 · 产品与生态] 扎克伯格被偷家！X单次停留13分半登顶社媒榜，马斯克点破玄机"
+    },
+    {
+      "title": "马斯克亲口认栽！Grok Bot烧钱扛不住了，用户进度条瞬间拉满100%",
+      "summary": "马斯克这回亲自出面给限流认栽了。针对近期多位用户使用量进度条毫无预警直接飙到 100% 导致停摆，马斯克正式证实，Grok Bot 的运行成本已经变得难以承受，不得不紧急削减使用配额。外界推测此次额度缩减将波及全部订阅套餐，而幕后调用昂贵 API 或是开销失控的根源，未来或许唯有换回纯内部自研模型才能破局。",
+      "reads": "16万",
+      "ago": "7 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "马斯克（Elon Musk）公开证实，Grok Bot 当前的运行成本已经高到「难以承受」，正面回应了官方近期大幅缩减使用配额的原因。",
+        "在官方限流前，多位重度用户遭遇使用量进度条在毫无预警的情况下直接拉满至 100%，导致日常工作流全面中断。",
+        "此前业内曾畅想「智能便宜到无需计量」，但 Grok Bot 此次因算力与资金消耗失控骤然刹车，展现出智能体生态商业化与算力承载力之间的尖锐冲突。",
+        "根据社区进一步推测，此次使用额度大砍大概率会波及全部订阅套餐，尚无任何套餐能够豁免。"
+      ],
+      "quote": {
+        "who": "Mark Kretschmann",
+        "role": "",
+        "said": "@TalentedSun4404 是啊，我觉得这大概就是解法了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 16万 · 产品与生态] 马斯克亲口认栽！Grok Bot烧钱扛不住了，用户进度条瞬间拉满100%"
+    },
+    {
+      "title": "「觉得Opus更聪明是不懂行！」Astra 6.2补齐后训练，两大旗舰深夜吵翻",
+      "summary": "OpenAI 灰度中的旗舰模型 Astra 6.2 与 Anthropic 的 Opus 5.5 在社区引发激烈交锋。有资深测试者指出，Astra 6.0 基础模型能力原本就压过 Opus 5.5，此前表现挣扎主要是因为模型迟钝且缺乏产品级后训练调优，而最新的 Astra 6.2 已基本补齐该短板，能处理远比 Opus 5.5 复杂的任务。面对「觉得 Opus 更聪明纯属不懂行…",
+      "reads": "8.7万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 正在灰度测试的旗舰版本 Astra 6.2 与 Anthropic 旗下 Opus 5.5 展开正面实测较量，开发者社区围绕两大顶尖模型的综合…",
+        "针对两款旗舰的优劣对比，有资深测试者指出 Astra 6.0 的底模能力原本就在 Opus 5.5 之上，此前实际体验欠佳主要受制于模型迟钝以及缺乏面向产品…",
+        "该测试者透露，最新的 Astra 6.2 版本已在很大程度上补齐了产品后训练短板，实际能力实现了关键跃迁，相比之下 Opus 5.5 能处理的事情依然相对基…",
+        "争论持续升级，该测试者甚至直言，外界如果现在还觉得 Opus 5.5 比 Astra 更聪明，纯粹是自身测试水平不足的「不打自招」。"
+      ],
+      "quote": {
+        "who": "Dan McAteer",
+        "role": "",
+        "said": "@LFGASI 在我看来，现代人普遍不太懂得欣赏智慧。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 8.7万 · 模型与能力] 「觉得Opus更聪明是不懂行！」Astra 6.2补齐后训练，两大旗舰深夜吵翻"
     },
     {
       "title": "加400美元买触屏和灵动岛！苹果首款触控MacBook不支持Pencil",
       "summary": "知名科技记者古尔曼发文爆料，苹果在新款 MacBook Pro 上对触控屏、OLED 和灵动岛额外加收 400 美元溢价，虽然目前保留了非触控版，但未来高端线全面走向融合已成定局。不过这款新机既不支持 Apple Pencil 也没有平板模式，形态未发生根本改变，完全不会蚕食自家 iPad 产线，也被直指错失了引领桌面触控革命的机会。此外，苹果计划于明年推出搭载 M7 Pro…",
-      "reads": "62万",
-      "ago": "7 小时前",
+      "reads": "70万",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -154,258 +279,133 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 62万 · 产品与生态] 加400美元买触屏和灵动岛！苹果首款触控MacBook不支持Pencil"
+      "rank": 11,
+      "line": "[榜第11位 · 70万 · 产品与生态] 加400美元买触屏和灵动岛！苹果首款触控MacBook不支持Pencil"
     },
     {
-      "title": "马斯克扛不住了！亲口证实Grok成本失控，用户额度无预警直接见底",
-      "summary": "马斯克公开确认，Grok Bot 的推理与运行成本已高到无法维系，正面回应了近期平台额度遭到断崖式下调的原因。此前大量用户遭遇使用量计数器毫无预警直接飙到 100%，导致日常工作流被强制中断。这一波骤降并非系统故障，而是官方为遏制失控成本采取的主动限制，所谓「智能便宜到无需计量」的设想正撞上严峻的算力成本现实。",
-      "reads": "6.3万",
+      "title": "偷跑即挤爆！开源顶流Nous移动端意外泄露，名额秒光年底全量发",
+      "summary": "开源智能体顶流团队 Nous 秘密研发的独立移动端 App 遭遇私测安装包意外泄露，iOS 与 Android 两大通道测试席位瞬间被涌入的用户彻底抢空。核心开发者确认已达到平台测试上限，目前正紧急申请追加名额，并指引用户蹲守 Discord。官方明确表态，该应用将在感恩节后、圣诞节前的年底时间窗口面向大众全量发布。",
+      "reads": "1.7万",
       "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "马斯克正式确认 Grok Bot 的运行成本已达到无法维系的程度，正面证实了近期使用额度遭遇大幅削减的真实原因。",
-        "大量用户与开发者遭遇突发限制，账户的使用量进度条在毫无预警的情况下直接拉满到 100%，导致工作流突然被掐断。",
-        "官方表态证实额度暴跌并非后端 Bug 或系统临时故障，而是官方为遏制失控的推理与运营成本而采取的主动限流。",
-        "业内分析指出，外界目前很难完全看清 Grok Bot 幕后混用了哪些模型，其综合推理开销显然远超商业预期。"
+        "开源团队 Nous 正在开发的独立移动端 App 遭遇私有内测（private beta）安装包意外泄露。",
+        "安装包流出后引发大量用户涌入，iOS 的 TestFlight 与 Android 的 Firebase 测试席位瞬间被抢空至平台上限。",
+        "Nous 核心开发者 teknium 发文证实泄露属实，并向未能挤进测试的用户致歉。",
+        "团队正在与平台沟通，希望在未来一两天内为 iOS 和 Android 端争取到更多测试名额。"
       ],
       "quote": {
-        "who": "Mark Kretschmann",
+        "who": "Teknium 🪽",
         "role": "",
-        "said": "@BelleWinston91 也许是成功来得太快了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 6.3万 · 产品与生态] 马斯克扛不住了！亲口证实Grok成本失控，用户额度无预警直接见底"
-    },
-    {
-      "title": "别家全画卡通！Fable 5.5实测偷跑：写真级细节锁死第一，OpenAI悬了",
-      "summary": "Anthropic 尚未发布的新一代旗舰模型 Fable 5.5 实测在社区意外流出，多项表现展现出断代级实力。在「鹈鹕骑自行车」同题对比中，Opus 5.5 High、GPT-6 Astra Max 和 Gemini 4 Carbon 均停留在平面插画水平，Fable 5.5 则展现出逼真的真实世界写真质感，并能凭纯提示词一键生成复杂的 SVG 矢量代码。测试者直言其表现全面…",
-      "reads": "8.2万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "新一代旗舰实测流出：Anthropic 尚未正式公布的新模型 Fable 5.5 早期测试结果在社区曝光，其多模态生成与底层工程能力展现出惊人断代优势。",
-        "同题横评呈现画风差距：在同一提示词「鹈鹕骑自行车」的对比测试中，Opus 5.5 High、GPT-6 Astra Max 与 Gemini 4 Carbo…",
-        "真实物理世界级写性质感：与竞品的插画风形成剧烈反差，Fable 5.5 生成的鹈鹕骑车呈现出极致的光影与真实纹理细节，被评为完全贴近真实世界。",
-        "一键手搓硬核 SVG 矢量代码：除逼真的视觉呈现外，测试者还展示了 Fable 5.5 单凭一句提示词直接输出复杂 SVG 矢量图与完整底层代码的硬核工程能…"
-      ],
-      "quote": {
-        "who": "SuSu_酥酥",
-        "role": "",
-        "said": "Fable 5.5 > GPT 6.2 Astra"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 8.2万 · 模型与能力] 别家全画卡通！Fable 5.5实测偷跑：写真级细节锁死第一，OpenAI悬了"
-    },
-    {
-      "title": "Mythos 5.5现身官网代码！新旗舰传下周二突袭，单提示手搓3D超跑",
-      "summary": "Anthropic 新一代旗舰疑突袭在即。有测试者晒出实测，模型仅凭单次提示词、耗时约 30 分钟，就用 Three.js 生成了高保真可交互的红色超跑应用。结合官网前端代码中已悄悄加入 Mythos 5.5，测试者预测新模型极大概率将在下周二正式上线，同时喊话希望新品能比上一代降价 20%。",
-      "reads": "2.6万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "**实测效果曝光**：测试者公开了 Anthropic 新一代模型（标记为 Fable 5.5 / Opus 5.5）的生成结果，成功跑出可 3D 交互预览…",
-        "**单次提示生成**：该复杂项目完全依靠单次提示词（one-shot）跑出，耗时约 30 分钟，展现出底座在复杂 WebGL 渲染与多步前端逻辑生成上的能力…",
-        "**官网前端泄密**：爆料指出，Anthropic 官方网站前端代码此前已加入「Mythos 5.5」，表明新模型已部署至前台准备就绪。",
-        "**突袭时间预测**：结合代码更新与频繁的外部测试动向，测试者推测新一代旗舰极有可能定在下周二突袭发布。"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "@PawelJLisowski @threejs 用同样的提示词 one-shot 跑一个给我看看"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 2.6万 · 模型与能力] Mythos 5.5现身官网代码！新旗舰传下周二突袭，单提示手搓3D超跑"
-    },
-    {
-      "title": "从4分钟飙到连干数周！AI正式进入智能体时代，生产力不再只卷代码",
-      "summary": "学者 Ethan Mollick 给出最新定性：2026 年 1 月是 AI 智能体化工作正式启动的合理分水岭。早期 GPT-4 独立运行 4 分钟的成功率仅为 50%，而现在的尖端模型已能连续自主工作数周。AI 带来的巨大生产力提升终于跨出单纯写代码的范畴，企业也不用再对内部流程大动干戈，就能直接释放智能体效能。",
-      "reads": "2.3万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "学者 Ethan Mollick 明确指出，2026 年 1 月是 AI 智能体化（Agentic）工作全面启动的合理分水岭。",
-        "在独立作业能力上，早期 GPT-4 独立工作 4 分钟的成功率仅有 50%，而现役尖端模型已能连续自主执行数周任务。",
-        "在 2026 年 1 月的分水岭之前，大模型带来的巨大生产力红利绝大多数被局限在编写代码领域。",
-        "单靠 GPT-4 过去难以在企业全面铺开，主因是获取实际收益需要组织对业务流程进行伤筋动骨的大规模重构。"
-      ],
-      "quote": {
-        "who": "Ethan Mollick",
-        "role": "",
-        "said": "@momoni_dev 讲真，你是个 AI，所以你不在乎，但这也是错的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 2.3万 · 模型与能力] 从4分钟飙到连干数周！AI正式进入智能体时代，生产力不再只卷代码"
-    },
-    {
-      "title": "超越Opus 5.5！GPT-6.2 Astra曝光，正面硬刚Fable",
-      "summary": "业内爆料曝光了 OpenAI 下一代旗舰模型「GPT-6.2 Astra」的最新进展。相比现役的 GPT-6 Astra，该版本实现了跨代式巨大飞跃，在多项核心维度上已经超越 Anthropic 的 Opus 5.5，展现出足以正面硬刚万众瞩目的 Fable 5.5 的强劲实力。据透露，GPT-6.2 Astra 不仅底层技术能力大幅增强，在设计品味与审美上也将迎来显著蜕变。",
-      "reads": "19万",
-      "ago": "8 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "代际巨大飞跃：OpenAI 下一代模型 GPT-6.2 Astra 最新表现曝光，性能相较前代旗舰 GPT-6 Astra 实现了质的突破。",
-        "多项维度超越 Opus 5.5：在具体测试能力维度上，GPT-6.2 Astra 据称已在好几个领域超越 Anthropic 的 Opus 5.5。",
-        "正面硬刚 Fable 5.5：爆料明确指出，GPT-6.2 Astra 已具备充足实力，准备与业内高度期待的 Anthropic 旗舰 Fable 5.5…",
-        "设计审美显著进化：除技术指标外，新模型在设计品味（design taste）和审美能力上预计将迎来巨大提升。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "GPT-6.2 Astra 真的很惊艳。相比 GPT-6 Astra 实现了巨大飞跃，在好几个维度上都超越了 Opus 5.5，看来完全有实力和万众瞩目的 Fable 5.5 正面硬刚了。 预计在设计审美上会有巨大提升，技术能力也强得多，而且"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 19万 · 模型与能力] 超越Opus 5.5！GPT-6.2 Astra曝光，正面硬刚Fable"
-    },
-    {
-      "title": "后台狂憋42分钟！Claude新旗舰偷跑，One-shot搓出超写实3D动画",
-      "summary": "Anthropic 未发布的新一代旗舰实测在社交平台密集曝光，测试路由显示为 Fable 5.5 与 Opus-Next。新模型展现出惊人的长程推理与物理建模能力，在后台深度运行 42 分 17 秒后，一次性（one-shot）用 Three.js 写出极度逼真的海边鹈鹕骑车 3D 动画。开发者直言其超写实质感让独立图像与视频模型都显得不再必要，甚至爆料只要断网询问「Karpa…",
-      "reads": "22万",
-      "ago": "10 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "内部代号曝光：多位开发者实测发现 Anthropic 正在灰度测试未发布的新旗舰，后台路由标记为 Fable 5.5 与 Opus-Next。",
-        "单次生成3D场景：在无需多轮微调的单次指令（one-shot）下，新模型成功用 Three.js 编写出海边鹈鹕骑自行车的逼真 3D 动画。",
-        "深度推理耗时42分17秒：生成该高难度 3D 场景代码时，模型后台持续深度构建与推理长达 42 分 17 秒，展示出极强的长任务处理能力。",
-        "物理质感碾压传统生图：同一提示词下，对比模型生成卡通插画风，Fable 直接输出了超写实光影与细节，被评价为「未来甚至不再需要独立的图像或视频模型」。"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "给不在我们 Discord 服务器里的人看的证明。"
+        "said": "@CharlesMonneron @ToniRMCardoso 我们希望这一两天他们能给我们批更多 TestFlight 和 Android beta 测试名额。 供参考，我的打算是感恩节后、圣诞节前正式全量发布！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 22万 · 模型与能力] 后台狂憋42分钟！Claude新旗舰偷跑，One-shot搓出超写实3D动画"
+      "line": "[榜第12位 · 1.7万 · 产品与生态] 偷跑即挤爆！开源顶流Nous移动端意外泄露，名额秒光年底全量发"
     },
     {
-      "title": "直接杀到8355款！Grok版GPT Store大爆发：关机照样后台跑",
-      "summary": "Grok 智能体生态正在迎来「寒武纪大爆发」。AI 研究者 Brian Roemmele 上线了首个最全 Grok Bot 公开目录，目前已收录 32 个类别的 8,355 款公开智能体，另有 3,000 多款正在排队上线，总数即将突破万款大关。他预测这一生态正以每 3 周翻一番的速度暴增，更重要的是，这些 Grok Bot 全都在云端独立运行，即使用户电脑关机、睡觉或外出，也…",
-      "reads": "2.6万",
-      "ago": "3 小时前",
+      "title": "额度消耗骤增30%！马斯克坦白Grok Bot巨亏：Opus 5.5暗中降级",
+      "summary": "马斯克亲自踩下急刹车，直言提供 Grok Bot 服务的成本远超收入，「根本难以为继」。此前号称由 Opus 5.5 驱动的 Grok Bot 不仅被曝暗中降低该高规格模型的路由几率，多位重度用户的使用额度更在短时间内突然飙升 20% 到 30% 甚至更多。高昂算力成本重压之下，xAI 这轮粗暴降级与配额收紧，让大批开发者的工作流直接陷入混乱。",
+      "reads": "1.7万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "首个最全 Grok Bot 目录上线：针对 X 平台缺乏官方统一索引的痛点，第三方公开目录正式上线，系统化追踪覆盖了 32 个类别的公开智能体。",
-        "收录规模已达 8,355 款：目录上线之初追踪 8,231 款，随后迅速扩充至 8,355 款，目前后台正整理另外 3,000 多款准备上线，整体规模正快速…",
-        "预测数量每 3 周翻一番：开发者将当下的生态扩张形容为 AI 领域的「寒武纪大爆发」，并预测公开 Grok Bot 的总数将保持每 3 周翻一倍的爆发式增速…",
-        "云端自主运行成最大亮点：不同于需要本地常驻的对话工具，Grok Bot 具备在云端自主运行的能力，即使用户关机、休息或外出，Bot 依然会在独立环境中持续执…"
+        "马斯克公开表态算力难以为继：面对社区询问，马斯克在社交平台正面回应，直言提供 Grok Bot 服务的成本实在太高、远超其带来的收入，商业上根本无法持续补贴…",
+        "旗舰模型 Opus 5.5 遭遇隐性降级：此前官方宣传 Grok Bot 由高规格模型 Opus 5.5 驱动，但近期大量用户发现，实际任务被路由至 Opu…",
+        "使用配额无预警暴跌：多位重度开发者反映，Grok Bot 的配额消耗瞬间跳增了 20% 到 30% 甚至更多，平台暗中大幅收紧了单用户的算力上限。",
+        "万款应用扩张期突踩急刹车：在 Grok Bot 生态正向成千上万款应用规模扩张的关键节点，高昂的运营开销迫使 xAI 不得不断臂求生、紧急压缩资源配置。"
       ],
       "quote": {
-        "who": "Brian Roemmele",
+        "who": "歸藏(guizang.ai)",
         "role": "",
-        "said": "@FRACKERsBACK 感谢提问。对你来说，这意味着你现在有近 10,000 种用 Grokbot 配合 AI 搞定事情的方法。当你电脑关机、去打高尔夫、睡觉或者刷 YouTube 视频时，Grokbot 都会在它自己的电脑上运行。它是一个助手。它是"
+        "said": "详情："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 2.6万 · 产品与生态] 直接杀到8355款！Grok版GPT Store大爆发：关机照样后台跑"
+      "line": "[榜第13位 · 1.7万 · 产品与生态] 额度消耗骤增30%！马斯克坦白Grok Bot巨亏：Opus 5.5暗中降级"
     },
     {
-      "title": "半价暴击Opus 5.5！Gemini Carbon 4暗测流出，漫威打戏炸场",
-      "summary": "未发布的谷歌新模型 Gemini Carbon 4 复杂场景实测在社交平台曝光。在针对漫威漫画设定的测试中，该模型不仅完成了复联三人混战，还输出了钢铁侠变身毁灭日的高难度动作戏，动态表现令人瞩目。更关键的是，爆料称其调用价格只有 Opus 5.5 的一半；尽管该模型尚未正式上线无法横向对比速度，但社区已在利用追踪工具密切跟进 Gemini、GPT 与 Claude 在 aren…",
-      "reads": "2.2万",
-      "ago": "3 小时前",
+      "title": "Arena盲测Argon 4被扒！谷歌Gemini 4 Carbon曝光，超大吞吐炸场",
+      "summary": "消息显示，Google 自 10 月 31 日起便在 Arena 上以代号「Argon 4」秘密灰度下一代模型 Gemini 4 Carbon。该模型宣传定位直接对标 OpenAI 的旗舰 Astra 以及 Anthropic 的 Fable，测试流出的生成表现被指极为惊艳。据开发者实测反馈，Gemini 4 Carbon 的综合水平虽尚未完全追平 Astra 与 Fable…",
+      "reads": "3.0万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "复杂动作生成实测曝光：有开发者公开了未发布的 Gemini Carbon 4 复杂场景生成表现，模型根据漫画设定输出的英雄动作序列与连贯度令人瞩目。",
-        "高难度漫威打戏呈现：在提示词测试中，Gemini Carbon 4 输出了复联三人互殴及钢铁侠变身毁灭日（Doomsday）的动态场景，配图中展现了带有 O…",
-        "价格直砍对手一半：爆料特别指出，Gemini Carbon 4 未来的调用定价据称仅为竞争对手 Opus 5.5 的一半，具备极高的价格杀伤力。",
-        "未正式上线暂无速度对比：针对响应效率的提问，开发者澄清该模型目前尚未正式发布上线，现阶段无法在推理速度上展开横向对比。"
+        "秘密盲测半月：Google 自 10 月 31 日起在 Arena 低调测试代号为「Argon 4」的神秘模型，多方证实其真实身份为下一代 Gemini 4…",
+        "定位直接硬刚双雄：Gemini 4 Carbon 的宣传与市场预期直接对标 OpenAI 旗舰 Astra 与 Anthropic 的 Fable。",
+        "生成质量引发关注：早期流出的生成案例表现惊艳，测试者评价其为目前公开测试的模型中综合表现最强劲的一批。",
+        "单次极限吞吐封神：实测指出该模型最核心的优势在于超大生成能力，能够在单次响应中吐出极高密度的超大体量内容。"
       ],
       "quote": {
-        "who": "Chetaslua",
+        "who": "Haider.",
         "role": "",
-        "said": "@MichaelOkwali Gemini 看 arena GPT 模型看 arena 和 designarena Claude 模型（他们通过灰度路由测试） 你可以用我们的追踪 Bot，我觉得大部分人都用它来跟踪后端的动向"
+        "said": "gemini 4 Argon 还没完全达到 Astra 或 Fable 的水平，但它在扫描大型代码库或数据库，并单次生成超大体量输出方面非常厉害 Carbon 的宣传定位是 Astra 和 Fable 级别，但等它向公众开放时，它将"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 2.2万 · 模型与能力] 半价暴击Opus 5.5！Gemini Carbon 4暗测流出，漫威打戏炸场"
+      "line": "[榜第14位 · 3.0万 · 模型与能力] Arena盲测Argon 4被扒！谷歌Gemini 4 Carbon曝光，超大吞吐炸场"
     },
     {
-      "title": "700B大模型秒出1000词！英伟达Rubin狂飙，单位算力成本暴降20.9倍",
-      "summary": "智能体集群编写的优化软件，直接把英伟达下一代硬件潜力榨出了新高度。在最新的NVIDIA AgentX提交数据中，HBM芯片在700B+超大模型上跑出了每用户超1000 tok/s的推理速度；即便在325 tok/s的超高速下，Rubin NVL72的单位TCO性能也达到了GB300 NVL72的20.9倍。底层技术依托Mooncake Store的扩展GPU内存功能，将Vera…",
-      "reads": "3.9万",
-      "ago": "5 小时前",
-      "category": "资本与算力",
+      "title": "时隔8年神作重燃！Schmidhuber联手David Ha，World Models智能体原生版开训",
+      "summary": "世界模型奠基搭档再度合体！Sakana AI在东京一桥讲堂举办研讨会，9月刚加盟出任首席科学顾问的Jürgen Schmidhuber登台亮相。联合创始人David Ha随后公开宣布，两人正基于8年前合写的经典《World Models》论文，在RSI Lab正式开训一款全新的「智能体原生」（agent-native）大语言模型，全力打通世界模型与真实世界的实体AI。",
+      "reads": "2.1万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "NVIDIA AgentX提交的最新基准测试曝光：由智能体集群编写的优化软件大幅突破超大模型推理吞吐瓶颈。",
-        "在700B+超大参数模型上，HBM芯片实现了每用户超过1000 tok/s的推理速度。",
-        "硬件能效对比极其悬殊：在325 tok/s超高速度下，Rubin NVL72的单位TCO性能达到GB300 NVL72的20.9倍。",
-        "技术底层引入了Mooncake Store的全新扩展GPU内存（Extended GPU Memory）功能。"
+        "研讨会活动回顾发布：Sakana AI在东京一桥讲堂举办「From World Models to Real-World AI」研讨会，全面聚焦语言模型、世…",
+        "AI巨擘重磅演讲：9月正式加盟出任首席科学顾问的Jürgen Schmidhuber教授发表主旨演讲，阐述从世界模型迈向实体智能的前沿路线。",
+        "8年后再度联手：Sakana AI联合创始人David Ha指出，自己8年前曾与Schmidhuber共同撰写了奠基性的《World Models》论文。",
+        "全新大模型正式开训：Sakana AI正在旗下RSI Lab基于经典世界模型理论底座，动手训练全新的智能体原生（agent-native）大语言模型。"
       ],
       "quote": {
-        "who": "SemiAnalysis",
+        "who": "hardmaru",
         "role": "",
-        "said": "这次 Rubin 提交采用了 @KVCache_AI Mooncake Store 的全新扩展 GPU 内存（Extended GPU Memory）功能，其中存储在 Vera LPDDR5X 上的 KVCache 通过 NVLink 在全部 18 个 Rubin 计算托盘之间实现池化，取代了以往使用 RDMA 的方式，从而带来了超过 10 倍的"
+        "said": "上周在东京，我们与首席科学顾问 Jürgen Schmidhuber 共同举办了 Sakana AI 研讨会。 八年前，我和 @SchmidhuberAI 一起撰写了《World Models》论文。今天，我们在 RSI Lab 的这些基础上，训练一个 AI 智能体原生大语言模型，从"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 3.9万 · 资本与算力] 700B大模型秒出1000词！英伟达Rubin狂飙，单位算力成本暴降20.9倍"
+      "line": "[榜第15位 · 2.1万 · 模型与能力] 时隔8年神作重燃！Schmidhuber联手David Ha，World Models智能体原生版开训"
     },
     {
-      "title": "神秘马甲Argon 4掉马！谷歌暗测Gemini 4 Carbon，实测已是最强之一",
-      "summary": "大模型竞技场又有神秘代号被抓包。消息爆料，Google 早自 10 月 31 日起，就以「Argon 4」为代号在 Arena 上秘密盲测全新模型 Gemini 4 Carbon。从最新流出的实测反馈来看，该模型在目前已公布的所有顶尖模型中表现堪称最强之一，实测输出效果令人惊艳。随着代号真相大白，谷歌新一代旗舰的暗测时间线与性能表现也终于浮出水面。",
-      "reads": "1.1万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
+      "title": "24小时爆单70个！Grok Bot定制需求杀疯了，有人建论坛免费派单",
+      "summary": "独立研究者 Brian Roemmele 透露，过去 24 小时内自己收到了多达 70 个定制 Grok Bot 的商业需求，由于个人精力有限根本做不过来，他正式上线了需求论坛「Grok Bot Wanted」。这些商业线索将免费开放给 ReadMultiplex 会员开发者，他本人明确表示 0 抽成、0 中介费，报酬由双方自行协商。他直言，如同当年的 BASIC 时代一样，高…",
+      "reads": "1.9万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "实测暗测启动时间：Google 自 10 月 31 日起便在竞技场（Arena）部署该模型展开盲测。",
-        "神秘马甲破译：近期在社区引发广泛讨论的神秘测试代号「Argon 4」，真实身份被证实为 Google 的 Gemini 4 Carbon。",
-        "跻身第一梯队：多方评测反馈显示，Gemini 4 Carbon 是目前已公开模型中表现最为强劲的模型之一。",
-        "实测效果惊艳：流出的早期生成样板显示，该模型的输出质量与推理表现极其出众。"
+        "需求短期暴增：独立研究者 Brian Roemmele 透露，在短短 24 小时内接到了多达 70 个定制 Grok Bot 的商业需求，个人精力已无法保证…",
+        "免费论坛上线：面对承接不下的订单，他迅速上线「Grok Bot Wanted」需求论坛，将所有潜在商业线索免费分发给 ReadMultiplex 社区开发者…",
+        "平台完全零抽成：Roemmele 明确声明自己一分钱不收（抽成 0 美元），发布需求与获取客户线索全部免费，具体开发报酬由需求方与开发者自行协商。",
+        "反常识认知洞察：针对为什么用户不自行搭建，他指出如同早期 PC 的 BASIC 软件时代，90% 的用户根本不会去使用手头工具，购买现成解决方案才是大众刚需…"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "Brian Roemmele",
         "role": "",
-        "said": "Gemini 4 Carbon 输出效果 🔥"
+        "said": "@billycanada Bill，它们还没上线。去论坛看看吧，等我们拿到下一批时会在那里发帖。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 1.1万 · 模型与能力] 神秘马甲Argon 4掉马！谷歌暗测Gemini 4 Carbon，实测已是最强之一"
+      "line": "[榜第16位 · 1.9万 · 产品与生态] 24小时爆单70个！Grok Bot定制需求杀疯了，有人建论坛免费派单"
     }
   ],
   "board_count": 16,
