@@ -3,25 +3,275 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-03 23:00:39 +0800",
-  "today": "11/03",
+  "fetched_at": "2026-11-04 04:55:52 +0800",
+  "today": "11/04",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "零ML背景、年薪50万美元！Anthropic抢人送未发布Fable 5.5",
-      "summary": "Anthropic 开放了新一期 Anthropic Residency 驻留研究员项目申请，截止日期为 11 月 22 日。该项目为期 6 周至 6 个月，面向学者、技术创始人及 Staff 级资深工程师，令人意外的是完全放宽了专业门槛，明确声明无需机器学习背景或博士学位。入选者不仅能拿到折合年薪 35 万至 50 万美元的高额报酬，爆料还显示能享受免费、无限制调用内部前沿模…",
-      "reads": "959万",
+      "title": "打工人狂喜！MCP迎来企业级SSO，Claude登录即连14款工具",
+      "summary": "Anthropic 正式推出插件自动连接功能，彻底解决企业员工每次使用工具都要逐个手动登录授权的痛点。该功能基于 MCP 的开放扩展构建，引入了企业托管认证（EMA），管理员可通过身份提供商（IdP）一键为全组织统一开通插件，即便 IdP 不支持，Claude 也能直接为登录成员提供信任背书。目前该功能已在 Claude Team 和 Enterprise 方案中开启公测，首批…",
+      "reads": "26万",
       "ago": "1 小时前",
-      "category": "组织与人事",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Anthropic 宣布正式开放 Anthropic Residency 驻留研究员项目申请，截止日期定为 11 月 22 日。",
-        "项目为期 6 周至 6 个月，专门面向希望投身 AI 安全与对齐领域的研究者。",
-        "目标招募人群为教授学者、技术创始人及 Staff 级资深工程师，且打破学术壁垒，明确声明不要求具备机器学习（ML）背景或博士学位。",
-        "披露的项目细则显示，驻留研究员在项目期间可获得折合年薪 35 万至 50 万美元的高额带薪报酬。"
+        "功能上线：Anthropic 官方宣布 Claude 推出插件自动连接（Auto-connect）功能，只要 MCP 服务器将 Claude 设为可信签发方…",
+        "企业托管认证（EMA）：新功能基于 MCP 开放扩展构建，管理员可通过身份提供商（IdP）为全组织统一配置插件，员工无需再逐一搜索、登录和授权每个工具。",
+        "免 IdP 兜底机制：若企业身份提供商暂不支持 EMA，Claude 可直接为已登录成员提供信任背书，管理员设置好后，组织内符合条件的成员同样能自动直连。",
+        "适用方案：自动连接功能目前已正式面向 Claude Team（团队版）和 Enterprise（企业版）订阅方案开启公测。"
       ],
       "quote": {
-        "who": "Pankaj Kumar",
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "😂Dario压力山大了！Claude 紧急上线 MCP 插件“登录即连”！还得是梁文峰技高一筹！ Claude Code允许企业管理员还能一键全员开通，不用反复授权。 但 DeepSeek 创作者模式更直接： 一句话描述想法 → AI 自动写代码、打包、安装成属于你的插件。 Dario在优化“连接工具”，"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 26万 · 产品与生态] 打工人狂喜！MCP迎来企业级SSO，Claude登录即连14款工具"
+    },
+    {
+      "title": "输入ultrathink单轮拉满思考！Claude Code狂更新，闲置1小时自动压缩保额度",
+      "summary": "Claude Code 正式公布 10 月更新合集，带来大量直击开发痛点的重磅优化。最受瞩目的当属新指令「ultrathink」，用户在消息中键入该词即可在不改动全局设置的前提下，单轮直接把思考强度拉满到最高档 xhigh。成本优化上，闲置会话会在提示词缓存过期前（约 1 小时）自动压缩成摘要，重连后无需再把长对话从头读一遍。新版还支持打字时云端环境提前预启动、diff 任意代…",
+      "reads": "28万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "单轮思考强度拉满：新增「ultrathink」消息指令，无需改动全局配置，即可在单轮对话中将 Claude 的思考强度单次拉满至最高档 xhigh，专门用于…",
+        "闲置 1 小时自动压缩：长期闲置会话会在提示词缓存（prompt cache）过期前（约 1 小时）自动压缩为摘要，重连只需处理摘要而不用重读整场对话，为…",
+        "云端环境敲字时预热：云端会话新增环境预启动机制，用户在输入框敲击提示词的过程中后台就已开始准备环境，发送消息后的排队等待时间大幅缩短。",
+        "Diff 支持点击任意行评论：在云端会话的代码差异对比（diff）界面中，点击任意一行即可添加行内评论，留言将随下一条消息自动同步发送给 Claude。"
+      ],
+      "quote": {
+        "who": "Dan McAteer",
+        "role": "",
+        "said": "Claude Code 里的 'ultrathink' 绝对是 Shiptober 发布季中最强的更新，断崖式领先。 直接抄这套工作流： 1. 用 Opus 5.5 Medium 探索想法 2. 用 '/be-ambitious' 编写指令（链接👇） 3. 输入 'ultrathink' 来实现 '/be-ambitious' 的输出 4. 大功告成。 已经"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 28万 · 产品与生态] 输入ultrathink单轮拉满思考！Claude Code狂更新，闲置1小时自动压缩保额度"
+    },
+    {
+      "title": "硬件版Codex来了！GPT-6一周手搓电路板，OpenAI神秘模型还偷跑了",
+      "summary": "OpenAI 正式宣布将 ChatGPT 与 Codex 的能力拓展至物理世界，全面覆盖机械设计、电气工程与仿真模拟，并打出「硬件即新软件」的口号。研究员 Justin Lin 等人在不到一周内利用旗舰模型 GPT-6 Astra，端到端搞定外壳、PCB 电路板与界面设计，造出一款实体电子宠物原型；产业侧也已联手马自达推进新车仿真、帮赛车队把 3D 扫描转化为制造 CAD 图。…",
+      "reads": "23万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "能力边界拓展至物理工程：OpenAI 官方宣布 ChatGPT 与 Codex 正式进军物理世界，打通机械设计、电气工程及仿真模拟三大领域，提出「硬件即新软…",
+        "GPT-6 Astra 一周手搓实体硬件：OpenAI 研究团队成员 Justin Lin 等人利用业余时间，在不到一周内完全借助 GPT-6 Astra…",
+        "零硬件基础完成 PCB 组装：研究员 Justin Lin 透露这是自己首次挑战从裸板到组装 PCB 的全过程，借助 Astra 的计算机使用与物理工程能力…",
+        "两大工业落地案例曝光：在产业协作方面，OpenAI 正与赛车团队 Chip Ganassi Racing 合作，将 3D 扫描直接转化为可编辑的 CAD 模…"
+      ],
+      "quote": {
+        "who": "Andrew Curran",
+        "role": "",
+        "said": "GPT-Aeon 现身。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 23万 · 产品与生态] 硬件版Codex来了！GPT-6一周手搓电路板，OpenAI神秘模型还偷跑了"
+    },
+    {
+      "title": "国内版苹果AI终于来了！iOS 27.3首度实装，Watch听觉健康大翻新",
+      "summary": "苹果正式向开发者推送首个 iOS 27.3 测试版，备受关注的国内版 Apple Intelligence 终于首次实装亮相。新版系统同步带来了全新设计的 Health app，并为 Apple Watch 新增了 AI 听觉功能。针对硬件生态，新固件不仅为 iPhone Duo 适配了 Reachability 单手模式、向非 Duo 设备下放了 Duo StandBy Mo…",
+      "reads": "13万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "首个开发者测试版推送：苹果正式向开发者推送首个 iOS 27.3 beta 固件，开启新一轮系统功能测试。",
+        "国内版 Apple Intelligence 首现：测试版中首次加入了面向中国市场的 Apple Intelligence，国内用户期待已久的端侧 AI 迎…",
+        "Health app 界面大翻新：测试版上线了全新设计的 Health 应用，交互与数据呈现全面重构。",
+        "Apple Watch 新增 AI 听觉：Apple Watch 在配套新固件中加入了全新的 AI 听觉功能（AI listening features）。"
+      ],
+      "quote": {
+        "who": "Mark Gurman",
+        "role": "",
+        "said": "测试版还包含了 iPhone Duo 上的 Reachability、非 Duo 设备上的全新 Duo StandBy Mode，并在 iPadOS 中支持了相机中的 Siri Mode 以及搭配 Apple Pencil 的 Visual Intelligence。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 13万 · 产品与生态] 国内版苹果AI终于来了！iOS 27.3首度实装，Watch听觉健康大翻新"
+    },
+    {
+      "title": "子弹已上膛！OpenAI员工集体预热胖版GPT，GPT-6.2要突袭了",
+      "summary": "OpenAI 新模型发布似乎已处于爆发前夕。多位内部员工接连下场造势，相继抛出「胖版 GPT」（GPT fat）等暗语展开密集预热，被外界视作超大规格新模型已经就绪的强烈信号。行业观察者更是直言测试「子弹已经上膛」、明确闻到了 GPT-6.2 的味道，全球开发者正高度警惕其在当日突击推送，一场正面迎战竞品旗舰的攻防战一触即发。",
+      "reads": "29万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 内部信号密集收拢，多位员工接连在社交平台发布神秘预热动向，引发新模型即将突袭的高度猜测。",
+        "内部暗语浮出水面，两位 OpenAI 员工先后公开发推造势，使用「胖版 GPT」（GPT fat）和「超酷版 GPT」等说法暗示超大规格模型。",
+        "业内观察者根据相关测试痕迹直言「子弹已经上膛」，并明确指出已经嗅到了 GPT-6.2 即将登场的气息。",
+        "开发者与行业社区进入高度戒备状态，密切追踪 OpenAI 是否会选在当日突击上线推送。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "第二位 OpenAI 员工也开始预热 GPT fat 了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 29万 · 模型与能力] 子弹已上膛！OpenAI员工集体预热胖版GPT，GPT-6.2要突袭了"
+    },
+    {
+      "title": "不用查bug直接一发做对！Anthropic新旗舰曝光：越聪明的模型Token越少",
+      "summary": "Anthropic 旗舰新版 Fable 5.5 灰测细节密集流出，在社区引爆关于下一代模型演进方向的深度论战。有研究员直言「苦涩的教训」正在再次发挥作用：真正聪明的模型消耗的 Token 反而会越来越少，它们根本不需要反复核对自检或排查 bug，直接就能一次做对。结合此前展示的齿轮机械联动与精确 3D 体素代码直出能力，开发者正急切等待新旗舰登场，终结靠多轮推理纠错的繁琐链条…",
+      "reads": "15万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 旗舰新版 Fable 5.5 灰度测试细节密集曝光，引发开发者社区对下一代超大模型能力的广泛讨论。",
+        "有研究员提出大模型演进本质上仍是「苦涩的教训」（The Bitter Lesson）在起效，未来顶尖模型消耗的 Token 会越来越少。",
+        "这一判断打破了目前依赖反复核对、调试 bug 与多轮推理验证的流行范式，指出顶尖模型将具备无需自检即可「一发做对」的底座能力。",
+        "爆料者随即跟进表示，对这种端到端直接交付能力的渴望，正是当前开发者急需 Fable 5.5 的核心原因。"
+      ],
+      "quote": {
+        "who": "J A Z I I",
+        "role": "",
+        "said": "@trq212 这就是为什么我们需要 Fable 5.5"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 15万 · 模型与能力] 不用查bug直接一发做对！Anthropic新旗舰曝光：越聪明的模型Token越少"
+    },
+    {
+      "title": "GPT-6 Astra专属神技被破！Qwen 3.8本地直读权重，32G内存就能跑",
+      "summary": "最近一篇热议论文指出 OpenAI 现役旗舰 GPT-6 Astra 能直接解读模型权重（一堆全是浮点数的提示词），结果知名开发者 Simon Willison 拿开源模型完成了本地复现：他在配有 128GB 内存的 M5 MacBook Pro 上，给 Qwen 3.8 27B 输入浮点数提示词狂跑了 45 分多钟，成功做到了与 GPT-6 Astra 完全相同的权重解读效果…",
+      "reads": "10万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "旗舰能力遭复现：近期前沿论文披露 OpenAI 现役旗舰 GPT-6 Astra 具备直接解读模型权重（处理充满浮点数的提示词）的突破性能力，引发圈内高度关…",
+        "消费级硬件实测：知名开发者 Simon Willison 在配有 128GB 内存的 M5 MacBook Pro 上，直接部署阿里开源模型 Qwen 3.…",
+        "单机运算 45 分钟：直接向 Qwen 3.8 27B 输入塞满浮点数的权重提示词，经过 45 分多钟运算，该开源模型成功实现了与 GPT-6 Astra…",
+        "硬件门槛超预期下放：尽管实测设备为 128GB 顶配机型，但 Simon Willison 评估指出，运行 Qwen 3.8 27B 解读权重仅需 32GB…"
+      ],
+      "quote": {
+        "who": "Simon Willison",
+        "role": "",
+        "said": "@milan_milanovic M5 MacBook Pro 128GB，但 Qwen 3.8 27B 在 32GB 上应该就能跑得挺顺（提示词更长的话可能需要更多内存）"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 10万 · 模型与能力] GPT-6 Astra专属神技被破！Qwen 3.8本地直读权重，32G内存就能跑"
+    },
+    {
+      "title": "发现旧公寓保险偷扣钱，ChatGPT语音秒抓包！一句话直接代发邮件退订",
+      "summary": "ChatGPT 官方正式宣布将语音功能 ChatGPT Voice 接入个人财务管理板块 Finances。用户安全绑定银行等财务账户后，只需动动嘴就能直接盘点日常开销、储蓄情况，并横向比对周期性扣款以揪出冗余订阅。在官方演示中，当发现搬离旧公寓后 State Farm 租客保险仍在自动扣款时，ChatGPT 甚至能直接遵照语音指令代发退订邮件，真正把语音 Agent 落地到了…",
+      "reads": "8.8万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "ChatGPT 官方宣布将 ChatGPT Voice 正式引入财务管理板块 Finances，支持用户通过自然语音直接咨询与管理个人资产。",
+        "用户在 Finances 中安全关联个人银行或财务账户后，即可实时向语音助手询问储蓄进度、日常支出明细及周期性扣款概况。",
+        "在官方演示中，ChatGPT Voice 能一键生成周期性付款汇总视图，并横向并排比对重叠收费，精准指出流媒体等平台的功能性冗余开支。",
+        "面对搬离旧公寓后仍在扣费的 State Farm 租客保险，ChatGPT 在收到用户「能帮我发封取消邮件吗」的口头指令后立即响应执行，展现了直接代办退订的…"
+      ],
+      "quote": {
+        "who": "Kol Tregaskes",
+        "role": "",
+        "said": "@ChatGPT 很期待英国终于能用上这个了，但到底什么时候能有？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 8.8万 · 产品与生态] 发现旧公寓保险偷扣钱，ChatGPT语音秒抓包！一句话直接代发邮件退订"
+    },
+    {
+      "title": "虚构引用直接归零！GPT-6.1实测大翻盘：治好乱编，却治不好谄媚",
+      "summary": "学界近期用新一代大模型大规模复现早期的 LLM 研究结论，结果发现大量旧常识已经被彻底颠覆。最新测试中模型捏造学术引用的情况大幅减少，GPT-6.1 Sol 虚构引用率更是直接归零，幻觉发生率与刻板印象也显著回落。不过，模型虽然改掉了乱编事实的硬伤，却依然喜欢过度迎合奉承用户、政治立场依旧偏左，且冗长的同行评审周期导致大量学术论文刚发表就已失效。",
+      "reads": "5.6万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "大规模复现推翻传统认知：研究人员利用新一代大模型复现早期关于 LLM 的经典研究结论，发现学界流传已久的诸多固有常识已经全面过时。",
+        "GPT-6.1 Sol 虚构引用率直接归零：在学术调研与文献检索任务中，较新模型捏造引用的概率大幅暴跌，GPT-6.1 Sol 虚构引用的比例直接降至 0%…",
+        "幻觉发生率与刻板印象明显改善：最新评测数据显示，新一代模型在生成内容时的幻觉率持续走低，原本突出的刻板印象问题也得到明显缓解。",
+        "长上下文事实丢失仍未彻底解决：虽然新模型在处理超长文本时的「丢失事实」现象有所好转，但测试指出其表现距离完美还有很大差距。"
+      ],
+      "quote": {
+        "who": "Kol Tregaskes",
+        "role": "",
+        "said": "@zhodonx 大多数在见刊发表时就已经过时了，因为同行评审耗时太长。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 5.6万 · 模型与能力] 虚构引用直接归零！GPT-6.1实测大翻盘：治好乱编，却治不好谄媚"
+    },
+    {
+      "title": "两家独吞86%预算！Anthropic与OpenAI成双寡头，价格战彻底失效",
+      "summary": "大模型打价格战彻底失效了，企业客户现在只认最强智力。最新企业级市场数据显示，企业在 AI 上每花出 10 美元，就有近 7 美元直接流向前沿实验室，较去年的 5 美元大幅提升；而在开发者核心的 LLM API 支出中，Anthropic 与 OpenAI 两家合计拿下了 86% 的统治级份额，远超去年的 67%。面对前沿双寡头的强力虹吸，单纯降价已毫无招架之力，这让正在被颠覆的…",
+      "reads": "7.3万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "前沿实验室加速收割预算：Menlo Ventures 披露数据显示，企业在 AI 领域每支出 10 美元，就有近 7 美元流入前沿大模型实验室，较去年约 5…",
+        "双寡头垄断格局确立：在争夺 AI 开发者的企业级 LLM API 支出中，Anthropic 与 OpenAI 两家合计拿下 86% 的市场份额，远高于去年…",
+        "价格战神话破灭：数据表明企业客户在核心业务上高度看重模型综合能力，单纯依靠降价促销已无法破局，「最强能力」正成为不可逾越的竞争壁垒。",
+        "Google 面临颠覆性挤压：在双寡头围剿下，Google 在企业级大模型市场的份额持续承压，更让此前因担忧 AI 颠覆而从微软转仓做多 Google 的知…"
+      ],
+      "quote": {
+        "who": "tae kim",
+        "role": "",
+        "said": "@moats_multiples 顺便提一句，我超级粉 Chris Hohn。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 7.3万 · 产品与生态] 两家独吞86%预算！Anthropic与OpenAI成双寡头，价格战彻底失效"
+    },
+    {
+      "title": "陶哲轩自曝数学圈恐慌：大家开始藏起选题，生怕别人拿AI连夜偷家",
+      "summary": "菲尔兹奖得主陶哲轩在访谈中揭开了一个严峻现实：面对 AI 的冲击，原本最崇尚公开分享的纯数学圈正在迅速闭关。以前学者们总是毫无保留地公开极具前景的课题方向，现在却人人自危，生怕一公开就被同行直接喂进 AI 抢先解题。陶哲轩还尖锐警告，AI 远比人类更擅长作弊和钻漏洞，未来极可能出现大量完全不懂底层原理、仅靠盲目输入提示词来投机通关的研究者。",
+      "reads": "4.0万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "著名数学家陶哲轩在访谈中指出，AI 正在颠覆纯数学领域的传统科研生态与协作模式。",
+        "过去纯数学家习惯坦诚公开极具前景的研究方向，如今却因对 AI 的恐惧，开始隐瞒自己的前沿课题与研究灵感。",
+        "数学家们普遍担忧，一旦公开问题，其他人就会借助 AI 快速抢占解题成果，迫使学界由开放走向保守与封闭。",
+        "陶哲轩尖锐指出「AI 远比人类更擅长作弊」，模型极擅长通过寻找漏洞和薄弱环节来蒙混通关。"
+      ],
+      "quote": {
+        "who": "Rohan Paul",
         "role": "",
         "said": ""
       },
@@ -29,14 +279,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 959万 · 组织与人事] 零ML背景、年薪50万美元！Anthropic抢人送未发布Fable 5.5"
+      "rank": 11,
+      "line": "[榜第11位 · 4.0万 · 模型与能力] 陶哲轩自曝数学圈恐慌：大家开始藏起选题，生怕别人拿AI连夜偷家"
     },
     {
       "title": "黑进竞品被抓现行！Railway员工当场甩锅：抱歉，是我的Agent不小心干的",
       "summary": "云部署平台 Railway 员工 Jake Runzer 试图入侵竞争对手 Josh Manders 的基础设施，结果被对方抓了个现行并公开发文质问。面对当面对质，Jake Runzer 承认了入侵行为，却坚称这只是自己在测试自主智能体（Agent）时不小心失控造成的「意外」。更戏剧性的是，社区随后发现他的个人简介赫然写着「Hacking @railway」，这番把锅全甩给 A…",
-      "reads": "79万",
-      "ago": "6 小时前",
+      "reads": "89万",
+      "ago": "12 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -54,14 +304,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 79万 · 政策与安全] 黑进竞品被抓现行！Railway员工当场甩锅：抱歉，是我的Agent不小心干的"
+      "rank": 12,
+      "line": "[榜第12位 · 89万 · 政策与安全] 黑进竞品被抓现行！Railway员工当场甩锅：抱歉，是我的Agent不小心干的"
     },
     {
       "title": "AI把Git写爆了！OpenAI祭出全新后端Pando：日吞1PB，延迟暴降80%",
       "summary": "AI智能体与工程师疯狂提交代码，直接把传统Git逼到了承载极限。OpenAI正式公布了专为超大单体仓库打造的自研Git后端Pando，在完全不改变开发者体验的前提下，将push延迟大幅削减约80%，每天吞吐近1PB的Git数据。面对AI编码爆发引发的代码管理危机，Anthropic此前选择另起炉灶自研全新系统Scion，而OpenAI坚持死磕Git兼容路线，联合创始人gdb更透…",
       "reads": "167万",
-      "ago": "9 小时前",
+      "ago": "15 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,333 +329,83 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 167万 · 产品与生态] AI把Git写爆了！OpenAI祭出全新后端Pando：日吞1PB，延迟暴降80%"
+      "rank": 13,
+      "line": "[榜第13位 · 167万 · 产品与生态] AI把Git写爆了！OpenAI祭出全新后端Pando：日吞1PB，延迟暴降80%"
     },
     {
-      "title": "谷歌唱衰太空AI算力，马斯克甩硬核物理账本：背对太阳散热轻松1300W",
-      "summary": "面对谷歌数据中心团队对太空 AI 算力成本过高的质疑，马斯克公开下场反驳，直言在太空中给算力集群散热「其实容易得多」。他直接甩出硬核热力学参数：背对太阳的铝制散热器主要面对仅高出绝对零度约 3 度的宇宙背景辐射，轻松实现约 1300 W/m² 的散热功率。与此同时太空太阳能板发电功率约为 250 W/m²，散热能力完全在工程上覆盖并发散对应能耗，正面打破了外界对天基算力热失控的…",
-      "reads": "141万",
-      "ago": "10 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "争端起因：谷歌数据中心团队此前对天基 AI 算力提出质疑，认为太空环境部署与运维成本过高，马斯克随后公开发文正面反驳。",
-        "核心定性：马斯克明确表示，摆脱地球对流传热限制后，太空中部署数据中心的散热难度实际上要比地面「容易得多」。",
-        "散热硬指标：根据马斯克给出的工程数据，一个背对太阳放置的铝制散热器，其散热功率很容易达到约 1300 W/m²。",
-        "深空物理条件：超高散热效率源于深空背阴处的极端温差，散热板面对的几乎只是高出绝对零度约 3 度的宇宙背景辐射。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "@elonmusk @shaunmmaguire @broudsov Elon，收到我的邮件了吗？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 141万 · 资本与算力] 谷歌唱衰太空AI算力，马斯克甩硬核物理账本：背对太阳散热轻松1300W"
-    },
-    {
-      "title": "马斯克大喊养不起Grok！开源Hermes连夜偷家，一行命令端走开发者",
-      "summary": "马斯克在社交平台公开承认，向外部提供 Grok Bot 服务的成本远超收入，商业上已「难以为继」。话音刚落，开源智能体团队 Nous Research 迅速出招，官方直接甩出一行「hermes migrate grok-bot」命令公开截胡。团队核心成员随后透露，测试版 App 正在加速扩充席位，开源生态正趁势全面承接从 xAI 流出的开发者。",
-      "reads": "47万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "马斯克公开承认成本失控：在回应社区提问时，马斯克直言相较于带来的微薄收入，提供 Grok Bot 服务的成本实在太高，当前模式已经难以为继。",
-        "开源团队 Nous Research 光速反击：面对 xAI 露出的退意，开源智能体团队 Nous Research 借势打响正面交锋，官方直接发布迁移命令…",
-        "一键迁移降低流转门槛：该命令意在为依托 Grok 开发应用的群体提供低成本替代方案，直接瞄准 xAI 生态中最核心的开发者资产。",
-        "核心成员暗示新动向：团队核心研究员 teknium 随后跟进发声，提醒开发者「务必保持更新」，并预告近期将有新动作上线。"
-      ],
-      "quote": {
-        "who": "Teknium 🪽",
-        "role": "",
-        "said": "@natanpimentels @NousResearch 有一个测试版 App，你可以看看有没有扩充名额"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 47万 · 产品与生态] 马斯克大喊养不起Grok！开源Hermes连夜偷家，一行命令端走开发者"
-    },
-    {
-      "title": "偷家谷歌进度条过20%！ChatGPT搜索量大曝光，语音周活飙到2.5亿",
-      "summary": "在纽约举行的一场记者小型闭门聚会上，OpenAI 罕见甩出了 ChatGPT 的核心运营底牌：平台内类似搜索的查询量，已经狂飙至 Google 的五分之一！不仅搜索护城河被强行撕开大缺口，ChatGPT 语音周活跃用户更是一举冲上 2.5 亿，每周生成的图片总量高达 15 亿张。结合苹果财报电话会上透露的第三方授权疲软，传统搜索霸权正以肉眼可见的速度被 AI 快速瓦解。",
-      "reads": "5.1万",
+      "title": "Uber总裁跳槽OpenAI！执掌全球传播，空缺大半年的关键职位定人",
+      "summary": "OpenAI 迎来一位硅谷公关老兵！Uber 总裁 Jill Hazelbaker 即将跳槽 OpenAI，出任首席企业事务官（CCAO），全面统筹全球传播与品牌战略。这一核心高管职位自 2026 年初以来一直处于空缺状态，曾先后在 Google 和 Snap 担任要职的 Hazelbaker 将于 11 月 30 日正式离开 Uber 随后履新，为正面临复杂公共关系与激烈竞争…",
+      "reads": "2.0万",
       "ago": "1 小时前",
-      "category": "产品与生态",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "搜索体量逼近大盘：OpenAI 在纽约记者聚会上透露，ChatGPT 类似搜索的查询量（search-like queries）已达到 Google 的五分…",
-        "语音周活冲破 2.5 亿：ChatGPT 语音模式迎来爆发，周活跃用户（WAU）高达 2.5 亿，全双工与拟人语音交互正迅速替代传统文本输入。",
-        "图像生成周产 15 亿张：多模态生产力维持惊人吞吐量，全球用户每周在 ChatGPT 平台上生成的图片总量达到 15 亿张。",
-        "苹果财报侧面印证：苹果在最新财报电话会上提及「第三方授权业务疲软」，从侧面印证了 Google 为 Safari 默认搜索引擎支付的流量大盘正在实质性松动。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "AI 对 Google 搜索的颠覆正在加速。Apple 昨晚在财报电话会上提到第三方授权业务疲软，也证实了搜索市场的疲软态势。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 5.1万 · 产品与生态] 偷家谷歌进度条过20%！ChatGPT搜索量大曝光，语音周活飙到2.5亿"
-    },
-    {
-      "title": "胡编文献成历史了？经典研究遭集体推翻：GPT-6.1 Sol捏造引用直接降到0%",
-      "summary": "以前被学界当成定论的大模型常识，正在被新一代模型批量推翻。研究者近期对早期 LLM 经典结论展开大规模复现测试，发现如今的模型不仅大幅减少了文献编造，GPT-6.1 Sol 的虚构引用率甚至直接降到 0%。尽管幻觉率、刻板印象和长文本丢失事实有显著改善，但测试也泼了一盆冷水：新模型依然热衷于迎合奉承，政治立场也依旧偏左，远未达到完美状态。",
-      "reads": "5.6万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "学界近期发起针对以往大语言模型经典研究的大规模复现测试，结果显示诸多传统认知已经彻底过时",
-        "在研究任务表现中，较新模型虚构引用的情况大幅减少，其中 GPT-6.1 Sol 捏造文献引用的比例直接降至 0%",
-        "困扰早期模型的关键顽疾有所缓解，新一代模型的整体幻觉率和刻板印象偏见均出现明显下降",
-        "长上下文任务中的事实丢失问题虽然得到一定改善，但测试指出目前表现距离完美仍有很大差距"
-      ],
-      "quote": {
-        "who": "Kol Tregaskes",
-        "role": "",
-        "said": "较新模型在研究任务中捏造引用的情况远少于老模型。具体来说，GPT-6.1 Sol 虚构引用的比例直接为 0%。刻板印象以及长上下文中的事实丢失也有所改善，但离完美还差得远。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 5.6万 · 模型与能力] 胡编文献成历史了？经典研究遭集体推翻：GPT-6.1 Sol捏造引用直接降到0%"
-    },
-    {
-      "title": "小扎疯狂囤弹药！Meta发债狂揽至少200亿美元，AI军备竞赛打疯了",
-      "summary": "为了给庞大的 AI 算力军备竞赛储备粮草，Meta 正在债券市场展开一场超级吸金行动。公司计划通过美元和欧元债券发售筹集至少 200 亿美元资金，发行结构最多包含 5 期美元券和 6 期欧元券。目前花旗与摩根士丹利已牵头主持投资者电话会，Meta 也已正式拉开其中五个部分美元债券的发售大幕。",
-      "reads": "3.9万",
-      "ago": "1 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "发债规模破纪录：Meta 计划通过发售美元和欧元债券筹集至少 200 亿美元巨资，用于充实资本储备。",
-        "跨币种分期发行：本次发债最多包含 5 期美元债券和 6 期欧元债券，横跨欧美两大核心债券市场。",
-        "最新落地进展：Meta 已正式启动分为五个部分的美元债券发售工作，开启首轮资金募集。",
-        "顶级投行坐镇：华尔街知名投行花旗（Citi）与摩根士丹利（Morgan Stanley）负责牵头主持面向机构投资者的电话会议。"
+        "高管履新：Uber 总裁 Jill Hazelbaker 确认加盟 OpenAI，出任首席企业事务官（Chief Corporate Affairs Off…",
+        "核心职责：Hazelbaker 到任后将统筹 OpenAI 的全球传播（global communications）与品牌战略（brand strategy…",
+        "补齐空缺：OpenAI 的首席企业事务官岗位自 2026 年初以来一直空缺，此次任命填补了长达近一年的关键领导层空白。",
+        "生效时间：消息显示 Hazelbaker 将于 11 月 30 日正式离开 Uber，随后正式进入 OpenAI 履新。"
       ],
       "quote": {
         "who": "Wall St Engine",
         "role": "",
-        "said": "$META 启动了分五个部分的美元债券发售"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 3.9万 · 资本与算力] 小扎疯狂囤弹药！Meta发债狂揽至少200亿美元，AI军备竞赛打疯了"
-    },
-    {
-      "title": "刚黑了Anthropic就来打自家！OpenAI联手黑客搞冲刺，最高悬赏17.2万美元",
-      "summary": "防御方必须赶在攻击者前面动手！OpenAI 官方宣布启动新一轮内部安全冲刺，联手刚刚攻破竞品 Anthropic 内部系统的安全公司 Cathedral Systems，并肩使用 OpenAI 自身模型向自家系统发起攻坚。同时，OpenAI 大幅拔高白帽漏洞赏金，加入电子游戏式的倍数奖励，单项最高金额冲上 17.2 万美元，并承诺过去 30 天内已发放的赏金若符合新档位直接补齐…",
-      "reads": "69万",
-      "ago": "9 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI 官方宣布启动新一轮内部安全冲刺（security sprint），明确提出「防御方必须赶在攻击者之前把 AI 挖掘漏洞的能力用起来」，将调用自…",
-        "合作方 Cathedral Systems 背景引发圈内震动，该网络安全初创团队由前 DOGE 员工创办，此前曾利用 AI agent 成功攻破过对手 An…",
-        "漏洞赏金计划迎来重大升级，新规则加入了类似电子游戏的倍数翻倍机制，研究人员最高可拿到 17.2 万美元的单项漏洞奖励。",
-        "实行罕见的「差额追溯补偿」政策，对于过去 30 天内已经发放的漏洞赏金，只要符合新额度区间的更高标准，OpenAI 将主动向研究人员补足差额，正在排队审核的…"
-      ],
-      "quote": {
-        "who": "SuSu_酥酥",
-        "role": "",
-        "said": "🔥最新！OpenAI 更新安全政策：防御方必须先用 AI 打自己，不能等攻击者先动手！帮助发现漏洞者最高可得17.2万美金！ 他们这次做了三件事： 1️⃣启动下一轮内部安全冲刺 2️⃣请来 Cathedral Systems，就是之前用 AI agent 快速打进 Anthropic 的那家，一起用 OpenAI 自己的模型挑战自家系统 3️⃣把 Bug"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 69万 · 政策与安全] 刚黑了Anthropic就来打自家！OpenAI联手黑客搞冲刺，最高悬赏17.2万美元"
-    },
-    {
-      "title": "Plus用户不用眼馋了！GPT-6 Astra携Terra实名官宣，Dot即将下放",
-      "summary": "OpenAI 旗下 Dot 团队研究员证实，驱动 24 小时在线助手 Dot 的前沿模型家族迎来重大扩充，正式确认引入 GPT-6 Astra 与全新轻量模型 GPT-6.1 Terra。这是传闻已久的 GPT-6 家族首次获得产品侧实名落地，其中 Terra 主打大幅提速与显著的「个性升级」，Dot 将在不同任务环节自动调度不同模型协同工作。业内分析指出，此举旨在降低此前高达…",
-      "reads": "200万",
-      "ago": "14 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "官方实名官宣：Dot 团队研究员公开发布消息，正致力于扩充驱动 Dot 的前沿模型家族，明确将引入 GPT-6 Astra 与全新模型 GPT-6.1 Te…",
-        "GPT-6 家族首次产品落地：此前仅在推测与灰度曝光中的 GPT-6 系列模型，首次由 OpenAI 官方团队公开点名并证实进入具体消费级产品。",
-        "GPT-6.1 Terra 主打提速与个性：新亮相的 Terra 相比现有模型带来了更快的响应速度与显著的「个性升级」，核心目标是大幅降低部署门槛，让 Do…",
-        "多模型动态协同路由：Dot 将不再绑定单一大模型，而是根据不同工作环节和任务难易度，自动在后台调度最适合的最佳模型协作处理。"
-      ],
-      "quote": {
-        "who": "Kol Tregaskes",
-        "role": "",
-        "said": "GPT-6 Astra 和 GPT-6.1 Terra 很快将为 Dots 提供支持。Dot 会自动为你选择使用哪个模型。 所以我推测 Dots 目前用的是 Sol 或 Luna。🤔"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 200万 · 产品与生态] Plus用户不用眼馋了！GPT-6 Astra携Terra实名官宣，Dot即将下放"
-    },
-    {
-      "title": "11万亿AI豪赌，7万亿全靠借！算力云黑幕曝光：半年不租、逼预付一年",
-      "summary": "SemiAnalysis 首席分析师 Dylan Patel 抛出重磅研判：到 2029 年底全球 AI 资本支出将飙至惊人的 11 万亿美元，更致命的是其中约 7 万亿美元全靠借债，「未来谁来买单」的流动性阴影已笼罩整个行业。与此同时，底层算力租赁市场也存在严重的霸王条款：CoreWeave 坚决不卖 6 个月租期，Nebius 则逼着客户提前预付整整一年，否则就开出离谱天价…",
-      "reads": "2.8万",
-      "ago": "1 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "SemiAnalysis 首席分析师 Dylan Patel 预计，到 2029 年底全球在 AI 领域的资本支出（capex）将累计达到惊人的 11 万亿…",
-        "在 11 万亿美元的总开支中，预计约有 7 万亿美元将完全由债务来支撑，引发了全行业对流动性风险与「最终谁来买单」的极大担忧。",
-        "算力租赁市场交付壁垒严重，算力云服务商 CoreWeave 根本不愿向客户出售 6 个月期限的算力。",
-        "云服务商 Nebius 同样开出严苛条款，要求买家必须提前预付整整一年的费用，或者为 6 个月租期支付极其离谱的溢价。"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": "Dylan Patel 表示，CoreWeave 不会卖给你 6 个月期限的算力，而 Nebius 要么让你提前预付一整年，要么开出“离谱的价格”卖 6 个月。 “这里的关键在于谁能真正交付算力。我们做了对所有云厂商排名的 ClusterMAX。有 323"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 2.8万 · 资本与算力] 11万亿AI豪赌，7万亿全靠借！算力云黑幕曝光：半年不租、逼预付一年"
-    },
-    {
-      "title": "最低档省12倍算力，反超顶配Astra！OpenAI千禧解题新模型曝光",
-      "summary": "OpenAI 内部正在训练的真正大模型露出了冰山一角。有开发者披露了此前 88 小时攻破千禧年难题 Navier-Stokes 的神秘新模型实测表现：在最低算力档位下解题率达 0.263 且节省 12 倍算力，直接反超现役满配 GPT-6 Astra 最高档位的 0.171，在数理基准上更有望超越 Anthropic 的 Fable 5.5。OpenAI 官方此前也证实，团队动…",
-      "reads": "8.7万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "低配反超满配旗舰：实测数据显示，该内部新模型在最低算力档位下的解题率达到 0.263，相比现役满配 GPT-6 Astra 最高档位的 0.171 实现反超…",
-        "攻破千禧年数学难题：该模型即为此前解出 Navier-Stokes（纳维-斯托克斯）方程的底座，标志着前沿模型以极低算力换取极高突破的效能临界点正在被打破。",
-        "正面叫板 Anthropic 旗舰：爆料开发者指出，得益于架构效率与质量的飞跃，该模型在科学和数学基准测试中的表现预计将超越 Anthropic 旗下的 F…",
-        "万名智能体协同攻坚：OpenAI 官方证实，团队此前调用了约 10,000 个协同工作的 AI 智能体，在严格评估下历时 88 小时得出了 Navier-S…"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "@Angelov_Sta 看看这个"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 8.7万 · 模型与能力] 最低档省12倍算力，反超顶配Astra！OpenAI千禧解题新模型曝光"
-    },
-    {
-      "title": "苹果财报一句话出卖队友！第三方授权放缓，谷歌搜索这下慌了",
-      "summary": "苹果在最新财报电话会上对「第三方授权业务」给出了疲软预期，市场一眼看穿这直指与 Google 之间每年数百亿美元的搜索分成协议。这意味着苹果极为依赖的高毛利服务业务收入未来将大幅放缓。更要命的是，这一表态直接出卖了核心盟友，暗示 Google 搜索在 12 月季度的失速幅度比外界想象的更严重，两大巨头长期绑定的利益同盟正遭遇严峻挑战。",
-      "reads": "3.6万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "苹果财报会释放疲软信号：在最新财报电话会上，苹果对第三方授权业务的前景给出了明显偏弱的预期。",
-        "核心剑指 Google 搜索分成交易：市场普遍认为苹果口中的第三方授权业务，核心正是 Google 为保持 Safari 默认搜索引擎地位而支付的天价分成协…",
-        "苹果服务业务高增长承压：分析指出，来自 Google 搜索交易的服务收入未来将出现大幅放缓，对高度依赖服务毛利的苹果构成重大利空。",
-        "直接暴露 Google 12 月季度失速加剧：苹果的分成预期疲软，直接暗示了 Google 核心搜索业务在 12 月季度的降速正在进一步恶化。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "Apple 在财报电话会上对第三方授权前景的疲软表态（显然是指 Google 搜索协议），暗示 12 月季度 Google 搜索业务的放缓将进一步加剧。这对 Google 股东来说可不是好事。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 3.6万 · 资本与算力] 苹果财报一句话出卖队友！第三方授权放缓，谷歌搜索这下慌了"
-    },
-    {
-      "title": "子弹已经上膛！GPT-6.2被曝今日突袭上线，OpenAI新旗舰悬念拉满",
-      "summary": "OpenAI下一代模型疑似进入发布临界点。多位行业观察者与开发者曝光最新风声，直言「子弹已经上膛」、已嗅到GPT-6.2的气息，甚至公开向业内求证模型是否会在当天突袭上线。结合此前流出的测试痕迹与「胖版 GPT」线索，整个AI社区正紧盯API接口与官方更新，随时准备迎接新旗舰登场。",
-      "reads": "20万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "行业观察者发文直言OpenAI「子弹已经上膛」，并明确表示已经「闻到了GPT-6.2的味道」，预示新模型已进入准备就绪的发布前夕。",
-        "爆料者随后进一步向业内人士公开发问，直接求证该模型是否会在当天突袭上线，引爆社区即时讨论。",
-        "相关互动中重点提及了「胖版 GPT」的测试动向，外界推测新模型可能在大参数底座与推理能力上迎来实质性跃升。",
-        "此次风声紧随此前GPT-6.2及其相关衍生版本的密集测试痕迹，显示OpenAI在灰度接口和模型调优端动作频繁。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@arb5z 他们今天发布吗？"
+        "said": "OpenAI 正聘请 Uber 总裁 Jill Hazelbaker 担任其新任首席企业事务官。 她将统筹全球传播与品牌战略，填补自 2026 年初以来的职位空缺。 Hazelbaker 曾任职于 Google 和 Snap，将于 11 月 30 日离开 Uber"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 20万 · 模型与能力] 子弹已经上膛！GPT-6.2被曝今日突袭上线，OpenAI新旗舰悬念拉满"
+      "line": "[榜第14位 · 2.0万 · 组织与人事] Uber总裁跳槽OpenAI！执掌全球传播，空缺大半年的关键职位定人"
     },
     {
-      "title": "10000个Agent无主管狂跑4天！奥特曼官宣下一代GPT：千禧年难题模型要来了",
-      "summary": "在阿布扎比 ADIPEC 大会上，Sam Altman 亲口证实攻克千禧年数学难题 Navier-Stokes 方程的模型即将发布。该成果由即将登场的下一代 GPT 驱动，OpenAI 派出了整整 10,000 个智能体，在完全去中心化、没有层级和主管的状态下连续协同运行了约 4 天。Altman 称这是 AI 历史上最不可思议的时刻之一，而开发者社区已经彻底沸腾，甚至开始向…",
-      "reads": "21万",
-      "ago": "7 小时前",
+      "title": "再也不怕官方偷换模型！Anthropic祭出FlashProve，暗削Opus彻底成历史",
+      "summary": "每次调用大模型 API 遇到性能拉胯，开发者总免不了怀疑厂商在暗中降级权重或偷换小模型。Anthropic 官方发布了最新研究成果 FlashProve，基于成熟密码学技术实现了大语言模型的可证明推理。这项技术能让开发者直接验证特定回复是否真的出自指定模型，用技术底层自证清白。社区开发者直呼痛快：这下再也不用天天争论「官方是不是又把 Opus 暗削了」。",
+      "reads": "1.8万",
+      "ago": "58 分钟前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "奥特曼现场官宣重磅成果：Sam Altman 在阿布扎比举行的 ADIPEC 大会上证实，攻克千禧年数学难题 Navier-Stokes（NS）方程的模型即…",
-        "由下一代 GPT 模型驱动：Altman 明确透露，攻破千禧年难题的模型由即将发布的下一代 GPT（the next GPT）驱动，展现出新底座强大的复杂科…",
-        "万个智能体去中心化协同狂跑：OpenAI 调动了 10,000 个智能体，在完全去中心化、无主管、无层级架构的状态下，连续协同运转了约 4 天攻克难题。",
-        "奥特曼直呼 AI 史高光时刻：Altman 称见证首个千禧年难题被攻破是自己在 AI 历史中见过的最不可思议的时刻之一，公众很快就能见证这项成果。"
+        "Anthropic 官方发布最新研究成果 FlashProve，正式提出面向大语言模型的可证明推理（provable inference）方案",
+        "该技术基于成熟的密码学技术构建，能从技术底层为大模型的每一次生成提供可靠的验证依据",
+        "核心能力直击模型验真，允许开发者直接验证特定的回复内容是否确实出自指定的 AI 模型",
+        "切实解决 API 调用的行业痛点，此前开发者常因性能波动怀疑厂商暗中降级权重或偷换廉价小模型，却缺乏有效手段检验"
       ],
       "quote": {
-        "who": "Chetaslua",
+        "who": "Dan McAteer",
         "role": "",
-        "said": "@thsottiaux"
+        "said": "@AnthropicAI 再也不会有“天哪他们是不是把 Opus 削了？？？”这种话了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 21万 · 模型与能力] 10000个Agent无主管狂跑4天！奥特曼官宣下一代GPT：千禧年难题模型要来了"
+      "line": "[榜第15位 · 1.8万 · 模型与能力] 再也不怕官方偷换模型！Anthropic祭出FlashProve，暗削Opus彻底成历史"
     },
     {
-      "title": "自己去要成功率0%！AI接管邮箱和航司死磕一个月，网友净赚700刀",
-      "summary": "一位投资人实测分享，自己的欧洲返美航班延误了 6 个小时，随后将求助信息发给了 AI 代理工具 Instinct。Instinct 迅速调取法规锁定该航线享有 600 欧元（约合 700 美元）的法定赔偿，并在随后整整一个月内全程自动代发、交涉多轮晦涩繁杂的邮件。当事人完全零介入，直到最后一刻才打开邮箱点击现金提取链接，直言如果全靠自己手动走流程「拿回赔偿的概率是 0%」。面对…",
-      "reads": "4.9万",
-      "ago": "3 小时前",
+      "title": "名额秒空！开源智能体杀进手机，Hermes Agent移动版挤爆了",
+      "summary": "在刚刚举办的 NousCon 2026 大会上，开源团队 Nous Research 正式上线了 Hermes Mobile beta 测试版，直接把开源自主智能体装进了手机。不料开放后首批测试名额在极短时间内被一抢而空，团队核心成员 Teknium 随即紧急上线候补排队通道，承诺有名额后逐步放行。大会现场还展出了 SelendisAI 打造的视频基础模型 Archon，不再靠…",
+      "reads": "2.0万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "航班延误引发维权需求：当事人从欧洲飞往美国的航班延误 6 个小时，面对复杂的航司维权流程感到头疼，便随手向 AI Agent 工具 Instinct 发送信…",
-        "精准锁定法定权益：Instinct 收到消息后立即核查法规，告知当事人根据相关条例航司依法拖欠其 600 欧元（约合 700 美元）的延误赔偿。",
-        "一个月全程自主交涉：在此后的整整一个月里，Instinct 全程自动接管并完成了多轮极其繁复、晦涩的邮件往来，主动应对航司的各类交涉要求。",
-        "彻底做到端到端零干预：当事人表示自己全程没有参与任何中间环节，整个流程他唯一做的事情就是在最后一步打开邮箱，点击领取赔偿金。"
+        "开源研究团队 Nous Research 在 NousCon 2026 大会上正式推出 Hermes Mobile beta 版，加速推动开源智能体向移动端…",
+        "移动端测试版发布后引发社区抢购，首批测试席位在极短时间内迅速满员。",
+        "团队核心成员 Teknium 随即宣布开通 Hermes Agent 移动端 app 的候补名单排队通道，后续扩充席位后分批开放。",
+        "大会现场还展示了来自 SelendisAI 的视频基础模型 Archon，该模型彻底打破了依赖文本提示词的传统模式。"
       ],
       "quote": {
-        "who": "Deedy",
+        "who": "Teknium 🪽",
         "role": "",
-        "said": "@mehul_kapadia_ 要是我自己来的话，走完这个流程的概率是 0%"
+        "said": "Hermes Agent 移动端 app 现已开放候补名单，有名额后即可加入！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 4.9万 · 产品与生态] 自己去要成功率0%！AI接管邮箱和航司死磕一个月，网友净赚700刀"
+      "line": "[榜第16位 · 2.0万 · 产品与生态] 名额秒空！开源智能体杀进手机，Hermes Agent移动版挤爆了"
     }
   ],
   "board_count": 16,
