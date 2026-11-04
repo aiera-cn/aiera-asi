@@ -3,40 +3,65 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-04 09:16:07 +0800",
+  "fetched_at": "2026-11-04 17:01:39 +0800",
   "today": "11/04",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "不写代码造硬件！OpenAI推出物理版Codex，下代旗舰GPT-Aeon意外偷跑",
-      "summary": "OpenAI 正式宣布将 ChatGPT 与 Codex 的能力拓展至机械设计、电气工程和物理仿真，直言「硬件就是新软件」。更引人注目的是，官方博文图表意外泄露了代号为 GPT-Aeon 的神秘内部模型，其在 BenchCAD 2.0 上狂揽 0.88 高分，性能远超现役旗舰 GPT-6 Astra 的 0.6 分。实测数据显示 Astra 单任务调用成本在 0.44 至 6.…",
-      "reads": "61万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "title": "最低推理超越Astra最高档！OpenAI新模型传3天内上线，爆料人直呼太贵",
+      "summary": "OpenAI 首席执行官 Sam Altman 深夜表态，坚称人类必须始终掌控未来，绝不能沦落到只去执行 AI 设定的奖励。随后爆料人透露，OpenAI 未来 12 个月路线图排布紧密，或在 3 天内推出一款全新模型，其最低推理档位就已超越现役旗舰 Astra 的最高档，但直呼定价极高。面对安全倡导者对其言行不一的嘲弄，以及网友翻出其呼吁扩大产能的内存言论进行恶搞，Altman…",
+      "reads": "614万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "OpenAI 官方宣布 ChatGPT 与 Codex 全面进军现实物理世界，核心覆盖机械设计、电气工程（EE）与物理仿真三大方向，打出「Hardware…",
-        "社区在官方发布的测试图表中发现代号为「GPT-Aeon」的未发布内部新模型，该模型在 BenchCAD 2.0 评测中斩获 0.88 分，断层领先现役旗舰…",
-        "实测数据显示，GPT-6 Astra 在 BenchCAD 测试上的单任务调用成本在 0.44 美元（low 档，得分 14%）至 6.67 美元（xhig…",
-        "OpenAI 研究员 Justin Lin 等两人利用业余时间，在不到一周内协同 GPT-6 Astra 设计出一台用于语音对话 Codex 的实体硬件，A…"
+        "奥特曼公开表态人类掌控未来：Sam Altman 强调人类必须始终掌控未来，OpenAI 坚决反对人类沦落为去执行「AI 系统认为值得奖励人类」的事情。",
+        "爆料称全新模型最低档超 Astra：业内爆料人披露，OpenAI 即将发布一款全新模型，其在最低推理档位的表现就已经超越了现役旗舰 Astra 的最高档位。",
+        "发布倒计时与昂贵定价：爆料人透露新模型或在 3 天内推出，并直言该模型价格极其昂贵，大多数人对这一模型的心理冲击尚未做好准备。",
+        "未来 12 个月规划已定：爆料人同时指出，OpenAI 规划性极强，未来 12 个月的时间表已经排定，团队会严格推进并在可行时尽量提前，并非刻意压制不发。"
       ],
       "quote": {
         "who": "Andrew Curran",
         "role": "",
-        "said": "prinz："
+        "said": "@aryanrhmn 与 @ Rama 相会"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 61万 · 产品与生态] 不写代码造硬件！OpenAI推出物理版Codex，下代旗舰GPT-Aeon意外偷跑"
+      "line": "[榜第1位 · 614万 · 政策与安全] 最低推理超越Astra最高档！OpenAI新模型传3天内上线，爆料人直呼太贵"
+    },
+    {
+      "title": "地面电网快被AI榨干！马斯克突发奇想：把数据中心搬上太空",
+      "summary": "面对地面数据中心日益严峻的电力短缺与散热瓶颈，马斯克公开发文表态，直言太空数据中心如今看起来相当有吸引力。这一表态迅速引发科技界对轨道算力设施前景的强烈关注，有业内博主随即跟进疾呼「是时候加速了」。在太空中，连续无遮挡的太阳能供应与极低温真空散热环境为海量算力提供了全新可能，也让地外算力基础设施的探索与商业化验证成为焦点。",
+      "reads": "237万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "马斯克在社交平台公开发文表态，直言太空数据中心（Data centers in space）目前看起来非常具有吸引力。",
+        "该言论迅速引发科技界与算力市场对地外算力设施前景的密切关注，有行业博主随即转发并疾呼「是时候加速了」。",
+        "随着全球AI大模型训练与推理需求激增，地面数据中心正面临日益严峻的区域电网负荷极限与高昂的散热成本。",
+        "太空环境具备永不落日的充沛太阳能与极低温物理环境，天然契合高密度计算节点的供电与冷却需求。"
+      ],
+      "quote": {
+        "who": "NIK",
+        "role": "",
+        "said": "是时候加速了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 237万 · 资本与算力] 地面电网快被AI榨干！马斯克突发奇想：把数据中心搬上太空"
     },
     {
       "title": "工作电脑做面试题、搜AI工具装假包！币安被黑内幕公开：黑客直插核心权限",
       "summary": "币安官方正式公开此前黑客攻击的调查细节，攻破顶级防线的不是系统硬伤，而是两名工程师的人为失误。一名员工在搜索AI编程工具时误装了被篡改的Mac常用工具Homebrew，另一名员工则在工作电脑上参加了虚假招聘的恶意编程测试。黑客借此绕过常规边界防御直插内网并渗透核心权限，尽管币安紧急拦截了部分资产，但这次开源工具链与社工钓鱼结合的入侵，直接给全行业敲响了警钟。",
-      "reads": "43万",
-      "ago": "2 小时前",
+      "reads": "39万",
+      "ago": "1 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -48,45 +73,170 @@
       "quote": {
         "who": "International Cyber Digest",
         "role": "",
-        "said": "一家恶搞电脑店里的假慈善机构呼吁买家向 Sam Altman 捐赠 1GB 的 RAM，就在几天前，他还称我们 PC 里的闲置 RAM“实在太糟糕了”。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 43万 · 政策与安全] 工作电脑做面试题、搜AI工具装假包！币安被黑内幕公开：黑客直插核心权限"
-    },
-    {
-      "title": "连搜索都拔了网线！中小学反弹太凶，谷歌向学校妥协：Gemini与搜索默认全关",
-      "summary": "中小学反抗AI进校园的大火烧到了谷歌头上。面对K-12学校要求更大管控权的反弹诉求，谷歌官方紧急修改教育服务政策，宣布将Gemini、Gemini Notebook连同Google搜索全部默认设为关闭状态。因为AI与底层搜索绑定太深，想封杀AI连传统搜索都得跟着拔网线，引得谷歌官方连夜在全网各大机构账号下四处留言救火澄清。",
-      "reads": "28万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "谷歌官方通过社交账号正式宣布调整教育服务政策，将针对K-12学校的AI与搜索权限改为默认关闭。",
-        "三大核心服务默认下线：Gemini独立助手、Gemini Notebook笔记工具以及传统Google Search搜索，在学校服务中均默认处于OFF状态。",
-        "政策调整源于强烈抗议：全美K-12中小学校对AI全面侵入校园提出强烈质疑，要求获得更高的技术准入与管控权力。",
-        "搜索与AI难分难解：传统Google搜索此次一并被关停，直接印证了底层AI全量植入后，常规搜索与生成式AI已无法在系统层简单剥离。"
-      ],
-      "quote": {
-        "who": "News from Google",
-        "role": "",
-        "said": "@Polymarket 插一句，澄清一下我们今天公布的关于教育服务的内容："
+        "said": "‼️ GitHub 上出现了一个假冒 Dell VMware 工具 RVTools 的副本，会悄无声息地把电脑的完全远程控制权交给攻击者。 它的“Dell Setup”安装程序会释放一个真实的、带签名的 Action1 远程访问客户端，且关联到了攻击者自己的账户。 很多杀毒软件甚至都不会报毒。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 28万 · 产品与生态] 连搜索都拔了网线！中小学反弹太凶，谷歌向学校妥协：Gemini与搜索默认全关"
+      "line": "[榜第3位 · 39万 · 政策与安全] 工作电脑做面试题、搜AI工具装假包！币安被黑内幕公开：黑客直插核心权限"
+    },
+    {
+      "title": "硬件版 Codex 来了！OpenAI 杀入物理工程，一周徒手搓出电路板",
+      "summary": "OpenAI 正式吹响杀入物理工程的号角，宣布 ChatGPT 与 Codex 全面拓展至机械设计、电气工程和物理仿真三大领域，不仅联手马自达探索整车仿真、帮 Chip Ganassi Racing 把 3D 扫描转化为工程 CAD，自家研究员还在一周内让 GPT-6 Astra 独立设计并搓出了带屏幕和电路板的实体伴侣硬件。官方博文更意外泄露下一代模型肌肉：内部未发布模型在…",
+      "reads": "109万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "AI 杀入物理世界：OpenAI 官方宣布 ChatGPT 与 Codex 正式拓展至机械设计、电气工程与仿真领域，打出「Hardware is the n…",
+        "一周徒手造出实体硬件：OpenAI 研究团队成员 Justin Lin 等人借助 GPT-6 Astra，在不到一周内从零完成了一款 Codex 实体硬件原…",
+        "携手车企推进工业落地：OpenAI 已与马自达（Mazda）展开合作，通过物理仿真探索汽车设计与空气动力学；同时联合 Chip Ganassi Racing…",
+        "未发布内部模型性能大涨：博文披露的 BenchCAD 2.0 基准数据显示，OpenAI 未发布的内部模型（社区推测为 GPT-Aeon 或疑似 GPT-6…"
+      ],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "🚨OpenAI刚甩出炸裂数据！疑似GPT-6.2 Astra的内部模型，在BenchCAD 2.0上直接把GPT-6 Astra按在地上摩擦！ 🔹GPT-6.2 Astra内部模型平均得分 0.875 🔹GPT-6 Astra最高推理设置仅 0.594 提升接近 47%！更狠的是：内部模型最便宜的设置就已经碾压Astra最贵的满血模式。 BenchCAD"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 109万 · 产品与生态] 硬件版 Codex 来了！OpenAI 杀入物理工程，一周徒手搓出电路板"
+    },
+    {
+      "title": "15人团队叫板英伟达！Anthropic用Claude自研芯片，IPO底牌曝光",
+      "summary": "Anthropic 在向 IPO 投资者路演时亮出杀手锏：内部仅 15 人的芯片团队已全面调用 Claude 加速芯片设计，宣称人效比有望叫板英伟达与 AMD 等传统芯片巨头。这直接复制了 OpenAI 此前用自家 AI 在 9 个月内搞定芯片「Jalapeno」的颠覆路径。AI 驱动的微型团队模式正在动摇传统 EDA 软件按工程师人头收费的商业底座，今年半导体 ETF（SMH…",
+      "reads": "17万",
+      "ago": "1 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 在向 IPO 投资者路演时披露，其仅有 15 人的芯片团队已经在用 Claude 加速芯片设计，目标直指 Nvidia 和 AMD 等老…",
+        "微型团队自研芯片早有先例，OpenAI 此前便借助自家 AI 模型，仅用 9 个月就成功搞定了代号为「Jalapeno」的自研芯片。",
+        "传统 EDA 巨头商业模式遭遇冲击，新思科技（SNPS）与铿腾电子（CDNS）主要按工程师人头收取软件授权费，AI 带来的人效暴增直接威胁其收入逻辑。",
+        "资本市场分化明显，今年芯片半导体 ETF（SMH）已大幅上涨约 44%，而新思科技与铿腾电子股价几乎原地走平，严重跑输板块。"
+      ],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "@rainwaterJay DeepSeek本身的模型在国内也更擅长设计芯片"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 17万 · 资本与算力] 15人团队叫板英伟达！Anthropic用Claude自研芯片，IPO底牌曝光"
+    },
+    {
+      "title": "从「不可能更烂」到「巨大飞跃」！苹果折叠屏深夜迎来救命更新",
+      "summary": "苹果首款折叠屏 iPhone Duo 发售后深陷软硬件适配争议，官方火速向开发者推送了首个 iOS 27.3 测试版救场。知名科技记者 Mark Gurman 最初吐槽上一版 iOS 27.2 体验极差、Bug 满天飞，直言「27.3 再差也不可能更烂」，建议受困用户更新一试；而在数小时的实测后，他态度彻底反转并给出「巨大飞跃」的高评价，让深陷舆论的折叠屏迎来关键口碑回暖。",
+      "reads": "29万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "苹果紧急向开发者推送首个 iOS 27.3 测试版，加速优化折叠屏 iPhone Duo 与触屏 MacBook Pro 的软硬件适配问题。",
+        "上一代 iOS 27.2 系统在折叠屏设备上表现极差、Bug 满天飞，成为导致硬件发售后口碑遇冷的主要症结。",
+        "知名科技记者 Mark Gurman 先是公开询问用户更新反馈，直言 27.2 已经烂到底线，称「27.3 再差也不可能更烂」，建议遇到问题的用户尝试更新。",
+        "在亲自上手连续实测数小时后，Gurman 对新版本的态度发生 180 度大反转，直接以「巨大飞跃」（Huge improvement）定性其流畅度与稳定性提…"
+      ],
+      "quote": {
+        "who": "Mark Gurman",
+        "role": "",
+        "said": "巨大飞跃"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 29万 · 产品与生态] 从「不可能更烂」到「巨大飞跃」！苹果折叠屏深夜迎来救命更新"
+    },
+    {
+      "title": "连搜索都给学生关了！谷歌扛不住全美施压：Gemini默认对中小学拉闸",
+      "summary": "面对全美教育界与政界的强烈抗议，Google 官方紧急对 K-12 中小学教育账号政策做出妥协与澄清。官方宣布，Gemini、Gemini Notebook 以及核心的 Google Search 搜索将对基础教育学生账号默认全部关闭，把开启权限彻底交还给校方。与此同时，Google 在搜索中追加了「Guided Learning」（引导式学习）功能用于辅导作业，官方团队更连夜…",
+      "reads": "47万",
+      "ago": "7 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "三大核心服务默认全关：Google 宣布对 K-12 中小学生账号做出重大调整，Gemini、Gemini Notebook 以及核心的 Google Se…",
+        "控制权彻底交还学校：本次调整响应了基础教育机构对自主控制权的要求，后续学校管理员可根据自身教学需要，按需单独开启各项独立服务",
+        "搜索新增 Guided Learning 作业辅导：为缓解 AI 直接替学生写作业的伦理担忧，Google 在 Search 的 AI 功能中加入了「Gui…",
+        "官方连夜找议员和机构灭火：面对 AI 捆绑搜索引发的合规争议，Google 官方团队在社交平台上密集向参议员 Blumenthal、众议员 Casar 以及…"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "Google明确表示，K–12学生账号将默认关闭Gemini、Gemini Notebook和Search。学校可以单独开启各项服务。 Google还在Search的AI功能中加入了Guided Learning，旨在引导学生完成家庭作业"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 47万 · 政策与安全] 连搜索都给学生关了！谷歌扛不住全美施压：Gemini默认对中小学拉闸"
+    },
+    {
+      "title": "敲个词思考直接拉满！Claude Code上线单轮xhigh，老会话狂省额度",
+      "summary": "Claude Code 官方发布 10 月功能更新盘点，多项硬核改动直击开发者实际编码痛点。新版上线了全新的 mods 模块扩展，并新增「ultrathink」指令，支持在单轮对话中把思考强度直接拉满至最高档 xhigh，无需修改全局配置；同时，系统会在提示词缓存过期前（约 1 小时）自动压缩长期闲置会话，重新唤醒时仅处理摘要，大幅降低 Token 额度消耗。此外，云端会话支持…",
+      "reads": "67万",
+      "ago": "8 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "单轮深度思考秒级拉满：新增「ultrathink」指令，开发者在消息中输入该词即可将当轮思考强度直接提至 xhigh，单点死磕高难任务，无需更改整场会话的全…",
+        "闲置会话自动压缩省额度：在提示词缓存过期前（约 1 小时），系统会自动压缩长期闲置的会话；用户再次载入时仅需重新处理摘要，无需重算全部上下文，显著缩减 To…",
+        "云端环境输入即预热：云端会话在用户敲击提示词的同时就会在后台提前启动环境，有效减少发送后的等待延迟；同时支持在代码 diff 中直接点击任意代码行留言批注…",
+        "高危操作免确认参数：针对隔离环境与一次性容器场景，官方提供「CLAUDE_CODE_EVEN_MORE_DANGEROUSLY_SKIP_PERMISSIO…"
+      ],
+      "quote": {
+        "who": "Dan McAteer",
+        "role": "",
+        "said": "@TheMysteryDrop 我用着挺管用。 你得根据自己的经验找到适合自己的方法。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 67万 · 产品与生态] 敲个词思考直接拉满！Claude Code上线单轮xhigh，老会话狂省额度"
+    },
+    {
+      "title": "「Google一下」彻底成历史！ChatGPT搜索量狂飙至谷歌20%，年轻人只问Chat",
+      "summary": "Google统领二十多年的搜索护城河，被OpenAI撕开了一道肉眼可见的裂口。OpenAI最新披露，ChatGPT当前处理的搜索查询量已相当于Google全网查询量的20%。在千禧一代和Gen Z群体中，日常交流里「问问Chat」（Ask Chat）正火速取代经典的「Google一下」，用户甚至连全名都懒得念。为了彻底圈死超级入口，OpenAI还把极品域名chat.com直接重…",
+      "reads": "4.7万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "搜索量达谷歌两成：OpenAI最新官方披露，通过ChatGPT运行的搜索查询量已经达到Google搜索查询总量的20%，展现出极强的流量分流效应。",
+        "日常口头禅变迁：在多个圈子和社群中，流行数十年的习惯语「Google一下」（Google it）正被「问问Chat」（Ask Chat）加速取代。",
+        "年轻世代习惯固化：据一线科技记者观察，在千禧一代年轻人与Gen Z群体中，日常交流中直接简称「Chat」的比例已大幅超越「ChatGPT」全名。",
+        "顶级域名收归入口：OpenAI已正式将顶级域名chat.com重定向至ChatGPT，用极简域名进一步拉低用户的访问与搜索门槛。"
+      ],
+      "quote": {
+        "who": "Tibo",
+        "role": "",
+        "said": "@haydenfield 问了下 chat，它证实了这事"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 4.7万 · 产品与生态] 「Google一下」彻底成历史！ChatGPT搜索量狂飙至谷歌20%，年轻人只问Chat"
     },
     {
       "title": "打工人狂喜！MCP迎来企业级SSO，Claude登录即连14款工具",
       "summary": "Anthropic 正式推出插件自动连接功能，彻底解决企业员工每次使用工具都要逐个手动登录授权的痛点。该功能基于 MCP 的开放扩展构建，引入了企业托管认证（EMA），管理员可通过身份提供商（IdP）一键为全组织统一开通插件，即便 IdP 不支持，Claude 也能直接为登录成员提供信任背书。目前该功能已在 Claude Team 和 Enterprise 方案中开启公测，首批…",
-      "reads": "55万",
-      "ago": "5 小时前",
+      "reads": "73万",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -104,64 +254,39 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 55万 · 产品与生态] 打工人狂喜！MCP迎来企业级SSO，Claude登录即连14款工具"
+      "rank": 10,
+      "line": "[榜第10位 · 73万 · 产品与生态] 打工人狂喜！MCP迎来企业级SSO，Claude登录即连14款工具"
     },
     {
-      "title": "最低配省12倍算力，反超满血Astra！OpenAI下一代巨兽实测泄露",
-      "summary": "OpenAI内部模型最新实测图表接连曝光，性能展现出惊人的「代际倒挂」：在攻克千禧年难题Navier-Stokes的测试中，该模型最低档位解题率达0.263，不仅狂省12倍算力，更直接超越满配GPT-6 Astra最高的0.171，官方透露该成果由约10,000个AI智能体协同苦战88小时拿下。随后流出的BenchCAD 2.0基准同样惊人，新模型最便宜设置（0.758）便击败…",
-      "reads": "18万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "算力成本狂降12倍反超顶配：在Navier-Stokes难题基准中，该内部模型最低算力配置下的解题率达到0.263，大幅超越当前满配GPT-6 Astra最…",
-        "工业设计基准BenchCAD 2.0全面倒挂：新模型极限跑分达到0.875，远超GPT-6 Astra顶配的0.594；即使切到最便宜的运行档位（0.758…",
-        "1万名智能体协同攻克千禧难题：官方披露，团队调度了约10,000个协同工作的AI智能体网络，在88小时内完成了Navier-Stokes方程难题求解。",
-        "模型仍在训练中且性能未触顶：OpenAI团队透露该模型在多项基准测试中展现出阶跃式跃升，且当前训练仍在进行，全流程保持着严格的学术验证。"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "@joescalera OpenAI 写的 Navier-Stokes 博客"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 18万 · 模型与能力] 最低配省12倍算力，反超满血Astra！OpenAI下一代巨兽实测泄露"
-    },
-    {
-      "title": "输入ultrathink单轮拉满思考！Claude Code狂更新，闲置1小时自动压缩保额度",
-      "summary": "Claude Code 正式公布 10 月更新合集，带来大量直击开发痛点的重磅优化。最受瞩目的当属新指令「ultrathink」，用户在消息中键入该词即可在不改动全局设置的前提下，单轮直接把思考强度拉满到最高档 xhigh。成本优化上，闲置会话会在提示词缓存过期前（约 1 小时）自动压缩成摘要，重连后无需再把长对话从头读一遍。新版还支持打字时云端环境提前预启动、diff 任意代…",
-      "reads": "52万",
-      "ago": "6 小时前",
+      "title": "关掉AI模式也没用！传统谷歌搜索已死：你敲下的每个字都在跟Gemini对话",
+      "summary": "针对近期中小学试图全面禁用 AI 搜索的讨论，业内人士揭开了残酷的技术真相：纯净的传统 Google 搜索早已不复存在。早在今年 5 月 19 日，谷歌就已将 Gemini 彻底融入搜索框底层架构，它不再是独立的外挂组件。无论用户在前端是否关闭「AI 模式」或 AI Overviews 概览浮层，只要在搜索框输入任何字符，都会全量发送给 Gemini 处理；哪怕要求只返回纯网页…",
+      "reads": "5.7万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "单轮思考强度拉满：新增「ultrathink」消息指令，无需改动全局配置，即可在单轮对话中将 Claude 的思考强度单次拉满至最高档 xhigh，专门用于…",
-        "闲置 1 小时自动压缩：长期闲置会话会在提示词缓存（prompt cache）过期前（约 1 小时）自动压缩为摘要，重连只需处理摘要而不用重读整场对话，为…",
-        "云端环境敲字时预热：云端会话新增环境预启动机制，用户在输入框敲击提示词的过程中后台就已开始准备环境，发送消息后的排队等待时间大幅缩短。",
-        "Diff 支持点击任意行评论：在云端会话的代码差异对比（diff）界面中，点击任意一行即可添加行内评论，留言将随下一条消息自动同步发送给 Claude。"
+        "争议定性误读：针对部分学校试图在教学中「全面限制 AI」并禁用搜索的做法，技术人员指出媒体将其定性为针对 AI 的惩罚措施属于事实误读。",
+        "底层重构时间点：早在今年 5 月 19 日，谷歌就已将 Gemini 完全整合进了搜索框底层，模型并非外挂组件，而是搜索的底层引擎。",
+        "前端开关沦为摆设：用户即便在界面中主动关闭 AI 模式（AI mode），或关闭 AI Overviews 概览浮层，在搜索框输入的任何字符仍会直接发送给…",
+        "纯链接仍由模型生成：哪怕用户强制要求只返回纯网页链接，搜索结果的召回与组织本质上依旧是由大模型计算生成的，旧版 Google 搜索早已不复存在。"
       ],
       "quote": {
-        "who": "Dan McAteer",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "Claude Code 里的 'ultrathink' 绝对是 Shiptober 发布季中最强的更新，断崖式领先。 直接抄这套工作流： 1. 用 Opus 5.5 Medium 探索想法 2. 用 '/be-ambitious' 编写指令（链接👇） 3. 输入 'ultrathink' 来实现 '/be-ambitious' 的输出 4. 大功告成。 已经"
+        "said": "@justintime277 @ytcommenter2015 它已经完全且不可分割地与一切交织在一起了。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 52万 · 产品与生态] 输入ultrathink单轮拉满思考！Claude Code狂更新，闲置1小时自动压缩保额度"
+      "rank": 11,
+      "line": "[榜第11位 · 5.7万 · 产品与生态] 关掉AI模式也没用！传统谷歌搜索已死：你敲下的每个字都在跟Gemini对话"
     },
     {
       "title": "告别API偷梁换柱！Anthropic开源FlashProve，普通CPU秒验真伪",
       "summary": "通过第三方转售商调用顶级模型，总怀疑后台被悄悄降级成了廉价版？Anthropic 今日公布大模型可证明推理最新进展，正式开源密码学验证系统 FlashProve。开发者无需信任任何中心化机构，仅凭一台普通 CPU 就能用纯数学方式精准验真输出是否出自目标模型。API 供应链偷梁换柱的暗箱操作被彻底斩断，全量开源也让全球安全团队得以直接进场攻防实测。",
-      "reads": "20万",
-      "ago": "3 小时前",
+      "reads": "40万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -179,233 +304,108 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 20万 · 产品与生态] 告别API偷梁换柱！Anthropic开源FlashProve，普通CPU秒验真伪"
+      "rank": 12,
+      "line": "[榜第12位 · 40万 · 产品与生态] 告别API偷梁换柱！Anthropic开源FlashProve，普通CPU秒验真伪"
     },
     {
-      "title": "连研究方向都不敢公开了！陶哲轩曝顶尖数学圈现状：全在藏题防AI偷跑",
-      "summary": "菲尔兹奖得主陶哲轩在最新专访中揭露了一个令学界震动的现象：顶尖数学家们由于害怕被 AI「偷家」，正打破长久以来的开放交流传统，开始暗中隐匿自己的核心研究方向与关键问题。学者们极度担忧，自己一旦公开发表敏锐的学术直觉，就会立刻被他人当成 Prompt 喂给 AI 抢先收割。陶哲轩同时发出严厉警告，AI 远比人类更擅长利用漏洞作弊，人类若一味将独立思考权彻底让渡给黑盒工具，预计很快…",
-      "reads": "5.8万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "陶哲轩在 SAIR 访谈中透露，数学家群体正被迫改变以往畅所欲言的学术传统，开始主动在交流中隐匿核心研究问题",
-        "防御性闭关源于对 AI 抢跑的恐惧：学者们极度担心有前景的探索路径一旦公开，会被他人直接作为提示词输入 AI 进而被抢先发表",
-        "相关观察证实，这种将关键问题深藏不露的做法，已在绝对顶尖的科研人员群体中普遍蔓延",
-        "陶哲轩直言「AI 远比人类更擅长作弊」，许多看似漂亮的解法本质上只是在利用模型漏洞和薄弱环节蒙混过关"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": ""
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 5.8万 · 模型与能力] 连研究方向都不敢公开了！陶哲轩曝顶尖数学圈现状：全在藏题防AI偷跑"
-    },
-    {
-      "title": "苹果折叠屏Bug成灾！Gurman炮轰iOS 27.2太烂：升27.3不可能更差",
-      "summary": "知名科技记者 Mark Gurman 针对折叠屏体验发起讨论，询问首批 iPhone Duo 用户在设备上使用 iOS 27.3 的实际感受。随后他毫不留情地公开吐槽，直指现役的 iOS 27.2 系统表现实在太烂且充斥着大量 Bug。在他看来，虽然不能当作正式升级推荐，但 iOS 27.3 无论如何也不可能比现存版本更糟，饱受故障折磨的用户完全值得冒险一试。",
-      "reads": "16万",
-      "ago": "3 小时前",
+      "title": "名额秒光排爆了！开源顶流Hermes Agent出手机版，但本地跑不动",
+      "summary": "开源团队 Nous Research 在 NousCon 2026 大会上正式发布 Hermes Mobile 测试版，首发内测名额瞬间被秒光，团队随即开放候补名单。核心负责人明确澄清，手机端无法直接在本地运行该智能体，移动端必须通过付费购买 portal 订阅连接官方云端，或者直接连接用户自建的自托管服务。尽管设有使用门槛，候补名单开放仅 5 小时依然被挤爆，开源智能体正式拉…",
+      "reads": "8.4万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "知名科技记者 Mark Gurman 发起体验讨论，公开询问用户在折叠屏设备 iPhone Duo 上使用 iOS 27.3 的真实感受。",
-        "Gurman 随后直言不讳地炮轰现役系统，明确指出当前的 iOS 27.2 系统表现「实在太烂且充斥着大量 Bug」。",
-        "他坦言这虽不能当作正式推荐，但在他看来 iOS 27.3 的实际表现「无论如何也不可能比现存版本更糟」。",
-        "对于目前饱受系统频繁故障与稳定性困扰的 iPhone Duo 用户，Gurman 建议这部分群体完全值得提前升级尝试。"
-      ],
-      "quote": {
-        "who": "Mark Gurman",
-        "role": "",
-        "said": "不作推荐，但 iOS 27.2 实在太烂、bug 太多，我觉得 27.3 再差也不可能更差了。所以或许值得一试。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 16万 · 产品与生态] 苹果折叠屏Bug成灾！Gurman炮轰iOS 27.2太烂：升27.3不可能更差"
-    },
-    {
-      "title": "国内版苹果AI终于来了！iOS 27.3首度实装，Watch听觉健康大翻新",
-      "summary": "苹果正式向开发者推送首个 iOS 27.3 测试版，备受关注的国内版 Apple Intelligence 终于首次实装亮相。新版系统同步带来了全新设计的 Health app，并为 Apple Watch 新增了 AI 听觉功能。针对硬件生态，新固件不仅为 iPhone Duo 适配了 Reachability 单手模式、向非 Duo 设备下放了 Duo StandBy Mo…",
-      "reads": "19万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "首个开发者测试版推送：苹果正式向开发者推送首个 iOS 27.3 beta 固件，开启新一轮系统功能测试。",
-        "国内版 Apple Intelligence 首现：测试版中首次加入了面向中国市场的 Apple Intelligence，国内用户期待已久的端侧 AI 迎…",
-        "Health app 界面大翻新：测试版上线了全新设计的 Health 应用，交互与数据呈现全面重构。",
-        "Apple Watch 新增 AI 听觉：Apple Watch 在配套新固件中加入了全新的 AI 听觉功能（AI listening features）。"
-      ],
-      "quote": {
-        "who": "Mark Gurman",
-        "role": "",
-        "said": "测试版还包含了 iPhone Duo 上的 Reachability、非 Duo 设备上的全新 Duo StandBy Mode，并在 iPadOS 中支持了相机中的 Siri Mode 以及搭配 Apple Pencil 的 Visual Intelligence。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 19万 · 产品与生态] 国内版苹果AI终于来了！iOS 27.3首度实装，Watch听觉健康大翻新"
-    },
-    {
-      "title": "内测名额瞬间抢光！开源顶流Hermes Agent手机版上线，随时遥控自托管",
-      "summary": "NousCon 2026大会刚开幕，Nous Research就放出了Hermes Mobile beta测试版，结果首批名额瞬间被抢空，核心成员Teknium只能紧急加开候补通道。针对外界对手机端算力的疑虑，Teknium明确澄清手机本地并不直接运行智能体，而是支持通过Hermes Cloud（需Portal订阅）或用户私有自托管的Hermes服务进行连接。开源顶流智能体正式…",
-      "reads": "6.3万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "在NousCon 2026大会现场，开源AI团队Nous Research正式发布Hermes Mobile beta测试版，推动开源头部智能体走向移动设备…",
-        "移动端测试版发布后名额迅速被抢光，核心成员Teknium随即紧急上线了Hermes Agent移动端候补排队通道。",
-        "针对外界关于手机硬件能否承受大模型计算的疑问，Teknium明确回应「手机上跑不了这个智能体」，澄清其并非端侧运行。",
-        "官方公布该App支持两种连接方式：用户可通过Hermes Cloud（需Portal订阅）连接官方云端，或直接连接自己私有自托管的Hermes服务。"
+        "在 NousCon 2026 大会现场，开源团队 Nous Research 正式发布了移动端测试版 Hermes Mobile beta。",
+        "测试版放出后首发名额迅速被抢空，团队核心负责人 Teknium 随后紧急上线 Hermes Agent 移动端 App 的候补名单入口。",
+        "针对端侧算力疑问，Teknium 明确澄清手机硬件无法在本地直接运行该智能体，该 App 属于远程连接客户端。",
+        "移动端 App 仅支持两种连接方式：付费购买 portal 订阅连接官方 Hermes cloud，或者连接用户自己搭建的自托管 Hermes 服务。"
       ],
       "quote": {
         "who": "Teknium 🪽",
         "role": "",
-        "said": "@kidukuuwu 引用推文里的链接"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 6.3万 · 产品与生态] 内测名额瞬间抢光！开源顶流Hermes Agent手机版上线，随时遥控自托管"
-    },
-    {
-      "title": "别自欺欺人了！关掉AI浮层也没用，现在的谷歌搜索就是Gemini",
-      "summary": "针对谷歌中小学AI管控引发的停用搜索争议，多方实测揭开真相：这根本不是什么惩罚措施，而是纯净的传统搜索早在底层彻底消失。早在今年5月19日，谷歌就已将Gemini大模型全面整合进搜索框底层。哪怕用户主动关闭AI模式、关闭AI概览浮层，甚至明确要求只返回传统网页链接，输入的每一个字依然全量发送给Gemini并在后台运算，底层大模型与传统搜索的深度捆绑已彻底不可逆。",
-      "reads": "3.7万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "针对近期谷歌在中小学停用搜索引发的争议，行业观察者澄清外界定性为「惩罚措施」纯属误读，核心是系统底层已被AI完全重构。",
-        "关键时间节点曝光：谷歌早在今年5月19日，就已将Gemini大模型彻底整合进搜索框底层，传统的独立纯净搜索架构早已不复存在。",
-        "即使在设置中主动关闭「AI模式」，多位开发者实测证实，在搜索框中输入的任何内容依然会实时发送给Gemini。",
-        "哪怕用户彻底关闭AI概览（AI Overview）的显示浮层，底层运算逻辑依然全由Gemini承载，「关闭AI」仅停留在视觉表层。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "@Nition @natejhake 不仅是搜索结果，只要你在搜索框里输入任何内容，你其实都是在跟 Gemini 对话，不管你用没用 AI 模式，也不管用没用 AI 叠加层。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 3.7万 · 产品与生态] 别自欺欺人了！关掉AI浮层也没用，现在的谷歌搜索就是Gemini"
-    },
-    {
-      "title": "IPO推迟到明年、募资目标下调！OpenAI挖来Uber总裁执掌全球公关",
-      "summary": "面临内外部重重压力的 OpenAI 终于迎来了公关大将。Uber 现任总裁 Jill Hazelbaker 将于 11 月 30 日离职并跳槽至 OpenAI，出任首席企业事务官，接管全球传播与品牌战略，填补该职位自 2026 年初以来的长期空缺。这位曾历练于 Google 与 Snap 的老兵加盟之际，正值 OpenAI 遭遇关键逆风——不仅此前下调了募资目标，还已把备受瞩目…",
-      "reads": "5.6万",
-      "ago": "2 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "Uber 现任总裁 Jill Hazelbaker 将跳槽至 OpenAI，出任首席企业事务官（Chief Corporate Affairs Office…",
-        "Hazelbaker 将于 11 月 30 日正式卸任并离开 Uber，随后入职 OpenAI",
-        "新岗位将全面统筹全球传播与品牌战略，填补该职位自 2026 年初以来的长期空缺",
-        "Hazelbaker 是硅谷资深管理者与公关老将，此前曾先后在 Google 与 Snap 担任高管要职"
-      ],
-      "quote": {
-        "who": "The Information",
-        "role": "",
-        "said": "独家：Uber 总裁 Jill Hazelbaker 将加入 OpenAI 出任首席企业事务官，在面临重重挑战之际执掌传播与品牌策略。 此举正值 OpenAI 下调募资目标并将 IPO 推迟至明年。 阅读更多"
+        "said": "@AIFlow_ML 朋友，候补名单5小时前才刚开放……"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 5.6万 · 组织与人事] IPO推迟到明年、募资目标下调！OpenAI挖来Uber总裁执掌全球公关"
+      "line": "[榜第13位 · 8.4万 · 产品与生态] 名额秒光排爆了！开源顶流Hermes Agent出手机版，但本地跑不动"
     },
     {
-      "title": "GPT-6 Astra专属神技被破！Qwen 3.8本地直读权重，32G内存就能跑",
-      "summary": "最近一篇热议论文指出 OpenAI 现役旗舰 GPT-6 Astra 能直接解读模型权重（一堆全是浮点数的提示词），结果知名开发者 Simon Willison 拿开源模型完成了本地复现：他在配有 128GB 内存的 M5 MacBook Pro 上，给 Qwen 3.8 27B 输入浮点数提示词狂跑了 45 分多钟，成功做到了与 GPT-6 Astra 完全相同的权重解读效果…",
-      "reads": "19万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
+      "title": "小扎疯狂囤弹药！Meta发债狂揽至少200亿美元，AI军备竞赛打疯了",
+      "summary": "为了给庞大的 AI 算力军备竞赛储备粮草，Meta 正在债券市场展开一场超级吸金行动。公司计划通过美元和欧元债券发售筹集至少 200 亿美元资金，发行结构最多包含 5 期美元券和 6 期欧元券。目前花旗与摩根士丹利已牵头主持投资者电话会，Meta 也已正式拉开其中五个部分美元债券的发售大幕。",
+      "reads": "4.1万",
+      "ago": "5 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "旗舰能力遭复现：近期前沿论文披露 OpenAI 现役旗舰 GPT-6 Astra 具备直接解读模型权重（处理充满浮点数的提示词）的突破性能力，引发圈内高度关…",
-        "消费级硬件实测：知名开发者 Simon Willison 在配有 128GB 内存的 M5 MacBook Pro 上，直接部署阿里开源模型 Qwen 3.…",
-        "单机运算 45 分钟：直接向 Qwen 3.8 27B 输入塞满浮点数的权重提示词，经过 45 分多钟运算，该开源模型成功实现了与 GPT-6 Astra…",
-        "硬件门槛超预期下放：尽管实测设备为 128GB 顶配机型，但 Simon Willison 评估指出，运行 Qwen 3.8 27B 解读权重仅需 32GB…"
+        "发债规模破纪录：Meta 计划通过发售美元和欧元债券筹集至少 200 亿美元巨资，用于充实资本储备。",
+        "跨币种分期发行：本次发债最多包含 5 期美元债券和 6 期欧元债券，横跨欧美两大核心债券市场。",
+        "最新落地进展：Meta 已正式启动分为五个部分的美元债券发售工作，开启首轮资金募集。",
+        "顶级投行坐镇：华尔街知名投行花旗（Citi）与摩根士丹利（Morgan Stanley）负责牵头主持面向机构投资者的电话会议。"
       ],
       "quote": {
-        "who": "Simon Willison",
+        "who": "Techmeme",
         "role": "",
-        "said": "@milan_milanovic M5 MacBook Pro 128GB，但 Qwen 3.8 27B 在 32GB 上应该就能跑得挺顺（提示词更长的话可能需要更多内存）"
+        "said": "Meta 通过发行美元债券筹集了 150 亿美元；知情人士透露：认购订单高达 580 亿美元，是一笔超 200 亿美元跨境债券发行中最大的一部分（Bloomberg） （访问 Techmeme 官网获取链接和完整背景！）"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 19万 · 模型与能力] GPT-6 Astra专属神技被破！Qwen 3.8本地直读权重，32G内存就能跑"
+      "line": "[榜第14位 · 4.1万 · 资本与算力] 小扎疯狂囤弹药！Meta发债狂揽至少200亿美元，AI军备竞赛打疯了"
     },
     {
-      "title": "P=NP和P≠NP当场撞车！理论顶会STOC全公开1665篇投稿，连作者一起挂出",
-      "summary": "理论计算机科学顶会 STOC 2027 搞了一场学术界罕见的激进实验：在未经任何评审的情况下，直接将收到的全部 1665 篇投稿以及作者姓名全网公开发布。本次投稿量较过去两年约 750 篇激增翻倍，不仅有 94 人顶格投满 5 篇限制、2 人超标投了 6 篇，更有高达 339 篇单作者论文（占比 20%，约半数作者此前从未中过顶会）。最戏剧性的是，公开论文中编号 488 号声称…",
-      "reads": "6.4万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
+      "title": "最低配省12倍算力，反超满血Astra！OpenAI下一代巨兽实测泄露",
+      "summary": "OpenAI内部模型最新实测图表接连曝光，性能展现出惊人的「代际倒挂」：在攻克千禧年难题Navier-Stokes的测试中，该模型最低档位解题率达0.263，不仅狂省12倍算力，更直接超越满配GPT-6 Astra最高的0.171，官方透露该成果由约10,000个AI智能体协同苦战88小时拿下。随后流出的BenchCAD 2.0基准同样惊人，新模型最便宜设置（0.758）便击败…",
+      "reads": "21万",
+      "ago": "10 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "激进公开实验：理论计算机科学顶会 STOC 2027 在征稿启事（CfP）明确告知后，采取了学术会议史上最彻底的透明举措——收到的全部 1665 篇投稿及其…",
-        "投稿量激增翻倍：过去两年 STOC 每年收稿量约为 750 篇，本届 1665 篇投稿直接实现翻倍；其中有 94 位学者顶格达到了每人最多 5 篇投稿的上限…",
-        "世纪难题当场撞车：公开论文迅速被同行挖出名场面，编号 488 的论文声称证明了「P = NP」，而编号 872 的论文则声称证明了「P != NP」，学者直…",
-        "单作者投稿暴涨至 20%：本届共有 339 篇投稿为独立单作者（涉及 286 位学者），占全部投稿的 20%，远高于以往录用论文中约 7.5%（16/212…"
+        "算力成本狂降12倍反超顶配：在Navier-Stokes难题基准中，该内部模型最低算力配置下的解题率达到0.263，大幅超越当前满配GPT-6 Astra最…",
+        "工业设计基准BenchCAD 2.0全面倒挂：新模型极限跑分达到0.875，远超GPT-6 Astra顶配的0.594；即使切到最便宜的运行档位（0.758…",
+        "1万名智能体协同攻克千禧难题：官方披露，团队调度了约10,000个协同工作的AI智能体网络，在88小时内完成了Navier-Stokes方程难题求解。",
+        "模型仍在训练中且性能未触顶：OpenAI团队透露该模型在多项基准测试中展现出阶跃式跃升，且当前训练仍在进行，全流程保持着严格的学术验证。"
       ],
       "quote": {
-        "who": "Gautam Kamath",
+        "who": "Chetaslua",
         "role": "",
-        "said": "@boazbaraktcs 我没做，但这会是个很好的实验！抄送 @max_spero_"
+        "said": "@joescalera OpenAI 写的 Navier-Stokes 博客"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 6.4万 · 产品与生态] P=NP和P≠NP当场撞车！理论顶会STOC全公开1665篇投稿，连作者一起挂出"
+      "line": "[榜第15位 · 21万 · 模型与能力] 最低配省12倍算力，反超满血Astra！OpenAI下一代巨兽实测泄露"
     },
     {
-      "title": "发现旧公寓保险偷扣钱，ChatGPT语音秒抓包！一句话直接代发邮件退订",
-      "summary": "ChatGPT 官方正式宣布将语音功能 ChatGPT Voice 接入个人财务管理板块 Finances。用户安全绑定银行等财务账户后，只需动动嘴就能直接盘点日常开销、储蓄情况，并横向比对周期性扣款以揪出冗余订阅。在官方演示中，当发现搬离旧公寓后 State Farm 租客保险仍在自动扣款时，ChatGPT 甚至能直接遵照语音指令代发退订邮件，真正把语音 Agent 落地到了…",
-      "reads": "16万",
-      "ago": "6 小时前",
+      "title": "边听歌边录MV！Apple Music Sing迎来自拍视频版，iOS 27.3暗藏K歌新功能",
+      "summary": "iOS 27.3 测试版里悄悄藏了个娱乐大招。有开发者在 Apple Music 中挖出一项名为 Selfie Sing 的全新自拍 K 歌功能，用户在听歌时可以直接录制自拍视频，并支持自主调节人声音轨来打造专属个人演唱片段，录完即可一键分享给好友。目前该功能尚未正式公开，需要手动搜索特定歌单才能唤出，且暂不支持使用 Animoji 虚拟形象滤镜替代出镜。",
+      "reads": "7.0万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "ChatGPT 官方宣布将 ChatGPT Voice 正式引入财务管理板块 Finances，支持用户通过自然语音直接咨询与管理个人资产。",
-        "用户在 Finances 中安全关联个人银行或财务账户后，即可实时向语音助手询问储蓄进度、日常支出明细及周期性扣款概况。",
-        "在官方演示中，ChatGPT Voice 能一键生成周期性付款汇总视图，并横向并排比对重叠收费，精准指出流媒体等平台的功能性冗余开支。",
-        "面对搬离旧公寓后仍在扣费的 State Farm 租客保险，ChatGPT 在收到用户「能帮我发封取消邮件吗」的口头指令后立即响应执行，展现了直接代办退订的…"
+        "隐藏功能曝光：开发者在最新的 iOS 27.3 测试版中挖掘出一项名为 Selfie Sing 的全新功能，直接集成在 Apple Music 内。",
+        "音视频同步录制：用户可在听歌跟唱的同时录制自拍视频，并自主微调背景人声音轨，录制完成的作品支持直接分享给好友。",
+        "专属激活方式：该功能目前未在 Apple Music 主界面公开入口，用户需在搜索框中手动搜出名为「Selfie Sing」的隐藏歌单，并点击「Start…",
+        "滤镜限制说明：针对演示中出现的野猪头像，测试者澄清 Selfie Sing 目前并不支持 Animoji 虚拟形象出镜，该形象仅为测试者个人遮脸所用。"
       ],
       "quote": {
-        "who": "Kol Tregaskes",
+        "who": "Aaron",
         "role": "",
-        "said": "@ChatGPT 很期待英国终于能用上这个了，但到底什么时候能有？"
+        "said": "在 iOS 27.3 上，你可以通过在搜索中手动找到这个歌单来激活 Selfie Sing"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 16万 · 产品与生态] 发现旧公寓保险偷扣钱，ChatGPT语音秒抓包！一句话直接代发邮件退订"
+      "line": "[榜第16位 · 7.0万 · 产品与生态] 边听歌边录MV！Apple Music Sing迎来自拍视频版，iOS 27.3暗藏K歌新功能"
     }
   ],
   "board_count": 16,
