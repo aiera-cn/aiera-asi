@@ -3,315 +3,269 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-05 01:07:52 +0800",
+  "fetched_at": "2026-11-05 07:35:03 +0800",
   "today": "11/05",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "先喊人类掌舵！奥特曼改名Ram Altman，催着全世界多造内存",
-      "summary": "山姆·奥特曼发文称人类应始终掌控未来，OpenAI反对人只去做「AI系统认为值得奖励」的事；François Chollet附议，唯一值得造的未来是AI一直当成人手里的工具。有人问他怎么还要别人的内存，他回希望对方RAM超多、一起多造，配图里昵称已改成「Ram Altman」，随后又澄清：自己就是希望全世界有海量内存、电脑想装多少装多少，这话被断章取义，扩产能他喊了很久。一位爆…",
-      "reads": "748万",
-      "ago": "5 小时前",
+      "title": "爆料称奥特曼新模型3天后发：最低档推理碾压Astra顶配",
+      "summary": "奥特曼先发了一条郑重声明：人类必须始终掌控未来，OpenAI 绝不同意人沦落成「只做 AI 系统觉得值得奖励的事」的角色。话音刚落，有网友回了一句「那你干嘛还要我的 RAM」，他直接接茬：想让你有超多内存，咱们多造点——还说自己呼吁全球扩内存产能很久了。结果 X 昵称被扒改成「Ram Altman」，网友排队献祭 8GB MacBook，还开打「RAM 大战」。更狠的在后面：有…",
+      "reads": "1130万",
+      "ago": "7 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "奥特曼发文：人类应始终掌控未来，OpenAI反对人只做「AI系统认为值得奖励」的事，不应把未来控制权交出去。",
-        "François Chollet附议：唯一值得构建的未来，是AI始终作为人类手中的工具，用来提升人类处境。",
-        "有人问他为何还要别人的内存，他回复希望对方拥有超多RAM、一起多造；配图显示账号昵称改成了「Ram Altman」。",
-        "他澄清自己确实希望全世界有海量内存、电脑里想装多少装多少，认为原话被断章取义，并称长期呼吁扩大内存产能。"
+        "Chollet 转发并力挺原帖，称唯一值得构建的未来是 AI 始终作为人类手中的工具，用来提升人类处境。",
+        "爆料者称 OpenAI 未来 12 个月排期已定，通常按表推进、能提前就提前，并非刻意压着不发布。",
+        "有网友调侃「今晚你别想碰我的 DRAM」，把内存梗玩成了拒撩包袱。",
+        "献祭梗续集：原本想跟奥特曼要一台 M5 Max MacBook Pro 加一年 GPT，结果反被说服把 8GB M1 Air 献给「大业」。"
       ],
       "quote": {
-        "who": "sui",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "跟亿万富翁聊天感觉怪怪的。 我超想开口要一台 m5 max MacBook Pro，再加一年 GPT，笑死。 结果他成功说服我，为了这事把我那台 8gb m1 air 献祭出去，笑死。"
+        "said": "@sama 亲爱的 Sam， 你的同性恋色情咒语短信对我可没用！ 今晚你别想碰我的 DRAM。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 748万 · 政策与安全] 先喊人类掌舵！奥特曼改名Ram Altman，催着全世界多造内存"
+      "line": "[榜第1位 · 1130万 · 政策与安全] 爆料称奥特曼新模型3天后发：最低档推理碾压Astra顶配"
     },
     {
-      "title": "ChatBLT就是GPT的胖版！一句暗语，拆法还没证实",
-      "summary": "研究员发帖只写了「ChatBLT」，并引用自己此前那句「胖版GPT」。评论立刻分成两派：一派读成Bel Launches Tomorrow，说发布从未这么近；另一派读成Big Large Transformers，说已经能闻到BIG模型。正式版本号和发布说明都没有，两套拆字也都还没被证实。另有人晒出朋友发来的报错图，模型遭拒后进入冷却，提示再等215936秒，差64秒满60小时…",
-      "reads": "89万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
+      "title": "状态更新省99%！Claude Code后台子代理更省了",
+      "summary": "Claude Code 后台子智能体这回真会过日子了：以前每30秒重读整段对话写状态行，现在交给 Haiku 5.5 按短笔记写，单次更新成本直接砍约99%。带后台子智能体的会话整体少耗约5%限额，同额度能多跑约6%的 prompts。子智能体自己的模型没变。目前多数 Pro、Max、Ultra 以及全体 Team、Enterprise 用户已能蹭上，把客户端升到 v2.1.3…",
+      "reads": "47万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "研究员发帖正文只有「ChatBLT」，并引用自己此前说的「胖版GPT」。",
-        "一派把BLT拆成Bel Launches Tomorrow，称发布从未这么近；也有人追问Bel是不是明天上线。",
-        "另一派拆成Big Large Transformers，说已经能闻到这个BIG模型。",
-        "帖文没有正式版本号，也没有发布说明，两套拆字都尚未被证实。"
-      ],
+      "bullets": [],
       "quote": {
         "who": "Dan McAteer",
         "role": "",
-        "said": "ChatBLT Big Large Transformers 我已经能闻到这个 BIG 模型的味了。"
+        "said": "@ClaudeDevs 猜猜谁马上要 background-subagent-maxxing 了？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 89万 · 模型与能力] ChatBLT就是GPT的胖版！一句暗语，拆法还没证实"
+      "line": "[榜第2位 · 47万 · 产品与生态] 状态更新省99%！Claude Code后台子代理更省了"
     },
     {
-      "title": "马斯克觉得太空机房现在就诱人，一句短评，还不是可执行计划",
-      "summary": "埃隆·马斯克发文称，太空数据中心现在看起来相当有吸引力。整句极短，没点名公司、卫星、芯片或模型，也没有参数、金额、时间表和合作方。有媒体账号引用后只回了个大笑，另一条跟帖只说「是时候加速了」，都没补上新事实，也没互相拆台。这是产业重量级人物对轨道算力的公开倾向，还不是一份能执行的计划。",
-      "reads": "647万",
+      "title": "糟糕，Anthropic上市被传取消！一小时后爆料改口延期",
+      "summary": "爆料一出，Anthropic IPO先被直接宣布取消；大约55分钟后，同一来源改口，说不是永久取消，而是这一次先停、上市改期，「看看情况」。他又称Sam更早就取消了，并把原因收窄成民主党近期在打反数据中心、反AI的牌。可Anthropic几天前刚提交过修正案，记者询问后公司仍未回复，取消和延期两种说法到现在都没有官方确认。",
+      "reads": "135万",
       "ago": "9 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "埃隆·马斯克发文称，太空数据中心现在看起来相当有吸引力。",
-        "英文原话是「Data centers in space looking pretty appealing right now」，把轨道算力收成一句当下判断…",
-        "推文全程没有点名具体公司、卫星、芯片或模型。",
-        "没有参数、投资数字、新产品、时间表或合作方。"
+        "有人直接发文称「Anthropic IPO取消」，中文讨论先归因美国选情：共和党可能丢掉参众两院，民主党更反AI和科技。",
+        "约55分钟后同一来源改口，称是改时间，本次取消、并非永久取消，要「看看情况先」。",
+        "该来源称Sam更早已经取消，并把主因收窄为民主党近期打反数据中心、反AI的牌。",
+        "他追问新墨西哥、威斯康星、密歇根是否变蓝，素材里没有给出核查结果。"
       ],
       "quote": {
-        "who": "NIK",
+        "who": "Max For AI",
         "role": "",
-        "said": "是时候加速了"
+        "said": "我确信我和 @theo 听到的是同样消息。。。 但真相是什么谁知道呢，我的记者朋友们询问了 @AnthropicAI 不幸的是和往常一样，他们没有给出任何回复。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 647万 · 资本与算力] 马斯克觉得太空机房现在就诱人，一句短评，还不是可执行计划"
+      "line": "[榜第3位 · 135万 · 资本与算力] 糟糕，Anthropic上市被传取消！一小时后爆料改口延期"
     },
     {
-      "title": "一个词深思拉满！ultrathink只抬这一轮到xhigh",
-      "summary": "Claude Code官方甩出十月回顾：mods上线，桌面端更能并排跑多个会话，额度花到哪也更清楚。消息里打出ultrathink，只把这一轮思考拉到xhigh，不用改整段会话设置，也能直接指定思考强度；长期闲置的会话会在提示词缓存约1小时过期前先压缩，回来只重处理摘要。云端会话趁你还在打字就开始准备环境，diff任意一行可以留言，随下一条消息送出；即便开了绕过权限，极高危rm…",
-      "reads": "76万",
-      "ago": "4 小时前",
+      "title": "OpenAI收购Pierre！Codex看代码、审diff，原厂今天被收了",
+      "summary": "OpenAI官宣将收购开发者工具公司Pierre Computer Company，要把Codex做成团队能和AI一起做软件的地方，从最初的想法一直做到发布版本。你在Codex App里浏览项目文件、查看代码改动，用的就是Pierre已经在支撑Codex的两个开源组件，TreeView和Diff View，作者是amadeus。Pierre还做了Code Storage，团队接…",
+      "reads": "33万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "官方十月回顾确认上线mods，桌面端更适合并排跑多个会话，额度消耗去向更清楚，并让用户去看changelog，说期待11月。",
-        "在消息里输入ultrathink，只把这一轮effort提到xhigh；也可以直接指定思考强度，不必改整段会话设置。",
-        "长期闲置会话会在提示词缓存约1小时过期前压缩，之后回来只重处理摘要，不用重读整场对话，更省额度。",
-        "云端会话在你还打字时就开始准备环境，发出后少等；diff任意一行可留言，随下一条消息发给Claude。"
+        "OpenAI官方宣布将收购开发者工具公司Pierre Computer Company。",
+        "目的是加速把Codex做成团队能和AI一起做软件的地方，覆盖从最初想法到发布版本。",
+        "Pierre的开源开发者工具今天已经在支撑Codex的部分能力，收购金额没有公布。",
+        "Codex App里浏览项目文件、查看代码改动，用的是Pierre的两个开源组件。"
       ],
       "quote": {
-        "who": "Dan McAteer",
+        "who": "宝玉",
         "role": "",
-        "said": "@clementiano_9 @conmanbrew45 不对。 当时拿掉是因为它会造成 cache miss，但上个月又加回来了，因为现在推理力度可以在会话中途改，而且不会造成 cache miss。"
+        "said": "之前分析 Codex 代码就发现 Codex 用的是 Pierre 的开源组件"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 76万 · 产品与生态] 一个词深思拉满！ultrathink只抬这一轮到xhigh"
+      "line": "[榜第4位 · 33万 · 产品与生态] OpenAI收购Pierre！Codex看代码、审diff，原厂今天被收了"
     },
     {
-      "title": "工作电脑做面试题、搜AI工具装假包！币安被黑内幕公开：黑客直插核心权限",
-      "summary": "币安官方正式公开此前黑客攻击的调查细节，攻破顶级防线的不是系统硬伤，而是两名工程师的人为失误。一名员工在搜索AI编程工具时误装了被篡改的Mac常用工具Homebrew，另一名员工则在工作电脑上参加了虚假招聘的恶意编程测试。黑客借此绕过常规边界防御直插内网并渗透核心权限，尽管币安紧急拦截了部分资产，但这次开源工具链与社工钓鱼结合的入侵，直接给全行业敲响了警钟。",
-      "reads": "43万",
-      "ago": "3 小时前",
+      "title": "210万台会接受探测！Linux内核9.8，攻击者已全网开扫",
+      "summary": "Marcus Hutchins称，疑似威胁行为者正在全网扫描暴露于Linux内核漏洞CVE-2026-98432的服务器。这洞CVSS 9.8，是TCP/IP远程代码执行，出在处理传入IPv4的竞态条件；他这边的扫描估计大约210万台会接受相关探测。消息起初说Ubuntu还没补丁，随后更正：修复已经放进-proposed口袋，并附了说明。对外的Linux服务器先核对发行版补丁…",
+      "reads": "17万",
+      "ago": "7 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "事件披露：币安（Binance）官方正式公开此前黑客入侵调查细节，黑客成功绕过常规边界防御并渗透核心权限，币安在发现异常后紧急拦截了部分资产。",
-        "失误源头一：一名工程师在检索AI编程工具时，误下载并安装了被黑客篡改的Mac常用包管理工具Homebrew，导致本地环境被植入后门。",
-        "失误源头二：另一名工程师在公司配发的工作电脑上参加虚假招聘，直接运行了暗藏恶意代码的编程测试题，引狼入室。",
-        "攻击路径：黑客放弃硬碰硬强攻外围防火墙，转而针对开发者的日常开源工具链与求职场景精准下毒，利用受信任的开发机权限横向渗透内网。"
+        "漏洞编号CVE-2026-98432，CVSS 9.8，类型是TCP/IP远程代码执行。",
+        "根子在Linux内核处理传入IPv4数据包时的竞态条件。",
+        "Marcus Hutchins称，疑似威胁行为者已在全网扫描暴露的受影响系统。",
+        "扫描估计约210万台服务器会接受相关探测，不等于已被确认攻破。"
       ],
       "quote": {
         "who": "International Cyber Digest",
         "role": "",
-        "said": "‼️ Mozilla 说 AI 很快就能找出 Firefox 里的每一个安全漏洞。 它发布的安全修复是一年前的7倍多，并且提前用上了 Anthropic 和 OpenAI 的模型。 但它发现一个免费的中国模型 GLM 5.3，已经能利用其中一些修复。"
+        "said": "更正： Ubuntu 发布了一个补丁："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 43万 · 政策与安全] 工作电脑做面试题、搜AI工具装假包！币安被黑内幕公开：黑客直插核心权限"
+      "line": "[榜第5位 · 17万 · 政策与安全] 210万台会接受探测！Linux内核9.8，攻击者已全网开扫"
     },
     {
-      "title": "马斯克喊好！Grok Bot包办比价和订单追踪，付钱还得你点头",
-      "summary": "Grok Bot上线新购物体验，能找最划算的商品、做对比，并由Bot追踪全部订单，马斯克公开说「Grok Bot购物很棒」。有开发者称自己有57个购物Grok Bot正在测试，GrokBot.rocks上「帮我做个Bot」的用户也集中在购物场景。购物接入Shop Pay，覆盖Shopify以外的店铺；没接Shop Pay的商家，用户仍可通过Shop确认商家、购买详情、支付方式和…",
-      "reads": "177万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
+      "title": "一边买断五国员工，Google H-1B却翻倍到2204",
+      "summary": "Google 向 Reuters 确认，自 6 月起已给 Canada、France、Germany、Japan、Switzerland 部分员工抛出自愿离职（买断）方案。可同一财年（截至 9 月 30 日）USCIS 给 Google 的首次 H-1B 批准却从 1050 份翻倍到 2204 份，全行业所有雇主加起来才涨约 11%。有网友点破：Google 和 Microso…",
+      "reads": "3.9万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
       "source": "新智元",
-      "bullets": [
-        "Grok Bot推出新购物体验：找最划算的商品、对比商品，并由Bot追踪全部订单。",
-        "马斯克公开表态「Grok Bot购物很棒」，并引用了上述功能说明。",
-        "一位开发者称，自己有57个负责购物的Grok Bot正在测试，新功能会让体验更完整。",
-        "GrokBot.rocks上「帮我做个Bot」的用户，需求集中在购物场景。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Elon Musk",
+        "who": "LayoffHedge",
         "role": "",
-        "said": "Grok @Bot 购物很棒"
+        "said": "$MSFT 涨 7% $GOOG 涨 4%"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 177万 · 产品与生态] 马斯克喊好！Grok Bot包办比价和订单追踪，付钱还得你点头"
+      "line": "[榜第6位 · 3.9万 · 政策与安全] 一边买断五国员工，Google H-1B却翻倍到2204"
     },
     {
-      "title": "硬件版 Codex 来了！OpenAI 杀入物理工程，一周徒手搓出电路板",
-      "summary": "OpenAI 正式吹响杀入物理工程的号角，宣布 ChatGPT 与 Codex 全面拓展至机械设计、电气工程和物理仿真三大领域，不仅联手马自达探索整车仿真、帮 Chip Ganassi Racing 把 3D 扫描转化为工程 CAD，自家研究员还在一周内让 GPT-6 Astra 独立设计并搓出了带屏幕和电路板的实体伴侣硬件。官方博文更意外泄露下一代模型肌肉：内部未发布模型在…",
-      "reads": "131万",
-      "ago": "12 小时前",
-      "category": "产品与生态",
+      "title": "传GPT-6.2周五杀到！分Astra、Sol、Cyber三方向，内部模型解Navier",
+      "summary": "据 The Information 消息，有人称 OpenAI GPT-6.2 最快本周五（11月6日）就可能发布，一口气铺 Astra、Sol、Cyber 三个方向。爆料的老哥自述现在主用 Opus 5.5 和 6.1 Sol，换别的模型每周额度几分钟就烧光；但比起新 Astra，他更眼红 6.2 Sol——只要 Sol 接近 Astra 水平，使用率能高到连 200 美元套…",
+      "reads": "8.5万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
       "source": "新智元",
-      "bullets": [
-        "AI 杀入物理世界：OpenAI 官方宣布 ChatGPT 与 Codex 正式拓展至机械设计、电气工程与仿真领域，打出「Hardware is the n…",
-        "一周徒手造出实体硬件：OpenAI 研究团队成员 Justin Lin 等人借助 GPT-6 Astra，在不到一周内从零完成了一款 Codex 实体硬件原…",
-        "携手车企推进工业落地：OpenAI 已与马自达（Mazda）展开合作，通过物理仿真探索汽车设计与空气动力学；同时联合 Chip Ganassi Racing…",
-        "未发布内部模型性能大涨：博文披露的 BenchCAD 2.0 基准数据显示，OpenAI 未发布的内部模型（社区推测为 GPT-Aeon 或疑似 GPT-6…"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "🚨OpenAI刚甩出炸裂数据！疑似GPT-6.2 Astra的内部模型，在BenchCAD 2.0上直接把GPT-6 Astra按在地上摩擦！ 🔹GPT-6.2 Astra内部模型平均得分 0.875 🔹GPT-6 Astra最高推理设置仅 0.594 提升接近 47%！更狠的是：内部模型最便宜的设置就已经碾压Astra最贵的满血模式。 BenchCAD"
+        "said": "其实比起 Astra，我更期待 6.2 Sol。 因为要是 Sol 能接近 Astra 那么好，它的使用额度会高得多，高到连 200 美元套餐都很快被刷爆。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 131万 · 产品与生态] 硬件版 Codex 来了！OpenAI 杀入物理工程，一周徒手搓出电路板"
+      "line": "[榜第7位 · 8.5万 · 模型与能力] 传GPT-6.2周五杀到！分Astra、Sol、Cyber三方向，内部模型解Navier"
     },
     {
-      "title": "Hermes Agent的手机版来了！内测名额很快满，手机却跑不了",
-      "summary": "Nous Research在NousCon 2026放出Hermes Mobile beta，也就是Hermes Agent的手机版，名额很快就满了。官方正在给内测腾位置，并把App做成能更广泛发布的版本；候补名单已经开放，研究员隔了几个小时还强调，名单5小时前才刚开。手机本地跑不了这个智能体，要么用portal订阅连Hermes Cloud，要么连自己托管的Hermes，云实…",
-      "reads": "11万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
+      "title": "几百万本盗版书下完！花几千万买书切脊，转头教育所有人",
+      "summary": "一条「be AI company」梗，把前沿模型怎么凑训练数据串成了讽刺链：先爬整个互联网，许可和版权直接无视，几百万本盗版书拿去训练；再花几千万买实体书，切掉书脊、逐页扫描，然后毁掉原件，转头教育所有人。没有点名任何厂商或模型，也没有新的证据、诉讼或官方回应。打的是训练语料的版权和合规叙事，不是谁家模型更强。",
+      "reads": "12万",
+      "ago": "7 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Nous Research在NousCon 2026发布Hermes Mobile beta，官方称名额很快满了。",
-        "官方正在给内测腾出更多位置，并把应用做成可更广泛发布的生产版本。",
-        "研究员宣布Hermes Agent移动端开放候补名单，有名额即可加入。",
-        "名单开放后，研究员对催进度的人强调：候补5小时前才刚开放。"
+        "梗的格式是「be AI company」：你是一家AI公司，再把训练数据做法一条条接下去。",
+        "前半段写的是爬取整个互联网，无视许可和版权，下载几百万本盗版书，用来训练前沿模型。",
+        "后半段写的是花几千万购买实体书，切掉书脊、逐页扫描，再把原件毁掉。",
+        "收尾是转头教育所有人，盗版训练和道德说教被放在同一条链上。"
       ],
       "quote": {
-        "who": "J A Z I I",
+        "who": "Pliny the Liberator 🐉󠅫󠄼󠄿󠅆󠄵󠄐󠅀󠄼󠄹󠄾󠅉󠅭",
         "role": "",
-        "said": "@NousResearch 团队牛 能给我移动端 App 抢先体验吗？"
+        "said": "> 你是一家 AI 公司 > 把整个互联网爬下来 > 无视许可和版权 > 下载几百万本盗版书 > 拿去训练前沿模型 > 花几千万买实体书 > 切掉书脊 > 逐页扫描 > 毁掉原件 > 然后教育所有人"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 11万 · 产品与生态] Hermes Agent的手机版来了！内测名额很快满，手机却跑不了"
+      "line": "[榜第8位 · 12万 · 政策与安全] 几百万本盗版书下完！花几千万买书切脊，转头教育所有人"
     },
     {
-      "title": "翻车了！Anthropic IPO失速，大头营收在对手spacexai",
-      "summary": "有人爆料称，Anthropic的IPO正在失速，因为亏损大到现有营收撑不住。更扎眼的是，营收的大部分据称来自直接竞争对手spacexai，而且对方很快就会切断这笔收入。帖文没给文件，也没有公司回应；同一账号随后补了一句，所说内容都不是投资建议，谁拿去当建议谁自己负责。盯上市的人这下得同时消化巨亏和客户集中度：主要收入来源被说成即将撤单的对手。",
-      "reads": "3.8万",
+      "title": "点几下就搞定！Hermes Agent开集市，插件连接器技能一锅端",
+      "summary": "Nous Research 今天凌晨把 Hermes Agent 的插件、连接器和技能统一塞进了一个 Hermes Marketplace，点几下就能逛着扩展。官方原话：里面「有你的 AI 智能体需要的一切」。以后给 agent 加本领，一个市场就能挑完。",
+      "reads": "4.2万",
       "ago": "3 小时前",
-      "category": "资本与算力",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "爆料称Anthropic的IPO正在失速，亏损大到现有营收无法持续支撑。",
-        "营收的大部分据称来自直接竞争对手spacexai，这是最出乎意料的一点。",
-        "爆料称spacexai很快会切断这笔收入，主要客户被描述为即将撤单。",
-        "帖文没有附上文件，也没有Anthropic或spacexai的公司回应。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "🍓🍓🍓",
+        "who": "Nous Research",
         "role": "",
-        "said": "@Mercurion5d 我这号本身就是个行走的免责声明，说的都不是投资建议，要是有人在这儿当建议听，那是他们自己的事"
+        "said": "Hermes Agent 的插件、连接器和技能现在统一进了一个市场，点几下就能轻松逛和扩展你的 Hermes 体验。 新 Hermes Marketplace 里有你的 AI 智能体所需的一切："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 3.8万 · 资本与算力] 翻车了！Anthropic IPO失速，大头营收在对手spacexai"
+      "line": "[榜第9位 · 4.2万 · 产品与生态] 点几下就搞定！Hermes Agent开集市，插件连接器技能一锅端"
     },
     {
-      "title": "20%对上Google！ChatGPT搜索查询量被OpenAI甩出来了",
-      "summary": "OpenAI放出一个硬数字：经ChatGPT跑的搜索查询量，已经相当于Google的20%。一位记者说，不少圈子里「Ask Chat」已经取代了「Google it」，The Verge随后按同一口径转述了这个比例。年轻千禧一代和Gen Z日常更常说chat，而不是ChatGPT；OpenAI也把chat.com重定向到了ChatGPT。一位研究员干脆问了chat，chat自己…",
-      "reads": "16万",
-      "ago": "8 小时前",
+      "title": "敢让AI代花500刀，要多久？Instinct拿这个测信任",
+      "summary": "Instinct CEO Noah Shinn 给了把很野的信任尺：看用户要熬多久，才敢让它代付超过 500 美元的消费，或者替你订几千美元的行程、而不是自己结账。他说信任就靠这种替代指标来量。架构上更敢想——Instinct 跑在多种模型组合上，图的是十年后还能对一个用户保持直观记忆。另一边 Gavin Baker 也泼了冷水：开源模型要是被监管掐死，垂直 AI 初创就「毫无…",
+      "reads": "2.8万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI表态：通过ChatGPT运行的搜索查询量，已相当于Google搜索查询量的20%。",
-        "不少圈子里，「Ask Chat」已经取代「Google it」。",
-        "The Verge用同一口径转述了这20%的说法。",
-        "年轻千禧一代和Gen Z在日常对话里，更常说chat，而不是ChatGPT。"
+        "Shinn 说信任用「proxies（替代指标）」来量，代付超 500 美元和代订几千刀行程只是其中两项例子。",
+        "Gavin Baker 喊话在场者：每个人都应「反击」开源模型被监管掐死的势头。",
+        "Shinn 解释多模型组合也是为了搭一个「能扩展（scale）」的系统，才扛得住十年记忆。"
       ],
       "quote": {
-        "who": "Tibo",
+        "who": "Fireside Alpha",
         "role": "",
-        "said": "@haydenfield 问了下 chat，它证实了这事"
+        "said": "Noah Shinn 透露 Instinct 是跑在多种模型组合上的，这样它能对一个用户保持直观的记忆，哪怕十年后 「所以我看到随着时间推移多种不同模型组合在一起。我想，跟你之前的问题类似，我觉得在搭一个能扩展的系统，"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 16万 · 产品与生态] 20%对上Google！ChatGPT搜索查询量被OpenAI甩出来了"
+      "line": "[榜第10位 · 2.8万 · 产品与生态] 敢让AI代花500刀，要多久？Instinct拿这个测信任"
     },
     {
-      "title": "15人复刻Jalapeno！Anthropic用Claude加速芯片设计",
-      "summary": "据The Information报道，Anthropic向IPO投资者表示，15人芯片团队已经用Claude加速芯片设计，可能因此比Nvidia、AMD更有优势。OpenAI更早一步：自家AI用9个月做完Jalapeno，Anthropic这支小团队据称在做同类事。按工程师人头收费的SNPS、CDNS就被动了，今年SMH涨约44%，这两只基本走平。SemiAnalysis把34…",
-      "reads": "20万",
-      "ago": "9 小时前",
-      "category": "资本与算力",
+      "title": "不用反向传播了！Fable 5.1手写10万参数模型，准确率暴击传统训练",
+      "summary": "神经网络必须依赖反向传播训练的传统铁律，被 Anthropic 旗舰模型 Fable 5.1 打破了。测试显示，Fable 5.1 独立为一个 10 万参数的法律引用分类器直接生成了物理权重，跳过了常规训练流程。更出乎意料的是，由大模型直接手写权重的模型准确率，彻底碾压了传统反向传播训练出来的版本。开发者指出，权重空间编程正在开启下一代推理期推理的全新高度，大模型在推理期直接接…",
+      "reads": "2.7万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Anthropic向IPO投资者表示：15人芯片团队已用Claude加速芯片设计，可能相对Nvidia、AMD形成优势。",
-        "OpenAI曾用自家AI在9个月内做完Jalapeno；跟进说法是，Anthropic这支小团队正在做同类事。",
-        "SNPS与CDNS按工程师人头收费；今年SMH涨约44%，这两只基本走平。",
-        "SemiAnalysis认为AI会在芯片设计里创造巨大价值，已把34项前沿任务放进GDPx，并称行业仍很早。"
+        "Anthropic 现役旗舰模型 Fable 5.1 被证实具备直接修改与生成模型权重的能力，将「权重空间编程」带入聚光灯下。",
+        "在具体测试中，Fable 5.1 独立为一个 10 万（100k）参数的法律引用分类器直接生成了物理权重。",
+        "性能对比显示，Fable 5.1 直接手写权重的模型准确率彻底碾压了传统反向传播（backprop）训练的模型。",
+        "该实验打破了神经网络必须通过反向传播逐步迭代权重的铁律，证明大模型可以在推理期直接接管并构建小模型。"
       ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "Dan McAteer",
         "role": "",
-        "said": "@rainwaterJay DeepSeek本身的模型在国内也更擅长设计芯片"
+        "said": "@AnthonyMaio 两个字：量子。计算。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 20万 · 资本与算力] 15人复刻Jalapeno！Anthropic用Claude加速芯片设计"
-    },
-    {
-      "title": "误触直接关！单手可达折叠屏版上了iPhone Duo，太容易碰到",
-      "summary": "iOS 27.3 beta 1给iPhone Duo加上了老iPhone那套单手可达Reachability。配图仍是概念图，右侧画着一条垂直控制栏，图上标注为MacRumors爆料，苹果官方没有发公告。同一爆料者随后称，自己已在跑着iOS 27.3的Duo上把功能关掉，因为太容易误触。正在试用27.3的Duo用户现在就能用，但默认触发看起来过于灵敏。",
-      "reads": "3.4万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "iOS 27.3 beta 1为iPhone Duo新增Reachability，也就是单手把顶部内容拉到拇指够得着的位置。",
-        "配图是概念图：iPhone Duo右侧有一条垂直控制栏，并标注为MacRumors爆料。",
-        "这组消息没有苹果官方公告，核心事实来自爆料者的功能通报和实机反馈。",
-        "爆料者称，已在运行iOS 27.3的iPhone Duo上关闭Reachability。"
-      ],
-      "quote": {
-        "who": "Aaron",
-        "role": "",
-        "said": "我把跑着 iOS 27.3 的 iPhone Duo 上的 Reachability 关了 太容易误触了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 3.4万 · 产品与生态] 误触直接关！单手可达折叠屏版上了iPhone Duo，太容易碰到"
+      "line": "[榜第11位 · 2.7万 · 模型与能力] 不用反向传播了！Fable 5.1手写10万参数模型，准确率暴击传统训练"
     },
     {
       "title": "校验都过了还能改，Debian装软件直接拿root！",
       "summary": "Debian上装软件的APT爆出漏洞CVE-2026-109518，问题出在HTTP续传：网络上的攻击者可以在软件包通过校验之后改内容，再以root身份跑代码。APT会把两次不同的下载合并到一起，校验等于被绕过去。同一则apt 3.0.4还修了好几处越界内存bug，其中一处就在检查软件包签名的代码里，Debian的changelog写了这一点。Debian以及靠APT装包的系统…",
-      "reads": "1.8万",
-      "ago": "2 小时前",
+      "reads": "11万",
+      "ago": "9 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -329,83 +283,93 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 1.8万 · 政策与安全] 校验都过了还能改，Debian装软件直接拿root！"
+      "rank": 12,
+      "line": "[榜第12位 · 11万 · 政策与安全] 校验都过了还能改，Debian装软件直接拿root！"
     },
     {
-      "title": "连搜索都给学生关了！谷歌扛不住全美施压：Gemini默认对中小学拉闸",
-      "summary": "面对全美教育界与政界的强烈抗议，Google 官方紧急对 K-12 中小学教育账号政策做出妥协与澄清。官方宣布，Gemini、Gemini Notebook 以及核心的 Google Search 搜索将对基础教育学生账号默认全部关闭，把开启权限彻底交还给校方。与此同时，Google 在搜索中追加了「Guided Learning」（引导式学习）功能用于辅导作业，官方团队更连夜…",
-      "reads": "52万",
-      "ago": "14 小时前",
-      "category": "政策与安全",
+      "title": "突发，OpenAI新一代Sol与Astra或周五袭来！网安版疑似优先防御方",
+      "summary": "据 The Information，OpenAI 可能最早本周五（11月6日）就发布新一代 GPT Sol 与 Astra；可在此之前，外界只飘着 GPT 6.2 Astra 的传闻，且这次发布也可能延期。配图消息称新模型或含网安型号，有爆料者认为大概率先供网络防御方。有网友调侃：能在任一平台用上都是巨大成功，也有人喊「那应该就扣动扳机了」。",
+      "reads": "1.4万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "@MoumeneAftis 不——但如果我们能在任何一个上面用上它，那就已经是巨大成功了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 1.4万 · 模型与能力] 突发，OpenAI新一代Sol与Astra或周五袭来！网安版疑似优先防御方"
+    },
+    {
+      "title": "Anthropic被曝IPO失速，营收大半来自死对头spacexai",
+      "summary": "有人爆料，Anthropic的IPO正在失速，亏损大到现有营收根本撑不住。更扎眼的是，大部分收入据说来自直接竞争对手spacexai，对方很快就会拔掉插头，上市前景等于绑在对手供血上。爆料者随后强调，这些话不是投资建议；另有回复称相关方随时可以反悔。具体亏损数字没有，Anthropic也还没官方回应。",
+      "reads": "6.4万",
+      "ago": "7 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "三大核心服务默认全关：Google 宣布对 K-12 中小学生账号做出重大调整，Gemini、Gemini Notebook 以及核心的 Google Se…",
-        "控制权彻底交还学校：本次调整响应了基础教育机构对自主控制权的要求，后续学校管理员可根据自身教学需要，按需单独开启各项独立服务",
-        "搜索新增 Guided Learning 作业辅导：为缓解 AI 直接替学生写作业的伦理担忧，Google 在 Search 的 AI 功能中加入了「Gui…",
-        "官方连夜找议员和机构灭火：面对 AI 捆绑搜索引发的合规争议，Google 官方团队在社交平台上密集向参议员 Blumenthal、众议员 Casar 以及…"
+        "爆料称Anthropic的IPO正在失速，现有营收撑不住亏损。",
+        "亏损被形容成大到不可持续，但推文没有给出任何具体金额。",
+        "同一爆料称，其大部分收入来自直接竞争对手spacexai。",
+        "spacexai被指很快就会停止供血、拔掉插头。"
       ],
       "quote": {
-        "who": "Wes Roth",
+        "who": "🍓🍓🍓",
         "role": "",
-        "said": "Google明确表示，K–12学生账号将默认关闭Gemini、Gemini Notebook和Search。学校可以单独开启各项服务。 Google还在Search的AI功能中加入了Guided Learning，旨在引导学生完成家庭作业"
+        "said": "@MancerAI_ 他们随时都能反悔"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 52万 · 政策与安全] 连搜索都给学生关了！谷歌扛不住全美施压：Gemini默认对中小学拉闸"
+      "line": "[榜第14位 · 6.4万 · 资本与算力] Anthropic被曝IPO失速，营收大半来自死对头spacexai"
     },
     {
-      "title": "从「不可能更烂」到「巨大飞跃」！苹果折叠屏深夜迎来救命更新",
-      "summary": "苹果首款折叠屏 iPhone Duo 发售后深陷软硬件适配争议，官方火速向开发者推送了首个 iOS 27.3 测试版救场。知名科技记者 Mark Gurman 最初吐槽上一版 iOS 27.2 体验极差、Bug 满天飞，直言「27.3 再差也不可能更烂」，建议受困用户更新一试；而在数小时的实测后，他态度彻底反转并给出「巨大飞跃」的高评价，让深陷舆论的折叠屏迎来关键口碑回暖。",
-      "reads": "35万",
-      "ago": "12 小时前",
+      "title": "服了！Grok Bot能把没人找得到的隐藏优惠券挖出",
+      "summary": "Brian Roemmele 在 X 上甩出个 Grok Bot 购物智能体：能帮你找到任何东西的最低价，还能挖出几乎没人能找到的优惠券和折扣码。他说「有人做了个购物 Grok Bot，挺好」，转头就秀自己的终极版——不仅能找券找折扣，还多了厂商返利这一层。至于打电话帮本地店比价、撑小生意，那是他本人亲自上，不是 Bot 干的活。一句「没它别逛街」，口气比功能还猛。",
+      "reads": "1.4万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "苹果紧急向开发者推送首个 iOS 27.3 测试版，加速优化折叠屏 iPhone Duo 与触屏 MacBook Pro 的软硬件适配问题。",
-        "上一代 iOS 27.2 系统在折叠屏设备上表现极差、Bug 满天飞，成为导致硬件发售后口碑遇冷的主要症结。",
-        "知名科技记者 Mark Gurman 先是公开询问用户更新反馈，直言 27.2 已经烂到底线，称「27.3 再差也不可能更烂」，建议遇到问题的用户尝试更新。",
-        "在亲自上手连续实测数小时后，Gurman 对新版本的态度发生 180 度大反转，直接以「巨大飞跃」（Huge improvement）定性其流畅度与稳定性提…"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Mark Gurman",
+        "who": "Brian Roemmele",
         "role": "",
-        "said": "巨大飞跃"
+        "said": "终极购物 GROK BOT！ 有人做了个购物 Grok Bot。 挺好。 我做的 Grok Bot 能买东西还能找优惠券、折扣和厂商返利！ 我还能通过打电话比价来本地购物、支持本地生意。 没它别逛街"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 35万 · 产品与生态] 从「不可能更烂」到「巨大飞跃」！苹果折叠屏深夜迎来救命更新"
+      "line": "[榜第15位 · 1.4万 · 产品与生态] 服了！Grok Bot能把没人找得到的隐藏优惠券挖出"
     },
     {
-      "title": "终于免费了！Muse这级别视频火了，同级模型还在收钱",
-      "summary": "Muse视频模型这阵子突然火了。有人判断，它在真实场景里的表现已经很猛，走红却主要不是因为新参数或榜单，而是大家第一次能免费用到这个级别，现有同等级模型则仍然很贵。他随后跑了一段成片，评价只有一句「感觉还行」。以往要付费才能试的同级视频生成，现在可以零成本看效果。",
-      "reads": "2.8万",
+      "title": "龙虾第16期开讲，OpenClaw记忆终于出新方法了",
+      "summary": "OpenClaw官方11月5日凌晨3点半（北京时间）在The ClawCast第16期丢出一篇「OpenClaw中记忆的新方法」，专门聊智能体在OpenClaw里怎么存、怎么管记忆。养龙虾的、做Agent的，这集值得翻出来啃。",
+      "reads": "1.2万",
       "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "Muse视频模型近期非常火，真实场景里的生成表现被指已经很强。",
-        "走红主因被判断为免费门槛：这是大家第一次能免费用到这一级别的视频模型。",
-        "现有同等级视频模型仍然很贵，讨论里没有具体价格。",
-        "对比没有点名任何竞品，也没有参数、规格或榜单成绩。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "歸藏(guizang.ai)",
+        "who": "OpenClaw🦞",
         "role": "",
-        "said": "跑了一个我感觉还行"
+        "said": "知识：OpenClaw 中记忆的新方法 | The ClawCast 第16期"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 2.8万 · 产品与生态] 终于免费了！Muse这级别视频火了，同级模型还在收钱"
+      "line": "[榜第16位 · 1.2万 · 产品与生态] 龙虾第16期开讲，OpenClaw记忆终于出新方法了"
     }
   ],
   "board_count": 16,
