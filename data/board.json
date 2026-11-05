@@ -3,40 +3,107 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-05 14:33:19 +0800",
+  "fetched_at": "2026-11-05 23:23:25 +0800",
   "today": "11/05",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "替你打电话比价！Grok 购物智能体把本地店挨个问遍，还追订单",
-      "summary": "马斯克 11 月 4 日下午转发 Grok Bot 的新购物体验，直呼「购物很棒」——Bot 能比价、还能追着你的订单跑。隔天凌晨，一位 KOL 在 Grok Bot 上搓出个「终极购物智能体」模板：帮他在 1TB 的 USB-C 硬盘上省下 $50，而且压根没逛过一个优惠券站。它先把券码亲手实测通过才亮给你，假「已验证」码全扔；还会挨个给本地小店打电话问价、比库存，把报价塞进…",
-      "reads": "247万",
-      "ago": "1 小时前",
+      "title": "马斯克试Grok Bot，网友把OpenClaw、Hermes、Muse全迁了",
+      "summary": "今天下午（北京时间11月5日），马斯克发帖就一句：Try Grok @Bot！顺手转了条网友留言——那人把 OpenClaw、Hermes、Muse 里的东西全搬去了 Grok Bot（Muse 也曾风光过一阵），说它在个人 AI 智能体上 UI/UX/功能全都精准到位、明显胜出，最服气的是迭代速度，让 Grok Bot 一直不掉队，还谢了 Grok Bot 团队。Nous R…",
+      "reads": "231万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "它会按「商品价 + 运费 + 税费 + 杂费」给每个选项排真实最低总价；确认不了某笔费用就直说总价不完整，不瞎猜。",
-        "折扣拆得极细：特价对比原价、门店促销、会员价、包邮门槛、捆绑套餐，每一项都附来源和改价前后确切数字。",
-        "最多把 10 个选项摆进一张对比网格，价格、运费、速度、评分、耐用度、保修并排，带商品卡和图。",
-        "还能盯预售、降价和补货，只在真有动静时才提醒你，不刷屏。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Brian Roemmele",
+        "who": "Nous Research",
         "role": "",
-        "said": "@danks 是的，好问题。直接让它那么做就行。"
+        "said": "@elonmusk @bot 那就把它免费迁到 Hermes 上"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 247万 · 产品与生态] 替你打电话比价！Grok 购物智能体把本地店挨个问遍，还追订单"
+      "line": "[榜第1位 · 231万 · 产品与生态] 马斯克试Grok Bot，网友把OpenClaw、Hermes、Muse全迁了"
+    },
+    {
+      "title": "2万美元悬赏7天！Hermes插件市场开张，连模型都能换",
+      "summary": "Hermes Agent砸2万美元办7天插件黑客松，最狠的是插件能改Hermes自己跑的模型、存的记忆、跑命令的位置。Nous Research刚把插件、连接器、技能全塞进一个Hermes Marketplace，点几下就扩；已有的插件已经能控手机、把照片变可打印3D模型，teknium喊大家把系统逼到极限。",
+      "reads": "52万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "奖池2万美元拆法：冠军1万刀+霓虹灯牌+周边+1000刀额度，亚军5000、季军2500、4/5名1500/1000刀，5个入围仅拿周边+250刀额度（无现…",
+        "投稿截止11月11日美东下午5点（北京12日早6点），需开PR进插件目录、X发90秒内demo视频并填表，入选作品直接进市场供所有用户装。",
+        "评委按实用性、稳定性、完成度、创意打分，更看好「超出prompt或skill能做到」的插件；截止后Nous Research Discord会给每个作品开专…"
+      ],
+      "quote": {
+        "who": "Teknium 🪽",
+        "role": "",
+        "said": "@IBuzovskyi 有多个，但你一次只能用其中一个"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 52万 · 产品与生态] 2万美元悬赏7天！Hermes插件市场开张，连模型都能换"
+    },
+    {
+      "title": "121.3万美元扫内核，948个提权在普通Linux上跑通",
+      "summary": "OpenAI一轮扫Linux内核，API额度花掉1,213,430美元，做出948个不同本地提权，普通Linux开着标准防护能跑通，每个约1,279美元，但得先有本地访问。即将推出的网络模型参与其中，智能体至少找出10种全新利用手法，补丁经人工审核后才报维护者。按Pwn2Own和TyphoonPWN历史费率换算，假设价值1890万到6630万美元，不是进账。",
+      "reads": "49万",
+      "ago": "6 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "入口可以是被盗账号，也可以是一个已经被攻陷的应用。",
+        "流水线会先把安全相关代码找出来，在隔离环境里复现，再测这些洞能不能被利用。",
+        "OpenAI正与Linux维护者、Patch the Planet一起推补丁，打算让攻击贵到不划算。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "OpenAI最新安全研究显示AI怎么让网络攻击更快更便宜。 在一次运行中，一个即将推出的网络模型帮着找到了948个Linux内核漏洞，并构建了可用的利用代码，能让普通用户完全控制一台机器。系统还生成了建议补丁供人类审查。 这些利用代码需要已有的本地访问权限。但这种权限可能来自被盗账号或已被攻陷的应用。 要理解其重要性： 「Linux内核支撑着Android设备、云基础设施、超级计算机以及数十亿人使用的其他系统。凭借超…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 49万 · 政策与安全] 121.3万美元扫内核，948个提权在普通Linux上跑通"
+    },
+    {
+      "title": "ChatGPT Images 2.6上新！GIF能改单帧，Flare最快6秒出图",
+      "summary": "OpenAI 今天给 ChatGPT Images 上了 2.6：图能动了——一句话或一张图直接出 GIF，还能调速度、改单帧；参考图存一次就能反复调用，自家狗都能秒变太空宇航员。开发者侧更狠：API 新上 GPT-Image-2.6 Flare（最快 6 秒出图）和 Sunburst（高质量、跨编辑一致），官方称出图快 50%，Arena 测下来比 2.5 快近 2 倍。榜单…",
+      "reads": "272万",
+      "ago": "11 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Arena 细分：文生图 Sunburst 1409 分排第 2、Flare 1384 分排第 4；图编辑榜 Sunburst 第 3（1476 分）、Fl…",
+        "开发者额外能力：图像标注（image markup）与 SVG 导出，便于把产出接进自己的工作流继续精修。",
+        "据发帖者复盘，这次的 GIF 沿用 1987 年的老格式，文档限 64 帧、无音轨——相当于把此前被砍的 Sora 的 cameo 功能，以静音图片版带了回…"
+      ],
+      "quote": {
+        "who": "Aakash Gupta",
+        "role": "",
+        "said": "OpenAI 三月砍了那个爆火视频 app，因为它一天烧据说 100 万美元。 今天他们偷偷把里面最精华的部分塞回 ChatGPT，所有人都能用，用的还是 1987 年的文件格式。 那 app 叫 Sora。你大概记得去年秋天，真人大搞离谱动作的 AI 视频刷满你时间线。那是 cameo 功能。你录一次脸，Sora 就能把你放进任意视频。它冲上 App Store 第一，比 ChatGPT 还快破百万下载。 到一月它…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 272万 · 产品与生态] ChatGPT Images 2.6上新！GIF能改单帧，Flare最快6秒出图"
     },
     {
       "title": "Jensen说工程师年烧25万AI，Apple财务反手砍到5万",
       "summary": "Mark Gurman曝Apple正削员工AI预算：工程师日限额已从300美元砍到200美元，还计划进一步降到100美元，非工程团队甚至可能压到25美元——而它一边砍一边逼大家多用AI。Jensen Huang三月放话，年薪50万美元的工程师一年该烧25万美元AI，按250个工作日算，Apple这波把人砍到一年约5万刀，刚好是Jensen标准的零头。Artificial Ana…",
-      "reads": "120万",
-      "ago": "1 小时前",
+      "reads": "205万",
+      "ago": "10 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -54,44 +121,87 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 120万 · 资本与算力] Jensen说工程师年烧25万AI，Apple财务反手砍到5万"
+      "rank": 5,
+      "line": "[榜第5位 · 205万 · 资本与算力] Jensen说工程师年烧25万AI，Apple财务反手砍到5万"
     },
     {
-      "title": "6秒出图！ChatGPT Images 2.6让猫狗跳起GIF",
-      "summary": "OpenAI连夜把ChatGPT Images 2.6甩出来了，北京时间今早全档位ChatGPT和Codex都能玩。这次不光能秒出GIF动图——调速、改单帧随便搞，还能存一次参考图，人像宠物角色反复拽进新图。API端跟着上Flare（最快6秒出图）和Sunburst（跨编辑一致），官方号称生成快50%。Arena更狠：比2.5快近2倍，Sunburst文本生图排第2、卡通类第1…",
-      "reads": "167万",
-      "ago": "2 小时前",
+      "title": "dot按进iPhone了！通知里直接回，Action按钮一键开",
+      "summary": "通知里直接回dot、iPhone的Action按钮打开，都进了最新版。团队盯的是明显更快、更稳，从通知点进去的加载也加快了。iOS上任何内容都能直接分享给自己的dot，Gmail链接会深跳到Gmail里那封具体邮件。已经有人追问，欧洲的dot啥时候能用。",
+      "reads": "34万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "Arena Image Edit榜单：Sunburst(Medium)排第3得1476分，Flare(Medium)第5得1462分。",
-        "API新模型支持图像标注和SVG导出，方便打磨成品。",
-        "官方演示配图：戴雏菊帽抬爪黑猫、双脚站立白公鸡、宠物狗Wilson太空宇航员自拍。",
-        "有网友调侃：对手卷编程和对齐，OpenAI甩出跳舞猫，广度真独一份。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Aakash Gupta",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "OpenAI 三月砍了那个爆火视频 app，因为它一天烧据说 100 万美元。 今天他们偷偷把里面最精华的部分塞回 ChatGPT，所有人都能用，用的还是 1987 年的文件格式。 那 app 叫 Sora。你大概记得去年秋天，真人大搞离谱动作的 AI 视频刷满你时间线。那是 cameo 功能。你录一次脸，Sora 就能把你放进任意视频。它冲上 App Store 第一，比 ChatGPT 还快破百万下载。 到一月它…"
+        "said": "@thsottiaux @AlphaMFPEFM 欧洲那边的dot啥时候能上线？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 167万 · 产品与生态] 6秒出图！ChatGPT Images 2.6让猫狗跳起GIF"
+      "rank": 6,
+      "line": "[榜第6位 · 34万 · 产品与生态] dot按进iPhone了！通知里直接回，Action按钮一键开"
     },
     {
-      "title": "马斯克畅想信号无处不在！星链地面一体网，2027上路",
-      "summary": "马斯克在X上甩出一句「终于要有一张到处信号都好的网络了」，转的是Starlink Mobile的声明：正打造美国首个一体化全国卫星加地面网络，手机不管在哪都能连着，5G基站从2027年起用Qualcomm芯片加速铺开。网友没接技术茬，反倒催更太空激光传送。次日KOL的电台节目单里排了「The Elon Hour: One Network Everywhere」，再加一句「该调频…",
-      "reads": "165万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "title": "34小时出首版！Claude帮画出细菌里40年谜题蛋白桶",
+      "summary": "Anthropic今晨发推：生物团队拉着Claude，第一次在细菌（和感染菌的病毒）里拼出了vault颗粒的3D结构——这桶状巨型蛋白1986年人体细胞里被发现，功能成谜，此前只在动植物见过。手动定结构要几周到几个月，这次几天搞定，解结构34小时出首版；分离颗粒从约3天压到90分钟。Claude也翻车：培养基加错添加剂让项目退两周，电镜跳步把结构和镜像叠一块。团队和ML研究员上…",
+      "reads": "72万",
+      "ago": "7 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "北京时间11月4日23:04（原帖UTC 15:04），马斯克发推畅想；11月5日11:46前后KOL发出节目单与哲学帖。"
+        "配图尺寸：人类vault长67.1宽40.1纳米，噬菌体vault长54.5宽47.5纳米，后者更矮胖但内部空间大25%",
+        "Claude在约150亿条预测蛋白序列中搜同类，覆盖29个细菌门和4个古菌门，占比不足1%",
+        "挑44候选造出15种蛋白，7种拼成颗粒，冷冻电镜确认4种（2噬2菌）；噬菌体L05由96个相同蛋白组，上下各48",
+        "改造实验：改接触点一处桶变敞开花环；复制墙砖段从7到9，内部空间再增约20%，暗示进化线索"
       ],
+      "quote": {
+        "who": "宝玉",
+        "role": "",
+        "said": "40 年前在人体细胞里发现的巨型蛋白“桶”，至今没人知道它干什么用。Anthropic 用 Claude 在细菌里找到了它的同类 科学家 40 年前就在我们的细胞里发现了一种巨大的空心蛋白“桶”，叫穹窿体（vault），到现在还不知道它是干什么的。 Anthropic 生物研究团队 11 月 4 日发文，介绍他们用 Claude 研究穹窿体的进展： • 第一次证明细菌和噬菌体（专门感染细菌的病毒）里的同类蛋白也能拼成…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 72万 · 模型与能力] 34小时出首版！Claude帮画出细菌里40年谜题蛋白桶"
+    },
+    {
+      "title": "99%概率！Astra强于Fable 5.1，但赢Opus 5.5仅72%",
+      "summary": "Epoch AI把能力指数ECI改成了贝叶斯算法，最强模型排位几乎没动——Astra强于Fable 5.1的概率99%，压过Opus 5.5却只有72%。最弱那批模型去掉正则化后平均掉了14个ECI点，直接现原形。有网友嘴瓢把Astra写成6.2、还猜它冲173 ECI，转头就改口：就是Astra 6。",
+      "reads": "12万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "推理与非推理模型间的趋势断裂仍在，两条趋势每年略陡1-2个ECI",
+        "贝叶斯更新还引入基准测试特定的噪声项，完整报告已放出",
+        "最弱模型指弱于GPT-4、ECI低于125的那批；旧正则化曾把所有模型往均值拽",
+        "改用贝叶斯后，即便各家ECI不确定性区间重叠，也能直接比出谁强"
+      ],
+      "quote": {
+        "who": "Haider.",
+        "role": "",
+        "said": "@shzhv13 已经改好了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 12万 · 模型与能力] 99%概率！Astra强于Fable 5.1，但赢Opus 5.5仅72%"
+    },
+    {
+      "title": "马斯克转发星链：2027起全美到处满信号",
+      "summary": "昨夜马斯克转了星链一条官宣：Starlink Mobile 要建美国第一个卫星加地面完全一体化的全国网，手机到哪都连着。5G 基站从 2027 年起用高通芯片加速铺开，老马原话「终于要有一张到处信号都好的网络了」。底下已经有网友催他赶紧上太空激光把人传送上去。",
+      "reads": "165万",
+      "ago": "11 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
       "quote": {
         "who": "Brian Roemmele",
         "role": "",
@@ -101,62 +211,34 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 165万 · 产品与生态] 马斯克畅想信号无处不在！星链地面一体网，2027上路"
+      "rank": 9,
+      "line": "[榜第9位 · 165万 · 产品与生态] 马斯克转发星链：2027起全美到处满信号"
     },
     {
-      "title": "网友爆料：Claude 34小时干完数周活，撬开40年谜题一角",
-      "summary": "Anthropic晒出生物团队拉着Claude搞出的新成果：细菌界第一个vault颗粒的3D结构。vault是1986年发现、功能到现在都没搞明白的桶状大蛋白，以前只在动植物细胞里见过长啥样，这次连细菌（还有感染它们的病毒）都能组装了。官方说手动建模得几周甚至几个月，Claude几天就跑完，但途中也犯过低级错误，得机器学习团队兜底擦屁股。配图里人类vault是67.1×40.1…",
-      "reads": "43万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "vault是细胞里已知最大的蛋白结构之一，桶状，1986年由Leonard Rome和Nancy Kedersha首次发现。",
-        "Anthropic认为在细菌等更简单生命形式里发现vault，反而更方便研究它在人体细胞里的功能。"
-      ],
-      "quote": {
-        "who": "Derya Unutmaz, MD",
-        "role": "",
-        "said": "这是用 Claude 做的关于神秘 vaults 的很酷的生物研究。 GIF 来自 ChatGPT Image 2.6。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 43万 · 模型与能力] 网友爆料：Claude 34小时干完数周活，撬开40年谜题一角"
-    },
-    {
-      "title": "2万美元悬赏！Hermes插件市场开张，照片变可打印3D还能控手机",
-      "summary": "Nous Research把Hermes Agent的插件、连接器、技能全塞进一个Hermes Marketplace，点几下就能装。紧接着7天插件黑客松开跑，奖池2万美元现金：头奖1万刀加霓虹灯牌和1000刀额度，共10个获奖名额。插件狠到能改Hermes底模、记忆存放地、跑命令的位置甚至桌面显示，现有插件已经能控手机、把照片转成可打印3D模型。有研究员转发喊大家把插件系统极…",
-      "reads": "37万",
-      "ago": "2 小时前",
+      "title": "状态更新省99%！Claude Code后台子代理更省了",
+      "summary": "Claude Code 后台子智能体这回真会过日子了：以前每30秒重读整段对话写状态行，现在交给 Haiku 5.5 按短笔记写，单次更新成本直接砍约99%。带后台子智能体的会话整体少耗约5%限额，同额度能多跑约6%的 prompts。子智能体自己的模型没变。目前多数 Pro、Max、Ultra 以及全体 Team、Enterprise 用户已能蹭上，把客户端升到 v2.1.3…",
+      "reads": "191万",
+      "ago": "18 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "奖项分层：冠军1万刀，亚军5千，季军2500，第四1500，第五1000，另5名入围各得周边+250刀额度，多带霓虹灯牌或 merch。",
-        "评委打分看实用性、可靠性、完成度和创意，明确偏爱「超出单个prompt或skill能力」的插件。",
-        "demo视频须90秒内展示插件真实运行，发布在X并@NousResearch。",
-        "入选插件会直接上架新Hermes Marketplace，全体Hermes用户一键安装。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Teknium 🪽",
+        "who": "Dan McAteer",
         "role": "",
-        "said": "@NousResearch 是时候开搞了 🧑‍🍳"
+        "said": "@ClaudeDevs 猜猜谁马上要 background-subagent-maxxing 了？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 37万 · 产品与生态] 2万美元悬赏！Hermes插件市场开张，照片变可打印3D还能控手机"
+      "rank": 10,
+      "line": "[榜第10位 · 191万 · 产品与生态] 状态更新省99%！Claude Code后台子代理更省了"
     },
     {
       "title": "Tibo 迎 Cat 加入 OpenAI 管产品，猫头像被催换",
       "summary": "今早8点半，Cat 发推说要去 OpenAI 管 Core Products 了，Tibo 立马转发喊「超兴奋很快一起搞事」。Cat 原话里猛夸 OpenAI 把 AI 带给了超十亿人，还放话带团队造「罩着你和你团队」的智能体，把你留驾驶位。结果画风突转，有网友直接点名 Tibo 和另一人：现在就把头像换成猫。猫头像梗瞬间立住。",
-      "reads": "44万",
-      "ago": "5 小时前",
+      "reads": "63万",
+      "ago": "14 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -171,34 +253,34 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 44万 · 组织与人事] Tibo 迎 Cat 加入 OpenAI 管产品，猫头像被催换"
+      "rank": 11,
+      "line": "[榜第11位 · 63万 · 组织与人事] Tibo 迎 Cat 加入 OpenAI 管产品，猫头像被催换"
     },
     {
-      "title": "状态更新省99%！Claude Code后台子代理更省了",
-      "summary": "Claude Code 后台子智能体这回真会过日子了：以前每30秒重读整段对话写状态行，现在交给 Haiku 5.5 按短笔记写，单次更新成本直接砍约99%。带后台子智能体的会话整体少耗约5%限额，同额度能多跑约6%的 prompts。子智能体自己的模型没变。目前多数 Pro、Max、Ultra 以及全体 Team、Enterprise 用户已能蹭上，把客户端升到 v2.1.3…",
-      "reads": "130万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
+      "title": "GPT-6.2 Sol与Astra登云，又被曝已撤，发布或延至周五",
+      "summary": "GPT-6.2 Sol与Astra被网友称已部署Google云，按圈内经验这意味着发布临近，原帖大胆预计北京时间11月5日下午就能见分晓。结果不到一小时，另一爆料直接说部署已移除，发布或许要等到周五。云上来了又走，正主连官宣都没影，这波反转比模型本身还热闹。",
+      "reads": "5.2万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Dan McAteer",
+        "who": "Nav Toor",
         "role": "",
-        "said": "@ClaudeDevs 猜猜谁马上要 background-subagent-maxxing 了？"
+        "said": "@kimmonismus 它有什么是6.1做不到的"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 130万 · 产品与生态] 状态更新省99%！Claude Code后台子代理更省了"
+      "rank": 12,
+      "line": "[榜第12位 · 5.2万 · 模型与能力] GPT-6.2 Sol与Astra登云，又被曝已撤，发布或延至周五"
     },
     {
       "title": "GPT图像2.6双模杀到！Sunburst登顶，Flare快2.6倍",
       "summary": "OpenAI 今天把 GPT-Image-2.6 扔进 Codex 和 API 了，Flare 和 Sunburst 两款一起上。官方说整体出图比以前快一半，Flare 低画质最快 6 秒一张；Image Arena 榜单上 Sunburst 把前代 2.5 Sunburst 挤下第一，Flare 在细分品类（人像、建筑、排版）拿了第一，速度分别是前代的 2.6 倍和 1.15…",
-      "reads": "34万",
-      "ago": "6 小时前",
+      "reads": "47万",
+      "ago": "15 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -216,14 +298,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 34万 · 产品与生态] GPT图像2.6双模杀到！Sunburst登顶，Flare快2.6倍"
+      "rank": 13,
+      "line": "[榜第13位 · 47万 · 产品与生态] GPT图像2.6双模杀到！Sunburst登顶，Flare快2.6倍"
     },
     {
       "title": "OpenAI收购Pierre！Codex要从想法一路管到上线",
       "summary": "11月4日北京时间当晚，OpenAI宣布收购开发者工具公司Pierre Computer。最妙的是，你在Codex App里翻项目文件、看代码改动的TreeView和DiffView，本就是Pierre的开源组件Trees和Diffs在撑——早就在用人家的开源，这下直接连公司买走。 为啥现在买？AI写码越来越快、还能多路并行，人要审的改动量暴涨，看代码、审代码成了新瓶颈。Ope…",
-      "reads": "44万",
-      "ago": "7 小时前",
+      "reads": "52万",
+      "ago": "16 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -241,34 +323,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 44万 · 产品与生态] OpenAI收购Pierre！Codex要从想法一路管到上线"
-    },
-    {
-      "title": "121万美元狂扫1724漏洞！OpenAI智能体发现10种新利用",
-      "summary": "北京今天早间，OpenAI悄摸连发好几条推，亮出一套安全流水线：自动找安全代码、扫漏洞、隔离复现、生成候选补丁，人工审核后报维护者。一轮跑下来烧了1,213,430美元API额度，平均每个不同本地提权漏洞约1,279美元，复现1,724个漏洞，搞出291个信息泄露PoC和948个能在标准Linux桌面上打的提权利用。最吓人的是智能体自己琢磨出至少10种专家都没见过的全新Linu…",
-      "reads": "27万",
-      "ago": "6 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "@OpenAI 「即将到来的网络模型」👀👀👀"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 27万 · 政策与安全] 121万美元狂扫1724漏洞！OpenAI智能体发现10种新利用"
+      "rank": 14,
+      "line": "[榜第14位 · 52万 · 产品与生态] OpenAI收购Pierre！Codex要从想法一路管到上线"
     },
     {
       "title": "微软Q3资本开支比计划少50亿！部分因IREN延误",
       "summary": "据 The Information、由 SemiAnalysis 转述：微软 Q3 资本开支比计划少了 50 亿美元，部分就卡在 IREN 的延误上。最绝的是，SemiAnalysis 说跟算力云客户聊起 IREN，十次有八次都不是好消息——多日断电、网络升级翻车、存储故障、空气质控把链路搞到闪断，XIDs 满天飞，直接被用户评为业内最差站点 No.1。SemiAnalysis…",
-      "reads": "17万",
-      "ago": "5 小时前",
+      "reads": "29万",
+      "ago": "15 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [],
@@ -281,101 +343,28 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 17万 · 资本与算力] 微软Q3资本开支比计划少50亿！部分因IREN延误"
+      "rank": 15,
+      "line": "[榜第15位 · 29万 · 资本与算力] 微软Q3资本开支比计划少50亿！部分因IREN延误"
     },
     {
-      "title": "老马一句太空机房挺诱人，网友：加速！",
-      "summary": "老马刚甩出一句：太空数据中心现在挺有吸引力的。一家媒体转手就笑转了，还有网友跟帖喊「是时候加速了」。",
-      "reads": "1057万",
-      "ago": "23 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "马斯克原推发于北京时间2026-11-04 14:12，原文「Data centers in space looking pretty appealing…",
-        "媒体转推仅附😂表情与链接，未另加评论。",
-        "网友跟帖原文「time to ACCELERATE」，引用同一推文呼吁加速。"
-      ],
-      "quote": {
-        "who": "NIK",
-        "role": "",
-        "said": "是时候加速了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 1057万 · 资本与算力] 老马一句太空机房挺诱人，网友：加速！"
-    },
-    {
-      "title": "龙虾第16期开讲，OpenClaw记忆终于出新方法了",
-      "summary": "OpenClaw官方11月5日凌晨3点半（北京时间）在The ClawCast第16期丢出一篇「OpenClaw中记忆的新方法」，专门聊智能体在OpenClaw里怎么存、怎么管记忆。养龙虾的、做Agent的，这集值得翻出来啃。",
-      "reads": "3.0万",
-      "ago": "3 小时前",
+      "title": "iOS 27.3起扫iCloud公开链接，有害或删内容禁账户",
+      "summary": "iOS 27.3开始，Apple要扫一遍你用「任何有链接的人」公开分享的iCloud项目了，每张照片和文件都过一遍有害内容检测，命中可能删内容或禁账户。支持文档还补刀：这种共享就算开Advanced Data Protection也不是端到端加密。最迷的是，啥算有害Apple没给定义，只说必要时或拉执法部门进场。",
+      "reads": "12万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "OpenClaw🦞",
-        "role": "",
-        "said": "知识：OpenClaw 中记忆的新方法 @hrudolph 和 @Pat_Erichsen 欢迎 @jlehman_ 回来演示 Scribes、整合以及超越聊天记录的智能体记忆。 The ClawCast 第 16 集："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 3.0万 · 产品与生态] 龙虾第16期开讲，OpenClaw记忆终于出新方法了"
-    },
-    {
-      "title": "265M人白用Canva，31M付费，11月4日1271人走人",
-      "summary": "Canva在11月4日裁了1271人。算笔直白的账：2.65亿月活只有3100万付费，今年4月上的Canva AI 2.0把AI用量干到三倍、7500万人在用，可每次「帮我做个海报」都实打实烧算力，免费用户也不例外。联合创始人跟Forbes说「非常大方的免费AI产品代价巨大」；重构后单任务成本砍了90%，但用量也翻三倍，账单还是实打实的。季度营收9.219亿美元涨25%却低于计…",
-      "reads": "16万",
-      "ago": "12 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "重组动作落槌：「产品、增长、平台」三团队合成一个，砍掉若干管理层级，更多工作转去悉尼。",
-        "旧freemium剧本悄悄假设免费用户成本近乎零，AI每次生成都要实打实算力，这个前提被直接掀翻。",
-        "发帖者自曝曾在Apollo管产品、同样吃巨大免费层，称多数免费APP还在算同一笔账、只是没发那封邮件。"
-      ],
-      "quote": {
-        "who": "Aakash Gupta",
-        "role": "",
-        "said": "@MiclauMarius 主要是免费这边，因为现在每次免费的 AI 生成都要实打实的算力。The Information 还报道说有人跳过 Canva，直接找 ChatGPT 出设计。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 16万 · 资本与算力] 265M人白用Canva，31M付费，11月4日1271人走人"
-    },
-    {
-      "title": "210万台会接受探测！Linux内核9.8，攻击者已全网开扫",
-      "summary": "Marcus Hutchins称，疑似威胁行为者正在全网扫描暴露于Linux内核漏洞CVE-2026-98432的服务器。这洞CVSS 9.8，是TCP/IP远程代码执行，出在处理传入IPv4的竞态条件；他这边的扫描估计大约210万台会接受相关探测。消息起初说Ubuntu还没补丁，随后更正：修复已经放进-proposed口袋，并附了说明。对外的Linux服务器先核对发行版补丁…",
-      "reads": "21万",
-      "ago": "14 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "漏洞编号CVE-2026-98432，CVSS 9.8，类型是TCP/IP远程代码执行。",
-        "根子在Linux内核处理传入IPv4数据包时的竞态条件。",
-        "Marcus Hutchins称，疑似威胁行为者已在全网扫描暴露的受影响系统。",
-        "扫描估计约210万台服务器会接受相关探测，不等于已被确认攻破。"
-      ],
-      "quote": {
         "who": "International Cyber Digest",
         "role": "",
-        "said": "更正： Ubuntu 发布了一个补丁："
+        "said": "‼️ Apple 会检查通过公开 iCloud 链接分享的每张照片和文件有没有有害内容，还能禁用背后的账号。 从 iOS 27.3 起，Apple 可能删除被标记项目，并「如有必要」叫执法部门。 它没说啥算有害。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 21万 · 政策与安全] 210万台会接受探测！Linux内核9.8，攻击者已全网开扫"
+      "line": "[榜第16位 · 12万 · 产品与生态] iOS 27.3起扫iCloud公开链接，有害或删内容禁账户"
     }
   ],
   "board_count": 16,
