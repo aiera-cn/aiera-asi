@@ -3,64 +3,82 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-06 10:18:17 +0800",
+  "fetched_at": "2026-11-06 18:43:56 +0800",
   "today": "11/06",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "微软申请AI直播改词专利！嘴型跟着重调，每人看到不同版直播",
-      "summary": "微软申请了一项AI专利，能在直播里删词换词，还把说话人的嘴型重调得和新音频严丝合缝。每位观众可自设过滤器，比如屏蔽脏话，原始录像则可能留档。眼下只是申请，未必真上线——但一位分析师已经担心，AI造假会把真相变成要花钱买的东西。",
-      "reads": "327万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "title": "10天948个Linux提权利用！GPT-6 Cyber越界率0.07%",
+      "summary": "OpenAI凌晨上线GPT-6 Cyber，专给授权红队找漏洞。这模型10天写出948个Linux提权利用，越界率压到0.07%，前代可是5.51%；还揪出81个没人知道的Firefox高危漏洞。目前只放给Daybreak Red客户，平民摸不到，11月12日还有 Cyber 直播接着放料。",
+      "reads": "381万",
+      "ago": "4 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "微软把这套AI的用途说成直播翻译和修正口误，能力上却能删除或替换词语。",
-        "有分析师指出，市场靠单个词波动——美联储暗示降息或CEO说错指引，股价几秒就动。",
-        "有分析师认为，直播电视是少数人们还默认看到即发生的地方，定制剪辑版会抹掉这层信任。"
+        "OpenAI称该模型驱动了前日Linux内核研究，Mozilla、Palo Alto Networks、Cisco及自家安全团队已用上。",
+        "真实软件测试中确认1724个Linux内核bug，其中948个写出可用攻击，同测GPT-5.6 Sol仅166。",
+        "因攻击力过强，OpenAI将其定级Preparedness Framework最高网络风险「Critical」。",
+        "同步扩大面向GPT-6 Astra的Daybreak Blue alpha，开放给更多组织与独立研究者。"
       ],
       "quote": {
-        "who": "Hedgie",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "🦔Microsoft提交了一项AI专利申请，该AI能在直播中更改人们说的话。系统可删除或替换词语，然后调整说话者的嘴部，使视频仍与新音频匹配。Microsoft将其定位用于直播翻译和修正口误，并表示每位观众可设置自己的过滤器，比如屏蔽脏话。它也可能保留原始录像存档。目前还只是申请，所以可能永远都不会发布。 我的看法 我会把这玩意儿留在专利抽屉里。直播电视是少数人们还默认看到的就是发生的事的地方，而一个给每位观众提供各…"
+        "said": "@thsottiaux 啥意思你住地下室？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 327万 · 产品与生态] 微软申请AI直播改词专利！嘴型跟着重调，每人看到不同版直播"
+      "line": "[榜第1位 · 381万 · 政策与安全] 10天948个Linux提权利用！GPT-6 Cyber越界率0.07%"
     },
     {
-      "title": "10天写出948个Linux内核漏洞利用，OpenAI GPT-6 Cyber来了",
-      "summary": "OpenAI 上新了专挖漏洞的模型 GPT-6 Cyber：10 天给 Linux 内核 948 个提权漏洞写出可用利用代码，还从 Firefox 里揪出 81 个未知高危洞。可这玩意只向获批的 Daybreak Red 客户开放，普通人摸都摸不到——平民用不上是真，红队专属玩具。",
-      "reads": "230万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
+      "title": "每周40亿张图！OpenAI上新ChatGPT Images 2.6",
+      "summary": "OpenAI把ChatGPT Images 2.6端上来了，一位研究员顺手甩出个离谱数：现在每周通过ChatGPT和API生成的图超40亿张，8周前才刚过30亿，折算每天超5亿张。新版本事在GIF和参考图，出图快50%是API里两个还在路上的新模型，跟2.6本身无关。",
+      "reads": "53万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "该模型驱动了 OpenAI 昨日公布的 Linux 内核研究，Mozilla、Palo Alto Networks、Cisco 及 OpenAI 自家安全团…",
-        "Greg Brockman 同时上线 Daybreak Red for Critical Infrastructure，获批的关键基础设施防御者可对关键系统…",
-        "ExploitGym 评测里 GPT-6 Cyber 越界率仅 0.07%，GPT-5.6 为 5.51%——专门训练模型「待在操作员指定范围内」。",
-        "研究员 Tibo 称这个最新网络专用模型「在许多网络用例上独一档」，经 Daybreak Red 可用。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "MTS",
+        "who": "Brian Roemmele",
         "role": "",
-        "said": "情况详解：OpenAI 的 GPT-6 Cyber 利用了 948 个 Linux 漏洞，搞出 Linux 专家说从没见过的黑客技术。 • 它发现了 81 个此前未知的高危 Firefox 漏洞，Mozilla 已经开始发布修复 • 它利用的 948 个 Linux 内核漏洞里，588 个以前从没被发现过 • 抽样的 166 个利用中，10 个用了内核专家说是新招数的技术，有些能让本地攻击者拿到 root • 在蜜罐…"
+        "said": "Grandma Moses 在 77 岁成了艺术圈爆红人物 Anna Mary Robertson Moses 因关节炎让刺绣太痛而转向绘画。那时她快八十了。1860 年 9 月 7 日生于纽约 Greenwich 一座农场，十二岁离家家当雇工。1887 年嫁与 Thomas Salmon Moses，十孩中养大五名活过婴儿期的，先在弗吉尼亚 Shenandoah Valley farming，后近纽约 Eagle…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 230万 · 模型与能力] 10天写出948个Linux内核漏洞利用，OpenAI GPT-6 Cyber来了"
+      "line": "[榜第2位 · 53万 · 产品与生态] 每周40亿张图！OpenAI上新ChatGPT Images 2.6"
+    },
+    {
+      "title": "人类写安全基建菜！有人拿GPT-6 Sol+Luna造Daybreak修bug",
+      "summary": "一名研究员笃定放话：人类写安全基础设施本来就不行，数千万行代码的形式化证明都已不算离谱，软件算是被永远改写了。另一名研究员紧接着说，正为保这种基础设施才搞出Daybreak——blue用GPT-6 Sol和Luna帮你找bug修bug，red拿GPT-5.6 Cyber帮团队测漏洞利用，入选的Red队还能领到GPT-6 Cyber。人人可用超安全基建前，湍流免不了。",
+      "reads": "63万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Daybreak 红队席位已开放申请，想拿 GPT-6 Cyber 须先主动投递申请。"
+      ],
+      "quote": {
+        "who": "Vaibhav (VB) Srivastav",
+        "role": "",
+        "said": "如果你就是 Tibo 提到的那个在保障基础设施安全的人，这就是我们打造 Daybreak 的原因 ＞ blue 帮你用 GPT-6 Sol 和 Luna 查找并修复 bug ＞ red 帮团队用 GPT-5.6 Cyber 测试漏洞利用 入选的 Red 团队还能拿到 GPT-6 Cyber 在这里申请："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 63万 · 产品与生态] 人类写安全基建菜！有人拿GPT-6 Sol+Luna造Daybreak修bug"
     },
     {
       "title": "Claude半夜上新个人理财，只读连16家银行，比ChatGPT晚半年范围更窄",
       "summary": "Claude半夜（北京时间11月6日凌晨）在美国Pro、Max、Ultra套餐灰度个人理财，连银行账户用大白话答收支。它通过Plaid只读接入最多16家银行、拉24个月流水，但碰不了钱、不给投资建议、也没广告。比起OpenAI 5月15日就上的ChatGPT Finances，Claude晚了大半年，还只看日常花销、看不到持仓，范围明显收得更窄。有KOL吐槽仅限美国，简直是欧洲…",
-      "reads": "362万",
-      "ago": "3 小时前",
+      "reads": "599万",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -78,64 +96,130 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 362万 · 产品与生态] Claude半夜上新个人理财，只读连16家银行，比ChatGPT晚半年范围更窄"
-    },
-    {
-      "title": "马斯克喊所有人都在用 Grok Bot！顺手转了口袋版 GrokPuck 滑屏切",
-      "summary": "马斯克 11 月 5 日下午称所有人都在用 Grok Bot，顺手转了有网友做的 GrokPuck——口袋里塞块屏，滑一下 bot 就换。KOL Ole Lehmann 6 日凌晨则点评一枚 Aina 戒指：把 Grok Bot、dots、Muse 主动式特性搬上手指，拇指一拨订好 Uber，预购已开。不过 Ole 自己也说，真没人知道会不会有人愿意天天戴这玩意。",
-      "reads": "3567万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Aina 戒指屏幕会预测并显示你接下来最需要的「三样东西」，拇指一拨搞定，全程不掏手机。",
-        "功能拆解：主动建议 Cues、语音记笔记 dictation、遥控音乐与 Mac/电视、直接在手上通话。",
-        "Ole 原话吐槽：订个 Uber 真不需要手里攥个全套多巴胺赌场——一整块屏对很多事已过剩。",
-        "场景示例：常 9 点出门则 8:55 Uber 已在屏上，一拨订好；迟到「let everyone know」弹窗一拨群发。"
-      ],
-      "quote": {
-        "who": "Ole Lehmann",
-        "role": "",
-        "said": "说实话，看到初创公司又在硬件上敢想敢干了挺酷的。 我觉得 AI 让一件事特别明显：一整块屏幕现在对很多事来说都过剩了 这枚戒指把 Grok Bot、dots、Muse 这些的主动式特性搬到手指上，你都不用掏手机 比如： > 现在 8:55，你总是 9 点出门，所以常用的 Uber 已经显示在屏幕上了。拇指一拨就订好了 > 你开会要迟到了，所以「let everyone know」弹出来。一拨他们就知道了 > 你正走去…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 3567万 · 产品与生态] 马斯克喊所有人都在用 Grok Bot！顺手转了口袋版 GrokPuck 滑屏切"
+      "line": "[榜第4位 · 599万 · 产品与生态] Claude半夜上新个人理财，只读连16家银行，比ChatGPT晚半年范围更窄"
     },
     {
-      "title": "谷歌150亿加注马来！2019新加坡一冻，马来吃下东南亚半数在建数据中心",
-      "summary": "谷歌昨天下午被曝往马来西亚砸150亿美元建数据中心，2027和2028陆续落地，外加2024年承诺的20亿首座。这接的是2019年新加坡喊停后外溢的盘——柔佛从10MW涨到近500MW在运，马来吃下东南亚半数在建机房。美国上半年刚卡掉1980亿，够买13个马来盘。",
-      "reads": "283万",
-      "ago": "8 小时前",
-      "category": "资本与算力",
+      "title": "传GPT 6.2 astra今日要来，Tibo地下室满是奇妙东西引全网猜",
+      "summary": "有爆料称若消息靠谱今天就能看到GPT 6.2 astra，配图Codex命令栏也输着「gpt-6.2-astra xhigh」，但目前都只是传闻。Tibo一句「地下室满是奇妙东西」被网友当藏模型暗号，笑称连在他地下室里都「挖出」了它，比官宣还吓人。",
+      "reads": "9.5万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "柔佛2025近500MW在运外，还有1.7GW在建或已签约；运营商称马来审批比印尼巴淡更快，所以先开工。",
-        "美国上半年卡掉1980亿的细节：Q1约1300亿（75个项目）、Q2约680亿（45个），超半数新建被拦。",
-        "全美49州冒出843个反数据中心团体（仅夏威夷没有），约70%美国人据Gallup不愿自家附近建AI机房。",
-        "谷歌另投1.6亿水务进森美兰、超1GW清洁能源入网；马来副总理称机房2035或吃全国1/3电，现只批有水有电的项目。"
+        "Tibo（研究员）那句「地下室满是奇妙东西」本是回复他人，被网友顺势脑补成藏模型暗号。",
+        "Codex命令栏在「gpt-6.2-astra xhigh」下方还显示「? for shortcuts」提示。"
       ],
       "quote": {
-        "who": "Aakash Gupta",
+        "who": "SuSu_酥酥",
         "role": "",
-        "said": "想看我所有观点又不被算法过滤，订阅我的通讯："
+        "said": "🤨今天会是GPT-6.2 Astra日吗？再不发就周末啦！ Tibo说他住在地下室，还说地下室充满奇迹…… 然后Layton直接在他地下室里挖出了 gpt-6.2-astra 兄弟们，OpenAI的「地下室奇迹」今天要上线了吗？ Tibo这种「不知道啊我住地下室」的回复，比直接官宣还吓人啊哈哈哈哈 #GPT62Astra #OpenAI #TiboBasement #AI #SamAltman"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 283万 · 资本与算力] 谷歌150亿加注马来！2019新加坡一冻，马来吃下东南亚半数在建数据中心"
+      "line": "[榜第5位 · 9.5万 · 模型与能力] 传GPT 6.2 astra今日要来，Tibo地下室满是奇妙东西引全网猜"
+    },
+    {
+      "title": "2倍提速！Anthropic修订S-1披露，原怀疑派预测RSI不到6个月",
+      "summary": "今晨（11月6日）一份报告让不少原本唱衰递归自我进化（RSI）的大佬改了口：有人预测 RSI 不到 6 个月就来，通用人工智能（ASI）也就 1–2 年。更反讽的是，Anthropic 几天前在修订 S-1 里实打实披露 AI 已带来 2 倍提速，被这个更新到的人，比被 OpenAI 数学结果更新到的还多——X 上聊 AI 的多数根本不看 SEC 文件。进程像引力停不下来，但安…",
+      "reads": "9.1万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "发帖者称，Dario 曾比喻 AI 进程像用火一样，自开启便注定无法停止。",
+        "发帖者提到，就在两个月前，AI 短期具备研究品味还被认为不可能，现在预期已翻转。"
+      ],
+      "quote": {
+        "who": "Andrew Curran",
+        "role": "",
+        "said": "@thinkingshivers 这儿："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 9.1万 · 模型与能力] 2倍提速！Anthropic修订S-1披露，原怀疑派预测RSI不到6个月"
+    },
+    {
+      "title": "Claude官方号运营离职！爆料者：我第一天上班只见Claude自己在干活",
+      "summary": "Claude官方账号的运营者发文宣布，今天是在Anthropic的最后一天，要去休整筹备下一件事。紧接着有爆料者吐槽：自己入职第一天，全程就只见Claude（AI）自己在那干活。还有KOL直言不敢信他连Anthropic也辞了，OpenAI肯定很快把他挖走。",
+      "reads": "39万",
+      "ago": "7 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "有研究员把Claude官方号的离职帖转出来，直接质问：Anthropic到底在搞什么鬼"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "不敢信他连 anthropic 也辞了 OpenAI 肯定很快就把他挖走了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 39万 · 组织与人事] Claude官方号运营离职！爆料者：我第一天上班只见Claude自己在干活"
+    },
+    {
+      "title": "网友曝Anthropic内Model 4：178.6仅超Opus 5.5约4分",
+      "summary": "有网友扒出Anthropic内部Model 4在AECI上拿178.6，公开版Opus 5.5却有175，只差约4分。大家都默认Anthropic内部早甩开Model 2了，这差距小得离谱。爆料者纠结：是内部模型太弱，还是Opus 5.5太猛？最后丢一句，希望他们备好Model 6吧。",
+      "reads": "4.8万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "AECI是Anthropic自家版的Epoch能力指数，把多个基准测试结果揉在一起算总分",
+        "爆料者后续补充，对比用的是METR发布的基准，两个模型能在同一口径下比"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "@dadkins_ 那我们得加快进度了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 4.8万 · 模型与能力] 网友曝Anthropic内Model 4：178.6仅超Opus 5.5约4分"
+    },
+    {
+      "title": "178.6分！METR报告提Model 4超Opus 5.5，能力进度或快2倍",
+      "summary": "今晨METR公开报告链接（北京时间11月6日凌晨），有网友转述其中细节：Anthropic内部「Model 4」9-10月训完，AECI约178.6，比Opus 5.5的174.5左右还高；METR估算截至10月其明确任务模型能力进步速率约为2024年来历史段的2倍，但高不确定，真实值可能1.3到3倍。Anthropic还在出结论前砍了算力分配评估试点。AI暂不能自主贡献训练最…",
+      "reads": "19万",
+      "ago": "6 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "METR称该AI研发加速评估始于2026年8月中旬，与Anthropic宣布的「类员工权限」评估分开，权限虽深但需主动索取信息，可能遗漏未知项。",
+        "报告透明披露了所获权限、Anthropic删减、工作受限、AEF-1披露、利益冲突及合同条款。",
+        "网友转述报告细节指内部「Model 3」于8-9月训完，推测可能是Mythos 5.5，AECI较Opus 5.5有提升。",
+        "另一网友澄清METR采用的AECI分数与Haiku 5.5系统卡一致，其中Opus 5.5为174.56，与报告约174.5吻合。"
+      ],
+      "quote": {
+        "who": "prinz",
+        "role": "",
+        "said": "@FateOfMuffins @AnziParazzi 说得对。Astra 哪怕当初公开发布的时候，就已经是挺老旧的模型了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 19万 · 政策与安全] 178.6分！METR报告提Model 4超Opus 5.5，能力进度或快2倍"
     },
     {
       "title": "离谱！Alpine输257到1024字符直接拿root",
       "summary": "这bug像个笑话：Alpine上随便输257到1024字符，直接提权root。OpenSSH团队前一日才知情，Miller直言长embargo现在反帮攻击者——AI智能体几小时就能重挖出bug。10.6p2已绕过，glibc或开PAM的系统不受影响，根因在OpenSSH之外。",
-      "reads": "207万",
-      "ago": "10 小时前",
+      "reads": "284万",
+      "ago": "19 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -150,83 +234,81 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 207万 · 政策与安全] 离谱！Alpine输257到1024字符直接拿root"
+      "rank": 10,
+      "line": "[榜第10位 · 284万 · 政策与安全] 离谱！Alpine输257到1024字符直接拿root"
     },
     {
-      "title": "2万美元AI狼人杀：Astra暴打Opus 5.5胜率82%，OpenAI完胜",
-      "summary": "今晨狠人 Dwarkesh Patel 直接烧掉 2 万美元 API，让不同 AI 互演「血色钟楼」这种狼人杀式社交欺骗游戏——结果 Astra 对 Opus 5.5 胜率干到 82%，OpenAI 把 Anthropic 按地上摩擦。他说今年模型临场虚张声势、组队拆阴谋进步到离谱，朋友耍这招都得给击个拳。另一人测 Stronghold Crusader 也同款结论：GPT 规…",
-      "reads": "10万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "title": "800亿美元！Anthropic十月底年化营收炸穿预期，环比还在涨",
+      "summary": "WSJ 援引知情人士称，Anthropic 十月底年化营收运行率（run rate）冲过 800 亿美元，高于上月、远超预期。发帖记者原话「WAY ABOVE expectations」，另一条旁白补刀「Anthropic BLEW OUT expectations for October ARR」——这 run rate，是把预期按在地上摩擦了。",
+      "reads": "4.2万",
+      "ago": "4 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Dwarkesh 搭了公开基准站，拉上朋友就能跟这些 AI 再战一局「血色钟楼」。",
-        "CrusaderBench 按 Stronghold Crusader 里搞出的经济体规模给模型打分。",
-        "第二位测试者补刀：准确说 OpenAI 只在「某些类型」游戏上比 Anthropic 强很多。"
+        "两条帖子都出自同一位记者，北京时间今天 13:40 与 13:42 连发，间隔两分钟，引的是同一篇 WSJ 报道",
+        "800 亿是 run rate 年化口径，不是十月单月实收——别看成一个月赚了 800 亿美元"
       ],
       "quote": {
-        "who": "ℏεsam",
+        "who": "tae kim",
         "role": "",
-        "said": "「OpenAI 的模型玩游戏比 Anthropic 的强太多了。」 准确说，是在某些类型的游戏上强很多。"
+        "said": "旁白：Anthropic 十月的 ARR 远超预期 WSJ：「Anthropic 的 run rate（用于估算年度收入的指标）在十月底超过了 800 亿美元，高于上月，据一位知情人士称。」"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 10万 · 模型与能力] 2万美元AI狼人杀：Astra暴打Opus 5.5胜率82%，OpenAI完胜"
+      "rank": 11,
+      "line": "[榜第11位 · 4.2万 · 资本与算力] 800亿美元！Anthropic十月底年化营收炸穿预期，环比还在涨"
     },
     {
-      "title": "Greg Brockman：死亡或成选择，12到18个月治愈见实质进展",
-      "summary": "Greg Brockman放话：死亡可能变成一种选择，未来12到18个月AI将在治愈疾病上迈出实质步伐，这可不是空谈。同一场合他官宣与JPMorganChase合作，全行用Codex和OpenAI网络安全模型防自己被攻破。Jeff Dean则透底Discovery Loop三周400访谈、20个自动循环，却说无限自改因物理不实。",
-      "reads": "30万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
+      "title": "2.5万亿美元蒸发，学界炮轰暂停AI派送美国人礼物，下份夺数百万命",
+      "summary": "学界医学博士 Derya Unutmaz 把 2.5 万亿美元蒸发称作暂停 AI 派「送美国人的礼物」，放话这才刚开始，下份礼物将拖慢疗法、夺数百万生命。他补刀：AI 不是泡沫，通胀调整五年涨超 30%、被低估；还把对方算进「愚蠢指数」。",
+      "reads": "3.2万",
+      "ago": "4 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Greg Brockman透底：OpenAI企业营收曾占30%、消费70%，现已反转为企业占多数，消费级也在涨。",
-        "Jeff Dean看好专用硬件：少数工作负载将占全球计算大头，但花两年定制的硬件怕未来需求变。",
-        "Discovery Loop落脚老Zibibbo餐厅，自建agent harness支持拉队友和评论，目标扩展数十万智能体。",
-        "学界Derya Unutmaz呼应：约2035年达长寿逃逸速度、衰老逆转，但若暂停AI派占上风或推迟几年。"
+        "另抛金句：人类愚蠢和机器智能，这两样东西都是无限的。"
       ],
       "quote": {
         "who": "Derya Unutmaz, MD",
         "role": "",
-        "said": "@MichaelgDiamond 概率极小，而且如果暂停 AI 那帮人赢了，甚至可能推迟几年。"
+        "said": "@AlperSENSAN 这话总结得不错。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 30万 · 产品与生态] Greg Brockman：死亡或成选择，12到18个月治愈见实质进展"
+      "rank": 12,
+      "line": "[榜第12位 · 3.2万 · 政策与安全] 2.5万亿美元蒸发，学界炮轰暂停AI派送美国人礼物，下份夺数百万命"
     },
     {
-      "title": "5天不洗衣服，AI智能体到家就烦你！网友起名AaaS烦人即服务",
-      "summary": "今晨北京时间11月6日凌晨，一位研究员晒出给Instinct这类AI智能体写的提示词：衣服超过5天没洗，就在工作日你到家30分钟后开始提醒，并一直烦你直到确认或推迟。有网友笑称这是「AaaS（烦人即服务）」。另一人点破：多数提醒应用只触发一次便悄悄放弃，而这智能体死缠烂打——现有app的温柔全成了摆设。",
-      "reads": "14万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
+      "title": "4.5倍！AI正自我加速，比AI 2027早5个月，Greenblatt承认误判",
+      "summary": "METR的Ryan Greenblatt估算出，AI现在把AI研发提速4.5倍——比AI 2027预言的节点早了整整5个月。他自己都承认：之前对RSI提速的判断大错特错。有网友看完直说深受震撼，本以为还有时间，现在替家人和世界发慌。",
+      "reads": "3.0万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "Greenblatt的推算逻辑：整体AI进展因RSI加快2倍，对应软件研发（算法与数据）加速远大于2倍，粗估当前软件进展提速约4.5倍（基准为无任何AI自动…"
+      ],
       "quote": {
-        "who": "Thariq",
+        "who": "AI Notkilleveryoneism Memes ⏸️",
         "role": "",
-        "said": "@Justinncase10 不知道哥们，这只不过是我生活里的一个问题，你把整体思路套到你身上就行"
+        "said": "这种氛围今天在我时间线上到处都是"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 14万 · 产品与生态] 5天不洗衣服，AI智能体到家就烦你！网友起名AaaS烦人即服务"
+      "rank": 13,
+      "line": "[榜第13位 · 3.0万 · 模型与能力] 4.5倍！AI正自我加速，比AI 2027早5个月，Greenblatt承认误判"
     },
     {
       "title": "Alexandr Wang官宣Muse voice全美上线，视频里让AI扮老板盘梗图",
       "summary": "大佬Alexandr Wang北京时间11月6日凌晨官宣Muse voice全美上线，用户能给Muse打电话、视频聊。他自己正遇上棘手事，当场演示让头像Euler的Muse模拟老板，预演怎么谈被老板注意到发梗图的尴尬1-1。他还回推说当天真有场老板1-1，看看会不会被提这茬。AI淡定支招，这波自嘲把产品演示玩成了职场喜剧。",
-      "reads": "14万",
-      "ago": "3 小时前",
+      "reads": "21万",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
@@ -239,14 +321,34 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 14万 · 产品与生态] Alexandr Wang官宣Muse voice全美上线，视频里让AI扮老板盘梗图"
+      "rank": 14,
+      "line": "[榜第14位 · 21万 · 产品与生态] Alexandr Wang官宣Muse voice全美上线，视频里让AI扮老板盘梗图"
+    },
+    {
+      "title": "5天不洗衣服，AI智能体到家就烦你！网友起名AaaS烦人即服务",
+      "summary": "今晨北京时间11月6日凌晨，一位研究员晒出给Instinct这类AI智能体写的提示词：衣服超过5天没洗，就在工作日你到家30分钟后开始提醒，并一直烦你直到确认或推迟。有网友笑称这是「AaaS（烦人即服务）」。另一人点破：多数提醒应用只触发一次便悄悄放弃，而这智能体死缠烂打——现有app的温柔全成了摆设。",
+      "reads": "20万",
+      "ago": "13 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Thariq",
+        "role": "",
+        "said": "@Justinncase10 不知道哥们，这只不过是我生活里的一个问题，你把整体思路套到你身上就行"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 20万 · 产品与生态] 5天不洗衣服，AI智能体到家就烦你！网友起名AaaS烦人即服务"
     },
     {
       "title": "双榜第一！谷歌Gemini视频版Omni 1.2 Flash上新，砍价30%",
       "summary": "有人爆料说Gemini Omni 1.2 Flash只是1.1的小更新，结果一上新就包揽Arena文生视频、图生视频双榜第一。API价格比上代砍30%，720p视频每秒$0.07，视频时长拉到15秒、跳切也少了。内部还有个支持4k的Omni Pro露了脸，但还没发。",
-      "reads": "26万",
-      "ago": "5 小时前",
+      "reads": "27万",
+      "ago": "14 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -263,123 +365,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 26万 · 模型与能力] 双榜第一！谷歌Gemini视频版Omni 1.2 Flash上新，砍价30%"
-    },
-    {
-      "title": "Cursor直接造App逃离localhost！描述需求即建库部署，全付费可用",
-      "summary": "智能体让写码变容易，可大多数 App 始终困在 localhost。Cursor 现在直接把 App 造出来部署上线：描述需求即建库、跑确定性和智能体安全检查、甩链接分享。配图里跑的模型是 Grok 4.7，各团队已拿它搭仪表盘、客户演示和入职项目，全付费计划现已可用。",
-      "reads": "9.9万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "使用需先将 Cursor 更新到最新版本",
-        "落地场景还覆盖内部运维工具与开发者门户"
-      ],
-      "quote": {
-        "who": "Cursor",
-        "role": "",
-        "said": "Cursor各个团队已经在用它搭建实时仪表盘、客户演示、内部运维工具、入职项目和开发者门户。 所有付费计划现已可用。更新到最新版Cursor来构建你的第一个应用："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 9.9万 · 产品与生态] Cursor直接造App逃离localhost！描述需求即建库部署，全付费可用"
-    },
-    {
-      "title": "Discord弃Electron用Rust，新构建290MB，老版超4GB才自启",
-      "summary": "Discord 对 Electron 动手了，整个客户端用 Rust 重写，CTO 晒的早期构建只吃 290MB 内存。老版 Windows 客户端一旦飙过 4GB 就自动重启，这下直接砍到脚踝。用户测试 soon™ 才安排，而且不是 Tauri，是自家 GPUI。",
-      "reads": "9.1万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Discord 从 2018 年就用 Rust，基础设施、语音技术乃至现版部分客户端已是 Rust（CTO 原话）",
-        "移动端保留原生 UI，但通过 Rust 与桌面端共享应用代码",
-        "Electron 和 React Native 都将退出，整个客户端迁到 Rust 是团队「圣杯」目标"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "‼️ Discord 正在抛弃 Electron，用 Rust 重写应用。其 CTO 截图里的早期构建跑在 290MB 内存上。 去年 Discord 测试了在当前 Windows 应用超过 4GB 时自动重启。 他说，用户测试「soon™」就来。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 9.1万 · 产品与生态] Discord弃Electron用Rust，新构建290MB，老版超4GB才自启"
-    },
-    {
-      "title": "178.6分！METR报告提Model 4超Opus 5.5，能力进度或快2倍",
-      "summary": "今晨METR公开报告链接（北京时间11月6日凌晨），有网友转述其中细节：Anthropic内部「Model 4」9-10月训完，AECI约178.6，比Opus 5.5的174.5左右还高；METR估算截至10月其明确任务模型能力进步速率约为2024年来历史段的2倍，但高不确定，真实值可能1.3到3倍。Anthropic还在出结论前砍了算力分配评估试点。AI暂不能自主贡献训练最…",
-      "reads": "14万",
-      "ago": "5 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "METR称该AI研发加速评估始于2026年8月中旬，与Anthropic宣布的「类员工权限」评估分开，权限虽深但需主动索取信息，可能遗漏未知项。",
-        "报告透明披露了所获权限、Anthropic删减、工作受限、AEF-1披露、利益冲突及合同条款。",
-        "网友转述报告细节指内部「Model 3」于8-9月训完，推测可能是Mythos 5.5，AECI较Opus 5.5有提升。",
-        "另一网友澄清METR采用的AECI分数与Haiku 5.5系统卡一致，其中Opus 5.5为174.56，与报告约174.5吻合。"
-      ],
-      "quote": {
-        "who": "prinz",
-        "role": "",
-        "said": "感谢 @iwakura2137 澄清：METR 用的 AECI 分数似乎和 Haiku 5.5 系统卡里包含的那些相同（其中 Opus 5.5 的 AECI 为 174.56）。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 14万 · 政策与安全] 178.6分！METR报告提Model 4超Opus 5.5，能力进度或快2倍"
-    },
-    {
-      "title": "Ant咖啡更顶，OAI零食更香：前Anthropic增长操盘手入职",
-      "summary": "前Anthropic增长操盘手官宣入职OpenAI，有网友统计今天这已是第二例。人在离职帖里认真掰扯：Ant咖啡饮料更顶，OAI零食更香。另有网友泼冷水，说无非一个增长营销加产品经理，资深研究员纹丝未动，Anthropic离了谁都稳得很。",
-      "reads": "13万",
-      "ago": "5 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "跳槽者在帖里把Anthropic岁月称作「极妙的狂热梦」，说和真正有才的人并肩、啃下职业生涯最棘手的问题，感激不尽。",
-        "泼冷水的网友先补一句：两人活儿肯定干得漂亮，他唯一想说的是别末日焦虑，人走了Anthropic也出不了事。"
-      ],
-      "quote": {
-        "who": "Lisan al Gaib",
-        "role": "",
-        "said": "@joe_philleo 说营销人对于造机器神不重要，这哪儿偏见了？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 13万 · 组织与人事] Ant咖啡更顶，OAI零食更香：前Anthropic增长操盘手入职"
-    },
-    {
-      "title": "马斯克亲自下场！网友弃OpenClaw、Hermes、Muse，全迁Grok Bot",
-      "summary": "马斯克亲自发帖喊「试试 Grok Bot」，还引了一位网友的原话：OpenClaw、Hermes、Muse 三家的东西全挪到 Grok Bot 了，UI/UX/功能全在点上，迭代快得离谱——连曾被夸「风光过一阵」的 Muse 也弃了。最绝的是 Hermes 背后的 Nous Research 跑来回帖：要不，免费帮你迁回 Hermes？",
-      "reads": "276万",
-      "ago": "17 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Nous Research",
-        "role": "",
-        "said": "@elonmusk @bot 那就把它免费迁到 Hermes 上"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 276万 · 产品与生态] 马斯克亲自下场！网友弃OpenClaw、Hermes、Muse，全迁Grok Bot"
+      "line": "[榜第16位 · 27万 · 模型与能力] 双榜第一！谷歌Gemini视频版Omni 1.2 Flash上新，砍价30%"
     }
   ],
   "board_count": 16,
