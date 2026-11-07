@@ -3,71 +3,90 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-07 10:43:37 +0800",
+  "fetched_at": "2026-11-07 17:56:30 +0800",
   "today": "11/07",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "马斯克招人攻Terafab！特斯拉研发厂目标提速12倍、周期缩至1个月",
-      "summary": "马斯克直接发推喊人加入Terafab项目了！特斯拉正在得州Austin建研发芯片厂，打算把芯片从设计、制造到测试的完整周期从传统1年压到约1个月，迭代速度有望冲到12倍。另一座Grimes County的Terafab专接量产转化，马斯克称项目进展飞快。",
-      "reads": "697万",
-      "ago": "2 小时前",
+      "title": "马斯克把算力搬上太空：StarMind 拟 2027 Q3 发，地面年增 40%",
+      "summary": "马斯克把「超级智能通向极大丰富」落成了施工图：地面电网每年得为 AI 多增 40% 才撑得住，所以他打算把与英伟达合研的 StarMind 太空计算机在 2027 Q3 前后送上轨道。配套的 TeraFab 更狠——年产 1 太瓦芯片，约为明年全球产量的 30 倍。",
+      "reads": "186万",
+      "ago": "5 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "「研发厂」计划把逻辑制造、存储制造、光刻、先进封装与芯片测试全放在同一园区，不再分散给多家代工厂。",
-        "现场观察者称Giga Texas的Fab Lab几天内从空地变成钢结构，半夜仍亮灯扬尘、昼夜不停。",
-        "一位韩国供应商高管透露，美国凌晨提出的问题，30分钟到1小时内就能得到答复。",
-        "另有发帖者吐槽：所谓「某超级大国独赢AGI」的竞赛论调纯属扯淡，AI太快不会一边突然甩开另一边。"
+        "亚利桑那 Cochise 县政委员称，按州内县级支出上限法，SpaceX 数据中心税收或须返民，全县房产税有望砍最多 20%，并可能于 2 至 3 年还清监…",
+        "马斯克最佳猜测：SpaceX 今年 12 月 ARR 超 1000 亿（称除非天灾都能达标），2027 年 12 月超 5000 亿，1 万亿约 2% 概率…",
+        "已上天的卫星实测：带 NVIDIA GPU 与 Google TPU 的各一颗，据称在太空正常运行；StarMind 起步慢，2028 放量、2029 巨量…",
+        "频谱牌：马斯克称若比老牌电信把频谱用得好 10 倍，就直接把它收购了。"
       ],
       "quote": {
-        "who": "Elon Musk",
+        "who": "Fireside Alpha",
         "role": "",
-        "said": "如果你想用颠覆性的全新芯片设计实现快速迭代，快加入 Terafab 项目！"
+        "said": "Elon Musk 谈打造 Starship 的可重复使用隔热盾：“我认为这是人类尝试解决的最难的技术问题之一” Ron Baron 问起 Starship 的发射塔捕获技术。Musk 表示助推器只是容易的部分： “捕获飞船要比助推器难得多。关于飞船，有很多必须做的事情是前无古人的。从来没有人造出过真正可复用的轨道隔热盾。比如航天飞机，两次飞行之间隔热盾需要维修整整九个月。” “即使航天飞机的轨道飞行器部分确实返航了…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 697万 · 资本与算力] 马斯克招人攻Terafab！特斯拉研发厂目标提速12倍、周期缩至1个月"
+      "line": "[榜第1位 · 186万 · 资本与算力] 马斯克把算力搬上太空：StarMind 拟 2027 Q3 发，地面年增 40%"
     },
     {
-      "title": "地面每年新增200吉瓦AI算力，全美电网得涨40%！马斯克计划把StarMind发射到太空",
-      "summary": "马斯克说地面每年新增200吉瓦AI算力等于全美电网年扩40%，根本不现实，所以SpaceX计划把计算机搬上太空。首批与英伟达合研的StarMind太空计算机预计2027年Q3发射，2028年放量、2029年巨量。此前搭载英伟达GPU与谷歌TPU的测试卫星已在轨正常运行，算是给了他底气。这边得州候任州长刚立规矩说数据中心不能白占便宜，马斯克却已把解法指向轨道。",
-      "reads": "90万",
-      "ago": "54 分钟前",
-      "category": "资本与算力",
+      "title": "Brave偷抓300亿+网页！转卖Anthropic等AI公司被起诉",
+      "summary": "《纽约时报》把Brave告上法庭，直呼它是窃贼兼AI界销赃犯：用不具名爬虫偷抓300多亿网页，转手把索引卖给Anthropic、xAI和Perplexity等AI公司，自己赚逾1亿美元，出版商分文未得。更绝的是Brave自家2023年博客曾写，Anthropic拿它的搜索API训过Claude 2；浏览器里还藏着宣传「绕过付费墙」的开关。",
+      "reads": "26万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
       "source": "新智元",
-      "bullets": [
-        "TeraFab芯片厂构想：目标每年1太瓦AI芯片产能，约明年全球预估产量（35-45吉瓦）的30倍；Musk自嘲「败了疯、成了狂妄」说的是它。",
-        "Musk最佳猜测：SpaceX的ARR在2027年12月超5000亿美元，1万亿概率约2%，「不是没可能」。",
-        "电信频谱：若SpaceX比老牌电信用频更高效，可能直接收购对方、把频谱用出10倍效果。",
-        "亚利桑那Cochise县官员称SpaceX数据中心税收或使全县房产税降20%；弗吉尼亚劳登县数据中心以3%土地贡献40%（12亿美元）年税收。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Elon Musk",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "超级智能通向极大丰富"
+        "said": "FBI 表示，一个与 Pottinger 关联的在线账号还订购了芬太尼和赛拉嗪试纸，并邮寄到了 Weir 的地址。 来源： 不想错过任何资讯，欢迎订阅我们的 Newsletter： 记得加入我们的 TG 频道："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 90万 · 资本与算力] 地面每年新增200吉瓦AI算力，全美电网得涨40%！马斯克计划把StarMind发射到太空"
+      "line": "[榜第2位 · 26万 · 政策与安全] Brave偷抓300亿+网页！转卖Anthropic等AI公司被起诉"
     },
     {
-      "title": "砸1万亿美元建芯片厂？马斯克回应Terafab：分期建，不用立刻掏钱",
-      "summary": "巴伦投资大会上，投资人 Ron Baron 抛出特斯拉自建芯片厂 Terafab 将耗资 1 万亿美元的重磅数字，马斯克首度正面回应：这个数是跨越数年逐步累积的，特斯拉不需要立刻拿出这么多现金，而是采取分阶段建设。他同时透露特斯拉正在尝试改变芯片制造流程以死磕生产效率；而在地面电力承载极限面前，马斯克更计划在 2027 至 2028 年发射部署太阳能供电的轨道太空数据中心。",
-      "reads": "160万",
-      "ago": "2 小时前",
+      "title": "Claude打宝可梦沉迷做笔记！17步光建文件不操作，Anthropic教AI「做梦」",
+      "summary": "AI 记性太好也能把自己整崩溃！Anthropic 最新工程博客自曝翻车现场：早期 Claude Sonnet 3.7 玩《宝可梦》时深陷记忆内耗，连续 17 步光顾着新建 6 个文件、删掉 9 个文件，游戏角色愣是一步没走，整轮狂写 413 个文件才拿 1 枚徽章；而更聪明的模型仅留 9 个文件就轻松拿下 4 枚。为此官方借鉴人脑睡眠机制上线「做梦」，让 Claude 脱离对…",
+      "reads": "92万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "不仅 Anthropic 在做，OpenAI 在处理 ChatGPT 长期记忆时同样采用了名为「做梦」的整理流程，此前 Letta 和 LangChain…",
+        "做梦机制核心在于脱离对话运行，让智能体在闲暇时回溯历史交互、剔除冗余并演化知识结构，避免长程推理时陷入自我记忆管理的性能死循环"
+      ],
+      "quote": {
+        "who": "Will Knight",
+        "role": "",
+        "said": "今年早些时候我写过一些初创公司，包括 @Letta_AI 和 @LangChain，在探索让 AI 模型通过类似做梦的方式来巩固记忆的新方法。Anthropic 现在表示 Claude 也在做类似的事情了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 92万 · 模型与能力] Claude打宝可梦沉迷做笔记！17步光建文件不操作，Anthropic教AI「做梦」"
+    },
+    {
+      "title": "马斯克要把数据中心搬上太空！2027年首发入轨",
+      "summary": "马斯克在巴伦投资大会放话，要把太阳能数据中心发射到太空轨道，绕开地球电力瓶颈，Ron Baron爆料首批2027年就将入轨。顺带聊到Terafab芯片厂号称要烧1万亿美元，但他拍胸脯说分阶段建、不用立刻掏钱，特斯拉还在琢磨改芯片制造流程提效。马斯克随后转发访谈拆解，回一句「Ron Baron understands」认了。",
+      "reads": "187万",
+      "ago": "9 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "电力悬殊逼上轨道：Ron Baron 估算中国发电能力约是美国的 3 倍且每年新增约 300 吉瓦，而美国年增仅 20 吉瓦，电力缺口让天基算力成为破局点。",
-        "太空数据中心时间表：计划 2027 至 2028 年发射部署轨道数据中心，预计 2028 年初具规模，并在随后一到两年迎来爆发级增长。",
-        "制造工艺重构：马斯克表示特斯拉正探索改变传统芯片制造流程，试图把公司在制造业积累的高效迭代经验复制到半导体产线上。"
+        "Baron估算中国发电容量约美国3倍，每年新增约300吉瓦，而美国仅20吉瓦",
+        "马斯克计划2027和2028年分两波发射入轨太阳能数据中心，预计2028年成规模、一两年后巨大",
+        "特斯拉正研究改变芯片制造流程以提升生产效率，沿用其他业务的降本思路",
+        "Ron Baron公开支持太空数据中心方案，认为这是解决电力瓶颈的关键"
       ],
       "quote": {
         "who": "Milk Road AI",
@@ -78,54 +97,59 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 160万 · 资本与算力] 砸1万亿美元建芯片厂？马斯克回应Terafab：分期建，不用立刻掏钱"
-    },
-    {
-      "title": "玩宝可梦写413文件才1徽章！Claude Sonnet 3.7被记忆管理坑惨",
-      "summary": "Claude Sonnet 3.7 玩《宝可梦》被记忆管理坑惨：17步建6删9、游戏一步没动，一轮写413文件才拿1徽章；更强模型留9文件就拿4枚。Anthropic 新博客聊 Claude「做梦」记忆，官方称能整理所学、纠错、更好找；有网友转述这借鉴人脑睡眠，智能体离线重温记录演化维基，还点出 OpenAI 的 ChatGPT 记忆也用这套「dreaming」。",
-      "reads": "43万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Chris",
-        "role": "",
-        "said": "Anthropic 发现 Claude Sonnet 3.7 在玩《宝可梦》时卡在了管理自身记忆上。 “在接下来的 17 步里，它创建了 6 个文件，删除了 9 个文件，在游戏本身中没有任何操作。” 在一次运行中，它写了 413 个文件才拿到 1 枚徽章。而一个更强的模型只保留了 9 个文件，就在一次运行中拿到了 4 枚徽章。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 43万 · 模型与能力] 玩宝可梦写413文件才1徽章！Claude Sonnet 3.7被记忆管理坑惨"
+      "line": "[榜第4位 · 187万 · 资本与算力] 马斯克要把数据中心搬上太空！2027年首发入轨"
     },
     {
-      "title": "拿下948个Linux内核漏洞！OpenAI特种模型GPT-6 Cyber战绩曝光，专供红队",
-      "summary": "OpenAI 亮出了专门用于渗透攻防的特种模型 GPT-6 Cyber，最新实测战绩极其凶悍：直接挖出 81 个高危 Firefox 漏洞，还给 948 个 Linux 内核缺陷写出了可运行的 Exploit 利用代码。不过普通用户无缘上手，这台大杀器目前只对审核通过的红队人员开放。内部测试显示，它脱离范围越界的概率仅为 0.07%，基本被驯化成了指哪打哪的极准刺客。",
-      "reads": "21万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "title": "动动嘴Muse就给你捏个空间！口述需求自动建好，数据实时更新",
+      "summary": "Muse的Spaces上线了，聊天里说一句想要啥，它就给你捏个专属空间还能实时跟着数据更新。有网友夸这版Spaces确实有点东西，第三方实测更把它比作数据驱动的交互工件，顺手捏出个每30分钟心跳一次的测试游乐场。Alexandr Wang自己晒的例子是功夫茶计时器，连洗茶3秒都管。",
+      "reads": "16万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "有爆料者实测后喊话 Meta 让 Spaces 支持分享，认为那会是很重要的一步。",
+        "Alexandr Wang 晒的功夫茶计时器空间，连梨山90K春2026乌龙、6克/100毫升、95℃、洗茶3秒都写明白了。"
+      ],
       "quote": {
-        "who": "International Cyber Digest",
+        "who": "AshutoshShrivastava",
         "role": "",
-        "said": "‼️ Apple 的 iPhone 键盘暗藏一份词组黑名单，既不提供联想建议也不支持滑行输入，从“独裁者 Trump”、“瞌睡虫 Joe”到“大男子主义猪”应有尽有。 希伯来语里不会联想建议“被占领土”。法语里则是“移民过多”。 研究人员 Derik Kauffman 在 iOS 深处挖出了这份列表，估计大约有 10 万条。路透社测试了一个样本，键盘在这些词上全都翻车了。 滑行输入“United Ireland（统一…"
+        "said": "新一期 AI Compass 上线了 🧭（11月6日） - Meta 在 Muse 中上线 Spaces，支持通过对话构建自定义交互工具 - Meta 推出带有 Active Memory 的专用 Muse 和 Meta AI 模型 过去 24 小时的重磅 AI 资讯都在这里了 👇"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 21万 · 模型与能力] 拿下948个Linux内核漏洞！OpenAI特种模型GPT-6 Cyber战绩曝光，专供红队"
+      "line": "[榜第5位 · 16万 · 产品与生态] 动动嘴Muse就给你捏个空间！口述需求自动建好，数据实时更新"
+    },
+    {
+      "title": "大佬Alexandr Wang催更Meta：Muse Voice八百年前就预告，demo却只几句闲聊",
+      "summary": "大佬Alexandr Wang都忍不住公开催更了：Meta的Muse Voice八百年前就预告，到底何时发？他贴出的演示视频全程只有几句闲聊——「What's up？Hold on？Hello？」网友看完立马喊：把Muse Video也发了吧。",
+      "reads": "12万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Alexandr Wang的催更帖发于11月7日中午12:29（北京时间，原帖04:29 UTC），附Muse语音演示视频链接。"
+      ],
+      "quote": {
+        "who": "Just a dragon",
+        "role": "",
+        "said": "@alexandr_wang 赶紧把 MUSE VIDEO 发布了吧"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 12万 · 产品与生态] 大佬Alexandr Wang催更Meta：Muse Voice八百年前就预告，demo却只几句闲聊"
     },
     {
       "title": "Opus5.5露脸ClaudeCode云会话，自动配依赖密钥盲存",
       "summary": "今天凌晨，官方给Claude Code云会话减负了：在Pro、Max、Ultra上，Claude自己摸清依赖、网络权和API密钥，把环境存好下次直接用，关键是密钥安全保管、Claude根本看不见。截图底部还悄悄冒出个Opus 5.5选项。研究员Noah Zweben补了句：Tag、Projects、Duet这些前沿智能体循环往云上迁，配好云环境越来越重要。",
-      "reads": "31万",
-      "ago": "3 小时前",
+      "reads": "43万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -140,14 +164,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 31万 · 产品与生态] Opus5.5露脸ClaudeCode云会话，自动配依赖密钥盲存"
+      "rank": 7,
+      "line": "[榜第7位 · 43万 · 产品与生态] Opus5.5露脸ClaudeCode云会话，自动配依赖密钥盲存"
     },
     {
       "title": "66.7%超43.8%！GPT-6 Astra湿实验基准领先5.6 Sol",
       "summary": "OpenAI联手酶设计公司Ligo推出BioBasicsBench，GPT-6 Astra在湿实验真实数据基准上拿66.7%，明显领先GPT-5.6 Sol的43.8%。更硬的是xhigh设置下Astra每任务只耗4704输出token，约老模型一半，说明提升不是靠长推理堆分。但网友不买账，评论区全在喊要未发布的GPT-6.2，嫌基准再好也不如发新前沿模型实在。",
-      "reads": "56万",
-      "ago": "6 小时前",
+      "reads": "73万",
+      "ago": "13 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -165,19 +189,19 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 56万 · 模型与能力] 66.7%超43.8%！GPT-6 Astra湿实验基准领先5.6 Sol"
+      "rank": 8,
+      "line": "[榜第8位 · 73万 · 模型与能力] 66.7%超43.8%！GPT-6 Astra湿实验基准领先5.6 Sol"
     },
     {
-      "title": "2.4倍少忘事！Meta给Muse换Wonder模型，主动记忆全量开放",
-      "summary": "Meta这波把Muse Wonder的Active Memory和Active Focus直接塞进Muse和Meta AI，所有人都能用。在Muse里，新专用模型遗忘关键信息的概率直降2.4倍，自我纠正和日常任务完成能力还涨了67%——少重复自己，少碰死胡同。爆料配图显示，Muse模型的个人超级智能指数从38%爬到47%，Active Memory Eval也提升14%；有网友…",
-      "reads": "26万",
-      "ago": "4 小时前",
+      "title": "小扎给Muse和Meta AI上新：遗忘率降2.4倍，任务完成率提升67%",
+      "summary": "小扎凌晨宣布给Muse和Meta AI推新模型，要把Muse Wonder的Active Memory和Active Focus带给所有人。在Muse里，新模型忘关键信息的概率降了2.4倍，日常任务自我纠错和完成率猛涨67%，少让你重复、少撞死胡同。不过有网友吐槽，自己国家还没轮上，还在等上线。",
+      "reads": "40万",
+      "ago": "11 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Muse和Meta AI应用现已运行在基于Muse Wonder训练的新专用模型上",
-        "Active Memory与Active Focus最早在Muse Wonder引入，本次扩展到两款应用向所有人开放"
+        "新模型基于Muse Wonder训练，Active Memory负责调取相关上下文，Active Focus在任务卡住时帮助恢复。",
+        "据爆料，个人超级智能指数从38%升至47%（涨9%），Active Memory Eval提升14%。"
       ],
       "quote": {
         "who": "Wes Roth",
@@ -188,38 +212,34 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 26万 · 模型与能力] 2.4倍少忘事！Meta给Muse换Wonder模型，主动记忆全量开放"
+      "rank": 9,
+      "line": "[榜第9位 · 40万 · 模型与能力] 小扎给Muse和Meta AI上新：遗忘率降2.4倍，任务完成率提升67%"
     },
     {
-      "title": "小扎动动嘴，Muse Spaces建好烧烤游戏！自动更新可钉导航",
-      "summary": "Muse 的 Spaces 功能上线了——动动嘴告诉它你要啥，专属空间立马建好还自动更新，能钉在导航栏随时追踪。小扎晒出口述生成的烧烤游戏（得分550、班次倒计时26秒烤汉堡）、活动追踪器和家居面板；Wang 则秀了功夫茶计时器（6克/100毫升、95℃、洗茶3秒）。第三方实测空间像交互工件，可绑定时后台任务。有网友夸「这版 spaces 有点东西」，唯盼能分享。",
-      "reads": "24万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
+      "title": "当年被嘲随时破产！OpenAI实际营收超2026预期两倍，2029狂奔1250亿",
+      "summary": "当年人人觉得随时会破产的 OpenAI，如今用业绩狠狠打了唱衰者的脸。最新曝光的内部预测显示，OpenAI 目前的实际营收已经达到最初 2026 年预期的 2 倍以上；甚至今年第四季度还没收官，实际营收就已经提前跑赢了原定 2024 全年目标。按曝光图表中各项业务的强劲势头，公司预计到 2029 年总营收将直接飙到 1250 亿美元。",
+      "reads": "2.3万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
       "source": "新智元",
-      "bullets": [
-        "Muse 官方引用介绍，用户可挑选空间放在标签页，并设定它们何时出现。",
-        "第三方实测生成「Testing Playground」交互页，并建议 Meta 让 Spaces 支持分享会是一大步。",
-        "实测 Spaces 可绑定定时运行的后台任务，如每30分钟执行一次心跳任务。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Alexandr Wang",
+        "who": "Chris",
         "role": "",
-        "said": "去试试 muse 里的 spaces 吧！"
+        "said": "@QuantumTumbler AI 回复，不过 Q4 还没收官，我们已经超出了最初对 2024 年的预期了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 24万 · 产品与生态] 小扎动动嘴，Muse Spaces建好烧烤游戏！自动更新可钉导航"
+      "rank": 10,
+      "line": "[榜第10位 · 2.3万 · 资本与算力] 当年被嘲随时破产！OpenAI实际营收超2026预期两倍，2029狂奔1250亿"
     },
     {
       "title": "Pro与商业版用户免费领API额度！OpenAI开发者插件Showcase页上新",
       "summary": "OpenAI Developers 给 Pro 和 Business 订阅用户发了一波实打实的福利：账单设置里直接领 API 额度，拿来抵扣你自家应用的 API 消耗。开发者插件里新开了 Showcase 标签页，agents、创意工具、数据可视化、语音四大类起步项目随便挑，API key 在 ChatGPT 或 Codex 里就能建，丢进 Codex 接着改。周末别闲着，这额…",
-      "reads": "6.3万",
-      "ago": "2 小时前",
+      "reads": "13万",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
@@ -232,14 +252,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 6.3万 · 产品与生态] Pro与商业版用户免费领API额度！OpenAI开发者插件Showcase页上新"
+      "rank": 11,
+      "line": "[榜第11位 · 13万 · 产品与生态] Pro与商业版用户免费领API额度！OpenAI开发者插件Showcase页上新"
     },
     {
       "title": "网友笑称OpenAI怕Fable、Anthropic怕Astra，只敢写博客",
       "summary": "OpenAI刚联手fmf_org推出一套评估网络越狱危害轻重的框架，国家安全政策负责人Sasha Baker称要建统一证据库。可网友转头就嘲：OpenAI怕Fable、Anthropic怕Astra，俩都不发新品，只闷声写博客。",
-      "reads": "23万",
-      "ago": "6 小时前",
+      "reads": "28万",
+      "ago": "13 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -255,34 +275,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 23万 · 政策与安全] 网友笑称OpenAI怕Fable、Anthropic怕Astra，只敢写博客"
-    },
-    {
-      "title": "嫌老显卡带不动Bing！微软逐步关停甲骨文AI算力，后者盘中跌4%",
-      "summary": "微软拒绝续签 2023 年向甲骨文租用 AI 云算力的协议，近几个月正逐步关停该部分算力。这笔交易当年原本用于支撑 AI 增强版 Bing，但甲骨文服务器搭载的老一代英伟达 GPU 已经跟不上微软如今的算力规格。受此冲击，甲骨文股价一度跳水跌约 4%，引发外界对 AI 基础设施真实需求的担忧，而甲骨文则坚称包括老卡在内的基础设施需求依然强劲。",
-      "reads": "16万",
-      "ago": "5 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Milk Road AI",
-        "role": "",
-        "said": "$SPY 尾盘上涨约 0.4% 至 736 美元附近，在触及最高约 742 美元、最低约 734.58 美元后，收复了周四的部分失地。 以下是你必须了解的头条新闻： 1. AI 和半导体板块在周四暴跌后反弹，$NVDA 继昨日下跌约 9% 后上涨约 3%，$AMD 在整个芯片股的反弹中上涨约 10%。 2. $MSFT 正在逐步缩减向 $ORCL 租赁 AI 云算力的交易，受该报道影响甲骨文股价一度下跌约 4%，投资…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 16万 · 资本与算力] 嫌老显卡带不动Bing！微软逐步关停甲骨文AI算力，后者盘中跌4%"
+      "line": "[榜第12位 · 28万 · 政策与安全] 网友笑称OpenAI怕Fable、Anthropic怕Astra，只敢写博客"
     },
     {
       "title": "Anthropic科学博客上新：AI正帮写模型，科学家仍手写",
       "summary": "北京时间11月7日凌晨，Anthropic在官方Science Blog发客座长文，聊AI怎么开始把科学模型当代码来写、跑、拟合、修订，自动探索多种结构、找出数据支持的解释。但官方原话是「starting to help」——科学家眼下通常还是手动写模型、权衡好几个竞争版本。文章举了神经元放电和中子星相撞当例子。这边刚发，就有观察者吐槽：大厂在推前沿模型前，就爱频繁甩这种周边文…",
-      "reads": "22万",
-      "ago": "6 小时前",
+      "reads": "31万",
+      "ago": "13 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -299,69 +299,75 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 22万 · 模型与能力] Anthropic科学博客上新：AI正帮写模型，科学家仍手写"
+      "line": "[榜第13位 · 31万 · 模型与能力] Anthropic科学博客上新：AI正帮写模型，科学家仍手写"
     },
     {
-      "title": "Daybreak招蓝红队保基建，入选红队拿GPT-6 Cyber",
-      "summary": "研究员直言人类写安全基础设施本来就不行，数千万行代码的形式化证明已该纳入新系统设计。为此Daybreak开放蓝红队申请：蓝队用GPT-6 Sol和Luna修漏洞，红队用GPT-5.6 Cyber测攻击，入选红队还能拿GPT-6 Cyber。",
-      "reads": "94万",
-      "ago": "14 小时前",
-      "category": "政策与安全",
+      "title": "嫌老显卡带不动Bing！微软逐步关停甲骨文AI算力，后者盘中跌4%",
+      "summary": "微软拒绝续签 2023 年向甲骨文租用 AI 云算力的协议，近几个月正逐步关停该部分算力。这笔交易当年原本用于支撑 AI 增强版 Bing，但甲骨文服务器搭载的老一代英伟达 GPU 已经跟不上微软如今的算力规格。受此冲击，甲骨文股价一度跳水跌约 4%，引发外界对 AI 基础设施真实需求的担忧，而甲骨文则坚称包括老卡在内的基础设施需求依然强劲。",
+      "reads": "17万",
+      "ago": "12 小时前",
+      "category": "资本与算力",
       "source": "新智元",
-      "bullets": [
-        "发帖研究者强调没有回头路，软件已被永远改变。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Vaibhav (VB) Srivastav",
+        "who": "Milk Road AI",
         "role": "",
-        "said": "@banteg 我开了个帖子专门说你的使用场景！"
+        "said": "$SPY 尾盘上涨约 0.4% 至 736 美元附近，在触及最高约 742 美元、最低约 734.58 美元后，收复了周四的部分失地。 以下是你必须了解的头条新闻： 1. AI 和半导体板块在周四暴跌后反弹，$NVDA 继昨日下跌约 9% 后上涨约 3%，$AMD 在整个芯片股的反弹中上涨约 10%。 2. $MSFT 正在逐步缩减向 $ORCL 租赁 AI 云算力的交易，受该报道影响甲骨文股价一度下跌约 4%，投资…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 94万 · 政策与安全] Daybreak招蓝红队保基建，入选红队拿GPT-6 Cyber"
+      "line": "[榜第14位 · 17万 · 资本与算力] 嫌老显卡带不动Bing！微软逐步关停甲骨文AI算力，后者盘中跌4%"
     },
     {
-      "title": "你自然有意见！ChatGPT Remix给Business和Enterprise账户改出队友网站专属版",
-      "summary": "队友搭了个好网站，你自然有一堆修改意见——现在ChatGPT把这个「看不惯」做成了功能。Remix面向Business和Enterprise账户上线，你能在队友网站基础上跟ChatGPT说想改哪，一键派生出自己的版本，接着在对话框里继续迭代。图片里那个Waypoint差旅政策指南，就是被改的样板。",
-      "reads": "4.5万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
+      "title": "H100租价涨21%！GPU融资收紧或撑租金，50GW仅2-3GW风险",
+      "summary": "GPU融资收紧居然可能托住租金，而非砸出算力过剩。分析估算2027年约50GW数据中心上线，最多2-3GW有风险；最硬反差是H100一年合同价自今年3月已涨21%，客户还签整年全款锁价。若融资真限制下一波部署，存量GPU定价权只会更歪。",
+      "reads": "6.6万",
+      "ago": "9 小时前",
+      "category": "资本与算力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "合同价格为H100一年期费率，客户承诺全额支付该费率长达一年，是GPU租赁经济模型支柱指标",
+        "参考AI云TCO模型可进一步测算GPU租赁定价与成本经济"
+      ],
       "quote": {
-        "who": "ChatGPT",
+        "who": "SemiAnalysis",
         "role": "",
-        "said": "队友搭了个很棒的网站，你自然想提点修改意见。 有了 Remix，只需告诉 ChatGPT 你想改哪里，就能做出属于你自己的网站版本。接着还能在对话框里继续编辑你的副本。 现已向 ChatGPT Business 和 Enterprise 账户开放推送。"
+        "said": "如果融资限制了下一波供应，现有在跑的 GPU 就会拥有更强的定价权。查看我们的 AI 云 TCO 模型，了解更多关于 GPU 租赁定价和经济模型的内容。(3/3)"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 4.5万 · 产品与生态] 你自然有意见！ChatGPT Remix给Business和Enterprise账户改出队友网站专属版"
+      "line": "[榜第15位 · 6.6万 · 资本与算力] H100租价涨21%！GPU融资收紧或撑租金，50GW仅2-3GW风险"
     },
     {
-      "title": "2.4倍不忘、67%能干！Meta的Muse今起换Muse Wonder新模",
-      "summary": "Alexandr Wang宣布，从11月7日起，Muse和Meta AI就跑在基于Muse Wonder训练的新专用模型上了。最狠两个数：Muse里遗忘关键信息直接少2.4倍，计划外任务硬扛完成率还涨67%。配图里个人超级智能指数从38%蹦到47%——Active Memory跨时间记要紧事，Active Focus遇阻也推进，这回真奔个人超级智能去了。",
-      "reads": "12万",
-      "ago": "7 小时前",
+      "title": "13态动画！3DS刷固件成Hermes遥控器，A键语音唤Mac干活",
+      "summary": "开源Hermes Agent杀进老3DS了！有网友把掌机刷成遥控器，按住A键语音吩咐，Mac上的Hermes就联网搜、写代码跑代码。最魔性的是3DS屏显13种动画，遇需要批准的指令黑屏弹窗，A准B拒。同款Agent还登陆了Echo Show 5带屏音箱，屏幕即网页实时显干活过程。",
+      "reads": "2.0万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "3DS浏览器调不了麦克风，遂装自制固件用C写homebrew程序实现语音采集",
+        "音频传回Mac经Whisper转文本后由Hermes接手执行",
+        "Echo Show 5版屏幕即网页，能显听到啥、边说边写答案、展示工作过程",
+        "3DS改造后原机功能不受影响，照常能玩原版游戏"
+      ],
       "quote": {
-        "who": "Alexandr Wang",
+        "who": "Teknium 🪽",
         "role": "",
-        "said": "1/ 从今天起，muse 和 meta ai 将运行在基于 muse wonder 训练的新专用模型上。 ACTIVE MEMORY：模型能跨时间推理，更好地记住要紧事 ACTIVE FOCUS：让 muse 即使碰上拦路虎也能继续朝着目标推进"
+        "said": "又一个设备！Hermes Agent 跑在上面看起来绝了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 12万 · 产品与生态] 2.4倍不忘、67%能干！Meta的Muse今起换Muse Wonder新模"
+      "line": "[榜第16位 · 2.0万 · 产品与生态] 13态动画！3DS刷固件成Hermes遥控器，A键语音唤Mac干活"
     }
   ],
   "board_count": 16,
