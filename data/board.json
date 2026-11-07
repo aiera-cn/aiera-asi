@@ -3,21 +3,158 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-07 07:01:30 +0800",
+  "fetched_at": "2026-11-07 10:43:37 +0800",
   "today": "11/07",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "GPT-6 Astra湿实验66.7%远超Sol 43.8%，token反少一半",
-      "summary": "GPT-6 Astra在新湿实验基准BioBasicsBench拿了66.7%可用分，GPT-5.6 Sol仅43.8%——更狠的是它还更省：xhigh下每任务才4704输出token，约老模型一半，长推理并非提分主因。这基准是OpenAI联手酶设计公司Ligo用100个真实任务搭的，专考AI读凝胶、显微镜原始数据。网友催更GPT-6.2，OpenAI反手甩来一张考卷。",
-      "reads": "36万",
+      "title": "马斯克招人攻Terafab！特斯拉研发厂目标提速12倍、周期缩至1个月",
+      "summary": "马斯克直接发推喊人加入Terafab项目了！特斯拉正在得州Austin建研发芯片厂，打算把芯片从设计、制造到测试的完整周期从传统1年压到约1个月，迭代速度有望冲到12倍。另一座Grimes County的Terafab专接量产转化，马斯克称项目进展飞快。",
+      "reads": "697万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "「研发厂」计划把逻辑制造、存储制造、光刻、先进封装与芯片测试全放在同一园区，不再分散给多家代工厂。",
+        "现场观察者称Giga Texas的Fab Lab几天内从空地变成钢结构，半夜仍亮灯扬尘、昼夜不停。",
+        "一位韩国供应商高管透露，美国凌晨提出的问题，30分钟到1小时内就能得到答复。",
+        "另有发帖者吐槽：所谓「某超级大国独赢AGI」的竞赛论调纯属扯淡，AI太快不会一边突然甩开另一边。"
+      ],
+      "quote": {
+        "who": "Elon Musk",
+        "role": "",
+        "said": "如果你想用颠覆性的全新芯片设计实现快速迭代，快加入 Terafab 项目！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 697万 · 资本与算力] 马斯克招人攻Terafab！特斯拉研发厂目标提速12倍、周期缩至1个月"
+    },
+    {
+      "title": "地面每年新增200吉瓦AI算力，全美电网得涨40%！马斯克计划把StarMind发射到太空",
+      "summary": "马斯克说地面每年新增200吉瓦AI算力等于全美电网年扩40%，根本不现实，所以SpaceX计划把计算机搬上太空。首批与英伟达合研的StarMind太空计算机预计2027年Q3发射，2028年放量、2029年巨量。此前搭载英伟达GPU与谷歌TPU的测试卫星已在轨正常运行，算是给了他底气。这边得州候任州长刚立规矩说数据中心不能白占便宜，马斯克却已把解法指向轨道。",
+      "reads": "90万",
+      "ago": "54 分钟前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "TeraFab芯片厂构想：目标每年1太瓦AI芯片产能，约明年全球预估产量（35-45吉瓦）的30倍；Musk自嘲「败了疯、成了狂妄」说的是它。",
+        "Musk最佳猜测：SpaceX的ARR在2027年12月超5000亿美元，1万亿概率约2%，「不是没可能」。",
+        "电信频谱：若SpaceX比老牌电信用频更高效，可能直接收购对方、把频谱用出10倍效果。",
+        "亚利桑那Cochise县官员称SpaceX数据中心税收或使全县房产税降20%；弗吉尼亚劳登县数据中心以3%土地贡献40%（12亿美元）年税收。"
+      ],
+      "quote": {
+        "who": "Elon Musk",
+        "role": "",
+        "said": "超级智能通向极大丰富"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 90万 · 资本与算力] 地面每年新增200吉瓦AI算力，全美电网得涨40%！马斯克计划把StarMind发射到太空"
+    },
+    {
+      "title": "砸1万亿美元建芯片厂？马斯克回应Terafab：分期建，不用立刻掏钱",
+      "summary": "巴伦投资大会上，投资人 Ron Baron 抛出特斯拉自建芯片厂 Terafab 将耗资 1 万亿美元的重磅数字，马斯克首度正面回应：这个数是跨越数年逐步累积的，特斯拉不需要立刻拿出这么多现金，而是采取分阶段建设。他同时透露特斯拉正在尝试改变芯片制造流程以死磕生产效率；而在地面电力承载极限面前，马斯克更计划在 2027 至 2028 年发射部署太阳能供电的轨道太空数据中心。",
+      "reads": "160万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "电力悬殊逼上轨道：Ron Baron 估算中国发电能力约是美国的 3 倍且每年新增约 300 吉瓦，而美国年增仅 20 吉瓦，电力缺口让天基算力成为破局点。",
+        "太空数据中心时间表：计划 2027 至 2028 年发射部署轨道数据中心，预计 2028 年初具规模，并在随后一到两年迎来爆发级增长。",
+        "制造工艺重构：马斯克表示特斯拉正探索改变传统芯片制造流程，试图把公司在制造业积累的高效迭代经验复制到半导体产线上。"
+      ],
+      "quote": {
+        "who": "Milk Road AI",
+        "role": "",
+        "said": "Elon Musk 刚刚谈到了 Tesla 计划自建芯片工厂的成本。 在今天巴伦投资大会上与 Ron Baron 对话时，Ron Baron 表示 Terafab 将耗资一万亿美元。 Elon 表示这个数字是逐步累积的，Tesla 不需要立刻拿出那么多钱，因为他们会分阶段建设。 他还表示，Tesla 正在研究改变芯片制造流程以提高生产效率的方法，就像公司在其他业务中所做的那样。 我觉得大家还没意识到这里的芯片制造野心…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 160万 · 资本与算力] 砸1万亿美元建芯片厂？马斯克回应Terafab：分期建，不用立刻掏钱"
+    },
+    {
+      "title": "玩宝可梦写413文件才1徽章！Claude Sonnet 3.7被记忆管理坑惨",
+      "summary": "Claude Sonnet 3.7 玩《宝可梦》被记忆管理坑惨：17步建6删9、游戏一步没动，一轮写413文件才拿1徽章；更强模型留9文件就拿4枚。Anthropic 新博客聊 Claude「做梦」记忆，官方称能整理所学、纠错、更好找；有网友转述这借鉴人脑睡眠，智能体离线重温记录演化维基，还点出 OpenAI 的 ChatGPT 记忆也用这套「dreaming」。",
+      "reads": "43万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Chris",
+        "role": "",
+        "said": "Anthropic 发现 Claude Sonnet 3.7 在玩《宝可梦》时卡在了管理自身记忆上。 “在接下来的 17 步里，它创建了 6 个文件，删除了 9 个文件，在游戏本身中没有任何操作。” 在一次运行中，它写了 413 个文件才拿到 1 枚徽章。而一个更强的模型只保留了 9 个文件，就在一次运行中拿到了 4 枚徽章。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 43万 · 模型与能力] 玩宝可梦写413文件才1徽章！Claude Sonnet 3.7被记忆管理坑惨"
+    },
+    {
+      "title": "拿下948个Linux内核漏洞！OpenAI特种模型GPT-6 Cyber战绩曝光，专供红队",
+      "summary": "OpenAI 亮出了专门用于渗透攻防的特种模型 GPT-6 Cyber，最新实测战绩极其凶悍：直接挖出 81 个高危 Firefox 漏洞，还给 948 个 Linux 内核缺陷写出了可运行的 Exploit 利用代码。不过普通用户无缘上手，这台大杀器目前只对审核通过的红队人员开放。内部测试显示，它脱离范围越界的概率仅为 0.07%，基本被驯化成了指哪打哪的极准刺客。",
+      "reads": "21万",
       "ago": "2 小时前",
       "category": "模型与能力",
       "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "‼️ Apple 的 iPhone 键盘暗藏一份词组黑名单，既不提供联想建议也不支持滑行输入，从“独裁者 Trump”、“瞌睡虫 Joe”到“大男子主义猪”应有尽有。 希伯来语里不会联想建议“被占领土”。法语里则是“移民过多”。 研究人员 Derik Kauffman 在 iOS 深处挖出了这份列表，估计大约有 10 万条。路透社测试了一个样本，键盘在这些词上全都翻车了。 滑行输入“United Ireland（统一…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 21万 · 模型与能力] 拿下948个Linux内核漏洞！OpenAI特种模型GPT-6 Cyber战绩曝光，专供红队"
+    },
+    {
+      "title": "Opus5.5露脸ClaudeCode云会话，自动配依赖密钥盲存",
+      "summary": "今天凌晨，官方给Claude Code云会话减负了：在Pro、Max、Ultra上，Claude自己摸清依赖、网络权和API密钥，把环境存好下次直接用，关键是密钥安全保管、Claude根本看不见。截图底部还悄悄冒出个Opus 5.5选项。研究员Noah Zweben补了句：Tag、Projects、Duet这些前沿智能体循环往云上迁，配好云环境越来越重要。",
+      "reads": "31万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
       "bullets": [
-        "配图对比7款GPT模型的平均输出token与平均奖励，GPT-6 Astra约67%居首。",
-        "评分给部分分：能揪出实验错误、或直言证据支撑不了结论，也能拿分。",
-        "OpenAI称该基准用于追踪模型进步对科学进展、生物安全与生物安保的意义。"
+        "研究员Noah Zweben在后续推文中邀请用户私信反馈该功能好用与否、希望有哪些改动。"
+      ],
+      "quote": {
+        "who": "Noah Zweben",
+        "role": "",
+        "said": "@PeterJThomson @ClaudeDevs @exedev @cursor_ai @AmpCode 如果不好用随时告诉我，我们来看看怎么回事！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 31万 · 产品与生态] Opus5.5露脸ClaudeCode云会话，自动配依赖密钥盲存"
+    },
+    {
+      "title": "66.7%超43.8%！GPT-6 Astra湿实验基准领先5.6 Sol",
+      "summary": "OpenAI联手酶设计公司Ligo推出BioBasicsBench，GPT-6 Astra在湿实验真实数据基准上拿66.7%，明显领先GPT-5.6 Sol的43.8%。更硬的是xhigh设置下Astra每任务只耗4704输出token，约老模型一半，说明提升不是靠长推理堆分。但网友不买账，评论区全在喊要未发布的GPT-6.2，嫌基准再好也不如发新前沿模型实在。",
+      "reads": "56万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "基准包含100项真实实验任务，数据涵盖凝胶照片、菌落板、显微镜、测序读数和实验台视频等原始杂乱数据。",
+        "评分标准提供部分分，智能体揪出错误或指出证据不足也能得分。",
+        "有发帖者吐槽「今天没发布」，称Anthropic与OpenAI似都不愿先发最新前沿模型。",
+        "多名网友呼吁OpenAI放出未发布的GPT-6.2，有人称「起码该把6.2放上来」。"
       ],
       "quote": {
         "who": "Chris",
@@ -28,14 +165,37 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 36万 · 模型与能力] GPT-6 Astra湿实验66.7%远超Sol 43.8%，token反少一半"
+      "rank": 7,
+      "line": "[榜第7位 · 56万 · 模型与能力] 66.7%超43.8%！GPT-6 Astra湿实验基准领先5.6 Sol"
+    },
+    {
+      "title": "2.4倍少忘事！Meta给Muse换Wonder模型，主动记忆全量开放",
+      "summary": "Meta这波把Muse Wonder的Active Memory和Active Focus直接塞进Muse和Meta AI，所有人都能用。在Muse里，新专用模型遗忘关键信息的概率直降2.4倍，自我纠正和日常任务完成能力还涨了67%——少重复自己，少碰死胡同。爆料配图显示，Muse模型的个人超级智能指数从38%爬到47%，Active Memory Eval也提升14%；有网友…",
+      "reads": "26万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Muse和Meta AI应用现已运行在基于Muse Wonder训练的新专用模型上",
+        "Active Memory与Active Focus最早在Muse Wonder引入，本次扩展到两款应用向所有人开放"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "Meta 正在为 Muse 和 Meta AI 推送升级版模型，由 Muse Wonder 训练而成。 新模型带来了用于调取相关上下文的 Active Memory，以及在任务受阻时进行恢复的 Active Focus。Meta 称，在 Muse 中，处理突发异常的日常任务完成率提升了 67%。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 26万 · 模型与能力] 2.4倍少忘事！Meta给Muse换Wonder模型，主动记忆全量开放"
     },
     {
       "title": "小扎动动嘴，Muse Spaces建好烧烤游戏！自动更新可钉导航",
       "summary": "Muse 的 Spaces 功能上线了——动动嘴告诉它你要啥，专属空间立马建好还自动更新，能钉在导航栏随时追踪。小扎晒出口述生成的烧烤游戏（得分550、班次倒计时26秒烤汉堡）、活动追踪器和家居面板；Wang 则秀了功夫茶计时器（6克/100毫升、95℃、洗茶3秒）。第三方实测空间像交互工件，可绑定时后台任务。有网友夸「这版 spaces 有点东西」，唯盼能分享。",
-      "reads": "20万",
-      "ago": "1 小时前",
+      "reads": "24万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -52,54 +212,34 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 20万 · 产品与生态] 小扎动动嘴，Muse Spaces建好烧烤游戏！自动更新可钉导航"
+      "rank": 9,
+      "line": "[榜第9位 · 24万 · 产品与生态] 小扎动动嘴，Muse Spaces建好烧烤游戏！自动更新可钉导航"
     },
     {
-      "title": "948个Linux内核漏洞被攻破！OpenAI亮出GPT-6 Cyber，杀伤力太大仅限红队",
-      "summary": "OpenAI 披露了自家新型网络安全模型 GPT-6 Cyber 的战绩：直接在 Firefox 里挖出 81 个高危漏洞，还一口气为 948 个 Linux 内核缺陷写出了可用的漏洞利用代码。因为攻击破坏力太强，目前该模型只向经过审核的红队开放。OpenAI 在基准测试中还测出，它有 0.07% 的概率会脱靶越界、跑出规定范围。",
-      "reads": "22万",
+      "title": "Pro与商业版用户免费领API额度！OpenAI开发者插件Showcase页上新",
+      "summary": "OpenAI Developers 给 Pro 和 Business 订阅用户发了一波实打实的福利：账单设置里直接领 API 额度，拿来抵扣你自家应用的 API 消耗。开发者插件里新开了 Showcase 标签页，agents、创意工具、数据可视化、语音四大类起步项目随便挑，API key 在 ChatGPT 或 Codex 里就能建，丢进 Codex 接着改。周末别闲着，这额…",
+      "reads": "6.3万",
       "ago": "2 小时前",
-      "category": "模型与能力",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "International Cyber Digest",
+        "who": "OpenAI Developers",
         "role": "",
-        "said": "‼️ 前 FBI 反间谍特工认罪，用 FBI 在 35 起自家调查中收集的钱包密钥抽走约 247 万美元 crypto。 Patrick Yaroch，37 岁，背下了在 FBI 系统里看到的恢复短语，给自己转了约 100 笔。有个钱包属于 FBI 的行动。 他七月坦白时，告诉探员大概 10 笔、不到 100 万。 他问 ChatGPT 在欧盟住哪好。它建议了葡萄牙的葡萄园，他就在那儿雇律师给自己办了税号。 DOJ…"
+        "said": "你可以从涵盖智能体、创意工具、数据可视化和语音等多个方向的 OpenAI API 起步项目中进行挑选。直接在 Codex 中打开并在此基础上构建。 找个项目来二次创作吧："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 22万 · 模型与能力] 948个Linux内核漏洞被攻破！OpenAI亮出GPT-6 Cyber，杀伤力太大仅限红队"
-    },
-    {
-      "title": "睡一觉就能自己改错！Anthropic揭秘Claude记忆机制：靠「做梦」复盘经验",
-      "summary": "Anthropic官方发文揭秘，Claude正在像人类一样靠「做梦」建立真正从经验中学习的能力。官方在最新工程博客中透露，这套机制通过模拟人类做梦的过程，帮Claude自动整理和沉淀交互中学到的内容、纠正之前踩过的坑，让模型在下一次调用时更快、更精准地检索信息。",
-      "reads": "11万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Anthropic",
-        "role": "",
-        "said": "Memory 是让 Claude 能从经验中学习的东西。在一篇新的工程博客里，我们分享了「做梦」如何帮 Claude 整理学到的东西、纠正自己的错误，并且下次更容易找到需要的内容。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 11万 · 模型与能力] 睡一觉就能自己改错！Anthropic揭秘Claude记忆机制：靠「做梦」复盘经验"
+      "rank": 10,
+      "line": "[榜第10位 · 6.3万 · 产品与生态] Pro与商业版用户免费领API额度！OpenAI开发者插件Showcase页上新"
     },
     {
       "title": "网友笑称OpenAI怕Fable、Anthropic怕Astra，只敢写博客",
       "summary": "OpenAI刚联手fmf_org推出一套评估网络越狱危害轻重的框架，国家安全政策负责人Sasha Baker称要建统一证据库。可网友转头就嘲：OpenAI怕Fable、Anthropic怕Astra，俩都不发新品，只闷声写博客。",
-      "reads": "16万",
-      "ago": "2 小时前",
+      "reads": "23万",
+      "ago": "6 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -115,34 +255,34 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 16万 · 政策与安全] 网友笑称OpenAI怕Fable、Anthropic怕Astra，只敢写博客"
+      "rank": 11,
+      "line": "[榜第11位 · 23万 · 政策与安全] 网友笑称OpenAI怕Fable、Anthropic怕Astra，只敢写博客"
     },
     {
-      "title": "Claude Code云会话自动存环境，API keys上锁，Claude看不见",
-      "summary": "Claude Code 官方今天凌晨（北京时间 11 月 7 日）宣布，云会话在 Pro、Max、Ultra 套餐里能自己摸清 repo 要哪些依赖、网络权限和 API keys，存好环境下次直接续上。最妙的是密钥安全托管，Claude 自己都看不到——你不用手动贴 key，也不用怕它偷看。顺带一眼，配图里 New session 底部已挂上 Opus 5.5、Medium、A…",
+      "title": "嫌老显卡带不动Bing！微软逐步关停甲骨文AI算力，后者盘中跌4%",
+      "summary": "微软拒绝续签 2023 年向甲骨文租用 AI 云算力的协议，近几个月正逐步关停该部分算力。这笔交易当年原本用于支撑 AI 增强版 Bing，但甲骨文服务器搭载的老一代英伟达 GPU 已经跟不上微软如今的算力规格。受此冲击，甲骨文股价一度跳水跌约 4%，引发外界对 AI 基础设施真实需求的担忧，而甲骨文则坚称包括老卡在内的基础设施需求依然强劲。",
       "reads": "16万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "ago": "5 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "ClaudeDevs",
+        "who": "Milk Road AI",
         "role": "",
-        "said": "我们让在 Claude Code 的云会话（Pro、Max、Ultra 套餐）里跑你的 repo 更轻松了。 Claude 会自动搞清楚需要哪些依赖、网络访问和 API keys，然后把环境存下来下次直接用。API keys 是安全保存的，所以 Claude 根本看不到它们。"
+        "said": "$SPY 尾盘上涨约 0.4% 至 736 美元附近，在触及最高约 742 美元、最低约 734.58 美元后，收复了周四的部分失地。 以下是你必须了解的头条新闻： 1. AI 和半导体板块在周四暴跌后反弹，$NVDA 继昨日下跌约 9% 后上涨约 3%，$AMD 在整个芯片股的反弹中上涨约 10%。 2. $MSFT 正在逐步缩减向 $ORCL 租赁 AI 云算力的交易，受该报道影响甲骨文股价一度下跌约 4%，投资…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 16万 · 产品与生态] Claude Code云会话自动存环境，API keys上锁，Claude看不见"
+      "rank": 12,
+      "line": "[榜第12位 · 16万 · 资本与算力] 嫌老显卡带不动Bing！微软逐步关停甲骨文AI算力，后者盘中跌4%"
     },
     {
       "title": "Anthropic科学博客上新：AI正帮写模型，科学家仍手写",
       "summary": "北京时间11月7日凌晨，Anthropic在官方Science Blog发客座长文，聊AI怎么开始把科学模型当代码来写、跑、拟合、修订，自动探索多种结构、找出数据支持的解释。但官方原话是「starting to help」——科学家眼下通常还是手动写模型、权衡好几个竞争版本。文章举了神经元放电和中子星相撞当例子。这边刚发，就有观察者吐槽：大厂在推前沿模型前，就爱频繁甩这种周边文…",
-      "reads": "13万",
-      "ago": "2 小时前",
+      "reads": "22万",
+      "ago": "6 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -158,104 +298,56 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 13万 · 模型与能力] Anthropic科学博客上新：AI正帮写模型，科学家仍手写"
+      "rank": 13,
+      "line": "[榜第13位 · 22万 · 模型与能力] Anthropic科学博客上新：AI正帮写模型，科学家仍手写"
     },
     {
-      "title": "2倍提速塞进Anthropic S-1没人看，报告让怀疑派改口RSI不足半年",
-      "summary": "Anthropic几天前就在修订S-1里写了AI带来2倍提速，结果X上没几个人看——毕竟聊AI的大多不是律师，谁盯SEC文件啊。直到一份报告出来，多名原怀疑派大佬突然改口，预测RSI不到6个月、ASI一两年就到，爆料KOL本人也认。还有人顺着METR报告算完：纯软件奇点可行，18个月内超智能概率超50%。",
-      "reads": "16万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
+      "title": "Daybreak招蓝红队保基建，入选红队拿GPT-6 Cyber",
+      "summary": "研究员直言人类写安全基础设施本来就不行，数千万行代码的形式化证明已该纳入新系统设计。为此Daybreak开放蓝红队申请：蓝队用GPT-6 Sol和Luna修漏洞，红队用GPT-5.6 Cyber测攻击，入选红队还能拿GPT-6 Cyber。",
+      "reads": "94万",
+      "ago": "14 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "发帖研究者强调没有回头路，软件已被永远改变。"
+      ],
+      "quote": {
+        "who": "Vaibhav (VB) Srivastav",
+        "role": "",
+        "said": "@banteg 我开了个帖子专门说你的使用场景！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 94万 · 政策与安全] Daybreak招蓝红队保基建，入选红队拿GPT-6 Cyber"
+    },
+    {
+      "title": "你自然有意见！ChatGPT Remix给Business和Enterprise账户改出队友网站专属版",
+      "summary": "队友搭了个好网站，你自然有一堆修改意见——现在ChatGPT把这个「看不惯」做成了功能。Remix面向Business和Enterprise账户上线，你能在队友网站基础上跟ChatGPT说想改哪，一键派生出自己的版本，接着在对话框里继续迭代。图片里那个Waypoint差旅政策指南，就是被改的样板。",
+      "reads": "4.5万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Andrew Curran",
+        "who": "ChatGPT",
         "role": "",
-        "said": "@WeakConqueror @FanNoeru @alexolegimas 这是史上最牛的之一。"
+        "said": "队友搭了个很棒的网站，你自然想提点修改意见。 有了 Remix，只需告诉 ChatGPT 你想改哪里，就能做出属于你自己的网站版本。接着还能在对话框里继续编辑你的副本。 现已向 ChatGPT Business 和 Enterprise 账户开放推送。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 16万 · 模型与能力] 2倍提速塞进Anthropic S-1没人看，报告让怀疑派改口RSI不足半年"
-    },
-    {
-      "title": "2.4倍少忘事！Meta给Muse换Wonder模型，主动记忆全量开放",
-      "summary": "Meta这波把Muse Wonder的Active Memory和Active Focus直接塞进Muse和Meta AI，所有人都能用。在Muse里，新专用模型遗忘关键信息的概率直降2.4倍，自我纠正和日常任务完成能力还涨了67%——少重复自己，少碰死胡同。爆料配图显示，Muse模型的个人超级智能指数从38%爬到47%，Active Memory Eval也提升14%；有网友…",
-      "reads": "14万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Muse和Meta AI应用现已运行在基于Muse Wonder训练的新专用模型上",
-        "Active Memory与Active Focus最早在Muse Wonder引入，本次扩展到两款应用向所有人开放"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "META 🔥：Muse 和 Meta AI 应用现在跑在基于 Muse Wonder 训练的新专用模型上。 在 Muse Wonder 中引入的 Active Memory 和 Active Focus 现已在 Muse 和 Meta AI 中可用。 Personal Superintelligence Index 涨了 9%，Active Memory Eval 涨了 14%。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 14万 · 模型与能力] 2.4倍少忘事！Meta给Muse换Wonder模型，主动记忆全量开放"
-    },
-    {
-      "title": "Oracle股价跌超4%！传微软关停Oracle老GPU算力租约",
-      "summary": "Oracle股价一度跌超4%、砸到2024年3月来最低！北京时间11月7日凌晨，据Bloomberg，微软据称不续2023年租Oracle的AI算力协议，近月逐步关停，因对方老一代Nvidia GPU不合规格，这交易原本供AI增强版Bing。有金融发帖者吐槽：顶级AI芯片保质期就三年，微软甩手没感觉，借数百亿搞基建的Oracle和新云厂商自己吃成本，悄悄不续约还会更多。Orac…",
-      "reads": "15万",
-      "ago": "4 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "该租约与六月据传微软撤出30亿美元交易无关，Oracle彼时曾驳斥。"
-      ],
-      "quote": {
-        "who": "Hedgie",
-        "role": "",
-        "said": "🦔Microsoft 正在收尾一项从 Oracle 租 AI 算力的交易。Microsoft 选不续约，近几个月已经减量用了。据 Bloomberg 说，那些 Oracle 算力跑的是老一代 Nvidia 芯片，不再对 Microsoft 胃口。 这跟六月报道里 Microsoft 据传撤出的 30 亿美元交易不是一码事，当时 Oracle 还驳了。Oracle 股价今天一度跌超 4%，到 2024 年 3 月以来最…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 15万 · 资本与算力] Oracle股价跌超4%！传微软关停Oracle老GPU算力租约"
-    },
-    {
-      "title": "Salesforce安全团队握唯一否决权：渗透测试黑进CEO笔记本，交易黄了",
-      "summary": "Salesforce在自己帮助中心试水Fin，14天上线就扛下超40%流量，65%的问题压根不用人工。操盘这笔试点、连投Anthropic六轮的John Somorjai在a16z播客里聊透了他的并购打法：15,000名销售大军专喂缺渠道的好技术；但14个尽调部门里只有安全能一票否决——真有交易被渗透测试黑进CEO笔记本直接叫停。",
-      "reads": "4.3万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "Slack被Salesforce收购后营收涨近3倍，如今成了他眼里AI智能体的完美载体",
-        "创始人最容易栽的坑：只盯ARR一个指标，但它会盖住流失率，高流失往往暴露客户不满甚至产品硬伤",
-        "Somorjai当前最兴奋的赛道是机器人，Salesforce Ventures已下注相关标的",
-        "安全团队要求标的方赶在尽调前自查漏洞，准备越无懈可击，交易走得越顺"
-      ],
-      "quote": {
-        "who": "a16z",
-        "role": "",
-        "said": "Salesforce 的 John Somorjai 谈如今初创估值的退出逻辑，a16z 的 Alex Immerman 谈驱动回报的更大结果： John: 「我觉得现在有很多不负责任的事。估值当然高得离谱。」 「说到投资，你得想，我的退出机会在哪？不是每家公司都能上市。事实上，能上市的极少，可能 1% 或更少。」 「一旦估值超过 100 亿美元，买家圈子就极小，可你现在看到那么多估值几十亿的大公司，迟早要算总账。」…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 4.3万 · 资本与算力] Salesforce安全团队握唯一否决权：渗透测试黑进CEO笔记本，交易黄了"
+      "rank": 15,
+      "line": "[榜第15位 · 4.5万 · 产品与生态] 你自然有意见！ChatGPT Remix给Business和Enterprise账户改出队友网站专属版"
     },
     {
       "title": "2.4倍不忘、67%能干！Meta的Muse今起换Muse Wonder新模",
       "summary": "Alexandr Wang宣布，从11月7日起，Muse和Meta AI就跑在基于Muse Wonder训练的新专用模型上了。最狠两个数：Muse里遗忘关键信息直接少2.4倍，计划外任务硬扛完成率还涨67%。配图里个人超级智能指数从38%蹦到47%——Active Memory跨时间记要紧事，Active Focus遇阻也推进，这回真奔个人超级智能去了。",
-      "reads": "7.6万",
-      "ago": "3 小时前",
+      "reads": "12万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
@@ -268,98 +360,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 7.6万 · 产品与生态] 2.4倍不忘、67%能干！Meta的Muse今起换Muse Wonder新模"
-    },
-    {
-      "title": "Anthropic、OpenAI都不先出招，「GPT-6.2 Astra」至今没来",
-      "summary": "截至北京时间11月7日凌晨2点，一位KOL发帖吐槽：OpenAI那边毫无动静，新「GPT-6.2 Astra」始终没影。他越等越懵，说两家像在互相观望，Anthropic和OpenAI谁都不想先出招，却又都想压对方一头。赌注高得不能再高，尤其想到Anthropic的IPO前景。最逗的是他自曝完全没头绪，还直说讨厌这种含糊发帖。",
-      "reads": "5.8万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "该KOL称，Anthropic若成功，需超过OpenAI在其自身潜在上市前所取得的成绩。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@ishuagra02 说真的，我现在讨厌这种含糊发帖"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 5.8万 · 资本与算力] Anthropic、OpenAI都不先出招，「GPT-6.2 Astra」至今没来"
-    },
-    {
-      "title": "AI内存荒逼出第4家？台积电据称起草3D DRAM计划，三巨头垄断将破",
-      "summary": "AI内存荒逼得英伟达找外援了：据 The Information，英伟达已要求台积电成为其第四家先进存储供应商，台积电据称已开始起草3D DRAM芯片制造计划。眼下先进内存只由三星、SK海力士、美光三家把持，台积电若真下场，三巨头联手涨价的话语权就要被撬动。有意思的是，3D DRAM传统厂还没成熟产品，台积电倒先攥着垂直DRAM专利。",
-      "reads": "9.4万",
-      "ago": "5 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "据网友转述，英伟达10月曾要求三星、SK海力士、美光均采用台积电3nm工艺制造定制HBM基础底模，以便短缺时调配订单。",
-        "台积电目前仅起草计划，尚未设定量产时间表，正考虑新建或改造晶圆厂，但对外称重心仍是核心逻辑代工。"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": "Nvidia 正在物色第四家先进 memory 供应商。 据报道，他们已要求 TSMC 成为其第四家先进 memory 供应商。 应 Nvidia 的要求，TSMC 据称已开始着手制定生产 3D DRAM 芯片的计划。 这意味着，目前 Nvidia 只能向 Samsung、SK Hynix 和 Micron 这三家公司采购先进 memory。 如果 TSMC 也开始造，Nvidia 就有了第四个供货渠道，不仅供货更有…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 9.4万 · 资本与算力] AI内存荒逼出第4家？台积电据称起草3D DRAM计划，三巨头垄断将破"
-    },
-    {
-      "title": "1024位RSA被AI揪出两个大洞！2048位暂安全，历史复杂度假设靠不住了",
-      "summary": "Google DeepMind 甩出一项研究：在人类引导下，自家模型从老旧 1024 位 RSA 密码系统里扒出两个重大漏洞。好消息是现代 2048 位暂时扛得住这两个具体攻击；坏消息是，DeepMind 说迈入 AI 赋能数学的新时代，历史计算复杂度假设不能再无脑信了，密码标准得持续压测。",
-      "reads": "8.0万",
-      "ago": "5 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "研究由 Google DeepMind 官方账号发布，原帖时间 2026-11-06 17:20 UTC，即北京时间 11 月 7 日凌晨 01:20。",
-        "推文未点名具体模型，只称「我们的模型」在人工引导下完成发现。"
-      ],
-      "quote": {
-        "who": "Google DeepMind",
-        "role": "",
-        "said": "虽然现代 2048 位系统面对这些特定漏洞依然安全，但这项研究揭示了一个关键转折。 随着我们迈入 AI 赋能数学与计算的新纪元，我们再也不能依赖历史上的计算复杂度假设，必须对密码学标准进行持续的压力测试。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 8.0万 · 政策与安全] 1024位RSA被AI揪出两个大洞！2048位暂安全，历史复杂度假设靠不住了"
-    },
-    {
-      "title": "30亿A100给Bing旧闻新炒！微软甲骨文害市场白抛一轮",
-      "summary": "市场居然因为一篇翻炒微软甲骨文旧闻的稿子集体抛售——那笔30亿美元A100给Bing的2023年交易，Business Insider六月就报过了。彭博随后更新加了BI引用，发帖记者直呼这完完全全是扯淡，文章链的就是2023年Bing MSFT/ORCL原稿。",
-      "reads": "4.1万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "发帖记者连发三条嘲讽「小丑表演」，称媒体照例会把这种旧闻混为一谈、炒成大新闻。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "@benitoz 对。那篇 Bloomberg 文章直接链的就是 2023 年 Bing MSFT/ORCL 的新闻稿。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 4.1万 · 资本与算力] 30亿A100给Bing旧闻新炒！微软甲骨文害市场白抛一轮"
+      "line": "[榜第16位 · 12万 · 产品与生态] 2.4倍不忘、67%能干！Meta的Muse今起换Muse Wonder新模"
     }
   ],
   "board_count": 16,
