@@ -3,37 +3,105 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-08 08:28:23 +0800",
+  "fetched_at": "2026-11-08 15:13:41 +0800",
   "today": "11/08",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "反超预测曲线6周！Anthropic神秘Model 4曝光，内部效能狂飙12倍",
-      "summary": "AI 2027 追踪器最新更新，结果让业界大吃一惊：哪怕是对 AI 指数级演进最乐观的推演，眼下也被现实彻底甩在身后。根据 METR 针对 Anthropic 内部模型的评估报告及 AECI 得分测算，此前 OpenAI 旗舰 Astra 的表现还落后预测曲线 5 周，而 Anthropic 代号为 Model 4 的神秘研发模型已实现反超、领先曲线整整 6 周，内部自评效能提…",
-      "reads": "22万",
+      "title": "别再猜了！OpenAI澄清Pro全无5小时限制，Tibo还想加推Pro 50",
+      "summary": "针对社区近期对额度限制的困惑，OpenAI 核心产品负责人 Tibo 明确澄清：所有 ChatGPT Pro 套餐压根没有 5 小时使用限制！相比 Plus，各档位用量倍数给得相当彻底：Pro 100 为 10 倍，Pro 200 为 20 倍，Pro 500 更是拉到 50 倍且能使用 ultrafast。澄清完规则后，Tibo 甚至直接发帖向社区问策，打探大家对推出更便宜的…",
+      "reads": "23万",
       "ago": "1 小时前",
-      "category": "模型与能力",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "测算口径引发讨论：有从业者指出本次更新来自结合 METR 数据与内部自评的独立追踪项目，并非最初撰写《AI 2027》报告的原作者团队官方维护。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Tibo",
         "role": "",
-        "said": "@BenPielstick 是的，但现在连最乐观的预测看起来都有些保守了"
+        "said": "出个 Pro 50 有搞头吗？大家怎么看？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 22万 · 模型与能力] 反超预测曲线6周！Anthropic神秘Model 4曝光，内部效能狂飙12倍"
+      "line": "[榜第1位 · 23万 · 产品与生态] 别再猜了！OpenAI澄清Pro全无5小时限制，Tibo还想加推Pro 50"
+    },
+    {
+      "title": "《苦涩的教训》作者泼冷水：光堆算力成不了智能！全网反手给他科普",
+      "summary": "《苦涩的教训》作者、强化学习先驱 Richard Sutton 罕见泼冷水，发文直言「光靠暴力堆算力做不出智能」，AI 科学探索还远未大功告成。结果评论区瞬间魔幻，居然真有网友当面建议原作者去读读《苦涩的教训》。对此，François Chollet 转发力挺，直言数万亿美元砸出的扩展只是放大器，光靠低效方法硬堆绝不是 AI 的终极解法。",
+      "reads": "45万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "François Chollet 强调，大家确实该研究能够扩展的方法，否则根本没法竞争，但扩展只是个乘数，底层方法越聪明，扩展起来的效果才会越好。",
+        "针对全网用《苦涩的教训》反驳作者本人的闹剧，有从业者指出该文核心是「能随算力扩展的通用方法长期胜出」，前提依然得由人类去发明和改进这些新方法，绝不等于闭眼堆…"
+      ],
+      "quote": {
+        "who": "Derya Unutmaz, MD",
+        "role": "",
+        "said": "我建议 Richard Sutton 去读读《苦涩的教训》这篇大作，里面解释了为什么堆更多算力能扩展智能 ☺️"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 45万 · 模型与能力] 《苦涩的教训》作者泼冷水：光堆算力成不了智能！全网反手给他科普"
+    },
+    {
+      "title": "马斯克90天即可断供算力！Chamath曝惊天协议，Anthropic生死被卡脖子",
+      "summary": "知名投资人 Chamath 在播客中爆出重磅猛料：SpaceX 与 Anthropic 的算力协议竟附带「双向 90 天退出条款」。一旦马斯克决定解约停供，SpaceX 可按现货价把算力价格直接翻 2 到 3 倍。由于极其依赖这批算力，Anthropic 根本没有退路，只能立刻咽下涨价。David Friedberg 更算了一笔账：英伟达每花 1 美元造芯，最终在 Anthro…",
+      "reads": "43万",
+      "ago": "5 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "算力暴利账本曝光：David Friedberg 指出，SpaceX 砸 100 亿美元建的 Colossus 集群按 5 年折旧年成本仅 20 亿美元，如…",
+        "巨头控盘或拖垮迭代：Chamath 称随着数据中心建设放缓，Amazon、Meta、微软、Google 和 SpaceX 五大巨头将成为造王者；若 Goog…",
+        "政策急刹车引发 2028 断崖：David Sacks 表示，德州候任官员拟叫停新建数据中心审批，大量在建项目因环保等后期许可未拿齐面临搁浅，全美算力资本支…"
+      ],
+      "quote": {
+        "who": "Fireside Alpha",
+        "role": "",
+        "said": ""
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 43万 · 资本与算力] 马斯克90天即可断供算力！Chamath曝惊天协议，Anthropic生死被卡脖子"
+    },
+    {
+      "title": "落后5周直接反超6周！Anthropic神秘模型曝光，效能飙升12倍打脸最乐观预测",
+      "summary": "AI的狂飙速度，连最乐观的预言家都追不上了。AI 2027追踪器最新数据测算显示，此前在OpenAI旗舰GPT-6 Astra下，演进节奏还落后预测曲线5周；但随着Anthropic内部未公开研发模型「Model 4」的数据加入，进度直接逆转并反超预测曲线整整6周！员工自评图显示其效能提升最高达12倍，让业内直呼连最狂妄的指数级预期都保守了，递归自我改进（RSI）或许真的已经启…",
+      "reads": "27万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "数据基于独立机构METR对Anthropic内部模型的AECI（AI能力指数）评估报告测算，并非纸面推演。",
+        "引发震动的「Model 4」为Anthropic内部最新研发模型，主打AI研发效能提升，目前尚未公开发布。"
+      ],
+      "quote": {
+        "who": "Andrew Curran",
+        "role": "",
+        "said": "@tysonmaly Anthropic 内部的。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 27万 · 模型与能力] 落后5周直接反超6周！Anthropic神秘模型曝光，效能飙升12倍打脸最乐观预测"
     },
     {
       "title": "Karpathy又手搓YouTube！Claude Code三分钟一把过，收录4.7万硬核极客视频",
       "summary": "受够平台推荐算法的Karpathy又手搓了一个YouTube！看到同事分享的优质频道清单后，他抄起Claude Code，仅用3分钟、一轮提示词就搞定了视频聚合站TristanTube并直接上线。网站一口气收录了4.7万个硬核极客视频，暗黑模式、关于页一应俱全，甚至连适合躺在沙发上刷片的电视模式都搓了出来。几天前他做HackerTube还要耗时2小时，如今独立建站已经被彻底压缩…",
-      "reads": "40万",
-      "ago": "4 小时前",
+      "reads": "57万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -49,80 +117,212 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 40万 · 产品与生态] Karpathy又手搓YouTube！Claude Code三分钟一把过，收录4.7万硬核极客视频"
+      "rank": 5,
+      "line": "[榜第5位 · 57万 · 产品与生态] Karpathy又手搓YouTube！Claude Code三分钟一把过，收录4.7万硬核极客视频"
     },
     {
-      "title": "90天随时断供！马斯克被曝握紧Anthropic命门：算力提价3倍你也得咽下",
-      "summary": "投资大佬 Chamath 在播客爆出猛料，SpaceX 与 Anthropic 的算力协议居然附带「双向 90 天解约条款」。这意味着马斯克随时能掀桌子宣布 90 天后断供，将算力按飙涨 2 到 3 倍的现货市价重新兜售，极度缺算力的 Anthropic 只能捏着鼻子接受提价。更夸张的是产业链暴利：英伟达 1 美元造芯成本卖给马斯克，打造出月入 12.5 亿美元、毛利率 83%…",
-      "reads": "17万",
+      "title": "别催了！LeCun下场硬刚质疑：ChatGPT憋了5年，好戏还在后头",
+      "summary": "面对外界对 JEPA 路线迟迟不见杀手级应用的唱衰，LeCun 坐不住了，连发推文回怼。他不仅直接质问质疑者「看不懂字吗」，还给 DINO 正名其本质就是一种 JEPA，并怒斥外界拿学生论文跟大厂模型对比纯属关公战秦琼——高校重在探索新方法，大厂才负责堆算力刷榜。最后他灵魂喊话：2017 年的 Transformer 憋到 2022 年底才炸出 ChatGPT，JEPA 202…",
+      "reads": "3.5万",
       "ago": "2 小时前",
-      "category": "资本与算力",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "David Sacks 预警全美数据中心将在 2028 年遭遇建设停滞，两党政客受选票与攻击广告施压，缺乏政治动力审批新项目，手续未齐的工程恐难以为继。",
-        "Chamath 认为坐拥机房的超大规模厂商已成为造王者，若 Google 将海量新增产能全数锁给自家 Gemini，将直接拖慢以 60 至 90 天高频迭代…",
-        "据 David Friedberg 测算，SpaceX 打造 Colossus 1 耗资 100 亿美元，按 5 年折旧每年成本仅 20 亿美元，而 Ant…"
+        "厘清自监督技术谱系：自监督学习区别在于是否使用重构，联合嵌入架构分带预测器的 JEPA 和不带预测器的 JEA；DINO 严格来说是基于对比聚类和特定数据增…",
+        "学术探索与大厂刷榜严禁混淆：Meta-FAIR 研发的 V-JEPA 2.1 和 DINO 依赖专属庞大数据集、海量算力和工程调优，而 LeJEPA、LeW…",
+        "基础科研转化需要沉淀：LeCun 呼吁外界切勿把上游的方法探索与下游的工程扩展（Scaling）、刷榜及产品化混为一谈，高校产出的原创方法未来会被有资源者承…"
       ],
       "quote": {
-        "who": "Fireside Alpha",
+        "who": "Yann LeCun",
         "role": "",
-        "said": "特邀嘉宾 @chamath 完整视频："
+        "said": "@davnords @gabriberton - DINO 属于 JEPA（看不懂字吗？） - 我们当时重点在视频上"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 17万 · 资本与算力] 90天随时断供！马斯克被曝握紧Anthropic命门：算力提价3倍你也得咽下"
+      "rank": 6,
+      "line": "[榜第6位 · 3.5万 · 模型与能力] 别催了！LeCun下场硬刚质疑：ChatGPT憋了5年，好戏还在后头"
     },
     {
-      "title": "全网狂催GPT-6.2！OpenAI研究员却只晒单提示词小游戏，被怼全靠画饼吊胃口",
-      "summary": "全网都在蹲守 GPT-6.2 Astra 与 Sol 的官宣，OpenAI 研究员 Tibo 却在 X 上晒出单条提示词手搓的「逃离地下室」游戏，感叹如今一句 Prompt 就能出效果。此举引来爆料账号公开炮轰：大家催的是明确的测试成果和发布进展，官方却一再发这种云里雾里的帖子吊胃口，社区的耐心正被一点点磨光。",
-      "reads": "278万",
-      "ago": "17 小时前",
-      "category": "模型与能力",
+      "title": "怒撤每月100美元赞助！Steinberger炮轰Asahi Linux：排斥AI纯属可笑",
+      "summary": "开源圈直接吵翻！知名开发者 Peter Steinberger 晒图宣布，正式取消对 Asahi Linux 每月 100 美元的 GitHub 赞助。他痛批项目方早已偏离「将封闭生态做成开放」的初衷，不仅增加限制阻碍外部做二次开发，而且抵触 AI 的做法「纯属可笑」。他还透露，就在 Omarchy 整合并致谢 Asahi 大量成果几天后，Asahi 便迅速改投了 GPL 协议…",
+      "reads": "4.9万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Tibo",
+        "who": "Peter Steinberger 🦞",
         "role": "",
-        "said": "@theo 还有，你真死了 25 次？😭"
+        "said": "@asmirkn 就在 Omarchy 整合并致谢了一堆 Asahi 的工作成果几天后，他们就改投 GPL 了，原因肯定不是那个。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 278万 · 模型与能力] 全网狂催GPT-6.2！OpenAI研究员却只晒单提示词小游戏，被怼全靠画饼吊胃口"
+      "rank": 7,
+      "line": "[榜第7位 · 4.9万 · 产品与生态] 怒撤每月100美元赞助！Steinberger炮轰Asahi Linux：排斥AI纯属可笑"
     },
     {
-      "title": "没开加速、全自主运行！Jim Fan提前剧透CoRL大招：机械手操作绝了",
-      "summary": "Jim Fan提前放出了即将在CoRL大会亮出的大招。演示里一只机械手灵活摆弄印有「GROOT」与「1」字样的方块，手部动作流畅到引来围观者惊叹。面对网友关于实机真实性的追问，Jim Fan直接在评论区证实：全自主运行，而且视频没有经过任何加速处理。倒计时2天，这场演讲显然憋了个硬核进展。",
-      "reads": "4.6万",
+      "title": "35年医学老兵力挺哈萨比斯：AI十年内治愈所有疾病，15年逆转衰老！",
+      "summary": "面对学界对 AI 医疗神话的质疑，深耕生物医学 35 年的资深学者 Derya Unutmaz 公开发文，全力声援 Demis Hassabis 与 Dario Amodei 的激进预言：AI 将在 10 年内治愈人类所有疾病，并在约 15 年内逆转衰老！他痛批同行专家的嗤之以鼻纯属认知失调与傲慢自负，误将人类大脑的局限当成智能本身的上限；超级智能即将掀起的生物革命，将轻松碾压…",
+      "reads": "5.4万",
       "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Jim Fan预告将于当地时间11月9日下午1:45在奥斯汀希尔顿酒店登台发表主题演讲，并称该成果为非同凡响之作。"
+        "降维打击正按学科蔓延：指出顶尖数学家刚刚被机器智能超越，物理学家马上迎来相同遭遇；生物系统虽复杂但仍受物理规律支配，破译只是算力与数据问题。",
+        "三十年前的老资格：在与网友互动中透露自己 20 年前就预言了这一天，且早在 1990 年代中期就是最早使用「Biohacker」（生物黑客）一词的人之一。",
+        "对落地进展保持乐观：面对网友对监管或放缓风险的担忧，他直言「至少中国看起来不会停下脚步」。"
       ],
       "quote": {
-        "who": "Andrew Curran",
+        "who": "Derya Unutmaz, MD",
         "role": "",
-        "said": "@DrJimFan 哇，这手部动作太绝了。"
+        "said": "@petergyang 没问题 Peter，私信我。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 4.6万 · 模型与能力] 没开加速、全自主运行！Jim Fan提前剧透CoRL大招：机械手操作绝了"
+      "rank": 8,
+      "line": "[榜第8位 · 5.4万 · 模型与能力] 35年医学老兵力挺哈萨比斯：AI十年内治愈所有疾病，15年逆转衰老！"
+    },
+    {
+      "title": "没开倍速！Jim Fan剧透CoRL压轴大招：机械手全自主操作，纯真机实测",
+      "summary": "倒计时2天，Jim Fan在X上提前剧透CoRL 2026压轴成果，配图中机械手正操控印有「GROOT」与「1」字样的方块，瞬间点燃具身智能圈。面对各方对丝滑手部动作的惊呼，他连续三次敲黑板正面回应：完完全全是真机实测、全自主运行，而且绝无加速处理。这记重磅大招将于奥斯汀时间11月9日下午正式掀开底牌。",
+      "reads": "8.3万",
+      "ago": "7 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Jim Fan",
+        "role": "",
+        "said": "真实实测。完全自主。无加速。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 8.3万 · 模型与能力] 没开倍速！Jim Fan剧透CoRL压轴大招：机械手全自主操作，纯真机实测"
+    },
+    {
+      "title": "破1000大关！Nous Research自制插件库井喷，社区手搓1032个生态起飞",
+      "summary": "开源AI黑马Nous Research生态迎来关键里程碑：社区自制插件正式迈过1000个大关！其实后台插件库已经悄悄冲到了1032个，星标榜上mem0等热门工具领跑。官方不仅搭建了完善的插件审批系统，Teknium还透露相关提交活动预计在太平洋时间周三下午2点截止，开源Agent生态的滚雪球效应正全面铺开。",
+      "reads": "4.1万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "插件库界面显示当前Community插件总数已达1032个，支持按Stars榜单筛选热门项目。",
+        "官方已建立起配套的审批系统（approvals system），用于规范插件的准入与流转。",
+        "相关插件提交与活动预计于太平洋时间周三14:00（北京时间周四早6:00）截止。"
+      ],
+      "quote": {
+        "who": "Teknium 🪽",
+        "role": "",
+        "said": "@robertomasymas 是的，截止到周三，我记得是太平洋时间下午 2 点！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 4.1万 · 产品与生态] 破1000大关！Nous Research自制插件库井喷，社区手搓1032个生态起飞"
+    },
+    {
+      "title": "吹20倍实际仅6倍！每月200美元Claude Max涉虚假宣传，法官勒令应诉",
+      "summary": "每月掏 200 美元买 Claude Max，结果额度大缩水！美联邦法官 Alex Tse 最新裁定，Anthropic 必须面对夸大 Max 套餐用量的虚假宣传诉讼。原告发现官方标榜的「Pro 方案 20 倍用量」其实只按 5 小时单次会话算，每周总上限根本没同比例放大，算下来实际只有约 6 倍，重度用户甚至会比 Pro 更早耗尽当周额度。更绝的是，这行关键限制条款藏在离销售…",
+      "reads": "5.2万",
+      "ago": "7 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "不仅 200 美元档翻车，原告针对 Sonnet 4 测算显示，每月 100 美元的 Max 5x 方案每周实际用量也只有 Pro 的 3.5 倍。",
+        "法官已给出审理节点：原告须在 12 月 2 日前提交修改版起诉书，若未修改，Anthropic 必须在 12 月 16 日前正式提交答辩应诉。"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "‼️ 美国一名法官表示，Anthropic 必须面对相关诉讼，其被指控虚假宣传每月 200 美元的 Claude Max 方案拥有“Pro 方案 20 倍的使用量”，而实际上每周只提供了大约 6 倍。 这个倍数只适用于每 5 小时的单次会话，但每周的上限并没有按比例同步增加。裁定书指出，Max 订阅者可能比 Pro 用户更早用完当周的额度。 按照原告基于 Sonnet 4 的计算，100 美元的 Max 5x 方案实…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 5.2万 · 政策与安全] 吹20倍实际仅6倍！每月200美元Claude Max涉虚假宣传，法官勒令应诉"
+    },
+    {
+      "title": "拿核武比AI监管？研究员roon硬核回怼：模型做出来连面包机都能跑",
+      "summary": "把 AI 监管类比成核武器监管，纯属扯淡！研究员 roon 今天直接开炮，痛批那些鼓吹核武式监管的言论。他直言，管核武盯的是毫无民用价值的特殊矿物与专用设备，而 AI 靠的是具有巨大经济价值的消费级硬件；大模型一旦做出来，全世界都能无限复制下载，「哪怕在面包机上都能跑」。要想彻底掐死全球的算法演进，除非建立一个极度专制的全球执法体系。",
+      "reads": "4.9万",
+      "ago": "7 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "roon",
+        "role": "",
+        "said": "模型一旦做出来，就可以在全世界无限复制和下载，哪怕在面包机上都能跑。谁要是把监管 AI 的难度跟监管核武器相提并论，那纯粹是在扯淡"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 4.9万 · 政策与安全] 拿核武比AI监管？研究员roon硬核回怼：模型做出来连面包机都能跑"
+    },
+    {
+      "title": "点一次「不再询问」连密码全明文存！Claude Code被曝泄露上千项目密钥",
+      "summary": "用 Claude Code 写代码千万别随手勾选「不再询问」。研究人员发现，一旦勾选该选项，它会默认将用户确认执行的终端命令以明文存入项目文件，连带命令里的密码一并写入。目前 GitHub 上已检索到 1,122 个包含该文件的公开代码库，直接裸奔了 379 个数据库密码和 23 个 AWS 密钥。更尴尬的是，此前相关的漏洞反馈已被 GitHub 机器人以「无此计划」为由自动关…",
+      "reads": "7816",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "横向对比的 16 款编程智能体中，仅 Claude Code 默认完整记录命令并明文保存",
+        "主流机密扫描工具 Gitleaks 和 TruffleHog 漏检了其中 215 个文件，因终端命令直输的密码缺少固定前缀特征"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "‼️ 在Claude Code里一旦点了“不再询问”，它就会把确认过的命令以明文形式存进项目文件，连带密码一并写入。 研究人员在GitHub上找到了1122个公开含有该文件的代码库，其中藏有各类机密，包括379个数据库密码和23个AWS密钥。 在对比的16款编程AI智能体中，唯独Claude Code默认会完整保存整条命令。此前关于该问题的Bug反馈，已被机器人以“无此计划”为由直接关闭。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 7816 · 政策与安全] 点一次「不再询问」连密码全明文存！Claude Code被曝泄露上千项目密钥"
+    },
+    {
+      "title": "用AI审查并自动合并代码被开除！学者怒批：99.9%人类写代码真不如模型",
+      "summary": "宁可让PR拖上几周甚至一个月，也不许AI插手非生产环境代码？有博文爆料，某家AI实验室把一位用AI智能体审查并自动合并代码的工程师给开了。研究员Yuchen Jin直呼太荒谬，怒批「认为AI写代码全是垃圾」的刻板思维必须淘汰，不能让人力和繁琐流程扼杀产品交付速度；他更扎心断言：99.9%的人类写出的代码永远比不过LLM，行业早该正视这个现实。",
+      "reads": "4507",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Yuchen Jin",
+        "role": "",
+        "said": "@designwkarthick 99.9% 的人类写代码永远超不过大语言模型了。 咱们还是老实承认吧。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 4507 · 产品与生态] 用AI审查并自动合并代码被开除！学者怒批：99.9%人类写代码真不如模型"
     },
     {
       "title": "一天狂烧18亿Token！200美元套餐彻底不够用，硬核用户叹AI还在象牙塔",
       "summary": "每天硬烧 7 亿到 18 亿 Token，连 200 美元一个月的订阅套餐都扛不住了！有硬核用户晒出 Codex 日常消耗，直言工作流已被彻底颠覆，马上得加钱升级到 500 美元档位。不过他也感慨，现在的 AI 圈其实活在象牙塔里：95% 的人还在用免费版 ChatGPT，只有 5% 的人掏钱，而像他这样每天烧掉十几亿 Token 的重度用户，在付费群体里也只是极少数。",
-      "reads": "4.3万",
-      "ago": "3 小时前",
+      "reads": "5.0万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -138,104 +338,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 4.3万 · 产品与生态] 一天狂烧18亿Token！200美元套餐彻底不够用，硬核用户叹AI还在象牙塔"
-    },
-    {
-      "title": "Ethan Mollick发文：最新模型查证事实或已赢过博士，替AI捉虫的认知大概过时了",
-      "summary": "Ethan Mollick 发文直言，大家日常对 AI 事实错误的担忧可能有些过头。最新模型数据显示，在查证事实和核对论断上，它们表现或已击败包括博士在内的人类专家。在他看来，「人类工作就是给 AI 挑错」的认知如今大概率不再成立，谢天谢地。虽然特定场景下 AI 错误率可能仍不及人类，但大家得重新评估这种情况发生的频率；核查时除了纠错，或许也存在观点与立场等其他考量。",
-      "reads": "6.0万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Ethan Mollick",
-        "role": "",
-        "said": "当然，某些情况下 AI 的错误率可能还是比人类差，但我们得重新评估这种情况到底有多频繁了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 6.0万 · 模型与能力] Ethan Mollick发文：最新模型查证事实或已赢过博士，替AI捉虫的认知大概过时了"
-    },
-    {
-      "title": "260天缩至56天！内部模型领先Opus 5.5五个月，实验室捂盘不为安全",
-      "summary": "爆料者甩出狠料：内部模型领先公开版的差距从没这么大过，他上手过的部分模型轻松甩开Opus 5.5整整五个月。配上AECI翻倍周期从260天压到56天的图，逻辑很直白——实验室捂盘不是为了安全，是要在内部狂飙、给你这底层大众砌墙。别自欺欺人觉得你不在底层大众，除非你现在就用上未来的模型。",
-      "reads": "5.3万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "AECI时间跨度图显示模型翻倍周期从260天加速到56天，并预测Model 4将达百小时级。",
-        "爆料者回应网友：若模型不安全实验室根本不会在内部构建，安全论点本质是关于控制。"
-      ],
-      "quote": {
-        "who": "🍓🍓🍓",
-        "role": "",
-        "said": "各家前沿实验室都在“把控前沿技术发布的节奏”，好在内部狂飙突进、赢得这场竞赛。 他们可不是为了安全才这么干的。 真要为了安全，他们内部研发也该降速才对"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 5.3万 · 模型与能力] 260天缩至56天！内部模型领先Opus 5.5五个月，实验室捂盘不为安全"
-    },
-    {
-      "title": "别急着唱衰JEPA！LeCun正面硬刚：Transformer憋出ChatGPT都用了5年",
-      "summary": "面对外界对世界模型路线迟迟不见大动静的唱衰，Meta 首席 AI 科学家 Yann LeCun 坐不住了，直接下场回怼质疑者在关公战秦琼。他算了一笔硬账：从 2017 年 Transformer 论文发表到 2022 年底 ChatGPT 爆发憋了足足五年多，而初代 JEPA 2022 年才刚提出，着什么急？LeCun 怒批外界绝不能把学术界的方法论探索和大厂的工程刷榜混为一谈…",
-      "reads": "2.2万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "DINO 本质属于 JEA：LeCun 指出 DINO 严格来说是无预测器的联合嵌入架构（JEA），核心差异仅在基于对比聚类与 stopgradient/E…",
-        "科研与大厂模型不能混为一谈：LeJEPA、LeWM 等高校论文由学生在无工程支持、算力极少和小数据集下完成，负责输出纯粹的新方法与新思想；而 V-JEPA…",
-        "基础研究需要孵化周期：上游方法论是下游 Scaling、工程落地与最终产品的基石，一旦有算力资源的大厂介入扩展，高校的学术探索最终也会演变成成熟的大模型。"
-      ],
-      "quote": {
-        "who": "Yann LeCun",
-        "role": "",
-        "said": "@gabriberton 1. 是的。 2. 并不，除非你在关公战秦琼。 3. V-JEPA、I-JEPA，好戏还在后头。 从 Transformer 论文（2017）到 ChatGPT（2022 年底）之间隔的时间，比初代 JEPA 论文（2022）到现在还要长。 所以，朋友，多点耐心。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 2.2万 · 模型与能力] 别急着唱衰JEPA！LeCun正面硬刚：Transformer憋出ChatGPT都用了5年"
-    },
-    {
-      "title": "35年资深医学专家力挺Demis：AI将在10年治愈一切疾病、15年逆转衰老！",
-      "summary": "35年经验的生物医学专家Derya Unutmaz公开发文力挺Demis Hassabis和Dario Amodei：AI将在10年内治愈所有疾病，并在15年内逆转衰老！针对同行的普遍质疑，他直言顶尖科学家的抗拒源于人类智能的极端自负，误把人脑极限当成智能本身的上限。数学家刚经历完现实毒打，物理和生物马上就到；生物学再复杂也是物理系统，超级智能必将彻底颠覆医学。",
-      "reads": "3.7万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "面对网友关于监管阻碍研发的担忧，他回复表示对未来依然乐观，「至少中国在推进这方面不会停下脚步」",
-        "他透露自己20年前就做过类似预测，且在20世纪90年代中期就是最早使用「生物黑客」（Biohacker）一词的人之一"
-      ],
-      "quote": {
-        "who": "Derya Unutmaz, MD",
-        "role": "",
-        "said": "@Darbybailey 没错，我20年前就预言过这点，而且是90年代中期最早使用“Biohacker”（生物黑客）这个词的人之一。当时是有点超前，但现在它真的来了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 3.7万 · 模型与能力] 35年资深医学专家力挺Demis：AI将在10年治愈一切疾病、15年逆转衰老！"
+      "rank": 15,
+      "line": "[榜第15位 · 5.0万 · 产品与生态] 一天狂烧18亿Token！200美元套餐彻底不够用，硬核用户叹AI还在象牙塔"
     },
     {
       "title": "78岁宾大女教授肉身怒拦外卖机器人！机器被瞪到休眠，人却被警方戴手铐",
       "summary": "78岁的宾夕法尼亚大学女教授Carolyn Marvin，最近在费城人行道上肉身拦截Uber Eats外卖机器人，硬生生把机器人逼到放弃挣扎、原地休眠。在她看来，机器上路既抢人类饭碗又危及残障群体，自己阻拦是行使宪法赋予的抗议权；但按当地法律，这些机器人属于法定「行人」，警方甚至在对峙中直接给她戴上手铐并开具扰乱秩序罚单。老太太决定抗辩到底，而制造商Avride则淡定表示：我们…",
-      "reads": "3.1万",
-      "ago": "4 小时前",
+      "reads": "4.2万",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -251,113 +361,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 3.1万 · 产品与生态] 78岁宾大女教授肉身怒拦外卖机器人！机器被瞪到休眠，人却被警方戴手铐"
-    },
-    {
-      "title": "微改题目全露馅！DeepSWE测试稍作调整，唯独Opus 5.5得分不降反升",
-      "summary": "大模型刷榜的遮羞布，被一次微调测试无情扯下。投资人 Deedy 发现，在对 DeepSWE 编程基准的任务做细微改动后，全网唯独 Opus 5.5 的得分不降反升，绝大多数模型严重刷榜过拟合（benchmaxxed）的毛病暴露无遗。面对网友关于 Opus 5 是否也是纯刷分的质疑，Deedy 直言旧版被基准绑架的痕迹大概率比 5.5 还要少。",
-      "reads": "4.7万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Deedy",
-        "role": "",
-        "said": "@teortaxesTex 也许不是故意的。但按理说 Opus 5 针对基准测试刷分（benchmaxxed）的痕迹应该比 5.5 少 老实说，我在 Opus 5 上花的心思远少于 5.5，所以不敢说很懂其中的门道"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 4.7万 · 模型与能力] 微改题目全露馅！DeepSWE测试稍作调整，唯独Opus 5.5得分不降反升"
-    },
-    {
-      "title": "AI开始自己网购了！全美商家连夜讨好算法，黑五折扣全给Bot定制",
-      "summary": "AI 购物智能体已经开始真金白银地下单了，逼得零售商连夜改变打法迎合算法。拥有约 60 家门店的美潮牌连锁 All Star Elite 透露，AI Agent 目前已占其官网 1% 流量，每周都能通过 Meta 的 Muse 智能体促成数笔直接下单，ChatGPT 导流也在持续上涨。今年黑五和网一的 AI 流量预计直接翻倍，商家不仅为算法重构了打折逻辑，算法预估支付意愿的「千…",
-      "reads": "3.5万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "swyx",
-        "role": "",
-        "said": "他们开始信了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 3.5万 · 产品与生态] AI开始自己网购了！全美商家连夜讨好算法，黑五折扣全给Bot定制"
-    },
-    {
-      "title": "刚改名Ultra澄清用量，法官裁定Claude Max宣传存误导嫌疑",
-      "summary": "美国法官裁定，Anthropic 的 Claude Max 用量宣传「存在误导嫌疑（plausibly misleading）」，针对其的诉讼可继续推进。讽刺的是，就在上周 Anthropic 刚把 200 刀的 20x 方案改名为 Ultra，并在官网明确了每周用量。订阅用户指控，官方宣传的 5x（100 刀）和 20x（200 刀）倍数实际仅按单次会话计算，每周总配额远低于…",
-      "reads": "6.5万",
-      "ago": "9 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "发帖者补充背景：200刀20x宣称比100刀5x多4倍用量，但这4倍乘数只适用5小时会话限制，而非每周总限额。",
-        "据该发帖者称，Anthropic早在今年6月就因此宣传被起诉，直到8月许多用户才弄懂4倍含义。"
-      ],
-      "quote": {
-        "who": "ℏεsam",
-        "role": "",
-        "said": "还记得 Anthropic 早在 6 月就因为误导性的 Claude Max 使用额度被起诉了吗？我早在 6 月和 8 月就提过了。 现在美国法官裁定，该用量广告“确实存在误导嫌疑”。 耐人寻味的是，Anthropic 就在上周刚刚把 20x 方案改名为 Ultra，并明确了每周使用量。 补充个背景：当时 200 美元的 Max 20x 方案宣称比 100 美元的 Max 5x 方案多 4 倍用量，但这 4 倍乘数只…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 6.5万 · 政策与安全] 刚改名Ultra澄清用量，法官裁定Claude Max宣传存误导嫌疑"
-    },
-    {
-      "title": "大佬Alexandr Wang催更Meta：Muse Voice八百年前就预告，demo却只几句闲聊",
-      "summary": "大佬Alexandr Wang都忍不住公开催更了：Meta的Muse Voice八百年前就预告，到底何时发？他贴出的演示视频全程只有几句闲聊——「What's up？Hold on？Hello？」网友看完立马喊：把Muse Video也发了吧。",
-      "reads": "45万",
-      "ago": "19 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Alexandr Wang的催更帖发于11月7日中午12:29（北京时间，原帖04:29 UTC），附Muse语音演示视频链接。"
-      ],
-      "quote": {
-        "who": "Just a dragon",
-        "role": "",
-        "said": "@alexandr_wang 赶紧把 MUSE VIDEO 发布了吧"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 45万 · 产品与生态] 大佬Alexandr Wang催更Meta：Muse Voice八百年前就预告，demo却只几句闲聊"
-    },
-    {
-      "title": "验证码都不用你动手了！OpenAI助手Dots被曝可自动读邮件搞定2FA",
-      "summary": "OpenAI旗下常驻助手Dots的自主权限又往前跨了一大步。最新爆料显示，Dots现已支持在收到指令后，直接读取用户的电子邮件并提取一次性动态密码（OTP），全程代用户自动跑完2FA双重认证。流出的界面截图里，Dots在协助登录餐饮平台Resy时已能丝滑代填。不过，这项连切屏看验证码都替你省了的自动化能力，目前并不支持欧盟地区。",
-      "reads": "1.1万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "@HamidoFx1 好是好，但在欧盟用不了 💀"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 1.1万 · 产品与生态] 验证码都不用你动手了！OpenAI助手Dots被曝可自动读邮件搞定2FA"
+      "line": "[榜第16位 · 4.2万 · 产品与生态] 78岁宾大女教授肉身怒拦外卖机器人！机器被瞪到休眠，人却被警方戴手铐"
     }
   ],
   "board_count": 16,
