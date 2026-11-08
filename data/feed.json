@@ -3,8 +3,8 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-08 23:03:20 +0800",
-  "today": "11/08",
+  "fetched_at": "2026-11-09 03:36:13 +0800",
+  "today": "11/09",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
     {
@@ -114,6 +114,54 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgd07705&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/08 11:20] 一周只上3天！Anthropic 35页报告：全球科研产出或拉爆16倍 · https://www.aiera.com.cn/asi-item.html?id=tgd07705&from=yuanyuan"
+    },
+    {
+      "time": "01:07",
+      "date": "11/09",
+      "title": "只会回话的Siri要变了，苹果最快明年推自主智能体对标ChatGPT Dots",
+      "summary": "苹果要让 Siri 自己动手干活了。彭博社记者 Mark Gurman 在 Power On 专栏里披露，苹果正考虑最快明年推出全自主、带智能体能力的 Siri。 这次改的是…",
+      "source": "@cryptopunk7213",
+      "id": "fc421fc8",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=fc421fc8&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/09 01:07] 只会回话的Siri要变了，苹果最快明年推自主智能体对标ChatGPT Dots · https://www.aiera.com.cn/asi-item.html?id=fc421fc8&from=yuanyuan"
+    },
+    {
+      "time": "22:47",
+      "date": "11/08",
+      "title": "AI查1000家菜单只吃1家，Cloudflare要找智能体收过路费了",
+      "summary": "人找餐馆，翻两三家就定了。AI 智能体替人找，要把 1000 份菜单从头翻到尾，最后只吃一家。剩下 999 家网站白白扛下了成本，一点好处没拿到。 这笔账是…",
+      "source": "@firesidealpha",
+      "id": "e7b64186",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=e7b64186&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/08 22:47] AI查1000家菜单只吃1家，Cloudflare要找智能体收过路费了 · https://www.aiera.com.cn/asi-item.html?id=e7b64186&from=yuanyuan"
+    },
+    {
+      "time": "22:34",
+      "date": "11/08",
+      "title": "马斯克深夜整改Grok Bot：不仅要更聪明，还要死磕Token效率",
+      "summary": "马斯克亲自发帖，Grok Bot 正在整改。他在 X 上写的是「Grok Bot 正在进行修复，以提高 Token 效率，并让它表现得更聪明」。 这轮要改的是两件事，更聪明…",
+      "source": "@melvindvivas",
+      "id": "d241888b",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=d241888b&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/08 22:34] 马斯克深夜整改Grok Bot：不仅要更聪明，还要死磕Token效率 · https://www.aiera.com.cn/asi-item.html?id=d241888b&from=yuanyuan"
+    },
+    {
+      "time": "22:05",
+      "date": "11/08",
+      "title": "买电不如自己发电，Anthropic狂砸34亿美元买下1.7GW发电机",
+      "summary": "Anthropic 不想光买电了，干脆自己买下了发电机。据《金融时报》报道，它刚砸下 34 亿美元，拿下 1.7 吉瓦的 Caterpillar 燃气发电机组，这是目前已知…",
+      "source": "@rohanpaul_ai",
+      "id": "eec5e0c4",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=eec5e0c4&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/08 22:05] 买电不如自己发电，Anthropic狂砸34亿美元买下1.7GW发电机 · https://www.aiera.com.cn/asi-item.html?id=eec5e0c4&from=yuanyuan"
     },
     {
       "time": "19:45",
@@ -356,18 +404,6 @@
       "line": "[11/07 03:49] 科学家还在手写模型，AI开始写代码去跑、拟合、再改了 · https://www.aiera.com.cn/asi-item.html?id=dde6bea1&from=yuanyuan"
     },
     {
-      "time": "22:43",
-      "date": "11/06",
-      "title": "强化学习实机训练也能围观，Hugging Face把模型微调直接搬上了直播",
-      "summary": "Hugging Face把模型微调搬上了直播，点开就能围观正在进行的强化学习训练。开发者 yb2698 宣布，适配器训练已经上线。 这轮训练涉及三款开源模型，包括…",
-      "source": "@huggingface / @yb2698",
-      "id": "dbc4d76f",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=dbc4d76f&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/06 22:43] 强化学习实机训练也能围观，Hugging Face把模型微调直接搬上了直播 · https://www.aiera.com.cn/asi-item.html?id=dbc4d76f&from=yuanyuan"
-    },
-    {
       "time": "19:37",
       "date": "11/06",
       "title": "开源版Super-agent降临，狂揽8万星！已跑通24小时全自动运营公司",
@@ -416,30 +452,6 @@
       "line": "[11/06 16:49] 美股一夜血洗2.8万亿！硅谷顶级VC曝光：开源模型支出九成流向中国 · https://www.aiera.com.cn/asi-item.html?id=tg3b738d&from=yuanyuan"
     },
     {
-      "time": "16:25",
-      "date": "11/06",
-      "title": "马斯克放话Terafab飞快，德州Fab Lab空地几天长成钢结构",
-      "summary": "马斯克在X上说「Terafab进展飞快」，他引用的帖子给出了现场变化。Herbert Ong称，@FutureAZA看到Giga Texas相关Fab…",
-      "source": "@elonmusk",
-      "id": "7902a264",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=7902a264&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/06 16:25] 马斯克放话Terafab飞快，德州Fab Lab空地几天长成钢结构 · https://www.aiera.com.cn/asi-item.html?id=7902a264&from=yuanyuan"
-    },
-    {
-      "time": "14:30",
-      "date": "11/06",
-      "title": "马斯克确认得州工厂逐步停产Cybertruck，反手涨价7500美元",
-      "summary": "马斯克确认，Tesla 得州超级工厂将逐步收缩 Cybertruck 生产。美国版售价却在此时上调，Premium AWD 一次涨了 7500 美元。…",
-      "source": "@elonmusk / @OwenSparks",
-      "id": "d150349c",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=d150349c&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/06 14:30] 马斯克确认得州工厂逐步停产Cybertruck，反手涨价7500美元 · https://www.aiera.com.cn/asi-item.html?id=d150349c&from=yuanyuan"
-    },
-    {
       "time": "13:14",
       "date": "11/06",
       "title": "DeepSeek砸出「真OS」！140万日活狂烧92万亿Token",
@@ -464,18 +476,6 @@
       "line": "[11/06 13:13] 美股一夜崩盘，Anthropic估值暴跌至5000亿！搞ASI或被判20年 · https://www.aiera.com.cn/asi-item.html?id=tgac96ce&from=yuanyuan"
     },
     {
-      "time": "13:00",
-      "date": "11/06",
-      "title": "人类写不好安全基建，Codex的Tibo说软件回不去了",
-      "summary": "11 月 6 日，Codex 的 Tibo 在 X 上直言，人类在编写安全基础设施方面做得不太好。在回复 Sergey_Rura 时，他把话说得更直接，软件已被永久改变…",
-      "source": "@thsottiaux",
-      "id": "789db790",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=789db790&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/06 13:00] 人类写不好安全基建，Codex的Tibo说软件回不去了 · https://www.aiera.com.cn/asi-item.html?id=789db790&from=yuanyuan"
-    },
-    {
       "time": "08:17",
       "date": "11/06",
       "title": "GPT-6.2 Astra逼近！OpenAI内部模型爆了948个Linux漏洞",
@@ -498,54 +498,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tg3e9508&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/06 07:59] 刚刚，OpenAI全新GPT-6登场！强到不敢公开 · https://www.aiera.com.cn/asi-item.html?id=tg3e9508&from=yuanyuan"
-    },
-    {
-      "time": "06:50",
-      "date": "11/06",
-      "title": "花2万美元，Astra血染钟楼打Opus 5.5胜率82%",
-      "summary": "Dwarkesh Patel花了2万美元API额度，让不同AI模型互玩《血染钟楼》。结果，Astra对上Opus 5.5，胜率达到82%。…",
-      "source": "@dwarkesh_sp",
-      "id": "ea1671b0",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=ea1671b0&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/06 06:50] 花2万美元，Astra血染钟楼打Opus 5.5胜率82% · https://www.aiera.com.cn/asi-item.html?id=ea1671b0&from=yuanyuan"
-    },
-    {
-      "time": "06:24",
-      "date": "11/06",
-      "title": "每周出图超40亿，ChatGPT官方催：多发狗跳舞GIF",
-      "summary": "ChatGPT和API每周生成的图片已超过40亿张，OpenAI还在催大家「多发点你家狗跳舞的 GIF」。新上线的ChatGPT Images 2.6加入了GIF功能…",
-      "source": "@thsottiaux",
-      "id": "930220ba",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=930220ba&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/06 06:24] 每周出图超40亿，ChatGPT官方催：多发狗跳舞GIF · https://www.aiera.com.cn/asi-item.html?id=930220ba&from=yuanyuan"
-    },
-    {
-      "time": "01:31",
-      "date": "11/06",
-      "title": "81个此前未知的Firefox高危洞，GPT-6 Cyber找出来了",
-      "summary": "据OpenAI，新发布的GPT-6 Cyber找出了Firefox中81个此前未知的高危漏洞。它还协助开发了948个Linux内核漏洞利用，也就是利用漏洞实施攻击的方法。…",
-      "source": "@gdb",
-      "id": "0cc1b1f3",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=0cc1b1f3&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/06 01:31] 81个此前未知的Firefox高危洞，GPT-6 Cyber找出来了 · https://www.aiera.com.cn/asi-item.html?id=0cc1b1f3&from=yuanyuan"
-    },
-    {
-      "time": "01:05",
-      "date": "11/06",
-      "title": "AI队友不用人催了，Perplexity让它自己上Slack找同事？",
-      "summary": "Perplexity 放出了一队不用人催的 AI 队友。它叫 Teammates，没人下指令也会自己接活，还能上 Slack 找同事。 官方在 X 上介绍…",
-      "source": "@perplexity_ai",
-      "id": "3bcfb746",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=3bcfb746&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/06 01:05] AI队友不用人催了，Perplexity让它自己上Slack找同事？ · https://www.aiera.com.cn/asi-item.html?id=3bcfb746&from=yuanyuan"
     },
     {
       "time": "19:02",
@@ -608,6 +560,6 @@
       "line": "[11/05 11:05] 推理提速近3倍！Agent下场调引擎，两周反超人工精调 · https://www.aiera.com.cn/asi-item.html?id=tg68e1c5&from=yuanyuan"
     }
   ],
-  "feed_count": 50,
-  "feed_total": 50
+  "feed_count": 46,
+  "feed_total": 46
 }

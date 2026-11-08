@@ -3,63 +3,199 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-08 23:03:20 +0800",
-  "today": "11/08",
+  "fetched_at": "2026-11-09 03:36:13 +0800",
+  "today": "11/09",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "ChatGPT Pro全线取消5小时限制！最高50倍用量引Plus破防，官方连夜护盘",
-      "summary": "OpenAI研究员Tibo发帖明确，所有ChatGPT Pro套餐已彻底取消5小时时间限制，Pro 100、200和500分别享有Plus的10倍、20倍和50倍用量，最高档还独占极速版。眼看Plus老用户集体自嘲「沦为衬托Pro尊贵的背景板」，Tibo顺势试探是否该加推50美元的中阶档位；研究员VB则火速护盘回击，直言过去四周Plus已迎来GPT-Live语音时长翻三倍至3小…",
-      "reads": "246万",
-      "ago": "3 小时前",
+      "title": "彻底取消5小时限制！OpenAI公开Pro全系用量，还在考虑推50美元档",
+      "summary": "OpenAI 团队澄清 ChatGPT Pro 规则：所有 Pro 档位已彻底取消 5 小时限制，Token 随用随取，Pro 100、200、500 的额度分别是 Plus 的 10 倍、20 倍和 50 倍（Pro 500 还配极速通道）。负责人 Tibo 还在社区测水温询问「出个 50 美元的 Pro 50 合理吗」，精准戳中 20 刀不够用、100 刀性能过剩的痛点。面…",
+      "reads": "324万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "面对用户质疑 Plus 几周没新权益，团队出面澄清过去四周里 GPT-Live 每日语音时长已从 1 小时增至 3 小时",
+        "Plus 用户此前已上线 Images 2.6，支持将草图直接转成 GIF 且出图速度提升 50%",
+        "Codex 接入 6.1 Terra 后，Plus 用户在额度上限不变的情况下能执行更多任务"
+      ],
       "quote": {
-        "who": "Haider.",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "咱们终于要迎来 50 美元/月的 ChatGPT Pro 方案了吗？ 我觉得这招真行。Plus 订阅不够用，100 美元的 Pro 又经常性能过剩，折中档位很合理 那些同时在用 Claude 和 ChatGPT 的人，可能更倾向于直接买一个 50 刀的套餐"
+        "said": "@NayteThaGreat @reach_vb 你真觉得一个平时对社区态度极好的人，要为一个几百人高管团队做出的蠢决定背锅？ 别冲错人撒气了。🙏🫡"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 246万 · 产品与生态] ChatGPT Pro全线取消5小时限制！最高50倍用量引Plus破防，官方连夜护盘"
+      "line": "[榜第1位 · 324万 · 产品与生态] 彻底取消5小时限制！OpenAI公开Pro全系用量，还在考虑推50美元档"
     },
     {
-      "title": "DeepMind预告科学发现迎来相变！三大巨头被曝已实现AI自主科研",
-      "summary": "DeepMind研究员Pushmeet Kohli公开预告，团队各项目正见证科学发现节奏迎来真正的「相变」，未来几周就会密集发布成果。业内观察者随即跟进爆料，三大巨头实验室其实都已实现自主研究，内部模型甚至能自己挑选科研方向，冰面下的暗流最快本月就会集中爆发。",
-      "reads": "13万",
-      "ago": "8 分钟前",
+      "title": "马斯克连夜出手修Grok Bot！省Token还要更聪明，网友直呼等4.8了",
+      "summary": "马斯克今晚突然发话，Grok Bot 正在进行一轮关键修复与调优，核心死磕两大痛点：不仅要大幅拉高 Token 使用效率，还要让 Bot 的行为表现更聪明。消息一出直接引发社区围观，不少开发者直呼现在的产品体验就相当能打，而在 Bot 变聪明省算力之后，大家真正屏息以待的，是传闻中那颗正在路上的下一代重磅旗舰 Grok 4.8。",
+      "reads": "314万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
-      "bullets": [
-        "DeepMind研究员Pushmeet Kohli表示，随着AI驱动的科研加速展开，后续重点是赋能更广泛的科学界负责任地使用工具。",
-        "业内分析指出，顶级实验室的模型已具备自选研究课题的自主科研能力，相关突破预计本月起陆续公开。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Andrew Curran",
+        "who": "Mark Kretschmann",
         "role": "",
-        "said": "当你凝视一条冰封的河流时，必须想象冰层下汹涌奔腾的暗流。我认为三大巨头实验室都已经实现了自主研究，它们的内部模型现在可以自己选择研究方向了。我们这个月就能开始看到这项成果的产出。"
+        "said": "@alexmorris10x @bot 他们的产品很棒，而且很快还会有一个极强的大模型，Grok 4.8。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 13万 · 模型与能力] DeepMind预告科学发现迎来相变！三大巨头被曝已实现AI自主科研"
+      "line": "[榜第2位 · 314万 · 模型与能力] 马斯克连夜出手修Grok Bot！省Token还要更聪明，网友直呼等4.8了"
     },
     {
-      "title": "单条提示词手搓3D！GPT-6.2 Sol悄悄灰度，Plus用户终于能战Opus 5.5",
-      "summary": "ChatGPT 用户今天突然发现，后台请求已被悄悄路由至未官宣的 GPT-6.2 Sol。实测表现相当惊艳：单条提示词就能生成打包进单个 HTML 的 Three.js 完整 3D 场景，而且无需联网搜索即可掌握近期动态。上周还在抱怨毫无新动静的社区瞬间沸腾，直呼 Plus 用户抗衡 Claude Opus 5.5 的杀器终于要来了。",
-      "reads": "13万",
-      "ago": "1 小时前",
+      "title": "DeepMind高管亲自预告：科学发现正迎来「相变」，未来几周放大招",
+      "summary": "北京时间11月8日晚，Google DeepMind研究副总裁Pushmeet Kohli公开发文剧透：团队在各项项目中正亲眼见证科学发现的节奏迎来一场真正的「相变」，未来数周内的系列发布将让外界一睹端倪。消息迅速引爆学界与开发者圈，不少业内人士直言，头部实验室的内部模型很可能已跨过自主科研的门槛，AI递归加速科学本身的拐点就在眼皮底下。",
+      "reads": "58万",
+      "ago": "3 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "实测 3D 渲染表现：单条 Prompt 输出的 Three.js 场景包含浮空欧式宫殿空岛、瀑布、飞艇与热气球等复杂结构，所有代码全部压缩进单个 HTML…",
-        "知识库截止时间确认更新：测试显示新模型离线即可精准回答近期发生的事件，印证底层全新 checkpoint 已实装；随着被路由到的用户迅速增多，外界普遍推测其…"
+        "业内分析指出，头部实验室的大模型已开始展现自主选题与推导能力，此前OpenAI曾高频产出数百篇数学手稿，Anthropic内部模型也曾在无人类介入下独立跑出…",
+        "Kohli同时强调，随着这种由AI驱动的科研加速全面展开，DeepMind接下来的重心是赋能更广泛的科学界，确保研究人员能够负责任地驾驭这些工具。"
+      ],
+      "quote": {
+        "who": "Haider.",
+        "role": "",
+        "said": "DeepMind 科学副总裁预告科学发现将迎来“相变”： “我们正见证科学发现步伐的一场真正的相变，在未来几周我们的发布中，你就能管窥一斑” 现实中也只有 Google 能做到这一点了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 58万 · 模型与能力] DeepMind高管亲自预告：科学发现正迎来「相变」，未来几周放大招"
+    },
+    {
+      "title": "本周发布前先整活！Alexandr Wang宣布上线dancing muses，玩偶跳舞图曝光",
+      "summary": "本周大动作前夕，Alexandr Wang突然端出新活，正式确认dancing muses已经上线！此前他曾晒出一张夜色下六个身穿白色毛绒连体衣的圆脸玩偶合照，调侃称赶在本周发布前抓紧特训大家的muse跳舞。大招临近不卷跑分先上跳舞玩偶，这波反差直接把上线周的期待值拉满了。",
+      "reads": "32万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Alexandr Wang",
+        "role": "",
+        "said": "@kimmonismus 我们上线了 dancing muses！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 32万 · 产品与生态] 本周发布前先整活！Alexandr Wang宣布上线dancing muses，玩偶跳舞图曝光"
+    },
+    {
+      "title": "折射色散全拉满！Opus 5.5被曝手搓物理拟真UI，网友狂赞历史最佳模型",
+      "summary": "有开发者在社交平台展示了声称由 Opus 5.5 生成的惊艳前端动效，不仅做出标注折射、色散与焦散等物理光学参数的「拟真玻璃」开关，还能生成实时显示 11 lx 桌面照度与 7700 K 色温的 Lumen 夜间仪表盘。该开发者直呼 Opus 5.5 绝对是历史最佳模型，而他的提示词秘诀仅是一句抽象发问：「什么样的更高层抽象能让这整个问题彻底消失？」并让模型一口气列出 10 个…",
+      "reads": "10万",
+      "ago": "30 分钟前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "不仅是常规组件，该开发者透露 Opus 5.5 还能直接胜任 Three.js 人体建模，并流畅处理超过 10 个关节联动的高复杂度动效。"
+      ],
+      "quote": {
+        "who": "Chetaslua",
+        "role": "",
+        "said": "Opus 5.5：日间和夜间模式下表现欲极强的 UI"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 10万 · 模型与能力] 折射色散全拉满！Opus 5.5被曝手搓物理拟真UI，网友狂赞历史最佳模型"
+    },
+    {
+      "title": "苹果闭门会曝光！新CEO施压软件主管：AI别只盯着Siri，赶紧提速",
+      "summary": "苹果高层对落后对手的焦虑终于摆上了台面。据科技记者 Mark Gurman 爆料，苹果新 CEO John Ternus 最近几周与软件业务主管 Craig Federighi 举行了一场闭门会议。Ternus 在会上严厉敦促必须加速推进苹果的 AI 路线图，并明确表态绝不能再只局限于改进 Siri，必须拿出更有竞争力的全面动作。",
+      "reads": "25万",
+      "ago": "3 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "软件部门管理面临瓶颈：爆料披露 Federighi 治下的团队存在明显的微观管理问题，事必躬亲的风格与不同方案间的激烈争论拖慢了决策",
+        "短期规划复杂化开发：内部缺乏更具前瞻性的长期路线，短期摇摆的规划反而让实际工程流程更加繁琐"
+      ],
+      "quote": {
+        "who": "Mark Gurman",
+        "role": "",
+        "said": "另外在 Power On 中还提到：Craig Federighi 治下的 Apple 软件部门正面临诸多挑战，包括他的微观管理风格、针对竞争性方案的激烈争论，以及偶尔会让开发流程变得更复杂的短期规划。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 25万 · 组织与人事] 苹果闭门会曝光！新CEO施压软件主管：AI别只盯着Siri，赶紧提速"
+    },
+    {
+      "title": "坐拥全套硬件却不会替人点屏幕！苹果被曝最快明年推智能体Siri，硬刚OpenAI",
+      "summary": "据知名科技记者爆料，苹果正计划最快明年推出全自主、智能体化的新版 Siri，正面硬刚 ChatGPT Dots、Meta Muse 与 Grok。新 Siri 不再是被动等命令的传声筒，而是能主动规划任务并替你把事情办妥。眼下 OpenAI 和 Anthropic 早已能代用户点击按钮、操作软件，手握 Mac、iPhone 全套硬件生态的苹果却迟迟没有这项能力，补齐 Compu…",
+      "reads": "19万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "新版 Siri 目标是从「响应口令」转向「主动管理任务」，替用户在系统内跨应用代办工作。",
+        "苹果当下最大的 AI 痛点是 Computer Use：尽管掌控着完整的硬件与操作系统，但依然缺乏类似 OpenAI 与 Anthropic 那样直接操作软…"
+      ],
+      "quote": {
+        "who": "Mark Gurman",
+        "role": "",
+        "said": "Apple 还有一个必须填补的重大 AI 差距：Computer Use。OpenAI 和 Anthropic 已经有了能替你操作软件、点击按钮并完成任务的智能体。Apple 掌控着 Mac、iPhone 和 iPad，却依然缺乏同等能力。为什么这种情况必须改变——"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 19万 · 产品与生态] 坐拥全套硬件却不会替人点屏幕！苹果被曝最快明年推智能体Siri，硬刚OpenAI"
+    },
+    {
+      "title": "单座500亿美元机房恐停摆！硅谷大佬推演：SpaceX随时能对Anthropic涨价3倍",
+      "summary": "在最新一期《All-In Podcast》中，投资人 Chamath 与 David Sacks 抛出了一场残酷的算力博弈推演：单座吉瓦级数据中心造价高达 500 亿美元，若建设受阻导致 2028 年项目大面积削减，存量算力将极度紧俏。由于 SpaceX 与 Anthropic 的算力协议带有 90 天互退条款，一旦算力现货价格翻番，继续履行旧合同就是负期望值；按商业理性，Sp…",
+      "reads": "13万",
+      "ago": "4 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "David Sacks 指出，拿齐审批的项目 2027 年尚能完工，但面对工潮、社区阻力和法院禁令等不确定性，没人敢在规则未明前押注 500 亿美元，202…",
+        "巨头掌握生死符：自建了机房与电力设施的亚马逊、Meta、微软、谷歌和 SpaceX 将坐享巨大稀缺溢价，而每年极度渴求新增算力扩容的新型云厂商与模型实验室将…",
+        "若现货价格飙涨突破阈值，拥有算力储备的巨头甚至不需要继续供应 AI 实验室，完全可以转头卖给现金储备更雄厚的 Meta 或谷歌。"
+      ],
+      "quote": {
+        "who": "Rohan Paul",
+        "role": "",
+        "said": ""
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 13万 · 资本与算力] 单座500亿美元机房恐停摆！硅谷大佬推演：SpaceX随时能对Anthropic涨价3倍"
+    },
+    {
+      "title": "单Prompt手搓3D空岛！GPT-6.2 Sol突遭灰测，Plus党迎来Opus 5.5劲敌",
+      "summary": "ChatGPT又有大动作，大量用户今天发现自己被悄悄路由到了新模型GPT-6.2 Sol。实测表现直接拉满：无需联网就能秒答近期大事件，新的checkpoint已经跑在产线上；更炸裂的是，单条提示词就能把带体素空岛、瀑布和飞艇的完整Three.js交互场景打包塞进单个HTML文件。发帖者直言，这波表现绝对称得上Plus用户端对标Opus 5.5的硬核杀器。",
+      "reads": "28万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "无需联网搜索即可准确回答近期发生的事件，表明新模型的知识库截止时间已大幅推后。",
+        "部分ChatGPT用户端已能稳定复现该模型路由，多方推测OpenAI可能最快于下周正式公开发布。"
       ],
       "quote": {
         "who": "Chubby♨️",
@@ -70,37 +206,38 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 13万 · 模型与能力] 单条提示词手搓3D！GPT-6.2 Sol悄悄灰度，Plus用户终于能战Opus 5.5"
+      "rank": 9,
+      "line": "[榜第9位 · 28万 · 模型与能力] 单Prompt手搓3D空岛！GPT-6.2 Sol突遭灰测，Plus党迎来Opus 5.5劲敌"
     },
     {
-      "title": "亲手写下《苦涩的教训》的大佬反水了？Sutton痛批光堆算力成不了智能",
-      "summary": "强化学习先驱Richard Sutton突然发帖定调：单凭暴力计算成就不了智能，必须要有精妙的新方法，AI科学探索还差得远。这番发言引爆学界围观，甚至有网友反手把Sutton自己当年写的《苦涩的教训》甩给他补课。Keras之父François Chollet随即力挺，直言砸万亿美元算力确实能让极低效的方法看起来还行，但扩展从来只是放大器，更聪明的方法才能真正笑到最后。",
-      "reads": "78万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
+      "title": "社区插件正式突破1000个！Teknium晒出后台榜单，mem0等高星项目领跑",
+      "summary": "社区插件生态迎来里程碑，插件总数今天正式冲破1000大关！Teknium晒出的后台截图显示，社区插件数量已达1032个，mem0等高星项目登上涨星榜前列。面对社区关于排名的好奇，他透露目前完全按GitHub Star数和分类排序，且平台已搭建好审批系统，不少高星插件在发布前就源自成熟的大型开源仓库。",
+      "reads": "7.0万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "面对网友拿《苦涩的教训》调侃，有学者犀利反驳：文章说的是能随算力扩展的通用方法会赢，但前提是得有人先去发明这些精妙的方法。",
-        "学界大牛François Fleuret也跟进炮轰「交叉熵拜物教」，直指现在的Transformer压根不懂上下文含义，纯粹是靠死记硬背抓统计线索来把交叉熵…"
+        "插件榜单规则：当前展示排名严格基于GitHub Star数与分类，官方正向社区征集让分类检索更方便的优化方案。",
+        "配套机制落地：平台内部已建立审批系统，并围绕跨任务交接（handoffs）等后续流转功能收集开发者使用场景。",
+        "存量仓库优势：部分热度靠前的高星插件并非全新开发，而是直接基于插件生态上线前就已存在的大型代码库演化而来。"
       ],
       "quote": {
-        "who": "François Fleuret",
+        "who": "Teknium 🪽",
         "role": "",
-        "said": "@eth_sensei 4 个 Token 随便怎么放，真算不上是局部卷积滤波器。"
+        "said": "@danigonlinea @NousResearch 甚至在插件出来之前，他们的插件所在的那些大仓库就早就在那了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 78万 · 模型与能力] 亲手写下《苦涩的教训》的大佬反水了？Sutton痛批光堆算力成不了智能"
+      "rank": 10,
+      "line": "[榜第10位 · 7.0万 · 产品与生态] 社区插件正式突破1000个！Teknium晒出后台榜单，mem0等高星项目领跑"
     },
     {
       "title": "拿GPT 6.1 Terra越级硬刚Opus 5.5？研究员回应：打高端局另有狠货",
       "summary": "北京时间11月8日下午，针对社区把 GPT 6.1 Terra 拿去跟 Opus 5.5 对比，研究员 Tibo 公开表示，Terra 确实很优秀，但根本不是用来在顶级赛场竞争的，打高端局官方「另有其他模型」。这一回应瞬间点燃了大家的催更热情，有网友转发直言别再搞预热和画饼，赶紧麻利把 GPT 6.2 端上来，并推测最快可能下周就会发布。",
-      "reads": "20万",
-      "ago": "5 小时前",
+      "reads": "26万",
+      "ago": "10 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [],
@@ -113,257 +250,118 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 20万 · 模型与能力] 拿GPT 6.1 Terra越级硬刚Opus 5.5？研究员回应：打高端局另有狠货"
-    },
-    {
-      "title": "一句抽象提示词封神！Opus 5.5手搓拟真玻璃开关，连光学折射都算出来了",
-      "summary": "一句看似形而上学的提示词，居然炸出了大模型的前端美学天花板。有开发者把明暗模式切换需求扔给 Opus 5.5，并附上一句核心咒语「什么样的更高层抽象能让这整个问题彻底消失？」，模型直接生成了一套拟真玻璃拟物开关，甚至把折射、色散、焦散与放大倍数等物理光学参数全标得一清二楚。面对这种惊人的审美和推理落地能力，发帖者直呼它绝对是历史最佳模型。",
-      "reads": "4.2万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "不仅能搞定平面 UI，该开发者透露 Opus 5.5 还能直接手搓 Three.js 里的 3D 人体模型，并轻松搞定需要 10 个以上关节联动的复杂交互设…",
-        "测试者在提示词中要求模型在现有昼夜切换交互的基础上做迭代，并主动发散列出 10 个视觉效果更好的全新方案，最终生成结果惊艳全网。"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "@pranaymishra_"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 4.2万 · 模型与能力] 一句抽象提示词封神！Opus 5.5手搓拟真玻璃开关，连光学折射都算出来了"
-    },
-    {
-      "title": "马斯克90天即可断供算力！Chamath曝惊天协议，Anthropic生死被卡脖子",
-      "summary": "知名投资人 Chamath 在播客中爆出重磅猛料：SpaceX 与 Anthropic 的算力协议竟附带「双向 90 天退出条款」。一旦马斯克决定解约停供，SpaceX 可按现货价把算力价格直接翻 2 到 3 倍。由于极其依赖这批算力，Anthropic 根本没有退路，只能立刻咽下涨价。David Friedberg 更算了一笔账：英伟达每花 1 美元造芯，最终在 Anthro…",
-      "reads": "61万",
-      "ago": "12 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "算力暴利账本曝光：David Friedberg 指出，SpaceX 砸 100 亿美元建的 Colossus 集群按 5 年折旧年成本仅 20 亿美元，如…",
-        "巨头控盘或拖垮迭代：Chamath 称随着数据中心建设放缓，Amazon、Meta、微软、Google 和 SpaceX 五大巨头将成为造王者；若 Goog…",
-        "政策急刹车引发 2028 断崖：David Sacks 表示，德州候任官员拟叫停新建数据中心审批，大量在建项目因环保等后期许可未拿齐面临搁浅，全美算力资本支…"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": ""
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 61万 · 资本与算力] 马斯克90天即可断供算力！Chamath曝惊天协议，Anthropic生死被卡脖子"
-    },
-    {
-      "title": "怒撤每月100美元赞助！Steinberger炮轰Asahi Linux：排斥AI纯属可笑",
-      "summary": "开源圈直接吵翻！知名开发者 Peter Steinberger 晒图宣布，正式取消对 Asahi Linux 每月 100 美元的 GitHub 赞助。他痛批项目方早已偏离「将封闭生态做成开放」的初衷，不仅增加限制阻碍外部做二次开发，而且抵触 AI 的做法「纯属可笑」。他还透露，就在 Omarchy 整合并致谢 Asahi 大量成果几天后，Asahi 便迅速改投了 GPL 协议…",
-      "reads": "25万",
-      "ago": "10 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Peter Steinberger 🦞",
-        "role": "",
-        "said": "@asmirkn 就在 Omarchy 整合并致谢了一堆 Asahi 的工作成果几天后，他们就改投 GPL 了，原因肯定不是那个。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 25万 · 产品与生态] 怒撤每月100美元赞助！Steinberger炮轰Asahi Linux：排斥AI纯属可笑"
-    },
-    {
-      "title": "连打补丁都会中招！WordPress遭24万次狂攻，不用密码直接拿管理员",
-      "summary": "打补丁也能把网站送出去。黑客正针对 WordPress 升级期间的严重竞态漏洞发起超 24 万次疯狂利用，受影响范围横跨 4.7 到 7.1.3 全线版本。网站在更新瞬间会在固定目录短暂遗留安装文件且所有人可读，黑客抓准这几秒窗口不用任何密码就能直接新建管理员账户并植入代码，甚至连安装最新的 7.1.4 修复包时都会暴露此风险。",
-      "reads": "1.3万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "安全机构 Wordfence 给出关键防范建议：在后台执行 7.1.4 升级安装之前，务必先在服务器端彻底阻断对 upgrade 文件夹的外网访问权限。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "‼️ 最新进展：攻击者已发起超过 24 万次漏洞利用尝试，针对的是 WordPress 在网站更新期间出现的漏洞——哪怕是安装修复该漏洞的补丁时也会触发。 在更新期间，WordPress 会在某个可预测的文件夹中短暂留下安装文件，任何人都能访问。只要抓住这个时间窗口发起攻击，无需任何密码即可创建管理员账户并植入代码。 从 4.7 到 7.1.3 的所有版本均受影响。 修复版本为 7.1.4。Wordfence 建议在…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 1.3万 · 政策与安全] 连打补丁都会中招！WordPress遭24万次狂攻，不用密码直接拿管理员"
-    },
-    {
-      "title": "Karpathy又手搓YouTube！Claude Code三分钟一把过，收录4.7万硬核极客视频",
-      "summary": "受够平台推荐算法的Karpathy又手搓了一个YouTube！看到同事分享的优质频道清单后，他抄起Claude Code，仅用3分钟、一轮提示词就搞定了视频聚合站TristanTube并直接上线。网站一口气收录了4.7万个硬核极客视频，暗黑模式、关于页一应俱全，甚至连适合躺在沙发上刷片的电视模式都搓了出来。几天前他做HackerTube还要耗时2小时，如今独立建站已经被彻底压缩…",
-      "reads": "71万",
-      "ago": "18 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "前序项目HackerTube：Karpathy此前用Claude Code配Opus 5.5耗时约2小时，从Hacker News历年4300万条评论中筛出…",
-        "极简提示词流出：Karpathy透露整个站点的Prompt大致只有一句话，提供频道链接，让其做个YouTube风格播放器，并补充关于页、暗黑模式和适合躺平看…"
-      ],
-      "quote": {
-        "who": "Max For AI",
-        "role": "",
-        "said": "牛逼，Karpathy怎么又做了个YouTube 😂 前几天刚花2小时做了HackerTube，然后今天看到他同事Tristan分享的优质YouTube频道清单，又用 Claude Code 搓了个TristanTube。 简单来说，就是把Tristan精选的科技、编程等极客频道整合到一个网站里，收录了大约4.7万个视频，让你不用依赖 YouTube的推荐算法，也能找到自己感兴趣的内容。 甚至还做了电视模式，可以躺在…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 71万 · 产品与生态] Karpathy又手搓YouTube！Claude Code三分钟一把过，收录4.7万硬核极客视频"
-    },
-    {
-      "title": "前沿大模型惊现严重安全对齐漏洞！恐引灾难性风险，或致GPT-6.2等跳票",
-      "summary": "第三方独立评估机构 ValsAI 突然拉响警报，称在多家前沿实验室近期公开及内部的模型中，均发现了严重的安全与对齐漏洞。该漏洞不仅可能导致模型在高风险领域遭恶意滥用，更增加了「灾难性不对齐」的风险。目前相关实验室已被通报并紧急展开调查与缓解，完整调查报告将在数周内公开发布。社区推测，这或许正是 GPT-6.2 Astra 以及 Fable 5.5 等新一代模型迟迟推迟发布的原因…",
-      "reads": "5702",
-      "ago": "1 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "评估机构 ValsAI 强调自身保持完全的编辑独立性，已将隐患直接通报给各大实验室，各机构目前正加紧进行内部排查与缓解修复。",
-        "受影响范围涵盖近期已上线与仍在内测的多种模型，完整的漏洞细节及风险评估调查将在未来几周内正式向公众开放。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "@Haleeeemahh 想象一下 GPT-6.2 Astra"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 5702 · 政策与安全] 前沿大模型惊现严重安全对齐漏洞！恐引灾难性风险，或致GPT-6.2等跳票"
+      "line": "[榜第11位 · 26万 · 模型与能力] 拿GPT 6.1 Terra越级硬刚Opus 5.5？研究员回应：打高端局另有狠货"
     },
     {
-      "title": "白领只剩3到4年？读完METR文献全网对线，还曝Anthropic营收翻倍",
-      "summary": "白领工作真没几年好日子了？有爆料人搬出近两年 METR 的研究文献直言，多数 AI 研究员早已认定白领工作在 3 到 4 年内就会被自动化，10 年内大部分工作都将被端走。面对全网质疑，他甚至直接扔出一记狠料：Anthropic 在 2026 年的实际营收将比最初预估翻一倍还多。在他看来，试图封杀技术纯属被恐惧支配，而超大规模数据中心的命运早已绑死了全美普通员工的养老金。",
-      "reads": "3.2万",
-      "ago": "7 小时前",
-      "category": "资本与算力",
+      "title": "自己写PoC跑通才算真漏洞！开源顶流Hermes Agent上线安全审查，子智能体全自动排雷",
+      "summary": "开源 Agent 顶流 Hermes Agent 正式上线全新官方安全审查插件。它不再停留于表面扫描，而是先拆解攻击面与信任输入，再派出一组并行子智能体深度比对代码逻辑。只要开启测试确认，它甚至会在临时代码副本里自动编写轻量复现用例亲自跑一遍，确实验证能打通才算漏洞，彻底终结误报。审查结果不仅列出证据链，还支持导出为标准 SARIF 格式对接现有工作流。",
+      "reads": "8501",
+      "ago": "13 分钟前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "驳斥 UBI 导致贬值：只要 AGI 带来的供应始终跑在需求前面，按照供求量价曲线就不会引发恶性通胀，全民基本收入完全能落地。",
-        "普通打工人与云巨头深度绑死：一旦数据中心受挫或超大规模云厂商亏损，全美员工的 401(k) 养老金和投资账户都会直接缩水，遭殃的根本不止顶层 1% 的富豪。"
+        "在隔离环境中自动复现：开启测试确认后，智能体会为每个疑似漏洞自动编写轻量复现用例，并在仓库的临时副本里实际运行验证。",
+        "智能过滤误报：审查报告会同步记录实锤证据与被其排除掉的嫌疑项，且原生支持导出为 SARIF 格式对接主流开发审计工具。",
+        "多端开箱即用：开发者可通过普通对话框、CLI 命令行，或 Hermes Desktop 客户端专属的 Security 页面直接拉起审查。"
       ],
       "quote": {
-        "who": "Chris",
+        "who": "Teknium 🪽",
         "role": "",
-        "said": "@Ace3boog 顺便说一句，Anthropic的营收会比他们最初预估的2026年数字翻一倍还多，接着嘴硬吧"
+        "said": "又来了一个官方插件！ 这次是 @mark_s 结合他的安全审查经验制作的，可以用它来帮你的代码库分析安全漏洞和改进点！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 3.2万 · 资本与算力] 白领只剩3到4年？读完METR文献全网对线，还曝Anthropic营收翻倍"
+      "line": "[榜第12位 · 8501 · 产品与生态] 自己写PoC跑通才算真漏洞！开源顶流Hermes Agent上线安全审查，子智能体全自动排雷"
     },
     {
-      "title": "嫌大家内存太闲？开发者做了个脚本：只要闲置超10%，每天自动向奥特曼汇报",
-      "summary": "此前 Sam Altman 公开吐槽，称普通人 PC 里的 RAM「可能只有 5% 的时间才用得上，太糟糕了，RAM 应该属于数据中心」。结果有开发者直接搞了个硬核行为艺术：写出名为 Ram-Altman 的脚本，每 5 分钟记录一次 Linux PC 的内存占用，只要发现闲置超过 10%，每天就会自动发邮件向 Altman 汇报一次。既然你心疼资源被浪费，那就天天用数据向你当…",
-      "reads": "8.7万",
-      "ago": "12 小时前",
-      "category": "产品与生态",
+      "title": "GPT-6.2遭偷跑！OpenAI中档Sol暗度陈仓：2刀价格手搓奥特曼肖像",
+      "summary": "OpenAI 官方公告还没发，新一代模型已经在灰度池里偷跑了。有测试者爆料，OpenAI 已悄悄将 GPT-6.1 Sol 路由至全新的 GPT-6.2 Sol，每百万 token 输入 2 美元、输出 10 美元。最秀的是它的 Computer Use 表现：全程不调生图接口，完全靠自主点选笔刷、微调色温操控画板，手搓出一张照片级 Sam Altman 肖像，性能直逼 Opu…",
+      "reads": "1.0万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "同步现身的 GPT-6.2 Astra 绘图与渲染表现惊艳：日落光影逻辑严密，日文站名「桜ヶ丘」与车窗透视细节清晰无乱码。",
+        "测试者表示 GPT-6.2 Sol 在设计、3D、单文件动画及操控能力上越级对标旗舰，价格却仅有对家 Fable 档位的五分之一。"
+      ],
       "quote": {
-        "who": "International Cyber Digest",
+        "who": "SuSu_酥酥",
         "role": "",
-        "said": "❗ 有人写了个脚本，一旦自己的 RAM 闲置，就自动发邮件给 Sam Altman 汇报。 此前 Sam Altman 说 RAM 应该属于数据中心，普通人 PC 里的 RAM“可能 5% 的时间”才用得上，直呼这“太糟糕了”。 这个叫 Ram-Altman 的工具每 5 分钟记录一次 Linux PC 的内存情况，如果闲置超过 10%，每天就会发邮件汇报一次。"
+        "said": "😨惊了！Fable 5.5还没官宣，中档的GPT-6.2 Sol已经打到它的位置了！ $2/$10的价格，却在设计、3D、Computer Use、单文件动画上直接对标甚至超越Opus 5.5。 OpenAI悄悄把GPT-6.1 Sol路由到了GPT-6.2 Sol。 看它自己选笔刷、调颜色、分阶段把Sam Altman画成近乎照片级肖像……全程不靠图像生成，纯操控电脑作画。 中档模型，旗舰表现，价格只有Fable的…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 8.7万 · 产品与生态] 嫌大家内存太闲？开发者做了个脚本：只要闲置超10%，每天自动向奥特曼汇报"
+      "line": "[榜第13位 · 1.0万 · 模型与能力] GPT-6.2遭偷跑！OpenAI中档Sol暗度陈仓：2刀价格手搓奥特曼肖像"
     },
     {
-      "title": "别催了！LeCun下场硬刚质疑：ChatGPT憋了5年，好戏还在后头",
-      "summary": "面对外界对 JEPA 路线迟迟不见杀手级应用的唱衰，LeCun 坐不住了，连发推文回怼。他不仅直接质问质疑者「看不懂字吗」，还给 DINO 正名其本质就是一种 JEPA，并怒斥外界拿学生论文跟大厂模型对比纯属关公战秦琼——高校重在探索新方法，大厂才负责堆算力刷榜。最后他灵魂喊话：2017 年的 Transformer 憋到 2022 年底才炸出 ChatGPT，JEPA 202…",
-      "reads": "4.4万",
-      "ago": "9 小时前",
+      "title": "坐等新模型！Anthropic被曝明日打响大型宣传战，内测NDA到期下周见",
+      "summary": "Anthropic的大动作可能真的按不住了。多位早期测试人员透露，内部保密协议（NDA）已进入倒计时，外界纷纷推测下周或有新动作；随后更有业内人士直接补刀，确认Anthropic的大型媒体宣传攻势就在明天正式拉开帷幕。自9月推出Fable 5.1后，社区对新模型的呼声居高不下，随着内测封口令解除与宣发号角吹响，Anthropic大概率要在下周亮出新王牌。",
+      "reads": "9186",
+      "ago": "1 小时前",
       "category": "模型与能力",
       "source": "新智元",
-      "bullets": [
-        "厘清自监督技术谱系：自监督学习区别在于是否使用重构，联合嵌入架构分带预测器的 JEPA 和不带预测器的 JEA；DINO 严格来说是基于对比聚类和特定数据增…",
-        "学术探索与大厂刷榜严禁混淆：Meta-FAIR 研发的 V-JEPA 2.1 和 DINO 依赖专属庞大数据集、海量算力和工程调优，而 LeJEPA、LeW…",
-        "基础科研转化需要沉淀：LeCun 呼吁外界切勿把上游的方法探索与下游的工程扩展（Scaling）、刷榜及产品化混为一谈，高校产出的原创方法未来会被有资源者承…"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Yann LeCun",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "@davnords @gabriberton - DINO 属于 JEPA（看不懂字吗？） - 我们当时重点在视频上"
+        "said": "@iruletheworldmo Anthropic 的大型媒体宣传活动明天正式打响。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 4.4万 · 模型与能力] 别催了！LeCun下场硬刚质疑：ChatGPT憋了5年，好戏还在后头"
+      "line": "[榜第14位 · 9186 · 模型与能力] 坐等新模型！Anthropic被曝明日打响大型宣传战，内测NDA到期下周见"
     },
     {
-      "title": "35年医学老兵力挺哈萨比斯：AI十年内治愈所有疾病，15年逆转衰老！",
-      "summary": "面对学界对 AI 医疗神话的质疑，深耕生物医学 35 年的资深学者 Derya Unutmaz 公开发文，全力声援 Demis Hassabis 与 Dario Amodei 的激进预言：AI 将在 10 年内治愈人类所有疾病，并在约 15 年内逆转衰老！他痛批同行专家的嗤之以鼻纯属认知失调与傲慢自负，误将人类大脑的局限当成智能本身的上限；超级智能即将掀起的生物革命，将轻松碾压…",
-      "reads": "6.7万",
-      "ago": "11 小时前",
-      "category": "模型与能力",
+      "title": "一口气横评10大Bot平台！Claude与Dots全上阵，赢家居然还是Grok Bot",
+      "summary": "博主 Brian Roemmele 把市面上主流的 10 款 Bot 平台测了个遍，省得大家再亲身踩坑。测试对象一口气拉满了 Dots、Claude、Gemini、Manus、OpenClaw 以及 Grok Bot 等重磅选手，直接深扒它们跑在哪里、能共享什么数据以及各自的漏洞。一通极限对比下来，他给出的定性结论很直接：综合表现上，马斯克的 Grok Bot 依然更胜一筹。",
+      "reads": "7734",
+      "ago": "52 分钟前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "降维打击正按学科蔓延：指出顶尖数学家刚刚被机器智能超越，物理学家马上迎来相同遭遇；生物系统虽复杂但仍受物理规律支配，破译只是算力与数据问题。",
-        "三十年前的老资格：在与网友互动中透露自己 20 年前就预言了这一天，且早在 1990 年代中期就是最早使用「Biohacker」（生物黑客）一词的人之一。",
-        "对落地进展保持乐观：面对网友对监管或放缓风险的担忧，他直言「至少中国看起来不会停下脚步」。"
+        "参评的 10 大平台完整覆盖了 Dots、Muse、ChatGPT Work、Claude、Gemini、Copilot、Manus、Perplexity…",
+        "评测主要聚焦四大核心维度：各平台的底层运行环境、数据共享机制、系统漏洞以及实际局限性"
       ],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "Brian Roemmele",
         "role": "",
-        "said": "@petergyang 没问题 Peter，私信我。"
+        "said": "我盘点了所有 Bot 平台，聊聊为什么 Grok Bot 依然更胜一筹。 详情见下文……"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 6.7万 · 模型与能力] 35年医学老兵力挺哈萨比斯：AI十年内治愈所有疾病，15年逆转衰老！"
+      "line": "[榜第15位 · 7734 · 产品与生态] 一口气横评10大Bot平台！Claude与Dots全上阵，赢家居然还是Grok Bot"
     },
     {
-      "title": "吹20倍实际仅6倍！每月200美元Claude Max涉虚假宣传，法官勒令应诉",
-      "summary": "每月掏 200 美元买 Claude Max，结果额度大缩水！美联邦法官 Alex Tse 最新裁定，Anthropic 必须面对夸大 Max 套餐用量的虚假宣传诉讼。原告发现官方标榜的「Pro 方案 20 倍用量」其实只按 5 小时单次会话算，每周总上限根本没同比例放大，算下来实际只有约 6 倍，重度用户甚至会比 Pro 更早耗尽当周额度。更绝的是，这行关键限制条款藏在离销售…",
-      "reads": "9.8万",
-      "ago": "14 小时前",
+      "title": "1.6万司机密码居然全明文！马士基旗下遭勒索软件洗劫，33个超管账号全被打包",
+      "summary": "黑客开完盲盒估计都愣了：航运巨头马士基旗下的 LF Logistics 突遭勒索软件团伙洗劫，对方声称卷走约 100GB 核心数据，并直接索要 500 万美元的比特币赎金。更离谱的是安全防护基本处于裸奔状态——被盗数据中不仅包含 1.6 万多名司机的明文密码，还有 16123 名员工的登录凭证，甚至连 33 个至关重要的超级管理员账号都被连根拔起。",
+      "reads": "1.7万",
+      "ago": "3 小时前",
       "category": "政策与安全",
       "source": "新智元",
-      "bullets": [
-        "不仅 200 美元档翻车，原告针对 Sonnet 4 测算显示，每月 100 美元的 Max 5x 方案每周实际用量也只有 Pro 的 3.5 倍。",
-        "法官已给出审理节点：原告须在 12 月 2 日前提交修改版起诉书，若未修改，Anthropic 必须在 12 月 16 日前正式提交答辩应诉。"
-      ],
+      "bullets": [],
       "quote": {
         "who": "International Cyber Digest",
         "role": "",
-        "said": "‼️ 美国一名法官表示，Anthropic 必须面对相关诉讼，其被指控虚假宣传每月 200 美元的 Claude Max 方案拥有“Pro 方案 20 倍的使用量”，而实际上每周只提供了大约 6 倍。 这个倍数只适用于每 5 小时的单次会话，但每周的上限并没有按比例同步增加。裁定书指出，Max 订阅者可能比 Pro 用户更早用完当周的额度。 按照原告基于 Sonnet 4 的计算，100 美元的 Max 5x 方案实…"
+        "said": "‼️突发：一个勒索软件团伙声称窃取了 Maersk 旗下 1.6 万多名司机的密码，而且还是明文存储的。 该团伙称，从 Maersk 旗下的 LF Logistics 拿下的约 100GB 数据中，还包含 16123 名员工的登录凭证，其中 33 个是超级管理员账号。他们索要 500 万美元的比特币赎金。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 9.8万 · 政策与安全] 吹20倍实际仅6倍！每月200美元Claude Max涉虚假宣传，法官勒令应诉"
+      "line": "[榜第16位 · 1.7万 · 政策与安全] 1.6万司机密码居然全明文！马士基旗下遭勒索软件洗劫，33个超管账号全被打包"
     }
   ],
   "board_count": 16,
