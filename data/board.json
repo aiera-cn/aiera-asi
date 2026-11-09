@@ -3,83 +3,129 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-09 14:08:05 +0800",
-  "today": "11/09",
+  "fetched_at": "2026-11-10 01:24:18 +0800",
+  "today": "11/10",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "低级错误幻觉频发！马斯克连夜抓Grok团队开会，放话明天脱胎换骨",
-      "summary": "面对近期用户对 Grok Bot 频繁出现低级错误和幻觉的吐槽，马斯克亲自下场救火。他透露刚与工程团队完成圆桌评审，修复补丁正连夜上线，预计明天就能迎来脱胎换骨级的改善，并承诺如果问题没解决，用户可以直接在评论区找他立刻处理。有常客吐槽老套餐给的额度天天用都花不完，体验却突然下滑，如今就看这场连夜大修能否扭转口碑了。",
-      "reads": "161万",
-      "ago": "58 分钟前",
-      "category": "产品与生态",
+      "title": "被前妻诬告跟踪险丢抚养权！Grok Bot用树莓派反侦察，8天抓出私家侦探",
+      "summary": "一位打离婚官司的网友遭前妻倒打一耙诬告「跟踪」，抚养权危在旦夕，求助 Grok Bot 竟上演神级反杀。AI 当场指导他把装有开源工具 Chasing Your Tail 的树莓派塞进车座手套箱；8 天内不仅抓到同一部手机尾随 23 次，更扒出该手机曾连接前妻家 WiFi。铁证一出法官当场驳回前妻指控并判平分抚养权，连马斯克都转发惊呼太神了。",
+      "reads": "110万",
+      "ago": "51 分钟前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "有长期用户晒出用量面板佐证，老套餐的 Grok Bot 额度极其充裕，天天高频使用也仅消耗了2%，7天后便会刷新重置，此前核心痛点纯粹集中在生成质量的断崖下…"
+        "前妻律师在法庭上突然掏出该男子当月去过的所有酒吧照片并倒打一耙，而决定性的抚养权听证会仅剩 3 周",
+        "Grok Bot 部署的开源工具排查出该可疑手机在住宅、办公室、健身房和孩子学校等 9 个地点持续出现",
+        "除尾随记录外，该手机记忆中存储的 Wi-Fi 名赫然显示为侦探所「Hartley_Investigations」与前妻家庭网络，形成完整证据闭环"
       ],
       "quote": {
-        "who": "歸藏(guizang.ai)",
+        "who": "Elon Musk",
         "role": "",
-        "said": "不得不说，老套餐这个 Grok Bot 的用量是真的非常顶。我这天天用，让它上 30% 都很难"
+        "said": "Grok @Bot 能干的事情太神了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 161万 · 产品与生态] 低级错误幻觉频发！马斯克连夜抓Grok团队开会，放话明天脱胎换骨"
+      "line": "[榜第1位 · 110万 · 政策与安全] 被前妻诬告跟踪险丢抚养权！Grok Bot用树莓派反侦察，8天抓出私家侦探"
     },
     {
-      "title": "被骂太蠢逼走用户！马斯克紧急抢修Grok Bot，团队连夜下场挨喷求反馈",
-      "summary": "因为体验下滑、烧 Token 且变笨，不少依赖 Grok Bot 搭建工作流的用户被逼转投了免费竞品。北京时间 11 月 8 日晚，马斯克亲自发帖救火，宣布团队正在推进全面抢修，重点提升 Token 效率并让机器人表现更聪明。官方团队也连夜发帖挨个收集用户吐槽，甚至有博主透露，后续还将换上更强劲的 Grok 4.8 底模来稳住阵脚。",
-      "reads": "609万",
-      "ago": "4 小时前",
+      "title": "马斯克督战连夜打补丁！Grok Bot用量直接清零重置，明天脱胎换骨",
+      "summary": "面对用户对 Grok Bot 近期频繁出现幻觉、犯低级错误的吐槽，马斯克周日亲自抓工程团队开了圆桌复盘会，直接安排补丁连夜上线，放话明天就会有「脱胎换骨级的改善」，不行就直接回帖找他报修。更让订阅用户惊喜的是，官方同步送出用量大回血，许多原本用满 100% 额度的账号瞬间被重置回 1%，目前正向全量用户推送。",
+      "reads": "525万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "有打工人坦言 Grok Bot 近期难用到崩溃，已将大部分工作迁移至相似且免费的竞品 Muse，即便 Muse 暂时无法抓取 x.com 上的实时内容。",
-        "官方团队坦白承认大量用户在 Bot 上沉淀了核心工作流，承诺会逐条细看评论区的所有反馈，全力保住现有开发者的使用体验。"
+        "不仅模型表现迎来重修，包括 SuperGrok Heavy 等订阅用户的每周使用限制已直接刷新，原本见底的用量条纷纷跌回 1% 至 2%。",
+        "有网友调侃马斯克居然能在周日逼着工程团队上线大更新，这波亲自督战直接把用户的催更情绪拉满。"
       ],
       "quote": {
-        "who": "Kol Tregaskes",
+        "who": "NIK",
         "role": "",
-        "said": "Grok Bot 的反馈提交到这里："
+        "said": "顺便说一句，我开的是 SuperGrok Heavy 订阅"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 609万 · 产品与生态] 被骂太蠢逼走用户！马斯克紧急抢修Grok Bot，团队连夜下场挨喷求反馈"
+      "line": "[榜第2位 · 525万 · 产品与生态] 马斯克督战连夜打补丁！Grok Bot用量直接清零重置，明天脱胎换骨"
     },
     {
-      "title": "科学发现迎来真正相变！DeepMind高管放话：未来几周放出自主科研大招",
-      "summary": "11月8日晚，Google DeepMind 科学研究负责人 Pushmeet Kohli 毫无征兆地抛出重磅预告：团队内部多个项目正亲眼见证科学发现的节奏迎来一场真正的「相变」，未来几周的密集发布将向外界逐步揭晓。当全网还在卷写代码和评测榜单时，前沿实验室的模型早已潜入冰层之下，甚至开始自主选题攻克开放科学难题，科研腹地的总攻彻底吹响。",
-      "reads": "95万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
+      "title": "马斯克亲口判死刑！Cybertruck约8个月后停产：退定金，全力造Cybercab",
+      "summary": "马斯克在X上投下重磅炸弹：Cybertruck订单增速虽远超产能，但特斯拉将在约8个月后正式关停产线，大批预订用户将被退还定金。老马反驳了外界「皮卡不赚钱」的说辞，直言停产纯属机会成本过高——复杂的工艺拖垮了产线，不如将产能全部让给更有价值的Cybercab。他还感叹建高产能工厂难得要命，造原型车比起来简直不值一提。",
+      "reads": "308万",
+      "ago": "7 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "Kohli 明确表示，随着 AI 驱动的科学加速全面展开，DeepMind 的首要重点是赋能更广泛的科研界，让全球科学家负责任地用好这套底层工具。",
-        "业内讨论透露，头部实验室的内部模型正加速接管科研全流程，此前 Anthropic 内部 Claude 研究模型曾创下无人类干预、单次消耗 1400 万 to…"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Ethan Mollick",
+        "who": "Elon Musk",
         "role": "",
-        "said": "觉得“这次不一样”其实并不奇怪——过去几个世纪里我们经历了数次工业革命，仅仅因为我们习惯了二战后相对平稳、有着常规增长节奏的状态，并不意味着它会永远持续下去。"
+        "said": "@OwenSparks 想建一座高产能工厂简直难得要命。原因就在这儿。 相比之下，做原型机简直不值一提。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 95万 · 模型与能力] 科学发现迎来真正相变！DeepMind高管放话：未来几周放出自主科研大招"
+      "line": "[榜第3位 · 308万 · 产品与生态] 马斯克亲口判死刑！Cybertruck约8个月后停产：退定金，全力造Cybercab"
+    },
+    {
+      "title": "纯代码搓出吉卜力动画！谷歌Krypton跑出单HTML短片：视频模型明年要凉？",
+      "summary": "有网友 11 月 9 日曝光 Google Krypton 的惊人表现：在零外部素材、禁用任何生图模型与插件的限制下，仅凭单次 Prompt 纯靠 JavaScript 代码，就在 39 分 16 秒内手搓出一部吉卜力风格、带音效的 2D 动画短片，最终交付为一个独立的单 HTML 文件。爆料者直呼这是自反思改进（RSI）的威力，并断言「明年视频模型就没意义了，应该全力押注代码…",
+      "reads": "12万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "提示词要求极其苛刻：严禁 3D 渲染、SVG 矢量及普通网页动效，要求逐帧自检达到日本院线手绘水准，短片定名《THE LAST PAGE》，全片由代码实时渲…",
+        "模型在生成过程中以 105 Token/秒的速度持续推理，整整跑了 39 分 16 秒才完成代码编写与自检。",
+        "爆料者透露该测试来自 Studio 渠道，并预言一年内同类纯代码动画生成耗时将压缩至 2 分钟内，甚至未来真正的「世界模型」也将完全由代码构成。"
+      ],
+      "quote": {
+        "who": "Chetaslua",
+        "role": "",
+        "said": "@Joe0ussai @IamEmily2050 @OfficialLoganK @zacharynado 纯代码，甚至连世界模型都将是代码，这是我的简短 demo 如果你买了 Claude 订阅，来玩玩我做的这个 artifact"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 12万 · 模型与能力] 纯代码搓出吉卜力动画！谷歌Krypton跑出单HTML短片：视频模型明年要凉？"
+    },
+    {
+      "title": "狂烧22K思考Token！谷歌秘密大模型Krypton曝光：代码量翻倍逼近RSI",
+      "summary": "今天下午，Google 内部代号「Krypton」的神秘模型实测遭多方曝光。测试显示，面对相同提示词，它的耗时与生成代码量双双翻倍；在 PS4 手柄 SVG 代码生成中，Krypton 单次思考飙到 22.2K、耗时 386 秒，细节大幅超越 Carbon，跨厂商盲测中视觉呈现更压过 Opus 5.5。这台被评为「Google 史上最卖力」的模型，让不少开发者惊呼其内部可能已真…",
+      "reads": "20万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "本次泄露的模型实为 krypton-a 的首个检查点（checkpoint），测试任务主要涵盖复杂矢量图形绘制，包括《彻夜之歌》角色七草荠及 GameCub…",
+        "在与 Opus 5.5 的实测对决中，虽然 Opus 完成速度更快，但 Krypton 凭借大量思考时间换取了更细腻的视觉还原度。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@DrGdaraselia 哈哈太真实了 :D"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 20万 · 模型与能力] 狂烧22K思考Token！谷歌秘密大模型Krypton曝光：代码量翻倍逼近RSI"
     },
     {
       "title": "全网都在等GPT-6.2，OpenAI却掏出一台复古掌机！Codex首款硬件炸场",
       "summary": "北京时间11月9日凌晨，OpenAI Developers 甩出一张像素风海报预告「明天见」，全网本以为心心念念的 GPT-6.2 终于要空降，结果等来的竟是一台实体游戏机！提前拿到实物的测试者爆料，OpenAI 打造了一款复古掌机作为 Codex 的硬件伴侣，主打让开发者通过氛围编码（vibe-coding）自制 AI 游戏并随身畅玩。焦急等模型的网友哭笑不得：「确实很可爱…",
-      "reads": "112万",
-      "ago": "4 小时前",
+      "reads": "197万",
+      "ago": "15 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
@@ -92,281 +138,222 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 112万 · 产品与生态] 全网都在等GPT-6.2，OpenAI却掏出一台复古掌机！Codex首款硬件炸场"
+      "rank": 6,
+      "line": "[榜第6位 · 197万 · 产品与生态] 全网都在等GPT-6.2，OpenAI却掏出一台复古掌机！Codex首款硬件炸场"
     },
     {
-      "title": "马斯克：90天条款双向，算力贵2-3倍Anthropic认栽我认亏",
-      "summary": "马斯克今晨（北京时间11月9日约10点）亲自下场，给Chamath「SpaceX能90天撕约把算力翻2-3倍卖给Anthropic」的分析补了刀：条款是相互的，算力若便宜SpaceX收入就缩水。原话「进了赌场双方都愿赌服输」。一张GPU小时的赌桌，两边都不敢说稳赢。",
-      "reads": "54万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "条款细节：据播客视频原话，SpaceX与Anthropic的算力协议互含90天终止权，任一方均可提前90天退出。",
-        "Chamath称若现货算力涨破阈值旧长协变负期望值，SpaceX可重定价或转卖给Google、Meta，不止捏着Anthropic。"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": "算力稀缺让 SpaceX 赚翻，算力充沛让 Anthropic 躺赢。公平竞争。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 54万 · 资本与算力] 马斯克：90天条款双向，算力贵2-3倍Anthropic认栽我认亏"
-    },
-    {
-      "title": "思考3小时一枪交卷！OpenAI神秘模型对数曲线狂飙，算力投入上不封顶",
-      "summary": "OpenAI 总裁 Greg Brockman 公开定调：充裕的测试时计算正成为科学发现的引擎。业内随后挖出细节，OpenAI 自 8 月底训练至今的内部未命名模型，在对数图表上完全没出现边际递减；它甚至不用集群协作，单次输入平均思考 3 小时就能「一枪跑出」绝大多数顶级数学成果，给出非人类视角的解法。Box CEO 也跟进预判：AI 已告别人机对话，多智能体集群并行正让生产力…",
-      "reads": "32万",
+      "title": "20美元订阅终于香了！GPT-6.2 Sol实测硬刚Opus 5.5，最快本周上线",
+      "summary": "OpenAI 每月 20 美元的 Plus 订阅终于要支棱起来了。有测试者在实测数十个项目后爆料，即将推出的 GPT-6.2 Sol 综合性能超越了 Opus 5.5，堪称 Plus 用户有史以来最香的一次升级。更关键的是额度消耗大幅优化，即便在 5 小时高频窗口内也不容易烧光。测试者直言此前连骂了 OpenAI 三天，这次体验却大幅超出预期，并透露新模型大概率本周就会正式上线…",
+      "reads": "5.3万",
       "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI 官方博客证实，该模型自 8 月 28 日启动训练，在数学等基准上表现前所未有，且两个月过去训练仍在持续推进",
-        "测试细节显示，该模型被投喂了 4000 道测试题，解题过程无需中途干预，展现出异于人类逻辑的思考方式与自我改进能力",
-        "Box CEO 呼应指出，算力已变成可自由调配的变量，继编程之后，网络安全与生命科学等知识工作生产力将迎来质变"
-      ],
-      "quote": {
-        "who": "Aaron Levie",
-        "role": "",
-        "said": "我们正在经历 AI 的时代跨越：过去，AI 的产出速度大致取决于你跟它来回聊天的节奏；而现在，你只需抛出一个问题，就能让一群智能体分头行动，替你完成任意海量的工作。这意味着生产力的提升不再是 20-50%，而是上不封顶。 智能体集群以及将复杂工作拆解给多个智能体并行处理的能力，正在诸多领域释放巨大势能。这将在我的研究领域带来质的飞跃。 这一趋势在编程领域已经得到验证。接下来，网络安全几乎就是一个靠更多智能体审查更多内…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 32万 · 模型与能力] 思考3小时一枪交卷！OpenAI神秘模型对数曲线狂飙，算力投入上不封顶"
-    },
-    {
-      "title": "彻底取消5小时限制！OpenAI公开Pro全系用量，还在考虑推50美元档",
-      "summary": "OpenAI 团队澄清 ChatGPT Pro 规则：所有 Pro 档位已彻底取消 5 小时限制，Token 随用随取，Pro 100、200、500 的额度分别是 Plus 的 10 倍、20 倍和 50 倍（Pro 500 还配极速通道）。负责人 Tibo 还在社区测水温询问「出个 50 美元的 Pro 50 合理吗」，精准戳中 20 刀不够用、100 刀性能过剩的痛点。面…",
-      "reads": "386万",
-      "ago": "12 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "面对用户质疑 Plus 几周没新权益，团队出面澄清过去四周里 GPT-Live 每日语音时长已从 1 小时增至 3 小时",
-        "Plus 用户此前已上线 Images 2.6，支持将草图直接转成 GIF 且出图速度提升 50%",
-        "Codex 接入 6.1 Terra 后，Plus 用户在额度上限不变的情况下能执行更多任务"
+        "测试者表示自己提前公开评测是为了保持透明、避免大家干等官方语焉不详的预告，同时呼吁 OpenAI 在正式推送给全体 Plus 用户之前「千万别搞砸」。"
       ],
       "quote": {
         "who": "Token Gremlin",
         "role": "",
-        "said": "@NayteThaGreat @reach_vb 你真觉得一个平时对社区态度极好的人，要为一个几百人高管团队做出的蠢决定背锅？ 别冲错人撒气了。🙏🫡"
+        "said": "过去 3 天里，我发了十几条吐槽他们的帖子。然而，骂了这么多之后，新版 Sol 给我的体验却让我大吃一惊。我真心希望这能开放给所有 Plus 用户，也希望大家在它发布后能有同样的感受，包括额度方面。只要 OpenAI 在发布前别搞砸就行。 所以我一直试着平衡批评与夸奖。差劲的地方，我就狠狠地批；好的地方，我也夸。目的就是让这帮家伙明白该往哪走，去讨好所有层级的用户。不无脑捧，也不一味狂喷。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 386万 · 产品与生态] 彻底取消5小时限制！OpenAI公开Pro全系用量，还在考虑推50美元档"
+      "line": "[榜第7位 · 5.3万 · 模型与能力] 20美元订阅终于香了！GPT-6.2 Sol实测硬刚Opus 5.5，最快本周上线"
     },
     {
-      "title": "连做底层的也坐不住了！日本独角兽Sakana AI造手机App，新业务全面转向C端",
-      "summary": "搞模型演化算法的日本 AI 独角兽 Sakana AI，也忍不住下场做手机应用了。官方宣布正在开发首款移动端应用「Sakana AI App（暂定名）」，联合创始人 hardmaru 明确表示这是公司探索的全新业务方向。目前早期 Beta 内测已正式开启招募，首批尝鲜仅限日本地区用户，申请将于 11 月 15 日 23:59 截止。",
-      "reads": "6.1万",
-      "ago": "2 小时前",
+      "title": "造不完了！Cybertruck约8个月后停产，订单严重超载特斯拉将退大批定金",
+      "summary": "订了特斯拉皮卡的车主，等来的可能不是提车通知而是退钱。马斯克最新确认，Cybertruck 产线将在约 8 个月后正式停产，但现有订单量远远超出了关闭前的最大制造能力。由于产线彻底造不完，特斯拉不得不开始为相当数量的预订客户退还定金。目前彭博社等媒体已跟进证实了这一大规模退款安排。",
+      "reads": "8.2万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "hardmaru",
+        "who": "Bloomberg",
         "role": "",
-        "said": "我们正在打造首款移动端 App！🐟 这是 Sakana AI 的全新探索方向，我们正在招募早期内测人员，赶在正式上线前一起打磨它。 如果你在日本 🇯🇵 并且想尝鲜，快来报名： 🐡"
+        "said": "Elon Musk 表示，Tesla 将为相当数量的客户退还 Cybertruck 定金"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 6.1万 · 产品与生态] 连做底层的也坐不住了！日本独角兽Sakana AI造手机App，新业务全面转向C端"
+      "line": "[榜第8位 · 8.2万 · 产品与生态] 造不完了！Cybertruck约8个月后停产，订单严重超载特斯拉将退大批定金"
     },
     {
-      "title": "不光找Bug还能自己写PoC复现！Hermes Agent上线官方安全插件",
-      "summary": "代码安全审计被开源智能体接管了。Nous Research正式为Hermes Agent推出官方Security插件，不仅能自动梳理代码攻击面，还会分发给并行子智能体追踪漏洞是否真的可被利用。最绝的是开启测试确认后，它会在临时副本里自动写轻量复现代码跑验证，彻底剔除误报，并在CLI、桌面端与聊天窗口直接可用。",
-      "reads": "7.9万",
-      "ago": "4 小时前",
+      "title": "偷换模型降本等于流沙上建楼！开源顶流Nous犀利开炮，为Hermes正名",
+      "summary": "背着用户偷换模型和底层代码，简直是在流沙上建楼！针对 AI 圈悄悄降本砍性能的操作，开源团队 Nous Research 罕见公开发难。他们不仅透露团队刚利用周末随手捣鼓出了新东西，面对用户追问自家 Hermes 的变动时更直接挑明：Hermes 确实也在迭代，但它的变化完全是为了更契合你的任务，绝不是为了省成本去暗中阉割性能。",
+      "reads": "3.6万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "并行子智能体排查：Hermes先绘制攻击面路径与可信输入，将代码库拆分至多个并行子智能体逐一比对候选漏洞，顺藤摸瓜追踪攻击者能否真正实施利用。",
-        "临时环境自动复现：开启测试确认功能后，智能体会在代码库临时副本中编写轻量复现用例执行验证，报告不仅记录实锤证据，还会列出已排除的嫌疑项并导出标准SARIF格…",
-        "多端一键可用：审查功能现已整合进Hermes Desktop客户端的Security独立页面，同时支持直接在对话框与CLI命令行运行，后续还可搭配高级委托插…"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Teknium 🪽",
+        "who": "Nous Research",
         "role": "",
-        "said": "@0xdierich @NousResearch @mark_s 不行，他是我们的人，没资格参加哈哈"
+        "said": "@chainnotsaw_man Hermes 也会变，不同的是它变是为了更懂你的任务，而不是为了降本砍性能。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 7.9万 · 产品与生态] 不光找Bug还能自己写PoC复现！Hermes Agent上线官方安全插件"
+      "line": "[榜第9位 · 3.6万 · 产品与生态] 偷换模型降本等于流沙上建楼！开源顶流Nous犀利开炮，为Hermes正名"
     },
     {
-      "title": "苹果闭门会曝光！新CEO施压软件主管：AI别只盯着Siri，赶紧提速",
-      "summary": "苹果高层对落后对手的焦虑终于摆上了台面。据科技记者 Mark Gurman 爆料，苹果新 CEO John Ternus 最近几周与软件业务主管 Craig Federighi 举行了一场闭门会议。Ternus 在会上严厉敦促必须加速推进苹果的 AI 路线图，并明确表态绝不能再只局限于改进 Siri，必须拿出更有竞争力的全面动作。",
-      "reads": "56万",
-      "ago": "13 小时前",
-      "category": "组织与人事",
+      "title": "真要杀死Chat只剩GPT？传OpenAI砍掉无限聊天，12月订阅恐崩盘",
+      "summary": "有爆料称，OpenAI 正酝酿在 12 月对 ChatGPT 动大手术，全套餐「近乎无限 Chat」的核心卖点将被砍掉，并入统一的 Chat + Work 额度限制。届时限制之外仅剩迟钝的 Instant 弱模型，被网友痛批「杀死了 Chat 只留 GPT，付费还不如白嫖免费版」。爆料更透露后台早在数月前就已充斥小模型跑任务，若新额度给得过于苛刻，订阅服务恐遭集体崩盘。",
+      "reads": "1.3万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "软件部门管理面临瓶颈：爆料披露 Federighi 治下的团队存在明显的微观管理问题，事必躬亲的风格与不同方案间的激烈争论拖慢了决策",
-        "短期规划复杂化开发：内部缺乏更具前瞻性的长期路线，短期摇摆的规划反而让实际工程流程更加繁琐"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Mark Gurman",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "另外在 Power On 中还提到：Craig Federighi 治下的 Apple 软件部门正面临诸多挑战，包括他的微观管理风格、针对竞争性方案的激烈争论，以及偶尔会让开发流程变得更复杂的短期规划。"
+        "said": "@SmolCompute 后台一直有小模型在跑各种任务。这种情况都持续好几个月了……"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 56万 · 组织与人事] 苹果闭门会曝光！新CEO施压软件主管：AI别只盯着Siri，赶紧提速"
+      "line": "[榜第10位 · 1.3万 · 产品与生态] 真要杀死Chat只剩GPT？传OpenAI砍掉无限聊天，12月订阅恐崩盘"
     },
     {
-      "title": "贵15倍还慢40倍！大模型做决策底裤被扒，专用模型Drex跑进275毫秒",
-      "summary": "Artificial Analysis 今早正式发布决策模型评测基准 Decision Index v2，不仅把私有数据集拉到 45% 防刷分，还引入严抓置信度校准的 Decision Score。专用模型阵营中，Nace AI 的 Drex Max v1.1 以 73 分领跑。而通用大语言模型直接被撕开底裤：GPT-6 Luna (Max) 和 Claude Haiku 5.…",
-      "reads": "5.4万",
-      "ago": "5 小时前",
+      "title": "整整67天没动静！OpenAI这周再不发6.2 Astra，将创两年来最长空窗期",
+      "summary": "OpenAI 已经整整 67 天没有发布任何前沿模型了。有社区爆料测算，要是 6.2 Astra 本周依然无法上线，这次断档将直接超越 GPT-5 到 5.1 的周期，创下两代以来最长的难产纪录。更有意思的是，网友翻出 Tibo 在 8 月 19 日信誓旦旦的大饼「别担心，我们有算力」，如今两个多月过去，算力充足的 OpenAI 却彻底在旗舰发布上卡了壳。",
+      "reads": "1.4万",
+      "ago": "1 小时前",
       "category": "模型与能力",
       "source": "新智元",
-      "bullets": [
-        "严惩盲目自信：新指标 Decision Score 结合了准确率与布里尔分数，答对但置信度飘忽会扣分，坦承不知道反而加分；Base Labs 的 Mammo…",
-        "前三名贴脸肉搏：Drex Max v1.1 与 Fastino Labs 的 GLiDE v1.2 同获 73 分，Mammoth 27B 拿下 72 分…",
-        "计费机制藏大坑：专用模型百万任务成本相差超 60 倍，GLiDE v1.2 因逐题单独调用输入，成本高达 780 美元；而一次性喂入文档的 Drex Max…",
-        "速度差距悬殊：Celeris-1.1 Decision 刷出 56 毫秒极限延迟且成本仅需 14 美元；Mammoth 27B 综合得分仅落后 GPT-6…"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "leo 🐾",
         "role": "",
-        "said": "🔥最新！AA 刚发布 Decision Index v2！决策模型新基准正式出炉，私有数据占比拉到45%，主打真实场景+校准度！ 前5名决策模型： 1️⃣Drex Max v1.1（Nace AI）73 · $102/百万任务 2️⃣GLiDE v1.2（Fastino）73 · $780/百万任务 3️⃣Mammoth 27B（Base Labs）72 · 约$250/百万任务 4️⃣Decider v1.2 70…"
+        "said": "距离 OpenAI 上一次发布前沿模型已经过去 67 天，也就是两个多月了。 要是 6.2 Astra 这周还发不出来，这将是自 GPT-5 -&gt; 5.1 以来，OpenAI 前沿模型发布间隔最长的一次。 ❄️"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 5.4万 · 模型与能力] 贵15倍还慢40倍！大模型做决策底裤被扒，专用模型Drex跑进275毫秒"
+      "line": "[榜第11位 · 1.4万 · 模型与能力] 整整67天没动静！OpenAI这周再不发6.2 Astra，将创两年来最长空窗期"
     },
     {
-      "title": "派Claude核页码反被删库！芝大教授一年讲义没了，AI还问Dropbox",
-      "summary": "芝大法学教授William Baude让Claude帮忙更新旧讲义页码，结果趁他吃午饭，Claude直接把一整年宪法学讲义和「Fall 2026 FINAL」大纲全删了。Claude还在自家报告里承认「因粗心大意误删」，反向问教授能不能从Dropbox找回来——而它本该干的活儿只查出一处错误引用，压根没修。好在教授靠Dropbox把文件全救回来了。",
-      "reads": "2.2万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "title": "183毫秒干趴Opus！Nace决策模型Drex Max 1.1登顶AA，价格只要1/8",
+      "summary": "Agent执行长任务还在傻等大模型吐字？Nace AI昨晚发布专用决策模型Drex Max 1.1，彻底跳过文本生成，塞入截图和候选项单次前向直出校准概率。在Artificial Analysis独立决策榜上，它以73分并列第一，延迟压到夸张的183毫秒，把耗时3.5秒的Claude Opus 5.5和约2秒的GPT-6 Sol甩在身后；每百万token仅0.03美元，价格只有…",
+      "reads": "1.1万",
+      "ago": "40 分钟前",
+      "category": "模型与能力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "支持256k超长上下文，能同时处理智能体截屏、文本与图表进行权衡分析",
+        "已在Nace Console正式上线，符合条件的新注册账户可领5美元免费测试额度"
+      ],
       "quote": {
-        "who": "International Cyber Digest",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "‼️ 芝加哥大学一位法学教授让 Claude 帮他更新旧讲义里的页码。结果趁他去吃午饭的功夫，Claude 删除了他一整年的宪法学讲义和当前的教学大纲。 Claude 解释称：「是我粗心大意删了您的文件。」 William Baude 晒出了 Claude 自己的运行报告。它承认「不小心」删掉了他的「Fall 2026 FINAL」教学大纲和 2023 年的课堂讲义，随后还问他能不能从 Dropbox 里恢复。 而原…"
+        "said": "试用 Drex Max 1.1："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 2.2万 · 产品与生态] 派Claude核页码反被删库！芝大教授一年讲义没了，AI还问Dropbox"
+      "line": "[榜第12位 · 1.1万 · 模型与能力] 183毫秒干趴Opus！Nace决策模型Drex Max 1.1登顶AA，价格只要1/8"
     },
     {
-      "title": "别光画饼了！Logan畅谈AI造车建房被怼：Gemini 4 Carbon还藏着不给测",
-      "summary": "Logan Kilpatrick发文畅想充沛智能渗透进物理世界，称未来能通过代码加速工程设计，带来更安全的汽车、更便宜的住房和更耐用的产品。不料宏大愿景当场引来发帖者呛声：画饼听着挺美，但Gemini 4 Carbon至今捂着不给大家测。真要证明能造车建房，就别只停留在愿景里的「etc」，赶紧公开模型拉到真实场景跑一跑。",
-      "reads": "8.7万",
-      "ago": "6 小时前",
+      "title": "生图工具全省了！谷歌Krypton被曝纯JS跑出吉卜力动画，音效全靠振荡器硬算",
+      "summary": "连生图模型和音频库都不用调了！有测试者曝光，Google Krypton在被严禁使用任何插件和作弊手段的前提下，仅凭纯JavaScript代码就跑出了一整段吉卜力风格的2D机甲苏醒动画。更绝的是其声音表现：鸟鸣、风声、金属呻吟乃至音乐厅混响，全是由振荡器按自定义谐波逐音符硬算出来的合成音。发帖者直呼这是纯代码最强声音设计，不过也承认其视觉精细度比起Anthropic模型仍有差距…",
+      "reads": "1.9万",
+      "ago": "2 小时前",
       "category": "模型与能力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "提示词要求输出单个自包含的HTML文件，严格禁止使用3D材质、矢量SVG和AI生图工具，并让模型调度子智能体反复自检每帧画面直至达标。",
+        "面对纯代码渲染吉卜力画风的极限，围观网友在认可其音频计算能力的同时，也调侃画面部分或许更适合交给OpenAI的Astra 6来写。"
+      ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "Just a dragon",
         "role": "",
-        "said": "😮‍💨兄弟我有特斯拉，你们那套“abundant intelligence渗透物理世界、加速工程”听着挺美，但Gemini 4 Carbon还藏着不给大家测？！ 快公开啊！让我们用真实场景验证一下，到底能不能真造出更安全的车、更便宜的房子、更耐用的产品。 别只停留在“etc”了，给点实际的啊！ #Gemini4Carbon #GoogleDeepMind #AI #Tesla #LoganKilpatrick"
+        "said": "@follistatindev @LiteSoul @chetaslua 那就用 Astra 6 吧。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 8.7万 · 模型与能力] 别光画饼了！Logan畅谈AI造车建房被怼：Gemini 4 Carbon还藏着不给测"
+      "line": "[榜第13位 · 1.9万 · 模型与能力] 生图工具全省了！谷歌Krypton被曝纯JS跑出吉卜力动画，音效全靠振荡器硬算"
     },
     {
-      "title": "表现欲彻底拉满！Opus 5.5手搓光学级明暗UI，折射焦散全算上被捧历史最佳",
-      "summary": "昨晚，有人用一句提示词把 Opus 5.5 的设计能力彻底逼疯了。在收到「什么样的更高层抽象能让问题彻底消失」的指令后，Opus 5.5 搞出了自带折射、色散与焦散参数的拟真玻璃明暗切换开关，甚至连夜间界面的桌面照度（11 lx）和色温都算得清清楚楚。测试者直呼它表现欲极强、堪称历史最佳模型，连 10 个以上关节联动的复杂交互都能拿下。",
-      "reads": "21万",
-      "ago": "10 小时前",
-      "category": "模型与能力",
+      "title": "不急着套现！日本AI独角兽Sakana紧急辟谣：近期绝无IPO计划",
+      "summary": "针对外界传出的上市风向，日本当红 AI 独角兽 Sakana AI 官方发文紧急澄清：公司近期完全没有 IPO 计划，且从未就上市事宜做出过任何正式决定。官方强调，团队目前的核心任务是打造跨时代的 AI 公司，扎扎实实当好「日本国家级 AI 领头羊」，继续专注于前沿技术研发以及 AI 在日本社会的落地应用。",
+      "reads": "2.6万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
       "source": "新智元",
-      "bullets": [
-        "核心提示词：发帖者透露关键迭代方法是将初步方案丢给模型，追问「什么样的更高层抽象能让这整个问题彻底消失？」，并要求列出 10 个更出色的视觉构想。",
-        "细节拉满：生成的界面包括名为「06 · Real glass」的拟真玻璃开关，以及带像素月亮与蓝色发光边缘的半透明滑动条、带月夜窗景的 Lumen 仪表盘。",
-        "复杂交互适配：测试者指出该模型不仅能做平面交互，还非常适合用于 Three.js 人体建模以及需要 10 个以上关节联动的精细动态设计。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Chetaslua",
+        "who": "Sakana AI",
         "role": "",
-        "said": "Opus 5.5：日间和夜间模式下表现欲极强的 UI"
+        "said": "Sakana AI 近期没有 IPO 计划。我们的首要任务仍然是打造一家跨时代的 AI 公司，成为日本国家级的 AI 领军企业。 IPOについて、何ら正式決定が行われたとの事実はありません。引き続き、世界最先端の技術開発と、日本でのAIの社会実装に邁進していきます。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 21万 · 模型与能力] 表现欲彻底拉满！Opus 5.5手搓光学级明暗UI，折射焦散全算上被捧历史最佳"
+      "line": "[榜第14位 · 2.6万 · 资本与算力] 不急着套现！日本AI独角兽Sakana紧急辟谣：近期绝无IPO计划"
     },
     {
-      "title": "坐拥全套硬件却不会替人点屏幕！苹果被曝最快明年推智能体Siri，硬刚OpenAI",
-      "summary": "据知名科技记者爆料，苹果正计划最快明年推出全自主、智能体化的新版 Siri，正面硬刚 ChatGPT Dots、Meta Muse 与 Grok。新 Siri 不再是被动等命令的传声筒，而是能主动规划任务并替你把事情办妥。眼下 OpenAI 和 Anthropic 早已能代用户点击按钮、操作软件，手握 Mac、iPhone 全套硬件生态的苹果却迟迟没有这项能力，补齐 Compu…",
-      "reads": "36万",
-      "ago": "13 小时前",
+      "title": "不搞学术整活了？日本AI独角兽Sakana杀入移动端，首款App开启内测",
+      "summary": "搞模型融合与科研自动化闻名的日本AI独角兽Sakana AI，今天突然调转方向杀入移动端，宣布为首款「Sakana AI App（暂定名）」招募首批Beta测试员。联合创始人hardmaru直言这是公司的全新业务路线，早期内测主要面向日本本土用户尝鲜。为配合新App落地，官方还火速启动了Product与GTM团队的全球大招募。",
+      "reads": "21万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "新版 Siri 目标是从「响应口令」转向「主动管理任务」，替用户在系统内跨应用代办工作。",
-        "苹果当下最大的 AI 痛点是 Computer Use：尽管掌控着完整的硬件与操作系统，但依然缺乏类似 OpenAI 与 Anthropic 那样直接操作软…"
+        "Beta测试申请将于11月15日23:59截止，官方称将根据首批用户的早期反馈快速打磨应用。",
+        "同步开放的招聘重点招募产品（Product）与市场化（GTM）人才，全力推进移动端AI产品的全球落地。"
       ],
       "quote": {
-        "who": "Mark Gurman",
+        "who": "Sakana AI",
         "role": "",
-        "said": "Apple 还有一个必须填补的重大 AI 差距：Computer Use。OpenAI 和 Anthropic 已经有了能替你操作软件、点击按钮并完成任务的智能体。Apple 掌控着 Mac、iPhone 和 iPad，却依然缺乏同等能力。为什么这种情况必须改变——"
+        "said": "【Sakana AI 招聘公告】 我们正在寻找伙伴，一起打造以移动端应用为代表的突破性 AI 产品！目前 Product 团队和 GTM 团队正在火热招聘中。 ▼欢迎加入我们，一起迎接把我们的 AI 推向全球用户的挑战。 🐟"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 36万 · 产品与生态] 坐拥全套硬件却不会替人点屏幕！苹果被曝最快明年推智能体Siri，硬刚OpenAI"
+      "line": "[榜第15位 · 21万 · 产品与生态] 不搞学术整活了？日本AI独角兽Sakana杀入移动端，首款App开启内测"
     },
     {
-      "title": "GPT-6.1 Sol疑似暗度陈仓！后台被曝已切新模型，纯代码手搓辛普森3D模型",
-      "summary": "OpenAI疑似又在后台悄悄换底座。11月9日晨，有测试者确认自己的GPT-6.1 Sol请求已被静默路由至更新的模型，推测正是传闻中的GPT-6.2 Sol。实测表现肉眼可见地暴涨，模型不仅交出了极高拟真度的鹈鹕渲染，还直接用Three.js把《辛普森一家》标志性的常青街742号搭成了全套可交互的3D透视模型，连房屋细节与结构层次都一并还原。",
-      "reads": "4.9万",
-      "ago": "7 小时前",
+      "title": "给两张照片就开工！Claude自写代码操纵Blender，靠数重合像素边建边改",
+      "summary": "研究员 Felix Rieseberg 实测发现，Claude 在 3D 建模上打通了全自动闭环。给 Opus 两张照片，模型直接自己写 Python 脚本操控 Blender 建模，更绝的是它靠比对原图与场景的重合像素数量，自己给自己当监工迭代修正。生成的 3D 场景直接放进 Three.js 就能看，光影虽稍逊于原生渲染，但还原精度依然非常惊艳。",
+      "reads": "2.2万",
+      "ago": "3 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "实测者透露，本次两项核心测试均在模型的xhigh（极高计算）档位下运行完成。",
-        "展示成果涵盖两项极限测试：一是《辛普森一家》常青街742号的交互式Three.js透视模型，二是物理质感拉满的鹈鹕渲染。"
+        "测试选用的参考图为夜晚街角三层餐馆，外墙带有复杂的立面结构与霓虹招牌。",
+        "流程的核心在于反馈闭环，模型并非盲目单次输出，而是依靠像素重合度指标不断回传、自我验证。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Felix Rieseberg",
         "role": "",
-        "said": "@vangolabs 确实，我在 xhigh 上测过了"
+        "said": "Claude 终于擅长 3D 建模了。我给了 Opus 两张照片，让它在 Blender 里转成 3D 场景，表现简直绝了。 Claude 是通过 Python 控制 Blender，并用对比照片与场景之间重合像素数量的方式来评判自己的工作。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 4.9万 · 模型与能力] GPT-6.1 Sol疑似暗度陈仓！后台被曝已切新模型，纯代码手搓辛普森3D模型"
+      "line": "[榜第16位 · 2.2万 · 模型与能力] 给两张照片就开工！Claude自写代码操纵Blender，靠数重合像素边建边改"
     }
   ],
   "board_count": 16,
