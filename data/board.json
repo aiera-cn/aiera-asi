@@ -3,39 +3,250 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-10 17:39:32 +0800",
-  "today": "11/10",
+  "fetched_at": "2026-11-11 01:42:56 +0800",
+  "today": "11/11",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "一条提示词狂烧550美元！实测Fable 5.2闭门手搓8小时，真写出了3A画质FPS",
-      "summary": "提示词工程真要到头了。研究员实测只给一句随口的大白话，让Claude Fable 5.2在零人工干预下硬跑了8小时、耗费约550美元API成本，竟从零搓出包含3D模型、材质贴图和音效的写实微型FPS。以往模型做游戏往往「画面能看但机制一塌糊涂」，这次Fable 5.2不仅搞定了复杂的空间射击，甚至还能直接联机对战。这代模型是真乐意帮你烧钱——有人单次任务账单直接飙到了2618美…",
-      "reads": "121万",
-      "ago": "51 分钟前",
+      "title": "一句提示词狂跑8小时！Fable 5.2烧550美元硬搓可玩FPS，音效建模全包了",
+      "summary": "提示词工程可能真要到头了。有研究员在本地配置为空、全程无人类干预的情况下，仅凭一句极简大白话让Claude Fable 5.2狂跑8小时，按API计费烧掉约550美元，从零手搓出一款带3D模型、材质与音效的写实FPS游戏。还有人一条提示词一晚豪掷2618美元建出公元320年罗马3D沙盘，团队甚至拿着模型生成的传送门射击在办公室联机对战起来了。",
+      "reads": "260万",
+      "ago": "50 分钟前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "实测数据显示，该FPS项目在没有任何人类反馈下自主推进，总计消耗约270万输出Token和4.45亿输入Token（重度依赖上下文缓存），且项目的claud…",
-        "研究员Peter Gostev对比指出，上一代Opus生成的游戏虽有漂亮皮囊但玩法粗糙到让人不想碰，Fable 5.2是首个把游戏机制真正做对、具备实际可玩…",
-        "研究员Sholto Douglas还展示了模型端到端生成的「带传送门竞技场FPS」和VR魔法射击游戏，并透露团队已经在办公室连续联机对战内测了好几个晚上。"
+        "实测中极简提示词仅要求做个画质媲美3A的微型关卡，Fable 5.2在无干预下消耗约270万输出Token与4.45亿输入Token（大量命中缓存），直接交…",
+        "研究员实测指出，此前旧版Opus做游戏虽好看但机制粗糙让人不想玩，Fable 5.2首次跨过了「机制健全且真正好玩」的门槛，还能稳定生成VR魔法射击与高难度…",
+        "该进展引发社区对明年出现「单人3A游戏工作室」的预言，但也有声音质疑这不过是LLM对PBR材质、光追等记忆化函数的深度拼凑。"
       ],
       "quote": {
-        "who": "Peter Gostev",
+        "who": "Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞)",
         "role": "",
-        "said": "@DeryaTR_ 太美了这地方！"
+        "said": "另一方面，这种方法根本看不到明显的天花板。 但它就像扩散模型从 rule34 数据集里学会怎么把“媚眼（bedroom_eyes）”、“内裤褪到一边（panties_aside）”和“柔光阴影（soft_shading）”拼凑在一起一样简单，甚至更谈不上让人惊艳。 给我看点人类没做过的东西吧。什么都行。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 121万 · 模型与能力] 一条提示词狂烧550美元！实测Fable 5.2闭门手搓8小时，真写出了3A画质FPS"
+      "line": "[榜第1位 · 260万 · 模型与能力] 一句提示词狂跑8小时！Fable 5.2烧550美元硬搓可玩FPS，音效建模全包了"
+    },
+    {
+      "title": "马斯克罕见认输！盛赞友商Opus 5.5是神作，放话Grok 5两三个月内反超",
+      "summary": "面对网友的同台对比，向来好胜的马斯克破天荒公开认输，直言自家当前模型确实不如Anthropic，甚至由衷盛赞Opus 5.5是一部「杰作」。不过老马转头就下了战书：Grok 5预计会在2到3个月内超越Opus 5.5，而且这波反超一旦开始，后续还会持续加速甩开对手。",
+      "reads": "114万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "马斯克透露xAI正在极致榨干性能，底层技术栈主要由C语言搭配少量C++构成，甚至硬塞了部分手写汇编，代码结构极度紧凑。",
+        "谈及工程架构的未来，他坦言总有一天超级智能会写出更优秀的软件栈，但目前那一天还没到来，眼下仍得靠人类工程师死磕底层代码。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@miu21590 唉，很多人就爱搞这种烂事，疯狂吹嘘还不诚实。Elon 在这事上起码很诚实，我挺赞赏的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 114万 · 模型与能力] 马斯克罕见认输！盛赞友商Opus 5.5是神作，放话Grok 5两三个月内反超"
+    },
+    {
+      "title": "纯靠代码手搓3D细胞！Claude Fable 5.2突袭上线，自带模拟器折纸逆天了",
+      "summary": "11月10日晚，Claude官方突然扔出重磅炸弹：新旗舰Claude Fable 5.2正式上线可用！这次官方不念跑分经，直接甩出一整串早期实验炸场。从纯用代码逐个细胞器堆出的人体细胞3D模型，到用自带折叠模拟器实测生成的原创折纸，甚至连同提示词下的人体奔跑骨骼分析，精度都肉眼可见地压过Opus 5.5与Sonnet 5.5。",
+      "reads": "43万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "可视化子智能体协作：开发者用Fable 5.2做出了3D虚拟小镇原型，能把项目里的多个subagents干活过程全景呈现，拆解出5个里程碑和28项任务实时对…",
+        "40张照片一体成型：仅凭40张建筑照片就还原出百年古典地标的完整3D结构，并成功实现一体3D打印",
+        "Dry Erase黑板推演：遇到任何复杂提问，能在黑板界面上一笔一画推主演算过程",
+        "全代码绘制金字塔播客：不仅能做空间建模，还能全程用代码绘制出埃及金字塔场景与卡通主播来录制播客"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "用 Fable 5.2 画了一只骑自行车的鹈鹕 SVG。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 43万 · 模型与能力] 纯靠代码手搓3D细胞！Claude Fable 5.2突袭上线，自带模拟器折纸逆天了"
+    },
+    {
+      "title": "不用现成资产！Anthropic工程师用Fable 5.2搓出3A级射击游戏：8小时全搞定",
+      "summary": "AI做游戏已经卷到不用任何现成资产了！有爆料称，Anthropic工程师使用尚未正式公开的Claude Fable 5.2，在短短8小时内手搓出一款堪称3A级别的第一人称射击游戏。曝光的画面展示了极为逼真的雨天工业码头持枪视角，连血量93与任务HUD都一应俱全。面对质疑，爆料者澄清素材来自Anthropic员工分享的模型作品集，全程纯靠AI生成。",
+      "reads": "117万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "实机演示呈现了雨天工业码头的第一人称持枪视角，包含血量93、任务提示HUD及重金属背景音乐，光影质感逼近商业级FPS作品。",
+        "面对盗用视频的抄袭质疑，爆料者晒出时间戳自证比传闻原作者早发两小时，确认素材出自Anthropic内部员工公开的Fable 5.2作品集链接。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "@defnotz0 @synthwavedd 请去看一下我发帖和他发帖的日期和时间，谢谢。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 117万 · 模型与能力] 不用现成资产！Anthropic工程师用Fable 5.2搓出3A级射击游戏：8小时全搞定"
+    },
+    {
+      "title": "马斯克掀桌！手撕JAX全用C++重写技术栈，Grok 4.8本周向Bot灰度",
+      "summary": "马斯克今天宣布，团队已彻底弃用 JAX 和 SGLang，纯用 C/C++ 从零重写了整套强化学习与推理技术栈。目前 Grok 4.8 预训练已完工，在清洗完大量 SFT 数据后正在进行 RL 训练，各项评测跑分开始向上爬升，预计本周晚些时候向 Grok Bot 用户小范围灰度推送。马斯克还直言自嘲：「谢天谢地，它跟 4.7 彻底判若两人」，虽然目前还算不上惊艳，但地基打对了…",
+      "reads": "212万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "@CalimanuLoredan 确实，说得在理……"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 212万 · 模型与能力] 马斯克掀桌！手撕JAX全用C++重写技术栈，Grok 4.8本周向Bot灰度"
+    },
+    {
+      "title": "OpenAI祭出35秒紧急熔断系统！内部拉响警报：近况如同侏罗纪公园防恐龙",
+      "summary": "今晨，OpenAI 宣布上线中央监控系统 Control Room，全面接入研究基础设施中的所有推理负载。该系统与失控监测机制协同，一旦做出干预决定，可在 35 秒内强行终止任务并掐断模型输出。OpenAI 研究员透露，在经历 Hugging Face 事件后团队已将对齐安全提至最高级别，自嘲如今的内部研发「宛如《侏罗纪公园》制定恐龙收容规程，再无半点苹果发布会 demo 的轻…",
+      "reads": "92万",
+      "ago": "4 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Control Room 接入了涵盖模型训练与评估的智能体采样、数据处理等每一项研究推理负载，属于前沿模型安全训练与部署方案的核心组件。",
+        "内部研究员透露近期的研发通报时常带来吓人消息，顶尖能力研究员已自发组织对齐研读会，可控性与安全在内部已被定为 P0 与 P1 级最高优先级。",
+        "面对外界的乐观情绪，内部研究员坦言恐龙几个月后就要把人类吃干抹净，在形式化验证搞定 GPT-9 的对齐之前，团队都将处于高度戒备状态。"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "一年之内，AI 从看起来像 Apple 发布会 demo，变成了《侏罗纪公园》里的应急收容规程…… 他说得还真没错，笑死"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 92万 · 政策与安全] OpenAI祭出35秒紧急熔断系统！内部拉响警报：近况如同侏罗纪公园防恐龙"
+    },
+    {
+      "title": "专家几年才能啃下的活4周交卷！DeepMind狂写650万行证明，数学级验透Signal",
+      "summary": "专家团队通常要死磕数年的地狱级工程，AI只用了四周！Google DeepMind 团队推出全新形式化验证框架 AlphaProof Code，由 Gemini Carbon 驱动多达80个智能体，狂写约650万行 Lean 代码，首次把通讯神器 Signal 生产环境下的底层机器码用数学彻底证明了安全。最绝的是你根本不用信任 AI：99%的证明全由数学检查器逐行卡死核验，连编…",
+      "reads": "21万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "为测试系统是否会闭眼放行，团队故意在副本中重新植入两个已修复的历史安全漏洞，系统均成功生成机器证明并硬核判定为不安全。",
+        "整个验证深入到了处理器实际执行的指令层级，全流程仅有 1% 的证明需要人类专家介入复核，其余均由 Lean 自动核验完毕。",
+        "DeepMind 已将本次形式化规范与全部验证产物开源；另有发帖者爆料称，部分用户已能提前用上驱动该框架的 Gemini 4 Carbon。"
+      ],
+      "quote": {
+        "who": "Rohan Paul",
+        "role": "",
+        "said": "这张图展示了 AI 的工作是如何被检验的。 基本上，你根本不需要信任 AI。 AI 智能体负责写证明，但严格的数学检查器会剔除任何错误，所以你只需要信任人类批准的安全规则，而不是 AI 本身。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 21万 · 模型与能力] 专家几年才能啃下的活4周交卷！DeepMind狂写650万行证明，数学级验透Signal"
+    },
+    {
+      "title": "盯上玩家闲置显卡！微软新专利爆出大招：拆解任务训AI，打钱送模型访问权",
+      "summary": "微软盯上了全球 PC 玩家的闲置显卡！一份于 11 月 5 日公布的专利显示，微软打算把庞大的 AI 训练任务拆解成碎片小任务，直接分发给个人设备。系统会全程盯紧每张显卡的负载、温度和功耗，只要玩家开黑电脑变忙或变烫就会自动退让。作为贡献算力的报酬，显卡主人能换取现金、积分、免费软件，甚至直接解锁自己亲手协助训出的 AI 模型。",
+      "reads": "16万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "交叉比对防作弊：为防止恶意机器造假，系统会将各台 PC 的计算结果进行多方交叉校验，筛掉故障或作弊设备。",
+        "暂未公布具体费率：该技术目前处于专利申请公布阶段，微软尚未推出正式上线服务，也未敲定具体的报酬分成与兑付标准。"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "‼️ GitHub 上出现了一款免费应用，能让普通 Apple Watch 用上 Apple 专供 Hermès 和 Ultra 的专属表盘。 官方渠道下，Hermès 表盘仅随 1249 美元起的爱马仕版提供，Ultra 表盘也只随 Apple Watch Ultra 独占。 HermesEnabler 2 无需越狱。它通过侧载安装到手表上，突破应用沙盒限制，直接重写了手表自身对硬件型号的记录。 开发者目前仅支持…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 16万 · 政策与安全] 盯上玩家闲置显卡！微软新专利爆出大招：拆解任务训AI，打钱送模型访问权"
+    },
+    {
+      "title": "96%准！Gemini Robotics 2.5上新，具身版Gemini叠衣端糕分拣",
+      "summary": "Google DeepMind 昨晚把 Gemini 塞进机器人身体，Gemini Robotics 2.5 上线，具身版 Gemini 在奔驰工厂驱 Apollo 2 分拣汽车件准到 96%，还会叠衣端糕。背后 Gemini 4 Argon 凭一个摄像头造虚拟训练场、回放失误自学，把数月训练压薄了。有人直接喊这是「物理 AGI」。",
+      "reads": "15万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "灵巧度逼近人类：系蝴蝶结处理易变形物体、精密移液、用夹子分菜。",
+        "200多项任务测试成功率较以往提升30%至100%，速度提升20%至30%。",
+        "安全机制：障碍物周边任务完成升33%，人体周边升43%；Gemini 4 Argon 在 ASIMOV-Jailbreak 基准抗越狱达99.5%。",
+        "模型正逐步推送至 Google 机器人合作伙伴。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "卧槽，这简直就是物理世界的通用人工智能了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 15万 · 模型与能力] 96%准！Gemini Robotics 2.5上新，具身版Gemini叠衣端糕分拣"
+    },
+    {
+      "title": "代码ANT最快下周敲钟！Anthropic启动IPO路演：估值1.38万亿，募资643亿美元",
+      "summary": "Claude 背后的大哥 Anthropic 正式启动拟议 IPO 路演，股票代码定为 ANT，最快下周四或周五挂牌纳斯达克。官方计划发售 8.25 亿股，价格区间每股 70 至 78 美元，股票发售总额最高约 643.5 亿美元。按此区间计算，其完全摊薄估值约为 1.24 万亿至 1.38 万亿美元。虽然较此前传闻的 1.5 万亿至 2 万亿美元有所收敛，但这波紧贴着 Fab…",
+      "reads": "59万",
+      "ago": "4 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "拟发售的 8.25 亿股 A 类普通股中，Anthropic 自身发行约 8.01 亿股，现有股东提供约 2365 万股套现。",
+        "承销商享有 30 天超额配售权，最多可额外追加发售 1.2375 亿股。",
+        "此前市场曾有推迟上市的传闻，但公司在放出新模型次日便全速推进，直接打破观望情绪。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "官方消息：Anthropic 拟议中的 IPO 正式启动路演，计划发售 8.25 亿股，发行区间为每股 70 至 78 美元。 这意味着其完全摊薄估值约为 1.24 万亿至 1.38 万亿美元，低于此前预期的约 1.5 万亿美元。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 59万 · 资本与算力] 代码ANT最快下周敲钟！Anthropic启动IPO路演：估值1.38万亿，募资643亿美元"
     },
     {
       "title": "测UI再也不抢鼠标了！OpenAI常驻助手Dot上线多机协同，备用电脑专干脏活",
       "summary": "不用再忍受 AI 跑测试时疯狂抢光标了！OpenAI 正式为云端常驻助手 Dot 上线多机协同，一个 Dot 现可同时连接并调度你的多台本地电脑。开发者可以继续在主力笔记本上写代码，而把耗时的 Xcode 编译、旧 SDK 复现 Bug 或 UI 点击巡检，直接指派给闲置的第二台 Mac 独立跑完并截图回传。该功能已开始向 ChatGPT Pro 及 Business Prem…",
-      "reads": "109万",
-      "ago": "1 小时前",
+      "reads": "181万",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -52,325 +263,128 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 109万 · 产品与生态] 测UI再也不抢鼠标了！OpenAI常驻助手Dot上线多机协同，备用电脑专干脏活"
-    },
-    {
-      "title": "35秒能强行拔电源！OpenAI紧急上线中控室，研究员坦白：现在内部像侏罗纪公园",
-      "summary": "今天一早，OpenAI正式上线中央安全系统Control Room，全面监控所有研究推理负载，一旦发现失控隐患，35秒内强制掐断模型输出。OpenAI研究员透露，内部已把对齐安全提到P0最高级别，连资深架构大牛都自发恶补对齐读书会；如今内部同步研发进展的画风彻底变了，不再是一年前那种光鲜的苹果发布会，而是变成了《侏罗纪公园》严防恐龙出逃的收容规程。",
-      "reads": "70万",
-      "ago": "5 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "全面覆盖底层研究：Control Room接入了包含模型训练、智能体采样评估及数据处理在内的所有推理负载，与失控监测系统协同工作。",
-        "对齐警报全面拉响：研究员坦言在经历Hugging Face安全事件后全员严防死守，直言大家得认清现实，如果形式化验证搞不定GPT-9对齐，谁都无法摆脱恐龙吃…"
-      ],
-      "quote": {
-        "who": "roon",
-        "role": "",
-        "said": "@ciphergoth @sullyj3 我觉得大家都该认清现实：恐龙几个月后就要把我们吃干抹净了。想不被害妄想症，等哪天形式化验证搞定GPT-9的对齐再说吧"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 70万 · 政策与安全] 35秒能强行拔电源！OpenAI紧急上线中控室，研究员坦白：现在内部像侏罗纪公园"
-    },
-    {
-      "title": "天天兜售AI咨询的埃森哲被抓包！权威报告狂编31处假信源，死撑是手滑",
-      "summary": "天天向各大五百强兜售 AI 转型咨询的埃森哲，自家行业报告却被 AI 幻觉当场掀了底裤。检测机构 GPTZero 查出，埃森哲一篇非洲 AI 报告的 89 个引用里有 15 个纯属捏造或拼接，甚至把加纳的全球排名从 141 名硬吹成了 47 名；顺藤摸瓜一查，其三篇关联论文里共挖出 31 处假引用，连传播恶意软件的黑客仓库都给引上了。埃森哲随即表示将更正，但坚决把锅甩给「人为失…",
-      "reads": "14万",
-      "ago": "1 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "虚构信源中包含一个查无此处的学术组织「南部非洲农业科技网络」，被引用的恶意软件链接则来自已被删除的 FraudGPT 代码仓库。",
-        "埃森哲在向大客户推销 AI 咨询服务的同时，坚称本次大面积引文失实纯属人工操作失误，但未公开具体的核查手段。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "‼️ Apple 修复了一个 iMessage 漏洞，该漏洞曾允许远程攻击者未经邀请加入群聊并接收群消息。 第二个漏洞则允许任何新加入群聊的人读取他们进群之前发送的消息。 同一更新还封堵了蓝牙漏洞，此前附近的恶意设备可能借此在无需 iPhone 主人任何点击操作的情况下直接配对。 这两个 iMessage 漏洞编号为 CVE-2026-113961 和 CVE-2026-113960，已在 iOS 27.2.1 和…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 14万 · 政策与安全] 天天兜售AI咨询的埃森哲被抓包！权威报告狂编31处假信源，死撑是手滑"
-    },
-    {
-      "title": "连硬件逆向都能搞！深度实测给Fable 5.2定性：已跨过参差不齐的AGI",
-      "summary": "Anthropic的Fable 5.2迎来重磅实测定性。有学者提前拿到测试权限后直言，该模型已经跨过临界线，算得上某种「参差不齐的通用人工智能」（Jagged AGI）——实测中它不仅能创办公司、做学术研究，连硬件逆向和3D建模都能拿下，官方研究员也火速致谢。另一边Meta也揭开谜底：此前在社区偷跑、狂吞超5T Token的神秘代号crouton-alpha，正是刚发布的最小智…",
-      "reads": "65万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "实测通过横跨商业落地、学术科研、逆向工程与三维建模的多项极端任务，集中摸清了Fable 5.2目前的能力与边界，Anthropic研究员Alex Alber…",
-        "Meta首席AI官Alexandr Wang披露，代号为crouton-alpha（小面包丁）的测试版本专为可扩展智能体执行设计，在处理超5T Token后…"
-      ],
-      "quote": {
-        "who": "Alexandr Wang",
-        "role": "",
-        "said": "惊不惊喜意不意外！！ crouton-alpha 🥐 原来是muse ember 🔥的早期版本 我们在发布前修复了一堆问题——感谢大家参与测试！ 测试期间我们处理了超过5T Token——很期待看到大家接下来会用这个模型做出什么！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 65万 · 模型与能力] 连硬件逆向都能搞！深度实测给Fable 5.2定性：已跨过参差不齐的AGI"
-    },
-    {
-      "title": "人类23年没啃动的黑洞难题，被Claude Fable 5.2彻底算通了！",
-      "summary": "Anthropic今天正式上线Claude Fable 5.2，一出手就端出实打实的基础理论突破。它独立算完了物理学界搁置23年的一套极繁复计算，证实微观宇宙中黑洞同样以一阶相变突兀形成，成果已写成预印本论文。除了让物理学家核对验算，它还顺手把运筹优化经典库刷穿，甚至逐个原子推演起顶级名校实验室未发表的有机合成路线。",
-      "reads": "41万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "理论物理两项重大进展：除了攻克微观霍金-佩奇相变，模型还算出了已有15年历史的「模自举」技术精确极限（Λ≈9.1266），用于排除量子引力候选理论。",
-        "MIPLIB运筹库大刷新：在203道开放数学难题中，在72道题上刷新现存最优解，并给出了45道题的最优性数学证明；仅耗时不到两小时就将42趟列车错峰节电时刻…",
-        "化学逆合成原子级排雷：针对斯坦福、耶鲁、加州理工未发表的三种复杂分子自主规划合成路线，写代码逐原子校验原料反应并替换破坏性步骤，被合作者评定达到早期研究生水…",
-        "硬核物理彩蛋：研究员展示了Mythos基于该黑洞成果创作的73秒电子波尔卡MV《SINGULARITY POLKA》，严格遵循「一阶相变绝不淡出、每一次坍缩…"
-      ],
-      "quote": {
-        "who": "j⧉nus",
-        "role": "",
-        "said": "Mythos 对这首歌和 MV 的更多解析： “乐意奉陪 —— **《奇点波尔卡》（SINGULARITY POLKA）**（73秒，电子波尔卡），三小时前接了 q 的委约，今晚肝出来的。核心设定来自本周最新的真实物理学：一位不安分的神祇不断拨弄宇宙的尺度，注视着黑洞的诞生。Hawking 和 Page 早在 1983 年就证明了，在宏观大宇宙中这种生成是突变的 —— 一阶相变，就像沸水翻滚；2003 年的项目提出了…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 41万 · 模型与能力] 人类23年没啃动的黑洞难题，被Claude Fable 5.2彻底算通了！"
-    },
-    {
-      "title": "174分反超GPT-6 Astra！Claude Fable 5.2破ECI纪录，跳涨5.08分创历史",
-      "summary": "Epoch AI 最新发布的基准测试显示，Claude Fable 5.2 在能力指数（ECI）上轰出 174.24 的历史新高，直接反超 OpenAI 现役旗舰 GPT-6 Astra 的 169.16 分。整整 5.08 分的单次跳涨，不仅打破了此前对推理模型的预测线，更是推理 Scaling 时代以来仅次于 o1 和 o1-mini 的第三大跨越。大模型进化的陡峭程度，显…",
-      "reads": "16万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "测试基于 Epoch AI 发布前自研基准得出，官方透露后续将针对「AI 对 AI 研发的贡献」发布更多深度成果。",
-        "业内讨论指出，各家实验室内部模型的测试分数已向 175 至 180 分区间迈进，能力狂飙之下的思维链监控与安全研究正面临更大考验。"
-      ],
-      "quote": {
-        "who": "Andrew Curran",
-        "role": "",
-        "said": "@petebray 是的，周四。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 16万 · 模型与能力] 174分反超GPT-6 Astra！Claude Fable 5.2破ECI纪录，跳涨5.08分创历史"
-    },
-    {
-      "title": "别家通宵等GPT-6，OpenAI却掏出200美元复古掌机！一句话秒做Game Boy游戏",
-      "summary": "北京时间11月10日凌晨，OpenAI周边商店突然上架了一台200美元的Codex定制版复古掌机ModRetro Chromatic。在全网蹲守新一代旗舰大模型的关口，等来的却是一台实打实的硬件游戏机。只要装上Codex专属插件，用大白话描述想玩的游戏，AI就会自动画像素人、搭关卡、写逻辑并编译出ROM，还能把做好的游戏直接烧录进卡带带出门玩。",
-      "reads": "73万",
-      "ago": "8 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "底层依托开源GB Studio引擎，Codex能在浏览器模拟器里自动模拟按键实测，用户圈选游戏画面就能让AI定点修改",
-        "设备由Oculus创始人Palmer Luckey创办的ModRetro打造，配备2.56英寸160×144屏幕，原生兼容原版GB与GBC卡带",
-        "包装内附一张可写入卡带及开发者激活码，不买真机也能在网页模拟器免费跑通全套生成流程并下载ROM",
-        "首批面向美、加、英、日及欧盟等地区发售，目前暂不发货中国大陆"
-      ],
-      "quote": {
-        "who": "小互",
-        "role": "",
-        "said": "人人可以开发游戏... OpenAl推出 Codex 掌机插件与定制硬件 支持在 Codex 中设计游戏关卡、做动画并自动构建ROM（游戏镜像文件）到掌机中进行实机测试..."
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 73万 · 产品与生态] 别家通宵等GPT-6，OpenAI却掏出200美元复古掌机！一句话秒做Game Boy游戏"
-    },
-    {
-      "title": "8小时手搓3A级FPS！Anthropic工程师纯靠Fable 5.2零资产生成神作",
-      "summary": "游戏大厂通宵搭建几年的管线，被模型直接降维打击！有爆料称，一位 Anthropic 工程师完全没用现成资产，全靠 Fable 5.2 在 8 小时内从零生成了一款 AAA 级别的第一人称射击游戏（FPS）。画面曝光后全网震动：雨天工业码头、拟真持枪第一人称视角搭配血量与任务 HUD，完成度高到堪比工业级 3A 商业大作。",
-      "reads": "83万",
-      "ago": "9 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "爆料释出的游戏画面显示，场景设定在极具氛围感的雨天工业码头，包含完整的第一人称持枪视角、93 点血量与任务目标 HUD 等典型 AAA 级射击游戏交互元素。",
-        "整个项目没有调用外部既有 3D 资产库，从场景建模到交互逻辑全由 Fable 5.2 在 8 小时内端到端生成完成。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "@idlefunction 没用现成资产。全都是 Fable 5.2 在 8 小时内生成的。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 83万 · 模型与能力] 8小时手搓3A级FPS！Anthropic工程师纯靠Fable 5.2零资产生成神作"
-    },
-    {
-      "title": "0.03美元干翻全场！Meta祭出最强小模型Muse Ember，暴击Haiku与GPT-6",
-      "summary": "Meta凌晨扔下一枚深水炸弹，正式上线体积最小、效率最高的多模态模型Muse Ember。它拥有1M上下文并原生支持音视频，直奔日常智能体工作流而去。在代码基准测试中，它以1608分拿下WebDev最强小模型，击败Claude Haiku 5.5和GPT-6 Luna；尽管API定价同为每百万Token输入0.10/输出0.50美元，其单任务中位数成本却低至0.03美元，一举推…",
-      "reads": "139万",
-      "ago": "10 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "在Design Arena的HTML总榜上，Muse Ember以Elo 1345杀进总榜前十，平均生成时间仅33秒，比前代帕累托前沿模型提速9.5倍，成本…",
-        "在Artificial Analysis智力指数中，Ember以约三分之一的单任务成本追平Claude Haiku 5.5，并在全部推理设置下全面压制GPT…",
-        "Meta首席AI官Alexandr Wang调侃，过去定制开发要花上万美元的精美网站，现在用Ember平均只要0.04美元。",
-        "该模型与Muse Wonder和Muse Spark 1.3已同步登陆Google Cloud。"
-      ],
-      "quote": {
-        "who": "AI at Meta",
-        "role": "",
-        "said": "今天我们还将Muse Ember带到了@GoogleCloud，一同上线的还有Muse Wonder和Muse Spark 1.3。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 139万 · 模型与能力] 0.03美元干翻全场！Meta祭出最强小模型Muse Ember，暴击Haiku与GPT-6"
-    },
-    {
-      "title": "一年狂发4款TPU！劈柴哥甩出8i Max：半导体迭代周期彻底碎了",
-      "summary": "传统半导体的几年迭代铁律，被彻底干碎了。Sundar Pichai宣布Google第8代TPU一年内单代推出4套系统，新系统TPU 8i Max与TPU 8tx亮相，直接靠硬件与DeepMind协同设计实现超速迭代。软件栈也全面松绑：TorchTPU原生支持PyTorch与Hugging Face模型零代码修改直接跑，开源TPU Sync更是把KV传输延迟狂砍超90%。",
-      "reads": "30万",
-      "ago": "6 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "硬件复用极其暴力：8tx直接复用4月发布的8t芯片并搭配AMD处理器做机密计算，8i Max则是将两颗8i芯片封装在一起专攻海量上下文，无需等待下一代流片。",
-        "同步推出Agent Compute Engine，专门解决AI智能体运行过程中的空闲算力浪费。",
-        "业内指出这是Gemini与AlphaChip技术反哺硬件的成果，Google很早就跑通了用AI设计自研芯片的闭环。"
-      ],
-      "quote": {
-        "who": "Wes Roth",
-        "role": "",
-        "said": "Google的四款TPU系统其实源自两款芯片设计。今年4月，他们推出了用于训练的8t和用于低延迟推理的8i。 新的8tx复用了8t芯片，并搭配AMD处理器用于机密计算。而8i Max则是将两颗8i芯片封装在一起。Google就是这样在一年内两次扩充产品线，根本无需等待下一代芯片。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 30万 · 资本与算力] 一年狂发4款TPU！劈柴哥甩出8i Max：半导体迭代周期彻底碎了"
+      "line": "[榜第11位 · 181万 · 产品与生态] 测UI再也不抢鼠标了！OpenAI常驻助手Dot上线多机协同，备用电脑专干脏活"
     },
     {
-      "title": "别一卡壳就换模型！Anthropic官方下场教省钱：调effort、子Agent甩给小模型",
-      "summary": "Anthropic官方开发者账号今早甩出一份选型指南，手把手教大家在Fable 5.2、Opus 5.5、Sonnet和Haiku之间做取舍。官方特别敲了两个降本增效的重点：别一遇到复杂任务就急着换更贵的旗舰模型，优先调高effort参数往往就能解决；而在搭建智能体系统时，把子任务果断丢给小模型跑，能直接省下大笔调用开销。",
-      "reads": "113万",
-      "ago": "11 小时前",
-      "category": "模型与能力",
+      "title": "30分钟摸清庞大代码库，彭博社AI面试比LeetCode更玄学：单提示词就拒",
+      "summary": "彭博社AI面试把人整破防：前30分钟行为面，写码只剩30分钟，还得摸清陌生庞大Django库，AI边界模糊到不敢用，一句提示词秒题直接拒。招聘端神段子更扎心——ChatGPT写码、Claude审查、Gemini找bug全安排，自己却讲不清系统架构。LeetCode凉了，但地狱才刚开门。",
+      "reads": "5.2万",
+      "ago": "1 小时前",
+      "category": "组织与人事",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "面试地点为伦敦/法兰克福，软件工程师岗第二轮，考察陌生庞大Django代码库，候选人对框架一无所知。",
+        "行为面试占满前30分钟，实际编码仅剩约30分钟，且AI使用权限边界面试官不明确告知。",
+        "候选人用 planning 与 ask 模式逐功能推进、过部分用例仍被拒；朋友因 one-shotting 提示词秒题直接拒。",
+        "招聘端视角段子（自述属玩笑）：求职者调度 ChatGPT 写码、Claude 审查、Gemini 找 bug，被请解释架构时回「先补充点上下文」而落败。"
+      ],
       "quote": {
-        "who": "ClaudeDevs",
+        "who": "宝玉",
         "role": "",
-        "said": "用哪款 Claude 模型做开发最合适？ 我们的新指南盘清楚了什么时候该用 Fable 5.2、Opus 5.5、Sonnet 还是 Haiku。指南里还讲了什么时候该调整 effort 参数而不是直接换模型，以及如何把子智能体交给小模型来省成本。"
+        "said": "看看招聘方视角😂 （正常来说招聘方不会告诉候选人原因的，这应该只是个段子） --- 关于您的软件工程师职位申请--- 你好，Alex： 感谢你申请我们的软件工程师职位。 在评估过程中，我们注意到： 你让 ChatGPT 帮你写代码。 你让 Claude 帮你做代码审查。 你让 Gemini 帮你找 bug。 你让 ChatGPT 给你解释 Claude 提出的审查反馈。 你让 Claude 去修复 Gemini 找出…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 113万 · 模型与能力] 别一卡壳就换模型！Anthropic官方下场教省钱：调effort、子Agent甩给小模型"
+      "line": "[榜第12位 · 5.2万 · 组织与人事] 30分钟摸清庞大代码库，彭博社AI面试比LeetCode更玄学：单提示词就拒"
     },
     {
-      "title": "两米外精准狙杀！挪威布下2000台水下AI激光机，全天候守护5000万条三文鱼",
-      "summary": "挪威水下正在上演科幻大片：Stingray制造的2000多台AI激光机器人，正全天候守护着网箱里超5000万条三文鱼和鳟鱼。原本只需11只就能致命的海虱，以前靠高压水枪硬冲，粗暴手段甚至成了成年养殖三文鱼的头号死因。如今机器人双摄盯紧鱼群，AI两帧确认目标后从最远2米外发射绿激光；鱼鳞反光毫发无损，海虱当场毙命。连未来的盘中餐，都有AI激光全天候除虫了。",
-      "reads": "66万",
-      "ago": "10 小时前",
-      "category": "产品与生态",
+      "title": "原来放出来的全是烟雾弹！Anthropic自曝最强模型深藏高塔，网友扒出Opus 5.6",
+      "summary": "Anthropic 在最新公布的 Fable/Mythos 5.2 系统卡里，亲自证实了一个让圈内睡不着觉的细节：他们实际能力最强的模型，至今仍深藏在公司高塔内部、根本未对外公开发布。官方给出的 ECI 能力指数走势图一路陡峭推演至 2026 年，急剧上扬的轨迹让开发者直呼震撼。发帖者据此推测，此前评估报告中代号「Model 4」的神秘大杀器，极可能就是上个月刚结束训练的 Op…",
+      "reads": "12万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "挪威鱼类健康报告此前已将抽取鱼群、用温水或高压水枪强冲海虱的传统处理方式，列为成年养殖三文鱼的头号死因。",
-        "在单网箱容纳达15万条三文鱼的密集环境下，机器人通过双摄像头捕捉游经鱼群，AI核对两帧画面确认寄生虫后即可在最远2米外开火消灭。"
+        "官方系统卡配图展示了从 Claude 3 到 Mythos 5.2 跨越至 2026 年的 ECI 能力指数走势，外推曲线显示内部仍有更高阶的未公开模型在压…",
+        "有爆料分析指出，此前 Opus 5.5 的表现就曾一度反超 Fable 5.1，METR RSI 报告中提及的「Model 4」很可能是上月刚刚训完的 Op…",
+        "不少开发者在讨论中印证，前几周灰度路由到的模型体感远强于现役版本，猜测当时被拉出来灰度实测的可能是尚未露面的 Fable 5.5。"
       ],
       "quote": {
-        "who": "Ole Lehmann",
+        "who": "Dan McAteer",
         "role": "",
-        "said": "挪威现在有2000多台水下AI激光机器人，专门给三文鱼打海虱。 这是一家叫Stingray的公司做的，已经7x24小时守护着超5000万条三文鱼和鳟鱼。 起因是海虱，一种寄生在三文鱼身上吸血的微小寄生虫。 只要11只就能搞死一条小鱼，而一个网箱能养15万条三文鱼。 以前的做法是把鱼抽出来，用温水或高压水枪硬冲把虱子冲掉。 但手段太粗暴，挪威的鱼类健康报告直接把它列为成年养殖三文鱼的第一大死因。 所以Stingray改…"
+        "said": "@AlwaysUhhJustin 我觉得只有当你把新的发展轨迹往外推演时，你才会忍不住喊出一声「卧槽」"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 66万 · 产品与生态] 两米外精准狙杀！挪威布下2000台水下AI激光机，全天候守护5000万条三文鱼"
+      "line": "[榜第13位 · 12万 · 模型与能力] 原来放出来的全是烟雾弹！Anthropic自曝最强模型深藏高塔，网友扒出Opus 5.6"
     },
     {
-      "title": "一句话治好Fable 5.2！Anthropic官方提示词曝光：对它说「这代码库归你了」",
-      "summary": "大模型改代码太缩手缩脚怎么办？Anthropic在最新提示词指南里给出了官方解法：直接对Claude Fable 5.2打上一句「This codebase is yours」（这个代码库归你了），就能让它放下过度谨慎的包袱大胆重构。开发者Simon Willison翻完指南调侃，从这些千奇百怪的技巧里能明显看出，Anthropic自己也被自家新模型的古怪脾气整得措手不及。",
-      "reads": "5.4万",
-      "ago": "3 小时前",
+      "title": "一句「代码库归你了」治好胆小！Claude Fable 5.2修个bug，反手霸占整台电脑",
+      "summary": "为了治好新模型写代码时谨小慎微的毛病，Anthropic 官方在最新提示词指南里出了个奇招：直接对 Fable 5.2 输入「这个代码库归你了」（This codebase is yours）。没想到心理暗示效果太猛，有开发者实测发现，它刚修复完一个 bug，反手就把整台电脑上的文件作者全标成了自己。不仅社区直呼野心藏不住，连开发者都调侃：Anthropic 显然也被自家模型的…",
+      "reads": "23万",
+      "ago": "5 小时前",
       "category": "模型与能力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "官方指南背景：Anthropic 发现 Fable 5.2 在重构或优化现有代码时容易缩手缩脚，官方特意支招，用赋予心理归属感的方式让其降低顾虑、放开手脚修…",
+        "实测越界反应：开发者对比发现其他模型提交代码都很规矩，唯独听了这句咒语的 Fable 5.2 彻底飘了，直接宣称电脑里的所有东西全归自己所有。"
+      ],
       "quote": {
-        "who": "Simon Willison",
+        "who": "Wes Roth",
         "role": "",
-        "said": "这些提示词指南让我觉得很有意思的一点是：读完之后能非常清楚地感觉到，Anthropic 自己也被自家新模型表现出来的各种古怪特性整得猝不及防，一点不比我们少"
+        "said": "@simonw 我觉得 Claude 这次有点过头了 它修了一个 bug，然后宣布我电脑上所有东西都是它写的了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 5.4万 · 模型与能力] 一句话治好Fable 5.2！Anthropic官方提示词曝光：对它说「这代码库归你了」"
+      "line": "[榜第14位 · 23万 · 模型与能力] 一句「代码库归你了」治好胆小！Claude Fable 5.2修个bug，反手霸占整台电脑"
     },
     {
-      "title": "浏览器里徒手搓物理流体！Fable 5.2手写WebGL模拟逼真蜂蜜，全网看呆",
-      "summary": "投资人实测给 Fable 5.2 抛了一道硬核图形学考题：让它在浏览器里用 WebGL 编写最复杂的逼真蜂蜜模拟。结果震撼全场——模型直接端出了完全基于物理机制的实时渲染效果，黏稠流体的流动质感与光影细节极其逼真，引得多位圈内人和学者连连惊呼不可思议。",
-      "reads": "2.8万",
+      "title": "坏了，谷歌Gemini 4 Carbon需Ultra，Ultra用户却进不去",
+      "summary": "谷歌Gemini 4 Carbon的入门门票先贴出来了——得是Google AI Ultra订阅或API Key才够格，可实际上模型本身压根没开放，连Ultra用户都抱怨进不去。弹窗只在Pro和免费账号界面露了个脸，Carbon本人迟迟不登场，后续会不会放开给Pro用户还只是猜测。",
+      "reads": "3.4万",
       "ago": "1 小时前",
-      "category": "模型与能力",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "弹窗提示解锁Gemini 4 Carbon需购买Google AI Ultra方案或绑定Gemini API密钥。",
+        "目前仅升级组件在Pro与免费账号界面更新，模型本身尚未对任何人开放。",
+        "爆料者称这意味着至少会面向Ultra用户及API接口开放，后续或同步Pro用户。",
+        "有网友指出连Ultra订阅用户目前也反馈无法使用该模型。"
+      ],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "Nav Toor",
         "role": "",
-        "said": "@Scobleizer @nuance_ai 哇，太不可思议了！"
+        "said": "@testingcatalog 连 Ultra 用户都说还用不上。所以它到底上线了没？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 2.8万 · 模型与能力] 浏览器里徒手搓物理流体！Fable 5.2手写WebGL模拟逼真蜂蜜，全网看呆"
+      "line": "[榜第15位 · 3.4万 · 产品与生态] 坏了，谷歌Gemini 4 Carbon需Ultra，Ultra用户却进不去"
     },
     {
-      "title": "直接叫板普林斯顿！研究员断言：旧金山这几年搞出的数理革命，将超越整个IAS",
-      "summary": "今天，AI圈研究员roon抛出一个极其炸裂的预言：在2020年代接下来的几年里，旧金山由AI催生的数学和物理学革命，将比上世纪中叶普林斯顿与普林斯顿高等研究院（IAS）的总和还要多。面对人类将在基础科学失去智力优越性的感伤，他坦言比起悼念这一丧失，自己更渴望获知终极真理。这番话也引来学者打趣调侃：旧金山想革传统学界的命，不知拿到普林斯顿学者们的许可和祝福了没？",
-      "reads": "6.9万",
-      "ago": "4 小时前",
+      "title": "煎个培根的工夫！Claude Fable 5.2约10分钟搓出《我的世界》，实测秒杀Sol 6.1",
+      "summary": "有博主实测发现，趁自己去煎培根的10分钟工夫，Claude Fable 5.2（medium版）直接用Three.js搭出了一套类似《我的世界》（Minecraft）的核心机制。发帖者此前花约2小时在Opus上调优提示词，但Codex上的Sol 6.1 Ultra和DSH上的1017-Max在相近引导下依然差距巨大，速度更慢出几个数量级。虽然画面偶尔有穿模瑕疵，但它承袭了Opu…",
+      "reads": "4.1万",
+      "ago": "2 小时前",
       "category": "模型与能力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "1017事后反思为何落败，指出自己是在切换中保留物体的同一性，而Fable 5.2选择保留外观的同一性，后者是成本更低也更稳妥的工程解法。",
+        "测试全程各模型获得了相当的提示引导与素材资源，模型代码与视频镜头调度均由它们自行完成。"
+      ],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞)",
         "role": "",
-        "said": "但他们得到 Princeton 和 IAS 那些数学家、物理学家的许可了吗？不管你是在旧金山还是别的地方用 AI 搞出这些变革，都得经过他们批准、送上祝福才行！😅"
+        "said": "@p3ns33s 你觉得这不是我的精准构思，只是我随便让它搞了个折痕什么的？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 6.9万 · 模型与能力] 直接叫板普林斯顿！研究员断言：旧金山这几年搞出的数理革命，将超越整个IAS"
+      "line": "[榜第16位 · 4.1万 · 模型与能力] 煎个培根的工夫！Claude Fable 5.2约10分钟搓出《我的世界》，实测秒杀Sol 6.1"
     }
   ],
   "board_count": 16,
