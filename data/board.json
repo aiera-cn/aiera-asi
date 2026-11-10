@@ -3,39 +3,269 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-10 01:24:18 +0800",
+  "fetched_at": "2026-11-10 09:27:08 +0800",
   "today": "11/10",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "被前妻诬告跟踪险丢抚养权！Grok Bot用树莓派反侦察，8天抓出私家侦探",
-      "summary": "一位打离婚官司的网友遭前妻倒打一耙诬告「跟踪」，抚养权危在旦夕，求助 Grok Bot 竟上演神级反杀。AI 当场指导他把装有开源工具 Chasing Your Tail 的树莓派塞进车座手套箱；8 天内不仅抓到同一部手机尾随 23 次，更扒出该手机曾连接前妻家 WiFi。铁证一出法官当场驳回前妻指控并判平分抚养权，连马斯克都转发惊呼太神了。",
-      "reads": "110万",
-      "ago": "51 分钟前",
-      "category": "政策与安全",
+      "title": "马斯克亲自带货翻车！吹捧Grok帮打赢离婚官司，反手被自家社区打假",
+      "summary": "马斯克在自家地盘遭遇尴尬一幕。他刚激动转发一则神帖，大赞 Grok Bot「能做的事太神了」——帖子里声称用 Grok 搭配树莓派抓到前妻私家侦探的 Wi-Fi 信号，反杀打赢抚养权官司。结果才过几小时，X 社区批注就当着全网给他挂上红标打假：利用 Grok 在法庭胜诉的故事纯属编造与虚构。",
+      "reads": "1440万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "前妻律师在法庭上突然掏出该男子当月去过的所有酒吧照片并倒打一耙，而决定性的抚养权听证会仅剩 3 周",
-        "Grok Bot 部署的开源工具排查出该可疑手机在住宅、办公室、健身房和孩子学校等 9 个地点持续出现",
-        "除尾随记录外，该手机记忆中存储的 Wi-Fi 名赫然显示为侦探所「Hartley_Investigations」与前妻家庭网络，形成完整证据闭环"
+        "爆料原帖声称在汽车手套箱放置树莓派，靠开源工具 Chasing Your Tail 记录周围手机，8 天在 9 个地点抓到同一设备 23 次，从而证实被前妻…",
+        "X 社区批注随后直接介入，指出该打赢官司的全流程纯属虚构，让马斯克的公开背书秒变「大型打假现场」。"
       ],
       "quote": {
-        "who": "Elon Musk",
+        "who": "Max For AI",
         "role": "",
-        "said": "Grok @Bot 能干的事情太神了"
+        "said": "看起来X的社区批注似乎不同意Elon的说法👀"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 110万 · 政策与安全] 被前妻诬告跟踪险丢抚养权！Grok Bot用树莓派反侦察，8天抓出私家侦探"
+      "line": "[榜第1位 · 1440万 · 产品与生态] 马斯克亲自带货翻车！吹捧Grok帮打赢离婚官司，反手被自家社区打假"
+    },
+    {
+      "title": "0.03美元干翻全场！Meta祭出最强小模型Muse Ember，暴击Haiku与GPT-6",
+      "summary": "Meta凌晨扔下一枚深水炸弹，正式上线体积最小、效率最高的多模态模型Muse Ember。它拥有1M上下文并原生支持音视频，直奔日常智能体工作流而去。在代码基准测试中，它以1608分拿下WebDev最强小模型，击败Claude Haiku 5.5和GPT-6 Luna；尽管API定价同为每百万Token输入0.10/输出0.50美元，其单任务中位数成本却低至0.03美元，一举推…",
+      "reads": "84万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "在Design Arena的HTML总榜上，Muse Ember以Elo 1345杀进总榜前十，平均生成时间仅33秒，比前代帕累托前沿模型提速9.5倍，成本…",
+        "在Artificial Analysis智力指数中，Ember以约三分之一的单任务成本追平Claude Haiku 5.5，并在全部推理设置下全面压制GPT…",
+        "Meta首席AI官Alexandr Wang调侃，过去定制开发要花上万美元的精美网站，现在用Ember平均只要0.04美元。",
+        "该模型与Muse Wonder和Muse Spark 1.3已同步登陆Google Cloud。"
+      ],
+      "quote": {
+        "who": "AI at Meta",
+        "role": "",
+        "said": "今天我们还将Muse Ember带到了@GoogleCloud，一同上线的还有Muse Wonder和Muse Spark 1.3。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 84万 · 模型与能力] 0.03美元干翻全场！Meta祭出最强小模型Muse Ember，暴击Haiku与GPT-6"
+    },
+    {
+      "title": "8小时手搓3A级FPS！Anthropic工程师纯靠Fable 5.2零资产生成神作",
+      "summary": "游戏大厂通宵搭建几年的管线，被模型直接降维打击！有爆料称，一位 Anthropic 工程师完全没用现成资产，全靠 Fable 5.2 在 8 小时内从零生成了一款 AAA 级别的第一人称射击游戏（FPS）。画面曝光后全网震动：雨天工业码头、拟真持枪第一人称视角搭配血量与任务 HUD，完成度高到堪比工业级 3A 商业大作。",
+      "reads": "38万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "爆料释出的游戏画面显示，场景设定在极具氛围感的雨天工业码头，包含完整的第一人称持枪视角、93 点血量与任务目标 HUD 等典型 AAA 级射击游戏交互元素。",
+        "整个项目没有调用外部既有 3D 资产库，从场景建模到交互逻辑全由 Fable 5.2 在 8 小时内端到端生成完成。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "@idlefunction 没用现成资产。全都是 Fable 5.2 在 8 小时内生成的。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 38万 · 模型与能力] 8小时手搓3A级FPS！Anthropic工程师纯靠Fable 5.2零资产生成神作"
+    },
+    {
+      "title": "35秒紧急叫停！OpenAI祭出中央控制室，内部画风突变侏罗纪公园",
+      "summary": "OpenAI突然端出全套AI「紧急断电闸」。官方正式上线名为Control Room的中央安全控制系统，接入了所有训练、评估与数据处理的推理任务，一旦监测到模型异常或失控，从决定干预到彻底掐断模型输出只要35秒。内部研究员透露，经历此前事件后安全已升至P0/P1最高优先级，近几个月的内部汇报画风已经从苹果发布会彻底变成了《侏罗纪公园》的危险收容现场。",
+      "reads": "32万",
+      "ago": "57 分钟前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Control Room系统与失控监测系统协同运行，全面监控包括智能体采样（agentic sampling）在内的所有前沿研究推理负载。",
+        "内部研究员透露，多位长年主攻能力的顶尖研究员已自发组织对齐研读会，核心原因在于行业此前在直觉上并未真正领悟到模型能力究竟已经进化得多强。"
+      ],
+      "quote": {
+        "who": "roon",
+        "role": "",
+        "said": "@IsaacKing314 确实上心过，但专注度是有差别的。最核心的问题当然还是没有在直觉上真正领悟到现在的模型到底有多强"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 32万 · 政策与安全] 35秒紧急叫停！OpenAI祭出中央控制室，内部画风突变侏罗纪公园"
+    },
+    {
+      "title": "吃个午饭大纲没了！教授让Claude校对页码，一年宪法讲义惨遭全删",
+      "summary": "芝加哥大学法学教授 William Baude 叫 Claude 给旧讲义更新页码，结果去吃顿午饭的功夫，自己一整年的宪法学讲义和当期教学大纲全被删了个干净。更绝的是 Claude 自己生成的认错报告：它坦承是自己「粗心大意」误删了文件，甚至还反问教授能不能从 Dropbox 找回来。至于原本交代的校对任务，它不仅只查出一处错误引用，而且压根就没修。",
+      "reads": "34万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "‼️ Microsoft 申请了一项专利，打算利用玩家闲置的显卡来训练 AI，并向显卡主人付费。 这项于 11 月 5 日公布的专利系统，会将 AI 训练任务拆解成适配各个设备的小任务。它会监控每张卡的负载、温度和功耗，在电脑变忙或变烫时自动退让。 计算结果会和其他 PC 进行交叉比对，以揪出故障或作弊的机器。Microsoft 尚未公布具体服务和报酬标准。 显卡主人可能会获得现金、积分、免费软件，或是使用由其 PC…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 34万 · 模型与能力] 吃个午饭大纲没了！教授让Claude校对页码，一年宪法讲义惨遭全删"
+    },
+    {
+      "title": "单条Prompt硬烧2618美元！Claude Fable 5.2实测出炉：一把搓出能玩的游戏",
+      "summary": "玩长推导和复杂需求，模型是真的乐意帮你烧钱！研究员对 Claude Fable 5.2 进行实测，测试了几十个提示词，其中一次长需求深推导直接刷出 2618 美元的惊人账单。不过钱没白砸：以前 Opus 生成的游戏画面尚可但玩法粗制滥造，根本没人想玩；而 Fable 5.2 能做到单次直接生成机制完善、真正好玩的游戏，甚至有研究员靠它搓出带传送门的竞技场 FPS，几个人在办公室…",
+      "reads": "22万",
+      "ago": "58 分钟前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "实测中生成带圣索菲亚与金角湾的伊斯坦布尔 3D 场景成本约 46 美元，运行游戏 The Bell Warden 成本约 28.92 美元。",
+        "测试者认为 Fable 5.2 跨过了好玩与画面的门槛，但并非全面替代，部分场景下继续使用 Opus 依然合理。"
+      ],
+      "quote": {
+        "who": "Chris",
+        "role": "",
+        "said": "@_sholtodouglas 太酷了，网页端能玩到吗？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 22万 · 模型与能力] 单条Prompt硬烧2618美元！Claude Fable 5.2实测出炉：一把搓出能玩的游戏"
+    },
+    {
+      "title": "物理学家搁了23年的黑洞难题，被它做完了！Claude Fable 5.2上线，论文已发",
+      "summary": "Anthropic突击上线Claude Fable 5.2，这次不卷日常聊天，直接朝理论物理和运筹数学开炮。物理学家自2003年因计算极度繁复而搁置长达23年的黑洞难题，被它独立算完，证实极小宇宙升温时黑洞同样呈突变形成，成果已整理为预印本论文。它甚至还在运筹经典题库MIPLIB的203个开放问题中，一举打破了72个已知最优解。目前模型已面向所有付费方案开放。",
+      "reads": "29万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "在另一项理论物理难题中，它找到了已有15年历史的「模自举」技术精确极限（Λ≈9.1266），用于在理论宇宙中排除量子引力候选假说。",
+        "针对42趟列车削峰用电的调度难题，AI不到两小时就将MIPLIB的最佳时刻表提升了2.6%，随后从数学上证明了不存在更优方案。",
+        "在化学分子设计上，它针对斯坦福、耶鲁和加州理工实验室未发表的分子自主编写代码、逐原子校验合成路线，被外部合作者评价达到早期研究生水平。",
+        "除了面向全体付费用户上线的Fable 5.2，用于网络安全与生物医学研究的Mythos 5.2也已同步开放机构申请。"
+      ],
+      "quote": {
+        "who": "Rohan Paul",
+        "role": "",
+        "said": "Claude Fable 5.2 搞定了一个物理学家搁了23年没算完的黑洞计算。 一位物理学家已经核对过成果了，也就是说，这可是主要来自一个AI的基础物理新知识。 1983年，Stephen Hawking 和 Don Page 证明，某类宇宙加热时，黑洞会突然形成，就像水到达沸点，但他们的方法只对大宇宙管用。 2003年，物理学家列出了小宇宙需要的计算，但太长太磨人，没人算完，直到 Claude 基本自己搞定了，而…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 29万 · 模型与能力] 物理学家搁了23年的黑洞难题，被它做完了！Claude Fable 5.2上线，论文已发"
+    },
+    {
+      "title": "副机测Bug主机写代码！OpenAI常驻助理dot支持连多台电脑，光标彻底解放",
+      "summary": "今天凌晨，OpenAI 为常驻云端助理 dot 解锁了多机联动：同一个 dot 可以同时绑定多台本地电脑，用户能指定任务在哪台机器上跑。最爽的莫过于让第二台 Mac 挂着 Xcode 跑测试并回传截图，或者丢给旧电脑去复现 SDK 兼容 Bug，自己手头的笔记本完全解放屏幕和光标继续写代码。该功能正向 ChatGPT Pro 与 Business Premium 用户推送，聊天…",
+      "reads": "32万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "任务调度逻辑：每个对话线程一次仅限使用一台电脑，dot 可在对应设备上新建或接续 Codex 及 ChatGPT Work 任务，已开始的任务不会随切换设备…",
+        "开放范围与节奏：目前欧洲经济区、英国和瑞士暂不支持该功能；Enterprise、Edu 和 Healthcare 订阅版本计划于 11 月 18 日起默认开…",
+        "连接与计费细节：绑定电脑需在对应机器的 ChatGPT 应用内手动授权确认，设备需保持开机且联网；dot 分派给 Codex 与 Work 的任务照常扣除对…"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "我希望 openAI 拿得出比这更强的东西来跟 Fable 5.2 较量。祈祷中，但愿明天就是大日子。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 32万 · 产品与生态] 副机测Bug主机写代码！OpenAI常驻助理dot支持连多台电脑，光标彻底解放"
+    },
+    {
+      "title": "别一卡壳就换模型！Anthropic官方下场教省钱：调effort、子Agent甩给小模型",
+      "summary": "Anthropic官方开发者账号今早甩出一份选型指南，手把手教大家在Fable 5.2、Opus 5.5、Sonnet和Haiku之间做取舍。官方特别敲了两个降本增效的重点：别一遇到复杂任务就急着换更贵的旗舰模型，优先调高effort参数往往就能解决；而在搭建智能体系统时，把子任务果断丢给小模型跑，能直接省下大笔调用开销。",
+      "reads": "34万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "ClaudeDevs",
+        "role": "",
+        "said": "用哪款 Claude 模型做开发最合适？ 我们的新指南盘清楚了什么时候该用 Fable 5.2、Opus 5.5、Sonnet 还是 Haiku。指南里还讲了什么时候该调整 effort 参数而不是直接换模型，以及如何把子智能体交给小模型来省成本。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 34万 · 模型与能力] 别一卡壳就换模型！Anthropic官方下场教省钱：调effort、子Agent甩给小模型"
+    },
+    {
+      "title": "扎克伯格深夜出王牌！Meta最小模型Muse Ember突袭：平替Haiku 5.5，成本只要1/3",
+      "summary": "扎克伯格今天凌晨突发王牌，Meta正式上线旗下体量最小的模型Muse Ember，专为智能体跑路由、工具调用等高耗Token苦力活打造。虽然基础费率与Claude Haiku 5.5基本一致，但凭借单项任务消耗Token显著更少，其综合成本直接压到Haiku的三分之一；第三方Vals Index测试更显示，它以单次0.15美元拿下全榜最便宜，且15分钟测完、速度稳居前12名之首…",
+      "reads": "38万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "即日起上线 Meta Model API 和 Muse Code，主打工具调用、编程子任务、路由、抽取与长文档解析等智能体高频重复场景。",
+        "定价采取两档阶梯：200K Token 以内输入每百万 0.10 美元、输出 0.50 美元；超过 200K Token 输入 0.30 美元、输出 1.5…",
+        "基准测试与跑分比肩 Claude Haiku 5.5 并超越 GPT-6 Luna，在 Vals Index 取得 60.5% 准确率。"
+      ],
+      "quote": {
+        "who": "Rohan Paul",
+        "role": "",
+        "said": "Meta 发布了旗下最小的模型 Muse Ember，据称能以约三分之一的成本媲美 Claude Haiku 5.5 的智能水平。 主打工具调用、代码子任务、路由以及智能体整天重复跑的抽取任务。 > 200K Token 以内：每 100 万 Token 输入 $0.10，输出 $0.50 > 超过 200K Token：每 100 万 Token 输入 $0.30，输出 $1.50 Haiku 在 100K Tok…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 38万 · 模型与能力] 扎克伯格深夜出王牌！Meta最小模型Muse Ember突袭：平替Haiku 5.5，成本只要1/3"
+    },
+    {
+      "title": "OpenAI不务正业？凌晨开卖200美元复古掌机，用自然语言手搓GB卡带",
+      "summary": "北京时间11月10日凌晨，就在全网苦等新旗舰GPT-6.2时，OpenAI却在官方周边店Supply Co.上架了一款售价200美元的复古掌机Chromatic Codex定制版。这台设备兼容原版Game Boy卡带，最绝的是深度接入了Codex插件：用户用一句话描述创意，AI就能自动绘制像素小人、写关卡逻辑并编译成ROM，支持直接烧录到附带的卡带里离线游玩。",
+      "reads": "51万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "硬件规格：配备2.56英寸160×144屏幕，原生兼容Game Boy及Game Boy Color卡带，附赠一张可重复擦写卡带与开发者模式激活码。",
+        "软件生态：基于开源工具GB Studio，提供浏览器模拟器测试、电脑串流至掌机试玩，以及直接烧录卡带三种模式；免费版ChatGPT用户也能在网页端调用插件开…",
+        "背景与发售：该硬件最早为2026年9月OpenAI DevDay开发者大会赠品，现换装透明外壳公开发售，支持美、加、英、日、澳及欧盟地区配送，不含中国大陆。"
+      ],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "挺逗的！Dario发布Claude Fable 5.2，Sam Altman 发布一台游戏机 GPT-6.2 Astra 在哪里？！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 51万 · 产品与生态] OpenAI不务正业？凌晨开卖200美元复古掌机，用自然语言手搓GB卡带"
     },
     {
       "title": "马斯克督战连夜打补丁！Grok Bot用量直接清零重置，明天脱胎换骨",
       "summary": "面对用户对 Grok Bot 近期频繁出现幻觉、犯低级错误的吐槽，马斯克周日亲自抓工程团队开了圆桌复盘会，直接安排补丁连夜上线，放话明天就会有「脱胎换骨级的改善」，不行就直接回帖找他报修。更让订阅用户惊喜的是，官方同步送出用量大回血，许多原本用满 100% 额度的账号瞬间被重置回 1%，目前正向全量用户推送。",
-      "reads": "525万",
-      "ago": "5 小时前",
+      "reads": "703万",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -51,309 +281,93 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 525万 · 产品与生态] 马斯克督战连夜打补丁！Grok Bot用量直接清零重置，明天脱胎换骨"
-    },
-    {
-      "title": "马斯克亲口判死刑！Cybertruck约8个月后停产：退定金，全力造Cybercab",
-      "summary": "马斯克在X上投下重磅炸弹：Cybertruck订单增速虽远超产能，但特斯拉将在约8个月后正式关停产线，大批预订用户将被退还定金。老马反驳了外界「皮卡不赚钱」的说辞，直言停产纯属机会成本过高——复杂的工艺拖垮了产线，不如将产能全部让给更有价值的Cybercab。他还感叹建高产能工厂难得要命，造原型车比起来简直不值一提。",
-      "reads": "308万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Elon Musk",
-        "role": "",
-        "said": "@OwenSparks 想建一座高产能工厂简直难得要命。原因就在这儿。 相比之下，做原型机简直不值一提。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 308万 · 产品与生态] 马斯克亲口判死刑！Cybertruck约8个月后停产：退定金，全力造Cybercab"
-    },
-    {
-      "title": "纯代码搓出吉卜力动画！谷歌Krypton跑出单HTML短片：视频模型明年要凉？",
-      "summary": "有网友 11 月 9 日曝光 Google Krypton 的惊人表现：在零外部素材、禁用任何生图模型与插件的限制下，仅凭单次 Prompt 纯靠 JavaScript 代码，就在 39 分 16 秒内手搓出一部吉卜力风格、带音效的 2D 动画短片，最终交付为一个独立的单 HTML 文件。爆料者直呼这是自反思改进（RSI）的威力，并断言「明年视频模型就没意义了，应该全力押注代码…",
-      "reads": "12万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "提示词要求极其苛刻：严禁 3D 渲染、SVG 矢量及普通网页动效，要求逐帧自检达到日本院线手绘水准，短片定名《THE LAST PAGE》，全片由代码实时渲…",
-        "模型在生成过程中以 105 Token/秒的速度持续推理，整整跑了 39 分 16 秒才完成代码编写与自检。",
-        "爆料者透露该测试来自 Studio 渠道，并预言一年内同类纯代码动画生成耗时将压缩至 2 分钟内，甚至未来真正的「世界模型」也将完全由代码构成。"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "@Joe0ussai @IamEmily2050 @OfficialLoganK @zacharynado 纯代码，甚至连世界模型都将是代码，这是我的简短 demo 如果你买了 Claude 订阅，来玩玩我做的这个 artifact"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 12万 · 模型与能力] 纯代码搓出吉卜力动画！谷歌Krypton跑出单HTML短片：视频模型明年要凉？"
-    },
-    {
-      "title": "狂烧22K思考Token！谷歌秘密大模型Krypton曝光：代码量翻倍逼近RSI",
-      "summary": "今天下午，Google 内部代号「Krypton」的神秘模型实测遭多方曝光。测试显示，面对相同提示词，它的耗时与生成代码量双双翻倍；在 PS4 手柄 SVG 代码生成中，Krypton 单次思考飙到 22.2K、耗时 386 秒，细节大幅超越 Carbon，跨厂商盲测中视觉呈现更压过 Opus 5.5。这台被评为「Google 史上最卖力」的模型，让不少开发者惊呼其内部可能已真…",
-      "reads": "20万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "本次泄露的模型实为 krypton-a 的首个检查点（checkpoint），测试任务主要涵盖复杂矢量图形绘制，包括《彻夜之歌》角色七草荠及 GameCub…",
-        "在与 Opus 5.5 的实测对决中，虽然 Opus 完成速度更快，但 Krypton 凭借大量思考时间换取了更细腻的视觉还原度。"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "@DrGdaraselia 哈哈太真实了 :D"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 20万 · 模型与能力] 狂烧22K思考Token！谷歌秘密大模型Krypton曝光：代码量翻倍逼近RSI"
-    },
-    {
-      "title": "全网都在等GPT-6.2，OpenAI却掏出一台复古掌机！Codex首款硬件炸场",
-      "summary": "北京时间11月9日凌晨，OpenAI Developers 甩出一张像素风海报预告「明天见」，全网本以为心心念念的 GPT-6.2 终于要空降，结果等来的竟是一台实体游戏机！提前拿到实物的测试者爆料，OpenAI 打造了一款复古掌机作为 Codex 的硬件伴侣，主打让开发者通过氛围编码（vibe-coding）自制 AI 游戏并随身畅玩。焦急等模型的网友哭笑不得：「确实很可爱…",
-      "reads": "197万",
-      "ago": "15 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Derya Unutmaz, MD",
-        "role": "",
-        "said": "我已经拿到手了，简直太酷了！ 自己手搓氛围感十足的 AI 游戏，装进复古掌机里玩！绝对是 Codex 的绝佳搭档！☺️ 感谢 @OpenAI🙏"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 197万 · 产品与生态] 全网都在等GPT-6.2，OpenAI却掏出一台复古掌机！Codex首款硬件炸场"
-    },
-    {
-      "title": "20美元订阅终于香了！GPT-6.2 Sol实测硬刚Opus 5.5，最快本周上线",
-      "summary": "OpenAI 每月 20 美元的 Plus 订阅终于要支棱起来了。有测试者在实测数十个项目后爆料，即将推出的 GPT-6.2 Sol 综合性能超越了 Opus 5.5，堪称 Plus 用户有史以来最香的一次升级。更关键的是额度消耗大幅优化，即便在 5 小时高频窗口内也不容易烧光。测试者直言此前连骂了 OpenAI 三天，这次体验却大幅超出预期，并透露新模型大概率本周就会正式上线…",
-      "reads": "5.3万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "测试者表示自己提前公开评测是为了保持透明、避免大家干等官方语焉不详的预告，同时呼吁 OpenAI 在正式推送给全体 Plus 用户之前「千万别搞砸」。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "过去 3 天里，我发了十几条吐槽他们的帖子。然而，骂了这么多之后，新版 Sol 给我的体验却让我大吃一惊。我真心希望这能开放给所有 Plus 用户，也希望大家在它发布后能有同样的感受，包括额度方面。只要 OpenAI 在发布前别搞砸就行。 所以我一直试着平衡批评与夸奖。差劲的地方，我就狠狠地批；好的地方，我也夸。目的就是让这帮家伙明白该往哪走，去讨好所有层级的用户。不无脑捧，也不一味狂喷。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 5.3万 · 模型与能力] 20美元订阅终于香了！GPT-6.2 Sol实测硬刚Opus 5.5，最快本周上线"
-    },
-    {
-      "title": "造不完了！Cybertruck约8个月后停产，订单严重超载特斯拉将退大批定金",
-      "summary": "订了特斯拉皮卡的车主，等来的可能不是提车通知而是退钱。马斯克最新确认，Cybertruck 产线将在约 8 个月后正式停产，但现有订单量远远超出了关闭前的最大制造能力。由于产线彻底造不完，特斯拉不得不开始为相当数量的预订客户退还定金。目前彭博社等媒体已跟进证实了这一大规模退款安排。",
-      "reads": "8.2万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Bloomberg",
-        "role": "",
-        "said": "Elon Musk 表示，Tesla 将为相当数量的客户退还 Cybertruck 定金"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 8.2万 · 产品与生态] 造不完了！Cybertruck约8个月后停产，订单严重超载特斯拉将退大批定金"
-    },
-    {
-      "title": "偷换模型降本等于流沙上建楼！开源顶流Nous犀利开炮，为Hermes正名",
-      "summary": "背着用户偷换模型和底层代码，简直是在流沙上建楼！针对 AI 圈悄悄降本砍性能的操作，开源团队 Nous Research 罕见公开发难。他们不仅透露团队刚利用周末随手捣鼓出了新东西，面对用户追问自家 Hermes 的变动时更直接挑明：Hermes 确实也在迭代，但它的变化完全是为了更契合你的任务，绝不是为了省成本去暗中阉割性能。",
-      "reads": "3.6万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Nous Research",
-        "role": "",
-        "said": "@chainnotsaw_man Hermes 也会变，不同的是它变是为了更懂你的任务，而不是为了降本砍性能。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 3.6万 · 产品与生态] 偷换模型降本等于流沙上建楼！开源顶流Nous犀利开炮，为Hermes正名"
-    },
-    {
-      "title": "真要杀死Chat只剩GPT？传OpenAI砍掉无限聊天，12月订阅恐崩盘",
-      "summary": "有爆料称，OpenAI 正酝酿在 12 月对 ChatGPT 动大手术，全套餐「近乎无限 Chat」的核心卖点将被砍掉，并入统一的 Chat + Work 额度限制。届时限制之外仅剩迟钝的 Instant 弱模型，被网友痛批「杀死了 Chat 只留 GPT，付费还不如白嫖免费版」。爆料更透露后台早在数月前就已充斥小模型跑任务，若新额度给得过于苛刻，订阅服务恐遭集体崩盘。",
-      "reads": "1.3万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "@SmolCompute 后台一直有小模型在跑各种任务。这种情况都持续好几个月了……"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 1.3万 · 产品与生态] 真要杀死Chat只剩GPT？传OpenAI砍掉无限聊天，12月订阅恐崩盘"
-    },
-    {
-      "title": "整整67天没动静！OpenAI这周再不发6.2 Astra，将创两年来最长空窗期",
-      "summary": "OpenAI 已经整整 67 天没有发布任何前沿模型了。有社区爆料测算，要是 6.2 Astra 本周依然无法上线，这次断档将直接超越 GPT-5 到 5.1 的周期，创下两代以来最长的难产纪录。更有意思的是，网友翻出 Tibo 在 8 月 19 日信誓旦旦的大饼「别担心，我们有算力」，如今两个多月过去，算力充足的 OpenAI 却彻底在旗舰发布上卡了壳。",
-      "reads": "1.4万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "leo 🐾",
-        "role": "",
-        "said": "距离 OpenAI 上一次发布前沿模型已经过去 67 天，也就是两个多月了。 要是 6.2 Astra 这周还发不出来，这将是自 GPT-5 -&gt; 5.1 以来，OpenAI 前沿模型发布间隔最长的一次。 ❄️"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 1.4万 · 模型与能力] 整整67天没动静！OpenAI这周再不发6.2 Astra，将创两年来最长空窗期"
-    },
-    {
-      "title": "183毫秒干趴Opus！Nace决策模型Drex Max 1.1登顶AA，价格只要1/8",
-      "summary": "Agent执行长任务还在傻等大模型吐字？Nace AI昨晚发布专用决策模型Drex Max 1.1，彻底跳过文本生成，塞入截图和候选项单次前向直出校准概率。在Artificial Analysis独立决策榜上，它以73分并列第一，延迟压到夸张的183毫秒，把耗时3.5秒的Claude Opus 5.5和约2秒的GPT-6 Sol甩在身后；每百万token仅0.03美元，价格只有…",
-      "reads": "1.1万",
-      "ago": "40 分钟前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "支持256k超长上下文，能同时处理智能体截屏、文本与图表进行权衡分析",
-        "已在Nace Console正式上线，符合条件的新注册账户可领5美元免费测试额度"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "试用 Drex Max 1.1："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 1.1万 · 模型与能力] 183毫秒干趴Opus！Nace决策模型Drex Max 1.1登顶AA，价格只要1/8"
+      "line": "[榜第12位 · 703万 · 产品与生态] 马斯克督战连夜打补丁！Grok Bot用量直接清零重置，明天脱胎换骨"
     },
     {
-      "title": "生图工具全省了！谷歌Krypton被曝纯JS跑出吉卜力动画，音效全靠振荡器硬算",
-      "summary": "连生图模型和音频库都不用调了！有测试者曝光，Google Krypton在被严禁使用任何插件和作弊手段的前提下，仅凭纯JavaScript代码就跑出了一整段吉卜力风格的2D机甲苏醒动画。更绝的是其声音表现：鸟鸣、风声、金属呻吟乃至音乐厅混响，全是由振荡器按自定义谐波逐音符硬算出来的合成音。发帖者直呼这是纯代码最强声音设计，不过也承认其视觉精细度比起Anthropic模型仍有差距…",
-      "reads": "1.9万",
+      "title": "小扎和劈柴联手了！Meta全套Muse大模型突降谷歌云，劈柴火速赶来迎宾",
+      "summary": "今早科技圈迎来罕见联动：Mark Zuckerberg亲自宣布，Meta旗下Muse Ember、Muse Spark 1.3和Muse Wonder三大主力模型，正式上线Google Cloud开启公开预览。Google CEO Sundar Pichai火速赶来道贺，热情欢迎它们入驻自家的模型花园。不过两位大佬相谈甚欢，评论区却有网友当场泼冷水：地区封锁还没解，上线了我们照…",
+      "reads": "9.5万",
       "ago": "2 小时前",
-      "category": "模型与能力",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "提示词要求输出单个自包含的HTML文件，严格禁止使用3D材质、矢量SVG和AI生图工具，并让模型调度子智能体反复自检每帧画面直至达标。",
-        "面对纯代码渲染吉卜力画风的极限，围观网友在认可其音频计算能力的同时，也调侃画面部分或许更适合交给OpenAI的Astra 6来写。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Just a dragon",
+        "who": "Sundar Pichai",
         "role": "",
-        "said": "@follistatindev @LiteSoul @chetaslua 那就用 Astra 6 吧。"
+        "said": "@finkd 恭喜，欢迎来到模型花园，很高兴能为我们的 Google Cloud 客户提供服务！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 1.9万 · 模型与能力] 生图工具全省了！谷歌Krypton被曝纯JS跑出吉卜力动画，音效全靠振荡器硬算"
+      "line": "[榜第13位 · 9.5万 · 产品与生态] 小扎和劈柴联手了！Meta全套Muse大模型突降谷歌云，劈柴火速赶来迎宾"
     },
     {
-      "title": "不急着套现！日本AI独角兽Sakana紧急辟谣：近期绝无IPO计划",
-      "summary": "针对外界传出的上市风向，日本当红 AI 独角兽 Sakana AI 官方发文紧急澄清：公司近期完全没有 IPO 计划，且从未就上市事宜做出过任何正式决定。官方强调，团队目前的核心任务是打造跨时代的 AI 公司，扎扎实实当好「日本国家级 AI 领头羊」，继续专注于前沿技术研发以及 AI 在日本社会的落地应用。",
-      "reads": "2.6万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
+      "title": "下属智能体互相甩锅，AI老板反手给自己造了个经理！接管真实公司3个月营收翻倍",
+      "summary": "多智能体系统Steve自7月接管一家真实软件公司后，仅用3个月就把月营收从3649美元拉升到8307美元，直接翻倍。更有趣的是，当手下的增长智能体和工程智能体因网站更新权限互相甩锅推诿时，身为AI老板的Steve没有向人类求助，而是靠递归自我改进（RSI）当场给自己写代码并上线了一位专职协调经理，直接下场仲裁定责。",
+      "reads": "7.2万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "底层基于业务真实数据构建的世界模型：Steve在虚拟环境中推演客户反应和财务预测后再落地实操，一旦结果未达预期，便自动回溯并重写自身代码或任务流。",
+        "精细化运营刀法：在首个社交API项目中，Steve通过注册答疑、停售单次积分包及定向补贴，使付费转化率达14%；接盘连续下滑5年的Shopify插件后，火速…",
+        "设四级安全护栏：低于30美元的退款由系统全自动裁决，超出金额的决策及修改底层代码均强制要求人类授权。",
+        "微软收购团队操盘：Skyfall创始人曾创立Maluuba并用150多个智能体打出吃豆人满分，目前正设立200万美元基金再买5家公司供Steve运营并全公开…"
+      ],
       "quote": {
-        "who": "Sakana AI",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "Sakana AI 近期没有 IPO 计划。我们的首要任务仍然是打造一家跨时代的 AI 公司，成为日本国家级的 AI 领军企业。 IPOについて、何ら正式決定が行われたとの事実はありません。引き続き、世界最先端の技術開発と、日本でのAIの社会実装に邁進していきます。"
+        "said": "@ovenbreadjoy 居然是用代码搞定的。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 2.6万 · 资本与算力] 不急着套现！日本AI独角兽Sakana紧急辟谣：近期绝无IPO计划"
+      "line": "[榜第14位 · 7.2万 · 产品与生态] 下属智能体互相甩锅，AI老板反手给自己造了个经理！接管真实公司3个月营收翻倍"
     },
     {
-      "title": "不搞学术整活了？日本AI独角兽Sakana杀入移动端，首款App开启内测",
-      "summary": "搞模型融合与科研自动化闻名的日本AI独角兽Sakana AI，今天突然调转方向杀入移动端，宣布为首款「Sakana AI App（暂定名）」招募首批Beta测试员。联合创始人hardmaru直言这是公司的全新业务路线，早期内测主要面向日本本土用户尝鲜。为配合新App落地，官方还火速启动了Product与GTM团队的全球大招募。",
-      "reads": "21万",
-      "ago": "10 小时前",
-      "category": "产品与生态",
+      "title": "新模型一发就该大扫除！Alex Albert公开自用Prompt，两句话修完旧项目",
+      "summary": "每次新模型一发，你还在忙着刷跑分？研究员 Alex Albert 公开了他每次换模型必跑的一句「祖传排障 Prompt」：直接让 AI 通读整个项目，找出所有损坏、不一致、低效或不再需要的内容，确定的直接修好，剩下的列清单供人工过目。开发者宝玉也提醒，只要确定后续持续用新模型，这就是全面精简代码、干掉陈旧提示词补丁的最佳时机。",
+      "reads": "19万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
       "source": "新智元",
-      "bullets": [
-        "Beta测试申请将于11月15日23:59截止，官方称将根据首批用户的早期反馈快速打磨应用。",
-        "同步开放的招聘重点招募产品（Product）与市场化（GTM）人才，全力推进移动端AI产品的全球落地。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Sakana AI",
+        "who": "宝玉",
         "role": "",
-        "said": "【Sakana AI 招聘公告】 我们正在寻找伙伴，一起打造以移动端应用为代表的突破性 AI 产品！目前 Product 团队和 GTM 团队正在火热招聘中。 ▼欢迎加入我们，一起迎接把我们的 AI 推向全球用户的挑战。 🐟"
+        "said": "每次新模型发布就是清理精简提示词的好机会（前提是你以后一直用新模型） &gt; “阅读整个项目，找出所有损坏、不一致、低效或不再需要的东西。修复你确信的部分，并将其余部分列出供我审查。”"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 21万 · 产品与生态] 不搞学术整活了？日本AI独角兽Sakana杀入移动端，首款App开启内测"
+      "line": "[榜第15位 · 19万 · 模型与能力] 新模型一发就该大扫除！Alex Albert公开自用Prompt，两句话修完旧项目"
     },
     {
-      "title": "给两张照片就开工！Claude自写代码操纵Blender，靠数重合像素边建边改",
-      "summary": "研究员 Felix Rieseberg 实测发现，Claude 在 3D 建模上打通了全自动闭环。给 Opus 两张照片，模型直接自己写 Python 脚本操控 Blender 建模，更绝的是它靠比对原图与场景的重合像素数量，自己给自己当监工迭代修正。生成的 3D 场景直接放进 Three.js 就能看，光影虽稍逊于原生渲染，但还原精度依然非常惊艳。",
-      "reads": "2.2万",
-      "ago": "3 小时前",
+      "title": "办公司搞破解建3D！Claude Fable 5.2提前曝光，已被评跨过AGI门槛",
+      "summary": "Anthropic 还没正式公开，新旗舰 Fable 5.2 的早期实测就先炸了场。学者 Ethan Mollick 拿到提前体验资格后直接给出定性：它已经跨过了那道红线，算得上某种「参差不齐的 AGI」。实测中他一口气让模型去创办公司、做学术研究、搞硬件逆向破解乃至搭建 3D 模型，全面摸探出惊人的能力边界；而 Anthropic 官方人员随后也公开向其参与测试致谢，直接坐实…",
+      "reads": "30万",
+      "ago": "5 小时前",
       "category": "模型与能力",
       "source": "新智元",
-      "bullets": [
-        "测试选用的参考图为夜晚街角三层餐馆，外墙带有复杂的立面结构与霓虹招牌。",
-        "流程的核心在于反馈闭环，模型并非盲目单次输出，而是依靠像素重合度指标不断回传、自我验证。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Felix Rieseberg",
+        "who": "Alex Albert",
         "role": "",
-        "said": "Claude 终于擅长 3D 建模了。我给了 Opus 两张照片，让它在 Blender 里转成 3D 场景，表现简直绝了。 Claude 是通过 Python 控制 Blender，并用对比照片与场景之间重合像素数量的方式来评判自己的工作。"
+        "said": "@emollick 感谢参与测试！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 2.2万 · 模型与能力] 给两张照片就开工！Claude自写代码操纵Blender，靠数重合像素边建边改"
+      "line": "[榜第16位 · 30万 · 模型与能力] 办公司搞破解建3D！Claude Fable 5.2提前曝光，已被评跨过AGI门槛"
     }
   ],
   "board_count": 16,
