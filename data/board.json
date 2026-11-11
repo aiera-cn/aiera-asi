@@ -3,64 +3,135 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-11 07:11:41 +0800",
+  "fetched_at": "2026-11-11 13:59:03 +0800",
   "today": "11/11",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "Anthropic突袭办公全家桶！白板表格全搞定，还能在对话框里跑Adobe",
-      "summary": "北京时间11月11日凌晨，Anthropic突袭发布全新协同生产力套件：协同白板 Claude Whiteboards 与电子表格 Claude Sheets 正式面向付费用户开启公测，原仪表盘也升级为 Claude Data 全面开放，不仅能理顺杂乱方案，还能依据业务指标一键生成带旁白的数据解读短视频。配合升级的 MCP Apps，Adobe、Box、Atlassian 等完…",
-      "reads": "558万",
-      "ago": "57 分钟前",
+      "title": "微软股价应声跌超2％！Claude直接塞进白板和表格，B2B SaaS被偷家了",
+      "summary": "Anthropic突然给所有付费版Claude端出协作大招：白板（Claude Whiteboards）和表格（Claude Sheets）正式开启测试，不仅支持全团队与Claude实时协同编辑，还能一句话搭出带公式的完整电子表格。升级后的交互连接器更直接把Adobe、Atlassian和Box等完整版SaaS塞进了对话框旁边，甚至支持双向读写。消息一出，微软盘中跌超2%，软件…",
+      "reads": "1001万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Claude Whiteboards 支持把口头想法排布成全队可协同的时间线，并可无缝转为文档、幻灯片或导出至 Lucid、Miro 接着改。",
-        "Claude Sheets 可一句话生成带公式、格式和多工作表的实用表格，并用边框高亮 Claude 修改的每一处单元格，支持导出为 .xlsx 或 CSV…",
-        "Claude Data 新增「认证查询」与「实时分享」，由数据团队锁定指标算法防止跨部门对账打架，外部同事无需底层数据库权限也能查看最新动态看板。",
-        "交互式连接器目前已适配 Adobe、Box、Atlassian、Notion 等工具，官方还同步预告了支持实时跟会记录的 Claude Meetings。"
+        "Claude Sheets支持通过自然语言一键生成包含多个工作表、函数公式和下拉菜单的结构化表格，改动处带高亮标记，并可直接导出为Excel或CSV。",
+        "Claude Whiteboards主打会议与方案实时协作，能自动归类碎片想法并输出待办事项，支持局部圈选提问，可一键转成文档或导入Miro继续编辑。",
+        "原仪表盘更名为Claude Data全面开放，打通Snowflake、BigQuery及Salesforce等数据源，新增防止口径打架的「认证查询」，还能根…",
+        "升级版交互式连接器与MCP Apps扩展已允许在Claude内部并排运行第三方工具全功能，首批涵盖Box、Confluence、Notion等，Box首席执…"
       ],
       "quote": {
         "who": "宝玉",
         "role": "",
-        "said": "如果你没有 claude 账号想测试 Claude Whiteboards 的话，可以试试 DSH 插件"
+        "said": "@imocone OpenAI 也在做，但是无论体验和成熟度都不及 Claude Artifacts"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 558万 · 产品与生态] Anthropic突袭办公全家桶！白板表格全搞定，还能在对话框里跑Adobe"
+      "line": "[榜第1位 · 1001万 · 产品与生态] 微软股价应声跌超2％！Claude直接塞进白板和表格，B2B SaaS被偷家了"
     },
     {
-      "title": "单条提示词直接干出FPS游戏！Fable 5.2烧掉550美元，3A画质纯靠数学代码",
-      "summary": "一句口语提示词，零人工干预，Claude Fable 5.2 耗时 8 小时直接手搓出一款可玩的写实 FPS 网页游戏！整个项目消耗约 4.45 亿输入 Token，重度依赖缓存下耗资约 550 美元。最离谱的是游戏里没有任何外部图片或 3D 资产，全靠模型现写着色器和数学函数实时渲染。实测者当场感叹：配置文件 claude.md 全空，提示词工程时代基本结束了。",
-      "reads": "326万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
+      "title": "偷跑额度修好了！Anthropic全员发重置卡：所有付费用户限时满血复活",
+      "summary": "Anthropic 官方突然向所有 Pro、Max、Ultra 与 Team 订阅用户送上一张「全额重置卡」，彻底清空所有模型的消耗限制。官方坦白，团队刚修好几个导致额度异常偷跑的小 Bug，且此前单补 Fable 额度对整周限额耗尽的用户根本不顶用，这次干脆全量补偿。重置卡在北京时间 12 月 11 日 6:00（太平洋时间 12 月 10 日 14:00）前随时可用，网友甚…",
+      "reads": "143万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "实测数据显示 AI 读的内容比写的足足多出 165 倍，输出 Token 约 270 万，全靠上下文缓存才把近 1800 美元的原始账单打到 550 美元。",
-        "同日公开的测试还包括带传送门的竞技场 FPS 与 VR 魔法射击，多位研究员表示该模型首次把物理与交互机制做对，彻底改变了以往「看着还行、根本不想玩」的粗糙…",
-        "业内对此看法两极：有开发者断言按此迭代速度明年就会出现单人 3A 游戏工作室；也有分析者尖锐批评其本质只是拼凑记忆化着色器，缺乏真正的人类原创性。"
+        "重置入口已上线后台，订阅用户在「Settings > Usage」中即可手动触发，有效期截至北京时间 12 月 11 日清晨。",
+        "部分用户后台截图显示，这次全额重置与此前发放的 3 次 Fable 专用重置卡（2027 年 3 月 9 日到期）互不冲突，两者可在用量见底时代替周额度等待…"
       ],
       "quote": {
-        "who": "Aakash Gupta",
+        "who": "NIK",
         "role": "",
-        "said": "我是如何测试 Spotify 砍掉那笔阅读账单的小妙招的："
+        "said": "谁去看看 tibo 怎么样了"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 326万 · 模型与能力] 单条提示词直接干出FPS游戏！Fable 5.2烧掉550美元，3A画质纯靠数学代码"
+      "line": "[榜第2位 · 143万 · 产品与生态] 偷跑额度修好了！Anthropic全员发重置卡：所有付费用户限时满血复活"
+    },
+    {
+      "title": "扔掉JAX和SGLang！马斯克全用C语言重写底层，Grok 4.8本周灰度",
+      "summary": "马斯克突然掀了桌子，宣布 xAI 彻底弃用 JAX 和 SGLang，完全用 C/C++ 从零重写了整个强化学习与推理技术栈！他透露 Grok 4.8 预训练已经完成，目前正在跑 RL，基准测试跑分一路往上冲，本周晚些时候就会向 Grok Bot 用户开启小范围灰度推送。马斯克甚至忍不住公开吐槽前作，直呼 4.8 和 4.7 彻底判若两人，「谢天谢地毫无相似之处」。",
+      "reads": "369万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "针对为何不选正当红的 Rust，马斯克调侃称「戳中 Rust 程序员痛点太容易」，但要在裸机上追求极致性能依然只能靠 C 语言，属于「能力越大，责任越大」。",
+        "马斯克透露团队此前花大量时间清洗了 SFT（监督微调）数据才理顺，尽管 4.8 目前还算不上惊艳，但这次地基彻底打对了，后续有望演进成非常特殊的产品。"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "Elon Musk 计划本周晚些时候向 Grok Bot 用户小范围灰度发布 Grok 4.8。 他表示预训练已经完成，目前正在进行强化学习。团队还清洗了监督微调数据，并用 C/C++ 重构了强化学习与推理软件，替换掉了 JAX 和 SGLang。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 369万 · 模型与能力] 扔掉JAX和SGLang！马斯克全用C语言重写底层，Grok 4.8本周灰度"
+    },
+    {
+      "title": "密码直接写进网址！Grok Build爆雷：3.5万应用裸奔，特斯拉数据全泄露",
+      "summary": "安全机构Claroc曝光惊天漏洞，Grok Build居然让超过3.5万个用户应用在公网公开裸奔！最魔幻的是，应用所谓的加密密钥直接大摇大摆写在网址里，被DNS日志记得一清二楚。泄露内容包括3784份员工体检报告、特斯拉技术人员记分卡、海军承包商花名册乃至SpaceXSI的销售计划。此前旗下Cursor还坚称应用「默认私密」，实测当场打脸，被质询后才火速下线24个应用。",
+      "reads": "38万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "漏洞根源在于应用的密钥参数直接明文拼在URL中，访问时被DNS日志完整抓取记录。",
+        "泄露内容涉及3784份员工体检报告、特斯拉技术员记分卡、海军承包商花名册以及SpaceXSI自身销售规划。",
+        "被SpaceXSI收购的Cursor此前坚称应用默认私密，遭安全测试推翻后，SpaceXSI紧急下架了24个相关应用，但其余多数数据在被曝光时仍处裸奔状态。"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "‼️ 一名黑客利用用于保护对话隐私的 enclave 内部软件漏洞，黑进了 NEAR AI 的一台“机密”AI 服务器。 Brave 的 Leo 聊天机器人运行在 NEAR AI 的 enclave 中。NEAR AI 尚未说明那台服务器是否处理过 Leo 的对话。 NEAR AI 表示，攻击者可能看到了那台服务器在 11 月 8 日处理的请求，包括机密请求。漏洞出自开源 AI 引擎 SGLang。 官方承认，机密计…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 38万 · 政策与安全] 密码直接写进网址！Grok Build爆雷：3.5万应用裸奔，特斯拉数据全泄露"
+    },
+    {
+      "title": "两股定乾坤！Anthropic冲击1.4万亿IPO：7人死握半数投票权，散户零发言",
+      "summary": "Anthropic正式开启纳斯达克IPO路演，代码ANT，每股定价70至78美元，目标估值最高近1.4万亿美元，最快下周挂牌！更有意思的是招股书里的治理结构：全公司靠1股F类股和1股T类股控盘，7位联创死死把控50.1%的表决权，公众股东甚至连罢免董事的资格都没有。",
+      "reads": "108万",
+      "ago": "5 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "本次计划发行8.25亿股A类普通股，扣除费用前基础募资最高达643.5亿美元，英伟达与谷歌各计划认购100亿美元",
+        "2026年上半年营收达163亿美元，较去年同期的11.6亿美元暴涨近14倍，净收入留存率（NRR）达到惊人的900%",
+        "招股书共134次提及超级智能，并披露已跨越「AI加速自身研发」阈值，模型迭代速度提升约1.9倍，公司预警可能对部分内部研发流程失去可视度",
+        "7位联合创始人即便承诺将80%股权捐予慈善，其持有的1股F类股仍将永久锁定50.1%的表决权"
+      ],
+      "quote": {
+        "who": "MTS",
+        "role": "",
+        "said": "划重点，前线速递：Anthropic 在最新的 IPO 招股文件中披露，它已经跨过了「AI 加速 AI 自身研发」的临界阈值。 • 该阈值定义为 AI 大致将 Anthropic 的模型迭代速度翻倍，METR 评估自 2025 年 10 月以来提升幅度已达 1.9 倍左右 • 跨过该阈值将触发更严格的防护机制，Anthropic 表示正在权衡政策调整，「以确保人类牢牢掌握控制权」 • 文件同时预警，随着 Claude…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 108万 · 资本与算力] 两股定乾坤！Anthropic冲击1.4万亿IPO：7人死握半数投票权，散户零发言"
     },
     {
       "title": "ChatGPT 也能入驻商家了！OpenAI 开启企业认证：配专属智能体还能挂库存",
       "summary": "北京时间今天凌晨，OpenAI 正式开启「Businesses in ChatGPT」公测，全球企业即日起可在 Business Hub 认领并验证主页。商家不仅能接入含实时价格与库存的商品数据，符合条件的美国企业还能部署专属 Business Agent 帮顾客答疑比价。官方强调该智能体与 ChatGPT 独立回答严格区分，且绝不向商家泄露用户聊天记录。",
-      "reads": "183万",
-      "ago": "1 小时前",
+      "reads": "386万",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -77,36 +148,86 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 183万 · 产品与生态] ChatGPT 也能入驻商家了！OpenAI 开启企业认证：配专属智能体还能挂库存"
+      "rank": 6,
+      "line": "[榜第6位 · 386万 · 产品与生态] ChatGPT 也能入驻商家了！OpenAI 开启企业认证：配专属智能体还能挂库存"
     },
     {
-      "title": "抛弃JAX和SGLang！马斯克用纯C重写底层技术栈，Grok 4.8本周灰度突袭",
-      "summary": "马斯克突然掀了自家的技术底牌：xAI 已彻底弃用 JAX 和 SGLang，整套强化学习与推理技术栈全部用 C/C++ 从零重写。目前 Grok 4.8 预训练已经结束，清洗完 SFT 数据后正在进行强化学习，各项评测指标开始爬升，预计本周晚些时候向 Grok Bot 用户灰度推送。马斯克还毫不客气地吐槽，称新模型「谢天谢地和 4.7 毫无相似之处」，这次地基终于打对了。",
-      "reads": "314万",
-      "ago": "4 小时前",
+      "title": "不到10年癌症心脏病成历史！Anthropic CEO预言奇迹时代，Opus成本先砍40%",
+      "summary": "Anthropic CEO Dario Amodei 语出惊人：不到十年内，癌症、阿尔茨海默病、心脏病和精神疾病都将成为「历史遗迹」，AI 妥善控制风险后将带人类开启解决千年难题的「奇迹时代」。与此同时，CFO Krishna Rao 透露 9 月推出的 Opus 5.5 已帮客户降低 40% 使用成本，因推理成本大减而保持利润率中性，正靠低门槛换来使用量井喷。",
+      "reads": "47万",
+      "ago": "3 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "面对语言选型的争议，马斯克回应称调侃 Rust 程序员太容易了，Rust 确实是门好语言，但要在裸机上压榨出极致性能，唯一的选择依然是 C 语言。"
+        "Dario Amodei 透露自己每两周举行一次名为「DVQ」（Dario Vision Quest）的全员演讲，会上彻底坦诚地同步行业变化与战略，但立下铁…",
+        "Anthropic 明确将客户价值列为第二大投资重点，虽然降价 40% 短期内牺牲了部分近期营收，但智能单价越低，反而越能形成推动 Claude 普及与长期…"
       ],
       "quote": {
-        "who": "Elon Musk",
+        "who": "Dan McAteer",
         "role": "",
-        "said": "@Owl_of_Atena @cradrrat 戳中 Rust 程序员的痛点也太容易了 😂 Rust 是门好语言，但要追求裸机上的极致性能，你还得用 C。能力越大，责任越大。"
+        "said": "欢迎来到「奇迹时代」。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 314万 · 模型与能力] 抛弃JAX和SGLang！马斯克用纯C重写底层技术栈，Grok 4.8本周灰度突袭"
+      "rank": 7,
+      "line": "[榜第7位 · 47万 · 模型与能力] 不到10年癌症心脏病成历史！Anthropic CEO预言奇迹时代，Opus成本先砍40%"
+    },
+    {
+      "title": "月费100美元起！谷歌最强Gemini 4 Carbon正式开放，20刀会员彻底被抛弃",
+      "summary": "劈柴哥亲自宣告，专攻长程深度任务的谷歌最强旗舰 Gemini 4 Carbon 正式全量推送！不过 19.99 美元的 Pro 会员这次全被上锁，普通用户必须订阅每月 99.99 美元或 199.99 美元的 Ultra 才能用。走付费 API 的开发者也得抓紧：目前输入 2 美元、输出 10 美元的首发价只维持到 11 月 30 日，12 月起单价直接翻倍。官方公布其缺失数据…",
+      "reads": "75万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "官方明确分工策略：日常写代码和对话优先使用更快更省的 Argon，Carbon 专啃系统架构设计、复杂根因排查与科学审计，支持端到端构建带渲染校验的复杂 3…",
+        "第三方评测显露极致性价比：在 Zapier 业务自动化榜单 AutomationBench 上拿到 53.9%，单任务成本仅需 2.12 美元，远低于竞品…",
+        "配套工具同步大更：Antigravity 预览 /swarm 命令，一句话即可自动拆解任务、拉起专属 Agent 团队与验证员，通过共享留言板实时协同，空闲…",
+        "后手储备提前曝光：官方团队直言还在憋大招，爆料显示代号为 Krypton（或 Krypton-A）的全新后续模型已在内部测试。"
+      ],
+      "quote": {
+        "who": "宝玉",
+        "role": "",
+        "said": "@yao_bell62018 我的不行"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 75万 · 模型与能力] 月费100美元起！谷歌最强Gemini 4 Carbon正式开放，20刀会员彻底被抛弃"
+    },
+    {
+      "title": "雷电5一插直接聚合内存！苹果神秘AI应用偷跑：多台Mac变本地推理集群，已紧急下架",
+      "summary": "谁还在嘲讽苹果在 AI 上落后？一款名为 Harbor 的苹果私有推理应用被曝在 App Store 低调开启测试，随即被官方紧急下架。该应用主打「零配置免命令行」，用户只需用雷电 5 将两台或多台 Mac 连在一起，系统就会自动组网并将统一内存融为一体，直接在本地下载并跑通单机塞不下的开放权重模型，全程数据不离机、绝不上云。",
+      "reads": "46万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "该应用在苹果全资子公司 Claris 旗下以私有预览名义现身，此前内部代号曾为 Fabric。",
+        "应用内置开放权重模型市场，支持在界面内直接检索、下载和加载模型，省去环境部署与运维门槛。",
+        "多机并联后除可承载超大参数模型外，还能自动分散负载以承载更高的本地推理并发请求。"
+      ],
+      "quote": {
+        "who": "Aaron",
+        "role": "",
+        "said": "@stevenzhang 除了第一句和最后一句，这完全就是从 Apple 直接复制粘贴过来的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 46万 · 产品与生态] 雷电5一插直接聚合内存！苹果神秘AI应用偷跑：多台Mac变本地推理集群，已紧急下架"
     },
     {
       "title": "马斯克罕见认输！盛赞Opus 5.5是神作，放话Grok 5两三个月内超车",
       "summary": "一向不服输的马斯克，这次居然公开认输了！面对网友追问，他坦言自家模型目前确实不如 Anthropic 的 Opus 5.5，甚至盛赞对方是「一部杰作」（masterpiece）。但他紧接着立下战书：Grok 5 将在两到三个月内超越 Opus 5.5，此后还会继续加速领跑。此外，他还透露 xAI 正用极度紧凑的 C 语言、少量 C++ 乃至底层汇编重构整套技术栈。",
-      "reads": "171万",
-      "ago": "3 小时前",
+      "reads": "221万",
+      "ago": "10 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -122,270 +243,146 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 171万 · 模型与能力] 马斯克罕见认输！盛赞Opus 5.5是神作，放话Grok 5两三个月内超车"
+      "rank": 10,
+      "line": "[榜第10位 · 221万 · 模型与能力] 马斯克罕见认输！盛赞Opus 5.5是神作，放话Grok 5两三个月内超车"
     },
     {
-      "title": "劈柴深夜甩出最强底牌！Gemini 4 Carbon全球上线：19刀Pro彻底无缘，月费99刀起",
-      "summary": "今天凌晨，Sundar Pichai宣布专为长程任务打造的旗舰模型Gemini 4 Carbon正式面向全球推送，主攻复杂代码、网络安全与科学深度推理。不过这次尝鲜门槛极高，每月19.99美元的Pro会员被彻底关在门外，普通用户必须订阅每月99.99或199.99美元的Ultra套餐；开发者API虽开放，但每百万Token 2/10美元的引入价只持续到11月30日，12月便直接…",
-      "reads": "58万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Antigravity同步预览/swarm命令：输入指令即可拉起多智能体战队，协调员自动拆解任务、分配专用agent和独立验证员，并在共享看板上协同干活。",
-        "自动化基准力拼性价比：在Zapier的AutomationBench业务自动化评测中，Carbon以High档拿下53.9%得分，单任务成本仅2.12美元…",
-        "拒绝瞎猜的诚实度测试：在375项诚实度测试中Carbon通过率达92%，面对缺失实验数据时98%的情况下不会胡编，甚至能从异常数据中主动推断实验操作缺陷。",
-        "分工与进阶权限：日常轻量编码仍推荐使用Argon，企业版及1万名特批科研计划学者已同步接入，但无网络安全护栏的专版仍严格限制在Fairwind防御计划内。"
-      ],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "@SimonasLTU1 他们根本没修复，只是搞出了绿白相间的新垃圾"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 58万 · 模型与能力] 劈柴深夜甩出最强底牌！Gemini 4 Carbon全球上线：19刀Pro彻底无缘，月费99刀起"
-    },
-    {
-      "title": "插上雷电5就能组集群！苹果秘密应用被曝：Mac一键变私有AI服务器",
-      "summary": "苹果被曝正在秘密开发一款名为 Harbor 的新工具，目前正在 Claris 品牌下进行小范围非公开预览。只要用雷电 5 将两台或更多 Mac 连在一起，它就会自动组网并将多机的统一内存融合成单个推理池，彻底免去繁琐的命令行与集群部署。全部推理完全在 Apple Silicon 本地运行且数据绝不上云，单台 Mac 啃不动的超大模型，现在插上线就能跑。",
-      "reads": "16万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "内置模型管理体验：Harbor 允许用户直接在图形界面内浏览、下载并加载开放权重模型，不用手动折腾运行环境。",
-        "兼顾吞吐与并发：除了能跑超单机显存上限的大模型，聚合后的 Mac 集群还能跨设备分摊请求，承载更高并发的本地推理服务。",
-        "曝光细节保真：爆料者透露流出的功能说明几乎一字不差来自苹果官方物料，项目此前内部代号为 Fabric。"
-      ],
-      "quote": {
-        "who": "ℏεsam",
-        "role": "",
-        "said": "“Apple 在 AI 上落后了” 与此同时，他们向 OpenAI 卖了几万台 Mac 用来训练 computer-use 的智能体，Anthropic 也在 AWS 上租用 Mac mini。 现在又搞出了这个……把手头的 Mac 组成集群当本地 AI 服务器跑。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 16万 · 产品与生态] 插上雷电5就能组集群！苹果秘密应用被曝：Mac一键变私有AI服务器"
-    },
-    {
-      "title": "3小时手搓完整赛车游戏！Claude Fable 5.2打穿Unity，车模贴图UI全自研",
-      "summary": "不用任何外部资产和美术库，Claude Fable 5.2 仅凭纯生成就在 Unity 里搓出了一款完整赛车游戏！实测仅用 4 个 Prompt、耗时 3 到 8 小时，模型便自行搭建出 5 台赛车、1 条完整赛道以及全套贴图、光影特效与测速 UI，且几乎零 Bug 顺畅试玩。过去一个中小型团队几个月的工作量，如今被一人一模型几个小时推平，游戏开发的天花板被彻底改写。",
-      "reads": "19万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "在上海外滩同题场景四宫格生成实测中，Opus 5.5 耗时 12 分 31 秒（76k Tokens）摘下速度与效率双冠，Fable 5.2 耗时 27 分…",
-        "为应对高强度跑代码可能触发的风控，开源项目 Claude Cage 同步推出桌面客户端，支持 Mac、Windows 与 Linux，提供网络与硬件指纹完全…",
-        "社区同批实测还跑出了全地球体素化沙盒项目，在浏览器内即可实时同步现实天气并支持全场景物理破坏。"
-      ],
-      "quote": {
-        "who": "SuSu_酥酥",
-        "role": "",
-        "said": "🔥 上海外滩同题四宫格实测！同一提示词四大模型对比！ 🔹Gemini 4 Carbon 41分20秒 | 178k Tokens 江面反射细腻，静谧写实 🔹Gemini 4 Argon 52分41秒 | 162k Tokens 建筑层次丰富，冷蓝密度感强 🔹Fable 5.2 27分28秒 | 149k Tokens 街道霓虹鲜艳，生活氛围拉满 🔹Opus 5.5 12分31秒 | 76k Tokens 速度最快，倒…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 19万 · 模型与能力] 3小时手搓完整赛车游戏！Claude Fable 5.2打穿Unity，车模贴图UI全自研"
-    },
-    {
-      "title": "估值狂飙1.38万亿！Anthropic启动IPO，创始人靠1股拿走50.1%投票权",
-      "summary": "赶在Fable 5.2发布后，Anthropic正式启动IPO路演，完全摊薄估值达1.24万亿至1.38万亿美元，最高发售643.5亿美元股票。但招股书亮出的股权架构让华尔街看傻了：7位联创仅凭1股F类股就死死锁住50.1%的表决权，信托凭另1股控制董事会。散户花大价钱买进的A类股，几乎左右不了任何重大决策。",
-      "reads": "86万",
-      "ago": "6 小时前",
+      "title": "被三大运营商集体拉黑后，马斯克掀桌自建网络！拿下全美穿墙频段覆盖100%人口",
+      "summary": "向Verizon、AT&T和T-Mobile借网遭全员拒绝后，SpaceX索性掀桌单干。FCC现已正式受理其收购全美800MHz频段申请，SpaceX通过与Grain Management交易一口气拿下546对穿墙低频牌照，兼容几乎所有智能手机，覆盖全美约100%人口。马斯克直言这是全美手机完整覆盖的最后一块拼图；配合同步推进的40万颗Starmind AI卫星制造，天地一体化…",
+      "reads": "71万",
+      "ago": "7 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "拟以股票代码 ANT 登陆纳斯达克，发行价区间定在每股 70 至 78 美元，计划发售 8.25 亿股 A 类普通股，并附带承销商最多 1.2375 亿股超…",
-        "极端双层控制：除联创的 1 股 F 类股垄断过半投票权外，长期利益信托还持有一股 T 类股把持董事会多数席位，即便联创日后把 80% 股权捐给慈善，表决权也…",
-        "招股书披露，Anthropic 此前曾因安全和安保考量，暂停训练下一代模型超过一个月；本次 IPO 正考虑向散户保留 15% 至 20% 的配售额度。"
-      ],
-      "quote": {
-        "who": "Ricardo",
-        "role": "",
-        "said": "Anthropic 马上要向散户兜售一家万亿美元级的公司，但这公司却被 2 股价值还不到一分钱的股票死死控着。 而买它股票的人，对后面发生的事几乎没有任何话语权。 我看了 Anthropic 的 IPO 招股书里的表决权部分，我觉得在同等体量的公司里，这是对普通投资者最不公平的一次交易： 公司只有区区 1 股 F 类股。它属于 Anthropic 7 位联创拥有的一家有限责任公司，却握有整整 50.1% 的表决权。…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 86万 · 资本与算力] 估值狂飙1.38万亿！Anthropic启动IPO，创始人靠1股拿走50.1%投票权"
-    },
-    {
-      "title": "不到10年消灭癌症！Anthropic CEO放话：AI将开启奇迹时代",
-      "summary": "Anthropic CEO Dario Amodei最新预言，不到10年时间，癌症、阿尔茨海默病、心脏病和精神疾病都将彻底成为历史遗迹。他直言，只要妥善把控风险，AI将带人类开启解决数千年难题的「奇迹时代」。与此同时，公司CFO透露9月推出的Opus 5.5模型在能力大涨的同时帮客户砍掉了40%成本，而且因推理成本暴跌做到了利润率中性，更便宜的智能正直接带动调用量狂飙。",
-      "reads": "23万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Amodei透露自己每两周会给全员做一次「DVQ」内部分享，铁律之一是他在会上说的任何话都不算实际决策，只负责绝对坦诚地同步行业与战略思考。",
-        "CFO表示降低客户成本短期确实会牺牲一部分即时收入，但智能成本越低普及越快，带来的使用量爆发会迅速反哺营收。"
+        "在涉足市场最高可持有89MHz低频频谱，彻底摆脱传统地面运营商的网络卡脖子限制。",
+        "硬件制造已同步锁死：SpaceX锁定德国SINGULUS超100GW异质结设备，首条产线2027年上半年进驻得州工厂，专为40万颗Starmind AI卫星…",
+        "针对直连卫星前景，业内KOL Brian Roemmele公开推测，SpaceX自家AI优先、直连星空的手机或已在路上。"
       ],
       "quote": {
         "who": "NIK",
         "role": "",
-        "said": "Anthropic CEO 预测癌症、阿尔茨海默病、心脏病、精神疾病将在不到 10 年内被治愈 加速！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 23万 · 模型与能力] 不到10年消灭癌症！Anthropic CEO放话：AI将开启奇迹时代"
-    },
-    {
-      "title": "不用等了！Claude Fable 5.2正式上线：纯代码手搓3D细胞，连折纸模拟器都自带了",
-      "summary": "昨夜，Claude 官方正式宣布新一代旗舰 Claude Fable 5.2 全面上线，并同步甩出一组令人头皮发麻的早期实验演示。这次新模型展现了极强的代码空间建模与物理推理能力：不仅能仅凭纯代码、逐个细胞器手搓出极精细的人体细胞 3D 模型，甚至能通过自带的折叠模拟器计算折痕、输出可打印折纸方案。从肉眼监工子智能体到 40 张照片一体建模百年地标，它把代码生成推向了物理直觉新…",
-      "reads": "92万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "同提示词动态绘制：在同一段跑步提示词测试下，Fable 5.2 绘制的人体肌肉与骨骼运动姿态，明显拉开了与 Sonnet 5.5 和 Opus 5.5 的表…",
-        "纯代码渲染科普播客：有开发者借助 Fable 5.2 仅用代码就绘制并渲染出双人出镜的埃及金字塔科普播客，音视频均由 Claude Code 跑通完成。",
-        "多智能体协同可视化：有原型将 Claude 项目中的子智能体工作流做成了 3D 虚拟小镇，用户可以实时肉眼观测多个 Agent 分工推进 28 项任务对话。",
-        "白板逐步推演应用：演示还包含一款名为 Dry Erase 的交互原型，用户随口提问，模型便会在黑板上一笔一画推演出完整板书讲解。"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": "用 Fable 5.2 画了一只骑自行车的鹈鹕 SVG。"
+        "said": ""
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 92万 · 模型与能力] 不用等了！Claude Fable 5.2正式上线：纯代码手搓3D细胞，连折纸模拟器都自带了"
+      "line": "[榜第11位 · 71万 · 资本与算力] 被三大运营商集体拉黑后，马斯克掀桌自建网络！拿下全美穿墙频段覆盖100%人口"
     },
     {
-      "title": "不到一年干到第4代！Gemini 4 Carbon上线：单次反编译30年前游戏还能转Web",
-      "summary": "北京时间11月11日凌晨，Google DeepMind CEO Demis Hassabis正式宣布最新前沿模型Gemini 4 Carbon开启推送。从Gemini 3跃迁到Gemini 4用时不到一年，Hassabis甚至晒出了震撼演示：Carbon单次反编译了他90年代开发的《Theme Park》原版二进制文件，顺手塞进一个DeepMind主题设施，还一键全自动移植到…",
-      "reads": "9.8万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
+      "title": "手握1325亿美元订单！CoreWeave算力卖到2028年，老卡租金反涨50％",
+      "summary": "AI军备竞赛到底有多渴？算力巨头CoreWeave交出Q3答卷：营收同比狂飙168%破36亿美元，在手积压订单冲上1325亿美元。更夸张的是，其2027年算力已基本售罄，放出的2028年产能也被抢光，需求达到供给的10倍。不仅没人在意折旧，Ampere与Hopper老卡租金环比反涨30%到50%，股价应声暴涨超13%。",
+      "reads": "18万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "在此前测试中，Hassabis用Gemini 3花数小时才勉强写出测试台并还原调薯条盐量等细节，而Gemini 4 Carbon直接完成了对原始二进制程序的…",
-        "本次演示生成的Web端移植版本被命名为《Theme Park: Carbon Remix - Google DeepMind Edition》，目前已上线推…"
+        "财务指引全面上调：2026财年营收预期上调至130亿至133亿美元，资本支出指引拉高到370亿至390亿美元，年化营收运行率预计突破200亿美元。",
+        "巨额现金预付进账：预计未来3个月将收到约90亿美元客户预付款和押金，其中超30亿美元针对已完全收回成本的GPU。",
+        "老卡成现金奶牛：超13万张2027年到期的GPU若按现价续租，在零新增资本支出的情况下，即可贡献近百亿美元年化增量营收。",
+        "高杠杆隐忧犹存：Q3资本支出达14.5亿美元，利息支出高达8.46亿美元（超过GAAP营业利润的4倍），管理层指引Q4利息支出将突破10亿美元。"
       ],
       "quote": {
-        "who": "🍓🍓🍓",
+        "who": "Wall St Engine",
         "role": "",
-        "said": "@demishassabis 这是个很棒的模型，Demis 爵士，感谢。"
+        "said": "Coreweave $CRWV 涨超 13%： 全面超预期：营收暴增 168%，待积压订单增长 138%。上调 2026 年指引，小幅拉高资本支出。 融资透明度大为改善： 按当前收益率算，到 2027 年都不计划新增无担保债务，母公司层面的新资金预期低于 50 亿美元。 其下一笔贷款预计为投资级，收益率 7%-7.5%，可覆盖其挂钩资本支出的 90% 以上。到 2027 年已承诺资本支出的 75% 以上，都与投资级及…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 9.8万 · 模型与能力] 不到一年干到第4代！Gemini 4 Carbon上线：单次反编译30年前游戏还能转Web"
+      "line": "[榜第12位 · 18万 · 资本与算力] 手握1325亿美元订单！CoreWeave算力卖到2028年，老卡租金反涨50％"
     },
     {
-      "title": "20分钟全自动剪片！Fable 5.2叫板剪辑师：音乐拉胯只因模型听不见",
-      "summary": "有网友用 Fable 5.2 搞了波大的：仅花 20 分钟、100% 由模型自主剪出一支短片，不仅生成了完整的彩色多轨时间轴，文件名还极其真实地标上了「final_FINAL_v7.mp4」，公开喊话要抢走剪辑师的饭碗。不过面对大家对配乐生硬的吐槽，作者直接自嘲回复：音乐确实不好听，因为模型根本听不见。",
-      "reads": "16万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "title": "ChatGPT老版语音下线倒计时！12月11日全砍，GPT-Live彻底接管",
+      "summary": "OpenAI 宣布断舍离：2026 年 12 月 11 日起，ChatGPT 将正式停用 Advanced（高级）和 Standard（标准）语音模式。自今年 7 月上线 GPT-Live 以来，平台语音使用量直接翻了近一倍，几乎所有用户都已迁移，官方决定集中资源全面转正新模型。唯一暂时留下的是实时视频和屏幕共享，在 GPT-Live 补齐多模态能力前，仍将继续由 Advanc…",
+      "reads": "19万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "作者在视频第 35 秒的屏幕画面中埋了一处小彩蛋，并表示其中的剪刀转场片段完全由模型生成。",
-        "虽然整支成片 100% 由 Fable 搞定，但时间轴和内容依然支持用户后续手动修改与调整。"
+        "针对这次提前清理老模型的动作，有爆料者猜测 OpenAI 可能正准备在 12 月前推送新一轮实时语音模型升级。"
       ],
       "quote": {
-        "who": "Chris",
+        "who": "🚨 AI News | TestingCatalog",
         "role": "",
-        "said": "@hades_blado 没错，100% 是 fable 做的"
+        "said": "OPENAI 重磅🔥：ChatGPT 的高级语音和标准语音模式将在 12 月 11 日正式停用！ 这难道意味着，在此之前会有新的实时语音模型大升级上线？ 我们需要再来一次 OpenAI 连续 12 天发布 👀"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 16万 · 模型与能力] 20分钟全自动剪片！Fable 5.2叫板剪辑师：音乐拉胯只因模型听不见"
+      "line": "[榜第13位 · 19万 · 产品与生态] ChatGPT老版语音下线倒计时！12月11日全砍，GPT-Live彻底接管"
     },
     {
-      "title": "对手疯狂发大招，OpenAI却拿Astra扫后院修Bug：周四办网安专场",
-      "summary": "别催 GPT-6.2 了，OpenAI 正在忙着拿自家旗舰扫后院。官方宣布将于北京时间 11 月 13 日凌晨 2 点举办 Cyber at the Frontier 线上演讲，发布面向客户的网络安全工具与实战手册。总裁 Greg Brockman 透露，团队直接把 Astra 扔进自身代码库与基础设施里硬跑，成功排查并修复了多项重大漏洞。面对隔壁 Google 和 Claud…",
-      "reads": "24万",
-      "ago": "5 小时前",
-      "category": "政策与安全",
+      "title": "深夜突袭！谷歌甩出最强模型Gemini 4 Carbon，主打长流程Agent与网安",
+      "summary": "北京时间11月11日凌晨，Google AI Studio突袭上线号称自家「最强模型」的Gemini 4 Carbon。官方表示，该模型在网络安全以及横跨复杂知识工作、软件工程和科学推理的长周期智能体工作流中具备前沿性能。新模型已接入Gemini API与AI Studio，供付费API用户及Google AI Ultra订阅者直接调用。看着谷歌紧锣密鼓上新，围观网友忍不住调侃…",
+      "reads": "17万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
       "source": "新智元",
-      "bullets": [
-        "Greg Brockman 强调，安全团队必须抢在全世界各类模型广泛扩散并找上门之前，持续把最新前沿模型纳入防御闭环，主动揪出未知死角。",
-        "本次主题演讲将针对企业安全团队与 CISO，把 OpenAI 内部防御实战经验沉淀为可直接调用的工具与应急预案。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "Wes Roth",
         "role": "",
-        "said": "完蛋了！OpenAI 你在干什么？！GPT-6.2 Astra 在哪里？！ Google ：开放 Gemini 4 Carbon Claude：发布Fable 5.2、Mythos 5.2 ChatGPT 变成新的哈基米了！"
+        "said": "Google 通过付费 Gemini API 推出了 Gemini 4 Carbon，Google AI Ultra 订阅用户也可以在 AI Studio 中使用它。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 24万 · 政策与安全] 对手疯狂发大招，OpenAI却拿Astra扫后院修Bug：周四办网安专场"
+      "line": "[榜第14位 · 17万 · 模型与能力] 深夜突袭！谷歌甩出最强模型Gemini 4 Carbon，主打长流程Agent与网安"
     },
     {
-      "title": "连编译器都不信！DeepMind甩出650万行数学证明，4周验透Signal底层代码",
-      "summary": "Google DeepMind团队推出形式化验证框架AlphaProof Code，动用40到80个Gemini Carbon智能体，仅用4周就生成了约650万行Lean证明，首次把广泛部署的Signal底层机器码算得明明白白！以往专家团队需要死磕数年的硬核任务，被AI硬生生压到一个月中，甚至深挖到处理器实际执行的指令层级，连Rust编译器都不盲信。最绝的是你根本不需要信任AI…",
-      "reads": "37万",
+      "title": "连开会都省了！Cursor重构多人协作：你的Agent能找同事的AI私聊对齐",
+      "summary": "11月11日清晨，Cursor官方宣布对Projects进行重构并开启Beta测试，正式推出面向多人协作的「Team Projects」。这次最颠覆的变化在于，它不仅让团队成员共享上下文，还让不同成员的AI Agent能够跨任务协同：智能体在动手前会先相互同步方案，敲代码时实时标记潜在冲突，甚至主动帮队友的Agent扫清任务卡点。程序员还没到工位，AI们自己就已经把方案对齐了。",
+      "reads": "26万",
       "ago": "6 小时前",
-      "category": "模型与能力",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "实测反向抓虫：研究人员故意重新引入两个此前已修复的旧漏洞，系统均成功识别并出具了不安全证明，排除了AI放水和虚假放行的可能。",
-        "成果全面开源：DeepMind已将本次针对Signal的形式化规范与验证产物全部开源，供社区复现与拓展。",
-        "关键设施护城河：团队表示该成果证明了端到端数学验证的可行性，未来将推广至医疗设备固件、电网软件等关乎生死的高危系统。",
-        "底座模型呼之欲出：承担本次验证任务的Gemini Carbon（亦称Gemini 4 Carbon）据传已有部分用户灰度可用，谷歌近期或将正式发布。"
+        "支持联动MCP扩展能力：官方演示界面已整合Buildkite MCP等多工具调用，协同中的Agent可直接触发CI/CD等外部工作流。",
+        "工作空间深度统一：新界面将Projects与Chats完整打通，团队所有成员与各自唤起的Agent均置于同一面板，实时呈现跨任务的协作状态。"
       ],
       "quote": {
-        "who": "Nav Toor",
+        "who": "Cursor",
         "role": "",
-        "said": "@pushmeet @GoogleDeepMind 未来会不会所有主流即时通讯应用都用这种方式来进行测试？"
+        "said": "Team Projects 为每位团队成员及其智能体提供了共享上下文。智能体会在开工前同步方案，在工作中标记冲突，并在团队范围内相互协作扫清任务障碍。 今天开启 Beta 测试"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 37万 · 模型与能力] 连编译器都不信！DeepMind甩出650万行数学证明，4周验透Signal底层代码"
+      "line": "[榜第15位 · 26万 · 产品与生态] 连开会都省了！Cursor重构多人协作：你的Agent能找同事的AI私聊对齐"
     },
     {
-      "title": "支付巨头Stripe正式吞下OpenRouter！坐拥千万开发者，3个月周Token暴涨2.3倍",
-      "summary": "全球知名 AI 聚合网关 OpenRouter 正式被支付巨头 Stripe 收购并完成交割。据投资人透露，这个仅用 3 年起家的精悍小团队，如今手握超 1000 万开发者与企业客户；光是从敲定收购意向到最终交割的短短 3 个月里，平台的周 Token 消耗量就暴涨了 2.3 倍。Stripe 称此举将加速构建 AI 经济基建，OpenRouter 随后火速强调：平台中立性绝不…",
-      "reads": "5.5万",
-      "ago": "1 小时前",
-      "category": "资本与算力",
+      "title": "SaaS死不了！HubSpot联创断言：大模型砸数千亿只为卖Token，创业比2023更安全",
+      "summary": "HubSpot联合创始人兼CTO Dharmesh Shah在访谈中给行业打了一剂强心针：现在做AI创业反而比2023年更安全。前沿实验室砸了数千亿美元做预训练，如今首要任务是变现巨额资本支出、疯狂寻找渠道卖推理和Token。在他看来，ChatGPT和Claude更像当年的浏览器与操作系统，绝不可能独吞整个应用栈；只要初创避开大模型正面竞速的「黄砖路」，深耕垂直领域当推理分销商…",
+      "reads": "14万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "平台定位：OpenRouter 提供跨模型统一接入、停机自动切换以及团队成本与数据合规策略管控，帮助企业把控成本与数据流向。",
-        "业务协同：Stripe 将结合自身全球商业基础设施，与 OpenRouter 共同优化企业的 Token 路由效率，降低多模型部署门槛。"
+        "把AI当成15年前的AWS：如今既有开源底牌又有丰富商业产品可选，垂直SaaS掌握细分场景与分发渠道，完全有底气保住利润空间。",
+        "手下30年无直属下属的Dharmesh透露，自己最新打造的一人公司CRM项目uSpot上线第一天就开启收费，成了他在HubSpot最成功的一次新品发布。",
+        "初创选方向需避开实验室争抢的主干道，善用「yet法则」进行验证，过滤掉那些会被大模型后续迭代直接碾平的平庸点子。"
       ],
       "quote": {
-        "who": "Deedy",
+        "who": "a16z",
         "role": "",
-        "said": "出镜（从左到右）：@mmurph、@alexatallah、@jane_eliz_alex、@louis_g_v、@cclark，还有我。 未出镜：@mojomaa0、@AnjneyMidha 以及 @OpenRouter 惊艳的团队伙伴们"
+        "said": "HubSpot 联合创始人兼 CTO Dharmesh Shah 表示，现在做 AI 创业其实没 2023 年那么可怕了，只要你不去硬蹭前沿实验室走的那条「黄砖路」： 「前沿模型公司投了几千亿美元在做研发和预训练。所以他们现在的整个商业模式，说白了就是把花掉的资本支出和源源不断砸进去的钱变现，琢磨着『怎么卖推理？怎么卖 Token？怎么把砸出来的东西商业化？』」 「有些 SaaS 公司和初创团队深耕特定垂直领域，懂自…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 5.5万 · 资本与算力] 支付巨头Stripe正式吞下OpenRouter！坐拥千万开发者，3个月周Token暴涨2.3倍"
+      "line": "[榜第16位 · 14万 · 产品与生态] SaaS死不了！HubSpot联创断言：大模型砸数千亿只为卖Token，创业比2023更安全"
     }
   ],
   "board_count": 16,
