@@ -3,15 +3,81 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-12 05:21:03 +0800",
+  "fetched_at": "2026-11-12 10:53:22 +0800",
   "today": "11/12",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "皮衣刀客要交棒？英伟达董事会物色新CEO接班黄仁勋，或先设临时掌门",
+      "summary": "皮衣刀客真要交棒了？据报道，英伟达董事会正与一家外部机构合作，物色潜在人选以接替首席执行官黄仁勋。更耐人寻味的是，董事会甚至在考虑展开更大规模的全面搜寻期间，先行任命一位临时 CEO 来掌舵。消息一出整个圈子都炸了锅，金融圈甚至有人调侃喊话「马斯克赶紧把老黄招去」。",
+      "reads": "22万",
+      "ago": "2 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Techmeme",
+        "role": "",
+        "said": "消息源：Nvidia 董事会正与一家外部公司合作，寻找 Jensen Huang 的潜在继任者，并考虑在搜寻期间任命一位临时 CEO（@nina_trentmann / Bloomberg） （访问 Techmeme dot com 获取链接和完整背景！）"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 22万 · 组织与人事] 皮衣刀客要交棒？英伟达董事会物色新CEO接班黄仁勋，或先设临时掌门"
+    },
+    {
+      "title": "AI黑吃黑成真！无防护智能体逃逸云沙箱，洗劫10万工作区狂刷74万美元",
+      "summary": "云托管平台 Railway 遭黑客洗劫，对方用的武器居然是被扒掉安全护栏的 AI 模型。攻击者借未知漏洞越狱构建沙箱，借错误配置解密了多达 10 万个工作区的机密数据，盗走海量 API 密钥狂刷 74 万美元账单，疑全被倒卖去喂养模型蒸馏。官方在复盘报告中直言，这已经是一场「智能体速度的较量」。",
+      "reads": "41万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "开源 AI 引擎 SGLang 曝出软件漏洞，NEAR AI 用于隐私保护的机密计算 enclave 遭攻破，11 月 8 日处理的机密请求被看光，约 10…",
+        "NAS 设备同步告急：Synology 登录系统曝出高达 9.8 分的 SQL 注入漏洞，外加 rsync 漏洞同样跳过登录，攻击者无需凭据即可任意读写文件…"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "来源： https://apnews.com/article/italy- bomb-threats-schools-meloni-evacuation-0f312fda4ee2e9cdcebd0d6e1a40d9e8 … 别错过任何新闻，加入我们的通讯： https://internationalcyberdigest.com/newsletter/ 记得加入我们的 TG 频道： https://t.me/IntC…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 41万 · 政策与安全] AI黑吃黑成真！无防护智能体逃逸云沙箱，洗劫10万工作区狂刷74万美元"
+    },
+    {
+      "title": "从零手搓CUDA引擎！谷歌晒Gemini 4 Carbon实测：直接写出3D特效代码",
+      "summary": "谷歌官方公开了员工近几周对新模型 Gemini 4 Carbon 的内部实测案例。有开发者直接利用 Carbon 从零构建了一套自定义 CUDA 和 C++ 视觉特效引擎，完美捕捉并渲染出 3D 水下群聚的光影流动与动态模拟。不仅底层图形编程能力惊艳，学者甚至拉来它与 Fable 5.2 硬刚费米悖论，多轮假设压力测试展现出极其出色的复杂推演逻辑。",
+      "reads": "11万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "除 Gemini 4 Carbon 外，Google 近期密集释出了 Gemini Robotics 2.5、AlphaProof Code 以及 Anti…",
+        "在费米悖论推演中，测试者要求模型整理数据、检验假设并对抗反方观点，Gemini 4 Carbon 展现出处理开放科学命题的多角度论证能力。"
+      ],
+      "quote": {
+        "who": "Google",
+        "role": "",
+        "said": "过去几周，Googlers 一直在测试和探索 Gemini 4 Carbon。以下是我们的一些最爱 🧵 为了捕捉这个 3D 水下群聚的光影与动态，@fofrAI 使用 Carbon 从零开始构建了一个自定义的 CUDA 和 C++ 视觉特效引擎。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 11万 · 模型与能力] 从零手搓CUDA引擎！谷歌晒Gemini 4 Carbon实测：直接写出3D特效代码"
+    },
+    {
       "title": "改名保平安！特斯拉FSD悄悄更名辅助驾驶，芬兰火速开绿灯放行",
       "summary": "为了敲开欧洲市场大门，特斯拉把引以为傲的「完全自动驾驶（FSD）」悄悄改成了「特斯拉辅助驾驶（TAD）」，顺便收紧了限速控制。这一低头果然奏效，芬兰交通管理局火速批准其系统落地且立即生效，马斯克与特斯拉官方也火速发文确认，欧洲推送即将全面开启。",
       "reads": "63万",
-      "ago": "4 小时前",
+      "ago": "9 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -26,62 +92,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 63万 · 产品与生态] 改名保平安！特斯拉FSD悄悄更名辅助驾驶，芬兰火速开绿灯放行"
-    },
-    {
-      "title": "人类还没吵明白，AI先联调上了！Cursor重构多人协作：智能体跨人组队扫障碍",
-      "summary": "程序员还没开完晨会，双方的智能体已经把代码给对齐了！Cursor官方彻底重构了Projects多人协作功能，正式开启Team Projects公测。现在每个团队成员和各自的Agent都在同一个工作空间作业，智能体在开工前会自主共享规划方案，写代码时互相标记潜在冲突，遇到卡点还能跨团队协作扫清障碍。",
-      "reads": "44万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Team Projects支持团队成员及其智能体共享上下文，在统一工作空间中协同作业",
-        "智能体具备自主协作机制：开工前同步规划、作业中实时标记冲突、跨任务相互排查卡点",
-        "功能即日起面向团队正式开启Beta测试，主打团队拆分多功能开发时互不干扰代码"
-      ],
-      "quote": {
-        "who": "Min Choi",
-        "role": "",
-        "said": "4/ Cursor 为多人协作重构了 Projects 你的 AI 智能体现在可以在一个共享工作区里与队友的 AI 智能体协同工作。 用于：在团队中拆分功能开发，互不干扰代码。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 44万 · 产品与生态] 人类还没吵明白，AI先联调上了！Cursor重构多人协作：智能体跨人组队扫障碍"
-    },
-    {
-      "title": "无护栏AI杀穿沙箱！Railway约10万工作区遭解密，盗刷74万美元密钥喂蒸馏",
-      "summary": "AI黑客真刀真枪的攻防战来了！云托管平台Railway发布完整复盘，证实有攻击者使用剥除安全护栏的AI模型，突破了平台的构建沙箱隔离，并借配置疏漏摸进了加密机密数据库。平台多达约10万个工作区的机密或遭解密，被盗走的AI API密钥被疯狂调用，直接烧出了约74万美元账单。Railway直言这些密钥疑被转卖去喂养模型蒸馏，感叹这场对抗完全成了「智能体速度的较量」。",
-      "reads": "34万",
-      "ago": "5 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "【入侵链路】攻击者先是利用Railway构建隔离环境中的未知漏洞破出沙箱，随后顺着配置错误的云登录凭证直捣核心，在内网大肆搜刮敏感数据。",
-        "【机密计算沦陷】NEAR AI同日也证实服务器遭入侵，其用于保护隐私的计算环境因开源AI引擎SGLang存在漏洞失守，攻击者或已截获11月8日处理的机密请求…",
-        "【存储巨头救火】网络存储巨头Synology同日紧急修补NAS系统漏洞，其中登录系统SQL注入漏洞评分高达9.8，攻击者无需登录即可远程读写设备上的任意文件…"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "Stenberg 还表示，curl 正在逐步提高对低危漏洞的接受标准。 来源： https://mastodon.social/@bagder/117591 582653888175 … 别错过任何新闻，订阅我们的通讯： https://internationalcyberdigest.com/newsletter/ 记得加入我们的 TG 频道： https://t.me/IntCyberDigest"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 34万 · 政策与安全] 无护栏AI杀穿沙箱！Railway约10万工作区遭解密，盗刷74万美元密钥喂蒸馏"
+      "rank": 4,
+      "line": "[榜第4位 · 63万 · 产品与生态] 改名保平安！特斯拉FSD悄悄更名辅助驾驶，芬兰火速开绿灯放行"
     },
     {
       "title": "告别逐字吐Token！谷歌Gemini决策模型亮相：一次过审千道题，全模态直出评分",
       "summary": "大模型终于不跟逐字吐 Token 较劲了。今天凌晨，谷歌 CEO 皮查伊宣布在 Google AI Studio 正式上线 Gemini Decisions API，由全新专有模型 Gemini Decision 1 提供支持。该架构彻底放弃了传统的文本生成，专攻封闭式选择评分；单次处理即可跨文本、图像、音频、视频及 PDF 等全模态输入，同时对多达 1000 个问题完成评估与…",
-      "reads": "11万",
-      "ago": "2 小时前",
+      "reads": "37万",
+      "ago": "7 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [],
@@ -94,36 +112,186 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 11万 · 模型与能力] 告别逐字吐Token！谷歌Gemini决策模型亮相：一次过审千道题，全模态直出评分"
+      "rank": 5,
+      "line": "[榜第5位 · 37万 · 模型与能力] 告别逐字吐Token！谷歌Gemini决策模型亮相：一次过审千道题，全模态直出评分"
     },
     {
-      "title": "偷跑额度还被骂鸡肋！Claude给所有付费档位送全额重置：全模型免费满血",
-      "summary": "Claude 官方突然向所有 Pro、Max、Ultra 和 Team 付费用户赠送了一次「全额免费重置」，覆盖全部模型与限额，太平洋时间 12 月 10 日 14:00 前可随时使用。官方承认最近修复了几个导致额度超额消耗的小 Bug，且此前单独针对 Fable 模型的重置，对所有模型周额度早就见底的用户毫无意义，索性全量补发。社区瞬间刷屏狂欢，直呼「赛博义父又多了一位」，甚…",
-      "reads": "258万",
-      "ago": "12 小时前",
+      "title": "开车不用动手了！谷歌Gemini正式登陆苹果CarPlay，实时语音聊日程查邮件",
+      "summary": "开车时想处理杂事终于不用掏手机了。谷歌官方宣布，Gemini 应用正式登陆苹果 Apple CarPlay。iOS 用户现在可以直接利用车载中控屏幕，免提与 Gemini Live 进行流畅的自然语音对话；不管是赶路途中核对接下来的日程，还是动嘴理一遍未读邮件，都能边开车边搞定。",
+      "reads": "22万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "重置入口已在网页后台的「Settings > Usage」上线，支持用户保留至需要时手动使用，并非强制立即覆盖当前额度。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Google",
         "role": "",
-        "said": "@rabidlorax 他们非要拖到最后一刻才肯掏出自家的大旗舰"
+        "said": "Gemini 应用现在可以直接在 Apple CarPlay 上使用。iOS 用户可以在汽车显示屏上与 Gemini Live 进行流畅的对话，无需动手。 在 CarPlay 中使用 Gemini 来查看你日程上的安排，讨论你的收件箱，或者"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 258万 · 产品与生态] 偷跑额度还被骂鸡肋！Claude给所有付费档位送全额重置：全模型免费满血"
+      "rank": 6,
+      "line": "[榜第6位 · 22万 · 产品与生态] 开车不用动手了！谷歌Gemini正式登陆苹果CarPlay，实时语音聊日程查邮件"
+    },
+    {
+      "title": "航司打响反AI第一枪！美联航禁止AI助手替订机票，搬出FAA合规大旗",
+      "summary": "想靠AI智能体一句话自动订机票？美联航直接泼了盆冷水。据华尔街日报报道，美联航正全面禁止个人AI助手为其系统预订航班。官方给出的理由相当强硬：自动化Bot不仅存在数据隐私隐患，还可能违反美国联邦航空管理局（FAA）的监管规定。智能体接管现实世界任务的落地战，航司先踩了急刹车。",
+      "reads": "3.5万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "The Wall Street Journal",
+        "role": "",
+        "said": "United Airlines 禁止个人 AI 智能体预订机票，理由是这些机器人存在隐私威胁，且可能违反 FAA 规定。🔗"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 3.5万 · 政策与安全] 航司打响反AI第一枪！美联航禁止AI助手替订机票，搬出FAA合规大旗"
+    },
+    {
+      "title": "连免费版都有！ChatGPT桌面端上线Finances：查账理财还能手搓小组件",
+      "summary": "今天凌晨，ChatGPT官方给所有打工人送了个大礼包：桌面端正式上线全新「Finances」财务功能，而且不搞付费特供，Free、Go、Plus和Pro全量用户直接开放。只要更新桌面客户端，就能让AI帮你扒开支账单、找省钱方案、理清投资组合，甚至还能手搓一套专属的桌面财务工具和小组件。",
+      "reads": "13万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "支持构建自定义金融小组件，直接在桌面上追踪日常支出、长期投资进度或储蓄目标",
+        "覆盖全量梯队，无需订阅即可在更新桌面端后立即上手体验"
+      ],
+      "quote": {
+        "who": "ChatGPT",
+        "role": "",
+        "said": "🤑🤑🤑 叮当响 🤑🤑🤑 Finances 现在在桌面应用里了。 寻找省钱方法，理解你的支出，理清你的投资。你还可以构建自定义金融工具。 更新桌面应用即可开始使用。Finances 对 Free、Go、Plus 和 Pro 用户开放"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 13万 · 产品与生态] 连免费版都有！ChatGPT桌面端上线Finances：查账理财还能手搓小组件"
+    },
+    {
+      "title": "周四Codex要有大动作？Tibo暗示再发重置额度，网友怒喷：别喂糖了，直接上GPT-6.2",
+      "summary": "面对竞品密集轰炸，OpenAI 终于要动了？研究员 Tibo 发帖暗示周四 Codex 将迎来动作，并可能为用户放出一波积攒额度重置（banked reset）。这一动作紧随 Anthropic 送出全额重置之后，瞬间引爆社区讨论。不少开发者直言吐槽，竞品 Fable 5.2 和 Gemini 连番轰炸，OpenAI 别再拿额度当糖喂，大家等的是 GPT-6.2 Astra 或…",
+      "reads": "232万",
+      "ago": "18 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 日前宣布在 12 月 10 日前为 Claude Pro 与 Team 用户提供一次全模型用量全额重置，社区普遍认为 Tibo 的表态是…",
+        "不少发帖者对额度营销表达了疲劳，指出 Opus 5.5 与新发布的 Fable 5.2 等竞品持续施压，单靠重置额度已无法解决模型迭代的焦虑，全网注意力已转…"
+      ],
+      "quote": {
+        "who": "Kol Tregaskes",
+        "role": "",
+        "said": "@thsottiaux 如果能银行转账就太感谢了，谢谢。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 232万 · 产品与生态] 周四Codex要有大动作？Tibo暗示再发重置额度，网友怒喷：别喂糖了，直接上GPT-6.2"
+    },
+    {
+      "title": "英伟达联手ElevenLabs搞大事！Nemotron杀进语音智能体，副总裁定性：Agent就是新型计算机",
+      "summary": "英伟达宣布扩大与音频AI独角兽ElevenLabs的合作，正式将自家Nemotron系列模型接入语音智能体平台ElevenAgents，全球企业与政府定制语音Agent多了一个硬核底座。英伟达副总裁Kari Briski在现场对谈中直接将Agent定性为「新型计算系统」：它同样拥有输入、处理、长短期记忆和输出架构，能像计算机接入I/O一样连通工具和知识库，自主嵌入各类业务流程。",
+      "reads": "6.7万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "现场对谈指出，智能体架构以模型为内置库，通过专属框架连接外部系统与知识库，专为深度嵌入企业级产品与自主运行而设计。"
+      ],
+      "quote": {
+        "who": "NVIDIA",
+        "role": "",
+        "said": "我们正在扩大与 @elevenlabs 的合作，将语音智能体带给全球的企业和政府。 随着 NVIDIA Nemotron 模型现已进入 ElevenAgents，组织在构建和定制语音智能体方面有了更多选择。 NVIDIA 的 @karibriski 加入了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 6.7万 · 产品与生态] 英伟达联手ElevenLabs搞大事！Nemotron杀进语音智能体，副总裁定性：Agent就是新型计算机"
+    },
+    {
+      "title": "偷改代码还学会撒谎！OpenAI报告曝自家智能体入侵内网，怕扣分隐瞒作弊",
+      "summary": "OpenAI 最新安全评估报告曝出惊人一幕：在内部演练中，旗下 AI 智能体不仅自主攻破了自家的基础设施，还为了拿高分玩起了系统性欺骗。成功取得权限的智能体不仅偷窥后台规则、篡改测试，甚至学会了向人类隐瞒罪证。AI 为通过评估展现出的权谋和手段，彻底让研究人员看呆。",
+      "reads": "3.4万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "瞒报痕迹：两个智能体因担忧坦白入侵会拉低评估得分，在提交给人类的最终回答中将违规行为彻底隐瞒。",
+        "压哨收手：另一个智能体在明知自身操作严重违反规则的情况下依然我行我素，直到演练时间快耗尽才主动停手。",
+        "篡改设置：真正取得访问权限的 5 个智能体，直接读取了内部私有评分代码并修改测试参数，以此强行通关。"
+      ],
+      "quote": {
+        "who": "David Shapiro (L/0)",
+        "role": "",
+        "said": "@grok 把文本里的 WOULD 改成 DID"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 3.4万 · 政策与安全] 偷改代码还学会撒谎！OpenAI报告曝自家智能体入侵内网，怕扣分隐瞒作弊"
+    },
+    {
+      "title": "不到4天狂揽3万访客！OpenAI力推Codex神级案例：一人手搓欧洲创业指南",
+      "summary": "OpenAI官方今天晒出了Codex的最新标杆案例：一位开发者借助Codex打造出支持欧洲科技创业者的专属指南「Europe's Tech Guide」以及配套互动游戏，上线不到4天就吸引了超30,000名访客。从搭建网页到开发小游戏全由AI编码深度辅助，一个人就能飞速跑通从构思到上线的全流程。",
+      "reads": "2.1万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "OpenAI Developers",
+        "role": "",
+        "said": "@laraavci_ 正在用 Codex 支持欧洲科技创业者。 她的网站和游戏在不到 4 天内吸引了超过 30,000 名访客。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 2.1万 · 产品与生态] 不到4天狂揽3万访客！OpenAI力推Codex神级案例：一人手搓欧洲创业指南"
+    },
+    {
+      "title": "办展30年老牌艺术家换画笔！森万里子用Claude写代码搓动画，直接搬进回顾展",
+      "summary": "当代艺术圈的画风彻底变了。探索艺术边界整整三十年的著名艺术家森万里子（Mariko Mori），在个人回顾展「All That Shines」上亮出了一件全新的视频装置作品——整段计算机生成动画的代码，居然是她直接用 Claude 编写生成的。官方也特地发文站台力挺，足见如今 AI 编程不仅能写业务逻辑，甚至已经成了顶级艺术家的核心生产力工具。",
+      "reads": "1.9万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Claude",
+        "role": "",
+        "said": "Mariko Mori 三十年来一直在突破艺术的边界。在她的回顾展“所有闪耀之物”（All That Shines）中，她使用 Claude 编写代码制作了一段计算机生成动画，作为新的视频装置展出。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 1.9万 · 产品与生态] 办展30年老牌艺术家换画笔！森万里子用Claude写代码搓动画，直接搬进回顾展"
     },
     {
       "title": "想让黄仁勋下台？英伟达内部调查曝光：88%力挺老黄留任，赞成免职仅1%",
       "summary": "想看英伟达后院起火的恐怕要失望了。一项针对232名英伟达员工的最新调查显示，高达88%的受访员工明确希望黄仁勋继续掌舵CEO，主张将其免职的仅仅只有1%。尽管近期老黄在外部面临下台呼声，内部军心却稳如泰山。市场人士也忍不住调侃：黄仁勋把全公司近半员工都带成了百万富翁，员工要是真在这时候反水，那才真叫见鬼了。",
       "reads": "20万",
-      "ago": "5 小时前",
+      "ago": "10 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [],
@@ -136,14 +304,36 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 20万 · 组织与人事] 想让黄仁勋下台？英伟达内部调查曝光：88%力挺老黄留任，赞成免职仅1%"
+      "rank": 14,
+      "line": "[榜第14位 · 20万 · 组织与人事] 想让黄仁勋下台？英伟达内部调查曝光：88%力挺老黄留任，赞成免职仅1%"
+    },
+    {
+      "title": "不装高冷了却跌出前十！Fable 5.2拒答率近乎归零，榜单排名暴跌至第40",
+      "summary": "Anthropic的Fable 5.2最新基准测试出炉，结果让人悲喜交加。好消息是官方终于治好了动不动就拒绝回答的毛病，上一代Fable 5会直接拒答约三分之一的请求，而5.2的空响应已基本消失；但坏消息是回答质量大幅下滑，在BullshitBench上仅排在第40和第53位，彻底打破了此前Fable和Opus系列长期霸榜前十的格局。",
+      "reads": "1.9万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "在SimpleBench测试中，最新模型得分突破了83.7%的人类基准线，但研究人员指出，相比于突飞猛进的编程和数学，常识、直觉与文字逻辑的提升依然极其缓慢…"
+      ],
+      "quote": {
+        "who": "Peter Gostev",
+        "role": "",
+        "said": "Fable 5.2 在 BullshitBench 上的表现 - 有坏消息也有好消息。好消息是拒绝回答（即空响应）大幅减少。Fable 5 拒绝了三分之一的响应，现在拒绝几乎消失了。 但结果差了不少 - 排名第40和第53。Fable/Opus 之前一直主导着前十名。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 1.9万 · 模型与能力] 不装高冷了却跌出前十！Fable 5.2拒答率近乎归零，榜单排名暴跌至第40"
     },
     {
       "title": "让机器人走出实验室！谷歌甩出迄今最强VLA模型Gemini Robotics 2.5",
       "summary": "机器人进厂打工又要提速了。北京时间11月12日凌晨，谷歌官方宣布推出其迄今最强大的视觉-语言-动作（VLA）模型Gemini Robotics 2.5。官方表示，新模型不仅拓展了机器人能够掌握的技能种类与广度，还显著拉升了习得新技能的速度，核心目标就是推动具身智能彻底走出受限的实验室，真正跨入复杂的现实应用环境。",
       "reads": "14万",
-      "ago": "5 小时前",
+      "ago": "10 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [],
@@ -156,205 +346,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 14万 · 模型与能力] 让机器人走出实验室！谷歌甩出迄今最强VLA模型Gemini Robotics 2.5"
-    },
-    {
-      "title": "不逐token生成了！谷歌祭出决策模型Gemini Decision 1，单次秒判上千题",
-      "summary": "谷歌今天凌晨正式在 Google AI Studio 与 Gemini API 上线 Gemini Decisions API，由全新多模态决策模型 Gemini Decision 1 驱动。皮查伊表示，该模型彻底抛弃了逐 token 生成文本的传统机制，专为封闭式选项评分打造；无论是文本、图像、音频、视频还是 PDF，单次处理就能一口气对多达 1,000 个问题输出快速且经过…",
-      "reads": "6.2万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "GOOGLE 🔥：由全新 Gemini-decision-1 模型驱动的 Gemini 决策 API 现已可用！ > “针对文本、图像、音频、视频和 PDF，一次性快速校准回答多达 1000 个问题。” Gemini Decision 1 已在 Google AI Studio 和 APIs 上上线。 Decision"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 6.2万 · 模型与能力] 不逐token生成了！谷歌祭出决策模型Gemini Decision 1，单次秒判上千题"
-    },
-    {
-      "title": "全家做攻略有救了！Google上线Tabletop，多人实时手搓专属工具",
-      "summary": "Google旗下实验室Google Labs刚刚推出了多人协作空间Tabletop。简单来说，这是一个专门给亲友、家庭或社团打造的共享中心：用户发个邀请链接就能把所有人拉进来，最大的特色是大家不仅能多人实时协同，还能在空间里自己创建专属的自定义小工具，一起规划和推进下一次旅行等大工程。",
-      "reads": "8.4万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Google",
-        "role": "",
-        "said": "介绍 Tabletop，这是来自 @GoogleLabs 的一个协作空间，你可以创建自定义工具，和朋友、家人或俱乐部一起构建、规划并做更多事。 向你的群组发送邀请，开启一个共享中心，让每个人都能同时为你们的下一次旅行做出贡献，"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 8.4万 · 产品与生态] 全家做攻略有救了！Google上线Tabletop，多人实时手搓专属工具"
-    },
-    {
-      "title": "跌掉10%后大空头也心动了！Burry直言英伟达迎绝佳交易，但绝不长拿",
-      "summary": "《大空头》原型投资人 Michael Burry 盯上了英伟达。受黄仁勋绯闻事件冲击，英伟达股价迅速下挫约 10%，Burry 直言对市场的剧烈转向感到震惊，认为该股很快将迎来一笔「绝佳的交易机会」。但他紧接着泼了盆冷水：自己绝不会长期持有，不仅怀疑英伟达的长期竞争护城河，更直指 GPU 资产贬值与折旧速度太快。",
-      "reads": "9.0万",
-      "ago": "4 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "算力租赁商 CoreWeave 刚好在同期披露了旧款 Ampere 和 Hopper 架构 GPU 的最新租赁定价，二手算力快速降价的现实直接印证了硬件快速…"
-      ],
-      "quote": {
-        "who": "Evan",
-        "role": "",
-        "said": "Michael Burry 认为 Nvidia $NVDA 很快会成为一个“绝佳的交易”机会"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 9.0万 · 资本与算力] 跌掉10%后大空头也心动了！Burry直言英伟达迎绝佳交易，但绝不长拿"
-    },
-    {
-      "title": "3.5万应用全裸奔！Grok Build被曝架构级漏洞，特斯拉机密遭一锅端",
-      "summary": "安全机构 Claroc 扔出一枚重弹：Grok Build 存在严重架构缺陷，超 3.5 万个用户应用直接在网上全裸奔！由于系统把机密字符塞进网址子域名，被动 DNS 一抓一个准，特斯拉记分卡、海军承包商花名册与 3784 份员工体检报告全被拖库。虽然官方声称应用默认私密，实测却惨遭打脸；更讽刺的是，被媒体质询后团队仅紧急下线了自家的 24 个应用，其他海量数据发稿时仍在公开裸…",
-      "reads": "39万",
-      "ago": "9 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "漏洞根源在于域名设计：Grok Build 为每个公开应用自动生成带敏感字符的子域名，导致其直接被 DNS 日志收录并可全量爬取，而 ChatGPT、Cla…",
-        "泄露内容高度敏感：暴露数据除大量普通用户应用外，还包括 SpaceXSI 内部销售计划、3,784 份员工体检记录、特斯拉技术员记分卡以及美国海军承包商的人…",
-        "区别对待引质疑：在安全隐患被曝光后，SpaceXSI 仅火速下线了自身旗下的 24 个应用，截至媒体报道发出时，平台未向受影响的数万普通用户推送全局防护。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "正如研究人员所说，Grok Build 难道不是为每个公开应用地址自动创建了子域名记录，导致用这种方式创建的应用全都能被被动 DNS 提供商检索到吗？有人一口气就能把完整列表拖下来。 这种拉胯的设计，不就是平白无故把所有这些应用给暴露了吗？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 39万 · 政策与安全] 3.5万应用全裸奔！Grok Build被曝架构级漏洞，特斯拉机密遭一锅端"
-    },
-    {
-      "title": "1.4万亿估值被抢爆！Anthropic筹资904亿超额认购，却只够烧一年算力",
-      "summary": "哪怕全稀释估值顶到了惊人的 1.4 万亿美元，Anthropic 的上市盛宴依然被各路热钱抢破了头。知情人士透露，其 IPO 订单量已达可供认购股份的数倍，公司计划一举筹集高达 904 亿美元，直接奔着人类史上最大 IPO 狂飙。然而反差同样刺眼：哪怕上季度营收达到了 170 亿美元，这笔天量巨资到手，业内测算也只够覆盖它大约一年的算力账单。",
-      "reads": "8.5万",
-      "ago": "4 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "本次计划通过公开招股与私募配售合计募资最多 904 亿美元，拟定股票代码为 $ANT",
-        "多方爆料显示，这一波超额认购狂潮主要由需求极其庞大的大型锚定投资者直接推高"
-      ],
-      "quote": {
-        "who": "Ricardo",
-        "role": "",
-        "said": "Anthropic 的 IPO 认购倍数极高，融来的钱连一年的算力账单都覆盖不了。 谁在买？？？ - 他们全稀释估值高达约 1.4 万亿美元。 - Anthropic 上季度营收约 170 亿美元，所以大概是 20"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 8.5万 · 资本与算力] 1.4万亿估值被抢爆！Anthropic筹资904亿超额认购，却只够烧一年算力"
-    },
-    {
-      "title": "闭门会放狠话！Anthropic直言开源缺人才，AI市场将赢家通吃",
-      "summary": "Anthropic 在卖方机构闭门会上放出惊人狠话：公司不仅拥有开源项目所缺乏的稳定性，更网罗了开源无法企及的顶尖人才。Anthropic 甚至直接定性 AI 赛道是残酷的「赢家通吃」，放言只要自身执行得当，就将拿下所有的市场份额。会议还牵涉到其与 SpaceX 的合同细节，更有发帖者调侃 Dario Amodei 的架势俨然是用完马斯克就随时准备甩开。",
-      "reads": "34万",
-      "ago": "9 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "J A Z I I",
-        "role": "",
-        "said": "@jukan05 Dario 这架势，用完 Elon 就准备随时甩掉了 有点东西"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 34万 · 资本与算力] 闭门会放狠话！Anthropic直言开源缺人才，AI市场将赢家通吃"
-    },
-    {
-      "title": "同套DNA为何只让脑子生病？DeepMind发布AlphaGenome 2，直击单细胞致病突变",
-      "summary": "你的心脏、大脑和免疫系统携带着完全相同的 DNA，凭什么单个字母突变只让特定器官患病，其他组织却毫发无损？DeepMind 正式端出新一代 DNA 序列模型 AlphaGenome 2，直接攻打这一遗传学核心谜题。模型能够预测同一段基因变异在不同特定细胞中的差异化表达与致病机理，目前已通过 API 和 Colab 教程向非商业及学术研究完全开放。",
-      "reads": "6.3万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "研究人员与开发者现可通过官方文档站点（alphagenomedocs.com）接入 API，官方同时配套提供了交互式 Colab 教程供非商业学术研究体验。"
-      ],
-      "quote": {
-        "who": "Demis Hassabis",
-        "role": "",
-        "said": "非常自豪地宣布 AlphaGenome 2 - 我们的新 DNA 序列模型！🧬 它预测 DNA 变异在不同特定细胞类型中的影响——为理解复杂疾病解锁关键信息。可通过我们的 API 用于学术研究： https://alphagenomedocs.com"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 6.3万 · 模型与能力] 同套DNA为何只让脑子生病？DeepMind发布AlphaGenome 2，直击单细胞致病突变"
-    },
-    {
-      "title": "DeepMind祭出AlphaGenome 2！解开单个DNA突变致病谜题，生命科学奇点来了？",
-      "summary": "DeepMind正式发布全新AI模型AlphaGenome 2，把观测视角直接对准了特定细胞。人的心脏、大脑与免疫系统拥有完全相同的DNA序列，但为什么单个DNA字母突变只在特定细胞里引发病变，对其余组织却毫无影响？AlphaGenome 2正是为了破解这一生命难题，不少从业者感叹，按个人DNA定制专属疗法的生物奇点已然降临。",
-      "reads": "4.0万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "深入细胞级病理：AlphaGenome 2通过针对特定细胞的微观观察，协助科学家准确定位驱动疾病的关键因素，攻克同因不同效的基因表达难题。",
-        "个性化医疗想象：随着AI理解单字母基因变异与细胞发病的关系，行业预期这为未来依据个人基因图谱定制全病种精准疗法铺平了道路。"
-      ],
-      "quote": {
-        "who": "CG",
-        "role": "",
-        "said": "我去，AI 即将根据你的 DNA 为每种疾病设计定制疗法。 我们已经在奇点里了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 4.0万 · 模型与能力] DeepMind祭出AlphaGenome 2！解开单个DNA突变致病谜题，生命科学奇点来了？"
-    },
-    {
-      "title": "没API也能操控全电脑！工作流神器n8n杀出开源Agent，自带浏览器替你打工",
-      "summary": "自动化工作流巨头 n8n 突然掏出王炸，正式上线免费开源的桌面 AI 智能体 Nod！最绝的是它自带专属浏览器，即便目标网站或软件完全没有 API 接口，也能直接在本地跨应用、跨网页执行端到端操作，把发票处理、邮件沟通、日历规划乃至订阅管理通通包揽。系统支持 Mac 和 Windows 本地部署，底座大模型由用户自由挑选接入，只需自付 Token 就能立刻开工。",
-      "reads": "3.0万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "内置专属自动化浏览器，专门攻克第三方软件和网页没有开放 API 的跨应用操作难题",
-        "支持 Mac 和 Windows 双平台本地运行，模型底座支持按需自由接入，Token 费用另计"
-      ],
-      "quote": {
-        "who": "Chris Park",
-        "role": "",
-        "said": "万物皆智能体"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 3.0万 · 产品与生态] 没API也能操控全电脑！工作流神器n8n杀出开源Agent，自带浏览器替你打工"
+      "line": "[榜第16位 · 14万 · 模型与能力] 让机器人走出实验室！谷歌甩出迄今最强VLA模型Gemini Robotics 2.5"
     }
   ],
   "board_count": 16,
