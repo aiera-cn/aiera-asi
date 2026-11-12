@@ -3,10 +3,46 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-12 10:53:22 +0800",
+  "fetched_at": "2026-11-12 18:55:55 +0800",
   "today": "11/12",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
+    {
+      "time": "14:56",
+      "date": "11/12",
+      "title": "Coding agent写测试集体失败！AI代码合格率被高估一倍",
+      "summary": "Coding Agent写代码的能力越来越强，写测试的能力也在同步提升。从为函数补单元测试、为GitHub Issue编写复现用例，到为整个代码仓库构建回归测试，Codex…",
+      "source": "新智元",
+      "id": "tg71766f",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg71766f&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/12 14:56] Coding agent写测试集体失败！AI代码合格率被高估一倍 · https://www.aiera.com.cn/asi-item.html?id=tg71766f&from=yuanyuan"
+    },
+    {
+      "time": "14:44",
+      "date": "11/12",
+      "title": "谷歌发布首个决策模型！输出全免费，百万Token低至0.1美元",
+      "summary": "等了半天，Gemini 4 Hydrogen没来。昨晚谷歌端上来的，是多模态决策模型Gemini Decision 1。劈柴宣布：今天，谷歌正式上线Gemini…",
+      "source": "新智元",
+      "id": "tgb0db0b",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgb0db0b&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/12 14:44] 谷歌发布首个决策模型！输出全免费，百万Token低至0.1美元 · https://www.aiera.com.cn/asi-item.html?id=tgb0db0b&from=yuanyuan"
+    },
+    {
+      "time": "12:39",
+      "date": "11/12",
+      "title": "250名三甲医生输给中国AI！引发中美医疗权威热议",
+      "summary": "上个月，微软在《科学》杂志上甩出一篇论文：自家AI诊断系统诊断正确率83%，对照组的全科医生只有36%。微软AI CEO苏莱曼直言：这是通往「医疗超级智能」的一步。热闹还没散…",
+      "source": "新智元",
+      "id": "tg159479",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg159479&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/12 12:39] 250名三甲医生输给中国AI！引发中美医疗权威热议 · https://www.aiera.com.cn/asi-item.html?id=tg159479&from=yuanyuan"
+    },
     {
       "time": "10:35",
       "date": "11/12",
@@ -66,6 +102,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgeac9de&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/11 19:05] 突发，Anthropic大清洗：Claude最严封号潮来了！11月12日全面生效 · https://www.aiera.com.cn/asi-item.html?id=tgeac9de&from=yuanyuan"
+    },
+    {
+      "time": "08:28",
+      "date": "11/12",
+      "title": "不到10年治愈癌症阿尔茨海默，Anthropic CEO豪言引来公开质疑",
+      "summary": "Anthropic CEO Dario Amodei 抛出了一份非常激进的医学时间表。据 Kalshi 转述，他在一段视频里说，癌症、阿尔茨海默病、心脏病和精神疾病，不到…",
+      "source": "@Kalshi / @drrichjlaw / @GaryMarcus",
+      "id": "e32f1d86",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=e32f1d86&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/12 08:28] 不到10年治愈癌症阿尔茨海默，Anthropic CEO豪言引来公开质疑 · https://www.aiera.com.cn/asi-item.html?id=e32f1d86&from=yuanyuan"
     },
     {
       "time": "06:36",
@@ -642,44 +690,8 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tge929e2&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/08 18:34] AI亲手改写Transformer架构！DeepSeek自我改造暴涨7分 · https://www.aiera.com.cn/asi-item.html?id=tge929e2&from=yuanyuan"
-    },
-    {
-      "time": "18:32",
-      "date": "11/08",
-      "title": "NeurIPS'26 | 只干预10个维度，给智能体穿上安全机甲，准确率超97%",
-      "summary": "AI agent开始接管终端之后，安全问题也进入了执行现场。当智能体能够读取文件、编写脚本、运行命令，并根据系统反馈持续调整下一步操作…",
-      "source": "新智元",
-      "id": "tg4b36f9",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg4b36f9&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/08 18:32] NeurIPS'26 | 只干预10个维度，给智能体穿上安全机甲，准确率超97% · https://www.aiera.com.cn/asi-item.html?id=tg4b36f9&from=yuanyuan"
-    },
-    {
-      "time": "18:31",
-      "date": "11/08",
-      "title": "只让Claude改页码！芝大教授吃顿午饭，一年的讲义没了",
-      "summary": "把小事交给AI可能赔上全年心血",
-      "source": "新智元",
-      "id": "tg3ae7c1",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg3ae7c1&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/08 18:31] 只让Claude改页码！芝大教授吃顿午饭，一年的讲义没了 · https://www.aiera.com.cn/asi-item.html?id=tg3ae7c1&from=yuanyuan"
-    },
-    {
-      "time": "13:44",
-      "date": "11/08",
-      "title": "九成代码AI写，谁来审？Claude Code亮出6道关卡！",
-      "summary": "Claude Code约90%的自身代码，已经交给Claude编写。写代码的换成了AI，改动数量也跟着暴涨：6月到9月，合并进代码库的PR数量，翻了一倍多。…",
-      "source": "新智元",
-      "id": "tgdbeb48",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgdbeb48&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/08 13:44] 九成代码AI写，谁来审？Claude Code亮出6道关卡！ · https://www.aiera.com.cn/asi-item.html?id=tgdbeb48&from=yuanyuan"
     }
   ],
-  "feed_count": 56,
-  "feed_total": 56
+  "feed_count": 57,
+  "feed_total": 57
 }
