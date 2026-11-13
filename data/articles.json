@@ -1,9 +1,75 @@
 {
   "ok": true,
   "source": "新智元 ASI 启示录(深度稿)",
-  "fetched_at": "2026-11-13 02:50:20 +0800",
+  "fetched_at": "2026-11-13 08:11:43 +0800",
   "today": "11/13",
   "articles": [
+    {
+      "id": 123651,
+      "date": "2026/11/13",
+      "time": "08:06",
+      "year": "2026",
+      "title": "前OpenAI研究员改口：超级AI研究员可能明年就来！",
+      "summary": "我们的时间表提前了！ 11月11日，前OpenAI研究员Daniel Kokotajlo在X上转发团队的新预测时说，「我感到恐惧、悲伤和愤怒」。",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=123651&from=yuanyuan",
+      "line": "[2026/11/13 08:06] 前OpenAI研究员改口：超级AI研究员可能明年就来！ · https://www.aiera.com.cn/asi-post.html?id=123651&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 123638,
+      "date": "2026/11/13",
+      "time": "08:05",
+      "year": "2026",
+      "title": "谷歌发布首个决策模型！输出全免费，百万Token低至0.1美元",
+      "summary": "等了半天，Gemini 4 Hydrogen没来。 昨晚谷歌端上来的，是多模态决策模型Gemini Decision 1。",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=123638&from=yuanyuan",
+      "line": "[2026/11/13 08:05] 谷歌发布首个决策模型！输出全免费，百万Token低至0.1美元 · https://www.aiera.com.cn/asi-post.html?id=123638&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 123621,
+      "date": "2026/11/13",
+      "time": "08:04",
+      "year": "2026",
+      "title": "Coding agent写测试集体失败！AI代码合格率被高估一倍",
+      "summary": "Coding Agent写代码的能力越来越强，写测试的能力也在同步提升。从为函数补单元测试、为GitHub Issue编写复现用例，到为整个代码仓库构建回归测试，Codex、C…",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=123621&from=yuanyuan",
+      "line": "[2026/11/13 08:04] Coding agent写测试集体失败！AI代码合格率被高估一倍 · https://www.aiera.com.cn/asi-post.html?id=123621&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 123606,
+      "date": "2026/11/13",
+      "time": "08:03",
+      "year": "2026",
+      "title": "250名三甲医生输给中国AI！引发中美医疗权威热议",
+      "summary": "上个月，微软在《科学》杂志上甩出一篇论文：自家AI诊断系统诊断正确率83%，对照组的全科医生只有36%。",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=123606&from=yuanyuan",
+      "line": "[2026/11/13 08:03] 250名三甲医生输给中国AI！引发中美医疗权威热议 · https://www.aiera.com.cn/asi-post.html?id=123606&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 123596,
+      "date": "2026/11/13",
+      "time": "08:01",
+      "year": "2026",
+      "title": "诺奖得主Hassabis再交神作！AlphaGenome 2破译人类98%基因「暗物质」",
+      "summary": "DeepMind深夜又甩出王炸了！ 就在刚刚，诺奖得主哈萨比斯亲自挂帅，带领谷歌DeepMind正式发布新一代DNA基础模型AlphaGenome 2。",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=123596&from=yuanyuan",
+      "line": "[2026/11/13 08:01] 诺奖得主Hassabis再交神作！AlphaGenome 2破译人类98%基因「暗物质」 · https://www.aiera.com.cn/asi-post.html?id=123596&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 123577,
+      "date": "2026/11/13",
+      "time": "08:00",
+      "year": "2026",
+      "title": "百度押中AI下一幕！百万智能体组团上岗，AI科学家昼夜狂奔",
+      "summary": "这几天，AI科研的进度，快得让人有点坐不住！ Fable 5.2派出1000个智能体组队，只用30小时，就把费马大定理完整地形式化了一遍。",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=123577&from=yuanyuan",
+      "line": "[2026/11/13 08:00] 百度押中AI下一幕！百万智能体组团上岗，AI科学家昼夜狂奔 · https://www.aiera.com.cn/asi-post.html?id=123577&from=yuanyuan",
+      "title_hit": false
+    },
     {
       "id": 123560,
       "date": "2026/11/12",
@@ -156,72 +222,6 @@
       "summary": "毫无预警，Anthropic深夜丢出了下一代旗舰Fable 5.2，直接杀入了物理世界。 它的全方位性能碾压Opus 5.5，更是展现出了惊人的泛化能力——哪怕是没见过的新任务…",
       "url": "https://www.aiera.com.cn/asi-post.html?id=123352&from=yuanyuan",
       "line": "[2026/11/11 08:04] Fable 5.2睁眼拼魔方，中国AI闭眼搓麻将！人类「手感」首次Token化 · https://www.aiera.com.cn/asi-post.html?id=123352&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 123324,
-      "date": "2026/11/11",
-      "time": "08:03",
-      "year": "2026",
-      "title": "1500万美元！OpenAI联手Anthropic，请数学家给AI「验卷」",
-      "summary": "10月6日，OpenAI一口气公开了722篇由内部AI模型生成的数学手稿。 仅过一天，其中3篇就被宣布撤回。",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=123324&from=yuanyuan",
-      "line": "[2026/11/11 08:03] 1500万美元！OpenAI联手Anthropic，请数学家给AI「验卷」 · https://www.aiera.com.cn/asi-post.html?id=123324&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 123309,
-      "date": "2026/11/11",
-      "time": "08:02",
-      "year": "2026",
-      "title": "突发！「源神」 MiniMax 开源H3 Image，最强开源模型中国造",
-      "summary": "OpenAI 在11月4日刚上线的 Images 2.6 才过了几天，已有人喊出： GPT is cooked.",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=123309&from=yuanyuan",
-      "line": "[2026/11/11 08:02] 突发！「源神」 MiniMax 开源H3 Image，最强开源模型中国造 · https://www.aiera.com.cn/asi-post.html?id=123309&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 123276,
-      "date": "2026/11/11",
-      "time": "08:00",
-      "year": "2026",
-      "title": "Anthropic正式启动IPO路演，估值腰斩仍破万亿！",
-      "summary": "刚刚，Anthropic正式启动IPO路演！ 这次，他们拟发行 8.25 亿股，预期发行价每股 70.00 至 78.00 美元。",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=123276&from=yuanyuan",
-      "line": "[2026/11/11 08:00] Anthropic正式启动IPO路演，估值腰斩仍破万亿！ · https://www.aiera.com.cn/asi-post.html?id=123276&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 123262,
-      "date": "2026/11/10",
-      "time": "17:04",
-      "year": "2026",
-      "title": "影像纪录，消费级具身智能新场景？机器人与智能影像的跨界，妙动科技Beni全球现货开售",
-      "summary": "2026年11月10日，消费级机器人公司妙动科技宣布，旗下多地形跟拍机器人Beni正式开启全球现货发售，标准套装售价4999元，探索套装售价5799元，国内用户可通过京东商城购…",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=123262&from=yuanyuan",
-      "line": "[2026/11/10 17:04] 影像纪录，消费级具身智能新场景？机器人与智能影像的跨界，妙动科技Beni全球现货开售 · https://www.aiera.com.cn/asi-post.html?id=123262&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 123255,
-      "date": "2026/11/10",
-      "time": "10:45",
-      "year": "2026",
-      "title": "蚂蚁灵波开源触觉基础模型，让机器人“手感”跨硬件、跨模型、跨任务复用",
-      "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch，为机器人大脑补齐关键的触觉感知能力。该模型基于近5000小时真实触觉数据预训练，覆盖磁触觉、视触觉和压阻式…",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=123255&from=yuanyuan",
-      "line": "[2026/11/10 10:45] 蚂蚁灵波开源触觉基础模型，让机器人“手感”跨硬件、跨模型、跨任务复用 · https://www.aiera.com.cn/asi-post.html?id=123255&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 123242,
-      "date": "2026/11/10",
-      "time": "08:09",
-      "year": "2026",
-      "title": "OpenAI、Anthropic接连出手！中国黑马把实验室变成AI「进化训练场」",
-      "summary": "今年2月，OpenAI干了件挺轰动的事： 把GPT-5接进Ginkgo Bioworks的云实验室。AI设计实验，机器人执行，结果回传，AI再设计下一轮。",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=123242&from=yuanyuan",
-      "line": "[2026/11/10 08:09] OpenAI、Anthropic接连出手！中国黑马把实验室变成AI「进化训练场」 · https://www.aiera.com.cn/asi-post.html?id=123242&from=yuanyuan",
       "title_hit": false
     }
   ],
