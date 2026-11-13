@@ -3,228 +3,85 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-14 00:11:33 +0800",
+  "fetched_at": "2026-11-14 06:31:42 +0800",
   "today": "11/14",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "头部两强被反超！Codex和Claude Code没搞定的云端负载，Grok Bot做到了",
-      "summary": "Claude 宕机让开发者抓狂，转头一试 Grok Bot 却发现了惊喜。知名技术博主测试后直言，Codex 和 Claude Code 至今都没搞明白怎么在云端机器上运行工作负载，居然被 Grok Bot 率先超车搞定了。不仅如此，马斯克当天还宣布 Mac 版 Grok Bot 正式打通备忘录、日历等 7 款苹果原生应用，两大头部实验室这波实实在在被 xAI 甩在了身后。",
-      "reads": "65万",
+      "title": "打工人的会议搭子来了！马斯克连推Grok Bot：能入会派活记决策，文档里直接画图",
+      "summary": "马斯克今天凌晨连发两条推特，亲自下场为 Grok Bot 疯狂站台。官方披露的一系列新能力直接切入核心办公场景：它现在不仅能直接「进会」旁听，现场回答提问、认领团队派活并记录决议；还能常驻官方技术文档，答疑时附带引用链接甚至画出任务运行示意图。加上被热传的自动化「第二大脑」，全能工作搭子这次真来抢活了。",
+      "reads": "118万",
       "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "有开发者吐槽称，绝对不能只买单一家 AI 订阅，各家服务的稳定性都一言难尽，这也是倒逼大家随时切备用模型的硬伤。",
-        "除了在云端工作负载上力压两强，还有网友实测反馈，Grok Bot 在日常特定任务处理的表现上也已经反超了 Muse。"
+        "参会与协作：用户可将 Grok Bot 接入团队会议，在会中向其提问、分配具体工作任务，并由其自动追踪记录团队敲定的决议。",
+        "文档交互与绘图：官方技术文档已内嵌 Grok Bot，不仅能基于文档内容作答并附上参考页面链接，还能直接绘制任务运行的示意图。",
+        "知识库构建：支持通过提示词将用户阅读、观看与思考的信息，自动沉淀整理为自我组织的个人知识库。"
       ],
       "quote": {
-        "who": "Morgan",
+        "who": "Elon Musk",
         "role": "",
-        "said": "在终端里用 Claude Code？？兄弟，你得切换到桌面应用，它现在是史上最强！！ 而且我之前用 Muse 做的所有任务，我发现 Grok Bot 做得更好。我觉得 Muse 在模型方面还得追赶一下。"
+        "said": "今天试试 Grok @Bot！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 65万 · 产品与生态] 头部两强被反超！Codex和Claude Code没搞定的云端负载，Grok Bot做到了"
+      "line": "[榜第1位 · 118万 · 产品与生态] 打工人的会议搭子来了！马斯克连推Grok Bot：能入会派活记决策，文档里直接画图"
     },
     {
-      "title": "「铁腕」管事多年！名嘴Cramer力挺英伟达临时CEO：她是眼下最需要的人",
-      "summary": "黄仁勋交棒后，英伟达临时 CEO Colette Kress 迎来华尔街重磅力挺。财经名嘴 Jim Cramer 公开盛赞，称 Colette 一直以「铁腕」治理事务，正是英伟达眼下绝对需要的人选。他透露，多年来除了老黄，Colette 一直是其在英伟达的核心对接人并主导财报会议，作风极硬，完全能挑起大梁。",
-      "reads": "30万",
-      "ago": "59 分钟前",
-      "category": "组织与人事",
+      "title": "真敢让AI替你花钱？Grok Bot被曝测试自动下单：单笔5000美元免密代付",
+      "summary": "马斯克要把支付密码也交给 AI 了。非官方测试预览显示，Grok Bot 正在测试自动购买审批功能，用户可设定单笔 50 至 5,000 美元的支出限额，额度内无需逐笔确认即可自主下单；与此同时，订餐厅选座也被做成了一键托管。再加上马斯克确认 Mac 版已全面打通邮件、备忘录、日历与通讯录等系统级应用，Agent 替人类管电脑、顺便自主刷卡的闭环正被迅速补齐。",
+      "reads": "66万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Jim Cramer 透露，多年来除黄仁勋本人之外，Colette Kress 一直是他了解英伟达的最主要联络人，长期负责主导财报电话会议。",
-        "面对黄仁勋卸任引发的管理层震荡，Cramer 直言 Colette 以「铁腕」管事的强硬作风，正是英伟达眼下最需要的定海神针。"
+        "测试预览显示，Grok Bot 在推荐场所时能直接分析合适的前往时间，用户点击卡片顶部的「Reserve」按钮就能把整个预订流程全权交给机器人处理。",
+        "生态端同步起量，第三方导航 GrokBot.Rocks 社区机器人总数已突破 10,000 个，上线仅 3 天的构建者平台认领人数逼近 1,000 名。"
       ],
       "quote": {
-        "who": "Ravid Shwartz Ziv",
+        "who": "Brian Roemmele",
         "role": "",
-        "said": "微软的事故更新，翻译如下： “我们把服务器重新打开了。只要没人用就运行得很好。” Copilot：“你说得完全正确，让我撤销我的更改。” Copilot：“修好了！服务器现在拒绝所有流量。”"
+        "said": "轰！ 短短 3 天内，近 1000 名 Grok Bot 构建者已在 https://Builder.GrokBot.Rocks! 认领了他们的构建者页面！ 谢谢！ 他们向数十个非 X 网站分享了数百次，带来了数百个新的机器人安装量！ 我看到 Grok Bot 构建者需要一个作品集页面的需求"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 30万 · 组织与人事] 「铁腕」管事多年！名嘴Cramer力挺英伟达临时CEO：她是眼下最需要的人"
+      "line": "[榜第2位 · 66万 · 产品与生态] 真敢让AI替你花钱？Grok Bot被曝测试自动下单：单笔5000美元免密代付"
     },
     {
-      "title": "打工人狂喜！微软遭遇史上最惨宕机超16小时，Teams与Copilot全瘫痪",
-      "summary": "全球打工人今天被迫「带薪休假」。周四美东时间下午1点起，Microsoft 365爆发史诗级全球故障，Outlook、Teams连带AI助手Copilot全线瘫痪，故障一路拉长超过16小时，成为微软历史上最严重的中断事故之一。对此有人甚至狂喜发帖庆祝不用开会了；微软则紧急辟谣称并非遭遇网络攻击，而是多地服务器意外下线，受此影响其盘前股价一度大跌3%。",
-      "reads": "17万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
+      "title": "皮查伊交卷！谷歌连续4天狂暴上新：第8代TPU压阵，Gemini 4双雄齐发",
+      "summary": "Sundar Pichai 亲自晒出谷歌本周的「狂暴更新清单」，周一到周四每天都在砸重磅，密集程度让人直呼喘不过气。周一先甩出两款第 8 代 TPU 稳住算力底座，周二和周四接连端出 Gemini 4 Carbon 与 Gemini 4 Hydrogen 顶尖模型，期间还顺手掏出疾病研究利器 AlphaGenome 2 和机器人模型 Gemini Robotics 2.5，直接…",
+      "reads": "12万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "事故排除了外部网络攻击，微软初步将原因归咎于多区域基础设施负载异常飙升，导致服务器意外下线。",
-        "受大面积宕机冲击，微软（$MSFT）盘前跌幅一度触及3%，随后跌幅维持在2.2%左右。"
+        "钱包权限严格受限：针对用户担忧的资产安全，谷歌官方声明若在工具中连接 Wallet，Gemini 仅具备只读权限，无法转移、管理或投资用户资金。",
+        "开发套件与评测同步落地：本周更新还涵盖经 AlphaProof Code 验证的 Signal 协议、AI Studio 中的 Gemini Decisio…"
       ],
       "quote": {
-        "who": "Wall St Engine",
+        "who": "Sundar Pichai",
         "role": "",
-        "said": "$MSFT -2.2% Microsoft 的全球 Microsoft 365 故障已持续超过 16 小时，Outlook、Teams 和 Copilot 自周四美东时间下午 1 点左右起处于宕机或不稳定状态，使其成为该公司历史上最严重的中断事件之一。"
+        "said": "本周我们发布了什么 @google 周一：两款新的第 8 代 TPU 周二：Gemini 4 Carbon - AlphaProof Code 验证的 Signal 协议 - Gemini Robotics 2.5 周三：用于疾病研究的 AlphaGenome 2 - AI Studio 中的 Gemini Decisions API 周四：Gemini 4 Hydrogen - 智能"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 17万 · 产品与生态] 打工人狂喜！微软遭遇史上最惨宕机超16小时，Teams与Copilot全瘫痪"
+      "line": "[榜第3位 · 12万 · 模型与能力] 皮查伊交卷！谷歌连续4天狂暴上新：第8代TPU压阵，Gemini 4双雄齐发"
     },
     {
-      "title": "打工人的天塌了！微软全球大崩溃进入第2天，连Claude也突然宕机",
-      "summary": "微软全球技术大崩溃进入第二天，Outlook、Teams全面瘫痪，企业、学校和医院被大范围波及。祸不单行，不少打工人指望用来干活的Claude也紧跟着发生重大故障，短时间内超3800名用户报告掉线。尽管Microsoft 365目前已开始逐步恢复，但两大主力工具轮番趴窝，直接给全球打工人放了个猝不及防的「赛博假」。",
-      "reads": "5.9万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "MIT Technology Review",
-        "role": "",
-        "said": "另外：Microsoft 的一次重大故障已导致全球服务中断。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 5.9万 · 产品与生态] 打工人的天塌了！微软全球大崩溃进入第2天，连Claude也突然宕机"
-    },
-    {
-      "title": "英伟达换人我就不投了！亿万股东硬核力挺老黄，散户排队跟评",
-      "summary": "英伟达亿万富豪股东 Leo KoGuan 公开立下铁律：如果不是黄仁勋掌舵，自己绝不会再向英伟达多投一分钱。消息一出，多位 NVDA 股东和投资人纷纷在社交平台排队跟帖支持，直言只认老黄。对这家站在 AI 算力巅峰的万亿巨头来说，老黄本人的皮衣与掌控力，已然成了资本市场最硬的一颗定心丸。",
-      "reads": "9.8万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Dan McAteer",
-        "role": "",
-        "said": "作为 NVDA 股东，我支持这个。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 9.8万 · 资本与算力] 英伟达换人我就不投了！亿万股东硬核力挺老黄，散户排队跟评"
-    },
-    {
-      "title": "开会不用自己记了！Claude Meetings杀进视频通话，边聊边实时搭白板",
-      "summary": "Anthropic今天凌晨正式上线Claude Meetings，直接把Claude塞进了团队视频通话。最爽的是参会者只管在镜头前嘴瓢讨论，Claude就能在后台同步把文档、白板和各类Artifacts实时搭出来，还支持当场做笔记、随问随答。该功能目前已面向Team和Enterprise订阅用户开启Beta测试，支持作为可见参会者直接加入Google Meet。",
-      "reads": "438万",
-      "ago": "18 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Ruben",
-        "role": "",
-        "said": "突发：Anthropic 刚发布了 Claude Meetings 把 Claude 加进 Google Meet 会议，作为一个可见的参与者，它会在你说话的同时和你一起生成文档、白板和其他内容 它还能做笔记和回答问题 目前正在 Team 版上开始测试"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 438万 · 产品与生态] 开会不用自己记了！Claude Meetings杀进视频通话，边聊边实时搭白板"
-    },
-    {
-      "title": "全球打工人天塌了！微软全线大宕机，Copilot和Teams集体趴窝",
-      "summary": "全球打工人的办公软件集体瘫痪了！Microsoft 365突发大规模全球宕机，Outlook、Teams、OneDrive、SharePoint以及Copilot全军覆没，数万名用户无法收发邮件和协同办公。微软官方随后证实多个区域系统负载过重，目前正紧急重启服务器并重新路由网络流量以恢复服务。",
-      "reads": "19万",
+      "title": "服务器拉起就挂！微软全球大宕机超12小时，连自家员工都断邮了",
+      "summary": "微软全球大宕机持续超过12小时，不仅Outlook.com和全网M365彻底瘫痪，连微软自家人都收发不了邮件。尽管官方频繁通报，但团队至今没查清为什么服务器一重新上线就暴毙。目前推测是重启遭遇了「惊群效应」，海量积压请求瞬间冲垮节点，再加上未查明的底层Bug，让整个恢复过程陷入死循环。截至13日深夜，故障仍在蔓延。",
+      "reads": "52万",
       "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "除办公全家桶外，部分地区用户还报告 Steam 与 AWS 服务也同步出现异常波动。"
-      ],
-      "quote": {
-        "who": "Kalshi",
-        "role": "",
-        "said": "突发：Microsoft 365 和 Outlook 对数千名美国用户宕机"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 19万 · 产品与生态] 全球打工人天塌了！微软全线大宕机，Copilot和Teams集体趴窝"
-    },
-    {
-      "title": "人人都能用！谷歌连夜上线Gemini 4 Hydrogen普及版，搜索API全开放",
-      "summary": "让每个人都用上 Gemini 4！谷歌 AI 负责人 Logan Kilpatrick 突袭发布极速且强大的新模型 Gemini 4 Hydrogen，全面打穿使用门槛。新模型不仅直接通配谷歌搜索、Gemini App、企业版以及 Google AI Studio 和 API 全层级，就连 Antigravity 平台上的 Google AI Pro 和 Ultra 付费订阅用…",
-      "reads": "21万",
-      "ago": "9 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Logan Kilpatrick 随后补充确认，Gemini App 内的 Ultra 订阅用户目前也已支持体验该模型。"
-      ],
-      "quote": {
-        "who": "Logan Kilpatrick",
-        "role": "",
-        "said": "Gemini app 里的 ultra 订阅用户可用！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 21万 · 模型与能力] 人人都能用！谷歌连夜上线Gemini 4 Hydrogen普及版，搜索API全开放"
-    },
-    {
-      "title": "SpaceX狂掷740亿美元建AI超算！电量直逼6座核电站，连电厂都要自己造",
-      "summary": "据路透社等媒体报道，SpaceX 正式官宣了一项总额高达 740 亿美元的超级计算投资计划，一口气横跨两州。其中 500 亿美元砸在亚利桑那州科奇斯县，打造满负荷达 6GW 的 AI 超算园区，用电规模相当于六座大型核电站；另外 240 亿美元则直接落在得州 Starbase，用来建超算设施及配套的燃气发电厂。造火箭的公司下场死磕算力，连能源瓶颈都打算自己解决了。",
-      "reads": "5.2万",
-      "ago": "5 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "0xMarioNawfal",
-        "role": "",
-        "said": "SpaceX 正把 740 亿美元砸在 AI 超级计算机上。 它刚刚正式官宣： •⁠ ⁠500 亿美元用于在亚利桑那州科奇斯县建设一个 6 吉瓦的 AI 园区 •⁠ ⁠240 亿美元用于在得克萨斯州 Starbase 建设一个超算站点 •⁠ ⁠6 吉瓦大约相当于六座大型核"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 5.2万 · 资本与算力] SpaceX狂掷740亿美元建AI超算！电量直逼6座核电站，连电厂都要自己造"
-    },
-    {
-      "title": "IPO压力扛不住了？传Astra推迟发布跳级改名6.5，携Sol大幅超越Fable 5.2",
-      "summary": "有爆料称，备受瞩目的新旗舰 Astra 发布已被推迟。推迟原因源于内部对模型能力的担忧，同时在 IPO 的现实压力下，团队决定直接跳过一个版本，将其正式命名为「6.5」。不过，Astra 与另一款主力模型 Sol 据称都将很快上线，且实测能力相比 Fable 5.2 均有巨大飞跃。",
-      "reads": "1.8万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "🍓🍓🍓",
-        "role": "",
-        "said": "由于对模型能力的担忧，astra 模型的发布被推迟了，他们现在将把该模型命名为 6.5 sol 和 astra 都将上线，且两者相比 fable 5.2 都有巨大飞跃 由于 IPO 压力，它们跳过了一个版本。模型 5 的时代到了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 1.8万 · 模型与能力] IPO压力扛不住了？传Astra推迟发布跳级改名6.5，携Sol大幅超越Fable 5.2"
-    },
-    {
-      "title": "Microsoft 365、Teams全线瘫痪！微软遭遇重大全球宕机，整整一天仍未修复",
-      "summary": "微软突发重大全球大宕机，旗下的 Microsoft 365、Outlook 和 Teams 等核心协同办公套件遭遇严重持续故障。这一波全球大范围瘫痪迅速打乱了无数打工人的节奏，而截至最新反馈，该故障至今仍未完全修复，全球协同办公依然处于大面积瘫痪之中。",
-      "reads": "9735",
-      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
@@ -237,118 +94,261 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 9735 · 产品与生态] Microsoft 365、Teams全线瘫痪！微软遭遇重大全球宕机，整整一天仍未修复"
+      "rank": 4,
+      "line": "[榜第4位 · 52万 · 产品与生态] 服务器拉起就挂！微软全球大宕机超12小时，连自家员工都断邮了"
     },
     {
-      "title": "一个桌面全网AI轮着用！Simular发布Box，ChatGPT与Claude接力干活",
-      "summary": "AI 之间居然也能无缝换班了！Simular 上线了一款专供 ChatGPT、Claude、DeepSeek 等大模型共享的云端电脑「Box」。不同智能体可以在同一个虚拟桌面里共享浏览器标签页、文件和登录态，上一只 Agent 开个头，下一只就能无缝接力干完，人类还能实时围观或随时接管。其计算机使用智能体在 OSWorld 基准测试中直接拿下了 80.6% 的高分。",
-      "reads": "1.6万",
-      "ago": "2 小时前",
+      "title": "钱包真交给AI了！OpenAI推ChatGPT Wallet：Dots代你下单，卡号不泄露",
+      "summary": "11月14日凌晨，OpenAI宣布上线ChatGPT Wallet，正式让常驻智能体dots接管代付。该功能目前已面向美国Pro订阅用户开放，dot在获得用户批准后可独立代为完成购买。官方强调，智能体在整个支付流程中完全无需访问用户的真实卡号，且每笔交易均需经过安全检查。还没等来GPT-6.2，OpenAI倒先让AI替人类花钱了。",
+      "reads": "21万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "Pro Dots 现在就在美国 👀"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 21万 · 产品与生态] 钱包真交给AI了！OpenAI推ChatGPT Wallet：Dots代你下单，卡号不泄露"
+    },
+    {
+      "title": "谷歌Gemini伸手管钱包了！官方打通Wallet应用，你的票据账单全能问",
+      "summary": "谷歌官方宣布，Gemini的「个人智能」今天正式打通Google Wallet。现在Gemini应用已将Google钱包加入已连接应用名单，能安全读取用户现有的卡券与个人事务信息，让回答更贴身、更有针对性。以后查票据、翻订单不用再切应用，让AI翻翻钱包就行。",
+      "reads": "17万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Google",
+        "role": "",
+        "said": "Gemini 中的个人智能功能安全地连接你已在使用的应用程序信息，以提供更个性化和有帮助的体验。今天，我们将 Google Wallet 添加到已连接应用列表中，以便你在 @GeminiApp 中围绕个人事务获得更贴切的回复"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 17万 · 产品与生态] 谷歌Gemini伸手管钱包了！官方打通Wallet应用，你的票据账单全能问"
+    },
+    {
+      "title": "英伟达CEO接班提上日程！董事会正挑选猎头物色人选，称猜测为时过早",
+      "summary": "关于谁将接掌英伟达的讨论引发市场震动。英伟达董事会向 CNBC 明确表示，公司目前正处于挑选猎头公司来物色下任 CEO 人选的极早期阶段，尚未与任何潜在候选人进行正式接洽。董事会同时强调，外界目前围绕接任者人选的种种猜测纯属捕风捉影，现在谈论接班为时过早。",
+      "reads": "3.4万",
+      "ago": "1 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Techmeme",
+        "role": "",
+        "said": "Nvidia 董事会表示，他们“正在选择一家猎头公司”来寻找 CEO 人选，并且“尚未正式接触任何潜在候选人”（CNBC） （访问 Techmeme dot com 获取链接和完整背景！）"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 3.4万 · 组织与人事] 英伟达CEO接班提上日程！董事会正挑选猎头物色人选，称猜测为时过早"
+    },
+    {
+      "title": "模型到底能不能上线？Anthropic直接公开10条安全评估家底",
+      "summary": "大模型到底能不能上线部署、该加什么防护网，全看这套测试怎么跑。Anthropic今天在工程博客一口气公开了10条安全评估实战建议，手把手拆解如何设计、运行和产出报告。除了把关模型上线资格，这套准则还将直接决定后续模型训练和安全研究往哪儿使劲。",
+      "reads": "5.9万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Anthropic",
+        "role": "",
+        "said": "安全评估对于理解模型是否准备好部署、需要构建哪些保障措施以及在哪里集中训练和研究至关重要。 在我们的工程博客上，我们提供了10条关于如何设计、运行和报告这些评估的建议。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 5.9万 · 政策与安全] 模型到底能不能上线？Anthropic直接公开10条安全评估家底"
+    },
+    {
+      "title": "断网小恐龙进3D时代！谷歌用Gemini 4重制跑酷：AI自己绑骨骼写代码，连滑铲都有",
+      "summary": "Chrome 那个断网时陪你跳仙人掌的 2D 像素小恐龙，被谷歌彻底爆改了。在 Antigravity 开发环境里，Gemini 4 Carbon 从 Nano Banana 生成的平面草图起步，直接在 Blender 里自动搞定 3D 模型与骨骼绑定，还一口气敲出了可玩的第三人称沙漠峡谷跑酷游戏，连动力滑铲动作都给配齐了。从平面出图到建模、写玩法全链路跑通，打工恐龙这次真进化…",
+      "reads": "13万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Google",
+        "role": "",
+        "said": "我们在 @Antigravity 里用 Gemini 4 Carbon 给 Chrome 的离线恐龙搞了个全 3D 峡谷冒险 🦖 从 Nano Banana 画的平面角色图开始，Carbon 在 Blender 里绑定了 3D 模型，还写了一个可玩的第三人称沙漠跑酷游戏，连滑铲都有"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 13万 · 模型与能力] 断网小恐龙进3D时代！谷歌用Gemini 4重制跑酷：AI自己绑骨骼写代码，连滑铲都有"
+    },
+    {
+      "title": "首批AI安卓木马现形！Zimperium截获78个样本，已悄悄潜伏4个月",
+      "summary": "AI 武器化杀入移动端的实锤来了！网络安全机构 Zimperium 披露已捕获 78 个名为 ArcticRAT 的安卓远控木马样本，其中首批直接利用 AI 技术的恶意变种，早在 2026 年 7 月中旬就已悄然现身并潜伏至今。大模型不再只是辅助生成钓鱼邮件，而是真正成了端侧木马的底层动力。",
+      "reads": "5.0万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
       "bullets": [
-        "产品愿景方面，官方表示目前全球有 20 亿台 PC 摆在人类桌上，而未来的下一十亿台电脑将由智能体驱动、完全自主运行。",
-        "开源与体验方面，Perplexity 首席执行官 Aravind Srinivas 表示相关服务已支持在 OpenRouter 上免费体验。"
+        "硬件级攻破 A100：技术博客披露利用电压故障注入（Voltage Glitching）技术，成功实现对英伟达 A100 GPU 的物理破解与功能解锁。",
+        "币安 63 亿美元盗窃案定性：FBI 正式将 10 月 29 日的大规模加密资产盗窃案归咎于朝鲜黑客组织 TraderTraitor，币安目前已全额垫付被盗…",
+        "微软邮件超时延至 48 小时：为解决后台消息严重积压问题，微软将邮件超时判定放宽至 48 小时，避免延迟消息在此期间被系统批量退信。",
+        "金融巨头数据裸奔被诉：最新诉讼指控 Vanguard 在数据泄露事件中存在严重安全过失，甚至完全未对用户的社保号码（SSN）进行加密或脱敏打码。"
       ],
       "quote": {
-        "who": "Chetaslua",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "先用 midjourney 生成图片做参考，让它用 js 复刻出来，然后开始循环直到看起来是你想要的样子 < 顺便说下，我用的是留言板，每个 AI 智能体可以互相交流并复用彼此的工作成果来提高 Token 效率 >"
+        "said": "来源： https://biz.heraldcorp.com/article/10934814 … 别错过任何新闻，订阅我们的通讯： https://internationalcyberdigest.com/newsletter/ 记得加入我们的 TG 频道： https://t.me/IntCyberDigest"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 5.0万 · 政策与安全] 首批AI安卓木马现形！Zimperium截获78个样本，已悄悄潜伏4个月"
+    },
+    {
+      "title": "藏在一行小字里！Anthropic官宣已向SEC递交招股书，摩根大通CEO亲自站台",
+      "summary": "Anthropic官方刚发了一条直播预告，要让CEO Dario Amodei和摩根大通一把手Jamie Dimon同台夜聊。结果眼尖的网友全盯上了推文底下那行不起眼的法律声明——官方直接写明，已就相关发行向SEC提交了包含招股说明书的注册声明。这波华尔街顶流亲自站台加实锤递表，AI圈首个超级IPO真的进入倒计时了。",
+      "reads": "11万",
+      "ago": "5 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "推文法律免责声明直接披露：Anthropic已向美国证券交易委员会（SEC）提交包含招股说明书（prospectus）的注册声明，本次高管对谈与该发行直接相…"
+      ],
+      "quote": {
+        "who": "Anthropic",
+        "role": "",
+        "said": "美东时间中午 12 点直播：与 JPMorgan CEO Jamie Dimon 和 @DarioAmodei 的炉边谈话。 https://youtube.com/live/YHEaEpeY3ew … 法律免责声明：Anthropic 已向 SEC 提交注册声明（包括招股说明书），涉及本次沟通相关的发行。在"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 11万 · 资本与算力] 藏在一行小字里！Anthropic官宣已向SEC递交招股书，摩根大通CEO亲自站台"
+    },
+    {
+      "title": "Gemini 4定价把全网整懵了！次旗舰仅打75折，双旗舰12月还要暴涨翻倍",
+      "summary": "谷歌 Gemini 4 的定价和命名逻辑把开发者彻底整懵了。实测表现缩水的 Hydrogen 仅比高阶版便宜 25%，而当前价格相同的 Argon 与 Carbon，更被曝出将在 12 月 1 日直接翻倍涨价。面对全网困惑，业内人士直接给出了「Carbon > Argon > Hydrogen」的战力排行，学者也忍不住调侃现在的模型命名宛如玄学。",
+      "reads": "1.7万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "开发者实测发现，仅便宜 25% 的 Hydrogen 在绘制海鸥等任务上的能力明显更差",
+        "面对层级疑惑，Logan Kilpatrick 公开确认整体能力为 Carbon > Argon > Hydrogen，但强调 Hydrogen 实际表现依…",
+        "Ethan Mollick 调侃各家代号混乱，把跨厂商对标比作绕口令：Hydrogen 堪比 Sonnet，Fable 则对标 Astra 与 Carbon"
+      ],
+      "quote": {
+        "who": "Ethan Mollick",
+        "role": "",
+        "said": "“你看，叫 hydrogen 的模型等同于叫 sonnet、luna 和 spark 的模型，但叫 fable 的模型就像 wonder、astra 和 carbon（但它像 argon）” “等等，你为什么看起来这么困惑？”"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 1.6万 · 产品与生态] 一个桌面全网AI轮着用！Simular发布Box，ChatGPT与Claude接力干活"
+      "line": "[榜第12位 · 1.7万 · 模型与能力] Gemini 4定价把全网整懵了！次旗舰仅打75折，双旗舰12月还要暴涨翻倍"
     },
     {
-      "title": "官宣还没影，GPT-6.2 Astra已被国内中继站提前偷跑开卖了！",
-      "summary": "官方还没动静，新模型已经被扒了个底朝天。有爆料称，早在11月11日，gpt-6.2-astra、gpt-6.2-sol 和 6.2 terra 就已现身 Azure 密钥，国内中继站甚至在发布前两天就抢先偷跑售卖，调用日志全被抓包。社区催更早已沸腾，连谷歌发新模型都被抢了风头；但也有人泼冷水：OpenAI 拖得太久，就算这代能赢 Fable 5.2，Anthropic 候场的下…",
-      "reads": "1.3万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "title": "人在飞机没网也能开会？Grok Bot直接替你出席，边听边记还能接活儿",
+      "summary": "连上飞机断网都不能阻止你「开会」了！Grok Bot 现已正式支持加入会议，团队成员可以随时向它提问、派发工作，或者让它全程盯紧决策。研究员甚至支了一招：就算你即将登机且没有 Starlink，也能甩给 Grok Bot 让它代表你出席记笔记；而且让智能体自己下场听会，还是帮它收集上下文、越用越聪明的绝佳途径，直接对它开口就能启用。",
+      "reads": "1.5万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Azure密钥现身三大代号：11月11日的日志中出现了 gpt-6.2-astra、gpt-6.2-sol 以及 6.2 terra，相关中继日志记录到了带…",
-        "谷歌发布日被反客为主：在 Gemini 4 Hydrogen 正式上线当天，社区讨论焦点却几乎被全网催更 GPT-6.2 Astra 和 Sol 完全盖过。",
-        "节奏过慢引来担忧：有爆料声音指出，即便 GPT-6.2 最终能击败 Fable 5.2 和 Opus 5.5，Anthropic 准备中的 Fable 5.…"
+        "业内探讨同时指出，任何人都可以在周末搓出一个 Agent，但真正的智能体落地价值远在模型之外，必须依靠系统连接、权限分配和人工介入等基础设施支撑。"
       ],
       "quote": {
-        "who": "Chetaslua",
+        "who": "Alex Prompter",
         "role": "",
-        "said": "👀 传闻：GPT-6.2 Astra 和 Sol 两天前就已经在中国的中继站上线了，比 OpenAI 正式发布还早 11月11日：gpt-6.2-astra / gpt-6.2-sol（还有 6.2 terra）出现在 Azure 密钥中，中继站在几小时内就开始售卖它们，中继日志显示带有 \"GPT\" 标签的 /v1/responses 调用"
+        "said": "这是对 agentic 实现的绝佳见解"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 1.3万 · 模型与能力] 官宣还没影，GPT-6.2 Astra已被国内中继站提前偷跑开卖了！"
+      "line": "[榜第13位 · 1.5万 · 产品与生态] 人在飞机没网也能开会？Grok Bot直接替你出席，边听边记还能接活儿"
     },
     {
-      "title": "Mac用户的Siri尴尬了！Grok一个聊天框，直接打通7款苹果原生应用",
-      "summary": "Siri还在画饼，马斯克的Grok已经直接进驻Mac系统干活了！最新Mac版Grok Bot实现了系统级集成，用户守着单一聊天窗口，就能直接调动Messages、Mail、Notes、Reminders、Calendar、Location和Contacts共7款Apple原生应用。从翻看并起草邮件、读写短信，到随手建便签、调日程全都能办，桌面级Agent终于省去了反复切窗口的麻…",
-      "reads": "3.9万",
-      "ago": "5 小时前",
+      "title": "算力硬堆到头了！Sakana AI掌门人押注模型编排，首款手机App正在路上",
+      "summary": "巨头们疯狂砸算力堆大模型的狂飙期还能撑多久？Sakana AI联合创始人兼CEO David Ha直接泼了盆冷水，断言AI的未来不在盲目死磕算力，而在于「模型编排」。不仅如此，这家以模型融合技术闻名的明星初创团队还透露，目前正悄悄打造自家的第一款移动应用，打算让普通人直接在手机上体验多个模型无缝协调协作。",
+      "reads": "3.4万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "覆盖7款核心原生应用：深度集成信息、邮件、备忘录、提醒事项、日历、通讯录与位置服务。",
-        "单窗口全流程闭环：无需唤起对应软件，在聊天界面输入指令即可直接触发短信收发、邮件检索起草及任务日程创建。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "0xMarioNawfal",
+        "who": "codila",
         "role": "",
-        "said": "Grok 现在可以在你的 Mac 上读短信、发邮件和管理日历。 Mac 上的 Grok Bot 现在支持 7 个 Apple 应用： •⁠ ⁠Messages：读取和发送短信 •⁠ ⁠Mail •⁠ ⁠Notes •⁠ ⁠Reminders •⁠ ⁠Calendar •⁠ ⁠Contacts •⁠ ⁠Location 示例：“找到那个"
+        "said": "全世界所有该死的无审查 AI 模型 $0 使用费。任何电脑/手机。不需要 GPU： https://0xcodila.com/uncensored-ai/ 以后别忘了我。然后读下面这篇文章看看怎么用它们："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 3.9万 · 产品与生态] Mac用户的Siri尴尬了！Grok一个聊天框，直接打通7款苹果原生应用"
+      "line": "[榜第14位 · 3.4万 · 产品与生态] 算力硬堆到头了！Sakana AI掌门人押注模型编排，首款手机App正在路上"
     },
     {
-      "title": "马斯克公开喊话想挖黄仁勋！英伟达确认老黄不留任，入局SpaceX概率飙到9%",
-      "summary": "英伟达正式表态黄仁勋未来将不再担任公司任何角色，马斯克随即公开喊话「非常想让他加入」。这番隔空招揽瞬间引爆预测市场，Polymarket 上老黄加入新公司的赔率应声狂飙，盘面数据显示他今年内入职 SpaceX、与马斯克正式联手的概率直接冲到了 9%。两位硅谷狂人如果真在太空赛道合体，算力格局怕是要彻底变天。",
-      "reads": "17万",
-      "ago": "11 小时前",
-      "category": "组织与人事",
+      "title": "英伟达GR00T 2开放权重！教一台全家都会，机器人技能直接跨本体迁移",
+      "summary": "教机器人干活最折磨人的，就是换一台硬件所有动作都要从头学一遍。英伟达今天凌晨正式放出开放权重机器人模型 GR00T 2，直接终结这种低效消耗。它不仅能看懂人类演示快速上手，还能自主预测自身动作对物理世界产生的影响；最绝的是技能支持跨本体迁移，只要教会一台机器人，其他形态的躯体就能直接继承，再也不用逐台重复教学。",
+      "reads": "1.5万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "unusual_whales",
+        "who": "0xMarioNawfal",
         "role": "",
-        "said": "Jensen Huang 加入新公司的赔率在 Polymarket 上正在攀升。 你可以看到，当 Elon Musk 说他想让 Huang 加入时，赔率飙升了。 目前， $NVDA 表示 Huang 在未来将不担任任何角色。"
+        "said": "突发：NVIDIA 发布了 GR00T 2，一个能从人类演示中学习技能的机器人模型。 这些技能可以跨不同机器人本体迁移，所以你不用从零开始教每个机器人。 教一个机器人，所有机器人都懂。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 17万 · 组织与人事] 马斯克公开喊话想挖黄仁勋！英伟达确认老黄不留任，入局SpaceX概率飙到9%"
+      "line": "[榜第15位 · 1.5万 · 模型与能力] 英伟达GR00T 2开放权重！教一台全家都会，机器人技能直接跨本体迁移"
     },
     {
-      "title": "DeepMind气象底牌全交了！WeatherNext 3核心数据集开源，卫星降雨全公开",
-      "summary": "准确的天气预报，核心在于能否实时看清地球大气。今晚，Google DeepMind 正式放出 WeatherNext 3 背后的两大基石数据集——PARDIG 与 SatWeave，把关键的卫星观测与降雨数据全盘开放。DeepMind 这一波旨在帮全球研究人员与开发者直接构建新一代气候应用，进一步加速 AI 天气预报与气候科学研究。",
-      "reads": "1.2万",
-      "ago": "2 小时前",
+      "title": "做网站做视频测AI！YC押注DesignArena，专门给大模型审美打分",
+      "summary": "YC正式公开S25期孵化项目Intelligence，要啃下AI最难量化的基准测试硬骨头。其首款产品DesignArena让用户直接调用各家前沿大模型去搭网站、生成图像和制作视频，再将这批真实的创作交互转化成评测数据。相比满天飞的刷题榜单，大模型在创意实战中的成色终于要有硬核排位了。",
+      "reads": "3.9万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Google DeepMind",
+        "who": "Y Combinator",
         "role": "",
-        "said": "精准的天气预报始于我们能在多大程度上实时清晰地观测大气。🌍 这就是为什么我们要发布 PARDIG 和 SatWeave——WeatherNext 3 背后的基础数据集——以帮助研究人员和开发者构建新的气候应用 🧵"
+        "said": "Intelligence (S25) 正在为 AI 中最难衡量的部分构建基准测试。他们的第一款产品 @DesignArena ，让人们使用前沿模型构建网站、图像、视频和其他创意作品，然后将这些真实世界的交互转化为数据，帮助"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 1.2万 · 产品与生态] DeepMind气象底牌全交了！WeatherNext 3核心数据集开源，卫星降雨全公开"
+      "line": "[榜第16位 · 3.9万 · 产品与生态] 做网站做视频测AI！YC押注DesignArena，专门给大模型审美打分"
     }
   ],
   "board_count": 16,

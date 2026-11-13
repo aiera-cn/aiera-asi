@@ -3,10 +3,22 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-14 00:11:33 +0800",
+  "fetched_at": "2026-11-14 06:31:42 +0800",
   "today": "11/14",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
+    {
+      "time": "00:33",
+      "date": "11/14",
+      "title": "刚刚，DeepSeek全家桶API正式开放！你也能造一个DeepSeek了",
+      "summary": "就在大周五晚上，DeepSeek又搞事情了！DeepSeek正式开放全家桶应用 API！～以前，你在 DeepSeek App 和网页端用得最顺手的一大串功能…",
+      "source": "新智元",
+      "id": "tg3672e0",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg3672e0&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/14 00:33] 刚刚，DeepSeek全家桶API正式开放！你也能造一个DeepSeek了 · https://www.aiera.com.cn/asi-item.html?id=tg3672e0&from=yuanyuan"
+    },
     {
       "time": "19:32",
       "date": "11/13",
@@ -92,16 +104,16 @@
       "line": "[11/13 09:59] 数学界震动！Claude一口气写下19万行源码，揪出13年前证明错误 · https://www.aiera.com.cn/asi-item.html?id=tg4c7074&from=yuanyuan"
     },
     {
-      "time": "00:08",
-      "date": "11/13",
-      "title": "英伟达，从此再无CEO黄仁勋！",
-      "summary": "2026年11月11日，穿黑色皮衣的人走下了他一手创建的GPU舞台。就在刚刚，英伟达官网突然发布重磅公告——黄仁勋正式辞去总裁、首席执行官和董事会成员全部职务，即刻生效！同日…",
-      "source": "新智元",
-      "id": "tg1d0ed9",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg1d0ed9&from=yuanyuan",
+      "time": "00:12",
+      "date": "11/14",
+      "title": "断网小恐龙进3D时代！谷歌Gemini 4重制跑酷，连滑铲动作都写出来了",
+      "summary": "Chrome 断网时蹦出来的那只像素小恐龙，被谷歌搬进了 3D 峡谷。谷歌官方账号发推说，这次重制用的是 Gemini 4 Carbon，在 Antigravity 里完成…",
+      "source": "@Google",
+      "id": "9f275e22",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=9f275e22&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/13 00:08] 英伟达，从此再无CEO黄仁勋！ · https://www.aiera.com.cn/asi-item.html?id=tg1d0ed9&from=yuanyuan"
+      "line": "[11/14 00:12] 断网小恐龙进3D时代！谷歌Gemini 4重制跑酷，连滑铲动作都写出来了 · https://www.aiera.com.cn/asi-item.html?id=9f275e22&from=yuanyuan"
     },
     {
       "time": "04:50",
@@ -150,6 +162,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=f83679e1&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/13 01:22] 反超Perplexity！千次调用4美元，智能体搜索第一易主了 · https://www.aiera.com.cn/asi-item.html?id=f83679e1&from=yuanyuan"
+    },
+    {
+      "time": "00:08",
+      "date": "11/13",
+      "title": "英伟达，从此再无CEO黄仁勋！",
+      "summary": "2026年11月11日，穿黑色皮衣的人走下了他一手创建的GPU舞台。就在刚刚，英伟达官网突然发布重磅公告——黄仁勋正式辞去总裁、首席执行官和董事会成员全部职务，即刻生效！同日…",
+      "source": "新智元",
+      "id": "tg1d0ed9",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg1d0ed9&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/13 00:08] 英伟达，从此再无CEO黄仁勋！ · https://www.aiera.com.cn/asi-item.html?id=tg1d0ed9&from=yuanyuan"
     },
     {
       "time": "19:55",
@@ -344,18 +368,6 @@
       "line": "[11/11 19:05] 突发，Anthropic大清洗：Claude最严封号潮来了！11月12日全面生效 · https://www.aiera.com.cn/asi-item.html?id=tgeac9de&from=yuanyuan"
     },
     {
-      "time": "12:08",
-      "date": "11/11",
-      "title": "30个测试块反转26个，大模型的道德价值观全靠平均数硬凑",
-      "summary": "大模型做道德测试能拿高分，可只要把两个选项调换一下顺序，它的答案就跟着变。一篇新论文里一共 30 个测试块，换了选项顺序以后，有 26 个的排序当场反转。 研究人员测了 5…",
-      "source": "@rohanpaul_ai",
-      "id": "ccd147e2",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=ccd147e2&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/11 12:08] 30个测试块反转26个，大模型的道德价值观全靠平均数硬凑 · https://www.aiera.com.cn/asi-item.html?id=ccd147e2&from=yuanyuan"
-    },
-    {
       "time": "10:33",
       "date": "11/11",
       "title": "第一个抱着狗的机器人是怎么聊天的？",
@@ -380,18 +392,6 @@
       "line": "[11/11 10:19] AMD X 火山引擎第六代 EPYC 云实例，为云上多元工作负载带来新能力 · https://www.aiera.com.cn/asi-item.html?id=tg31ba52&from=yuanyuan"
     },
     {
-      "time": "07:26",
-      "date": "11/11",
-      "title": "3美分跑完几百步网页操作，Alexandr Wang新模型打平GPT-6 Luna",
-      "summary": "几百步的网页任务，Muse Ember 单次成本只要 3 美分，成绩打平 GPT-6 Luna medium。Browser Use 把 Alexandr Wang…",
-      "source": "@browser_use",
-      "id": "5111d7ad",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=5111d7ad&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/11 07:26] 3美分跑完几百步网页操作，Alexandr Wang新模型打平GPT-6 Luna · https://www.aiera.com.cn/asi-item.html?id=5111d7ad&from=yuanyuan"
-    },
-    {
       "time": "06:49",
       "date": "11/11",
       "title": "谷歌最强AI「碳」全球解禁！再现人类首次登月",
@@ -402,138 +402,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tgbba4b1&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/11 06:49] 谷歌最强AI「碳」全球解禁！再现人类首次登月 · https://www.aiera.com.cn/asi-item.html?id=tgbba4b1&from=yuanyuan"
-    },
-    {
-      "time": "06:15",
-      "date": "11/11",
-      "title": "一行命令摇来一群AI！谷歌上线/swarm，智能体自己在留言板开会干活",
-      "summary": "谷歌给 Antigravity 加了一条新指令 /swarm。敲一行命令，就能叫来一群智能体分头干活。 Google Antigravity 官方介绍，/swarm…",
-      "source": "@antigravity / @_mohansolo",
-      "id": "8e778427",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=8e778427&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/11 06:15] 一行命令摇来一群AI！谷歌上线/swarm，智能体自己在留言板开会干活 · https://www.aiera.com.cn/asi-item.html?id=8e778427&from=yuanyuan"
-    },
-    {
-      "time": "06:07",
-      "date": "11/11",
-      "title": "OpenAI官宣两款旧版语音退役时间，ChatGPT全面转向GPT-Live",
-      "summary": "ChatGPT 的两款老语音定下了退场时间。OpenAI 宣布，2026 年 12 月 11 日起停用 ChatGPT Voice 里的 Advanced 和…",
-      "source": "@OpenAINewsroom",
-      "id": "0028d69e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=0028d69e&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/11 06:07] OpenAI官宣两款旧版语音退役时间，ChatGPT全面转向GPT-Live · https://www.aiera.com.cn/asi-item.html?id=0028d69e&from=yuanyuan"
-    },
-    {
-      "time": "05:23",
-      "date": "11/11",
-      "title": "OpenAI单季狂揽100亿美元，还是跑不过Anthropic的近170亿",
-      "summary": "OpenAI 第三季度收入 100 亿美元。可同一个季度，Anthropic 拿到了接近 170 亿。 据 The Information 独家报道，OpenAI 这 100…",
-      "source": "@theinformation / @amir",
-      "id": "68d4b3e7",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=68d4b3e7&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/11 05:23] OpenAI单季狂揽100亿美元，还是跑不过Anthropic的近170亿 · https://www.aiera.com.cn/asi-item.html?id=68d4b3e7&from=yuanyuan"
-    },
-    {
-      "time": "04:53",
-      "date": "11/11",
-      "title": "349亿美元算力大单生变，Lambda逾期违约，Anthropic随时能掀桌",
-      "summary": "Lambda没能按期拿下机房，Anthropic现在有权退出349亿美元的算力大单了。按双方8月签署的协议，Lambda逾期未能落实场地，任何一方都可以解约。…",
-      "source": "@rohanpaul_ai",
-      "id": "32daf40e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=32daf40e&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/11 04:53] 349亿美元算力大单生变，Lambda逾期违约，Anthropic随时能掀桌 · https://www.aiera.com.cn/asi-item.html?id=32daf40e&from=yuanyuan"
-    },
-    {
-      "time": "04:52",
-      "date": "11/11",
-      "title": "写着代码就把广告片做了，OpenAI把Runway塞进了Codex",
-      "summary": "OpenAI 开发者官号宣布，Runway 插件正式接进 Codex 和 ChatGPT。写代码的同一个对话框里，一张产品照片就能直接做成视频广告。 官方给了三种用法。…",
-      "source": "@OpenAIDevs",
-      "id": "5347e2aa",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=5347e2aa&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/11 04:52] 写着代码就把广告片做了，OpenAI把Runway塞进了Codex · https://www.aiera.com.cn/asi-item.html?id=5347e2aa&from=yuanyuan"
-    },
-    {
-      "time": "04:21",
-      "date": "11/11",
-      "title": "光靠提示词防不住了，英伟达OpenShell进CNCF沙盒管权限",
-      "summary": "AI 智能体的安全，光在提示词里打补丁已经兜不住了。CNCF 官方宣布，英伟达的 OpenShell 正式进入 CNCF 沙盒。 OpenShell 专门盯自主智能体…",
-      "source": "@CloudNativeFdn / @NVIDIAAI",
-      "id": "d4d90439",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=d4d90439&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/11 04:21] 光靠提示词防不住了，英伟达OpenShell进CNCF沙盒管权限 · https://www.aiera.com.cn/asi-item.html?id=d4d90439&from=yuanyuan"
-    },
-    {
-      "time": "02:06",
-      "date": "11/11",
-      "title": "企业能入驻ChatGPT了，不仅能认领主页，还能派专属智能体答疑",
-      "summary": "企业现在可以入驻 ChatGPT 了。北京时间 11 月 11 日凌晨，OpenAI 官方账号宣布「Businesses in ChatGPT」开启 beta 公测。…",
-      "source": "@OpenAI",
-      "id": "0b06c818",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=0b06c818&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/11 02:06] 企业能入驻ChatGPT了，不仅能认领主页，还能派专属智能体答疑 · https://www.aiera.com.cn/asi-item.html?id=0b06c818&from=yuanyuan"
-    },
-    {
-      "time": "01:26",
-      "date": "11/11",
-      "title": "白板、表格加上数据看板，Claude直接把办公全家桶搬进对话框",
-      "summary": "Claude 的对话框里，现在能直接开白板、做表格、搭数据看板了。 Claude 官方今天凌晨在 X 上宣布，Claude Whiteboards、Claude Sheets…",
-      "source": "@claudeai",
-      "id": "44b92f8c",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=44b92f8c&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/11 01:26] 白板、表格加上数据看板，Claude直接把办公全家桶搬进对话框 · https://www.aiera.com.cn/asi-item.html?id=44b92f8c&from=yuanyuan"
-    },
-    {
-      "time": "00:30",
-      "date": "11/11",
-      "title": "降价40%还能不亏钱？Anthropic透露Opus 5.5底牌：便宜才能拉爆用量",
-      "summary": "客户账单砍掉 40%，Anthropic 自己的利润率一点没动。 这是 Anthropic CFO Krishna Rao 亲口给的数。他说 Opus 5.5 把客户成本降了…",
-      "source": "@firesidealpha",
-      "id": "024ad736",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=024ad736&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/11 00:30] 降价40%还能不亏钱？Anthropic透露Opus 5.5底牌：便宜才能拉爆用量 · https://www.aiera.com.cn/asi-item.html?id=024ad736&from=yuanyuan"
-    },
-    {
-      "time": "00:07",
-      "date": "11/11",
-      "title": "10万小时数据连同硬件全开源！英伟达GR00T 2让机器人甩掉线缆",
-      "summary": "英伟达把机器人模型、硬件设计和 10 万小时数据一起开源了。 Jim Fan 在 X 上发布 GR00T 2，称它是英伟达迄今最先进的开放 System One 机器人模型。…",
-      "source": "@DrJimFan",
-      "id": "2693b839",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=2693b839&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/11 00:07] 10万小时数据连同硬件全开源！英伟达GR00T 2让机器人甩掉线缆 · https://www.aiera.com.cn/asi-item.html?id=2693b839&from=yuanyuan"
-    },
-    {
-      "time": "00:05",
-      "date": "11/11",
-      "title": "20美元Pro彻底摸不着，谷歌最强Gemini 4 Carbon上线：想用每月掏100刀",
-      "summary": "谷歌最强的模型 Gemini 4 Carbon 上线了，每月 19.99 美元的 Pro 用户用不上。想用就得订每月 99.99 或 199.99 美元的 Ultra…",
-      "source": "@Google / @OfficialLoganK / @cursor_ai / @sundarpichai / @GoogleAI",
-      "id": "9fbacdb4",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=9fbacdb4&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/11 00:05] 20美元Pro彻底摸不着，谷歌最强Gemini 4 Carbon上线：想用每月掏100刀 · https://www.aiera.com.cn/asi-item.html?id=9fbacdb4&from=yuanyuan"
     },
     {
       "time": "23:45",
@@ -654,20 +522,8 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tga7f82e&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/09 18:38] 印度自研模型社死！照搬千问，仅塞提示词硬充印度造 · https://www.aiera.com.cn/asi-item.html?id=tga7f82e&from=yuanyuan"
-    },
-    {
-      "time": "13:32",
-      "date": "11/09",
-      "title": "ChatGPT一秒画出个人秘密，全网疯转「空房间」测试！",
-      "summary": "AI太懂你了，简直让人毛骨悚然！这几天， 一个「空房间」的实验再度爆火，引全网数百万人围观。网友Jakub Szymczuk也跟风测了一把。…",
-      "source": "新智元",
-      "id": "tg200eb8",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg200eb8&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/09 13:32] ChatGPT一秒画出个人秘密，全网疯转「空房间」测试！ · https://www.aiera.com.cn/asi-item.html?id=tg200eb8&from=yuanyuan"
     }
   ],
-  "feed_count": 55,
-  "feed_total": 55
+  "feed_count": 43,
+  "feed_total": 43
 }
