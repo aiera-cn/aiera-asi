@@ -3,341 +3,191 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-13 08:11:43 +0800",
+  "fetched_at": "2026-11-13 15:50:01 +0800",
   "today": "11/13",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "谷歌全面上线Gemini 4 Hydrogen！速度狂飙2.5倍，搜索迎来史上最大更新",
-      "summary": "今天凌晨，Google 正式向全球推送 Gemini 4 Hydrogen。新模型专为极速编程、多模态合成与日常工作流打造，任务处理速度直接飙到 3.8 Flash 的 2.5 倍，并在 Artificial Analysis 智能指数上超越了 Argon。更狠的是，Google Search 同步迎来史上最大规模的模型换代，全球所有人都能用，生态直接一步拉满。",
-      "reads": "14万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
+      "title": "开会摸鱼终结者！Anthropic祭出Claude Meetings，拉进视频边聊边写文档",
+      "summary": "Anthropic 连视频会议也不放过了。官方正式推出 Claude Meetings 并向 Team 与 Enterprise 用户开启内测，首发支持 Google Meet。你现在能直接把 Claude 作为可见参与者拉进视频通话，在你说话的同时，它不仅能实时答疑和记录笔记，还能同步协作起草文档、搭建白板等工件，团队成员可当场在线审查并修改。",
+      "reads": "414万",
+      "ago": "7 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "全端分发落地：Gemini App、Google Search 和 Google AI Studio 面向所有用户开放，免费用户在提示词匹配时通过自动模型选…",
-        "订阅与专业端支持：Google AI Pro 与 Ultra 订阅用户可在 Antigravity、Chrome 以及 Google Sheets 中直接调…",
-        "开发者与搜索升级：Android Studio 与 Google AI Studio 已接入全层级 Gemini API；搜索端重点强化了对复杂、多分支提问…"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Google Gemini",
+        "who": "Dan Shipper 📧",
         "role": "",
-        "said": "Gemini 4 Hydrogen 今天开始向全球所有用户推送，覆盖桌面端、移动端和网页版。 免费用户在提示词适合该模型时，会通过自动模型选择功能使用 Gemini 4 Hydrogen。了解更多关于 Gemini 模型和自动模型选择的信息："
+        "said": "Claude第一次旁听我的会议时："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 14万 · 模型与能力] 谷歌全面上线Gemini 4 Hydrogen！速度狂飙2.5倍，搜索迎来史上最大更新"
+      "line": "[榜第1位 · 414万 · 产品与生态] 开会摸鱼终结者！Anthropic祭出Claude Meetings，拉进视频边聊边写文档"
     },
     {
-      "title": "谷歌Antigravity祭出杀招：多模型单会话打配合，Carbon做规划小模型跑腿",
-      "summary": "今天凌晨，Google宣布在Antigravity中面向Google AI Ultra订阅用户上线Orchestrator功能。以往复杂的任务只能全盘丢给单一模型硬扛，现在同一个会话即可实现模型混编：由前沿模型Carbon统揽全局做顶层规划，再将具体的执行步骤交接给快速执行模型落地，直接兼顾复杂推理与交付速度。",
-      "reads": "9.9万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
+      "title": "人人都能用！谷歌连夜上线Gemini 4 Hydrogen普及版，搜索API全开放",
+      "summary": "让每个人都用上 Gemini 4！谷歌 AI 负责人 Logan Kilpatrick 突袭发布极速且强大的新模型 Gemini 4 Hydrogen，全面打穿使用门槛。新模型不仅直接通配谷歌搜索、Gemini App、企业版以及 Google AI Studio 和 API 全层级，就连 Antigravity 平台上的 Google AI Pro 和 Ultra 付费订阅用…",
+      "reads": "21万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "Logan Kilpatrick 随后补充确认，Gemini App 内的 Ultra 订阅用户目前也已支持体验该模型。"
+      ],
       "quote": {
-        "who": "Google",
+        "who": "Logan Kilpatrick",
         "role": "",
-        "said": "我们正在 @Antigravity 中向 Google AI Ultra 订阅用户推出 Orchestrator，让你能在单个会话中运行多个模型，而不是将整个任务路由给一个模型。 Orchestrator 将一个前沿模型与一个快速执行模型配对：Carbon 制定计划，然后移交"
+        "said": "Gemini app 里的 ultra 订阅用户可用！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 9.9万 · 产品与生态] 谷歌Antigravity祭出杀招：多模型单会话打配合，Carbon做规划小模型跑腿"
+      "line": "[榜第2位 · 21万 · 模型与能力] 人人都能用！谷歌连夜上线Gemini 4 Hydrogen普及版，搜索API全开放"
     },
     {
-      "title": "ChatGPT常驻AI升级了！官方给dot上规矩：少拽术语、操作必须先请示",
-      "summary": "ChatGPT官方宣布常驻Agent「dot」迎来一波实用升级。新版本不仅回复速度更快、执行力更强，还特意针对痛点收敛了技术行话。更重要的是，dot现在支持线程内的自定义指令，用户可以直接在对话中立规矩，例如限定全小写说话，或明确规定重要步骤必须「先出草稿、获批后再动手」，彻底解决AI自作主张的问题。",
-      "reads": "12万",
-      "ago": "3 小时前",
+      "title": "搜索彻底变天！谷歌祭出史上最大更新，Gemini 4 Hydrogen全球上线",
+      "summary": "北京时间今天凌晨，谷歌搜索迎来了官方定调的「迄今最大模型更新」：Gemini 4 Hydrogen 今日起面向全球所有用户全量上线！这次更新核心在于精准捕捉自然思维流，哪怕你一口气丢出一长串包含细致要求的复杂、多段式提问，它也能直接吃透意图。搜索入口这次彻底换代，连带着多端能力也同步铺开。",
+      "reads": "9.8万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "除普通搜索主端外，Gemini 4 Hydrogen 已在 AI Studio、Gemini API 以及 Antigravity 的 AI Pro 和 U…",
+        "据业内人士透露，除了 Hydrogen 之外，Gemini 4 家族的 Carbon 也已悄然加入 Google Search 的 AI Mode。"
+      ],
       "quote": {
-        "who": "ChatGPT",
+        "who": "Andrew Curran",
         "role": "",
-        "said": "你的 dot 现在有了…… ⚡️ 更快的回复 💬 更少的行话 🫡 更好的执行力 而且，它们现在可以遵循你的自定义指令。在帖子中告诉你的 dot 比如如何行事，或者哪些操作需要你的许可。 “永远用小写字母说话。” “给我看草稿之前"
+        "said": "Hydrogen 和 Carbon 都加入了 Google search AI Mode。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 12万 · 产品与生态] ChatGPT常驻AI升级了！官方给dot上规矩：少拽术语、操作必须先请示"
+      "line": "[榜第3位 · 9.8万 · 产品与生态] 搜索彻底变天！谷歌祭出史上最大更新，Gemini 4 Hydrogen全球上线"
     },
     {
-      "title": "谷歌突然端出Gemini 4极速版！实测准确率狂涨5％，免费版全量上线",
-      "summary": "昨夜，谷歌突然推出新一代模型 Gemini 4 Hydrogen，主打极速与全员普及。Box CEO Aaron Levie 拿到早期体验后直呼是件大事：在复杂工作测试中，Hydrogen 的准确率比 Gemini 3.8 Flash 足足高出 5 个百分点，对快速模型堪称巨大飞跃。更狠的是，谷歌这次完全不挤牙膏，从免费搜索、移动端 App 到 API 与企业版直接全线铺开！",
-      "reads": "5.4万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
+      "title": "马斯克公开抢黄仁勋！英伟达称老黄未来零角色，押注跳槽赔率彻底飙了",
+      "summary": "英伟达官方表态称黄仁勋未来在公司「不会担任任何角色」，老黄的下一站瞬间引爆全网。马斯克此前公开表态，直言非常希望能招揽黄仁勋，直接促使预测市场 Polymarket 上关于老黄加入新公司的押注赔率急速飙升。不少网友甚至兴奋呼吁两人组建「梦之队」，干脆去特斯拉 Terafab 联手造芯片。",
+      "reads": "16万",
+      "ago": "4 小时前",
+      "category": "组织与人事",
       "source": "新智元",
-      "bullets": [
-        "模型覆盖极为彻底：不仅包含 Google AI Studio、Gemini API、企业版以及 Google Search 全层级，Google Antig…",
-        "本次测试基于专门针对真实业务场景的 Box AI Complex Work Eval 复杂工作评估基准。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "unusual_whales",
         "role": "",
-        "said": "测试总是更好的 💪👀"
+        "said": "Polymarket 上 Jensen Huang 加入新公司的赔率在涨。 你能看到，当 Elon Musk 说他想让 Huang 加入时，赔率飙升了。 目前， $NVDA 表示 Huang 未来不会担任任何角色。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 5.4万 · 模型与能力] 谷歌突然端出Gemini 4极速版！实测准确率狂涨5％，免费版全量上线"
+      "line": "[榜第4位 · 16万 · 组织与人事] 马斯克公开抢黄仁勋！英伟达称老黄未来零角色，押注跳槽赔率彻底飙了"
     },
     {
-      "title": "联手三星、Gentle Monster！谷歌Gemini智能眼镜开订，抬头就能实时翻译",
-      "summary": "昨晚，Google 宣布 Gemini 正式接入智能眼镜并开启预订。这波硬件阵容相当豪华，Google 直接联合三星，并拉上知名时尚眼镜品牌 Gentle Monster 与 Warby Parker 共同打造。日常佩戴只要喊一声「Hey Gemini」，就能让 AI 替你识别街头艺术、扫一眼前方书架秒给推荐，还能实时翻译和调取日程，彻底告别频繁低头掏手机。",
-      "reads": "9.6万",
+      "title": "打工人被迫集体「带薪休假」！微软突发全球大宕机：Teams、Outlook连带Copilot全挂",
+      "summary": "全球打工人的办公软件集体躺平！微软多项核心服务遭遇突发大面积宕机，从 Outlook、Teams、OneDrive、SharePoint 一直到 AI 助手 Copilot 365 全线中招，全球打工人瞬间陷入断联。微软随即紧急叫停了所有部署，正在重启受影响服务器并重新调度流量。官方表示部分服务器已恢复上线且运行稳定，服务正逐步恢复正常。",
+      "reads": "8.7万",
       "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "受影响范围涵盖 Exchange Online、Teams、SharePoint Online、OneDrive 及 Copilot 365 等微软主力生产…",
+        "故障自美东时间下午 1 点左右持续蔓延，微软通过暂停全线部署与服务器重启进行紧急止损。"
+      ],
       "quote": {
-        "who": "Rohan Paul",
+        "who": "The Telegraph",
         "role": "",
-        "said": "这个 AI 能读懂高管在财报电话会上说话背后的动机。一家对冲基金现在专门用它来交易一个 5000 万美元的组合。 Thorsten-4，一个大心理学模型，能读出某人真正想表达什么。 心理学家再次采访了同样的 7000 多人，并且"
+        "said": "🔴 Microsoft 遭遇重大全球宕机"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 9.6万 · 产品与生态] 联手三星、Gentle Monster！谷歌Gemini智能眼镜开订，抬头就能实时翻译"
+      "line": "[榜第5位 · 8.7万 · 产品与生态] 打工人被迫集体「带薪休假」！微软突发全球大宕机：Teams、Outlook连带Copilot全挂"
     },
     {
-      "title": "狂飙2.5倍！谷歌官宣Gemini 4 Hydrogen，基准超越GPT 6.1 Terra",
-      "summary": "北京时间今天凌晨，继 Carbon 和 Argon 之后，Google 正式官宣 Gemini 4 Hydrogen。这款专为日常任务、编程和 Agent 工作流打造的新模型，任务完成速度直接比 3.8 Flash 飙升了 2.5 倍，还首次引入了包含「Extra」级别的 4 档思考层级。基准测试中它更是力压 Claude Sonnet 5.5 和 GPT 6.1 Terra…",
-      "reads": "22万",
-      "ago": "5 小时前",
+      "title": "速度飙升2.5倍！谷歌Gemini 4 Hydrogen登场，智力甚至反超自家Argon",
+      "summary": "今天凌晨，Google DeepMind 突然甩出新模型 Gemini 4 Hydrogen，专为极速编码、多模态合成和日常工作流打造。它的任务执行速度直接干到了 3.8 Flash 的 2.5 倍，更夸张的是，在 Artificial Analysis 智力指数上，其默认高思考模式连自家 Argon 都被反超，在 xhigh 档位得分还会更高。",
+      "reads": "102万",
+      "ago": "12 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "推理机制新增「Extra」级别共 4 个思考层级，支持根据任务复杂度灵活分配等待时间与成本",
-        "全线渠道无缝铺开，已面向 Google AI Studio 所有层级、Gemini API、企业版、Gemini App 及 Google Search 开…",
-        "面向开发者工具 Google Antigravity 中的付费 Google AI Pro 与 Ultra 订阅用户推送更新"
+        "在 Antigravity 中获得内测资格的开发者实测显示，仅靠一次追问提示，Gemini 4 Hydrogen High 就能用 Three.js 手搓出…"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "Wall St Engine",
         "role": "",
-        "said": "GOOGLE 🔥：Gemini 4 Hydrogen 正式官宣！ 比 3.8 Flash 快 2.5 倍；有 4 个思考级别，包括新的“Extra”级别。在大多数基准测试中优于 Claude Sonnet 5.5 和 GPT 6.1 Terra。 正在向 Pro 和 Ultra 订阅用户以及 API 用户推送。"
+        "said": "Gemini 4 Hydrogen 完成任务的速度比 3.8 Flash 快 2.5 倍，并在 @ArtificialAnlys 的 AI 指数上超越了 Argon。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 22万 · 模型与能力] 狂飙2.5倍！谷歌官宣Gemini 4 Hydrogen，基准超越GPT 6.1 Terra"
+      "line": "[榜第6位 · 102万 · 模型与能力] 速度飙升2.5倍！谷歌Gemini 4 Hydrogen登场，智力甚至反超自家Argon"
     },
     {
-      "title": "传OpenAI将发GPT-6.2双旗舰！爆料称Sol与Astra全面反超Claude",
-      "summary": "社区密集爆料 OpenAI 即将推出 GPT-6.2 系列双旗舰，预计由 GPT-6.2 Sol 与 GPT-6.2 Astra 联袂登场，正面迎战 Anthropic。有爆料者放话「绝非开玩笑」，直指 GPT-6.2 Sol 性能将超越 Opus 5.5，而 Astra 更能压制 Fable 5.2。面对两大 AI 顶流旗舰对决，连网友都搬出加缪的名言调侃催更，蹲守这场悬念揭…",
-      "reads": "9.8万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
+      "title": "合规党终于能上车了！Claude托管智能体开启自托管内测，沙箱与历史全放本地",
+      "summary": "Anthropic 官方宣布，Claude Managed Agents 正式进入自托管私有测试阶段。开发者如今能将 agent harness、执行沙箱以及完整的会话历史，统统塞进自家的私有云或本地数据中心，还能自主决定发往 Claude 的请求路由到何处。对于数据合规卡得极严、此前对全托管望而却步的企业级用户，这下终于能放心跑起生产环境了。",
+      "reads": "60万",
+      "ago": "13 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "VraserX e/acc",
+        "who": "ClaudeDevs",
         "role": "",
-        "said": "等等，GPT-6.2 还有 Astra 和 Sol？？？！"
+        "said": "自托管 Claude Managed Agents 现已进入私有测试阶段。 你可以在自己的云端或本地环境中托管 agent harness、沙箱和会话历史，并选择将发往 Claude 的请求路由到哪里。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 9.8万 · 模型与能力] 传OpenAI将发GPT-6.2双旗舰！爆料称Sol与Astra全面反超Claude"
+      "line": "[榜第7位 · 60万 · 产品与生态] 合规党终于能上车了！Claude托管智能体开启自托管内测，沙箱与历史全放本地"
     },
     {
-      "title": "狂飙70%直奔10亿！AI芯片巨兽Cerebras业绩炸裂，思科单季狂揽185亿",
-      "summary": "AI算力产业链的吸金速度还在加速狂飙。最新财报显示，AI芯片黑马Cerebras第三季度核心营收达2.309亿美元，同比暴涨70%，全年核心营收预期直接上调至9.4亿-9.6亿美元；网络巨头思科同样吃饱算力红利，单季营收高达185亿美元、Non-GAAP EPS大增40%；就连能源供应方T1 Energy即使交出亏损业绩，也逆势将供电产量指引大幅拉升到4.0GW以上。",
-      "reads": "5.9万",
-      "ago": "2 小时前",
+      "title": "算力尽头是散热？传三星秘密洽谈收购数据中心制冷巨头Modine",
+      "summary": "AI芯片发热量飙升，巨头们的战火直接烧到了机房散热。据知情人士向彭博透露，三星目前正洽谈收购知名数据中心冷却系统制造商 Modine Manufacturing（$MOD）。随着算力集群规模不断膨胀，机房制冷已成最紧俏的基础设施，芯片巨头也开始亲自下场扫货制冷资产了。",
+      "reads": "4.4万",
+      "ago": "4 小时前",
       "category": "资本与算力",
       "source": "新智元",
-      "bullets": [
-        "Cerebras盈利水平持续改善：核心毛利率达到41%（同比增加30个基点），GAAP营收录得2.108亿美元，同比增长55%。",
-        "思科盈利能力大幅击败华尔街预期：单季Non-GAAP营业利润达到70亿美元（预期65.7亿美元），同比激增37%，并同步上调了2027财年营收指引。",
-        "T1 Energy算力电力储备加速扩容：虽然三季度营收下滑7%且录得每股亏损0.14美元，但给出了2027财年5.3GW的高额产能指引。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Wall St Engine",
+        "who": "Bloomberg",
         "role": "",
-        "said": "CISCO $CSCO Q1’27 财报亮点 🔹 营收：185 亿美元（预期 181.3 亿）🟢；同比 +24% 🔹 Non-GAAP EPS：1.40 美元（预期 1.33 美元）🟢；同比 +40% 🔹 Non-GAAP 毛利率：65.6%（预期 65.5%）🟡 🔹 Non-GAAP 营业利润：70 亿美元（预期 65.7 亿）🟢；同比 +37% 上调 FY27 指引： 🔹 营收："
+        "said": "据消息人士称，Samsung 正在洽谈收购数据中心冷却系统制造商 Modine。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 5.9万 · 资本与算力] 狂飙70%直奔10亿！AI芯片巨兽Cerebras业绩炸裂，思科单季狂揽185亿"
+      "line": "[榜第8位 · 4.4万 · 资本与算力] 算力尽头是散热？传三星秘密洽谈收购数据中心制冷巨头Modine"
     },
     {
-      "title": "Mira Murati说到做到！Thinking Machines开放Inkling 2 Small权重，Apache 2.0随便用",
-      "summary": "今天凌晨，Mira Murati带领的Thinking Machines兑现承诺，正式在HuggingFace上开放了Inkling 2 Small的模型权重。模型采用极其宽松的Apache 2.0许可证，任何人都能免费下载并自由魔改。Murati发帖感叹团队和安全伙伴的通力协作，直接喊话社区：「说到做到，去把Inkling变成属于你自己的模型吧！」",
-      "reads": "3.3万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Kangwook Lee",
-        "role": "",
-        "said": "感谢试用！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 3.3万 · 模型与能力] Mira Murati说到做到！Thinking Machines开放Inkling 2 Small权重，Apache 2.0随便用"
-    },
-    {
-      "title": "Anthropic正式启动IPO！专属网站上线，已向SEC递交招股书",
-      "summary": "Anthropic 官方正式宣布启动首次公开募股（IPO），连专属域名 ipo.anthropic.com 都直接端了出来。官方发布的法律声明确认，公司已就本次股票发行向美国证券交易委员会（SEC）正式递交包含招股说明书的注册声明，并提醒投资者认购前查阅招股书。大模型领头羊正式吹响冲刺资本市场的号角，生成式 AI 的商业化决战彻底进入下半场。",
-      "reads": "103万",
-      "ago": "12 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Anthropic",
-        "role": "",
-        "said": "我们的首次公开募股： https://ipo.anthropic.com 法律声明：Anthropic 已向 SEC 提交注册声明（包括招股说明书），涉及本次沟通相关的发行。在投资之前，您应该阅读该注册文件中的招股说明书"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 103万 · 资本与算力] Anthropic正式启动IPO！专属网站上线，已向SEC递交招股书"
-    },
-    {
-      "title": "说好死在工位上？英伟达突发CEO交接黄仁勋离职，股价闪崩超10%",
-      "summary": "英伟达官方新闻室突发公告，正式宣布启动 CEO 交接程序，执掌英伟达数十年的黄仁勋离职，消息一出英伟达股价应声重挫超 10%。令人唏嘘的是，今年 3 月 18 日黄仁勋才公开表态「希望能死在工作岗位上」，如今却带着超 1300 亿美元股票离场，且数月内若抛售股份均无需向公众披露。",
-      "reads": "21万",
-      "ago": "7 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "ℏεsam",
-        "role": "",
-        "said": "Jensen Huang，2026年3月18日 “我希望死在工作岗位上。”"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 21万 · 组织与人事] 说好死在工位上？英伟达突发CEO交接黄仁勋离职，股价闪崩超10%"
-    },
-    {
-      "title": "谷歌Gemini 4 Hydrogen突然登场！专切日常杂活，少废话一次把事办成",
-      "summary": "今天凌晨，Google官方毫无预警放出了新模型Gemini 4 Hydrogen，专门瞄准日常快速辅助场景。不用动辄大动干戈跑宏大推理，官方这回的核心诉求非常务实：死磕指令遵循能力，把工具调用调得更准，目标就是让用户少拉扯几轮对话，一次交互直接拿到可靠结果。",
-      "reads": "11万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Google Gemini",
-        "role": "",
-        "said": "Gemini 4 Hydrogen 来了，为每个人带来快速、日常的尖端智能帮助。 它让完成任务变得更轻松，更紧密地遵循你的指令，调用正确的工具，并用更少的来回沟通就能得到可靠的输出。🧵"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 11万 · 模型与能力] 谷歌Gemini 4 Hydrogen突然登场！专切日常杂活，少废话一次把事办成"
-    },
-    {
-      "title": "跑分直接干到77%！OpenAI未发布网络模型泄露，狂甩GPT-6全系",
-      "summary": "网络安全圈昨夜集体失眠，OpenAI 一款未发布的内部网络模型 ExploitGym 评测跑分遭曝光，得分居然飙到了惊人的 77.0%！要知道，现役旗舰 GPT-6 Astra 只有 42.4%，哪怕是其他顶流 Opus 5.5、Mythos 5.2 和 Gemini 4 Carbon 也普遍卡在 30% 到 50% 区间。面对断崖式差距，围观网友忍不住发出灵魂拷问：安全攻防指…",
-      "reads": "6.4万",
-      "ago": "4 小时前",
+      "title": "比3.8 Flash快2.5倍！谷歌甩出Gemini 4 Hydrogen，4档思考专攻Agent",
+      "summary": "今天凌晨，谷歌为 Gemini 4 家族正式上线新成员 Gemini 4 Hydrogen，主打日常编码与智能体（Agent）工作流的高速高效。其运行速度直接达到 Gemini 3.8 Flash 的 2.5 倍，全面超越此前的 Argon，并在相关基准中领先竞品。它支持 4 个思考层级，既能独立跑日常任务，也能与专啃硬骨头的 Carbon 协同组队。",
+      "reads": "47万",
+      "ago": "13 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "中转站抢跑上架：官方尚未官宣，第三方中转站已被曝提前挂出 GPT-6.2 Astra 与 GPT-6.2 Sol，并分别给出 85%（输入每百万 token…",
-        "双雄对决传言四起：消息称 OpenAI 周四或推 GPT 6.2 双子星，其中 6.2 Astra 据称强于 Fable 5.2；谷歌也被曝准备了 Gemi…",
-        "专精定位存疑：针对跑出 77% 的高分神秘模型，有爆料发帖者指出它并非 Astra 或 Opus 级别的通用大模型，更可能是专精网络攻防的内部型号。"
+        "定位与分工：与负责攻克极难任务的 Gemini 4 Carbon 互补，Hydrogen 专为高频、日常的代码与 Agent 任务量身定制。",
+        "协同与调度：自带 4 个思考层级（thinking levels），支持单模独立部署，亦可与 Carbon、Argon 联动组队工作。"
       ],
-      "quote": {
-        "who": "J A Z I I",
-        "role": "",
-        "said": "它不是 astra 或 opus 级别的模型"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 6.4万 · 模型与能力] 跑分直接干到77%！OpenAI未发布网络模型泄露，狂甩GPT-6全系"
-    },
-    {
-      "title": "别再乱调推理力度了！Anthropic官方揭秘API省钱秘籍：中途改参数秒毁缓存",
-      "summary": "Anthropic官方开发者团队放出实战视频，工程师亲自拆解新模型API上线机制与降本内幕。官方明确把提示词缓存（Prompt Caching）列为第一推荐的降本大招，但也直接点出开发者的致命盲区：很多用户觉得后半段任务变简单，想在中途调低推理力度（effort）或改系统提示词，结果直接把缓存击碎，反而导致全价重算。团队提醒，模型换代时别光看单价，测试框架必须改成按「单任务成本…",
-      "reads": "6.3万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "提示词缓存的适用逻辑：在多轮交互中，如果后续请求类似追加且与前文高度重合，系统会直接复用已运行过的数据块，成倍拉低调用开销。",
-        "动态参数的工程代价：中途改动系统提示词或调整effort档位虽然灵活，但在API层面会破坏缓存连续性，成为隐蔽的成本刺客。",
-        "评测框架必须重构：升级到新模型时，开发者需要推翻旧有的测试链（harness），改以单任务总成本（cost per task）为核心指标评估真实收益。"
-      ],
-      "quote": {
-        "who": "ClaudeDevs",
-        "role": "",
-        "said": "新视频： @dejno 和 @luccasiau 讨论我们如何在 API 上发布新模型以及随附的功能。 他们还深入探讨了在升级到新模型时，如何重新思考你的 harness（测试框架/工具链）并衡量每个任务的成本。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 6.3万 · 产品与生态] 别再乱调推理力度了！Anthropic官方揭秘API省钱秘籍：中途改参数秒毁缓存"
-    },
-    {
-      "title": "给超级算力腾地方！SpaceX打扫星舰基地：连铲60年代陈年垃圾",
-      "summary": "SpaceX建超算中心的第一步，竟然是给半个世纪前的垃圾场擦屁股。官方发文披露，在推进Starbase超级计算中心建设时，团队发现这块地皮的部分区域早在1960年代就被用来非法倾倒垃圾。趁着这次超算动工，SpaceX索性展开全面环境治理，一口气清理掉沉睡数十年的废弃物，把陈年烂摊子变成了新算力底座。",
-      "reads": "18万",
-      "ago": "7 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "SpaceX",
-        "role": "",
-        "said": "Starbase 超级计算中心的建设，提供了一个机会去解决几十年的环境忽视问题。 该物业的部分区域自 1960 年代起就被用于非法倾倒。我们正在开展清理工作，以移除数十年来积累的垃圾，"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 18万 · 资本与算力] 给超级算力腾地方！SpaceX打扫星舰基地：连铲60年代陈年垃圾"
-    },
-    {
-      "title": "飙出3.8 Flash的2.5倍速！谷歌Gemini 4 Hydrogen登场，专攻日常编程",
-      "summary": "今天凌晨，Google 官方突袭发布全新 Gemini 4 Hydrogen 模型，主打日常编码与智能体工作。新模型运行速度直接飙到了 Gemini 3.8 Flash 的 2.5 倍，性能全面超越同类竞品。它原生支持 4 个思考层级（thinking levels），不仅能独立单挑复杂任务，还能和自家的 Carbon 以及 Argon 组队协同作战。",
-      "reads": "8.0万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
       "quote": {
         "who": "Google",
         "role": "",
@@ -347,8 +197,152 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 47万 · 模型与能力] 比3.8 Flash快2.5倍！谷歌甩出Gemini 4 Hydrogen，4档思考专攻Agent"
+    },
+    {
+      "title": "听不见声音也能写歌？Fable 5.2啃透乐理，硬生生搓出72小节House舞曲",
+      "summary": "AI开始抢电子音乐人的饭碗了。有投资人测试让Fable 5.2研读全部乐理并生成House舞曲，结果惊掉众人下巴：模型针对每种乐器尝试了数千种随机模式，挑出最优组合后，硬生生编排出一支长达72小节的完整曲目。最绝的是它根本「听不见」任何声音，全凭乐理硬算推演，实际成曲听感却相当不错。",
+      "reads": "22万",
+      "ago": "9 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Kaito | 海斗",
+        "role": "",
+        "said": "我本来真以为是 fable，结果竟然是 Fable"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 22万 · 模型与能力] 听不见声音也能写歌？Fable 5.2啃透乐理，硬生生搓出72小节House舞曲"
+    },
+    {
+      "title": "AI队友公开上班！Claude上线可见协作：大声提问实时看它写文档",
+      "summary": "Anthropic官方宣布为Claude推出全新协作模式，让它直接成为团队里「全员可见」的正式成员。现在你不只能通过文字或直接大声语音向它提问，还能随时让它起草文档；更关键的是，团队所有人都能实时看到Claude构建内容的全过程，并在它成型途中直接插手纠错，彻底把AI从单聊工具变成了工位上的协同搭子。",
+      "reads": "25万",
+      "ago": "10 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Claude",
+        "role": "",
+        "said": "Claude 作为一个可见的参与者加入。你可以大声或在聊天中向它提问，或者让它开始创建文档。你的团队可以看到它在构建什么，并在其成型过程中进行纠正。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 25万 · 产品与生态] AI队友公开上班！Claude上线可见协作：大声提问实时看它写文档"
+    },
+    {
+      "title": "本周神仙打架！曝GPT-6.2与谷歌两款新模型连环狙击，迭代速度踩爆预测曲线",
+      "summary": "大模型圈传出近乎疯狂的密集排期传闻。爆料称周四将先迎来极低价格、极快速度的 Gemini hydrogen flash（对标 Opus 5.5），同日 OpenAI 还将甩出 GPT 6.2 Astra 与 6.2 SOL 夹击；周五谷歌更准备了 Google Krypton 直面硬刚 Fable 5.2。业内讨论直呼整个进度比激进的 AI-2027 预测还要快，Anthrop…",
+      "reads": "5.0万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "爆料指 GPT 6.2 Astra 据传性能压过 Fable 5.2，而 GPT 6.2 SOL 则比 Opus 5.5 更便宜且能力更强",
+        "周五传闻登场的 Google Krypton 同样主打低价路线，性能定位在 Fable 5.2 水平",
+        "关于 AI-2027 预测曲线，讨论指出目前公开模型中仅 Opus 5.5 处于预测水平，Astra 和 Fable 5.2 仍落后几周"
+      ],
+      "quote": {
+        "who": "Haider.",
+        "role": "",
+        "said": "谁能想到，我们比原本就激进的 AI-2027 时间表还要快。 Anthropic 的内部模型 4 比预测曲线快了大约 6 周，公开模型大致符合预期：Opus 5.5 处于预测水平附近，Astra 和 Fable 5.2 则落后几周。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 5.0万 · 模型与能力] 本周神仙打架！曝GPT-6.2与谷歌两款新模型连环狙击，迭代速度踩爆预测曲线"
+    },
+    {
+      "title": "开完会不用手写纪要了！Claude官方上线会议页：通话结束自动打包笔记和产出",
+      "summary": "开完会终于不用头疼写纪要了！Claude 官方正式亮出会议自动整理功能：只要通话一结束，系统的会议笔记、行动项以及完整转录文本就会全自动生成。不仅如此，你在通话期间顺手让 Claude 构建出的所有代码或产出，也会一起打包汇总到 Claude 内的专属会议页面里，复盘交付一步到位。",
+      "reads": "22万",
+      "ago": "10 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Claude",
+        "role": "",
+        "said": "Claude 也负责记笔记。通话结束后，笔记、行动项、转录文本以及 Claude 构建的任何内容都会出现在 Claude 中的会议页面上。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 22万 · 产品与生态] 开完会不用手写纪要了！Claude官方上线会议页：通话结束自动打包笔记和产出"
+    },
+    {
+      "title": "抱紧微软大腿！Cerebras宣布签下云业务重磅大单，股价盘后狂飙18%",
+      "summary": "芯片黑马 Cerebras 直接给市场扔了一颗定心丸。在最新财报电话会议上，CEO Andrew Feldman 亲自宣布，公司已经与微软正式签署了一项重要的云合作协议。受财报表现以及抱上微软大腿的重磅利好刺激，Cerebras 盘后股价应声直线拉升，涨幅一度高达 18.40%。",
+      "reads": "9.9万",
+      "ago": "8 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "unusual_whales",
+        "role": "",
+        "said": "Cerebras $CBRS 财报后上涨 18.40%： 你交易它了吗？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 9.9万 · 资本与算力] 抱紧微软大腿！Cerebras宣布签下云业务重磅大单，股价盘后狂飙18%"
+    },
+    {
+      "title": "打工人的会由AI来开！Claude正式推出会议助手，第一站直奔Google Meet",
+      "summary": "Anthropic 官方宣布为 Claude 推出专属会议助手功能「Claude Meetings」。首发第一站直接接入了 Google Meet，官方表示后续还会逐步拓展支持更多主流视频会议平台。开会走神、跨语言沟通或者拉长会，终于能直接甩给 Claude 处理了。",
+      "reads": "20万",
+      "ago": "10 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Claude",
+        "role": "",
+        "said": "Claude Meetings 将从 Google Meet 开始支持，其他视频会议平台的支持即将推出。 了解更多："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 20万 · 产品与生态] 打工人的会由AI来开！Claude正式推出会议助手，第一站直奔Google Meet"
+    },
+    {
+      "title": "只便宜25％但能力明显缩水！谷歌Gemini 4定价遭吐槽，两款主力下月翻倍",
+      "summary": "谷歌Gemini 4的定价策略让开发者们彻底看懵了。知名开发者Simon Willison实测指出，新推出的Hydrogen入门版价格仅比Argon和Carbon便宜了25%，但画鹈鹕等能力明显缩水；更关键的是，目前同价的Carbon和Argon将在12月1日价格直接翻倍。研究员Logan Kilpatrick随后给出了三者的硬实力座次：Carbon > Argon > Hyd…",
+      "reads": "1.2万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Logan Kilpatrick",
+        "role": "",
+        "said": "碳 > 氩 > 氢（虽然氢也很棒）"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 8.0万 · 模型与能力] 飙出3.8 Flash的2.5倍速！谷歌Gemini 4 Hydrogen登场，专攻日常编程"
+      "line": "[榜第16位 · 1.2万 · 模型与能力] 只便宜25％但能力明显缩水！谷歌Gemini 4定价遭吐槽，两款主力下月翻倍"
     }
   ],
   "board_count": 16,
