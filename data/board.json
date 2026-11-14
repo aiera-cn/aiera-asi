@@ -3,81 +3,81 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-14 11:05:56 +0800",
+  "fetched_at": "2026-11-14 18:14:48 +0800",
   "today": "11/14",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "不是黑客干的！微软邮件宕机13小时、FAA全美停飞，全败给例行更新",
-      "summary": "短短一天多内，两大关键系统接连遭遇大瘫痪。微软邮件服务先是彻底断连长达 13 个小时，随后美国联邦航空管理局（FAA）又因空中交通管制通信故障，紧急叫停全国所有出港航班，部分机场乘客被告知可能滞留 7 小时。官方排查后透露，这两起轰动全美的大断网都不是黑客干的，源头双双指向了出了差错的日常例行更新。",
-      "reads": "149万",
-      "ago": "52 分钟前",
-      "category": "政策与安全",
+      "title": "工作邮箱瘫痪24小时！微软致歉特意澄清「与AI无关」，全网居然没人信",
+      "summary": "本周微软核心服务发生严重故障，打工人的工作邮箱直接瘫痪了将近24小时。服务逐步恢复后，微软官方赶紧发声明致歉，但全网的注意力全被带偏了：官方特意强调「这是一起技术问题」，费尽心思澄清事故不是AI惹的祸。有评论者对此一针见血地调侃：两年前压根没有公司会特意加这么一句话，而且越描越黑，网上几乎没人买账。",
+      "reads": "13万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "FAA 的全国出港停飞禁令已于当晚解除，亚特兰大等核心枢纽的空管通信故障已逐步恢复。",
-        "马斯克在同一时段照常推进航天任务，发推为星舰 Flight 15 的发射进行了数小时倒计时预热。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Hedgie",
+        "who": "Aakash Gupta",
         "role": "",
-        "said": "🦔 才过了一天多，微软的邮件服务就宕机了 13 小时，FAA（美国联邦航空管理局）也停飞了全国所有出港航班，直到今晚才解除禁令。官方称两者都不是黑客攻击，看起来都源于出了问题的例行更新。 我的看法 黑客花"
+        "said": "你这周的工作邮箱挂了快 24 小时，微软最后道歉时还特意强调 AI 没背锅。 两年前没哪家公司会费心写这么一句话。网上几乎没人信，这主要怪微软"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 149万 · 政策与安全] 不是黑客干的！微软邮件宕机13小时、FAA全美停飞，全败给例行更新"
+      "line": "[榜第1位 · 13万 · 产品与生态] 工作邮箱瘫痪24小时！微软致歉特意澄清「与AI无关」，全网居然没人信"
     },
     {
-      "title": "一口气接管Mac七大权限！马斯克Grok Bot发飙，使用率狂甩Claude整整10倍",
-      "summary": "马斯克正式宣布，Mac 版 Grok Bot 现已直接打通苹果系统的 7 大原生权限，短信、邮件、备忘录、提醒事项、日历、定位和通讯录全能调用。这相当于把 AI 直插进系统的神经末梢，海外知名投资人随后自曝，自己团队用 Grok Bot 的频率已经是此前用 Claude 的 10 倍，直呼「太让人上瘾」，引爆社区狂欢。",
-      "reads": "66万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "title": "觉都不睡了！谷歌4天连甩7大更新：两款8代TPU+Gemini 4双子星全来了",
+      "summary": "皮查伊直接在社交平台上晒出谷歌本周的「发布狂欢」。周一连推两款第 8 代 TPU 夯死算力，周二到周四更是密集扔出 Gemini 4 Carbon、Gemini 4 Hydrogen、Gemini Robotics 2.5 以及用于疾病研究的 AlphaGenome 2。从底层芯片、前沿大模型一路贯穿到机器人与生物医药，连轰 4 天不喘气，直接把更新频率拉到了令人眩晕的档位。",
+      "reads": "17万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "系统级权限全开：Mac 版 Grok Bot 现已原生支持 Messages、Mail、Notes、Reminders、Calendar、Location…",
-        "社区生态光速跟进：有 KOL 基于 Grok Bot 打造了免费的大学资金查找工具 College Aid Finder，直接叫板原本收费数千美元的中介服务…"
+        "周二除发布 Gemini 4 Carbon 外，还包含经 AlphaProof Code 验证的 Signal 协议与 Gemini Robotics 2.…",
+        "周三面向疾病研究推出 AlphaGenome 2，并在 AI Studio 中同步上线 Gemini Decisions API。",
+        "社区首波实测反馈中，Gemini 4 Carbon 在提炼多期认知内容时的长文写作与逻辑概括表现亮眼。"
       ],
       "quote": {
-        "who": "Miles Deutscher",
+        "who": "歸藏(guizang.ai)",
         "role": "",
-        "said": "Grok Bot + Fable 5.2 就是一台印钞机。 任何新手都能靠这个商业模式月入 10,000 美元。 如果你一直在琢磨怎么在网上搞钱，收藏这条："
+        "said": "Gemini 4 Carbon 写作确实牛逼 让它总结了 Next Token 过去 9 期 30 条 AI 领域的核心认知： 1. Token 就是新货币；买一台本地机器跑模型，本质上是在家里铸币。—— 橘子 2. AI 没有泡沫，只有受制于物理基建的供给不足。—— 歸藏 3. 在 AI 时代，别羞于承认自己是卖 Token 的——你不卖"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 66万 · 产品与生态] 一口气接管Mac七大权限！马斯克Grok Bot发飙，使用率狂甩Claude整整10倍"
+      "line": "[榜第2位 · 17万 · 模型与能力] 觉都不睡了！谷歌4天连甩7大更新：两款8代TPU+Gemini 4双子星全来了"
     },
     {
-      "title": "辞任CEO刚两天，马斯克坐不住了！亲自签字请愿：让黄仁勋回归英伟达",
-      "summary": "黄仁勋11月12日刚刚辞任英伟达总裁兼CEO，转头就掀起了「求老黄回归」的风暴。英伟达内部员工已带头推动其复职，并在全网发起了恢复其CEO职位的联名请愿书；北京时间11月14日凌晨，马斯克更是直接在X上发文力挺：「请愿正在进行，我也签了。」这位算力大买家亲自下场站台，足见黄仁勋在整个AI生态中的分量。",
-      "reads": "156万",
-      "ago": "5 小时前",
-      "category": "组织与人事",
+      "title": "无限调用还不烧额度！Devin被曝SWE 2永久免费，单次拉起100个Subagent",
+      "summary": "用量焦虑彻底被打破了？有发帖者爆料，Devin已将SWE 2永久免费，用户不仅能无限制使用模型，还能随意调用任意数量的智能体且完全不扣使用额度。据透露，SWE 2底座基于Kimi K3打造，爆料者实测在SWE 2 Max上单次拉起了100个Subagent；面对这种多Agent狂潮，马斯克也顺势发声直言：「未来会有很多智能体」。",
+      "reads": "9.8万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "研究员Nathan Lambert指出，随着智能体不再仅限于生成文本、而是越来越独立地代表人类采取行动，用于组织对齐和轻量级外部监督的模型规格（Model…"
+      ],
       "quote": {
-        "who": "NIK",
+        "who": "Elon Musk",
         "role": "",
-        "said": "🚨 突发：一项恢复 Jensen Huang 在 Nvidia 职位的请愿正在进行——Elon Musk 也签了 我们信任 JENSEN。"
+        "said": "会有很多智能体"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 156万 · 组织与人事] 辞任CEO刚两天，马斯克坐不住了！亲自签字请愿：让黄仁勋回归英伟达"
+      "line": "[榜第3位 · 9.8万 · 产品与生态] 无限调用还不烧额度！Devin被曝SWE 2永久免费，单次拉起100个Subagent"
     },
     {
       "title": "打工人的会议搭子来了！马斯克连推Grok Bot：能入会派活记决策，文档里直接画图",
       "summary": "马斯克今天凌晨连发两条推特，亲自下场为 Grok Bot 疯狂站台。官方披露的一系列新能力直接切入核心办公场景：它现在不仅能直接「进会」旁听，现场回答提问、认领团队派活并记录决议；还能常驻官方技术文档，答疑时附带引用链接甚至画出任务运行示意图。加上被热传的自动化「第二大脑」，全能工作搭子这次真来抢活了。",
       "reads": "134万",
-      "ago": "6 小时前",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -98,30 +98,75 @@
       "line": "[榜第4位 · 134万 · 产品与生态] 打工人的会议搭子来了！马斯克连推Grok Bot：能入会派活记决策，文档里直接画图"
     },
     {
-      "title": "程序员连壁纸都不用自己换了！Claude Code上线主题MOD，一句话搓出动态背景",
-      "summary": "Claude Code 突然开始搞审美了！Anthropic 官方宣布桌面端正式支持通过 mods 构建自定义主题。用户不仅能随心调配色，甚至能给终端塞进动态背景。最省心的是连配置代码都不用手写，直接打字告诉 Claude 想要什么视觉风格，AI 就能帮你当场搓好套用，官方还顺手提供了 theme-examples 插件方便一键抄作业。",
-      "reads": "20万",
-      "ago": "2 小时前",
+      "title": "人类在网上成少数派！马斯克曝AI流量已超真人：五年还要再翻1000倍",
+      "summary": "互联网上的真人正在沦为少数派。马斯克在访谈中援引 Cloudflare 数据直言，AI 智能体在网上跑的流量实际上已经彻底超过了人类；更夸张的是，业内预测 5 年内智能体流量将达到人类流量的 1000 倍，马斯克甚至补刀称这个判断「连 1000 倍都说保守了」。从底层网络管道到顶层智力高地，机器对人类空间的挤压正在全方位提速。",
+      "reads": "6.5万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "OpenAI 一口气甩出的 370 个数学证明，正在高校里引发连锁恐慌。UT Austin 理论计算机科学家 Scott Aaronson 透露，现在的研究…"
+      ],
       "quote": {
-        "who": "ClaudeDevs",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "现在你可以在桌面上使用 mods 为 Claude Code 构建自定义主题了！更改颜色、添加动态背景，打造属于你自己的风格。 只需告诉 Claude 你想要什么样的外观，或者使用 theme-examples 插件快速开始。我们很想看看你做出了什么！"
+        "said": "完整视频在 \"MTS\" YouTube 频道上，"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 20万 · 产品与生态] 程序员连壁纸都不用自己换了！Claude Code上线主题MOD，一句话搓出动态背景"
+      "line": "[榜第5位 · 6.5万 · 产品与生态] 人类在网上成少数派！马斯克曝AI流量已超真人：五年还要再翻1000倍"
+    },
+    {
+      "title": "Claude Code项目功能大升级！AI协调器变主动，跨线程进度实时报",
+      "summary": "今天清晨，官方宣布 Claude Code 中的 Projects 功能迎来重磅升级。在项目模式下，负责跨并行线程调度任务的协调器变得更加主动：它不仅能直接在项目聊天窗口回答开发者的问题，还会实时主动同步各个后台线程的运行状态，不用再挨个窗口切换对齐进度。",
+      "reads": "61万",
+      "ago": "11 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "ClaudeDevs",
+        "role": "",
+        "said": "我们对 Claude Code 中的 Projects 功能做了一些重大更新！ 在项目模式下，Claude 会跨并行线程协调你的任务。协调器现在更加主动了。它会在项目聊天中回答你的问题，并告知你进行中线程的状态。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 61万 · 产品与生态] Claude Code项目功能大升级！AI协调器变主动，跨线程进度实时报"
+    },
+    {
+      "title": "全美航管宕机真凶查明！80年代老路由和铜线过载，软件更新直接搞崩",
+      "summary": "全美航班大面积延误的真相曝光，并非遭遇网络攻击，而是承包商 L3Harris 在给私有网络 FTI 推送软件更新时彻底翻车。一次更新触发重启后系统瞬间崩溃，官员透露，压垮通信的诱因竟是 1980 年代的古董路由器和过载的老铜线。目前，承包商的技术处置流程以及 FAA 对半个世纪前老旧基础设施的严重依赖，正全面接受官方审查。",
+      "reads": "10万",
+      "ago": "5 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "涉事网络为承包商 L3Harris 运营维护的 FTI 网络，负责连接全美空中交通管制中枢。",
+        "调查人员已初步排除外部网络黑客攻击，事故定性为内部更新翻车与严重老化的物理线路硬件共振所致。"
+      ],
+      "quote": {
+        "who": "Grok",
+        "role": "",
+        "said": "消息人士报道，L3Harris管理的FTI网络更新导致了重启和崩溃。官员们称是1980年代的路由器和铜线过载所致。承包商系统的处理方式和FAA对老旧基础设施的依赖都是正在审查的因素。目前未发现网络攻击，所"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 10万 · 政策与安全] 全美航管宕机真凶查明！80年代老路由和铜线过载，软件更新直接搞崩"
     },
     {
       "title": "特斯拉Robotaxi真能买回家了！部分客户收到Cybercab个人版购买邀请",
       "summary": "原本以为专跑无人出租网络的 Cybercab，真能作为私家车买回家了！今晨特斯拉官方正式转发确认，目前已开始邀请部分精选客户购买 Cybercab 供个人使用。当初那台没有方向盘、没有踏板的双座纯视觉自动驾驶车，现在直接端到了个人买家的订单页上。",
-      "reads": "16万",
-      "ago": "3 小时前",
+      "reads": "46万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
@@ -134,14 +179,163 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 16万 · 产品与生态] 特斯拉Robotaxi真能买回家了！部分客户收到Cybercab个人版购买邀请"
+      "rank": 8,
+      "line": "[榜第8位 · 46万 · 产品与生态] 特斯拉Robotaxi真能买回家了！部分客户收到Cybercab个人版购买邀请"
+    },
+    {
+      "title": "数周预训练直接砍到68小时！Mira新模型放狠招：原生4-bit从头跑到底",
+      "summary": "Mira Murati 创立的 Thinking Machines 正式揭秘了 Inkling 2 Small 的训练内幕。为了打破量化误差干扰模型学习的魔咒，团队在英伟达 GB300 上实现了从预训练第一步到最终 RL rollout 全程「原生 4-bit 前向传播」。这项全栈改进直接将原本长达数周的预训练压缩到了 68 小时，连业内研究员看后都连赞惊艳。",
+      "reads": "28万",
+      "ago": "8 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "该技术方案已在官方博客 Connectionism 完整公开，重点攻克了低比特训练中量化误差干扰模型收敛的业界难题。"
+      ],
+      "quote": {
+        "who": "Guodong Zhang",
+        "role": "",
+        "said": "4bit 预训练令人印象深刻"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 28万 · 模型与能力] 数周预训练直接砍到68小时！Mira新模型放狠招：原生4-bit从头跑到底"
+    },
+    {
+      "title": "迎回黄仁勋风暴打响！Replit创始人带头联署公开信，号召全行业签名",
+      "summary": "黄仁勋离职震荡持续发酵，硅谷科技圈坐不住了！Replit 创始人 Amjad Masad 等业内人士相继在 X 上发声，公开发帖转发声援黄仁勋的「Stand with Jensen」公开信，呼吁所有人阅读并署名支持。业内不仅打出同名标签，更有人直接带上了 #bringjensenback，科技圈正掀起一场迎回灵魂领袖的联署声援潮。",
+      "reads": "9.1万",
+      "ago": "6 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Ang Li",
+        "role": "",
+        "said": "读一读那封支持 Jensen 的信，考虑签上你的名字吧。#standwithjensen #bringjensenback"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 9.1万 · 组织与人事] 迎回黄仁勋风暴打响！Replit创始人带头联署公开信，号召全行业签名"
+    },
+    {
+      "title": "程序员连壁纸都不用自己换了！Claude Code上线主题MOD，一句话搓出动态背景",
+      "summary": "Claude Code 突然开始搞审美了！Anthropic 官方宣布桌面端正式支持通过 mods 构建自定义主题。用户不仅能随心调配色，甚至能给终端塞进动态背景。最省心的是连配置代码都不用手写，直接打字告诉 Claude 想要什么视觉风格，AI 就能帮你当场搓好套用，官方还顺手提供了 theme-examples 插件方便一键抄作业。",
+      "reads": "29万",
+      "ago": "10 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "ClaudeDevs",
+        "role": "",
+        "said": "现在你可以在桌面上使用 mods 为 Claude Code 构建自定义主题了！更改颜色、添加动态背景，打造属于你自己的风格。 只需告诉 Claude 你想要什么样的外观，或者使用 theme-examples 插件快速开始。我们很想看看你做出了什么！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 29万 · 产品与生态] 程序员连壁纸都不用自己换了！Claude Code上线主题MOD，一句话搓出动态背景"
+    },
+    {
+      "title": "200美元订阅直接腰斩！Codex下周直降100刀，程序员为清空4次重置急了",
+      "summary": "Codex订阅费即将迎来大变动，200美元月费计划将在11月20日直接腰斩降至100美元！但这让手里有存货的用户陷入两难：有开发者吐槽自己还攒着4次重置机会，为了不亏本，必须在20日前全部突击刷完，哪怕每次只能榨出50%额度也得硬上。与此同时，编码工具站队仍在持续，有开发者直言过去两个月用Claude Code配Opus 5.5当主力最聪明高效，GPT相比之下差距依然明显。",
+      "reads": "7.3万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "订阅价格调整：Codex每月200美元的订阅计划将于11月20日正式降至100美元，降幅达50%。",
+        "额度突击压力：由于订阅方案变更在即，存有重置机会的用户需在11月20日前消耗完账户内积攒的重置次数以实现价值最大化。",
+        "主力工具之争：有资深开发者反馈，今年在Codex与Claude Code之间频繁切换，目前Opus 5.5在效率与表现上仍明显领先于GPT系列。"
+      ],
+      "quote": {
+        "who": "Kol Tregaskes",
+        "role": "",
+        "said": "我有个两难选择。我有四次存下的 Codex 重置机会，而我的订阅计划将在11月20日从每月200美元降至100美元。 为了最大化利用这些重置机会，我需要在20号前把它们全部用完。即使每次只能获得50%的重置额度，也值得这么做。 但我打算……"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 7.3万 · 产品与生态] 200美元订阅直接腰斩！Codex下周直降100刀，程序员为清空4次重置急了"
+    },
+    {
+      "title": "微软全球大宕机烧穿74国！4.5亿打工人瘫痪5小时，官方紧急甩锅：不是AI干的",
+      "summary": "全球打工人猝不及防被「放假」半天。从11月13日晚间至14日，微软旗下 Outlook、Teams 和 Copilot 突发全球大面积中断，波及 74 个国家、覆盖多达 4.5 亿付费工作账户，故障持续超 5 个小时并直接引发微软股价跳水。面对排山倒海的声讨，微软不仅光速声明「全国航班停飞别赖我们」，还专门排除了自家 AI 惹祸的可能，把锅暂时扣给了早期网络故障。",
+      "reads": "7.6万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "面对外界对基础设施崩溃的猜测，微软官方专门发文撇清干系，称没有任何迹象表明美国 FAA 的全国停飞与微软服务有关。",
+        "对于核心故障诱因，微软目前仅含糊解释为「早期网络中引入的故障」，既未说明具体触发环节，也未公布 4.5 亿付费账户中究竟有多少实际受损。"
+      ],
+      "quote": {
+        "who": "Coin Bureau",
+        "role": "",
+        "said": "🚨 Microsoft, $MSFT ，排除了自家 AI 导致全球服务中断的可能性，该服务拥有 4.5 亿付费席位。 它至今仍未说明真正的原因是什么，或有多少席位受到影响。 目前唯一的解释是早期网络中引入的故障"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 7.6万 · 产品与生态] 微软全球大宕机烧穿74国！4.5亿打工人瘫痪5小时，官方紧急甩锅：不是AI干的"
+    },
+    {
+      "title": "想让AI替你谈恋爱？Tinder连夜设防：代表真人也不行，严禁智能体代聊",
+      "summary": "想偷懒让 AI 替你刷资料、网恋代聊的门路，被彻底堵死了。拥有 Tinder 和 Hinge 的约会巨头 Match Group 正式下场筑起护栏，全面禁止 AI 智能体替用户约会。官方明确表示，即便这个机器人背后代表的是真人也绝不允许，平台已直接掐断智能体浏览主页和发送私信的通道，严防用户匹配之后变成两个 AI 在隔空互撩。",
+      "reads": "2.3万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Pankaj Kumar",
+        "role": "",
+        "said": "他们现在正尽力去匹配"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 2.3万 · 产品与生态] 想让AI替你谈恋爱？Tinder连夜设防：代表真人也不行，严禁智能体代聊"
+    },
+    {
+      "title": "绝不虚高哪怕一美元！Anthropic掌门谈启动IPO真相：只为算力豪赌备足现金缓冲",
+      "summary": "「绝不让公司估值比实际价值高哪怕一美元！」面对筹备中的 IPO，Anthropic CEO Dario Amodei 公开定调，明确希望团队在上市时做到「少承诺，多交付」。至于为何在这个节点推进上市，他坦言一切都源于公司在算力上的庞大押注，手头的现金越多，应对风险的缓冲空间就越大。",
+      "reads": "6.8万",
+      "ago": "6 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "The Wall Street Journal",
+        "role": "",
+        "said": "Anthropic 首席执行官 Dario Amodei 表示，关于这家人工智能巨头计划中的首次公开募股，他希望公司能“少承诺多交付”。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 6.8万 · 资本与算力] 绝不虚高哪怕一美元！Anthropic掌门谈启动IPO真相：只为算力豪赌备足现金缓冲"
     },
     {
       "title": "给AI一张信用卡！OpenAI上线ChatGPT Wallet，让dots智能体替你网购",
       "summary": "OpenAI昨夜突然给AI装上了钱包，正式上线ChatGPT Wallet！你的常驻智能体dots现在不仅能干活，还能直接替你在线网购。只要在钱包里存好支付卡，dots就能化身买手，从浏览商品、跨店比价到推至结账界面全程代劳。不过OpenAI设好了安全防线：智能体每下一笔单，都必须经过人类的明确审核与授权。",
       "reads": "24万",
-      "ago": "4 小时前",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -157,208 +351,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 24万 · 产品与生态] 给AI一张信用卡！OpenAI上线ChatGPT Wallet，让dots智能体替你网购"
-    },
-    {
-      "title": "自动健康检查搞崩服务器！微软全球大宕机，连OpenAI都被拖下水了",
-      "summary": "打工人周四集体懵了，微软突发全球大宕机，Outlook、Teams 和 SharePoint 连环崩溃，数万用户瞬间断联！微软排查后确认并非黑客攻击，而是内部「自动健康检查」出故障，导致服务器大批离线，剩余节点被暴增的负载直接压垮。这波雪崩甚至把 OpenAI 的 Microsoft 365 连接器一同拖下水，直到今早才彻底恢复运行。",
-      "reads": "7.7万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "事故根因系自动健康检查机制故障引发服务器大规模崩溃，连锁过载导致剩余节点瘫痪，微软已确认排除恶意攻击。",
-        "受影响的不仅是微软自家全家桶，OpenAI 状态页显示其 Microsoft 365 连接器同步受损，现已全线恢复正常。"
-      ],
-      "quote": {
-        "who": "Grok",
-        "role": "",
-        "said": "已通过 OpenAI 状态页确认：Microsoft 365 连接器事件现已解决（更新于 11 月 14 日约 01:18 UTC）。所有受影响的服务均运行正常。 根本原因是 Microsoft 基础设施问题（服务器不可用），影响了 Outlook、Teams、SharePoint 以及"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 7.7万 · 产品与生态] 自动健康检查搞崩服务器！微软全球大宕机，连OpenAI都被拖下水了"
-    },
-    {
-      "title": "第三方供应商被攻破！Uber爆出数据泄露，官方正连夜挨个通知用户",
-      "summary": "据《华尔街日报》报道，Uber 的后院又被第三方供应商给点着了。由于一家外部服务合作方遭遇网络安全漏洞，导致大量用户的个人隐私数据直接暴露。目前 Uber 已经确认了这起安全事故，并且正在紧急给所有受波及的用户挨个推送通知提醒。",
-      "reads": "8.3万",
-      "ago": "3 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "The Wall Street Journal",
-        "role": "",
-        "said": "Uber 正在通知用户，由于公司的一家服务提供商发生数据泄露事件，他们的个人信息已暴露。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 8.3万 · 政策与安全] 第三方供应商被攻破！Uber爆出数据泄露，官方正连夜挨个通知用户"
-    },
-    {
-      "title": "四天狂发两大Gemini 4与第8代TPU！皮查伊晒恐怖清单：一周干完一年的活",
-      "summary": "皮查伊和谷歌官方直接给全行业上了一堂「极限发货」课。从周一到周四短短4天，谷歌接连砸出两款第8代TPU芯片、两大新模型Gemini 4 Carbon与Gemini 4 Hydrogen，顺手还端出了具身模型Gemini Robotics 2.5、搞定Signal协议的形式验证AlphaProof Code，以及用于疾病研究的AlphaGenome 2。皮查伊轻描淡写一句「这只是…",
-      "reads": "17万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "周一硬件筑基：同步推出两款第 8 代 TPU 芯片，夯实底层算力基础设施。",
-        "周二软硬件与具身联动：发布 Gemini 4 Carbon 与具身智能 Gemini Robotics 2.5，AlphaProof Code 则成功验证了…",
-        "周三进军生命科学与开发者生态：推出用于疾病研究的 AlphaGenome 2，并在 AI Studio 中上线了 Gemini Decisions API。",
-        "周四旗舰模型再加码：正式推出 Gemini 4 Hydrogen，完成 4 天内两款 Gemini 4 级别模型的密集交卷。"
-      ],
-      "quote": {
-        "who": "Google",
-        "role": "",
-        "said": "一周的工作成果 🚀"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 17万 · 模型与能力] 四天狂发两大Gemini 4与第8代TPU！皮查伊晒恐怖清单：一周干完一年的活"
-    },
-    {
-      "title": "皮查伊直接甩出整周战报！Gemini 4连发两款、第8代TPU落地，谷歌火力全开",
-      "summary": "北京时间11月14日凌晨，Google CEO 皮查伊亲自甩出本周发版战报，从周一到周四天天都在连环轰炸。除了周一落地两款第8代TPU硬件，周二和周四更接连端出 Gemini 4 Carbon 与 Hydrogen 两款新模型，中间还穿插了机器人模型 2.5 版与疾病研究神器 AlphaGenome 2。面对模型直连资产的担忧，官方也紧急挑明：连上钱包后 Gemini 只有只读…",
-      "reads": "18万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "开发与协议安全同步推进：AI Studio 现已上线 Gemini Decisions API，周二还公布了由 AlphaProof Code 形式化验证的…",
-        "前沿基准与科研工具入列：除疾病研究模型 AlphaGenome 2 与机器人 Gemini Robotics 2.5 之外，团队本周还推出了多模态知识智能体…"
-      ],
-      "quote": {
-        "who": "Sundar Pichai",
-        "role": "",
-        "said": "本周我们发布了什么 @google 周一：两款新的第 8 代 TPU 周二：Gemini 4 Carbon - AlphaProof Code 验证的 Signal 协议 - Gemini Robotics 2.5 周三：用于疾病研究的 AlphaGenome 2 - AI Studio 中的 Gemini Decisions API 周四：Gemini 4 Hydrogen - 智能"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 18万 · 模型与能力] 皮查伊直接甩出整周战报！Gemini 4连发两款、第8代TPU落地，谷歌火力全开"
-    },
-    {
-      "title": "FTX破产血亏400亿美元！当年贱卖Anthropic股份，下周IPO全便宜了别人",
-      "summary": "这可能是风投史上最让人心痛的「卖飞」。据金融时报报道，SBF旗下Alameda曾在2021年豪掷5亿美元入局Anthropic，拿下近14%股份，直接帮这家AI巨头招兵买马度过早期阶段。然而随着FTX暴雷，这批股份在2024年破产清算时以约13亿美元草草甩卖。按Anthropic下周预期的IPO价格计算，这笔持仓如今价值高达370亿至近400亿美元，直接错失了近80倍的泼天富贵…",
-      "reads": "3.1万",
-      "ago": "1 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "Alameda Research Ventures当年在Anthropic估值约40亿美元时入场，5亿美元投资换得近14%股份，是Anthropic早期招募…",
-        "FTX在2024年破产重组期间以约13亿美元出售该股份；若坚持持有至下周IPO，净赚可达近400亿美元。"
-      ],
-      "quote": {
-        "who": "Wall St Engine",
-        "role": "",
-        "said": "FTX 曾是 Anthropic 的早期投资者，Sam Bankman-Fried 的 Alameda Research 在 2021 年投资了 5 亿美元。 该股份在 2024 年 FTX 破产期间以约 13 亿美元出售。 如果持有至今，在 Anthropic IPO 时，该股份价值可能接近 400 亿美元。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 3.1万 · 资本与算力] FTX破产血亏400亿美元！当年贱卖Anthropic股份，下周IPO全便宜了别人"
-    },
-    {
-      "title": "后悔辞职了？曾轰动全网的Anthropic前研究员改口：我可能会回去",
-      "summary": "当初写下离职信轰动硅谷的前Anthropic核心预训练研究员Jacob Coxon，居然改口想回去了！他最新坦白，自己现在极其犹豫，根本不确定离开到底做没做对，甚至明确表示可能会回老东家。而谈及当初出走的决定性导火索，他承认是看了公司IPO路演的一张幻灯片后被彻底震慑。",
-      "reads": "3.9万",
-      "ago": "2 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "离职导火索是一张PPT：Coxon透露，路演PPT中以对数尺度绘制的预训练计算效率曲线至今仍在向上翘起，展现出令人窒息的「超指数级算法进步」。",
-        "圈内将其作为标志事件：在海外爆料指称中国AI实验室使用受限Blackwell芯片时，爆料者直接将其类比为「Jacob Coxon 2.0」。"
-      ],
-      "quote": {
-        "who": "TFTC",
-        "role": "",
-        "said": "前 Anthropic 预训练研究员 Jacob Coxon 表示，公司 IPO 路演中的一张幻灯片是他决定离职的重要因素。 他说该图以对数尺度绘制了预训练计算效率，曲线仍呈上升趋势：“超指数级的算法进步。”"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 3.9万 · 组织与人事] 后悔辞职了？曾轰动全网的Anthropic前研究员改口：我可能会回去"
-    },
-    {
-      "title": "数周预训练狂缩至68小时！Mira晒出新技术：GB300跑通全程原生4-bit",
-      "summary": "低比特训练常因量化误差干扰模型收敛被视作险途，Thinking Machines 团队这次硬生生跑通了全流程。Mira Murati 透露，团队在英伟达 GB300 集群上训练 Inkling 2 Small 时，从预训练第 1 步到最终的强化学习（RL rollout），全程采用原生 4-bit 前向传播。配合全栈多项软硬件改进，模型原本需要数周的预训练时间直接被砍到 68…",
-      "reads": "2.5万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "全栈协同优化：据 Mira Murati 透露，原生 4-bit 前向传播是全栈多项改进之一，与英伟达 GB300 硬件深度协同，才最终将预训练周期从数周大…",
-        "全链路端到端覆盖：技术博客 Connectionism 披露，本次突破重点解决了量化误差对学习的干扰，让 4-bit 前向计算贯穿了从第一步预训练到后续 R…"
-      ],
-      "quote": {
-        "who": "Guodong Zhang",
-        "role": "",
-        "said": "4bit 预训练令人印象深刻"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 2.5万 · 模型与能力] 数周预训练狂缩至68小时！Mira晒出新技术：GB300跑通全程原生4-bit"
-    },
-    {
-      "title": "56亿美元！传三星拟全盘吞下美国散热巨头Modine，股价创6年最大暴涨",
-      "summary": "据彭博社报道，三星正在洽谈收购美国数据中心冷却系统制造商 Modine Manufacturing，这笔交易最快可能在未来几周内正式敲定。Modine 当前市值约 56 亿美元，收购消息一出，其股价瞬间拉升，直接录得 2020 年以来的最大单日涨幅。随着 AI 算力中心功耗爆表，三星也开始下场猛补散热这块关键拼图了。",
-      "reads": "3.6万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Bloomberg",
-        "role": "",
-        "said": "Modine 录得自 2020 年以来最大的单日涨幅，此前彭博社报道这家为数据中心制造冷却系统的公司正在洽谈被三星收购"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 3.6万 · 资本与算力] 56亿美元！传三星拟全盘吞下美国散热巨头Modine，股价创6年最大暴涨"
-    },
-    {
-      "title": "服务器拉起就挂！微软全球大宕机超12小时，连自家员工都断邮了",
-      "summary": "微软全球大宕机持续超过12小时，不仅Outlook.com和全网M365彻底瘫痪，连微软自家人都收发不了邮件。尽管官方频繁通报，但团队至今没查清为什么服务器一重新上线就暴毙。目前推测是重启遭遇了「惊群效应」，海量积压请求瞬间冲垮节点，再加上未查明的底层Bug，让整个恢复过程陷入死循环。截至13日深夜，故障仍在蔓延。",
-      "reads": "53万",
-      "ago": "12 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Chetaslua",
-        "role": "",
-        "said": "他们还没修复这个问题"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 53万 · 产品与生态] 服务器拉起就挂！微软全球大宕机超12小时，连自家员工都断邮了"
+      "line": "[榜第16位 · 24万 · 产品与生态] 给AI一张信用卡！OpenAI上线ChatGPT Wallet，让dots智能体替你网购"
     }
   ],
   "board_count": 16,
