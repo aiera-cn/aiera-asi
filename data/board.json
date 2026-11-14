@@ -3,37 +3,59 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-15 00:59:31 +0800",
+  "fetched_at": "2026-11-15 05:23:22 +0800",
   "today": "11/15",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "马斯克深夜爆料：英伟达供应链全靠黄仁勋刷脸！没签合同，人一走交易就黄",
-      "summary": "马斯克发推敲响警钟：英伟达看似坚不可摧的供应链其实埋着巨大隐患。黄仁勋在供应链运作上确实封神，但他谈下的大量关键交易全凭个人交情的「握手口头约定」，根本没落成书面合同。业内爆料老黄当年极具前瞻性，连极小规模的供应商高管都亲自去磕、直接买断产能；但马斯克直言，一旦没有了黄仁勋，这些关键交易随时会黄掉，而谷歌眼下已经在四处向这些供应商乞求分流产能了。",
-      "reads": "120万",
-      "ago": "1 小时前",
+      "title": "全靠老黄刷脸！马斯克曝英伟达致命危机：关键产能全凭口头协议，谷歌已进场抢单",
+      "summary": "英伟达称霸全球的算力供应链，居然全靠黄仁勋个人「刷脸」？马斯克公开揭秘，老黄当年为了买断产能亲自跑遍微型供应商，但很多关键协议仅仅是握手言和的口头约定，根本没有书面合同。马斯克警告，一旦失去黄仁勋，英伟达至少会丢掉部分关键供货；而嗅到机会的对手已经火速进场，分析师透露老黄前脚刚走，谷歌后脚就冲上去向这些小厂求购产能了。",
+      "reads": "121万",
+      "ago": "3 小时前",
       "category": "组织与人事",
       "source": "新智元",
-      "bullets": [
-        "爆料指出黄仁勋当年对算力需求有极为超前的预判，甚至亲自下场逐一拜访微型供应商的高管，才成功说服他们将产能全部包给英伟达。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Coinvo",
+        "who": "Wall St Engine",
         "role": "",
-        "said": "突发：Elon Musk 警告称，如果没有 Jensen Huang，Nvidia 的一些关键供应链交易将会流失"
+        "said": "ELON MUSK 警告 $NVDA 如果没有 JENSEN，可能会失去关键的供应协议 Musk 表示，Jensen Huang 为 Nvidia 争取到的许多供应协议是基于个人握手而非书面合同。 以他作为客户的亲身经历为例，Musk 说 Huang 总是"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 120万 · 组织与人事] 马斯克深夜爆料：英伟达供应链全靠黄仁勋刷脸！没签合同，人一走交易就黄"
+      "line": "[榜第1位 · 121万 · 组织与人事] 全靠老黄刷脸！马斯克曝英伟达致命危机：关键产能全凭口头协议，谷歌已进场抢单"
+    },
+    {
+      "title": "马斯克野心藏不住了！Grok Bot杀入会议干活，还被曝测试自动买单",
+      "summary": "马斯克亲自力推的 Grok Bot 已经能直接进会议室干活了。它不仅能在开会时实时接招、认领工作，还能全程同步记录团队的所有决策。更刺激的是，最新爆料显示 Grok Bot 还在秘密内测「自动批准购买」功能，只要不触发限额或价格变动，它甚至能直接替你下单付款。从白天开会打工到掌管信用卡，全能 Agent 正在接管日常。",
+      "reads": "66万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "会议协同：用户可在会议中随时向 Grok Bot 提问或派发任务，并由其负责追踪记录团队做出的每项决策。",
+        "代买风控：爆料显示，若遭遇价格变动、超额、支付失败或达到单日上限，系统仍会向用户确认；成功交易后则会提示已从商店购入。",
+        "周边动态：Claude 桌面端也在同日推送更新，已在本地会话中上线主题功能，云端会话支持即将推出。"
+      ],
+      "quote": {
+        "who": "Nima Owji",
+        "role": "",
+        "said": "GROK BOT 正在搞自动批准购买 👀 • 如果价格或总额变了、超过你的限额、支付失败，或者你达到了今天的自动批准上限，它还是会问 • 当一笔通过时，它会说已从商店购买了该商品 你会选择自动批准，还是每次都询问？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 66万 · 产品与生态] 马斯克野心藏不住了！Grok Bot杀入会议干活，还被曝测试自动买单"
     },
     {
       "title": "直接白送15%额度！马斯克官宣Grok Bot优化：套餐又能多跑了",
       "summary": "马斯克在 11 月 14 日晚转发确认，Grok Bot 迎来一波底层效率大升级。团队本周悄悄上线了多项 harness 优化，直接给用户送上实质福利：常规任务最多能多跑约 15% 用量，整体套餐额度也预计提升约 7%。一边是同日有用户吐槽 ChatGPT 桌面端提速屡屡跳票、被逼得用 Claude 来管理 OpenAI 模型；另一边马斯克直接把优化下来的算力，折成了实打实的可…",
-      "reads": "53万",
-      "ago": "44 分钟前",
+      "reads": "77万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
@@ -46,34 +68,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 53万 · 产品与生态] 直接白送15%额度！马斯克官宣Grok Bot优化：套餐又能多跑了"
-    },
-    {
-      "title": "宁可自己掏钱资助客户买卡，也绝不降价！英伟达被曝闭环消化过剩GPU库存",
-      "summary": "英伟达面对过剩的 GPU 库存，不仅坚决不肯降价抛售，还被曝出了一手神奇操作。据最新报道披露，公司动用自家的真金白银资助 AI 初创团队和数据中心，目的只有一个——让这帮客户有钱继续买自家的芯片。为了保住 GPU 价格坚挺，硬生生把左手出资、右手卖卡的内循环玩成了闭环。",
-      "reads": "19万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Pirat_Nation 🔴",
-        "role": "",
-        "said": "据报道，NVIDIA 没有选择降价处理库存，而是帮 AI 初创公司买自家的 GPU。 据新报道，前 CEO Jensen Huang 用 NVIDIA 的钱资助 AI 初创公司和数据中心，让它们继续买自家芯片。 问题在于"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 19万 · 资本与算力] 宁可自己掏钱资助客户买卡，也绝不降价！英伟达被曝闭环消化过剩GPU库存"
+      "line": "[榜第3位 · 77万 · 产品与生态] 直接白送15%额度！马斯克官宣Grok Bot优化：套餐又能多跑了"
     },
     {
       "title": "不到3万美元！特斯拉Cybercab开启个人订购：每月必须交299刀订阅才能跑",
       "summary": "特斯拉突然向部分受邀客户放出个人版 Cybercab 的订购资格，开启早期限量发售。新车起售价直接定在 29,990 美元（约合 21.7 万元人民币），定金只需 1,000 美元。不过想把它开上路有硬性门槛：官方强制要求每月绑定支付 299 美元的 Autonomy 自动驾驶订阅费才能运行，仅赠送首月免费体验。",
       "reads": "13万",
-      "ago": "2 小时前",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -93,53 +95,10 @@
       "line": "[榜第4位 · 13万 · 产品与生态] 不到3万美元！特斯拉Cybercab开启个人订购：每月必须交299刀订阅才能跑"
     },
     {
-      "title": "折磨多年的复杂怪病医生全看漏！资深记者向AI求助，终于找出了病因",
-      "summary": "多年来饱受怪异症状折磨、跑遍医院却屡遭医生忽视，最后的破局者居然是 AI。据《华尔街日报》报道，其记者 Katherine Bindley 在长期受困于令人困惑的身体异样后转向 AI 求助，最终成功搞清了多位医生一直漏诊的复杂病症。当传统医疗体系在疑难杂症排查上频繁撞墙，靠大模型辅助自救的故事，又多了一个极具说服力的真实样本。",
-      "reads": "23万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "The Wall Street Journal",
-        "role": "",
-        "said": "在忍受了多年令人困惑的症状后，我转向了 AI——终于得到了答案，关于那个医生们一直忽视的复杂病症。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 23万 · 产品与生态] 折磨多年的复杂怪病医生全看漏！资深记者向AI求助，终于找出了病因"
-    },
-    {
-      "title": "嫌AI写的全是老古董代码？Chrome、Edge和Firefox联手MDN，直接给编程智能体立规矩",
-      "summary": "你让 AI 写前端，它却总掏出十几年前的过时方案？Chrome 团队点破了真相：编码智能体的训练数据塞满了历史遗留代码，导致它们默认只会按照旧 Web 模式写程序。为此，Chrome、Edge、Firefox 罕见携手 MDN 团队，联合推出名为 Modern Web Guidance 的技能集，直接把当下的现代 Web 最佳实践和浏览器兼容性数据喂给编码智能体，从源头治好 A…",
-      "reads": "5.7万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "根源在于语料污染：由于模型预训练语料充斥着多年沉淀的陈年项目，编码智能体在写代码时极易默认调用被淘汰的旧 API，无法跟上各家浏览器的新标准。",
-        "智能体协同也在加速：另一边内容生产环节同样被多 Agent 接管，有博主实测 Riverside.fm 新出的四智能体协同团队（Producer、Edito…"
-      ],
-      "quote": {
-        "who": "Chubby♨️",
-        "role": "",
-        "said": "我用 @RiversidedotFM 的新 AI 智能体，在几分钟内将一小时长的访谈变成了一整套内容营销活动。 四个智能体作为一个团队工作：Producer、Editor、Clipper 和 Marketer。我给 Producer 一个提示词和我们与 Alex Salazar 的节目。Clipper 把最佳时刻提取成"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 5.7万 · 产品与生态] 嫌AI写的全是老古董代码？Chrome、Edge和Firefox联手MDN，直接给编程智能体立规矩"
-    },
-    {
       "title": "测试者集体惊呼「绝对是假的」！GPT-6.2 Astra匿名盲测流出，硬刚Fable 5.2",
       "summary": "OpenAI下一张王牌的匿名盲测直接把测试者整不会了。爆料显示，10月初Fable 5.2开启匿名A/B测试时，全网还在惊呼「世界最佳」并在11月9日迎来正式发布；而到了11月GPT-6.2 Astra开启盲测，大家的统一反应竟变成了「这绝对是假的」。两强对抗不仅进入白热化，Anthropic泄露的IPO路演幻灯片更显示，其预训练计算效率在对数坐标下正维持持续的超指数级狂飙。",
-      "reads": "9.2万",
-      "ago": "2 小时前",
+      "reads": "11万",
+      "ago": "7 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -156,37 +115,97 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 9.2万 · 模型与能力] 测试者集体惊呼「绝对是假的」！GPT-6.2 Astra匿名盲测流出，硬刚Fable 5.2"
+      "rank": 5,
+      "line": "[榜第5位 · 11万 · 模型与能力] 测试者集体惊呼「绝对是假的」！GPT-6.2 Astra匿名盲测流出，硬刚Fable 5.2"
     },
     {
-      "title": "号称月入1万美元！Grok Bot突然被玩成印钞机，连推文都能印成杂志",
-      "summary": "海外 AI 社区最近掀起了一波 Grok Bot 探索热潮。多位博主直接把它和 Fable 5.2 捧为「终极印钞机」，声称新手靠这套模式就能实现月入 10,000 美元。除了变现噱头，社区也涌现出不少扎实玩法：有人教 bot 每周定时抓取邮件中的会议与联系人自动备份至云端防断联，还有人打造了新工具，能将任意账号一整年的推文直接排版成全彩可打印杂志。",
-      "reads": "3.0万",
-      "ago": "52 分钟前",
+      "title": "英伟达机器人跑去翻垃圾堆！视觉AI分拣旧衣烂瓶，救下数千吨废料",
+      "summary": "AI 卷完代码和图像，现在开始下场「收破烂」了。英伟达发文盘点视觉 AI 与机器人技术在垃圾回收领域的最新落地：让机器人精准识别并分拣旧衣物、塑料瓶及混合废料，硬生生从垃圾填埋场里截胡并救下数千吨材料。这套技术不仅让回收商从废品堆里挖出真金白银，也让一批初创团队把 AI 塞进了最接地气的环保一线。",
+      "reads": "3.5万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "NVIDIA",
+        "role": "",
+        "said": "AI 正在帮助回收商在废物中看到更多价值。♻️ 了解视觉 AI 和机器人如何分拣旧衣物、瓶子和混合可回收物，回收可再利用材料，并将数千吨垃圾从填埋场转移出去。 认识这些赋予日常材料第二次生命的初创公司 🧵"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 3.5万 · 产品与生态] 英伟达机器人跑去翻垃圾堆！视觉AI分拣旧衣烂瓶，救下数千吨废料"
+    },
+    {
+      "title": "嫌AI写的全是老古董代码？Chrome、Edge和Firefox联手MDN，直接给编程智能体立规矩",
+      "summary": "你让 AI 写前端，它却总掏出十几年前的过时方案？Chrome 团队点破了真相：编码智能体的训练数据塞满了历史遗留代码，导致它们默认只会按照旧 Web 模式写程序。为此，Chrome、Edge、Firefox 罕见携手 MDN 团队，联合推出名为 Modern Web Guidance 的技能集，直接把当下的现代 Web 最佳实践和浏览器兼容性数据喂给编码智能体，从源头治好 A…",
+      "reads": "5.7万",
+      "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "防丢备份例程：通过设定指令让 Grok Bot 在每周日上午 9 点自动提取邮件里的关键联系人及下周会议日程，生成文档存入 Google Drive 的备份…",
-        "推出「X Year Lookback」：该 Grok Bot 专为内容存档打造，读取指定账号一年的全部动态后，直接输出一份能保存、分享甚至印出来放在咖啡桌上…"
+        "根源在于语料污染：由于模型预训练语料充斥着多年沉淀的陈年项目，编码智能体在写代码时极易默认调用被淘汰的旧 API，无法跟上各家浏览器的新标准。",
+        "智能体协同也在加速：另一边内容生产环节同样被多 Agent 接管，有博主实测 Riverside.fm 新出的四智能体协同团队（Producer、Edito…"
       ],
       "quote": {
-        "who": "Brian Roemmele",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "新的 GROK BOT！ 你在 X 上过去一年的经历值得更多，不只是刷一刷。它值得一本杂志。📖✨ 认识一下 X Year Lookback，这是我构建的一个 Grok Bot，它能读取任何 X 账号的一年动态，并将其变成一本全彩、可打印的杂志，你可以保存、分享或放在咖啡桌上。 它不是"
+        "said": "我用 @RiversidedotFM 的新 AI 智能体，在几分钟内将一小时长的访谈变成了一整套内容营销活动。 四个智能体作为一个团队工作：Producer、Editor、Clipper 和 Marketer。我给 Producer 一个提示词和我们与 Alex Salazar 的节目。Clipper 把最佳时刻提取成"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 5.7万 · 产品与生态] 嫌AI写的全是老古董代码？Chrome、Edge和Firefox联手MDN，直接给编程智能体立规矩"
+    },
+    {
+      "title": "7周从第一行代码到上线！SpaceX核心成员打造Grok Bot，AI队友后台持续打工",
+      "summary": "从敲下第一行代码到正式发布，只花了整整 7 周！Y Combinator 披露，SpaceX 团队核心成员 Lauren Tan 与 Roman Ugarte 联手推出了 Grok Bot。用户不仅能为它创建拥有独立身份和登录账号的专属 AI 队友，它还能直接挂在后台持续自主打工，再也不用守着对话框实时催活了。",
+      "reads": "4.1万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Y Combinator",
+        "role": "",
+        "said": "在 @SpaceXSI ，Lauren Tan ( @poteto ) 和 Roman Ugarte ( @romanugarte_ ) 是核心团队的一员，他们在七周内将Grok Bot从第一行代码带到上线。 它允许你创建拥有自己身份和登录信息的AI队友，并且它们会在后台持续工作。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 3.0万 · 产品与生态] 号称月入1万美元！Grok Bot突然被玩成印钞机，连推文都能印成杂志"
+      "line": "[榜第8位 · 4.1万 · 产品与生态] 7周从第一行代码到上线！SpaceX核心成员打造Grok Bot，AI队友后台持续打工"
+    },
+    {
+      "title": "整整72天没发前沿大模型！OpenAI创一年多最长空窗期，奥特曼在憋什么大招？",
+      "summary": "有统计显示，距离 OpenAI 上一次发布前沿模型，已经整整过去了 72 天。这是自 2025 年 8 月到 11 月（GPT-5 至 5.1）以来，OpenAI 经历的最长发布空窗期。社区直呼催更催到头秃：如果接下来几周奥特曼手头的新模型还不端出来，这个时间差就将彻底打破 o3 以来的历史最长真空期纪录。",
+      "reads": "1.9万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "leo 🐾",
+        "role": "",
+        "said": "距离 OpenAI 上次发布前沿模型已经过去了 72 天——官方口径下，这是自 GPT-5 到 5.1（2025 年 8 月至 11 月）以来最长的空窗期。 如果未来几周还不发，这将成为 o3 之后 OpenAI 两次前沿模型发布之间最长的间隔"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 1.9万 · 模型与能力] 整整72天没发前沿大模型！OpenAI创一年多最长空窗期，奥特曼在憋什么大招？"
     },
     {
       "title": "偷看安卓用户相册被抓包！Meta遭重罚8.87亿美元：没经同意擅自读照片",
       "summary": "偷翻用户相册被逮个正着，Meta 领到了 8.87 亿美元（约 8.05 亿欧元）的巨额罚单。据路透社报道，意大利数据保护机构指控 Meta 在未告知用户且未获得明确同意的情况下，擅自访问 Android 用户的照片和视频数据。连最私密的个人相册都敢悄悄读取，欧洲监管机构这记重锤可谓毫不手软。",
-      "reads": "3.3万",
-      "ago": "1 小时前",
+      "reads": "4.9万",
+      "ago": "5 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [],
@@ -199,38 +218,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 3.3万 · 政策与安全] 偷看安卓用户相册被抓包！Meta遭重罚8.87亿美元：没经同意擅自读照片"
-    },
-    {
-      "title": "AI真能替你刷卡了！OpenAI推出ChatGPT Wallet，dot代付款不看真实卡号",
-      "summary": "OpenAI 正式把钱包交到了 AI 手里。ChatGPT 官方宣布推出 ChatGPT Wallet，首批面向美国 Pro 订阅用户的 dot 智能体推送。只要获得你的批准，dot 就能全权替你下单完成购买；最关键的是，AI 在代付款时完全接触不到你的真实银行卡号，且每一笔消费都必须通过安全检查。",
-      "reads": "19万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "首批推送范围：目前率先面向美国地区的 ChatGPT Pro 订阅用户及 dot 智能体开放。",
-        "支付隐私隔离：dot 获得授权后可直接代办购买，但全流程无需访问用户的真实银行卡信息。",
-        "交易安全兜底：智能体无法擅自花钱，除用户提前批准外，每笔支出都会强制经过安全检查。"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "每日AI简报 🗞 — 11月14日 OPENAI 🔥: - ChatGPT Wallet 正在 Dots 上向美国 Pro 订阅用户推出，这样 AI 智能体可以付款而无需查看你的真实卡号。 GOOGLE 🔥: - Antigravity 正在推出动态工作流，其中 /run-workflow 会编写一个 Python 脚本来编排"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 19万 · 产品与生态] AI真能替你刷卡了！OpenAI推出ChatGPT Wallet，dot代付款不看真实卡号"
+      "line": "[榜第10位 · 4.9万 · 政策与安全] 偷看安卓用户相册被抓包！Meta遭重罚8.87亿美元：没经同意擅自读照片"
     },
     {
       "title": "马斯克带头签字请愿！超两千名现任员工联名：求黄仁勋重回英伟达",
       "summary": "硅谷大佬们联手整了个大动静。11月14日，马斯克、Gavin Baker与Epic创始人Tim Sweeney现身StandWithJensen请愿网站，带头签字要求让黄仁勋重返英伟达。目前该请愿已斩获超1.8万个签名，更扎心的是，联名队伍里赫然包含了2013名英伟达现任员工和240名前员工，要求恢复老黄职位的呼声直接引爆全网。",
-      "reads": "17万",
-      "ago": "7 小时前",
+      "reads": "25万",
+      "ago": "11 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [],
@@ -244,59 +239,33 @@
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 17万 · 组织与人事] 马斯克带头签字请愿！超两千名现任员工联名：求黄仁勋重回英伟达"
+      "line": "[榜第11位 · 25万 · 组织与人事] 马斯克带头签字请愿！超两千名现任员工联名：求黄仁勋重回英伟达"
     },
     {
-      "title": "打工人的会议搭子来了！马斯克连推Grok Bot：能入会派活记决策，文档里直接画图",
-      "summary": "马斯克今天凌晨连发两条推特，亲自下场为 Grok Bot 疯狂站台。官方披露的一系列新能力直接切入核心办公场景：它现在不仅能直接「进会」旁听，现场回答提问、认领团队派活并记录决议；还能常驻官方技术文档，答疑时附带引用链接甚至画出任务运行示意图。加上被热传的自动化「第二大脑」，全能工作搭子这次真来抢活了。",
-      "reads": "135万",
-      "ago": "20 小时前",
-      "category": "产品与生态",
+      "title": "8月被黄仁勋当众痛批「像被车灯晃住的鹿」，英伟达CFO如今接管公司",
+      "summary": "职场大反转来得太快。自2013年起担任英伟达CFO的Colette Kress，目前已在暂代掌管整家公司。讽刺的是，就在今年8月，黄仁勋还在演示中途粗暴打断她，当众称其为只会念数据的「汇报型CFO」，甚至痛斥她像「被车灯晃住的鹿」，抱怨英伟达承诺采购的晶圆和内存正铺天盖地压过来。谁能想到仅仅过去三个月，台前掌印的却变成了她。",
+      "reads": "3.1万",
+      "ago": "6 小时前",
+      "category": "组织与人事",
       "source": "新智元",
-      "bullets": [
-        "参会与协作：用户可将 Grok Bot 接入团队会议，在会中向其提问、分配具体工作任务，并由其自动追踪记录团队敲定的决议。",
-        "文档交互与绘图：官方技术文档已内嵌 Grok Bot，不仅能基于文档内容作答并附上参考页面链接，还能直接绘制任务运行的示意图。",
-        "知识库构建：支持通过提示词将用户阅读、观看与思考的信息，自动沉淀整理为自我组织的个人知识库。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Elon Musk",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "今天试试 Grok @Bot！"
+        "said": "‼️Jensen Huang在八月称他的CFO Colette Kress是“被车灯晃住的鹿”。现在她正在管理Nvidia。 据WSJ报道，他在演示中途打断了她，并称呼她为“汇报型CFO”。 Huang说，Nvidia承诺购买的晶圆和内存正像……一样朝他涌来"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 135万 · 产品与生态] 打工人的会议搭子来了！马斯克连推Grok Bot：能入会派活记决策，文档里直接画图"
-    },
-    {
-      "title": "谷歌这波代际碾压！Carbon刚发，神秘新模Krypton又在Arena杀疯了",
-      "summary": "谷歌这一波直接把压力拉满了！官方刚推介完新旗舰 Gemini 4 Carbon，社区就接连曝出猛料：后续还有代号 Krypton 和 Helix 的新模型排队待发。目前 Krypton 甚至已在 Arena 匿名开测，部分实测输出明显强于 Carbon，引得发帖者直呼「从没想过谷歌真能打败 OpenAI」。加上本周 Anthropic 也同步扔出了 Fable 5.2，顶级模型…",
-      "reads": "1.9万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "面对新模型接连轰炸，有测试者建议别迷信基准跑分，直接用 3 个相同的实际工作任务去跑，最能测出谁才适合自己的真实业务场景。"
-      ],
-      "quote": {
-        "who": "Alex Prompter",
-        "role": "",
-        "said": "6. 用同样的 3 个任务测试每个新模型。 Fable 5.2 和 Gemini 4 Carbon 这周都发布了。基准测试不会告诉你哪个更适合你的工作。 在每个模型上跑同样的 3 个实际任务，你就知道该在什么场景下用哪个了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 1.9万 · 模型与能力] 谷歌这波代际碾压！Carbon刚发，神秘新模Krypton又在Arena杀疯了"
+      "line": "[榜第12位 · 3.1万 · 组织与人事] 8月被黄仁勋当众痛批「像被车灯晃住的鹿」，英伟达CFO如今接管公司"
     },
     {
       "title": "特斯拉Robotaxi真能买回家了！部分客户收到Cybercab个人版购买邀请",
       "summary": "原本以为专跑无人出租网络的 Cybercab，真能作为私家车买回家了！今晨特斯拉官方正式转发确认，目前已开始邀请部分精选客户购买 Cybercab 供个人使用。当初那台没有方向盘、没有踏板的双座纯视觉自动驾驶车，现在直接端到了个人买家的订单页上。",
-      "reads": "62万",
-      "ago": "16 小时前",
+      "reads": "70万",
+      "ago": "20 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
@@ -309,14 +278,61 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 70万 · 产品与生态] 特斯拉Robotaxi真能买回家了！部分客户收到Cybercab个人版购买邀请"
+    },
+    {
+      "title": "皮柴晒出恐怖清单！谷歌4天连甩重磅：两款8代TPU打头，Gemini 4全系上新",
+      "summary": "皮柴一条推文直接把圈内人看呆了，谷歌官方更是凡尔赛配文「这只是一周的工作成果」。从周一推出两款第八代TPU开始，周二砸出Gemini 4 Carbon和机器人模型，周三端出疾病研究专用的AlphaGenome 2，周四又紧接着把Gemini 4 Hydrogen推上线。整整四天每天都在丢王炸，芯片、前沿旗舰、生命科学与机器人连轴倾泻，堪称教科书级的全栈肌肉秀。",
+      "reads": "13万",
+      "ago": "12 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "周二技术矩阵密集爆发：除Gemini 4 Carbon外，还同步发布了通过形式化验证Signal协议的AlphaProof Code，以及具身智能模型Gem…",
+        "周三开发者与科学并进：推出用于疾病研究的生物大模型AlphaGenome 2，同时在AI Studio中正式上线Gemini Decisions API。",
+        "行业周边动态：Grok发帖澄清Tibo仍在负责领导OpenAI Codex，安全工作系额外加担而非离岗交接；微软工作邮箱宕机近24小时后致歉，还特意在声明中…"
+      ],
+      "quote": {
+        "who": "Aakash Gupta",
+        "role": "",
+        "said": "你这周的工作邮箱挂了快 24 小时，微软最后道歉时还特意强调 AI 没背锅。 两年前没哪家公司会费心写这么一句话。网上几乎没人信，这主要怪微软"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 62万 · 产品与生态] 特斯拉Robotaxi真能买回家了！部分客户收到Cybercab个人版购买邀请"
+      "line": "[榜第14位 · 13万 · 模型与能力] 皮柴晒出恐怖清单！谷歌4天连甩重磅：两款8代TPU打头，Gemini 4全系上新"
+    },
+    {
+      "title": "席卷74国瘫痪5小时！微软4.5亿人服务宕机，官方急撇清：真不是AI干的",
+      "summary": "波及74个国家、影响4.5亿付费席位的软件服务突然趴窝，Outlook、Teams和Copilot全球连环瘫痪超5小时。面对铺天盖地的追问，微软紧急排除了自家AI闯祸的可能性，甚至特意声明全美航班停飞也跟自己没关系，但真正的原因和受影响规模至今未交代清楚，只留下了一句耐人寻味的「早期网络故障」。",
+      "reads": "37万",
+      "ago": "17 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "官方目前唯一归咎于「早期网络中引入的故障」，未说明具体触发诱因，也未透露4.5亿席位中有多少受到实际波及。",
+        "针对同期美国全境航班瘫痪的传言，微软专门发布澄清，强调没有任何迹象表明FAA全国地面停飞与微软服务存在关联。"
+      ],
+      "quote": {
+        "who": "Coin Bureau",
+        "role": "",
+        "said": "🚨 Microsoft, $MSFT ，排除了自家 AI 导致全球服务中断的可能性，该服务拥有 4.5 亿付费席位。 它至今仍未说明真正的原因是什么，或有多少席位受到影响。 目前唯一的解释是早期网络中引入的故障"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 37万 · 产品与生态] 席卷74国瘫痪5小时！微软4.5亿人服务宕机，官方急撇清：真不是AI干的"
     },
     {
       "title": "Claude Code项目功能大升级！AI协调器变主动，跨线程进度实时报",
       "summary": "今天清晨，官方宣布 Claude Code 中的 Projects 功能迎来重磅升级。在项目模式下，负责跨并行线程调度任务的协调器变得更加主动：它不仅能直接在项目聊天窗口回答开发者的问题，还会实时主动同步各个后台线程的运行状态，不用再挨个窗口切换对齐进度。",
       "reads": "68万",
-      "ago": "17 小时前",
+      "ago": "21 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
@@ -329,28 +345,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 68万 · 产品与生态] Claude Code项目功能大升级！AI协调器变主动，跨线程进度实时报"
-    },
-    {
-      "title": "特斯拉Cybercab真开卖了！不到3万美元没方向盘，不交月租根本开不走",
-      "summary": "特斯拉那辆没有方向盘和踏板的金色双座无人车 Cybercab，正式向受邀客户开放订购，售价 29,990 美元，支付 1,000 美元定金即可排队，首批预计 12 月开启交付。但买车只是开始——车主必须每月强制订阅 299 美元的自动驾驶服务，否则这辆完全无物理控制件的车根本寸步难行。而且目前每人限购一辆，收货与运营范围被严格锁死在德州 5 个城市的指定地理围栏内。",
-      "reads": "5.3万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Kalshi",
-        "role": "",
-        "said": "突发：Tesla 开放 Cybercab 订单，售价 29,990 美元"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 5.3万 · 产品与生态] 特斯拉Cybercab真开卖了！不到3万美元没方向盘，不交月租根本开不走"
+      "line": "[榜第16位 · 68万 · 产品与生态] Claude Code项目功能大升级！AI协调器变主动，跨线程进度实时报"
     }
   ],
   "board_count": 16,
