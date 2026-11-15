@@ -3,349 +3,344 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-16 00:59:38 +0800",
+  "fetched_at": "2026-11-16 05:41:54 +0800",
   "today": "11/16",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "马斯克给开发者松绑！Grok API默认关闭文本水印，非强制绝不暗中标记",
-      "summary": "马斯克发推确认，Grok 的文本水印功能现已默认关闭，仅在当地法律强制或用户主动请求时才会开启。从 11 月 9 日起，通过 SpaceXSI API 调用 Grok 生成的文本已不再自动嵌入水印。这意味着基于 Grok 构建应用的开发者，输出内容不会再被系统暗中打上隐形追踪标记。",
-      "reads": "167万",
-      "ago": "1 小时前",
-      "category": "政策与安全",
+      "title": "薄荷糖大小磁吸边戴边充！苹果智能眼镜原型大曝光：硬件定型，软件却拖后腿",
+      "summary": "苹果首款智能眼镜原型细节遭全盘大曝光。据知名记者 Mark Gurman 爆料，代号 N50 的工程机机身比 Meta 二代 Ray-Bans 略薄，左镜腿配有薄荷糖大小的三针磁吸连接器，甚至支持边戴边充电。内部搭载老款 Apple Watch 衍生芯片，运行精简版 visionOS 28，完全放弃 AR 显示，全靠 Siri 与摄像头交互。目前硬件已基本定型，但因软件与 AI…",
+      "reads": "24万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "交互全靠视觉与语音：镜框集成齐平椭圆摄像头开孔与指示灯，佩戴者可通过 Siri 识别周围建筑、对照冰箱食材推荐菜谱、导航以及翻译路牌和对话。",
+        "生态深度绑定 iPhone：第三方应用无需单独开发，直接跑在配对 iPhone 上由 Siri 远程调取订餐打车等功能，要求较新机型且不支持 Android…",
+        "自带 Wi-Fi 留后路：虽然无法作为完全独立的设备使用，但脱离 iPhone 时理论上仍能依靠 Wi-Fi 继续维持音频播放与部分系统基础功能。",
+        "软件分步推进：本月测试版 iOS 27.3 已开始加入底层精准控制能力，计划 12 月先支持官方自带应用，2027 年才会向第三方开发者开放。"
+      ],
       "quote": {
-        "who": "Mark Kretschmann",
+        "who": "MacRumors",
         "role": "",
-        "said": "Grok 的文本水印功能现在在 SpaceXSI API 中默认关闭。 Elon Musk 确认了这一点并进一步表示，使用 Grok 时仅在法律要求或用户主动请求的情况下才会开启文本水印。 所以如果你在 Grok 上构建应用，你的输出不会带有隐藏水印"
+        "said": "Apple 的智能眼镜战略押注在 Siri 和 iPhone 应用上 据彭博社 Mark Gurman 报道，Apple 计划在 2027 年 6 月的 WWDC 上发布其首款智能眼镜，并在年底前开始出货。在他最新的 “Power On” 通讯中，Gurman 分享了关于眼镜设计、充电系统和 Siri 功能的新细节。据称，内部代号为 “N50” 的眼镜当前原型机比 Meta 第二代 Ray-Bans 略薄。一些测试单…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 167万 · 政策与安全] 马斯克给开发者松绑！Grok API默认关闭文本水印，非强制绝不暗中标记"
+      "line": "[榜第1位 · 24万 · 产品与生态] 薄荷糖大小磁吸边戴边充！苹果智能眼镜原型大曝光：硬件定型，软件却拖后腿"
     },
     {
-      "title": "不用重写4遍！Expo祭出Exact：一套代码通吃四大平台，AI能跑能测",
-      "summary": "写完 App 想搬上多端，还得遭罪重写 4 遍代码？Expo 正式发布新工具 Exact，彻底打破跨平台壁垒。开发者只需编写一次，应用就能在 Web、macOS、iOS 和 Linux 上原生运行；最硬核的是，它直接给 AI 智能体打通了全流程——智能体能在全部四套系统里直接构建、运行、查看并完成自主测试。",
-      "reads": "5.0万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "title": "英伟达连跌6周暴跌31%！创14年来最长连跌纪录，股价一夜打回一年前",
+      "summary": "AI风向标英伟达遭遇了罕见的技术性重挫。市场追踪数据显示，英伟达周线已连续6周收跌，期间累计跌幅高达31%，股价直接跌至2025年7月以来的最低点。金融分析机构指出，这是英伟达自2012年以来最长的连续下跌，同时也追平了其有记录以来的第二长周线连跌纪录。",
+      "reads": "7.3万",
+      "ago": "54 分钟前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "0xMarioNawfal",
+        "who": "The Kobeissi Letter",
         "role": "",
-        "said": "你做了个 App。现在你想把它放到 Web、Mac、iPhone 和 Linux 上，但不想重写 4 遍。 Expo 刚刚发布了 Exact： 1. 只写一次代码 2. 在 Web、macOS、iOS 和 Linux 上原生运行 3. 你的 AI 智能体可以在所有这些平台上构建、运行、查看并测试它"
+        "said": "Nvidia 正在经历历史性连跌： Nvidia、 $NVDA 已连续 6 周下跌，追平其有记录以来第二长的周线连跌纪录。 在此期间，股价下跌了 -31%，降至 2025 年 7 月以来的最低水平。 类似的 6 周连跌"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 5.0万 · 产品与生态] 不用重写4遍！Expo祭出Exact：一套代码通吃四大平台，AI能跑能测"
+      "line": "[榜第2位 · 7.3万 · 资本与算力] 英伟达连跌6周暴跌31%！创14年来最长连跌纪录，股价一夜打回一年前"
     },
     {
-      "title": "银行比你更早发现脑退化？多年金融流水正在被改成痴呆早筛系统",
-      "summary": "你的银行，可能比你更早察觉到你患上痴呆的风险。研究人员正在将积累多年的金融交易与消费流水，转化成一种潜在的早期预警系统。日常财务行为往往最先反映大脑异常，通过持续追踪这些银行数据，系统有望在本人察觉之前，捕捉到认知衰退的早期蛛丝马迹。",
+      "title": "整整72天没发前沿模型！网友感叹OpenAI掉到第三：感觉确实输了这场竞赛",
+      "summary": "整整72天没有发布任何前沿模型，OpenAI创下了自GPT-5到5.1以来官方口径的最长空窗期。有科技博主发帖直言，面对Anthropic的Opus 5.5和谷歌的Gemini 4 Carbon，甚至连跟Fable 5.2打都吃力，「感觉OpenAI确实输掉了这场竞赛，真不记得上次排第三是什么时候了」。发帖者虽然盼着能被打脸翻盘，但若未来几周仍没动静，这将彻底刷新自o3以来的最…",
       "reads": "5.4万",
-      "ago": "2 小时前",
+      "ago": "1 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Bloomberg",
+        "who": "Evan Luthra",
         "role": "",
-        "said": "如果你的银行比你自己更早知道你有痴呆风险，那会怎样？研究人员正试图将多年的金融数据转化为一种潜在的早期预警系统。阅读更多： https://bloom.bg/4iGh10V 📷: Michael Nagle/Bloomberg"
+        "said": "我们看看接下来几周会怎样"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 5.4万 · 模型与能力] 银行比你更早发现脑退化？多年金融流水正在被改成痴呆早筛系统"
+      "line": "[榜第3位 · 5.4万 · 模型与能力] 整整72天没发前沿模型！网友感叹OpenAI掉到第三：感觉确实输了这场竞赛"
     },
     {
-      "title": "马斯克罕见拷问人类未来：技术决策听AI的，但价值观呢？",
-      "summary": "未来人类CEO的技术决策可能全得听AI的，但关乎价值观的底层选择人类真敢放手吗？科技记者抛出尖锐预言，认为人们绝不会把价值层面的裁决权让给算法。马斯克随后转发经典名梗「选你的路吧，西方男人」，只留下一句意味深长的发问：去创造你真正想要的未来吧。",
-      "reads": "98万",
-      "ago": "13 小时前",
+      "title": "控盘内存高价被抓包？三星美光SK海力士撤案被拒，全美反垄断诉讼开打",
+      "summary": "内存价格居高不下，这下巨头们真得上法庭掰扯了。三星、美光和 SK hynix 正式面临反垄断诉讼，诉讼指控这三家公司涉嫌削减产能、人为卡死 RAM 供应来维持高价。此前三家巨头曾要求法院直接驳回指控撤案，但美国法官干脆利落地回绝了这一请求，正式放行案件继续推进。",
+      "reads": "20万",
+      "ago": "5 小时前",
       "category": "政策与安全",
       "source": "新智元",
-      "bullets": [
-        "科技记者Timothy B. Lee预期，未来人类CEO不仅会在技术决策上向AI寻求建议，只要方案合理还会全盘听从，但价值导向的决策依然必须由人类自己来定。",
-        "马斯克对此引用「选你的路吧，西方男人」进行互动，直言「你想要的未来会……」，再次将前沿AI治理与人类主权的选择题摆上台面。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Elon Musk",
+        "who": "Pirat_Nation 🔴",
         "role": "",
-        "said": "你想要的未来会……"
+        "said": "Samsung、Micron 和 SK hynix 将面临反垄断诉讼，被指控人为限制 RAM 供应以维持高价。 一位美国法官驳回了这些公司要求驳回诉讼的请求，允许案件继续推进。 该诉讼声称他们削减了……"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 98万 · 政策与安全] 马斯克罕见拷问人类未来：技术决策听AI的，但价值观呢？"
+      "line": "[榜第4位 · 20万 · 政策与安全] 控盘内存高价被抓包？三星美光SK海力士撤案被拒，全美反垄断诉讼开打"
     },
     {
-      "title": "开车就能围观史诗级火箭！马斯克：Starbase已成合法城市",
-      "summary": "火箭研发基地居然能直接自驾围观！马斯克透露，这是火箭开发项目首次真正坐落在公共公路上，普通人开着车沿公路走，就能近距离围观各种史诗级火箭硬件。他还强调，多亏了SpaceX团队的辛勤付出，德克萨斯州的Starbase在法律层面已经正式成为了一座合法的城市。",
-      "reads": "6.2万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
+      "title": "AI研发奇点要来了？播客大佬预言：砸向数学的雪崩正冲向AI",
+      "summary": "硅谷顶流科技播客主 Dwarkesh Patel 近日抛出重磅断言：「那场冲击数学界的雪崩，正朝 AI 开发奔来！」在他看来，一旦 AI 在科研层面追平人类最顶尖的学者，算法进化的斜率将被彻底拉爆。核心逻辑简单粗暴：自动化研究员的推进速度会快得多、单个智商极高，而且在规模上还能堆出指数级的人海战术。",
+      "reads": "9.8万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "不仅速度大幅碾压人类，自动化研究员在单体智能与并发规模上还将形成双重压制。",
+        "这一观点在社区激起热议，有网友直呼「人类的符号文明基本上要打包移交给 LLM 了」。"
+      ],
       "quote": {
-        "who": "Lucas Beyer (bl16)",
+        "who": "Dan McAteer",
         "role": "",
-        "said": "我会来参观的"
+        "said": ""
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 6.2万 · 产品与生态] 开车就能围观史诗级火箭！马斯克：Starbase已成合法城市"
+      "line": "[榜第5位 · 9.8万 · 模型与能力] AI研发奇点要来了？播客大佬预言：砸向数学的雪崩正冲向AI"
     },
     {
-      "title": "前面还堵着187人！Grok Bot自己打电话搞定改签，队伍才挪17人",
-      "summary": "航班被取消、柜台前排着整整187人怎么办？有网友直接派出 Grok Bot，结果队伍才刚挪动17个人，AI 就自己拨通电话、耐着性子挂机等待，并全程跟真人客服对线搞定了改签！马斯克火速转发大呼快去试试，让现场肉身排队瞬间成了笑话。与此同时，xAI 宣布 Grok Build 正式面向所有订阅计划开放，人人都能直接上手实时跑想法。",
-      "reads": "93万",
-      "ago": "15 小时前",
+      "title": "原来看点在眼镜！苹果刚公布的Siri新AI能力，被曝正是智能眼镜核心",
+      "summary": "据知名科技记者 Mark Gurman 在最新一期通讯中透露，苹果刚刚宣布的 Siri 全新 AI 集成能力，实际上是其即将推出的智能眼镜项目的绝对核心。这意味着苹果对 Siri 的大刀阔斧改造不仅是给 iPhone 换代，更是要将其打造成下一代可穿戴设备的中枢大脑。",
+      "reads": "4.8万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "Grok Bot 展现出完整的电话代打能力，不仅能呼叫客服，还能在座席等待时挂机守候，并直接与人工完成业务沟通。",
-        "官方同步宣布 Grok Build 解除门槛，向所有层级的订阅用户全面开放，旨在让更多人直接验证想法并实时运行。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Elon Musk",
+        "who": "Bloomberg",
         "role": "",
-        "said": "试试 Grok @Bot"
+        "said": "据 @MarkGurman 在本周的 Power On 报道，Apple 刚刚宣布的 Siri AI 集成是其即将推出的智能眼镜计划的核心。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 93万 · 产品与生态] 前面还堵着187人！Grok Bot自己打电话搞定改签，队伍才挪17人"
+      "line": "[榜第6位 · 4.8万 · 产品与生态] 原来看点在眼镜！苹果刚公布的Siri新AI能力，被曝正是智能眼镜核心"
     },
     {
-      "title": "单个文件仅97KB！Fable 5.2手搓3D水下世界，连游泳交互都做出来了",
-      "summary": "Fable 5.2仅凭单个97 KB的HTML文件，就完整构建出了一个支持实时游泳交互的水下世界。有网友感叹这是目前见过最惊艳的AI代码实例之一，更有发帖者借机反讽调侃：合着如今只有Fable 5.2做到了才值得称道？极小体积塞进复杂3D交互，大模型的单文件世界构建能力再次被拉高。",
-      "reads": "2.1万",
-      "ago": "2 小时前",
+      "title": "3美元硬件立功！博主称Claude黑进32岁老Jeep，连过加州尾气测试",
+      "summary": "连现代诊断接口都没有的32岁老爷车，居然让AI给「修」明白了。据一位YouTuber分享，他用一个仅花费3美元的Arduino微控制器配合Claude，成功黑进了自己的1994年款Jeep Cherokee。由于车龄太老、缺失现代汽车的标准接口，Claude硬是靠逆向破解了早已被遗忘的90年代专用通信协议，不仅实时记录下他的驾驶数据，还顺利帮这辆老古董通过了极其严格的加州尾气测…",
+      "reads": "6.0万",
+      "ago": "3 小时前",
       "category": "模型与能力",
       "source": "新智元",
-      "bullets": [
-        "同日亦有开发者关注模型性价比生态，发帖称赞Antigravity的Hydrogen模型表现极其出色且极具成本效益。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "Fable 5.2 在一个仅97 KB的HTML文件中构建了一个可游泳的水下世界。 这是我目前见过的最令人印象深刻的例子之一。"
+        "said": "一位 YouTuber 说 Claude 通过一个 3 美元的 Arduino 黑进了他 32 岁的 Jeep Cherokee，并让它通过了加州的尾气测试。 这辆 1994 年的 Jeep 太老了，没有现代汽车那种标准诊断接口。他说 Claude 破解了它被遗忘的 90 年代协议，记录了他的驾驶数据，然后"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 2.1万 · 模型与能力] 单个文件仅97KB！Fable 5.2手搓3D水下世界，连游泳交互都做出来了"
+      "line": "[榜第7位 · 6.0万 · 模型与能力] 3美元硬件立功！博主称Claude黑进32岁老Jeep，连过加州尾气测试"
     },
     {
-      "title": "宁可炸硬件也要换数据！投资大佬曝马斯克残酷信条：越回避失败成品越不安全",
-      "summary": "为什么马斯克的火箭总在众目睽睽下炸毁，技术却迭代得越来越快？投资大佬罗恩·巴伦最新透露，马斯克坚信硬件生来就是为了换取信息而牺牲的；如果研发阶段从未失败，只说明创新彻底停滞。在他看来，开发期刻意求稳规避失败，反而会让最终系统更不安全；敢于以更高频的失败烧出关键数据，正是他拉大与对手差距的核心壁垒。",
-      "reads": "1.1万",
-      "ago": "1 小时前",
-      "category": "组织与人事",
+      "title": "苹果智能眼镜被曝明年见！Siri成最大王牌，抬眼叫车点咖啡全靠iPhone算",
+      "summary": "彭博记者 Mark Gurman 爆料，苹果计划于明年推出智能眼镜，而挑大梁的核心卖点正是 Siri AI 应用集成。按规划，用户戴着眼镜就能直接叫 Uber、订餐厅或点咖啡，所有 App 运算均由配对的 iPhone 在后台搞定。苹果此前在 iOS 27.3 中预览的 Siri 集成与 App Intents，正是为了让开发者提前做好准备，给这款全新穿戴设备铺路。",
+      "reads": "10万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "在巴伦看来，多数人认为稳健渐进才安全，但马斯克用硬件试错换信息密度的激进打法，反而让SpaceX与特斯拉多年来始终领先对手，且身位差距仍在持续扩大。",
-        "谈及对增长的极度执念，巴伦调侃顶级创业者虽然没有精确的算法公式，但骨子里都有清晰的路线图，而马斯克脑海里的路线图「甚至压根不涉及常规道路」。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "X Freeze",
+        "who": "🚨 AI News | TestingCatalog",
         "role": "",
-        "said": "Ron Baron谈Elon Musk建立SpaceX和Tesla的心态： “Elon认为，要想最成功，你应该更频繁地失败。如果项目没有失败，说明你创新得不够。Elon相信硬件应该为信息牺牲 其他人认为走更安全的路更好"
+        "said": "APPLE 🔥：据彭博社报道，“Siri AI 集成是 Apple 即将推出的智能眼镜攻势的核心”。 看起来 Apple 现在将 AI 视为“更严肃”的优先事项。 为时不晚 👀"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 1.1万 · 组织与人事] 宁可炸硬件也要换数据！投资大佬曝马斯克残酷信条：越回避失败成品越不安全"
+      "line": "[榜第8位 · 10万 · 产品与生态] 苹果智能眼镜被曝明年见！Siri成最大王牌，抬眼叫车点咖啡全靠iPhone算"
     },
     {
-      "title": "把AI当同事直接拉进群办公！Jack Dorsey开源工作区Buzz，狂揽3.7万星",
-      "summary": "Jack Dorsey 创立的金融科技公司 Block 把自用团队工作区 Buzz 正式放上了 GitHub，采用 Apache 2.0 协议开源，目前已斩获 3.7 万颗星。这个工作区最大的玄机在于人类与 AI 彻底同台：智能体不再只是侧边栏插件，而是被当成真正的同事；只要在房间里像拉普通员工一样添加智能体，AI 就能在同一个工作区里和人类实时协作，同时还支持在自有 rela…",
-      "reads": "4.4万",
-      "ago": "6 小时前",
+      "title": "把交易交给 Claude Code？agentic-trader 设下死规矩：模型碰不到闸门，配置缺失直接锁死",
+      "summary": "真敢把真金白银交给大模型操盘？有博主分享了交易智能体 agentic-trader 的安全设计：系统由无头 Claude Code 加券商 broker MCP 组成，默认只跑模拟（Dry-run）。最绝的是核心防爆逻辑——在任何工具运行前，订单都必须经由外部 Python 函数逐笔校验，模型既无法编辑也不能跳过，配置稍有缺失立刻 Fail-closed 锁死，让模型在物理意义…",
+      "reads": "3.6万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "支持基于自有中继（relay）完全自托管，团队数据与协作流自主可控",
-        "将 AI 智能体视为平等团队成员，进入房间即可与人类员工同台协同"
+        "底层架构：基于无头（headless）Claude Code 与券商 broker MCP 联动，初始状态默认以 Dry-run 模拟盘运行。",
+        "硬核校验：由独立 Python 函数在工具执行前把关每笔订单，大模型完全没有绕过或篡改校验代码的权限。",
+        "阻断设计：采用 Fail-closed 原则，一旦检测到配置文件缺失或异常便直接阻断交易，从源头杜绝 Agent 暴走下错单。"
       ],
       "quote": {
         "who": "0xMarioNawfal",
         "role": "",
-        "said": "Jack Dorsey 的公司 Block 把自己的团队工作区放上了 GitHub。带点花样。 Buzz 是一个人类和 AI 智能体在同一房间、作为队友协作的工作区。 → 自托管，运行在你拥有的中继上 → 像添加任何同事一样把智能体加入房间 → 37K stars, Apache 2.0"
+        "said": "在使用 agentic trader 时，模型从不触碰订单闸门。 Agentic-trader：无头 Claude Code + broker MCP。默认干跑（Dry-run）。 一个 Python 函数在任何工具运行前检查每个订单。 模型无法编辑或跳过它。如果配置缺失则失败关闭（Fail-closed）。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 4.4万 · 产品与生态] 把AI当同事直接拉进群办公！Jack Dorsey开源工作区Buzz，狂揽3.7万星"
+      "line": "[榜第9位 · 3.6万 · 产品与生态] 把交易交给 Claude Code？agentic-trader 设下死规矩：模型碰不到闸门，配置缺失直接锁死"
     },
     {
-      "title": "直奔绝杀！Anthropic上市大考前夕，投资圈猜OpenAI跳过6.2硬掏GPT-7",
-      "summary": "Anthropic 即将迎来被业内视为「AI 下一个重大考验」的 IPO 关口，投资圈已经开始为老对手 OpenAI 脑补绝杀剧本。有投资人推测，两家大厂内部雪藏的模型底牌远比现役版本强大，在 Fable 5.2 问世后，OpenAI 大概率已将全部算力押向下一代大跃迁，甚至可能跳过小修小补的 GPT-6.2，选在 Anthropic 上市前夜硬掏 GPT-7 一招制敌。",
-      "reads": "2.2万",
+      "title": "飞利浦牙刷头催你换新？创客用ESP32破解芯片，直接做成MacBook钥匙",
+      "summary": "据 International Cyber Digest 报道，飞利浦 Sonicare 牙刷头里其实内置了一枚 NFC 芯片，专门记录刷头型号和累计使用时长，用来让手柄判断何时提醒用户掏钱换新。一位创客并没有老老实实买单，而是掏出一块 ESP32-S3 开发板，不仅成功读取并重写了这枚芯片的数据，还顺手把牙刷头改造成了解锁自己 MacBook 的物理钥匙。",
+      "reads": "6.7万",
       "ago": "4 小时前",
-      "category": "模型与能力",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Financial Times",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "Anthropic 的 IPO 是 AI 的下一个重大考验"
+        "said": "‼️ Philips Sonicare 牙刷头里有个芯片，记录你刷牙时长。有个人把它做成了 MacBook 的钥匙。 这个 NFC 芯片会记录刷头型号和总使用时长，手柄就知道该提醒你换新头了。 他用 ESP32-S3 读取并重写了它"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 2.2万 · 模型与能力] 直奔绝杀！Anthropic上市大考前夕，投资圈猜OpenAI跳过6.2硬掏GPT-7"
+      "line": "[榜第10位 · 6.7万 · 产品与生态] 飞利浦牙刷头催你换新？创客用ESP32破解芯片，直接做成MacBook钥匙"
     },
     {
-      "title": "微软开源TokenEconomizer！不碰模型也能省Token，专治代码Agent金鱼脑",
-      "summary": "跑 coding agent 的账单终于有解了。微软刚在 GitHub 上架了名为 TokenEconomizer 的新工具，核心卖点极其诱人：完全不用碰 agent 源码，就能帮模型大幅省 token。它会在后台默默从历史会话中学习，把 agent 反复探索、重复踩坑才发现的仓库事实统统记住，在后续会话中直接剔除冗余浪费，彻底告别每次启动都把老项目重新学一遍的冤枉钱。",
-      "reads": "5.0万",
-      "ago": "7 小时前",
+      "title": "连验证码都能破！Browser Use让AI像人一样刷网页，还打通Claude Code",
+      "summary": "媒体转述，Browser Use 构建了一款能像人类一样操作网页的 AI 智能体。无论是寻找空闲名额、挑选预约日期，还是攻破让人头疼的 CAPTCHA 验证码，它都能独立搞定整个流程。除了提供自适应扩容的全托管云端环境，它还配备了 CLI 工具，能直接接入用户自研智能体、Claude Code 以及 Codex。",
+      "reads": "3.3万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "全托管云架构：由其自研智能体与内置浏览器直接承载，无需本地配置环境，支持自动弹性扩展。",
+        "开放接口支持：提供 CLI 命令行模式，可无缝对接开发者自己的 Agent，并原生支持接入 Claude Code 和 Codex。"
+      ],
       "quote": {
         "who": "0xMarioNawfal",
         "role": "",
-        "said": "Microsoft 刚在 GitHub 上放了一个工具，让你的 coding agent 更便宜。它不碰 agent 本身。 TokenEconomizer 从你的 agent 在仓库里已经跑过的会话中学习，然后削减后续会话中的浪费： → 它记住你的 agent 不断重新发现的仓库事实，比如"
+        "said": "Browser Use 构建了一个像人类一样浏览网络的 AI 智能体——找空位、选日期、解 CAPTCHA、预约日程。 >⁠全托管云：他们的智能体，他们的浏览器，自动扩展 >⁠CLI：接入你自己的智能体，Claude Code, Codex, 或者"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 5.0万 · 产品与生态] 微软开源TokenEconomizer！不碰模型也能省Token，专治代码Agent金鱼脑"
+      "line": "[榜第11位 · 3.3万 · 产品与生态] 连验证码都能破！Browser Use让AI像人一样刷网页，还打通Claude Code"
     },
     {
-      "title": "狂暴迭代还不翻车？Grok团队公开内部秘诀：质量不打折也能极速发布",
-      "summary": "北京时间11月15日凌晨，Grok机器人团队研究员在AIE最新演讲中曝光内部工程机制。面对业界普遍头疼的迭代速度与系统稳定性冲突，团队首度解密他们如何在维持质量绝不打折的前提下，实现极速发布的狂暴交付节奏。",
-      "reads": "31万",
-      "ago": "15 小时前",
-      "category": "产品与生态",
+      "title": "黄仁勋要杀回来了？被曝与亲信密谈，讨论重返英伟达执掌CEO大印",
+      "summary": "外媒传来重磅猛料，离开帅位没多久的黄仁勋，可能又要杀回英伟达了。据知情人士透露，老黄近日已悄悄与多位亲信私下接触，认真探讨了自己重新出任英伟达 CEO 的可能性。虽然目前该动向仅停留在亲信内部探讨阶段、官方尚未有任何定论，但这位一手缔造万亿算力帝国的皮衣教主若真选择归位，整个 AI 圈恐怕又要迎来一场大震动。",
+      "reads": "2.5万",
+      "ago": "1 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Ryan Lopopolo",
+        "who": "Evan",
         "role": "",
-        "said": "来g chat找我、 @karansharma0101 和 @z 聊聊！"
+        "said": "据报道，Jensen Huang 已与亲信讨论过作为 Nvidia CEO 回归的可能性 - Financial Times"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 31万 · 产品与生态] 狂暴迭代还不翻车？Grok团队公开内部秘诀：质量不打折也能极速发布"
+      "line": "[榜第12位 · 2.5万 · 组织与人事] 黄仁勋要杀回来了？被曝与亲信密谈，讨论重返英伟达执掌CEO大印"
     },
     {
-      "title": "「史上最聪明AI」引战了！Fable 5.2被吹爆意图推断，学者却吐槽：搞生物没用",
-      "summary": "Anthropic 旗下的 Fable 5.2 突然在圈内引发激烈争论，被测试者奉为「发布过的最聪明 AI 模型」。不同于普通跑分，它在超强意图推断、分布外（OOD）泛化和认知深度上表现惊人，且只有在高难度任务中才能看出质的飞跃。这番评价不仅引来「难道它比 Opus 还强」的质疑，更有学者补刀称，自己虽高频使用 Opus 5.5 与 Fable 5.2 编写极其优雅的代码，但它…",
-      "reads": "1.3万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
+      "title": "微软Outlook宕机酿祸！德国主题公园泳池氯超标，报警信卡死致15人受伤",
+      "summary": "据网络安全媒体披露，本周微软 Outlook 宕机意外在现实世界砸出了严重事故：德国知名主题公园 Phantasialand 的酒店泳池自动加药系统故障、过量注入氯气，由于该系统设计为仅通过电子邮件发送异常警报，宕机直接导致告警信一封都没送达，最终酿成 15 名泳池客人受伤。关键生命安全系统竟然单点依赖日常邮箱，荒诞的连锁反应瞬间引发全网围观。",
+      "reads": "6.9万",
+      "ago": "5 小时前",
+      "category": "政策与安全",
       "source": "新智元",
-      "bullets": [
-        "测试者称 Fable 5.2 的核心优势体现在四个维度：意图推断大幅提升、能适应分布外场景、直觉感知用户目标，且拥有更深层的认知理解力。",
-        "学界学者直言虽然对管理层有微词，但极度认可工程团队，Opus 5.5 与 Fable 5.2 在编码体验上优雅极致，只是在专业生物科学场景仍难发挥作用。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "澄清一下，每当我提到 (mis)Anthropic 公司时，我特指其领导层。我对那里开发出色模型的 AI 工程师只有敬意。我积极使用 Opus 5.5 & Fable 5.2，虽然对生物科学没用——但我喜欢它们在编码上的优雅。"
+        "said": "🚨 突发：本周 Microsoft Outlook 宕机导致德国 Phantasialand 主题公园的氯气警报没能送达任何人。15 名酒店泳池客人受伤。 泳池自动加药系统会在氯含量异常时通过邮件发出警告。当时氯注入过量，而且"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 1.3万 · 模型与能力] 「史上最聪明AI」引战了！Fable 5.2被吹爆意图推断，学者却吐槽：搞生物没用"
+      "line": "[榜第13位 · 6.9万 · 政策与安全] 微软Outlook宕机酿祸！德国主题公园泳池氯超标，报警信卡死致15人受伤"
     },
     {
-      "title": "年底内部搞出超级智能？曝未来4个月模型彻底颠覆经济，坏结果全被避开了",
-      "summary": "未来4个月要彻底变天了？有爆料者预测，接下来的4个月内将面世的一批新模型，会从底层彻底重构经济体系；更惊人的是，Anthropic到今年年底内部就会拥有真正的「超级智能」。该爆料还称，这轮研发竞速跑得足够快，已经提前消除了绝大多数糟糕的AI灾难场景。",
-      "reads": "1.4万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
+      "title": "马斯克又创造历史！星舰从轨道返回被机械臂一把接住，航天圣杯成了",
+      "summary": "北京时间11月16日凌晨，SpaceX再次刷新人类航天工程上限。据路透社世界新闻播客报道，Starship飞船在完成轨道飞行返回后，被地面的巨大机械臂成功接住，完成了被业内视作「航天圣杯」的重大里程碑时刻。飞船从轨道高速返回还能被凌空精准抓取，火箭完全且快速复用的最后一块拼图正被彻底拼上。",
+      "reads": "3.6万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "🍓🍓🍓",
+        "who": "Reuters",
         "role": "",
-        "said": "未来 4 个月发布的模型将彻底改变经济，到今年年底 anthropic 内部将拥有超级智能。我们跑得足够快，消除了大多数糟糕的 AI 场景。耶。"
+        "said": "🔊 SpaceX 实现了 Starship 的重大里程碑，在飞船从轨道返回后，用巨大的机械臂将其接住。路透社世界新闻播客带来了关于这一被称为“航天圣杯”时刻的最新报道 https://reut.rs/4jianOr"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 1.4万 · 模型与能力] 年底内部搞出超级智能？曝未来4个月模型彻底颠覆经济，坏结果全被避开了"
+      "line": "[榜第14位 · 3.6万 · 产品与生态] 马斯克又创造历史！星舰从轨道返回被机械臂一把接住，航天圣杯成了"
     },
     {
-      "title": "还在吵AI只会做插值？Chollet正面定调：一旦作为搜索采样指南，就完全是搜索了",
-      "summary": "大模型到底能不能突破单纯的插值泛化？面对业内旷日持久的争论，François Chollet直接下场定调。他指出，由SGD梯度下降拟合的可微曲线从构造上看确实只能做插值，但这并不代表上限——只要把这条曲线当作搜索过程中的采样指南，系统本质上就是在执行真正的搜索，完全不再是插值。",
-      "reads": "1.5万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
+      "title": "开口就是904亿美元！Anthropic拟创史上最大IPO，华尔街却急着要回报",
+      "summary": "据彭博社报道，AI 领头羊 Anthropic 正计划通过 IPO 筹集高达 904 亿美元的资金，若成行将成为全球史上最大规模的上市融资。然而，面对这笔创纪录的胃口，华尔街的买家们正在敲响警钟：市场急需确凿的证据，来证明企业在 AI 赛道上砸下的真金白银，究竟能不能换来与之匹配的实际回报。",
+      "reads": "2.4万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
       "source": "新智元",
-      "bullets": [
-        "Chollet直言对方揣着明白装糊涂，强调在搜索空间内，模型输出作为先验引导采样与单纯曲线拟合有本质区别。",
-        "在长时间运行与自主代理的探讨中，有开发者提到让模型跑复杂长任务时仍需每隔几小时盯一眼，引发不少一线开发者的共鸣。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Sahil Panhotra | Indie Builder | Dev",
+        "who": "Bloomberg",
         "role": "",
-        "said": "我也在这么干 哈哈"
+        "said": "Anthropic 希望在 IPO 中融资 904 亿美元，这将是史上最大规模。华尔街希望看到证据，证明在 AI 上的所有支出都能带来回报。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 1.5万 · 模型与能力] 还在吵AI只会做插值？Chollet正面定调：一旦作为搜索采样指南，就完全是搜索了"
+      "line": "[榜第15位 · 2.4万 · 资本与算力] 开口就是904亿美元！Anthropic拟创史上最大IPO，华尔街却急着要回报"
     },
     {
-      "title": "跑Agent被JSON日志掏空钱包？开源Tokenfold杀出：无损狂省64% Token",
-      "summary": "用DeepSeek Harness、Codex或Claude Code跑智能体，成吨的JSON和运行日志动辄就把上下文和Token预算彻底烧穿。开源神器Tokenfold正是为此而来，它底层基于Rust核心，通过智能折叠重复字段来给结构化数据大瘦身，实测在无损状态下能直接省下63.9%的Token，剪枝模式下最高省幅甚至达到96.3%，完美适配长任务、复杂工具调用和日志流等吃爆…",
-      "reads": "5740",
-      "ago": "2 小时前",
+      "title": "被机械臂夹住的星舰S42，身上竟有一块MrBeast亲手安装并签名的隔热瓦！",
+      "summary": "据博主爆料，刚刚创造人类航天历史、完成首次空中捕获的SpaceX星舰S42，身上其实藏了个巨大彩蛋：它搭载了一块由顶流网红MrBeast今年早些时候参观Starbase时亲手安装并签名的隔热瓦。这艘飞船不仅顶着他的签名成功进入预定轨道，还完好无损地被机械臂一把抓回，成了真正上过太空的硬核纪念。",
+      "reads": "30万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "DogeDesigner",
         "role": "",
-        "said": "💥牛逼！用DeepSeek Harness/Codex/Claude Code跑Agent，JSON和日志把Token烧干了？！这个开源神器Tokenfold 用Rust核心智能折叠重复字段，实测无损省63.9% Token，剪枝最高省96.3%！ 专治结构化数据吃上下文的痛点，完美搭配Harness的长任务、工具调用和日志流。 亮点如下："
+        "said": "SpaceX 刚刚接住的 Starship S42，飞行时搭载了一块由 MrBeast 在今年早些时候参观 Starbase 期间亲自安装并签名的隔热瓦。 同一艘飞船进入了轨道，并凭借首次 Starship 捕获创造了历史。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 5740 · 产品与生态] 跑Agent被JSON日志掏空钱包？开源Tokenfold杀出：无损狂省64% Token"
+      "line": "[榜第16位 · 30万 · 产品与生态] 被机械臂夹住的星舰S42，身上竟有一块MrBeast亲手安装并签名的隔热瓦！"
     }
   ],
   "board_count": 16,
