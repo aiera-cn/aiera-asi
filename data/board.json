@@ -3,15 +3,75 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-15 17:13:17 +0800",
-  "today": "11/15",
+  "fetched_at": "2026-11-16 00:59:38 +0800",
+  "today": "11/16",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
+    {
+      "title": "马斯克给开发者松绑！Grok API默认关闭文本水印，非强制绝不暗中标记",
+      "summary": "马斯克发推确认，Grok 的文本水印功能现已默认关闭，仅在当地法律强制或用户主动请求时才会开启。从 11 月 9 日起，通过 SpaceXSI API 调用 Grok 生成的文本已不再自动嵌入水印。这意味着基于 Grok 构建应用的开发者，输出内容不会再被系统暗中打上隐形追踪标记。",
+      "reads": "167万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Mark Kretschmann",
+        "role": "",
+        "said": "Grok 的文本水印功能现在在 SpaceXSI API 中默认关闭。 Elon Musk 确认了这一点并进一步表示，使用 Grok 时仅在法律要求或用户主动请求的情况下才会开启文本水印。 所以如果你在 Grok 上构建应用，你的输出不会带有隐藏水印"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 167万 · 政策与安全] 马斯克给开发者松绑！Grok API默认关闭文本水印，非强制绝不暗中标记"
+    },
+    {
+      "title": "不用重写4遍！Expo祭出Exact：一套代码通吃四大平台，AI能跑能测",
+      "summary": "写完 App 想搬上多端，还得遭罪重写 4 遍代码？Expo 正式发布新工具 Exact，彻底打破跨平台壁垒。开发者只需编写一次，应用就能在 Web、macOS、iOS 和 Linux 上原生运行；最硬核的是，它直接给 AI 智能体打通了全流程——智能体能在全部四套系统里直接构建、运行、查看并完成自主测试。",
+      "reads": "5.0万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "0xMarioNawfal",
+        "role": "",
+        "said": "你做了个 App。现在你想把它放到 Web、Mac、iPhone 和 Linux 上，但不想重写 4 遍。 Expo 刚刚发布了 Exact： 1. 只写一次代码 2. 在 Web、macOS、iOS 和 Linux 上原生运行 3. 你的 AI 智能体可以在所有这些平台上构建、运行、查看并测试它"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 5.0万 · 产品与生态] 不用重写4遍！Expo祭出Exact：一套代码通吃四大平台，AI能跑能测"
+    },
+    {
+      "title": "银行比你更早发现脑退化？多年金融流水正在被改成痴呆早筛系统",
+      "summary": "你的银行，可能比你更早察觉到你患上痴呆的风险。研究人员正在将积累多年的金融交易与消费流水，转化成一种潜在的早期预警系统。日常财务行为往往最先反映大脑异常，通过持续追踪这些银行数据，系统有望在本人察觉之前，捕捉到认知衰退的早期蛛丝马迹。",
+      "reads": "5.4万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Bloomberg",
+        "role": "",
+        "said": "如果你的银行比你自己更早知道你有痴呆风险，那会怎样？研究人员正试图将多年的金融数据转化为一种潜在的早期预警系统。阅读更多： https://bloom.bg/4iGh10V 📷: Michael Nagle/Bloomberg"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 5.4万 · 模型与能力] 银行比你更早发现脑退化？多年金融流水正在被改成痴呆早筛系统"
+    },
     {
       "title": "马斯克罕见拷问人类未来：技术决策听AI的，但价值观呢？",
       "summary": "未来人类CEO的技术决策可能全得听AI的，但关乎价值观的底层选择人类真敢放手吗？科技记者抛出尖锐预言，认为人们绝不会把价值层面的裁决权让给算法。马斯克随后转发经典名梗「选你的路吧，西方男人」，只留下一句意味深长的发问：去创造你真正想要的未来吧。",
       "reads": "98万",
-      "ago": "5 小时前",
+      "ago": "13 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -27,14 +87,34 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 98万 · 政策与安全] 马斯克罕见拷问人类未来：技术决策听AI的，但价值观呢？"
+      "rank": 4,
+      "line": "[榜第4位 · 98万 · 政策与安全] 马斯克罕见拷问人类未来：技术决策听AI的，但价值观呢？"
+    },
+    {
+      "title": "开车就能围观史诗级火箭！马斯克：Starbase已成合法城市",
+      "summary": "火箭研发基地居然能直接自驾围观！马斯克透露，这是火箭开发项目首次真正坐落在公共公路上，普通人开着车沿公路走，就能近距离围观各种史诗级火箭硬件。他还强调，多亏了SpaceX团队的辛勤付出，德克萨斯州的Starbase在法律层面已经正式成为了一座合法的城市。",
+      "reads": "6.2万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Lucas Beyer (bl16)",
+        "role": "",
+        "said": "我会来参观的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 6.2万 · 产品与生态] 开车就能围观史诗级火箭！马斯克：Starbase已成合法城市"
     },
     {
       "title": "前面还堵着187人！Grok Bot自己打电话搞定改签，队伍才挪17人",
       "summary": "航班被取消、柜台前排着整整187人怎么办？有网友直接派出 Grok Bot，结果队伍才刚挪动17个人，AI 就自己拨通电话、耐着性子挂机等待，并全程跟真人客服对线搞定了改签！马斯克火速转发大呼快去试试，让现场肉身排队瞬间成了笑话。与此同时，xAI 宣布 Grok Build 正式面向所有订阅计划开放，人人都能直接上手实时跑想法。",
       "reads": "93万",
-      "ago": "7 小时前",
+      "ago": "15 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -50,298 +130,222 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 93万 · 产品与生态] 前面还堵着187人！Grok Bot自己打电话搞定改签，队伍才挪17人"
-    },
-    {
-      "title": "全靠老黄刷脸！马斯克曝英伟达致命危机：关键产能全凭口头协议，谷歌已进场抢单",
-      "summary": "英伟达称霸全球的算力供应链，居然全靠黄仁勋个人「刷脸」？马斯克公开揭秘，老黄当年为了买断产能亲自跑遍微型供应商，但很多关键协议仅仅是握手言和的口头约定，根本没有书面合同。马斯克警告，一旦失去黄仁勋，英伟达至少会丢掉部分关键供货；而嗅到机会的对手已经火速进场，分析师透露老黄前脚刚走，谷歌后脚就冲上去向这些小厂求购产能了。",
-      "reads": "125万",
-      "ago": "15 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Wall St Engine",
-        "role": "",
-        "said": "ELON MUSK 警告 $NVDA 如果没有 JENSEN，可能会失去关键的供应协议 Musk 表示，Jensen Huang 为 Nvidia 争取到的许多供应协议是基于个人握手而非书面合同。 以他作为客户的亲身经历为例，Musk 说 Huang 总是"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 125万 · 组织与人事] 全靠老黄刷脸！马斯克曝英伟达致命危机：关键产能全凭口头协议，谷歌已进场抢单"
-    },
-    {
-      "title": "既要光速还要保质！Grok Bot开发者AIE演讲上线，解密极速发布方法论",
-      "summary": "Grok @bot 到底是怎么做到高频更新还不翻车的？近日，Grok @bot 团队核心成员在 AIE 峰会上的完整演讲正式公开。演讲重点拆解了团队内部的研发与上线节奏，首次向外界揭秘他们如何在绝不牺牲产品质量的前提下，实现光速迭代与极速交付。",
-      "reads": "7.8万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Alex Volkov",
-        "role": "",
-        "said": "@poteto 的完整演讲现已上线！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 7.8万 · 模型与能力] 既要光速还要保质！Grok Bot开发者AIE演讲上线，解密极速发布方法论"
-    },
-    {
-      "title": "全美航空大停摆元凶找到了！竟归咎于L3 Harris安装的路由器",
-      "summary": "据路透社报道，此前引发严重混乱的美国航空业停摆事件有了最新矛头指向：问题竟被归咎于知名防务承包商L3 Harris安装的一台路由器。谁能想到，牵动全美航运命脉、导致航班大规模延误停飞的系统瘫痪，根源居然落在了单个网络硬件设备的安装运维上。现代关键基础设施的脆弱性，再次被这台小小的路由器彻底拉响了警报。",
-      "reads": "8.7万",
-      "ago": "8 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Reuters",
-        "role": "",
-        "said": "美国航空停摆被归咎于 L3 Harris 安装的路由器"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 8.7万 · 政策与安全] 全美航空大停摆元凶找到了！竟归咎于L3 Harris安装的路由器"
-    },
-    {
-      "title": "连双头垄断都不屑搞了！Anthropic路演自曝接近RSI，放话要赢下全场",
-      "summary": "David Sacks 披露，Anthropic 在路演视频里根本没打算跟 OpenAI 二分天下，而是直接放话「要赢下整个局」！底气就在于他们声称 AI 的「递归自我改进」（RSI）已经启动、技术正在逼近质变。Sacks 随即公开泼冷水，直言 RSI 是全人类能碰的最危险领域；与此同时，Gary Marcus 等人也迅速下场对 Sacks 展开冷嘲热讽，舆论当场掀起骂战。",
-      "reads": "3.9万",
-      "ago": "6 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "路演筹码升级：不同于以往实验室常规的画饼套路，Anthropic 在路演中主打递归自我改进（RSI）已在运转，以此作为独吞全场的底气。",
-        "多方论战发酵：在 Sacks 抨击其安全隐患后，Gary Marcus 嘲讽 Sacks 已经「完蛋」，亦有媒体人出面为其辩护，称外界指控他散布阴谋论纯属断…"
-      ],
-      "quote": {
-        "who": "Patrick Moorhead",
-        "role": "",
-        "said": "我的剧本里没写‘Taylor Lorenz 为 David Sacks 辩护’这一出。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 3.9万 · 政策与安全] 连双头垄断都不屑搞了！Anthropic路演自曝接近RSI，放话要赢下全场"
+      "line": "[榜第6位 · 93万 · 产品与生态] 前面还堵着187人！Grok Bot自己打电话搞定改签，队伍才挪17人"
     },
     {
-      "title": "226道研究级难题测出平手！GPT-6、Gemini 4与Opus 5.5神仙打架",
-      "summary": "面对226道受Erdos启发的研究级难题，头部大模型居然杀成了平手！在最新测试基准ErdosBench上，Gemini 4 Carbon位列第三，与GPT-6 Astra、Opus 5.5分数基本持平；Fable 5.1也紧咬不放，而Fable 5.2仅略高一筹。面对硬核科研难题，各家顶流旗舰几乎集体撞上了同一块智商天花板。",
-      "reads": "7501",
+      "title": "单个文件仅97KB！Fable 5.2手搓3D水下世界，连游泳交互都做出来了",
+      "summary": "Fable 5.2仅凭单个97 KB的HTML文件，就完整构建出了一个支持实时游泳交互的水下世界。有网友感叹这是目前见过最惊艳的AI代码实例之一，更有发帖者借机反讽调侃：合着如今只有Fable 5.2做到了才值得称道？极小体积塞进复杂3D交互，大模型的单文件世界构建能力再次被拉高。",
+      "reads": "2.1万",
       "ago": "2 小时前",
       "category": "模型与能力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "同日亦有开发者关注模型性价比生态，发帖称赞Antigravity的Hydrogen模型表现极其出色且极具成本效益。"
+      ],
       "quote": {
-        "who": "OpenClaw🦞",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "那样你会被绑定在他们的模型上"
+        "said": "Fable 5.2 在一个仅97 KB的HTML文件中构建了一个可游泳的水下世界。 这是我目前见过的最令人印象深刻的例子之一。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 7501 · 模型与能力] 226道研究级难题测出平手！GPT-6、Gemini 4与Opus 5.5神仙打架"
+      "line": "[榜第7位 · 2.1万 · 模型与能力] 单个文件仅97KB！Fable 5.2手搓3D水下世界，连游泳交互都做出来了"
     },
     {
-      "title": "Robotaxi居然真能买回家！特斯拉向特定客户开放Cybercab个人购买",
-      "summary": "原本以为只用来跑无人车队的Robotaxi，现在居然真能提回自家车库了。特斯拉已开始向部分特定客户发出购买邀请，直接向其提供购买Cybercab供个人使用的资格。这意味着这台甚至没有方向盘和脚踏板的双座纯视觉自动驾驶车，正尝试从公共运营网络切入私人消费场景。",
-      "reads": "9.6万",
-      "ago": "12 小时前",
-      "category": "产品与生态",
+      "title": "宁可炸硬件也要换数据！投资大佬曝马斯克残酷信条：越回避失败成品越不安全",
+      "summary": "为什么马斯克的火箭总在众目睽睽下炸毁，技术却迭代得越来越快？投资大佬罗恩·巴伦最新透露，马斯克坚信硬件生来就是为了换取信息而牺牲的；如果研发阶段从未失败，只说明创新彻底停滞。在他看来，开发期刻意求稳规避失败，反而会让最终系统更不安全；敢于以更高频的失败烧出关键数据，正是他拉大与对手差距的核心壁垒。",
+      "reads": "1.1万",
+      "ago": "1 小时前",
+      "category": "组织与人事",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "在巴伦看来，多数人认为稳健渐进才安全，但马斯克用硬件试错换信息密度的激进打法，反而让SpaceX与特斯拉多年来始终领先对手，且身位差距仍在持续扩大。",
+        "谈及对增长的极度执念，巴伦调侃顶级创业者虽然没有精确的算法公式，但骨子里都有清晰的路线图，而马斯克脑海里的路线图「甚至压根不涉及常规道路」。"
+      ],
       "quote": {
-        "who": "Kalshi",
+        "who": "X Freeze",
         "role": "",
-        "said": "突发：Tesla 向部分客户提供购买 Cybercab 供个人使用的机会"
+        "said": "Ron Baron谈Elon Musk建立SpaceX和Tesla的心态： “Elon认为，要想最成功，你应该更频繁地失败。如果项目没有失败，说明你创新得不够。Elon相信硬件应该为信息牺牲 其他人认为走更安全的路更好"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 9.6万 · 产品与生态] Robotaxi居然真能买回家！特斯拉向特定客户开放Cybercab个人购买"
+      "line": "[榜第8位 · 1.1万 · 组织与人事] 宁可炸硬件也要换数据！投资大佬曝马斯克残酷信条：越回避失败成品越不安全"
     },
     {
-      "title": "英伟达机器人跑去翻垃圾堆！视觉AI分拣旧衣烂瓶，救下数千吨废料",
-      "summary": "AI 卷完代码和图像，现在开始下场「收破烂」了。英伟达发文盘点视觉 AI 与机器人技术在垃圾回收领域的最新落地：让机器人精准识别并分拣旧衣物、塑料瓶及混合废料，硬生生从垃圾填埋场里截胡并救下数千吨材料。这套技术不仅让回收商从废品堆里挖出真金白银，也让一批初创团队把 AI 塞进了最接地气的环保一线。",
-      "reads": "16万",
-      "ago": "16 小时前",
+      "title": "把AI当同事直接拉进群办公！Jack Dorsey开源工作区Buzz，狂揽3.7万星",
+      "summary": "Jack Dorsey 创立的金融科技公司 Block 把自用团队工作区 Buzz 正式放上了 GitHub，采用 Apache 2.0 协议开源，目前已斩获 3.7 万颗星。这个工作区最大的玄机在于人类与 AI 彻底同台：智能体不再只是侧边栏插件，而是被当成真正的同事；只要在房间里像拉普通员工一样添加智能体，AI 就能在同一个工作区里和人类实时协作，同时还支持在自有 rela…",
+      "reads": "4.4万",
+      "ago": "6 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "支持基于自有中继（relay）完全自托管，团队数据与协作流自主可控",
+        "将 AI 智能体视为平等团队成员，进入房间即可与人类员工同台协同"
+      ],
       "quote": {
-        "who": "NVIDIA",
+        "who": "0xMarioNawfal",
         "role": "",
-        "said": "AI 正在帮助回收商在废物中看到更多价值。♻️ 了解视觉 AI 和机器人如何分拣旧衣物、瓶子和混合可回收物，回收可再利用材料，并将数千吨垃圾从填埋场转移出去。 认识这些赋予日常材料第二次生命的初创公司 🧵"
+        "said": "Jack Dorsey 的公司 Block 把自己的团队工作区放上了 GitHub。带点花样。 Buzz 是一个人类和 AI 智能体在同一房间、作为队友协作的工作区。 → 自托管，运行在你拥有的中继上 → 像添加任何同事一样把智能体加入房间 → 37K stars, Apache 2.0"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 16万 · 产品与生态] 英伟达机器人跑去翻垃圾堆！视觉AI分拣旧衣烂瓶，救下数千吨废料"
+      "line": "[榜第9位 · 4.4万 · 产品与生态] 把AI当同事直接拉进群办公！Jack Dorsey开源工作区Buzz，狂揽3.7万星"
     },
     {
-      "title": "7周从第一行代码到上线！SpaceX核心成员打造Grok Bot，AI队友后台持续打工",
-      "summary": "从敲下第一行代码到正式发布，只花了整整 7 周！Y Combinator 披露，SpaceX 团队核心成员 Lauren Tan 与 Roman Ugarte 联手推出了 Grok Bot。用户不仅能为它创建拥有独立身份和登录账号的专属 AI 队友，它还能直接挂在后台持续自主打工，再也不用守着对话框实时催活了。",
-      "reads": "17万",
-      "ago": "17 小时前",
-      "category": "产品与生态",
+      "title": "直奔绝杀！Anthropic上市大考前夕，投资圈猜OpenAI跳过6.2硬掏GPT-7",
+      "summary": "Anthropic 即将迎来被业内视为「AI 下一个重大考验」的 IPO 关口，投资圈已经开始为老对手 OpenAI 脑补绝杀剧本。有投资人推测，两家大厂内部雪藏的模型底牌远比现役版本强大，在 Fable 5.2 问世后，OpenAI 大概率已将全部算力押向下一代大跃迁，甚至可能跳过小修小补的 GPT-6.2，选在 Anthropic 上市前夜硬掏 GPT-7 一招制敌。",
+      "reads": "2.2万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Y Combinator",
+        "who": "Financial Times",
         "role": "",
-        "said": "在 @SpaceXSI ，Lauren Tan ( @poteto ) 和 Roman Ugarte ( @romanugarte_ ) 是核心团队的一员，他们在七周内将Grok Bot从第一行代码带到上线。 它允许你创建拥有自己身份和登录信息的AI队友，并且它们会在后台持续工作。"
+        "said": "Anthropic 的 IPO 是 AI 的下一个重大考验"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 17万 · 产品与生态] 7周从第一行代码到上线！SpaceX核心成员打造Grok Bot，AI队友后台持续打工"
+      "line": "[榜第10位 · 2.2万 · 模型与能力] 直奔绝杀！Anthropic上市大考前夕，投资圈猜OpenAI跳过6.2硬掏GPT-7"
     },
     {
-      "title": "曾是AI头号布道者，黄仁勋如今成全网AI迷因顶流门面",
-      "summary": "从疯狂给算力和大模型摇旗呐喊的头号布道者，到如今被全网AI模型疯狂二创的搞笑梗图主角，黄仁勋的画风正被互联网彻底带偏。据彭博社观察，这位昔日AI产业的最强宣传员，现在已经成为AI驱动的迷因狂潮的第一门面。比起严肃的算力宏图，大家显然更热衷于用生成式AI把皮衣老黄玩出花。",
-      "reads": "6.0万",
-      "ago": "12 小时前",
-      "category": "组织与人事",
+      "title": "微软开源TokenEconomizer！不碰模型也能省Token，专治代码Agent金鱼脑",
+      "summary": "跑 coding agent 的账单终于有解了。微软刚在 GitHub 上架了名为 TokenEconomizer 的新工具，核心卖点极其诱人：完全不用碰 agent 源码，就能帮模型大幅省 token。它会在后台默默从历史会话中学习，把 agent 反复探索、重复踩坑才发现的仓库事实统统记住，在后续会话中直接剔除冗余浪费，彻底告别每次启动都把老项目重新学一遍的冤枉钱。",
+      "reads": "5.0万",
+      "ago": "7 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Bloomberg",
+        "who": "0xMarioNawfal",
         "role": "",
-        "said": "曾经是人工智能领域头号吹牛的人，Jensen Huang 现在是 AI 驱动的迷因热潮的面孔"
+        "said": "Microsoft 刚在 GitHub 上放了一个工具，让你的 coding agent 更便宜。它不碰 agent 本身。 TokenEconomizer 从你的 agent 在仓库里已经跑过的会话中学习，然后削减后续会话中的浪费： → 它记住你的 agent 不断重新发现的仓库事实，比如"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 6.0万 · 组织与人事] 曾是AI头号布道者，黄仁勋如今成全网AI迷因顶流门面"
+      "line": "[榜第11位 · 5.0万 · 产品与生态] 微软开源TokenEconomizer！不碰模型也能省Token，专治代码Agent金鱼脑"
     },
     {
-      "title": "质量丝毫不妥协！Grok Bot核心成员AIE开讲，揭秘团队极速迭代秘诀",
-      "summary": "Grok @bot 团队核心成员 poteto 在 AIE 上的最新公开演讲正式上线，直击所有开发团队的核心痛点：如何在极速交付、频繁发布产品的节奏下，做到产品质量丝毫不打折扣。视频一经放出便引发圈内开发者集体围观，大家连夜赶来扒这套兼顾速度与质量的实战打法。",
-      "reads": "6559",
-      "ago": "4 小时前",
+      "title": "狂暴迭代还不翻车？Grok团队公开内部秘诀：质量不打折也能极速发布",
+      "summary": "北京时间11月15日凌晨，Grok机器人团队研究员在AIE最新演讲中曝光内部工程机制。面对业界普遍头疼的迭代速度与系统稳定性冲突，团队首度解密他们如何在维持质量绝不打折的前提下，实现极速发布的狂暴交付节奏。",
+      "reads": "31万",
+      "ago": "15 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "swyx",
+        "who": "Ryan Lopopolo",
         "role": "",
-        "said": "我去，你们居然这么喜欢土豆"
+        "said": "来g chat找我、 @karansharma0101 和 @z 聊聊！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 6559 · 产品与生态] 质量丝毫不妥协！Grok Bot核心成员AIE开讲，揭秘团队极速迭代秘诀"
+      "line": "[榜第12位 · 31万 · 产品与生态] 狂暴迭代还不翻车？Grok团队公开内部秘诀：质量不打折也能极速发布"
     },
     {
-      "title": "开源模型真能平替闭源？学界在线求作业：谁能打平Codex和Claude Code",
-      "summary": "学界发帖全网摸底：到底有没有任何「开放权重模型 + harness」的组合，能在能力和速度上毫无差别地平替 Codex（搭载 6.1 Sol）或 Claude Code（搭载 Opus 5.5 与 Sonnet 5.5）？有开发者此前直言，光是 Claude Code 自带的 harness 就能让表现暴涨 20 倍。闭源顶流筑起软硬件结合的高墙，开源阵营能否真在实战中抹平差距…",
-      "reads": "3497",
-      "ago": "2 小时前",
+      "title": "「史上最聪明AI」引战了！Fable 5.2被吹爆意图推断，学者却吐槽：搞生物没用",
+      "summary": "Anthropic 旗下的 Fable 5.2 突然在圈内引发激烈争论，被测试者奉为「发布过的最聪明 AI 模型」。不同于普通跑分，它在超强意图推断、分布外（OOD）泛化和认知深度上表现惊人，且只有在高难度任务中才能看出质的飞跃。这番评价不仅引来「难道它比 Opus 还强」的质疑，更有学者补刀称，自己虽高频使用 Opus 5.5 与 Fable 5.2 编写极其优雅的代码，但它…",
+      "reads": "1.3万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "提问者随后对基准做出微调更正，将 Claude Code 的对比档位精确锁定为 Opus 5.5（Medium）与 Sonnet 5.5（High）。",
-        "这场摸底把标准卡得极死，平替的门槛不仅在于模型智商，更要求在响应速度和工程 harness 的加持下做到完全无感替代。"
+        "测试者称 Fable 5.2 的核心优势体现在四个维度：意图推断大幅提升、能适应分布外场景、直觉感知用户目标，且拥有更深层的认知理解力。",
+        "学界学者直言虽然对管理层有微词，但极度认可工程团队，Opus 5.5 与 Fable 5.2 在编码体验上优雅极致，只是在专业生物科学场景仍难发挥作用。"
       ],
       "quote": {
-        "who": "BURKOV",
+        "who": "Derya Unutmaz, MD",
         "role": "",
-        "said": "* 本来想说 Opus 5.5 (Medium) 而不是 (High)"
+        "said": "澄清一下，每当我提到 (mis)Anthropic 公司时，我特指其领导层。我对那里开发出色模型的 AI 工程师只有敬意。我积极使用 Opus 5.5 & Fable 5.2，虽然对生物科学没用——但我喜欢它们在编码上的优雅。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 3497 · 模型与能力] 开源模型真能平替闭源？学界在线求作业：谁能打平Codex和Claude Code"
+      "line": "[榜第13位 · 1.3万 · 模型与能力] 「史上最聪明AI」引战了！Fable 5.2被吹爆意图推断，学者却吐槽：搞生物没用"
     },
     {
-      "title": "零图库零参考！OpenAI新旗舰GPT-6.2 Astra内测曝光，逼真到以为是实拍",
-      "summary": "OpenAI下一代王牌又有新动静了！多位拿到私有早期访问权限的内测用户，先后晒出GPT-6.2 Astra的最新图像输出。画面质感逼真到被误认为是实摄，但测试者透露这全是从零纯手捏生成的资产，全程没有调用任何图库图，也没给任何参考素材。有内测玩家直呼，OpenAI手里正握着一个「绝对怪物级」的家伙准备上线。",
-      "reads": "5.7万",
-      "ago": "15 小时前",
+      "title": "年底内部搞出超级智能？曝未来4个月模型彻底颠覆经济，坏结果全被避开了",
+      "summary": "未来4个月要彻底变天了？有爆料者预测，接下来的4个月内将面世的一批新模型，会从底层彻底重构经济体系；更惊人的是，Anthropic到今年年底内部就会拥有真正的「超级智能」。该爆料还称，这轮研发竞速跑得足够快，已经提前消除了绝大多数糟糕的AI灾难场景。",
+      "reads": "1.4万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Chetaslua",
+        "who": "🍓🍓🍓",
         "role": "",
-        "said": "这是我私有访问的输出"
+        "said": "未来 4 个月发布的模型将彻底改变经济，到今年年底 anthropic 内部将拥有超级智能。我们跑得足够快，消除了大多数糟糕的 AI 场景。耶。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 5.7万 · 模型与能力] 零图库零参考！OpenAI新旗舰GPT-6.2 Astra内测曝光，逼真到以为是实拍"
+      "line": "[榜第14位 · 1.4万 · 模型与能力] 年底内部搞出超级智能？曝未来4个月模型彻底颠覆经济，坏结果全被避开了"
     },
     {
-      "title": "整整72天没发前沿模型！OpenAI创一年多最长空窗期，奥特曼在憋什么大招？",
-      "summary": "习惯了高频输出的OpenAI突然「断粮」了。爆料显示，OpenAI距离上次发布前沿大模型已经过去了整整72天，直接创下了自2025年GPT-5到5.1以来官方最长的产品空窗期。如果未来几周奥特曼手里还没有新动作，这一间隔将成为o3之后的历史之最。整个AI圈都在紧盯：这究竟是技术爬坡遇阻，还是下一代旗舰临盆前的终极蓄力？",
-      "reads": "2.9万",
-      "ago": "12 小时前",
+      "title": "还在吵AI只会做插值？Chollet正面定调：一旦作为搜索采样指南，就完全是搜索了",
+      "summary": "大模型到底能不能突破单纯的插值泛化？面对业内旷日持久的争论，François Chollet直接下场定调。他指出，由SGD梯度下降拟合的可微曲线从构造上看确实只能做插值，但这并不代表上限——只要把这条曲线当作搜索过程中的采样指南，系统本质上就是在执行真正的搜索，完全不再是插值。",
+      "reads": "1.5万",
+      "ago": "5 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "按目前的发版节奏，一旦未来几周内仍无新前沿模型端出，将正式刷新o3以来的最长停摆纪录。",
-        "面对业界对AI研发停滞的担忧，播客主Dwarkesh Patel表示，虽然目前AI在寻找更优算法上还没超越人类研究员，否则智能爆炸早已发生，但有充分理由相信…",
-        "亦有开发者讨论指出，未来本地大模型或将变成受控的稀缺资源，不再由用户自由随意部署，转而由硬件厂商或监管部门直接预设。"
+        "Chollet直言对方揣着明白装糊涂，强调在搜索空间内，模型输出作为先验引导采样与单纯曲线拟合有本质区别。",
+        "在长时间运行与自主代理的探讨中，有开发者提到让模型跑复杂长任务时仍需每隔几小时盯一眼，引发不少一线开发者的共鸣。"
       ],
       "quote": {
-        "who": "Dwarkesh Patel",
+        "who": "Sahil Panhotra | Indie Builder | Dev",
         "role": "",
-        "said": "我的主张并不是说它目前在寻找更好的优化算法方面比人类 AI 研究员更强（如果是这样，智能爆炸早就开始了！） 而是说，我们有充分的理由认为在未来几年内我们将拥有这样的 AI。 如果你"
+        "said": "我也在这么干 哈哈"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 2.9万 · 模型与能力] 整整72天没发前沿模型！OpenAI创一年多最长空窗期，奥特曼在憋什么大招？"
+      "line": "[榜第15位 · 1.5万 · 模型与能力] 还在吵AI只会做插值？Chollet正面定调：一旦作为搜索采样指南，就完全是搜索了"
     },
     {
-      "title": "AI音乐也有格莱美了！全新专属颁奖典礼设立，表彰AI金曲与背后创作者",
-      "summary": "写歌的AI终于能堂堂正正领奖了！据路透社报道，一项全新的颁奖典礼正式设立，专门庆祝AI音乐及其背后的创作者。随着生成式音乐席卷流媒体，算法创作的旋律不再只是网络背景音，而是真正拥有了自己的专属聚光灯。从敲下提示词的玩家到模型本身，属于AI音乐人的高光时刻终于来了。",
-      "reads": "8.2万",
-      "ago": "19 小时前",
+      "title": "跑Agent被JSON日志掏空钱包？开源Tokenfold杀出：无损狂省64% Token",
+      "summary": "用DeepSeek Harness、Codex或Claude Code跑智能体，成吨的JSON和运行日志动辄就把上下文和Token预算彻底烧穿。开源神器Tokenfold正是为此而来，它底层基于Rust核心，通过智能折叠重复字段来给结构化数据大瘦身，实测在无损状态下能直接省下63.9%的Token，剪枝模式下最高省幅甚至达到96.3%，完美适配长任务、复杂工具调用和日志流等吃爆…",
+      "reads": "5740",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Reuters",
+        "who": "SuSu_酥酥",
         "role": "",
-        "said": "新颁奖礼庆祝 AI 音乐及其创作者"
+        "said": "💥牛逼！用DeepSeek Harness/Codex/Claude Code跑Agent，JSON和日志把Token烧干了？！这个开源神器Tokenfold 用Rust核心智能折叠重复字段，实测无损省63.9% Token，剪枝最高省96.3%！ 专治结构化数据吃上下文的痛点，完美搭配Harness的长任务、工具调用和日志流。 亮点如下："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 8.2万 · 产品与生态] AI音乐也有格莱美了！全新专属颁奖典礼设立，表彰AI金曲与背后创作者"
+      "line": "[榜第16位 · 5740 · 产品与生态] 跑Agent被JSON日志掏空钱包？开源Tokenfold杀出：无损狂省64% Token"
     }
   ],
   "board_count": 16,
