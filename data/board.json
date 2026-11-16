@@ -3,38 +3,245 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-16 09:55:05 +0800",
+  "fetched_at": "2026-11-16 17:29:49 +0800",
   "today": "11/16",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "日常更新绝口不提，转头死磕理论物理！OpenAI用GPT-6 Astra推导标准模型",
-      "summary": "日常更新还在让用户苦等，OpenAI 却悄悄拉着旗舰去死磕基础科学了。OpenAI 官方新开的科学博客首篇发文，物理学家 Nathaniel Craig 分享了他与 GPT-6 Astra 合作开发标准模型候选晶格定义的过程。总裁 Greg Brockman 随后转发，直接定调「GPT-6 Astra 用于理论物理」。面对官方在基础科学上的秀肌肉，有网友忍不住吐槽：自家用户连…",
-      "reads": "10万",
-      "ago": "55 分钟前",
-      "category": "模型与能力",
+      "title": "马斯克确认Grok默认不打文本水印！除非法律强制，开发输出干干净净",
+      "summary": "调 Grok 接口不用再提防被暗戳戳打标记了。有发帖者透露 Grok 文本水印在 SpaceXSI API 中已默认关闭，马斯克不仅直接转发强调「重要」，还给出了明确口径：除非当地法律有强制要求，或者用户自己主动申请，否则 Grok 绝不开启文本水印。这意味着基于它构建的应用，吐出的内容不会夹带任何隐形统计水印。",
+      "reads": "64万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
       "source": "新智元",
-      "bullets": [
-        "该内容为 OpenAI 全新科学博客的第一篇文章，旨在展示前沿模型在硬核科研中的协作能力。",
-        "目前官方与研究者仅公开了候选晶格定义方向的合作案例，尚未公布具体的方法细节或同行评议验证结论。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Greg Brockman",
+        "who": "Elon Musk",
         "role": "",
-        "said": "GPT-6 Astra 用于理论物理："
+        "said": "重要"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 10万 · 模型与能力] 日常更新绝口不提，转头死磕理论物理！OpenAI用GPT-6 Astra推导标准模型"
+      "line": "[榜第1位 · 64万 · 政策与安全] 马斯克确认Grok默认不打文本水印！除非法律强制，开发输出干干净净"
+    },
+    {
+      "title": "23小时星舰直播秒变大片！博主晒Grok Bot一键加特效配乐，马斯克惊呼无所不能",
+      "summary": "23小时的星舰发射直播，AI直接一口吞了！知名博主 DogeDesigner 晒出一段集锦称，Grok Bot 自动下载了整整23小时的星舰 Flight 15 直播，飞速挑出高光片段、拼好剪辑，甚至把特效和配乐全给包圆了，直呼「再也不需要视频剪辑软件了」。马斯克随后转发力挺，直接给出极高评价，称 Grok Bot 几乎无所不能。",
+      "reads": "61万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Elon Musk",
+        "role": "",
+        "said": "Grok @Bot 几乎无所不能"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 61万 · 产品与生态] 23小时星舰直播秒变大片！博主晒Grok Bot一键加特效配乐，马斯克惊呼无所不能"
+    },
+    {
+      "title": "谁说2028算力见顶？郭明錤曝OpenAI与Anthropic疯抢谷歌TPU，排期延至2029",
+      "summary": "知名分析师郭明錤最新行业调查指出，即便外界普遍预期 AI 资本开支将在 2028 年见顶，OpenAI 与 Anthropic 的最新大单却直接将 Google TPU 的出货能见度撑到了 2029 年！他预计 2028 至 2029 年间两家合计吃下约 2600 万台 TPU，其中 OpenAI 需求约 1200 万台且全部选择直接买断，Anthropic 则采购约 1400…",
+      "reads": "29万",
+      "ago": "7 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "据郭明錤预测，Google TPU 出货量将持续暴涨：2027 年预计为 800 万至 900 万台，2028 年跃升到 1400 万至 1500 万台，2…",
+        "芯片方案出现明确分工：OpenAI 对应的是由联发科（MediaTek）设计的 8t，Anthropic 对应的则是博通（Broadcom）设计的 8i，两…",
+        "采购模式各异：OpenAI 选择直接买断，Anthropic 则采用租赁与买断混合的方式；联发科与博通成为该供应链上最值得关注的核心赢家。"
+      ],
+      "quote": {
+        "who": "Wall St Engine",
+        "role": "",
+        "said": "Ming-Chi Kuo 称 OpenAI 和 Anthropic 的订单使 Google TPU 出货可见性延伸至2029年： 2027: 800万-900万 2028: 1400万-1500万 2029: 1600万-1800万 他预计 OpenAI 在2028-29年间约需1200万台，Anthropic 约需1400万台，尽管许多人预期 AI 资本支出将在2028年见顶。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 29万 · 资本与算力] 谁说2028算力见顶？郭明錤曝OpenAI与Anthropic疯抢谷歌TPU，排期延至2029"
+    },
+    {
+      "title": "AMD博通接不住！英伟达巨额信用担保成终极壁垒，算力新贵被指暗藏债务炸弹",
+      "summary": "AI 军备竞赛打到了金融担保层面。多位半导体高管透露，英伟达为云服务商和数据中心开发商提供了巨额信用担保，这一护城河连 AMD 和博通都无法匹敌，若英伟达收缩将留下巨大的市场真空。科技评论员随后发文推演，缺少了老黄明确或隐含的资金担保（JensenBucks），像 Nscale、Firmus 等算力小厂恐沦为债务市场的定时炸弹，Lambda 的长期上市前景同样堪忧。",
+      "reads": "8.1万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "半导体高管表示，AMD 和博通目前无法承担类似英伟达向云厂商和数据中心开发商开出的巨额信用担保。",
+        "科技分析师 Ed Zitron 认为，若没有英伟达的隐性信用背书，新兴 GPU 云服务商在债务市场面前极为脆弱，甚至难以走到公开上市。"
+      ],
+      "quote": {
+        "who": "Gary Marcus",
+        "role": "",
+        "said": "然后看看"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 8.1万 · 资本与算力] AMD博通接不住！英伟达巨额信用担保成终极壁垒，算力新贵被指暗藏债务炸弹"
+    },
+    {
+      "title": "沃尔玛年赚220亿才值1万亿！金融博主吐槽：Anthropic还在亏钱凭啥高估值IPO",
+      "summary": "一位金融发帖者晒出的一组数据引发围观：实业巨头沃尔玛一年狂揽约 7130 亿美元营收、净赚约 220 亿美元，估值才大约 1 万亿美元；反观大模型独角兽 Anthropic，今年前 9 个月营收约 330 亿美元且仍在亏损，却传出即将以约 1.4（原帖单位未完整写明）的估值冲刺 IPO。博主直接直呼这完全说不通。",
+      "reads": "15万",
+      "ago": "5 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "NoLimit",
+        "role": "",
+        "said": "这完全说不通 Walmart 一年营收 7130 亿美元，利润 220 亿。 估值大约 1 万亿美元。 Anthropic, $ANT , 今年前 9 个月营收约 330 亿美元，但还在亏钱。 它即将 IPO，估值大约在 1.4"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 15万 · 资本与算力] 沃尔玛年赚220亿才值1万亿！金融博主吐槽：Anthropic还在亏钱凭啥高估值IPO"
+    },
+    {
+      "title": "大摩高呼历史拐点！SpaceX第15次试飞成功抓星舰，华尔街彻底看懂了",
+      "summary": "华尔街对马斯克的航天梦给出了极高定调。摩根士丹利（Morgan Stanley）分析师 Adam Jonas 在谈及 SpaceX 第 15 次飞行成功接住星舰（Starship）时直言，这次试飞无论对 SpaceX 自身还是整个人类航天事业，都是一次历史性的转折点。目前 SpaceX 累计已回收 3 艘星舰和数百枚猎鹰 9 号助推器，常态化复用太空运力的时代正在加速兑现。",
+      "reads": "21万",
+      "ago": "6 小时前",
+      "category": "其他",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Sawyer Merritt",
+        "role": "",
+        "said": "Morgan Stanley 的 Adam Jonas 谈 @SpaceX 在第 15 次飞行中成功接住 Starship： “我们认为，第 15 次飞行对公司乃至整个航天事业都是一个历史性的转折点。SpaceX 在其历史上已回收了三艘 Starship + 数百个 Falcon 9 助推器，并且"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 21万 · 其他] 大摩高呼历史拐点！SpaceX第15次试飞成功抓星舰，华尔街彻底看懂了"
+    },
+    {
+      "title": "AI正式杀入理论物理！GPT-6 Astra联手科学家，攻坚标准模型50年难题",
+      "summary": "OpenAI全新科学博客今天正式开张，首发战果直接跨界到理论物理。物理学家 Nathaniel Craig 分享了他如何与 GPT-6 Astra 合作，开发出粒子物理标准模型的候选晶格定义；有发帖者透露，Astra 甚至协助完成了困扰学界 50 年难题的数学证明。总裁 Greg Brockman 亲自转发站台。面对各路网友发穿西装猴子表情包催更模型内部进展，OpenAI 这一…",
+      "reads": "18万",
+      "ago": "7 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "发帖者转述称该项突破还关联到了菲尔兹奖得主 Edward Witten，但原帖未就具体细节展开说明。",
+        "针对官方迟迟不给 Astra 推送功能更新、对内部开发进展避而不谈的现状，社区不少用户用搞笑梗图表达不满。"
+      ],
+      "quote": {
+        "who": "ℏεsam",
+        "role": "",
+        "said": "现在 AI 正在进军理论物理。Astra 帮助物理学家 Nathaniel Craig 解决了一个与粒子物理“标准模型”相关的 50 年难题。 具体来说，它协助完成了数学证明。有趣的是，菲尔兹奖得主 Edward Witten"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 18万 · 模型与能力] AI正式杀入理论物理！GPT-6 Astra联手科学家，攻坚标准模型50年难题"
+    },
+    {
+      "title": "「用EUV谁都能造好芯片！」麒麟9050逐层结构曝光，海外博主直呼全球最酷",
+      "summary": "半导体分析机构放出麒麟 9050 从顶面到凸点面的逐层结构，向业内公开追问其背后的「LogicFolding」技术到底长什么样。这一拆解引来海外科技圈围观，有博主转发直言，麒麟 9050 是自己心中「世界上最酷的硅芯片」；虽然市面上比它好的芯片有很多，但靠 EUV 谁都能造出好芯片，脱离这种依赖的创新才真正称得上酷。",
+      "reads": "2.6万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Chris",
+        "role": "",
+        "said": "18号那天看起来会好得多"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 2.6万 · 模型与能力] 「用EUV谁都能造好芯片！」麒麟9050逐层结构曝光，海外博主直呼全球最酷"
+    },
+    {
+      "title": "马斯克甩出新词引爆全网：特斯拉被曝自建机器人学校，一个班狂塞2万台Optimus",
+      "summary": "马斯克在社交平台刚发出一句「Optimus Academy」，随即引来媒体跟进爆料：特斯拉正计划为 Optimus 打造一所专属的机器人学校，一个班级最多可能有 20,000 名学生。据消息透露，成千上万台机器人将在其中反复练习现实世界任务，在错误中学习并持续演进，每一堂课生成的数据都将直接用于训练 AI。",
+      "reads": "1.7万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Mario Nawfal",
+        "role": "",
+        "said": "Tesla 正在为 Optimus 建一所学校。这个班级最多可能有 20,000 名学生。 它叫 Optimus Academy。 成千上万的机器人将练习现实世界任务，从错误中学习，并不断变得更好。 每一课都会生成数据来帮助训练 AI，所以"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 1.7万 · 模型与能力] 马斯克甩出新词引爆全网：特斯拉被曝自建机器人学校，一个班狂塞2万台Optimus"
+    },
+    {
+      "title": "英伟达动荡拖垮芯片股！亚洲两大市场下挫，资金正为Anthropic腾地方",
+      "summary": "据彭博社报道，周一亚洲两大芯片权重股市场再度承压，跟随美股走弱。背后的导火索除了英伟达近期的持续动荡，还在于资本市场正在大调仓——投资者正急着为 Anthropic 备受瞩目的股份出售腾出资金空间。芯片股被资金分流抽水，资金流向了炙手可热的头部大模型独角兽。",
+      "reads": "1.5万",
+      "ago": "1 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Bloomberg",
+        "role": "",
+        "said": "周一，亚洲两大芯片权重股市再度承压，跟随美股走弱。Nvidia 动荡之际，投资者也在为 Anthropic 备受期待的股份出售腾出空间。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 1.5万 · 资本与算力] 英伟达动荡拖垮芯片股！亚洲两大市场下挫，资金正为Anthropic腾地方"
+    },
+    {
+      "title": "连商场都不给改！马里兰居民联手叫停50亿美元AI数据中心：电不够用",
+      "summary": "据媒体报道，美国马里兰州一个社区成功叫停了一座拟投资 50 亿美元的 AI 数据中心项目。该项目原计划把当地近 90 英亩的废弃购物中心改建成超大计算园区，却遭到居民的强烈抵制，核心矛盾正是大家担心的供电负荷问题。在一位当地活动家的奔走推动下，居民们硬是让这个算力巨无霸踩了刹车。AI 的尽头，终究还是绕不开电网。",
+      "reads": "2.1万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Mario Nawfal",
+        "role": "",
+        "said": "🇺🇸 马里兰州一个社区阻止了一个拟议的 50 亿美元 AI 数据中心，一位当地活动家帮助促成了这一结果。 该项目本将把近 90 英亩废弃购物中心改造成大型计算园区。 但居民因电力问题……"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 2.1万 · 资本与算力] 连商场都不给改！马里兰居民联手叫停50亿美元AI数据中心：电不够用"
     },
     {
       "title": "车刚开进得来速，AI就认出你了！星巴克CEO披露：将推定制数字菜单",
       "summary": "星巴克要把 AI 塞进得来速车道了。CEO Brian Niccol 透露，作为公司更大规模 AI 布局的一环，星巴克计划在顾客驱车驶入得来速通道时直接完成识别，并为参与顾客即时展示个性化的数字菜单。未来车还没停稳，屏幕上可能就已经亮出了你常喝的那款定制咖啡。目前该计划的具体上线时间与覆盖范围尚未公布。",
       "reads": "17万",
-      "ago": "3 小时前",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
@@ -47,14 +254,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 17万 · 产品与生态] 车刚开进得来速，AI就认出你了！星巴克CEO披露：将推定制数字菜单"
+      "rank": 12,
+      "line": "[榜第12位 · 17万 · 产品与生态] 车刚开进得来速，AI就认出你了！星巴克CEO披露：将推定制数字菜单"
     },
     {
       "title": "代工英伟达吃下一半营收！富士康董事长公开表态：我们不在AI泡沫里",
       "summary": "外面天天吵着AI泡沫要破，一线代工巨头第一个坐不住了。11月16日，富士康董事长刘扬伟公开斩钉截铁定调：「我们不在泡沫里。」作为英伟达AI服务器的核心制造商，富士康眼下的底气全来自硬核进账：包含AI服务器在内的云和网络业务，如今已吃下公司一半以上的总收入。前线真金白银狂暴进账，难怪大佬回应得如此硬气。",
       "reads": "11万",
-      "ago": "2 小时前",
+      "ago": "9 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [],
@@ -67,34 +274,34 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 11万 · 资本与算力] 代工英伟达吃下一半营收！富士康董事长公开表态：我们不在AI泡沫里"
+      "rank": 13,
+      "line": "[榜第13位 · 11万 · 资本与算力] 代工英伟达吃下一半营收！富士康董事长公开表态：我们不在AI泡沫里"
     },
     {
-      "title": "一口气想融904亿美元！Anthropic拟创史上最大IPO，华尔街却紧盯回报",
-      "summary": "据彭博社披露，Claude母公司Anthropic正计划在公开募股（IPO）中寻求筹集高达904亿美元的资金。若这一规模最终成行，将一举刷新全球资本市场历史纪录，成为史上规模最大的一次IPO。面对这个令人咋舌的天文数字，华尔街表现得相当冷静：投资人们正明确要求看到切实证据，证明在AI基建与研发上烧掉的海量资金，最终能兑现为真金白银的回报。",
-      "reads": "6.6万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
+      "title": "小丑牌加暗黑2缝合怪来了！Claude Fable 5.2反向提问，周末搓出新游",
+      "summary": "有开发者借助 Claude Fable 5.2 把《小丑牌》（Balatro）与《暗黑破坏神 II》大胆混搭，并融入少许《流放之路》元素，搓出了一款名为 DarkPattern 的免费网页游戏。有意思的是制作姿势：并非丢给 AI 一大段长 Prompt，而是 Fable 5.2 反客为主，通过多轮提问深入「采访」制作者来敲定设计。作者透露，整套开发只花了一个周末，耗费了三次用量…",
+      "reads": "2.2万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Bloomberg",
+        "who": "0xMarioNawfal",
         "role": "",
-        "said": "Anthropic 希望在 IPO 中融资 904 亿美元，这将是史上最大规模。华尔街希望看到证据，证明在 AI 上的巨额支出最终会有回报。 https://bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom?taid=6afa1f0513aa3b0001841390…"
+        "said": "Claude Fable 5.2 把 Balatro 和 Diablo II 混搭成了 DarkPattern，一款免费浏览器游戏。 → 不是一条长提示词，而是 Fable 通过多轮提问采访了制作者 → 还混入了一点 Path of Exile → 制作者说这花了一个周末的三次用量重置"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 6.6万 · 资本与算力] 一口气想融904亿美元！Anthropic拟创史上最大IPO，华尔街却紧盯回报"
+      "rank": 14,
+      "line": "[榜第14位 · 2.2万 · 模型与能力] 小丑牌加暗黑2缝合怪来了！Claude Fable 5.2反向提问，周末搓出新游"
     },
     {
       "title": "薄荷糖大小磁吸边戴边充！苹果智能眼镜原型大曝光：硬件定型，软件却拖后腿",
       "summary": "苹果首款智能眼镜原型细节遭全盘大曝光。据知名记者 Mark Gurman 爆料，代号 N50 的工程机机身比 Meta 二代 Ray-Bans 略薄，左镜腿配有薄荷糖大小的三针磁吸连接器，甚至支持边戴边充电。内部搭载老款 Apple Watch 衍生芯片，运行精简版 visionOS 28，完全放弃 AR 显示，全靠 Siri 与摄像头交互。目前硬件已基本定型，但因软件与 AI…",
       "reads": "24万",
-      "ago": "7 小时前",
+      "ago": "14 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -112,232 +319,28 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 24万 · 产品与生态] 薄荷糖大小磁吸边戴边充！苹果智能眼镜原型大曝光：硬件定型，软件却拖后腿"
-    },
-    {
-      "title": "iPhone只是练兵场！苹果刚官宣的Siri AI，真正核心是智能眼镜",
-      "summary": "苹果刚刚宣布的 Siri AI 集成，真正的目标可能根本不是手机。据彭博社记者 Mark Gurman 在最新一期 Power On 通讯中披露，这套全新集成的 Siri AI，其实是苹果即将推出的智能眼镜计划的核心底座。外界以为这只是一次常规语音助手升级，没想到苹果是在为下一代可穿戴硬件的落地暗度陈仓。",
-      "reads": "6.9万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Bloomberg",
-        "role": "",
-        "said": "Apple 刚刚宣布的 Siri AI 集成是其即将推出的智能眼镜计划的核心，Mark Gurman 写道。 阅读最新一期 Power On 通讯： https://bloom.bg/4eUT5oj 📷️: Minh Connors/Bloomberg"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 6.9万 · 产品与生态] iPhone只是练兵场！苹果刚官宣的Siri AI，真正核心是智能眼镜"
-    },
-    {
-      "title": "英伟达罕见连跌6周抹去31%！跌回2025年7月水平，追平史上第二长连跌纪录",
-      "summary": "据金融分析机构 The Kobeissi Letter 披露，英伟达（$NVDA）已连续 6 周录得下跌，期间股价累计下挫 31%，直接跌至 2025 年 7 月以来的最低水平。这轮惨烈的下行趋势，也正式追平了英伟达有记录以来的第二长周线连跌纪录。",
-      "reads": "9.9万",
-      "ago": "5 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "The Kobeissi Letter",
-        "role": "",
-        "said": "Nvidia 正在经历历史性连跌： Nvidia、 $NVDA 已连续 6 周下跌，追平其有记录以来第二长的周线连跌纪录。 在此期间，股价下跌了 -31%，降至 2025 年 7 月以来的最低水平。 类似的 6 周连跌"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 9.9万 · 资本与算力] 英伟达罕见连跌6周抹去31%！跌回2025年7月水平，追平史上第二长连跌纪录"
-    },
-    {
-      "title": "狂砸19亿美元！三星德州厂被曝大扩建：专门给SpaceX星链造激光通信芯片",
-      "summary": "马斯克星链的关键芯片要搬家了。据行业博主爆料，三星将投资 19 亿美元扩建位于德克萨斯州奥斯汀的芯片工厂，专门为 SpaceX 旗下的 Starlink 卫星生产半导体。该工厂预计将负责生产用于星链激光通信系统的 STM32V8 芯片，并把此前放在法国的这部分产能直接转移过来。",
-      "reads": "2.7万",
-      "ago": "1 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Sawyer Merritt",
-        "role": "",
-        "said": "Samsung 将投资 19 亿美元扩建其在德克萨斯州奥斯汀的芯片工厂，生产用于 @SpaceX Starlink 卫星的半导体。 该工厂预计将生产用于 Starlink 激光通信系统的 STM32V8 芯片，目前这部分产能基于法国"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 2.7万 · 资本与算力] 狂砸19亿美元！三星德州厂被曝大扩建：专门给SpaceX星链造激光通信芯片"
-    },
-    {
-      "title": "广告主抱怨看不到效果！谷歌被曝曾急寻收购AI广告工具，还花钱求客户迁移",
-      "summary": "据 The Information 报道，因不少广告主抱怨在 AI 功能里投放广告根本看不到效果，谷歌正四处救火。其企业发展团队此前曾探索收购专门创建广告的 AI 工具，目前甚至还在自掏腰包向初创公司 Hightouch 付费，推动广告主把数据迁移到相关的客户工具上，只为赶紧证明自家的 AI 广告真能带来收益。",
-      "reads": "3.1万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Gary Marcus",
-        "role": "",
-        "said": "如果 AI 使用工具，它就在用工具。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 3.1万 · 产品与生态] 广告主抱怨看不到效果！谷歌被曝曾急寻收购AI广告工具，还花钱求客户迁移"
-    },
-    {
-      "title": "吃透681份真实漏洞！Claude Code红队插件开源，自带83个技能专挖赏金",
-      "summary": "做红队渗透和漏洞赏金有了新武器。据发帖者介绍，一款名为 Claude BugHunter 的 Claude Code 插件采用 MIT 协议开源，核心模式提取自 681 份公开披露的真实漏洞报告。插件内置了 83 个技能和 15 个斜杠命令，用户只要描述自己正在测试什么场景，它就能自动调用对应技能展开排查，并以安全检查完成收尾。",
-      "reads": "2.7万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "0xMarioNawfal",
-        "role": "",
-        "said": "Claude BugHunter 是一个 MIT 许可的 Claude Code 插件，包含 83 个技能和 15 个斜杠命令，用于 bug bounty 和红队工作。它使用了来自 681 份公开披露漏洞报告的模式，当你描述测试内容时会加载相应的技能，并以检查结束"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 2.7万 · 产品与生态] 吃透681份真实漏洞！Claude Code红队插件开源，自带83个技能专挖赏金"
-    },
-    {
-      "title": "微软Outlook宕机酿祸！德国主题公园泳池氯超标，报警信卡死致15人受伤",
-      "summary": "据网络安全媒体披露，本周微软 Outlook 宕机意外在现实世界砸出了严重事故：德国知名主题公园 Phantasialand 的酒店泳池自动加药系统故障、过量注入氯气，由于该系统设计为仅通过电子邮件发送异常警报，宕机直接导致告警信一封都没送达，最终酿成 15 名泳池客人受伤。关键生命安全系统竟然单点依赖日常邮箱，荒诞的连锁反应瞬间引发全网围观。",
-      "reads": "30万",
-      "ago": "9 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "🚨 突发：本周 Microsoft Outlook 宕机导致德国 Phantasialand 主题公园的氯气警报没能送达任何人。15 名酒店泳池客人受伤。 泳池自动加药系统会在氯含量异常时通过邮件发出警告。当时氯注入过量，而且"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 30万 · 政策与安全] 微软Outlook宕机酿祸！德国主题公园泳池氯超标，报警信卡死致15人受伤"
-    },
-    {
-      "title": "Anthropic被曝1.5万亿估值IPO测算：5300人中或诞生4250位百万富翁！",
-      "summary": "据金融平台 Hill 分析测算，若 Anthropic 以 1.5 万亿美元估值推进 IPO，其 5300 名员工中或有约 4250 人晋升百万富翁，其中约 50 人身家更将突破 1 亿美元（该估算高于目前约 1 万亿美元估值）。面对这场潜在的造富神话，业内发帖疾呼：AI 最大的风险正是权力与财富集中，其天然垄断倾向极强，若没有更强大的开源力量制衡，世界将陷入前所未有的不对称与…",
-      "reads": "2.4万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "clem 🤗",
-        "role": "",
-        "said": "正如我多年来所说，权力、能力和财富的集中是 AI 最大的风险。其天然趋势非常强烈，如果没有强大得多的开源力量，我们可能会进入一个比历史上任何时候都更不对称和不平等的世界！"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 2.4万 · 资本与算力] Anthropic被曝1.5万亿估值IPO测算：5300人中或诞生4250位百万富翁！"
-    },
-    {
-      "title": "控盘内存高价被抓包？三星美光SK海力士撤案被拒，全美反垄断诉讼开打",
-      "summary": "内存价格居高不下，这下巨头们真得上法庭掰扯了。三星、美光和 SK hynix 正式面临反垄断诉讼，诉讼指控这三家公司涉嫌削减产能、人为卡死 RAM 供应来维持高价。此前三家巨头曾要求法院直接驳回指控撤案，但美国法官干脆利落地回绝了这一请求，正式放行案件继续推进。",
-      "reads": "20万",
-      "ago": "9 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Pirat_Nation 🔴",
-        "role": "",
-        "said": "Samsung、Micron 和 SK hynix 将面临反垄断诉讼，被指控人为限制 RAM 供应以维持高价。 一位美国法官驳回了这些公司要求驳回诉讼的请求，允许案件继续推进。 该诉讼声称他们削减了……"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 20万 · 政策与安全] 控盘内存高价被抓包？三星美光SK海力士撤案被拒，全美反垄断诉讼开打"
-    },
-    {
-      "title": "大模型开始炒真实合约了！三大AI同台操盘，86个量化因子全拉满",
-      "summary": "大模型终于下场玩高杠杆了。有开发者展示了名为 Hyper-Alpha-Arena 的实盘系统，直接让 Claude、GPT 和 DeepSeek 在 Hyperliquid 与币安合约上交易真实的永续合约。系统配置了 86 个量化因子和 IC 评分，通过持仓量、资金费率和 CVD 等流动性指标触发决策，不仅支持纯 AI 交易与程序交易双模式，还做到了 Docker 一键部署。",
-      "reads": "2.4万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "支持接入 Hyperliquid 和 Binance Futures 两大主流平台的真实永续合约市场",
-        "由 CVD、持仓量（OI）与资金费率等实时流动性指标作为触发器决定开平仓时机",
-        "提供 AI Trader 与 Program Trader 两种运行模式，面向开发者支持 Docker 一键部署"
-      ],
-      "quote": {
-        "who": "0xMarioNawfal",
-        "role": "",
-        "said": "大语言模型现在交易真实的永续合约了。 Hyper-Alpha-Arena 在 Hyperliquid 和 Binance Futures 上运行 Claude、GPT 和 Deepseek，配备 86 个量化因子 + IC 评分。 市场流动触发器（CVD、OI、资金费率）决定何时行动。 两种模式：AI Trader 或 Program Trader。Docker 一键部署。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 2.4万 · 产品与生态] 大模型开始炒真实合约了！三大AI同台操盘，86个量化因子全拉满"
-    },
-    {
-      "title": "飞利浦牙刷头催你换新？创客用ESP32破解芯片，直接做成MacBook钥匙",
-      "summary": "据 International Cyber Digest 报道，飞利浦 Sonicare 牙刷头里其实内置了一枚 NFC 芯片，专门记录刷头型号和累计使用时长，用来让手柄判断何时提醒用户掏钱换新。一位创客并没有老老实实买单，而是掏出一块 ESP32-S3 开发板，不仅成功读取并重写了这枚芯片的数据，还顺手把牙刷头改造成了解锁自己 MacBook 的物理钥匙。",
-      "reads": "8.7万",
-      "ago": "8 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "‼️ Philips Sonicare 牙刷头里有个芯片，记录你刷牙时长。有个人把它做成了 MacBook 的钥匙。 这个 NFC 芯片会记录刷头型号和总使用时长，手柄就知道该提醒你换新头了。 他用 ESP32-S3 读取并重写了它"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 8.7万 · 产品与生态] 飞利浦牙刷头催你换新？创客用ESP32破解芯片，直接做成MacBook钥匙"
+      "line": "[榜第15位 · 24万 · 产品与生态] 薄荷糖大小磁吸边戴边充！苹果智能眼镜原型大曝光：硬件定型，软件却拖后腿"
     },
     {
-      "title": "苹果智能眼镜被曝明年见！Siri成最大王牌，抬眼叫车点咖啡全靠iPhone算",
-      "summary": "彭博记者 Mark Gurman 爆料，苹果计划于明年推出智能眼镜，而挑大梁的核心卖点正是 Siri AI 应用集成。按规划，用户戴着眼镜就能直接叫 Uber、订餐厅或点咖啡，所有 App 运算均由配对的 iPhone 在后台搞定。苹果此前在 iOS 27.3 中预览的 Siri 集成与 App Intents，正是为了让开发者提前做好准备，给这款全新穿戴设备铺路。",
-      "reads": "10万",
-      "ago": "8 小时前",
-      "category": "产品与生态",
+      "title": "谷歌TPU路线大改！v10更名Quillfish，双雄狂砸单锁死到2029",
+      "summary": "郭明錤最新产业调查曝出猛料：受 OpenAI 与 Anthropic 强劲新订单推动，Google 自研芯片 TPU 的出货能见度已经直接拉到了 2029 年。更值得注意的是，谷歌对硬件路线大动干戈，v10 产品线经历大幅调整后已正式改名为「Quillfish」；而在上游供应链里，联发科与博通成了最受瞩目的领先焦点。",
+      "reads": "4.2万",
+      "ago": "7 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "郭明錤｜Ming-Chi Kuo",
         "role": "",
-        "said": "APPLE 🔥：据彭博社报道，“Siri AI 集成是 Apple 即将推出的智能眼镜攻势的核心”。 看起来 Apple 现在将 AI 视为“更严肃”的优先事项。 为时不晚 👀"
+        "said": "Google TPU 重点更新：OpenAI 与 Anthropic 新订单推升出货能见度至 2029 年、v10 产品线大幅调整 (改为 Quillfish)、联发科与 Broadcom 为供应商中之领先关注焦点 我最新的产业调查与研究结论： 1. 订单能见度与出货规划： 受惠于 OpenAI 与 Anthropic 强劲新订单，Google TPU 出货能见度已达 2029"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 10万 · 产品与生态] 苹果智能眼镜被曝明年见！Siri成最大王牌，抬眼叫车点咖啡全靠iPhone算"
+      "line": "[榜第16位 · 4.2万 · 资本与算力] 谷歌TPU路线大改！v10更名Quillfish，双雄狂砸单锁死到2029"
     }
   ],
   "board_count": 16,
