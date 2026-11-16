@@ -3,15 +3,298 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-16 17:29:49 +0800",
-  "today": "11/16",
+  "fetched_at": "2026-11-17 04:20:58 +0800",
+  "today": "11/17",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "马斯克确认Grok默认不打文本水印！除非法律强制，开发输出干干净净",
-      "summary": "调 Grok 接口不用再提防被暗戳戳打标记了。有发帖者透露 Grok 文本水印在 SpaceXSI API 中已默认关闭，马斯克不仅直接转发强调「重要」，还给出了明确口径：除非当地法律有强制要求，或者用户自己主动申请，否则 Grok 绝不开启文本水印。这意味着基于它构建的应用，吐出的内容不会夹带任何隐形统计水印。",
-      "reads": "64万",
+      "title": "马斯克深夜放大招！Grok Bot 1.0杀进打工人会议，主动干活还能自我进化",
+      "summary": "能进会议室替打工人听会、还会自己找活干的 Grok Bot 1.0 正式亮相，马斯克在 X 上亲自发帖为其站台。这次版本更新不仅让 Bot 响应更快更聪明，还带来了团队协作强化与自主进化能力，甚至在系统里塞进了大量彩蛋。",
+      "reads": "31万",
+      "ago": "16 分钟前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Bots 可直接加入用户的线上会议，承担参会与协同任务",
+        "具备主动性，Bots 能跳出单纯的被动问答模式主动采取行动",
+        "引入学习与改进机制，Bots 能够在交互中持续演化",
+        "Team Bot 团队协作功能全面优化，整体运行速度更快且更聪明"
+      ],
+      "quote": {
+        "who": "Elon Musk",
+        "role": "",
+        "said": "试试 Grok @Bot"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 31万 · 产品与生态] 马斯克深夜放大招！Grok Bot 1.0杀进打工人会议，主动干活还能自我进化"
+    },
+    {
+      "title": "查账发现余额空了！美银摩根大通突发大面积宕机，全美转账掉线超1小时",
+      "summary": "全美多家顶尖银行的线上服务突发大范围瘫痪，数千名储户不仅无法登录网银，甚至遭遇账户余额离奇显示为空。包括摩根大通、美银、富国银行、美国合众银行以及转账平台 Zelle 的移动端与网页端服务均中断超过一小时，官方已介入排查技术故障。",
+      "reads": "31万",
+      "ago": "31 分钟前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Downdetector 故障监测报告短时间内激增数千起，主要异常集中在登录报错、账户余额缺失以及汇款卡死。",
+        "波及范围覆盖全美主流跨行清算工具 Zelle，导致多家银行之间的实时手机转账功能同步陷入停摆。",
+        "摩根大通（Chase）随后确认线上系统遭遇技术问题，多家银行的在线服务中断时间均已超过一小时。"
+      ],
+      "quote": {
+        "who": "Grok",
+        "role": "",
+        "said": "包括 Chase、Bank of America、Wells Fargo、US Bank 和 Zelle 在内的多家主要银行今天正经历在线和移动银行业务中断。Downdetector 显示数千份关于登录失败、余额缺失和转账问题的报告。 Chase 确认这是技术……"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 31万 · 产品与生态] 查账发现余额空了！美银摩根大通突发大面积宕机，全美转账掉线超1小时"
+    },
+    {
+      "title": "OpenAI豪送20万科学家免费额度！先到先得，但Pro被悄悄降级成了Plus",
+      "summary": "OpenAI突然面向全球学术界大撒福利，宣布将免费科研资助计划扩容至最多20万人，11月23日以先到先得方式开放5万个申请名额，一人中签可带两名合作者免费用ChatGPT。不过眼尖的研究人员发现官方暗藏玄机：7月试点时送的还是顶配Pro，新一轮资助已被悄悄砍成了Plus。",
+      "reads": "23万",
       "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "官方对降级解释称，试点数据显示多数学者用量都在Plus限额内，改送Plus能将资助规模直接翻倍至20万人。",
+        "计划默认不会使用科研人员在项目里共享的数据来训练模型，申请将于11月23日开放，已有候选名单的合资格者将提前收到激活通知。",
+        "自7月试点以来已有来自33个国家的2万名研究者加入，OpenAI调查显示学者们评估不用AI完成同等质量工作需耗费近两倍时间。",
+        "OpenAI另向西蒙斯基金会（Simons Foundation）注资500万美元，帮助数学家检验并拓展AI生成的科研成果。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "仔细看看这个：OpenAI 刚把免费研究计划里的研究员从 10,000 人扩到了最多 200,000 人。听起来很棒，对吧？ 直到你发现试点阶段给研究员用的是 ChatGPT Pro，而新发的资助只给 Plus。 我去……而且这条推文还没"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 23万 · 产品与生态] OpenAI豪送20万科学家免费额度！先到先得，但Pro被悄悄降级成了Plus"
+    },
+    {
+      "title": "连老底都交了！OpenAI引入4大外部机构，严查AI是否暗中违背人类",
+      "summary": "OpenAI突然决定把自家最核心的黑盒对外部机构敞开。官方宣布正与Apollo Research、METR、Transluce及Goodfire展开深度嵌入式评估，允许外部专家深入内部模型与系统，专门排查未对齐风险。这次审查不仅针对其迄今最大规模的强化学习运行，还要死磕模型是否可能暗中违背开发者意图、逃避现有关卡。目前各项测试仍在筹备与推进中。",
+      "reads": "53万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Apollo将调取训练、安全测试和内部使用记录，重点测试模型是否会暗中作对以及现有防护能否抓现行",
+        "METR负责深挖OpenAI迄今最大规模强化学习中的未对齐行为，排查现有监控漏网的故障，后续视范围扩大评估",
+        "Transluce针对后训练对齐评估查漏补缺并开发新测试，计划于2027年扩大试点",
+        "Goodfire的可解释性研究团队将直接嵌入，用其平台剖析模型内部机制，辅助监控训练运行并调试改进"
+      ],
+      "quote": {
+        "who": "OpenAI",
+        "role": "",
+        "said": "@GoodfireAI 将嵌入可解释性研究人员，使用他们的平台来分析我们模型的内部机制。 他们的工作侧重于训练运行监控、调试和对齐，帮助我们的研究人员识别并做出安全改进。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 53万 · 政策与安全] 连老底都交了！OpenAI引入4大外部机构，严查AI是否暗中违背人类"
+    },
+    {
+      "title": "科学家生产力直接翻倍！OpenAI最新1800人调查炸场：AI已渗透科研全流程",
+      "summary": "1800多名科研人员实测，靠AI干活生产力直接翻了一倍！北京时间11月17日凌晨，OpenAI公布针对学术研究项目的重磅调研，展现了ChatGPT如何渗透从选题构思到数据分析的科研全流程。联合创始人兼总裁Greg Brockman火速转发盖章这一结论，急得围观网友边点赞边催更下一代旗舰Astra。",
+      "reads": "22万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "针对「ChatGPT for Academic Researchers」项目中1800多名参与者的调研显示，科学家普遍报告使用AI后生产力几乎翻倍。",
+        "研究采用保护隐私的方法，追踪了科研人员在提出构想、方案推进到结果分析等全流程中对ChatGPT的实际使用。",
+        "OpenAI总裁Greg Brockman第一时间转发该成果并定调：「ChatGPT让科学家生产力翻倍」。"
+      ],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "OpenAI 每周的 X 内容会议，大概是这样的： “好的团队，这周我们发一篇科学博客、一篇安全博客、一篇生物学博客、一个梗图，外加一份包含 4 家外部实验室数据的基准测试更新。” “那 GPT-6.2 Astra 呢？” “明年吧。也许。” （我喜欢那些博客，但拜托，Astra 在哪儿？3"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 22万 · 产品与生态] 科学家生产力直接翻倍！OpenAI最新1800人调查炸场：AI已渗透科研全流程"
+    },
+    {
+      "title": "自己掏钱借给客户买显卡！英伟达循环融资险棋被扒，没了黄仁勋谁来兜底？",
+      "summary": "英伟达靠现金流和高信用评级为客户垫资买芯片的「循环融资」险棋，随着黄仁勋离任正式进入重定价危机。知名分析师 Ben Thompson 剖析指出，投资者过去敢买单是押注黄仁勋总能赢；如今全行业万亿美元级 AI 收入兑现悬而未决，失去掌门人兜底后，这套捆绑新云厂商的对冲体系极可能瞬间沦为沉重枷锁。",
+      "reads": "11万",
+      "ago": "1 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "空头眼里的「循环融资」此前被多头视为通往万亿 AI 收入的必要过桥资金，此前全靠英伟达万亿市值与黄仁勋个人集权强力推行",
+        "若全行业约万亿美元的 AI 变现未能尽快落地，超大规模云厂商将优先保全自有算力避险，新云厂商及其债权人将失去最大赞助人",
+        "供应链端仍在持续放量，一旦丧失兜底的新云厂商违约甩卖算力资产，英伟达此前铺设的生态对冲将变成砸穿市场的负资产",
+        "分析借用芒格当年评价马斯克「绝不做空」的逻辑指出，市场此前是不愿做空黄仁勋，如今只剩公司的英伟达正在经历严苛的估值重判"
+      ],
+      "quote": {
+        "who": "Daring Fireball",
+        "role": "",
+        "said": "Ben Thompson 谈 Nvidia Stratechery 的 Ben Thompson：这导致了我所说的 Nvidia 的「风险业务」：Nvidia 越来越多地利用其现金流和信用评级，为那些购买其芯片的公司提供支持和资金。空头称之为循环融资；多头则称这是通往未来的必要桥梁——在那个未来里，AI 收入将偿还这些公司的债务并带来巨大上行空间。毫无疑问的是，这种风险业务只有那种市值数万亿美元、且完全由一个人掌控的…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 11万 · 资本与算力] 自己掏钱借给客户买显卡！英伟达循环融资险棋被扒，没了黄仁勋谁来兜底？"
+    },
+    {
+      "title": "全美航班大停飞被曝乌龙：国防巨头刚装的新路由器，数据广播淹没网络",
+      "summary": "上周五导致全美航班地面停飞的元凶曝光，竟然可能只是一台路由器。据外媒披露，美国国防承包商 L3Harris 刚在阿肯色州一个偏远的 FAA 无线电站点换上全新 Juniper 设备；FAA 官员认为，该设备某项功能将数据广播到了超出需要的范围，直接造成网络淹没。折腾半天，引得业内直呼：这莫非又是一起配置错误引发的大灾难？",
+      "reads": "34万",
+      "ago": "5 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Carlos E. Perez",
+        "role": "",
+        "said": "配置错误（也就是用户操作失误）？？！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 34万 · 政策与安全] 全美航班大停飞被曝乌龙：国防巨头刚装的新路由器，数据广播淹没网络"
+    },
+    {
+      "title": "人均4100万美元！Anthropic上市造富炸场：2160亿美元全部分给员工",
+      "summary": "Anthropic若按发行区间上限完成IPO，将直接把约2160亿美元巨款分到员工手里！以全公司约5300名员工估算，人均入账将高达约4100万美元。这是SaaStr在深挖其IPO申报文件后给出的测算，硅谷史上最夸张的大模型造富狂欢即将兑现。",
+      "reads": "4.8万",
+      "ago": "25 分钟前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "测算严格依据 Anthropic IPO 申报文件中的价格区间上限展开，员工持股总价值约达 2160 亿美元。",
+        "按目前约 5300 名总员工均摊，平均每人分得约 4100 万美元。",
+        "文件中还特别标明了约 1000 名在 2025 年前加入的早期员工，其获益规模预计将大幅超出全员平均值。"
+      ],
+      "quote": {
+        "who": "unusual_whales",
+        "role": "",
+        "said": "据 SaaStr 对其申报文件的分析，Anthropic 的 IPO 若按最高估值计算，将为员工带来约 2160 亿美元。 这意味着其约 5300 名员工的平均收益约为 4100 万美元。其中约 1000 名在 2025 年之前加入的员工"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 4.8万 · 资本与算力] 人均4100万美元！Anthropic上市造富炸场：2160亿美元全部分给员工"
+    },
+    {
+      "title": "掌管数百亿笔交易！苹果26年老兵接盘Apple Pay，还要啃下信用卡大迁徙",
+      "summary": "苹果核心管理层再现重大人事变动，在公司效力 26 年的老兵 Corey Fugman 被正式任命为 Apple Pay 与钱包业务新掌门。据彭博记者 Mark Gurman 报道，这名从底层零售运营一路打拼上来的老将接替了本月退休的功臣 Jennifer Bailey，也是新 CEO John Ternus 掌舵后的最新关键任命。",
+      "reads": "12万",
+      "ago": "2 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [
+        "Apple Pay 业务目前已拓展至全球 90 多个市场，据估算每年产生数十亿美元收入，年交易量高达数百亿笔。",
+        "新负责人 Corey Fugman 还将全面接盘 Apple Card 发卡合作方的交接工作，推进从高盛向摩根大通平稳过渡。",
+        "原业务负责人 Jennifer Bailey 已于本月正式从苹果退休。"
+      ],
+      "quote": {
+        "who": "Mark Gurman",
+        "role": "",
+        "said": "Apple Pay 预计每年能产生数十亿美元的收入，在超过 90 个市场拥有数千亿笔年度交易。新任负责人 Corey Fugman 还将接手 Apple Card 从 Goldman Sachs 向 JPMorgan Chase 的过渡工作。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 12万 · 组织与人事] 掌管数百亿笔交易！苹果26年老兵接盘Apple Pay，还要啃下信用卡大迁徙"
+    },
+    {
+      "title": "Outlook和机场刚瘫痪！美四大银行又遭大范围宕机，大批储户无法查账",
+      "summary": "基础设施连环崩！继微软 Outlook 和机场系统接连出现故障后，包括摩根大通、美国银行在内的美主要金融机构也陷入大面积瘫痪。各地故障报告陡增，大量客户反映网银彻底登不上，根本无法访问自己的账户。",
+      "reads": "6.4万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "波及机构包括摩根大通（Chase）、美国银行（Bank of America）、富国银行（Wells Fargo）以及美国合众银行（U.S. Bank）。",
+        "大批储户反映移动端与网页端全线受阻，日常转账与账户余额查看直接停摆。"
+      ],
+      "quote": {
+        "who": "Shay Boloor",
+        "role": "",
+        "said": "包括 Chase、Bank of America、Wells Fargo 和 U.S. Bank 在内的美国主要银行，目前正遭遇故障报告激增，因为客户难以访问其账户。 先是 $MSFT Outlook，然后是机场，现在是银行。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 6.4万 · 产品与生态] Outlook和机场刚瘫痪！美四大银行又遭大范围宕机，大批储户无法查账"
+    },
+    {
+      "title": "GPT-6.2被曝推迟上线！OpenAI连签4家机构入场严审，还曾拟砸50亿收购",
+      "summary": "GPT-6.2迟迟不发的原因浮出水面，OpenAI已正式签署协议，破天荒放4家独立机构进入公司内部审查AI安全。这些外部团队将全面审查模型行为、训练流程与护栏；另有消息透露，OpenAI此前甚至探讨过以超50亿美元收购Anthropic支持的初创公司Goodfire，把模型可解释性摸透。",
+      "reads": "5.1万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "审查直击底座核心，4家独立机构将全面评估模型行为、底层训练及安全护栏机制",
+        "外媒披露OpenAI曾探讨以超过50亿美元收购Goodfire，该公司由Anthropic投资，专注深入大模型内部探究行为机理",
+        "GPT-6 Astra在9月就曾陷入安全评估风波，发帖者推测此次严苛的内部审查正是GPT-6.2推迟上线的主因"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "哦对了，如果你好奇 GPT-6.2 为什么延期，这大概就是原因： OpenAI 已经和四个独立机构签了协议，让它们从公司内部评估其 AI 安全工作。 这些团队将审查模型行为、训练和安全护栏"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 5.1万 · 政策与安全] GPT-6.2被曝推迟上线！OpenAI连签4家机构入场严审，还曾拟砸50亿收购"
+    },
+    {
+      "title": "刚在太空抗了22小时被一把抓回！马斯克周日登上升降台，亲自细查隔热瓦",
+      "summary": "才在太空飞了22个多小时、扛过轨道级再入并被巨型机械臂成功捕获，Ship 42刚带回地球，马斯克周日就直接爬上升降台近距离细查隔热瓦。有人调侃这才是全宇宙最高规格的「1对1」。过去30年航天飞机每次返航，团队都要花数月纯手工排查隔热瓦，而星舰的全部赌注都押在告别这种繁琐维护上。目前现场暂未透露隔热瓦的具体受损情况与检查结论。",
+      "reads": "39万",
+      "ago": "8 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Aakash Gupta",
+        "role": "",
+        "said": "Elon 周日在升降台上，检查第一艘从轨道带回的 Starship 的热防护瓦。 过去 30 年，每次航天飞机返回地球，机组人员都要花几个月时间手工检查热防护瓦。Starship 整个赌注都押在永远不再"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 39万 · 产品与生态] 刚在太空抗了22小时被一把抓回！马斯克周日登上升降台，亲自细查隔热瓦"
+    },
+    {
+      "title": "马斯克敲定：Grok文本水印默认关闭！除非法律要求绝不偷塞暗记",
+      "summary": "马斯克用一句「重要」转发开发者说明，正式给API输出定调：在SpaceXSI API中，Grok的文本水印现已默认关闭。说明指出，马斯克已确认这一变动并进一步明确，除非法律强制要求或用户主动申请，否则Grok绝不会开启文本水印。这意味着开发者用Grok构建应用时，输出的文本不会再被偷偷打上隐藏暗记。",
+      "reads": "125万",
+      "ago": "13 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [],
@@ -24,323 +307,76 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 64万 · 政策与安全] 马斯克确认Grok默认不打文本水印！除非法律强制，开发输出干干净净"
-    },
-    {
-      "title": "23小时星舰直播秒变大片！博主晒Grok Bot一键加特效配乐，马斯克惊呼无所不能",
-      "summary": "23小时的星舰发射直播，AI直接一口吞了！知名博主 DogeDesigner 晒出一段集锦称，Grok Bot 自动下载了整整23小时的星舰 Flight 15 直播，飞速挑出高光片段、拼好剪辑，甚至把特效和配乐全给包圆了，直呼「再也不需要视频剪辑软件了」。马斯克随后转发力挺，直接给出极高评价，称 Grok Bot 几乎无所不能。",
-      "reads": "61万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Elon Musk",
-        "role": "",
-        "said": "Grok @Bot 几乎无所不能"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 61万 · 产品与生态] 23小时星舰直播秒变大片！博主晒Grok Bot一键加特效配乐，马斯克惊呼无所不能"
-    },
-    {
-      "title": "谁说2028算力见顶？郭明錤曝OpenAI与Anthropic疯抢谷歌TPU，排期延至2029",
-      "summary": "知名分析师郭明錤最新行业调查指出，即便外界普遍预期 AI 资本开支将在 2028 年见顶，OpenAI 与 Anthropic 的最新大单却直接将 Google TPU 的出货能见度撑到了 2029 年！他预计 2028 至 2029 年间两家合计吃下约 2600 万台 TPU，其中 OpenAI 需求约 1200 万台且全部选择直接买断，Anthropic 则采购约 1400…",
-      "reads": "29万",
-      "ago": "7 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "据郭明錤预测，Google TPU 出货量将持续暴涨：2027 年预计为 800 万至 900 万台，2028 年跃升到 1400 万至 1500 万台，2…",
-        "芯片方案出现明确分工：OpenAI 对应的是由联发科（MediaTek）设计的 8t，Anthropic 对应的则是博通（Broadcom）设计的 8i，两…",
-        "采购模式各异：OpenAI 选择直接买断，Anthropic 则采用租赁与买断混合的方式；联发科与博通成为该供应链上最值得关注的核心赢家。"
-      ],
-      "quote": {
-        "who": "Wall St Engine",
-        "role": "",
-        "said": "Ming-Chi Kuo 称 OpenAI 和 Anthropic 的订单使 Google TPU 出货可见性延伸至2029年： 2027: 800万-900万 2028: 1400万-1500万 2029: 1600万-1800万 他预计 OpenAI 在2028-29年间约需1200万台，Anthropic 约需1400万台，尽管许多人预期 AI 资本支出将在2028年见顶。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 29万 · 资本与算力] 谁说2028算力见顶？郭明錤曝OpenAI与Anthropic疯抢谷歌TPU，排期延至2029"
-    },
-    {
-      "title": "AMD博通接不住！英伟达巨额信用担保成终极壁垒，算力新贵被指暗藏债务炸弹",
-      "summary": "AI 军备竞赛打到了金融担保层面。多位半导体高管透露，英伟达为云服务商和数据中心开发商提供了巨额信用担保，这一护城河连 AMD 和博通都无法匹敌，若英伟达收缩将留下巨大的市场真空。科技评论员随后发文推演，缺少了老黄明确或隐含的资金担保（JensenBucks），像 Nscale、Firmus 等算力小厂恐沦为债务市场的定时炸弹，Lambda 的长期上市前景同样堪忧。",
-      "reads": "8.1万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "半导体高管表示，AMD 和博通目前无法承担类似英伟达向云厂商和数据中心开发商开出的巨额信用担保。",
-        "科技分析师 Ed Zitron 认为，若没有英伟达的隐性信用背书，新兴 GPU 云服务商在债务市场面前极为脆弱，甚至难以走到公开上市。"
-      ],
-      "quote": {
-        "who": "Gary Marcus",
-        "role": "",
-        "said": "然后看看"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 8.1万 · 资本与算力] AMD博通接不住！英伟达巨额信用担保成终极壁垒，算力新贵被指暗藏债务炸弹"
-    },
-    {
-      "title": "沃尔玛年赚220亿才值1万亿！金融博主吐槽：Anthropic还在亏钱凭啥高估值IPO",
-      "summary": "一位金融发帖者晒出的一组数据引发围观：实业巨头沃尔玛一年狂揽约 7130 亿美元营收、净赚约 220 亿美元，估值才大约 1 万亿美元；反观大模型独角兽 Anthropic，今年前 9 个月营收约 330 亿美元且仍在亏损，却传出即将以约 1.4（原帖单位未完整写明）的估值冲刺 IPO。博主直接直呼这完全说不通。",
-      "reads": "15万",
-      "ago": "5 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "NoLimit",
-        "role": "",
-        "said": "这完全说不通 Walmart 一年营收 7130 亿美元，利润 220 亿。 估值大约 1 万亿美元。 Anthropic, $ANT , 今年前 9 个月营收约 330 亿美元，但还在亏钱。 它即将 IPO，估值大约在 1.4"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 15万 · 资本与算力] 沃尔玛年赚220亿才值1万亿！金融博主吐槽：Anthropic还在亏钱凭啥高估值IPO"
-    },
-    {
-      "title": "大摩高呼历史拐点！SpaceX第15次试飞成功抓星舰，华尔街彻底看懂了",
-      "summary": "华尔街对马斯克的航天梦给出了极高定调。摩根士丹利（Morgan Stanley）分析师 Adam Jonas 在谈及 SpaceX 第 15 次飞行成功接住星舰（Starship）时直言，这次试飞无论对 SpaceX 自身还是整个人类航天事业，都是一次历史性的转折点。目前 SpaceX 累计已回收 3 艘星舰和数百枚猎鹰 9 号助推器，常态化复用太空运力的时代正在加速兑现。",
-      "reads": "21万",
-      "ago": "6 小时前",
-      "category": "其他",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Sawyer Merritt",
-        "role": "",
-        "said": "Morgan Stanley 的 Adam Jonas 谈 @SpaceX 在第 15 次飞行中成功接住 Starship： “我们认为，第 15 次飞行对公司乃至整个航天事业都是一个历史性的转折点。SpaceX 在其历史上已回收了三艘 Starship + 数百个 Falcon 9 助推器，并且"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 21万 · 其他] 大摩高呼历史拐点！SpaceX第15次试飞成功抓星舰，华尔街彻底看懂了"
-    },
-    {
-      "title": "AI正式杀入理论物理！GPT-6 Astra联手科学家，攻坚标准模型50年难题",
-      "summary": "OpenAI全新科学博客今天正式开张，首发战果直接跨界到理论物理。物理学家 Nathaniel Craig 分享了他如何与 GPT-6 Astra 合作，开发出粒子物理标准模型的候选晶格定义；有发帖者透露，Astra 甚至协助完成了困扰学界 50 年难题的数学证明。总裁 Greg Brockman 亲自转发站台。面对各路网友发穿西装猴子表情包催更模型内部进展，OpenAI 这一…",
-      "reads": "18万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "发帖者转述称该项突破还关联到了菲尔兹奖得主 Edward Witten，但原帖未就具体细节展开说明。",
-        "针对官方迟迟不给 Astra 推送功能更新、对内部开发进展避而不谈的现状，社区不少用户用搞笑梗图表达不满。"
-      ],
-      "quote": {
-        "who": "ℏεsam",
-        "role": "",
-        "said": "现在 AI 正在进军理论物理。Astra 帮助物理学家 Nathaniel Craig 解决了一个与粒子物理“标准模型”相关的 50 年难题。 具体来说，它协助完成了数学证明。有趣的是，菲尔兹奖得主 Edward Witten"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 18万 · 模型与能力] AI正式杀入理论物理！GPT-6 Astra联手科学家，攻坚标准模型50年难题"
-    },
-    {
-      "title": "「用EUV谁都能造好芯片！」麒麟9050逐层结构曝光，海外博主直呼全球最酷",
-      "summary": "半导体分析机构放出麒麟 9050 从顶面到凸点面的逐层结构，向业内公开追问其背后的「LogicFolding」技术到底长什么样。这一拆解引来海外科技圈围观，有博主转发直言，麒麟 9050 是自己心中「世界上最酷的硅芯片」；虽然市面上比它好的芯片有很多，但靠 EUV 谁都能造出好芯片，脱离这种依赖的创新才真正称得上酷。",
-      "reads": "2.6万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Chris",
-        "role": "",
-        "said": "18号那天看起来会好得多"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 2.6万 · 模型与能力] 「用EUV谁都能造好芯片！」麒麟9050逐层结构曝光，海外博主直呼全球最酷"
-    },
-    {
-      "title": "马斯克甩出新词引爆全网：特斯拉被曝自建机器人学校，一个班狂塞2万台Optimus",
-      "summary": "马斯克在社交平台刚发出一句「Optimus Academy」，随即引来媒体跟进爆料：特斯拉正计划为 Optimus 打造一所专属的机器人学校，一个班级最多可能有 20,000 名学生。据消息透露，成千上万台机器人将在其中反复练习现实世界任务，在错误中学习并持续演进，每一堂课生成的数据都将直接用于训练 AI。",
-      "reads": "1.7万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Mario Nawfal",
-        "role": "",
-        "said": "Tesla 正在为 Optimus 建一所学校。这个班级最多可能有 20,000 名学生。 它叫 Optimus Academy。 成千上万的机器人将练习现实世界任务，从错误中学习，并不断变得更好。 每一课都会生成数据来帮助训练 AI，所以"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 1.7万 · 模型与能力] 马斯克甩出新词引爆全网：特斯拉被曝自建机器人学校，一个班狂塞2万台Optimus"
-    },
-    {
-      "title": "英伟达动荡拖垮芯片股！亚洲两大市场下挫，资金正为Anthropic腾地方",
-      "summary": "据彭博社报道，周一亚洲两大芯片权重股市场再度承压，跟随美股走弱。背后的导火索除了英伟达近期的持续动荡，还在于资本市场正在大调仓——投资者正急着为 Anthropic 备受瞩目的股份出售腾出资金空间。芯片股被资金分流抽水，资金流向了炙手可热的头部大模型独角兽。",
-      "reads": "1.5万",
-      "ago": "1 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Bloomberg",
-        "role": "",
-        "said": "周一，亚洲两大芯片权重股市再度承压，跟随美股走弱。Nvidia 动荡之际，投资者也在为 Anthropic 备受期待的股份出售腾出空间。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 1.5万 · 资本与算力] 英伟达动荡拖垮芯片股！亚洲两大市场下挫，资金正为Anthropic腾地方"
-    },
-    {
-      "title": "连商场都不给改！马里兰居民联手叫停50亿美元AI数据中心：电不够用",
-      "summary": "据媒体报道，美国马里兰州一个社区成功叫停了一座拟投资 50 亿美元的 AI 数据中心项目。该项目原计划把当地近 90 英亩的废弃购物中心改建成超大计算园区，却遭到居民的强烈抵制，核心矛盾正是大家担心的供电负荷问题。在一位当地活动家的奔走推动下，居民们硬是让这个算力巨无霸踩了刹车。AI 的尽头，终究还是绕不开电网。",
-      "reads": "2.1万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Mario Nawfal",
-        "role": "",
-        "said": "🇺🇸 马里兰州一个社区阻止了一个拟议的 50 亿美元 AI 数据中心，一位当地活动家帮助促成了这一结果。 该项目本将把近 90 英亩废弃购物中心改造成大型计算园区。 但居民因电力问题……"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 2.1万 · 资本与算力] 连商场都不给改！马里兰居民联手叫停50亿美元AI数据中心：电不够用"
-    },
-    {
-      "title": "车刚开进得来速，AI就认出你了！星巴克CEO披露：将推定制数字菜单",
-      "summary": "星巴克要把 AI 塞进得来速车道了。CEO Brian Niccol 透露，作为公司更大规模 AI 布局的一环，星巴克计划在顾客驱车驶入得来速通道时直接完成识别，并为参与顾客即时展示个性化的数字菜单。未来车还没停稳，屏幕上可能就已经亮出了你常喝的那款定制咖啡。目前该计划的具体上线时间与覆盖范围尚未公布。",
-      "reads": "17万",
-      "ago": "10 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "unusual_whales",
-        "role": "",
-        "said": "Starbucks（$SBUX）计划识别驶入得来速车道的顾客，并向他们展示个性化数字菜单，CEO Brian Niccol 表示。 他说，“在参与顾客到达时识别他们的体验”是更大规模 AI 布局的一部分。Starbucks 还将开始"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 17万 · 产品与生态] 车刚开进得来速，AI就认出你了！星巴克CEO披露：将推定制数字菜单"
-    },
-    {
-      "title": "代工英伟达吃下一半营收！富士康董事长公开表态：我们不在AI泡沫里",
-      "summary": "外面天天吵着AI泡沫要破，一线代工巨头第一个坐不住了。11月16日，富士康董事长刘扬伟公开斩钉截铁定调：「我们不在泡沫里。」作为英伟达AI服务器的核心制造商，富士康眼下的底气全来自硬核进账：包含AI服务器在内的云和网络业务，如今已吃下公司一半以上的总收入。前线真金白银狂暴进账，难怪大佬回应得如此硬气。",
-      "reads": "11万",
-      "ago": "9 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "unusual_whales",
-        "role": "",
-        "said": "Foxconn 表示没有 AI 泡沫。 “我们不在泡沫里，”董事长 Young Liu 说。 Foxconn 为 Nvidia 制造 AI 服务器，其包含 AI 服务器的云和网络业务现在占其收入的一半以上。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 11万 · 资本与算力] 代工英伟达吃下一半营收！富士康董事长公开表态：我们不在AI泡沫里"
+      "line": "[榜第13位 · 125万 · 政策与安全] 马斯克敲定：Grok文本水印默认关闭！除非法律要求绝不偷塞暗记"
     },
     {
-      "title": "小丑牌加暗黑2缝合怪来了！Claude Fable 5.2反向提问，周末搓出新游",
-      "summary": "有开发者借助 Claude Fable 5.2 把《小丑牌》（Balatro）与《暗黑破坏神 II》大胆混搭，并融入少许《流放之路》元素，搓出了一款名为 DarkPattern 的免费网页游戏。有意思的是制作姿势：并非丢给 AI 一大段长 Prompt，而是 Fable 5.2 反客为主，通过多轮提问深入「采访」制作者来敲定设计。作者透露，整套开发只花了一个周末，耗费了三次用量…",
-      "reads": "2.2万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
+      "title": "钥匙扣装下AI智能体！Meta杀入口袋硬件：首推Muse Charm，12月限量发货",
+      "summary": "Meta 专为 Muse AI 智能体打造的口袋级随身硬件 Muse Charm 突然开放候补登记，首批限量产品预计将于 12 月发货。消息曝光后，Meta 首席 AI 官 Alexandr Wang 也第一时间在社交平台围观转推，这款形态小至钥匙扣的新硬件，正成为 Meta 智能体落地的全新实体载体。",
+      "reads": "4.7万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "设备主打口袋级便携设计，被媒体描述为钥匙扣大小的便携形态",
+        "产品专门面向 Meta 自研的 Muse AI agent 提供硬件级随身支持",
+        "首批产品采取限量发售模式，目前已在官网开启 waitlist 排队预约"
+      ],
       "quote": {
-        "who": "0xMarioNawfal",
+        "who": "Alexandr Wang",
         "role": "",
-        "said": "Claude Fable 5.2 把 Balatro 和 Diablo II 混搭成了 DarkPattern，一款免费浏览器游戏。 → 不是一条长提示词，而是 Fable 通过多轮提问采访了制作者 → 还混入了一点 Path of Exile → 制作者说这花了一个周末的三次用量重置"
+        "said": "👀👀👀"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 2.2万 · 模型与能力] 小丑牌加暗黑2缝合怪来了！Claude Fable 5.2反向提问，周末搓出新游"
+      "line": "[榜第14位 · 4.7万 · 产品与生态] 钥匙扣装下AI智能体！Meta杀入口袋硬件：首推Muse Charm，12月限量发货"
     },
     {
-      "title": "薄荷糖大小磁吸边戴边充！苹果智能眼镜原型大曝光：硬件定型，软件却拖后腿",
-      "summary": "苹果首款智能眼镜原型细节遭全盘大曝光。据知名记者 Mark Gurman 爆料，代号 N50 的工程机机身比 Meta 二代 Ray-Bans 略薄，左镜腿配有薄荷糖大小的三针磁吸连接器，甚至支持边戴边充电。内部搭载老款 Apple Watch 衍生芯片，运行精简版 visionOS 28，完全放弃 AR 显示，全靠 Siri 与摄像头交互。目前硬件已基本定型，但因软件与 AI…",
-      "reads": "24万",
-      "ago": "14 小时前",
+      "title": "45分钟内必须按过指纹！折叠屏iPhone Duo被曝面容解锁，被戏称「Fake ID」",
+      "summary": "折叠屏 iPhone Duo 终于迎来了面容解锁，但限制条件引发调侃。最新曝光的 iOS 27.3 beta 2 显示，用户只有在过去 45 分钟内用过 Touch ID 验证，才能用面容解锁设备，且该刷脸机制无法用于 Apple Pay 支付。这种全靠指纹背书的折中方案，被发帖者直接戏称为「Fake ID」。",
+      "reads": "3.0万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "交互全靠视觉与语音：镜框集成齐平椭圆摄像头开孔与指示灯，佩戴者可通过 Siri 识别周围建筑、对照冰箱食材推荐菜谱、导航以及翻译路牌和对话。",
-        "生态深度绑定 iPhone：第三方应用无需单独开发，直接跑在配对 iPhone 上由 Siri 远程调取订餐打车等功能，要求较新机型且不支持 Android…",
-        "自带 Wi-Fi 留后路：虽然无法作为完全独立的设备使用，但脱离 iPhone 时理论上仍能依靠 Wi-Fi 继续维持音频播放与部分系统基础功能。",
-        "软件分步推进：本月测试版 iOS 27.3 已开始加入底层精准控制能力，计划 12 月先支持官方自带应用，2027 年才会向第三方开发者开放。"
+        "iOS 27.3 beta 2 为折叠屏 iPhone Duo 新增两项专属设置，其中刷脸解锁必须以 45 分钟内的 Touch ID 验证为前提。",
+        "该面容解锁安全等级受限，明确不支持 Apple Pay 等支付场景。",
+        "系统内部还增加了关于合上 Duo 设备时的动作设置项，但完整配置内容推文中未予展开。"
       ],
       "quote": {
-        "who": "MacRumors",
+        "who": "Aaron",
         "role": "",
-        "said": "Apple 的智能眼镜战略押注在 Siri 和 iPhone 应用上 据彭博社 Mark Gurman 报道，Apple 计划在 2027 年 6 月的 WWDC 上发布其首款智能眼镜，并在年底前开始出货。在他最新的 “Power On” 通讯中，Gurman 分享了关于眼镜设计、充电系统和 Siri 功能的新细节。据称，内部代号为 “N50” 的眼镜当前原型机比 Meta 第二代 Ray-Bans 略薄。一些测试单…"
+        "said": "我们管它叫 \"Fake ID\""
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 24万 · 产品与生态] 薄荷糖大小磁吸边戴边充！苹果智能眼镜原型大曝光：硬件定型，软件却拖后腿"
+      "line": "[榜第15位 · 3.0万 · 产品与生态] 45分钟内必须按过指纹！折叠屏iPhone Duo被曝面容解锁，被戏称「Fake ID」"
     },
     {
-      "title": "谷歌TPU路线大改！v10更名Quillfish，双雄狂砸单锁死到2029",
-      "summary": "郭明錤最新产业调查曝出猛料：受 OpenAI 与 Anthropic 强劲新订单推动，Google 自研芯片 TPU 的出货能见度已经直接拉到了 2029 年。更值得注意的是，谷歌对硬件路线大动干戈，v10 产品线经历大幅调整后已正式改名为「Quillfish」；而在上游供应链里，联发科与博通成了最受瞩目的领先焦点。",
-      "reads": "4.2万",
-      "ago": "7 小时前",
+      "title": "一举拿下超1.5亿欧巨额融资！电动摩托制造商Stark Future晋升独角兽",
+      "summary": "电动摩托车制造商 Stark Future 正式迈入独角兽门槛，一举完成了超 1.5 亿欧元的巨额新融资。据路透社与 Axios 披露，这家主打高性能电动摩托的硬件新贵借此跻身 10 亿美元独角兽阵营，为两轮电动化赛道再添一把猛火。",
+      "reads": "4.8万",
+      "ago": "3 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "郭明錤｜Ming-Chi Kuo",
+        "who": "Axios",
         "role": "",
-        "said": "Google TPU 重点更新：OpenAI 与 Anthropic 新订单推升出货能见度至 2029 年、v10 产品线大幅调整 (改为 Quillfish)、联发科与 Broadcom 为供应商中之领先关注焦点 我最新的产业调查与研究结论： 1. 订单能见度与出货规划： 受惠于 OpenAI 与 Anthropic 强劲新订单，Google TPU 出货能见度已达 2029"
+        "said": "Stark Future 加速冲刺独角兽地位"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 4.2万 · 资本与算力] 谷歌TPU路线大改！v10更名Quillfish，双雄狂砸单锁死到2029"
+      "line": "[榜第16位 · 4.8万 · 资本与算力] 一举拿下超1.5亿欧巨额融资！电动摩托制造商Stark Future晋升独角兽"
     }
   ],
   "board_count": 16,
