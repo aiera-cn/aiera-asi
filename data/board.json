@@ -3,15 +3,108 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-17 11:43:44 +0800",
+  "fetched_at": "2026-11-17 21:10:42 +0800",
   "today": "11/17",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "一处供应链失守致178家巨头沦陷！汇丰、Zoom与CNN被曝遭恶意脚本洗劫",
+      "summary": "一场罕见的供应链网络攻击全面引爆，波及全球178家主要机构，汇丰、Zoom、Salesforce、CNN及宜家等知名巨头被曝全在受害名单中。攻击者直接攻破前端体验优化平台Optimizely Web植入恶意软件，导致访问这些大厂网站的普通用户面临支付数据遭窃取以及iOS漏洞利用的直接威胁。",
+      "reads": "42万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "波及范围横跨科技、金融、媒体、零售与航空多个领域，已知受影响机构包括Zoom、CNN、BBC、Fox News、汇丰银行、Ledger、Equifax、Sa…",
+        "攻击源头直指Optimizely Web前端平台，黑客通过供应链加载恶意脚本，实现对海量站点访客的静默波及。",
+        "恶意脚本的核心攻击意图明确锁定在窃取用户的关键支付信息，并附带针对苹果iOS系统的漏洞利用程序。"
+      ],
+      "quote": {
+        "who": "Dan McAteer",
+        "role": "",
+        "said": "这是一个勇敢的新世界。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 42万 · 政策与安全] 一处供应链失守致178家巨头沦陷！汇丰、Zoom与CNN被曝遭恶意脚本洗劫"
+    },
+    {
+      "title": "8美元不收了？马斯克宣布X蓝标认证将免费回归：这回算我请客",
+      "summary": "当年亲手干掉免费认证的马斯克，突然改口了！他在X上公开发文宣布，蓝标认证即将免费回归，甚至豪气甩出一句「算我请客」（on the house）。从当年强推每月收费、把免费蓝勾砍得一干二净，到如今冷不丁放话要直接白送，消息一出全网瞬间炸锅。",
+      "reads": "62万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "SuSu_酥酥",
+        "role": "",
+        "said": "荒唐的英伟达董事会剥夺了黄仁勋的CEO还不够 连黄仁勋X账号的蓝标认证、背景Banner都要剥夺 万幸X是Elon Musk的，他刚刚仗义的说会给Jensen免费恢复蓝标 #黄仁勋 #英伟达 #ElonMusk #Jensen"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 62万 · 产品与生态] 8美元不收了？马斯克宣布X蓝标认证将免费回归：这回算我请客"
+    },
+    {
+      "title": "让AI替医生操作电脑！OpenAI杀进医疗圈，一口气上线20+插件",
+      "summary": "ChatGPT 正式要把手伸向医生的电脑屏幕了。OpenAI 官方宣布 ChatGPT 医疗版迎来升级，不仅直接调集能力更强的电脑操作（computer-use）智能体来辅助临床问答，还一口气新增 20 多个医疗专属插件，让 Cigna、CVS Health 等巨头带头接入跑审批。",
+      "reads": "40万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "把电脑操作引入医疗：官方将 computer-use agents 作为核心能力推向前台，让 AI 直接模拟人类跨软件操作、接管医疗流程。",
+        "强化临床与插件生态：官方表示临床回答能力同步提升，并一次性塞进 20 多个全新医疗插件。",
+        "多家头部机构首批接入：Cigna、CVS Health 等大型医保与健康机构，以及 Abridge、Ambience 等医疗垂直玩家，已开始让模型介入相关业…",
+        "社区虚惊一场：由于官方配图高呼「能力更强的模型」，引得不少熬夜围观者直呼被钓鱼，原以为等来了全新底座模型发布。"
+      ],
+      "quote": {
+        "who": "Derrick Choi",
+        "role": "",
+        "said": "很高兴看到医疗领域开始利用 computer use（计算机使用能力）。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 40万 · 产品与生态] 让AI替医生操作电脑！OpenAI杀进医疗圈，一口气上线20+插件"
+    },
+    {
+      "title": "刚吞下120亿美元芯片就断供！美司法部刑事立案Megaspeed，英伟达陷风暴",
+      "summary": "美商务部与司法部在11月17日正式发布联合声明，宣布正对算力采购方Megaspeed推进刑事调查。声明透露官方调查早在2024年就已立案，而英伟达是在2025年5月被商务部调取交易记录后，才在次月将Megaspeed列入禁售黑名单，此时后者恰好完成了高达120亿美元的芯片扫货。",
+      "reads": "2.7万",
+      "ago": "40 分钟前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "官方调查早在2024年便已启动，美工业与安全局（BIS）此前已在新加坡就走私疑云质询了Megaspeed首席执行官Alice Huang。",
+        "商务部曾在2025年5月强制要求英伟达提供交易记录，英伟达随后在6月彻底切断供货，时间点正好卡在Megaspeed进口120亿美元芯片周期结束之际。",
+        "目前美国司法部正在全面推进刑事调查，美官方发布该联合声明旨在澄清外界流传的不准确报道，反驳英伟达主动放任走私的说法。"
+      ],
+      "quote": {
+        "who": "Chubby♨️",
+        "role": "",
+        "said": "美国政府表示，关于 Megaspeed 的部分报道有误，并刚刚发布了他们自己的时间线。 有意思的是，商务部早在 2024 年就开始调查 Megaspeed，远早于这次丑闻爆发，而 Nvidia 在 2025 年 6 月就停止向该公司供货了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 2.7万 · 政策与安全] 刚吞下120亿美元芯片就断供！美司法部刑事立案Megaspeed，英伟达陷风暴"
+    },
+    {
       "title": "测试基准全变白菜价！Claude Code团队自曝信条：代码写得好全靠自我验证",
       "summary": "让 AI 写的代码更强，关键不再是硬猜，而是让它自我验证。Claude Code 团队最新公开核心开发逻辑，直言以往高昂的端到端运行、基准测试如今已变极度便宜；AI 能够自主写代码、跑测试、抓 bug 并自动修复循环，随着验证成本暴跌，开发者同时驱使上百个编程智能体自动干活的设想正在成为现实。",
-      "reads": "30万",
-      "ago": "2 小时前",
+      "reads": "93万",
+      "ago": "11 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -29,14 +122,132 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 30万 · 模型与能力] 测试基准全变白菜价！Claude Code团队自曝信条：代码写得好全靠自我验证"
+      "rank": 5,
+      "line": "[榜第5位 · 93万 · 模型与能力] 测试基准全变白菜价！Claude Code团队自曝信条：代码写得好全靠自我验证"
+    },
+    {
+      "title": "底裤全交了！OpenAI向4家外部机构开放内部模型，付费用户还在干等Astra",
+      "summary": "OpenAI还在训练、未公开的内部前沿模型，这次直接给外部专家敞开看了。OpenAI与联合创始人Greg Brockman官宣启动首轮嵌入式评估，允许四家独立研究机构深入内网排查对齐与安全隐患。等下一代Astra更新等到心焦的付费用户自嘲：全网都在玩未发布模型，只有真金白银掏订阅费的被晾在一边。",
+      "reads": "9.6万",
+      "ago": "4 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI已与Apollo Research、METR、Transluce和Goodfire签署评估协议，在模型训练和内部使用阶段同步介入防护检测。",
+        "四家机构获得对OpenAI内部模型和系统的深度访问权限，专门负责调查对齐状况并测试现行安全防护。",
+        "各团队分工明确，其中评估机构METR的重点任务是在OpenAI最大规模的强化学习训练中，捕捉监控系统可能遗漏的异常行为。",
+        "在Anthropic接连推进模型发布的背景下，OpenAI被曝持续推迟下一代Astra的上线节奏，前沿安全门槛正成为模型交卷前的主要关卡。"
+      ],
+      "quote": {
+        "who": "Haider.",
+        "role": "",
+        "said": "OpenAI 一直在推迟下一代 Astra 的发布，而 Anthropic 却直接上线了 Fable 5.2 而不是 5.5 我很好奇他们内部模型到底领先多少，尤其是两家公司都在宣传网络安全和自动化方面的安全里程碑 与此同时，Google 似乎正在全力"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 9.6万 · 政策与安全] 底裤全交了！OpenAI向4家外部机构开放内部模型，付费用户还在干等Astra"
+    },
+    {
+      "title": "甩出实验笔记就完事！Google开源PaperOrchestra，AI组团写论文一键可投",
+      "summary": "丢进粗糙灵感和实验笔记，就能直接拿回一篇可随时投稿的完整论文。Google正式开源多智能体写作系统PaperOrchestra，直接把找文献、排大纲、画图表到撰写正文的全套科研流水线，交由一组AI Agent分工搞定。",
+      "reads": "3.5万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "自动搭建完整论文大纲并撰写所有正文章节",
+        "自主查找并规范引用相关领域文献",
+        "根据实验结果自动绘制数据图表与示意图",
+        "只需输入基础研究构思与实验笔记，即可直出符合提交标准的研究论文"
+      ],
+      "quote": {
+        "who": "0xMarioNawfal",
+        "role": "",
+        "said": "Google 刚刚开源了一个撰写研究论文的 AI 智能体团队。 PaperOrchestra 接收你的想法和实验笔记，并返回一篇可提交的论文： → 撰写大纲和每个章节 → 查找并引用相关论文 → 绘制图表和示意图 →"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 3.5万 · 产品与生态] 甩出实验笔记就完事！Google开源PaperOrchestra，AI组团写论文一键可投"
+    },
+    {
+      "title": "不用越狱，iPhone直接硬跑Win11！桌面Edge秒开，折起来秒变触控板",
+      "summary": "不用越狱，iPhone居然直接跑起了桌面级Windows 11。实验项目WindowsiOS成功突破了系统壁垒，不仅能流畅运行Microsoft Edge等桌面应用，甚至能在折叠时把设备下半部分动态切成键盘与触控板。底层依靠ARM代码转换驱动，运行时需吃掉4.5GB内存。",
+      "reads": "2.5万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "实验项目定名为WindowsiOS，主打无需破解或越狱iOS即可启动Windows 11。",
+        "成功拉起桌面级软件生态，实测已可运行Microsoft Edge等桌面应用。",
+        "交互针对折叠形态做了特殊适配，折起设备时下半屏幕可化身虚拟键盘和触控板。",
+        "系统底层依托ARM代码转换技术运行，整机执行时需占用4.5GB运行内存。"
+      ],
+      "quote": {
+        "who": "Axios",
+        "role": "",
+        "said": "Trump 最大的项目正在耗尽时间"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 2.5万 · 产品与生态] 不用越狱，iPhone直接硬跑Win11！桌面Edge秒开，折起来秒变触控板"
+    },
+    {
+      "title": "盯补丁、找漏洞、写代码开火一条龙！谷歌首次捕获全自动黑客AI",
+      "summary": "AI 已经能全程「单飞」黑进企业了。Google 披露首次捕获到黑客运行的自动化 AI 智能体：它们不仅会全天候盯紧各家厂商新发的安全补丁，还能自己逆向推导被修补的漏洞，当场编写攻击代码并直接开火，整个渗透闭环完全不需要人类介入。",
+      "reads": "3.2万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Mario Nawfal",
+        "role": "",
+        "said": "🇺🇸官方确认：AI 现在完全靠自己黑公司了。 Google 表示，他们首次捕获到攻击者运行 AI 智能体，这些智能体会监控新的安全补丁，找出具体哪里被破坏，编写攻击代码并开火，全程没有人类参与"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 3.2万 · 政策与安全] 盯补丁、找漏洞、写代码开火一条龙！谷歌首次捕获全自动黑客AI"
+    },
+    {
+      "title": "英伟达早已切断供货！美官方披露调查时间线，2025年已拉黑新加坡算力中心",
+      "summary": "英伟达早在2025年6月就已彻底停止向涉案的新加坡数据中心公司供货。美国商务部与司法部联合披露了Megaspeed调查的时间线细节，确认英伟达在当时就已将该客户列入内部「禁售」（no sell）名单。",
+      "reads": "2.9万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "美国商务部与司法部联合发布了针对Megaspeed调查的详细官方时间线",
+        "官方记录证实英伟达在2025年6月将涉事的新加坡数据中心公司打上「no sell」标签并终止供货"
+      ],
+      "quote": {
+        "who": "Wall St Engine",
+        "role": "",
+        "said": "美国商务部和司法部发布了 Megaspeed 调查的详细时间线，证实 $NVDA 在 2025 年 6 月停止向新加坡某数据中心公司销售产品，当时该公司被列入了 Nvidia 内部的“禁售”名单。 以下是联合……"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 2.9万 · 政策与安全] 英伟达早已切断供货！美官方披露调查时间线，2025年已拉黑新加坡算力中心"
     },
     {
       "title": "写折叠屏代码不用手动掰了！Claude Code支持iPhone Duo，自己折叠测布局",
       "summary": "折叠屏界面的适配噩梦有人替你扛了。Anthropic 官方宣布桌面版 Claude Code 开启公测，直接打通了 iOS 模拟器里的 iPhone Duo 支持：模型能在对话旁实时运行应用，自己动手折叠和展开虚拟设备，把各种姿态下的屏幕布局全测个遍。",
       "reads": "33万",
-      "ago": "2 小时前",
+      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -53,14 +264,62 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 33万 · 产品与生态] 写折叠屏代码不用手动掰了！Claude Code支持iPhone Duo，自己折叠测布局"
+      "rank": 11,
+      "line": "[榜第11位 · 33万 · 产品与生态] 写折叠屏代码不用手动掰了！Claude Code支持iPhone Duo，自己折叠测布局"
+    },
+    {
+      "title": "连你家客厅都建好了！小哥用AI在我的世界1:1复刻地球，全网排队查房",
+      "summary": "地球上每一栋建筑都被搬进了游戏，连你家带家具的室内装修都没放过。开发者利用地图数据训练了一套专用 AI 生成器，声称在《我的世界》里以 1:1 比例完整重造了地球。项目 Worldcraft 上线后引爆全网，无数人涌入查房看自己的街区，更有研究者直呼：塞进几百万 AI 智能体就是真正的平行世界！",
+      "reads": "3.2万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "开发者基于真实地图数据训练了专用的世界转 Minecraft 生成器，不仅能自动体素化全球建筑，还直接补齐了带家具的室内装修。",
+        "项目已在 worldcraft.gg 开放体验，用户可直接搜索定位并探索自己现实中的街区与房屋。",
+        "业内对这种尺度惊叹不已，有学者指出，配合游戏内已有的可运行计算机和数百万 AI 智能体，这或将成为数字平行世界的基础底座。"
+      ],
+      "quote": {
+        "who": "Derya Unutmaz, MD",
+        "role": "",
+        "said": "太震撼了！人们甚至在 Minecraft 里造出了功能完整的电脑，但这把可能性推向了另一个层级。往里塞几百万个 AI 智能体当 NPC，我们就拥有了一个平行世界！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 3.2万 · 模型与能力] 连你家客厅都建好了！小哥用AI在我的世界1:1复刻地球，全网排队查房"
+    },
+    {
+      "title": "从调研到视频配音全包了！11个Claude Code开源神器打包出炉",
+      "summary": "研究、写作、做PPT再到视频和配音，全套原本繁琐的交付链路被开源工具直接串成了一条龙。社区最新整理出一批专为Claude Code打造的11个开源仓库，包含两款刚上线的全新工具，能让Agent直接跨平台抓取最新讨论甚至逐帧看视频。",
+      "reads": "5.0万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "last30days-skill基于MIT协议开源，可让Claude Code自动横跨Reddit、YouTube、Hacker News及全网深度调研任意…",
+        "claude-video补齐了多模态交互短板，支持Claude Code直接解析并提取视频内容信息",
+        "整套工作流工具链覆盖从前期全网素材挖掘、文本撰写、自动排版幻灯片到成片视频与AI配音的完整生成环节"
+      ],
+      "quote": {
+        "who": "0xMarioNawfal",
+        "role": "",
+        "said": "11 个开源仓库，用于一套你可以交给 Claude Code 的研究 → 写作 → PPT → 视频 → 配音工作流（其中 2 个是全新的）： 01 last30days-skill → 在 Reddit、YouTube、HN 和网络上研究某个主题 (MIT) https://github.com/mvanhorn/last30days-skill … 02 claude-video → 让 Claude 观看任何"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 5.0万 · 产品与生态] 从调研到视频配音全包了！11个Claude Code开源神器打包出炉"
     },
     {
       "title": "补丁还没装，黑客AI已经杀进来了！谷歌紧急警告：自主攻击时代已到来",
       "summary": "企业甚至还没来得及点击安装更新，AI黑客就已经顺着新补丁杀进系统了。谷歌最新报告发出严重警告，网络安全已正式迈入「自主攻击时代」：攻击者正利用AI全自动扫描最新软件补丁，反推其修复的安全漏洞，并在受害者装上防护前生成攻击手段，整套流程完全无需人类参与。",
       "reads": "16万",
-      "ago": "1 小时前",
+      "ago": "10 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -76,321 +335,56 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 16万 · 政策与安全] 补丁还没装，黑客AI已经杀进来了！谷歌紧急警告：自主攻击时代已到来"
-    },
-    {
-      "title": "OpenAI深夜狂推医疗版ChatGPT！祭出Computer use智能体与20+新插件",
-      "summary": "医疗版ChatGPT迎来重头戏！OpenAI今天清晨连续更新，不仅搬出能替医生操作电脑的Computer-use智能体与更靠谱的临床问答，还一口气塞进了20多个全新医疗插件。Cigna、CVS Health等巨头均已进场实测；官方第一版配图打出「更强模型」更是一度吊足全网胃口，引发社区疯狂围观。",
-      "reads": "28万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI官方点名Abridge、Ambience、Cigna与CVS Health等头部医疗机构，正将这套模型落地用于实际业务流程",
-        "更新重点强调了「更强的Computer-use智能体」，让AI具备直接操控电脑界面与医疗系统工作流的能力",
-        "官方同步推进了20多个针对医疗健康场景的全新插件，并宣称带来了更扎实的临床回答表现"
-      ],
-      "quote": {
-        "who": "Token Gremlin",
-        "role": "",
-        "said": ""
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 28万 · 产品与生态] OpenAI深夜狂推医疗版ChatGPT！祭出Computer use智能体与20+新插件"
-    },
-    {
-      "title": "免费送20万名科学家！OpenAI学术资助翻倍，转头把Pro砍成了Plus",
-      "summary": "OpenAI宣布将学术计划覆盖人数翻倍至全球20万人，免费开放前沿模型访问，但新资助规格却悄悄从试点的Pro降级成了Plus。官方对此解释称，用量复核显示多数学者仍在Plus额度范围内，换档是为了覆盖更多团队，且默认不拿研究数据练模型；新一轮资助11月23日正式开放申请。",
-      "reads": "27万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "每份资助覆盖申请者本人及最多两名合作者，按5万份配额测算，本轮将直接辐射15万名研究人员。",
-        "选拔规则彻底告别抽签制，下一轮将直接向首批提交且符合资质的5万名申请者按先到先得发放。",
-        "同步公布的夏季试点报告显示，1800多名受访学者估计若没有AI协助，完成同等质量的研究需要耗费近两倍时间。",
-        "项目自7月启动以来已有33国2万名学者加入，哈佛医学院等机构已借此加速结核病药物研发与标本3D数字化。"
-      ],
-      "quote": {
-        "who": "Wes Roth",
-        "role": "",
-        "said": "OpenAI 将面向学术研究员的 ChatGPT 目标翻倍至全球 20 万名研究员。申请通道将于 11 月 23 日重新开放，前 50,000 名符合条件的申请者将获得免费的 ChatGPT Plus 访问权限，供本人及最多两名合作者使用。 该项目包括"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 27万 · 产品与生态] 免费送20万名科学家！OpenAI学术资助翻倍，转头把Pro砍成了Plus"
-    },
-    {
-      "title": "马斯克深夜突袭推Grok Bot 1.0！不仅能进会议协作，还会主动干活",
-      "summary": "马斯克今天凌晨亲自下场安利 Grok Bot 1.0，这只全新进化的 AI Bot 不仅智商更高、响应更快，还能直接插进线上会议协同，甚至打破了被动问答机制、学会了「主动找活干」。演示视频还透露，新版在团队协作和自主学习改进上全面升级，里面更给尝鲜用户埋了大量彩蛋。",
-      "reads": "54万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "支持直接加入用户会议协同，从旁听辅助切进真实工作流",
-        "具备主动行动能力，不必步步等待人类下达死板提示词",
-        "引入学习与持续改进机制，可在实际协作中动态调整表现",
-        "团队 Bot 协作能力全面升级，运转更聪明且整体响应速度大幅加快"
-      ],
-      "quote": {
-        "who": "Elon Musk",
-        "role": "",
-        "said": "试试 Grok @Bot"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 54万 · 产品与生态] 马斯克深夜突袭推Grok Bot 1.0！不仅能进会议协作，还会主动干活"
-    },
-    {
-      "title": "爆仓惨亏后又杀回来了！OpenAI神童狂买3.3亿美元看涨期权，梭哈Nebius",
-      "summary": "经历年中严重亏损大幅平仓后，前OpenAI明星研究员Leopold Aschenbrenner掌舵的对冲基金杀了个回马枪！最新披露的SEC文件显示，该基金一举建仓超3.32亿美元Nebius看涨期权，同时彻底清空了曾经重仓的CoreWeave与美光，把筹码全面换向新一代AI基础设施标的。",
-      "reads": "11万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "新披露总额达3.326亿美元的Nebius（NBIS）看涨期权头寸，成为当前最激进的多头押注。",
-        "同步扫入1.827亿美元Sandisk（SNDK）看涨期权，以及1.403亿美元的DRAM ETF看涨期权，全方位下注存储与算力链。",
-        "公开股票仓位中直接买进267万股Fermi（FRMI）正股。",
-        "此前重金押注的算力大热门CoreWeave（CRWV）与半导体巨头美光（MU）持仓已被全部清空。"
-      ],
-      "quote": {
-        "who": "Sam Badawi",
-        "role": "",
-        "said": "同一份文件显示了一个新的 3.326 亿美元 Nebius $NBIS 看涨期权头寸，外加 1.827 亿美元的 Sandisk $SNDK 看涨期权和 1.403 亿美元的 DRAM ETF $DRAM 看涨期权。 它还列出了 267 万股 Fermi $FRMI 股票。 @WOLF_Financial"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 11万 · 资本与算力] 爆仓惨亏后又杀回来了！OpenAI神童狂买3.3亿美元看涨期权，梭哈Nebius"
-    },
-    {
-      "title": "你的Model Y要自己出去打工了！马斯克放话：私家车入网Robotaxi最快下月测试",
-      "summary": "你的特斯拉最快下个月就能自己出门跑出租赚钱了。马斯克发帖放话，新功能「即将上线」，顺利的话12月就将启动测试，并直言「管一支车队可比自己开一辆车轻松多了」；首批试点预计面向得州奥斯汀的部分Model Y车主，允许其将个人车辆直接接入特斯拉官方Robotaxi网络。",
-      "reads": "16万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "马斯克公开确认该功能进展顺利，最快将于2026年12月开启小范围上路测试。",
-        "首批入网测试预计仅限于美国得州奥斯汀地区，且初期仅允许部分特定的Model Y车主参与。",
-        "车主接入后的具体运营调度规则、分成比例与保险权责等细节，目前均停留在测试筹备阶段，官方暂未进一步公布细则。"
-      ],
-      "quote": {
-        "who": "Sawyer Merritt",
-        "role": "",
-        "said": "Elon 表示 Tesla 可能下月开始允许部分 Model Y 车主将他们的个人车辆加入 Tesla 在 Austin 的 Robotaxi 网络："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 16万 · 产品与生态] 你的Model Y要自己出去打工了！马斯克放话：私家车入网Robotaxi最快下月测试"
-    },
-    {
-      "title": "奥特曼公开致敬黄仁勋：没有他很难想象AI革命！转头泼冷水：芯片厂别指望OpenAI全包",
-      "summary": "OpenAI CEO奥特曼在最新访谈中公开致敬黄仁勋，直言「没有黄仁勋的AI革命难以想象」，称老黄一直是自己的英雄，并由衷感谢英伟达早期对OpenAI的信任。但谈到造芯狂潮时他毫不留情地浇了盆冷水：如今各路芯片厂商都在重复计算OpenAI的需求，全都在按「OpenAI会买光所有产能」来做规划。",
-      "reads": "10万",
-      "ago": "4 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "奥特曼指出，过去行业基本只有英伟达一家主力供应商，产业链核算晶圆需求时只要直接问OpenAI等少数公司即可摸清底细。",
-        "如今大批入局做芯片的厂商都在私下接触硅供应链，各自假设出货大头能全卖给OpenAI和Anthropic，严重重复放大了市场需求。",
-        "奥特曼明确表态，虽然数据中心等底层基础设施建设的需求依然坚实，但OpenAI不可能、也没必要把市面上所有供应商的芯片全部买下来。",
-        "知名投资人Brad Gerstner同场澄清，自己此前写给英伟达董事会的信被外界严重误读，那封信并非要求立刻让黄仁勋回归，事实恰恰相反。"
-      ],
-      "quote": {
-        "who": "Pirat_Nation 🔴",
-        "role": "",
-        "said": "Sam Altman 表示，很难想象没有 Jensen Huang 的 AI 革命。 这位 OpenAI CEO 称赞 NVIDIA 老板是“英雄”，并感谢 NVIDIA 早期对 OpenAI 的信任。 Altman 还讨论了 AI 芯片日益增长的需求，警告称多家芯片制造商……"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 10万 · 组织与人事] 奥特曼公开致敬黄仁勋：没有他很难想象AI革命！转头泼冷水：芯片厂别指望OpenAI全包"
-    },
-    {
-      "title": "呼吸困难找Grok求救，AI直接判定肺塌陷！送医发现全说中，马上动手术",
-      "summary": "突发呼吸困难向AI求助，Grok直接建议他「立刻去医院，告诉医生可能是肺塌陷」。Expo开发者Evan Bacon在X上发文自述，自己呼吸不畅时随口问了Grok，结果真被AI料中，目前人已在医院准备接受手术。不少业内人感慨：别光拿AI写邮件了，危急关头能判断何时该送医，才是真帮上大忙。",
-      "reads": "3.5万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "0xMarioNawfal",
-        "role": "",
-        "said": "Expo 的 Evan Bacon 说他呼吸困难，问 Grok Bot 求助，它让他去医院并说可能是肺塌陷了。他说它说得对，现在正要去手术。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 3.5万 · 模型与能力] 呼吸困难找Grok求救，AI直接判定肺塌陷！送医发现全说中，马上动手术"
-    },
-    {
-      "title": "OpenAI开门迎「模型法医」！可解释性团队驻场盯训练，现场排查暗病",
-      "summary": "前沿模型黑盒训练直接被装上「实时内窥镜」。可解释性创企 Goodfire 宣布与 OpenAI 达成嵌入式评估合作，派驻研究员直接进驻 OpenAI，在模型训练过程中实时监控内部信号并排查风险，OpenAI 核心研究员 roon 更是直呼「这是我最期待的一个」。",
-      "reads": "3.0万",
-      "ago": "1 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "Goodfire 将这套机制命名为「模型取证」（model forensics），旨在模型尚未出炉前就掐灭隐患",
-        "驻场团队将使用自研的可解释性工具，直接追踪模型训练时的内部表征信号，定向排查已知对齐风险并调查意外行为",
-        "评估得出的异常信号与漏洞数据将直接反馈给模型安全团队，提前为前沿底座排雷"
-      ],
-      "quote": {
-        "who": "Wes Roth",
-        "role": "",
-        "said": "Goodfire 将在 OpenAI 派驻研究人员，在训练期间监控模型。团队将使用自己的工具追踪模型内部信号，寻找已知风险，并调查意外行为。 Goodfire 将此称为“模型取证”。其发现结果将提交给 OpenAI 的"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 3.0万 · 政策与安全] OpenAI开门迎「模型法医」！可解释性团队驻场盯训练，现场排查暗病"
-    },
-    {
-      "title": "顶尖开发者几个月不敲一行代码！AI编程这一年：从搞定95%到全员心累",
-      "summary": "顶级程序员已经几个月没写过一行代码了。Matt Pocock 复盘自去年 11 月 Opus 4.5 与 OpenClaw 亮相以来的 AI 编程简史：社区刚为模型搞定 95% 任务欢呼，转头 2 月全员就陷入精神疲惫；随后 Skills 生态狂飙、大批高手彻底封笔，直到 10 月才终于跑出承诺中的开发速度。",
-      "reads": "4.2万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "2025 年 11 月 Opus 4.5 发布、OpenClaw 诞生，正式拉开这一轮 AI 自动化编程热潮的序幕",
-        "2025 年 12 月社区迅速形成共识，认定现有模型已强大到能独立处理 95% 的编码任务",
-        "2026 年 1 月 Ralph loops 循环与编排模式走红，但紧接着在 2 月，全行业开发者集体陷入疲惫期",
-        "2026 年 3 月迎来了技能（skills）大爆发，到 4 月多数顶尖开发者已经连续几个月没写过一行代码"
-      ],
-      "quote": {
-        "who": "0xMarioNawfal",
-        "role": "",
-        "said": "Matt Pocock 用一条帖子总结了 AI 编码的一年，从去年11月的 Opus 4.5 到现在。 → 12月：模型处理95%的编码任务。2月：大家都累了。3月：技能爆发 → 4月：大多数顶级开发者几个月没写一行代码了 → 10月：承诺的速度"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 4.2万 · 产品与生态] 顶尖开发者几个月不敲一行代码！AI编程这一年：从搞定95%到全员心累"
-    },
-    {
-      "title": "输入一句话就建个站！谷歌Gemini Notebook上新：资料笔记秒变交互网站",
-      "summary": "资料笔记能直接原地「活」成一个网站了！谷歌官方发布 Gemini Notebook 新能力，用户只要在聊天框里敲一句「make me a site」并描述需求，AI 就能把散落的参考资料一键转换成交互式网站，不管是可视化解释页面还是数据仪表盘，点开新标签页就能直接上手操作。",
-      "reads": "9.5万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "官方演示中，一份包含 7 个资料来源的化学笔记被直接转成了元素周期表学习网站，模型不仅按简单章节逐一拆解知识，还在页面底部自动生成了随堂测试题。",
-        "生成的交互式网站支持丰富组件，既能插入项目进度追踪器，也能直接构建数据仪表盘来可视化解析数据。",
-        "功能入口极其简单，输入生成指令后点击「在新标签页中打开」即可查看，界面同时还集成了音频、幻灯片、测验和信息图等多模态生成模块。"
-      ],
-      "quote": {
-        "who": "Google",
-        "role": "",
-        "said": "Gemini Notebook 现在可以将你的资料转化为交互式网站，比如仪表盘和可视化解释器。 要开始使用，只需在 Gemini Notebook 聊天中输入“make me a site”，并附上你想创建的内容描述，然后选择“在新标签页中打开”即可查看或"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 9.5万 · 产品与生态] 输入一句话就建个站！谷歌Gemini Notebook上新：资料笔记秒变交互网站"
-    },
-    {
-      "title": "付费用户等了个寂寞！OpenAI未发布模型全交底，四家机构进驻防翻车",
-      "summary": "所有人都在蹲新模型，OpenAI却先把内部系统与未发布模型向四家外部机构彻底交底。联合创始人Greg Brockman宣布启动首轮「嵌入式评估」，拉来Apollo Research、METR、Transluce和Goodfire深入内部测安全与对齐。围观者忍不住吐槽：新模型连转售商都测上了，唯独付费用户还在苦等。",
-      "reads": "5.5万",
-      "ago": "3 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI已与Apollo Research、METR、Transluce和Goodfire签署协议，在训练和内部使用期间全流程评估模型及防护机制。",
-        "各团队任务明确分工，其中METR将专门盯防OpenAI自身监控可能在最大规模强化学习中遗漏的模型异常行为。",
-        "本次合作属于深度嵌入的安全审查与测试，并未同步向ChatGPT付费用户开放任何未发布的新模型。"
-      ],
-      "quote": {
-        "who": "Wes Roth",
-        "role": "",
-        "said": "OpenAI 已与 Apollo Research、METR、Transluce 和 Goodfire 签署协议，以评估其模型及训练和内部使用期间的安全措施。 每个团队有不同的任务。METR 将寻找 OpenAI 监控可能遗漏的行为，在其最大的强化……"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 5.5万 · 政策与安全] 付费用户等了个寂寞！OpenAI未发布模型全交底，四家机构进驻防翻车"
+      "line": "[榜第14位 · 16万 · 政策与安全] 补丁还没装，黑客AI已经杀进来了！谷歌紧急警告：自主攻击时代已到来"
     },
     {
-      "title": "OpenAI彻底交出底牌！放4家外部机构入驻，严查大模型暗中反水",
-      "summary": "OpenAI今日凌晨向4家外部机构全面敞开核心模型与系统权限，启动前所未有的「嵌入式评估」。多支独立专家团队将长驱直入其内部研发流程，重点排查模型是否在暗中违背人类意图，并深挖迄今最大规模强化学习训练中被漏掉的安全漏洞。",
-      "reads": "53万",
-      "ago": "11 小时前",
-      "category": "政策与安全",
+      "title": "合上才能刷脸、45分钟按一次指纹！苹果折叠屏上线「阉割版」面容解锁",
+      "summary": "苹果在最新的 iOS 27.3 beta 2 中给折叠屏 iPhone Duo 补上了面部解锁，但使用限制堪称「层层设防」。该功能仅支持机身合上时的外屏锁屏，展开后无法生效，且 Apple Pay 与密码登录仍强制使用 Touch ID；更苛刻的是，只要闲置 45 分钟就必须重新验一次指纹，被爆料者直接戏称为「Fake ID」。",
+      "reads": "4.2万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Apollo Research将审查训练、安全测试及内部使用记录，核查模型是否可能阳奉阴违违背开发者意图，以及现有安全机制能否抓包。",
-        "METR将深入OpenAI迄今最大规模的强化学习（RL）运行，排查现有测试与监控可能遗漏的未对齐行为，并初步同意后续开展更广泛监控评估。",
-        "Goodfire将派驻可解释性研究员，利用其分析平台直接透视模型内部机制，协助OpenAI在训练监控和调试中定位并修复安全风险。",
-        "Transluce负责评估OpenAI后训练对齐测试的质量与覆盖率，开发补充测试填补空白，并计划在2027年扩大试点规模。"
+        "仅限合上锁屏使用：展开状态下无法通过摄像头刷脸解锁，推测是内屏屏下摄像头成像素质不足。",
+        "支付与密码全被禁：Apple Pay 扣款、系统密码访问与自动登录均不支持面部验证，依然锁定 Touch ID。",
+        "45分钟激活门槛：必须在近期刚验证过 Touch ID 或锁屏密码才允许刷脸，闲置约 45 分钟后需再次刷指纹。",
+        "新增合上即锁开关：设置中加入「Close to Lock」，合上机身时直接锁定手机，不再把内屏画面流转到外屏。"
       ],
       "quote": {
-        "who": "OpenAI",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "@GoodfireAI 将嵌入可解释性研究人员，使用他们的平台来分析我们模型的内部机制。 他们的工作侧重于训练运行监控、调试和对齐，帮助我们的研究人员识别并做出安全改进。"
+        "said": "‼️ Apple 的 iPhone Duo 现在可以用面部解锁了，但仅限锁屏界面。 前置摄像头选项在 iOS 27.3 beta 2 中。Apple Pay、密码和登录仍需 Touch ID。 它还需要最近的 Touch ID 或密码验证，闲置约 45 分钟后需再次使用 Touch ID。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 53万 · 政策与安全] OpenAI彻底交出底牌！放4家外部机构入驻，严查大模型暗中反水"
+      "line": "[榜第15位 · 4.2万 · 产品与生态] 合上才能刷脸、45分钟按一次指纹！苹果折叠屏上线「阉割版」面容解锁"
     },
     {
-      "title": "根本没打算融！媒体一篇误报引资方挤爆，OpenAI六周促成1.25万亿",
-      "summary": "估值高达1.25万亿美元的世纪融资，最初竟然是媒体「无中生有」逼出来的。OpenAI CFO Sarah Friar 透露，此前某知名出版物抢先报道 OpenAI 正在融资，但公司当时根本没这打算。结果报道一出，投资人争先恐后踏破门槛，逼得 OpenAI 顺水推舟，打了场为期六周的「机会主义」闪电融资。",
-      "reads": "2.2万",
+      "title": "吃掉全美1.8%的电！哈佛最新测算：AI超大数据中心成超级吞电兽",
+      "summary": "AI数据中心正在以惊人速度吞噬电网。哈佛大学研究人员最新研究测算显示，专为AI计算与模型训练提供支持的超大规模数据中心，在2024年至2025年间直接消耗了全美总电量的1.8%。这项由《华盛顿邮报》披露的数据，坐实了巨头们大力出奇迹背后沉重的能源代价。",
+      "reads": "9650",
       "ago": "1 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "OpenAI 明确表示以 1.25 万亿美元估值启动融资并非既定计划，起因完全是某知名媒体误报引发的连锁反应。",
-        "由于报道引来海量投资机构主动联系（inbounds）送钱，管理层最终决定顺势开启一轮为期六周的「机会主义」（opportunistic）融资轮。"
+        "哈佛大学研究团队将统计对象锚定在超大规模数据中心（Hyperscale Data Centers），即专门承载AI训练与高并发推理、规模最大且最耗能的机房群…",
+        "该类数据中心在2024年至2025年区间的耗电份额达到全美总电力的1.8%，成为推高北美电网负荷的核心增量来源"
       ],
       "quote": {
-        "who": "Wall St Engine",
+        "who": "The Washington Post",
         "role": "",
-        "said": "OpenAI CFO Sarah Friar 表示，以 1.25 万亿美元估值融资并非计划内的事。 一家“非常受尊敬、知名的出版物”称 OpenAI 正在融资，“但我们没有”。 “这导致了一大堆投资者的主动联系”，促成了为期六周的“机会主义”融资轮。"
+        "said": "哈佛大学研究人员的一项新研究发现，超大规模数据中心——支持 AI 计算和训练的最大、最耗能的数据中心——在 2024 年至 2025 年间使用了美国总电量的 1.8%。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 2.2万 · 资本与算力] 根本没打算融！媒体一篇误报引资方挤爆，OpenAI六周促成1.25万亿"
+      "line": "[榜第16位 · 9650 · 资本与算力] 吃掉全美1.8%的电！哈佛最新测算：AI超大数据中心成超级吞电兽"
     }
   ],
   "board_count": 16,
