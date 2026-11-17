@@ -3,388 +3,393 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-17 21:10:42 +0800",
-  "today": "11/17",
+  "fetched_at": "2026-11-18 06:13:08 +0800",
+  "today": "11/18",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "一处供应链失守致178家巨头沦陷！汇丰、Zoom与CNN被曝遭恶意脚本洗劫",
-      "summary": "一场罕见的供应链网络攻击全面引爆，波及全球178家主要机构，汇丰、Zoom、Salesforce、CNN及宜家等知名巨头被曝全在受害名单中。攻击者直接攻破前端体验优化平台Optimizely Web植入恶意软件，导致访问这些大厂网站的普通用户面临支付数据遭窃取以及iOS漏洞利用的直接威胁。",
-      "reads": "42万",
-      "ago": "1 小时前",
-      "category": "政策与安全",
+      "title": "成本只要5%还反超Fable！OpenAI正式端出GPT-6.2双旗舰",
+      "summary": "用 5% 的单任务成本正面反超 Claude Fable 5.2，OpenAI 突然正式上线 GPT-6.2 Astra 与日常主力 Sol。新模型核心主打以更少 Token 解决复杂现实工程，Astra 不仅多项基准登顶、API 价格直降 20%，Plus 及以上订阅也已全量支持直接上手。",
+      "reads": "139万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "波及范围横跨科技、金融、媒体、零售与航空多个领域，已知受影响机构包括Zoom、CNN、BBC、Fox News、汇丰银行、Ledger、Equifax、Sa…",
-        "攻击源头直指Optimizely Web前端平台，黑客通过供应链加载恶意脚本，实现对海量站点访客的静默波及。",
-        "恶意脚本的核心攻击意图明确锁定在窃取用户的关键支付信息，并附带针对苹果iOS系统的漏洞利用程序。"
+        "在 Agents’ Last Exam 长周期专业评测中，Astra 比 GPT-6 Astra 高出 5.2 分且成本不足三分之一，领先 Claude F…",
+        "Harvey 法律基准测试中，Astra 综合通过率达 Claude Fable 5.2 两倍以上且成本仅六分之一，科研基准 Terminal-Bench-…",
+        "日常主力 Sol 展现极致性价比，在编程基准 FrontierCode 2.0 中距 Astra 仅差 0.5 分但成本仅约五分之一，多项日常评测反超前代旗…",
+        "视觉与 3D 交互全面进化，AA-3D 评测以 1318 Elo 居首，支持直接端到端输出 Blender 悬架仿真、遥控车机械部件拆解与交互式 3D 网页"
       ],
       "quote": {
-        "who": "Dan McAteer",
+        "who": "OpenClaw🦞",
         "role": "",
-        "said": "这是一个勇敢的新世界。"
+        "said": "来自 @OpenAI 的 GPT-6.2 Astra 和 Sol 现已在 OpenClaw 上线！🦞 正在运行 v2026.10.1 或更新版本？无需更新 OpenClaw。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 42万 · 政策与安全] 一处供应链失守致178家巨头沦陷！汇丰、Zoom与CNN被曝遭恶意脚本洗劫"
+      "line": "[榜第1位 · 139万 · 模型与能力] 成本只要5%还反超Fable！OpenAI正式端出GPT-6.2双旗舰"
     },
     {
-      "title": "8美元不收了？马斯克宣布X蓝标认证将免费回归：这回算我请客",
-      "summary": "当年亲手干掉免费认证的马斯克，突然改口了！他在X上公开发文宣布，蓝标认证即将免费回归，甚至豪气甩出一句「算我请客」（on the house）。从当年强推每月收费、把免费蓝勾砍得一干二净，到如今冷不丁放话要直接白送，消息一出全网瞬间炸锅。",
-      "reads": "62万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "title": "39秒通关维基跳转挑战！GPT-6.2-Sol电脑操作实测曝光，50轮测试全场最快",
+      "summary": "GPT-6.2-Sol在电脑使用任务中跑出惊人手速，维基百科跳链挑战仅用39秒直达目标，斩获全场最快！实测中，测试者让5款模型从相同的50个起始词条出发，全自动操控电脑跳转至目标人物页面。5款模型虽然全部成功通关，但GPT-6.2-Sol以39.0秒的极速脱颖而出，展现出极强的信息定位与页面连击能力。",
+      "reads": "66万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "测试项目采用经典的维基百科跳转游戏，重点考察模型在自主网页浏览、超链接寻路以及UI操作上的综合执行速度。",
+        "参测的5个模型面对50个相同的起始词条均达成100%成功率，全部顺利完成跳转。",
+        "GPT-6.2-Sol以39.0秒的用时位列第一，成为全场操作速度最快的模型。"
+      ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "宝玉",
         "role": "",
-        "said": "荒唐的英伟达董事会剥夺了黄仁勋的CEO还不够 连黄仁勋X账号的蓝标认证、背景Banner都要剥夺 万幸X是Elon Musk的，他刚刚仗义的说会给Jensen免费恢复蓝标 #黄仁勋 #英伟达 #ElonMusk #Jensen"
+        "said": ""
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 62万 · 产品与生态] 8美元不收了？马斯克宣布X蓝标认证将免费回归：这回算我请客"
+      "line": "[榜第2位 · 66万 · 模型与能力] 39秒通关维基跳转挑战！GPT-6.2-Sol电脑操作实测曝光，50轮测试全场最快"
     },
     {
-      "title": "让AI替医生操作电脑！OpenAI杀进医疗圈，一口气上线20+插件",
-      "summary": "ChatGPT 正式要把手伸向医生的电脑屏幕了。OpenAI 官方宣布 ChatGPT 医疗版迎来升级，不仅直接调集能力更强的电脑操作（computer-use）智能体来辅助临床问答，还一口气新增 20 多个医疗专属插件，让 Cigna、CVS Health 等巨头带头接入跑审批。",
-      "reads": "40万",
-      "ago": "6 小时前",
+      "title": "线下店啥都卖不了，连总部大楼都断网！苹果遭遇罕见大瘫痪",
+      "summary": "苹果系统在今天凌晨遭遇罕见的大范围瘫痪，线上线下全线失守，连内部办公大楼都彻底停摆。有顾客在纽约零售店买配件时被告知遭遇「全系统故障」，现场既无法结账也不能维修，员工只能干站着劝退顾客。更有员工在社区透露办公大楼已集体断网离线，官方目前仅确认部分核心服务异常，具体原因成谜。",
+      "reads": "38万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "把电脑操作引入医疗：官方将 computer-use agents 作为核心能力推向前台，让 AI 直接模拟人类跨软件操作、接管医疗流程。",
-        "强化临床与插件生态：官方表示临床回答能力同步提升，并一次性塞进 20 多个全新医疗插件。",
-        "多家头部机构首批接入：Cigna、CVS Health 等大型医保与健康机构，以及 Abridge、Ambience 等医疗垂直玩家，已开始让模型介入相关业…",
-        "社区虚惊一场：由于官方配图高呼「能力更强的模型」，引得不少熬夜围观者直呼被钓鱼，原以为等来了全新底座模型发布。"
+        "第三方监控显示，Apple Support、App Store、iCloud、Apple Pay、Apple Card、Apple Music 及 Appl…",
+        "线下零售受系统级故障直接冲击，纽约等地门店的 POS 销售与维修系统全面无法运行，顾客被劝离等待恢复。",
+        "多名苹果员工在 Reddit 发帖称，公司办公大楼内部网络同样全部离线，内部工作全面受阻。",
+        "苹果官方服务状态页随后确认了 iCloud 账户与登录、App Store、Apple Music 和 AppleCare 存在异常，但尚未公布故障根源。"
       ],
       "quote": {
-        "who": "Derrick Choi",
+        "who": "Aaron",
         "role": "",
-        "said": "很高兴看到医疗领域开始利用 computer use（计算机使用能力）。"
+        "said": "Apple 员工在 Reddit 上分享说，Apple 的办公大楼也全部离线了 这次故障规模巨大"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 40万 · 产品与生态] 让AI替医生操作电脑！OpenAI杀进医疗圈，一口气上线20+插件"
+      "line": "[榜第3位 · 38万 · 产品与生态] 线下店啥都卖不了，连总部大楼都断网！苹果遭遇罕见大瘫痪"
     },
     {
-      "title": "刚吞下120亿美元芯片就断供！美司法部刑事立案Megaspeed，英伟达陷风暴",
-      "summary": "美商务部与司法部在11月17日正式发布联合声明，宣布正对算力采购方Megaspeed推进刑事调查。声明透露官方调查早在2024年就已立案，而英伟达是在2025年5月被商务部调取交易记录后，才在次月将Megaspeed列入禁售黑名单，此时后者恰好完成了高达120亿美元的芯片扫货。",
-      "reads": "2.7万",
-      "ago": "40 分钟前",
-      "category": "政策与安全",
+      "title": "马斯克杀入固态变压器！特斯拉发布Powercore：单台7.4兆瓦连续供电",
+      "summary": "特斯拉能源部门正式端出重磅电力硬件Powercore，直接把固态中压变压器、逆变器与断路器集成为一体。马斯克随后转发宣布特斯拉要实现固态变压器的规模化落地；整机宣称美国制造，主打极高安全性与可靠性，口径定在2027年正式投运。",
+      "reads": "63万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "官方调查早在2024年便已启动，美工业与安全局（BIS）此前已在新加坡就走私疑云质询了Megaspeed首席执行官Alice Huang。",
-        "商务部曾在2025年5月强制要求英伟达提供交易记录，英伟达随后在6月彻底切断供货，时间点正好卡在Megaspeed进口120亿美元芯片周期结束之际。",
-        "目前美国司法部正在全面推进刑事调查，美官方发布该联合声明旨在澄清外界流传的不准确报道，反驳英伟达主动放任走私的说法。"
+        "在34.5千伏交流中压下支持7.4兆瓦/9兆伏安的持续输出能力。",
+        "自带构网支撑功能（grid-forming support），峰值支撑功率可达10兆伏安。",
+        "将传统变电站里的固态中压变压器、逆变器与断路器三合一集成。",
+        "全机身标明美国制造，官方计划于2027年正式并网运行。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Elon Musk",
         "role": "",
-        "said": "美国政府表示，关于 Megaspeed 的部分报道有误，并刚刚发布了他们自己的时间线。 有意思的是，商务部早在 2024 年就开始调查 Megaspeed，远早于这次丑闻爆发，而 Nvidia 在 2025 年 6 月就停止向该公司供货了。"
+        "said": "Tesla 大规模量产先进固态变压器"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 2.7万 · 政策与安全] 刚吞下120亿美元芯片就断供！美司法部刑事立案Megaspeed，英伟达陷风暴"
+      "line": "[榜第4位 · 63万 · 产品与生态] 马斯克杀入固态变压器！特斯拉发布Powercore：单台7.4兆瓦连续供电"
     },
     {
-      "title": "测试基准全变白菜价！Claude Code团队自曝信条：代码写得好全靠自我验证",
-      "summary": "让 AI 写的代码更强，关键不再是硬猜，而是让它自我验证。Claude Code 团队最新公开核心开发逻辑，直言以往高昂的端到端运行、基准测试如今已变极度便宜；AI 能够自主写代码、跑测试、抓 bug 并自动修复循环，随着验证成本暴跌，开发者同时驱使上百个编程智能体自动干活的设想正在成为现实。",
-      "reads": "93万",
-      "ago": "11 小时前",
-      "category": "模型与能力",
+      "title": "切个开关就帮你干杂活！谷歌Tasks全面免费向数亿人开放",
+      "summary": "谷歌深夜宣布大放福利，Gemini 里的个人智能体功能 Tasks 正式免费向数亿用户开放！只要在 Gemini App 里把模式从聊天切换到「Task」，动动嘴交代需求，AI 就能帮你接管日常繁琐杂事。据转述，这项由 Gemini 4 Hydrogen 驱动的功能前身是 5 月亮相的 Spark，原本每月要收 19.99 美元订阅费，如今直接拆掉付费墙。",
+      "reads": "17万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "端到端运行、基准测试等传统高成本验证手段费用骤降，成为大幅提升代码质量的核心支点",
-        "AI 已可实现编写代码、运行测试、捕获异常并自行修复的多轮闭环，直至用例全部跑通",
-        "低成本验证引发社区对大规模并行调度的讨论，设想未来可同时运行数百个编程智能体协同工作",
-        "学术领域研究者跟进指出，该验证逻辑同样能迁移至物理模拟等科研场景，通过已知算例做端到端校验"
+        "首批免费扩展覆盖美国、日本、韩国、加拿大、澳大利亚和印度六个国家。",
+        "交互方式极轻量，用户无需复杂配置，在 Gemini App 界面将开关从「Chat」切到「Task」即可激活。",
+        "实操场景主打日常代办，Pichai 举例称可以直接把邮件转发给它接手处理。",
+        "据转述，该功能前身是 5 月展示的 Spark，此前需每月 19.99 美元 AI Pro 订阅，现由 Gemini 4 Hydrogen 驱动并免去订阅门…"
       ],
       "quote": {
-        "who": "CG",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "“以前昂贵的检查，比如测试、基准测试和端到端运行，现在变便宜了。” Claude 可以写代码、跑测试、抓 bug、修复它们并重复这个过程，直到一切正常。 当验证变得廉价时，你可以运行数百个编码智能体"
+        "said": "Google 取消了其个人智能体的付费墙： 该功能现名为 Task，最初叫 Spark，是今年 5 月展示的一个智能体，当时需要订阅每月 19.99 美元的 AI Pro 计划。 目前它在美国、日本、韩国、加拿大、澳大利亚和印度基于 Gemini 4 Hydrogen 运行。 用户只需切换一个开关即可从"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 93万 · 模型与能力] 测试基准全变白菜价！Claude Code团队自曝信条：代码写得好全靠自我验证"
+      "line": "[榜第5位 · 17万 · 产品与生态] 切个开关就帮你干杂活！谷歌Tasks全面免费向数亿人开放"
     },
     {
-      "title": "底裤全交了！OpenAI向4家外部机构开放内部模型，付费用户还在干等Astra",
-      "summary": "OpenAI还在训练、未公开的内部前沿模型，这次直接给外部专家敞开看了。OpenAI与联合创始人Greg Brockman官宣启动首轮嵌入式评估，允许四家独立研究机构深入内网排查对齐与安全隐患。等下一代Astra更新等到心焦的付费用户自嘲：全网都在玩未发布模型，只有真金白银掏订阅费的被晾在一边。",
-      "reads": "9.6万",
-      "ago": "4 小时前",
-      "category": "政策与安全",
+      "title": "任务成本砍掉三分之二！OpenAI发布GPT-6.2 Astra，专啃最硬骨头",
+      "summary": "OpenAI今天凌晨突发尖端模型GPT-6.2 Astra，不仅在专业工作与科研评估中刷新纪录，单任务成本更直接压到GPT-6 Astra的三分之一以下。OpenAI推理研究负责人Noam Brown发推盛赞，每月20美元就能用上在部分领域超越顶尖人类智能的模型，最期待大家用它搞出科学新发现。",
+      "reads": "25万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI已与Apollo Research、METR、Transluce和Goodfire签署评估协议，在模型训练和内部使用阶段同步介入防护检测。",
-        "四家机构获得对OpenAI内部模型和系统的深度访问权限，专门负责调查对齐状况并测试现行安全防护。",
-        "各团队分工明确，其中评估机构METR的重点任务是在OpenAI最大规模的强化学习训练中，捕捉监控系统可能遗漏的异常行为。",
-        "在Anthropic接连推进模型发布的背景下，OpenAI被曝持续推迟下一代Astra的上线节奏，前沿安全门槛正成为模型交卷前的主要关卡。"
+        "官方将其定位为专为最艰难项目打造的尖端模型，特别指出在幻灯片排版、网站开发和3D设计等复杂场景中能体现出明显代差。",
+        "在全面刷新专业工作与科研基准测试新高的同时，模型单任务调用成本降至GPT-6 Astra的三分之一以下，大幅摊薄复杂任务开销。"
       ],
       "quote": {
-        "who": "Haider.",
+        "who": "Noam Brown",
         "role": "",
-        "said": "OpenAI 一直在推迟下一代 Astra 的发布，而 Anthropic 却直接上线了 Fable 5.2 而不是 5.5 我很好奇他们内部模型到底领先多少，尤其是两家公司都在宣传网络安全和自动化方面的安全里程碑 与此同时，Google 似乎正在全力"
+        "said": "GPT-6.2 Astra 太猛了。每月 20 美元，你现在就能用上在某些领域超越顶尖人类智商的模型。 我最期待的是看看大家能靠它做出什么科学发现。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 9.6万 · 政策与安全] 底裤全交了！OpenAI向4家外部机构开放内部模型，付费用户还在干等Astra"
+      "line": "[榜第6位 · 25万 · 模型与能力] 任务成本砍掉三分之二！OpenAI发布GPT-6.2 Astra，专啃最硬骨头"
     },
     {
-      "title": "甩出实验笔记就完事！Google开源PaperOrchestra，AI组团写论文一键可投",
-      "summary": "丢进粗糙灵感和实验笔记，就能直接拿回一篇可随时投稿的完整论文。Google正式开源多智能体写作系统PaperOrchestra，直接把找文献、排大纲、画图表到撰写正文的全套科研流水线，交由一组AI Agent分工搞定。",
-      "reads": "3.5万",
+      "title": "连自家员工都在狂用！OpenAI推GPT-6.2 Sol，极速版成本不到Astra",
+      "summary": "OpenAI自家员工的技术和日常办公主力模型曝光了。北京时间11月18日凌晨，官方正式推介GPT-6.2 Sol，主打搞定多步骤智能体复杂工作流；实测反馈挂上Ultrafast极速模式后日常速度惊人，算下来成本仍比旗舰Astra便宜一截。",
+      "reads": "19万",
       "ago": "2 小时前",
-      "category": "产品与生态",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "自动搭建完整论文大纲并撰写所有正文章节",
-        "自主查找并规范引用相关领域文献",
-        "根据实验结果自动绘制数据图表与示意图",
-        "只需输入基础研究构思与实验笔记，即可直出符合提交标准的研究论文"
+        "定位高效通用的日常工作模型，主打多步骤智能体工作流（multistep agentic workflows），强调直观协作与自然表达。",
+        "OpenAI官方透露，许多自家员工在技术与非技术工作中，已将GPT-6.2 Sol作为默认的首选主力。",
+        "Arena AI能力负责人Peter Gostev实测指出，旗舰Astra的成本是Sol的4倍，而Sol开启Ultrafast极速模式成本仅为基础版3倍，兼…"
       ],
       "quote": {
-        "who": "0xMarioNawfal",
+        "who": "Peter Gostev",
         "role": "",
-        "said": "Google 刚刚开源了一个撰写研究论文的 AI 智能体团队。 PaperOrchestra 接收你的想法和实验笔记，并返回一篇可提交的论文： → 撰写大纲和每个章节 → 查找并引用相关论文 → 绘制图表和示意图 →"
+        "said": "+1，Sol ultrafast 才是真家伙"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 3.5万 · 产品与生态] 甩出实验笔记就完事！Google开源PaperOrchestra，AI组团写论文一键可投"
+      "line": "[榜第7位 · 19万 · 模型与能力] 连自家员工都在狂用！OpenAI推GPT-6.2 Sol，极速版成本不到Astra"
     },
     {
-      "title": "不用越狱，iPhone直接硬跑Win11！桌面Edge秒开，折起来秒变触控板",
-      "summary": "不用越狱，iPhone居然直接跑起了桌面级Windows 11。实验项目WindowsiOS成功突破了系统壁垒，不仅能流畅运行Microsoft Edge等桌面应用，甚至能在折叠时把设备下半部分动态切成键盘与触控板。底层依靠ARM代码转换驱动，运行时需吃掉4.5GB内存。",
-      "reads": "2.5万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "title": "做游戏做网站全包了！ChatGPT官宣双模型齐发，GPT-6.2 Astra与Sol突降",
+      "summary": "GPT-6.2 Astra 与 GPT-6.2 Sol 毫无预警正式上线，ChatGPT 官方放话相当接地气：拿去多搞点游戏吧！新模型不仅超级高效，做幻灯片、搭建网站以及打工人的日常琐碎杂活同样不在话下；首批推送已面向付费及教育用户全面展开。",
+      "reads": "22万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "实验项目定名为WindowsiOS，主打无需破解或越狱iOS即可启动Windows 11。",
-        "成功拉起桌面级软件生态，实测已可运行Microsoft Edge等桌面应用。",
-        "交互针对折叠形态做了特殊适配，折起设备时下半屏幕可化身虚拟键盘和触控板。",
-        "系统底层依托ARM代码转换技术运行，整机执行时需占用4.5GB运行内存。"
+        "OpenAI 官方于 18 日凌晨宣布，GPT-6.2 Astra 与 GPT-6.2 Sol 正式开启全量推送。",
+        "官方特别强调了模型在互动开发与日常办公中的表现，直言其超级高效，尤其擅长做幻灯片、搭网站以及搞定上手做游戏前的那一堆繁琐工作。",
+        "推送范围覆盖 Plus、Pro、Enterprise 和 Edu 用户，在 ChatGPT Work 与 Codex 两个生产力入口同步落地。"
       ],
       "quote": {
-        "who": "Axios",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "Trump 最大的项目正在耗尽时间"
+        "said": "今天起向 Plus、Pro、Enterprise 和 Edu 用户的 ChatGPT Work 和 Codex 上线。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 2.5万 · 产品与生态] 不用越狱，iPhone直接硬跑Win11！桌面Edge秒开，折起来秒变触控板"
+      "line": "[榜第8位 · 22万 · 模型与能力] 做游戏做网站全包了！ChatGPT官宣双模型齐发，GPT-6.2 Astra与Sol突降"
     },
     {
-      "title": "盯补丁、找漏洞、写代码开火一条龙！谷歌首次捕获全自动黑客AI",
-      "summary": "AI 已经能全程「单飞」黑进企业了。Google 披露首次捕获到黑客运行的自动化 AI 智能体：它们不仅会全天候盯紧各家厂商新发的安全补丁，还能自己逆向推导被修补的漏洞，当场编写攻击代码并直接开火，整个渗透闭环完全不需要人类介入。",
-      "reads": "3.2万",
+      "title": "Plus也能玩上了！GPT-6.2双模型登陆ChatGPT与Codex，极速模式首度下放",
+      "summary": "OpenAI今天凌晨正式把GPT-6.2 Astra与Sol塞进了ChatGPT Work和Codex，Plus、Pro、企业及教育版订阅用户全都能用上了。不仅如此，原本属于顶配专属的Ultrafast极速模式也首次下放给Pro 200用户，首发支持GPT-6.2 Sol，而Pro 500则通吃两款新模型。",
+      "reads": "16万",
       "ago": "3 小时前",
-      "category": "政策与安全",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "GPT-6.2 Astra与GPT-6.2 Sol即日起正式接入ChatGPT Work和Codex，面向Plus、Pro、Enterprise及Edu订阅…",
+        "超高速推理模式Ultrafast使用门槛进一步降低，首次向每月200美元的Pro 200订阅者开放，首批支持GPT-6.2 Sol模型",
+        "每月500美元的Pro 500订阅者可在GPT-6.2 Astra和Sol两款模型上无差别启用Ultrafast"
+      ],
       "quote": {
-        "who": "Mario Nawfal",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "🇺🇸官方确认：AI 现在完全靠自己黑公司了。 Google 表示，他们首次捕获到攻击者运行 AI 智能体，这些智能体会监控新的安全补丁，找出具体哪里被破坏，编写攻击代码并开火，全程没有人类参与"
+        "said": "“……GPT-6.2 Astra 和 Sol 现已在 ChatGPT Work 和 Codex 中面向 Plus、Pro、Enterprise 及 Edu 用户开放。” “……我们还将 Ultrafast 带给 Pro 200 订阅者，首先从 GPT-6.2 Sol 开始。” 这也太疯狂了！！！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 3.2万 · 政策与安全] 盯补丁、找漏洞、写代码开火一条龙！谷歌首次捕获全自动黑客AI"
+      "line": "[榜第9位 · 16万 · 产品与生态] Plus也能玩上了！GPT-6.2双模型登陆ChatGPT与Codex，极速模式首度下放"
     },
     {
-      "title": "英伟达早已切断供货！美官方披露调查时间线，2025年已拉黑新加坡算力中心",
-      "summary": "英伟达早在2025年6月就已彻底停止向涉案的新加坡数据中心公司供货。美国商务部与司法部联合披露了Megaspeed调查的时间线细节，确认英伟达在当时就已将该客户列入内部「禁售」（no sell）名单。",
-      "reads": "2.9万",
+      "title": "杀入黑客攻防！OpenAI官方甩出GPT-6.2 Astra，网安跑分暴涨22分",
+      "summary": "OpenAI 官方刚刚确认，GPT-6.2 Astra 是其迄今为止网络安全能力最强的大模型，在 ExploitBench Internal Port 评测中比 GPT-6 Astra 狂涨整整 22 分。正因攻防辅助能力出现实质性跃升，官方宣布将推出配备更严密安全护栏的 GPT-6.2 Astra 和 Sol，全力防范高风险滥用。",
+      "reads": "15万",
       "ago": "3 小时前",
-      "category": "政策与安全",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "美国商务部与司法部联合发布了针对Megaspeed调查的详细官方时间线",
-        "官方记录证实英伟达在2025年6月将涉事的新加坡数据中心公司打上「no sell」标签并终止供货"
+        "在衡量漏洞利用与攻防能力的 ExploitBench Internal Port 评测中，GPT-6.2 Astra 相比现役旗舰 GPT-6 Astra…",
+        "伴随模型能力激增，OpenAI 明确将为后续推出的 GPT-6.2 Astra 与 Sol 配备更严格的安全防护措施，专门应对高风险场景的网络安全辅助需求。"
       ],
       "quote": {
-        "who": "Wall St Engine",
+        "who": "OpenAI",
         "role": "",
-        "said": "美国商务部和司法部发布了 Megaspeed 调查的详细时间线，证实 $NVDA 在 2025 年 6 月停止向新加坡某数据中心公司销售产品，当时该公司被列入了 Nvidia 内部的“禁售”名单。 以下是联合……"
+        "said": "GPT-6.2 Astra 是我们迄今在网络安全领域能力最强的模型。它在 ExploitBench Internal Port 上比 GPT-6 Astra 高出 22 分。 由于能力提升，我们将以更严格的安全措施发布 GPT‑6.2 Astra 和 Sol，以应对高风险的网络安全辅助需求。我们正在努力"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 2.9万 · 政策与安全] 英伟达早已切断供货！美官方披露调查时间线，2025年已拉黑新加坡算力中心"
+      "line": "[榜第10位 · 15万 · 模型与能力] 杀入黑客攻防！OpenAI官方甩出GPT-6.2 Astra，网安跑分暴涨22分"
     },
     {
-      "title": "写折叠屏代码不用手动掰了！Claude Code支持iPhone Duo，自己折叠测布局",
-      "summary": "折叠屏界面的适配噩梦有人替你扛了。Anthropic 官方宣布桌面版 Claude Code 开启公测，直接打通了 iOS 模拟器里的 iPhone Duo 支持：模型能在对话旁实时运行应用，自己动手折叠和展开虚拟设备，把各种姿态下的屏幕布局全测个遍。",
-      "reads": "33万",
-      "ago": "12 小时前",
-      "category": "产品与生态",
+      "title": "深夜邀你「试驾」！OpenAI开放GPT-6.2 Astra，主攻真实工程和网页视觉设计",
+      "summary": "OpenAI 官方直接向全网发出「试驾」邀请，新旗舰 GPT-6.2 Astra 已经正式开放上手体验。这次升级重点直指现实世界的工程计算与落地准确率，同时大幅强化面向网站的视觉推理能力，让排版布局更佳、配图构思更周全，设计交互也更符合直觉。",
+      "reads": "13万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "桌面版 Claude Code 可直接在对话窗口旁唤起 iPhone Duo 模拟器，并获得屏幕形态与布局控制权限",
-        "官方演示截图中设备运行系统为 iOS 27.1，模型可自动在展开大屏与折叠外屏之间来回切换并验证界面表现",
-        "该特性目前处于公开测试阶段，已有开发者在社区追问后续是否会跟进覆盖 Android 折叠屏机型"
+        "官方演示直接亮出硬核汽车动力学仿真面板，精确展示前后悬架受力、轮胎接地斑与牵引圆状态，并标出车速 50 mph、转速 4402 rpm、3 挡等动态参数。",
+        "面向网页开发的视觉理解与生成迎来针对性升级，重点改善过往 AI 在前端布局散乱、配图不贴合场景以及交互设计不符合直觉的问题。"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "OpenAI",
         "role": "",
-        "said": "Claude Code 桌面应用的 iOS 模拟器现在支持 iPhone Duo 和布局控制。 再也没借口不为 iPhone Duo 优化你的应用了。另外，好奇 Android 折叠屏以后会不会也有这功能。 “应用优化”是个适合 AI 的任务 👀"
+        "said": "亲自试驾一下 GPT-6.2 Astra。 它为现实世界的工程工作带来了更高的准确性，并增强了针对网站的视觉推理能力，布局更佳、图像构思更周全、设计更直观。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 33万 · 产品与生态] 写折叠屏代码不用手动掰了！Claude Code支持iPhone Duo，自己折叠测布局"
+      "line": "[榜第11位 · 13万 · 模型与能力] 深夜邀你「试驾」！OpenAI开放GPT-6.2 Astra，主攻真实工程和网页视觉设计"
     },
     {
-      "title": "连你家客厅都建好了！小哥用AI在我的世界1:1复刻地球，全网排队查房",
-      "summary": "地球上每一栋建筑都被搬进了游戏，连你家带家具的室内装修都没放过。开发者利用地图数据训练了一套专用 AI 生成器，声称在《我的世界》里以 1:1 比例完整重造了地球。项目 Worldcraft 上线后引爆全网，无数人涌入查房看自己的街区，更有研究者直呼：塞进几百万 AI 智能体就是真正的平行世界！",
-      "reads": "3.2万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
+      "title": "再也不用共享API Key！Claude上线关联计费，第三方工具直接走组织扣费",
+      "summary": "再也不用把核心 API Key 填给第三方工具了！Anthropic 旗下 Claude Platform 正式开启「关联计费」（Linked billing）Beta 测试，团队无需向外部应用共享私密密钥，就能直接通过自家的平台组织账户为 API 用量统一买单。",
+      "reads": "12万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "开发者基于真实地图数据训练了专用的世界转 Minecraft 生成器，不仅能自动体素化全球建筑，还直接补齐了带家具的室内装修。",
-        "项目已在 worldcraft.gg 开放体验，用户可直接搜索定位并探索自己现实中的街区与房屋。",
-        "业内对这种尺度惊叹不已，有学者指出，配合游戏内已有的可运行计算机和数百万 AI 智能体，这或将成为数字平行世界的基础底座。"
+        "目前已支持 Factory、Linear、Ramp 等工具直接接入。",
+        "第三方工具产生的 Claude API 费用直接归集到企业的 Claude Platform 组织账单中合并结算。",
+        "彻底消除团队此前向外部 SaaS 频繁分发、硬编码 API Key 带来的密钥泄露风险与审计难题。"
       ],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "ClaudeDevs",
         "role": "",
-        "said": "太震撼了！人们甚至在 Minecraft 里造出了功能完整的电脑，但这把可能性推向了另一个层级。往里塞几百万个 AI 智能体当 NPC，我们就拥有了一个平行世界！"
+        "said": "关联计费现已在 Claude Platform 上线 Beta。 现在，Factory、Linear 和 Ramp 等工具的用户可以通过其 Claude Platform 组织支付 Claude API 费用，无需共享 API Key。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 3.2万 · 模型与能力] 连你家客厅都建好了！小哥用AI在我的世界1:1复刻地球，全网排队查房"
+      "line": "[榜第12位 · 12万 · 产品与生态] 再也不用共享API Key！Claude上线关联计费，第三方工具直接走组织扣费"
     },
     {
-      "title": "从调研到视频配音全包了！11个Claude Code开源神器打包出炉",
-      "summary": "研究、写作、做PPT再到视频和配音，全套原本繁琐的交付链路被开源工具直接串成了一条龙。社区最新整理出一批专为Claude Code打造的11个开源仓库，包含两款刚上线的全新工具，能让Agent直接跨平台抓取最新讨论甚至逐帧看视频。",
-      "reads": "5.0万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
+      "title": "两帧截图手搓3D房间！GPT-6.2全系突降Codex，OpenAI绿幕大招炸场",
+      "summary": "等待终于结束，OpenAI 连夜把 GPT-6.2 Astra 和 GPT-6.2 Sol 正式推送至 Codex 与 API，还顺手秀出颠覆级的 3D 空间重建能力。官方演示中，Codex 仅凭视频前两帧画面，就在 Blender 里反复迭代生成了与现实像素级一致的虚拟房间，甚至动动嘴就能换灯光、扩户型。",
+      "reads": "8.6万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "last30days-skill基于MIT协议开源，可让Claude Code自动横跨Reddit、YouTube、Hacker News及全网深度调研任意…",
-        "claude-video补齐了多模态交互短板，支持Claude Code直接解析并提取视频内容信息",
-        "整套工作流工具链覆盖从前期全网素材挖掘、文本撰写、自动排版幻灯片到成片视频与AI配音的完整生成环节"
+        "OpenAI Developers 官方宣布 GPT-6.2 Astra 与 GPT-6.2 Sol 正式在 Codex 和 API 中开放使用。",
+        "官方实测演示中，演示者实际身处绿幕前，Codex 仅输入两帧视频起始画面，便在 Blender 内全自动迭代出完全匹配的 3D 场景，达成像素级复刻。",
+        "生成的 3D 环境支持全自然语言即时修改，开发者可直接通过文字指令调换墙上挂画、放大房间空间、调节室内光照，甚至将其转变为可自由漫游的交互式场景。"
       ],
       "quote": {
-        "who": "0xMarioNawfal",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "11 个开源仓库，用于一套你可以交给 Claude Code 的研究 → 写作 → PPT → 视频 → 配音工作流（其中 2 个是全新的）： 01 last30days-skill → 在 Reddit、YouTube、HN 和网络上研究某个主题 (MIT) https://github.com/mvanhorn/last30days-skill … 02 claude-video → 让 Claude 观看任何"
+        "said": "来自开发者的更多消息。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 5.0万 · 产品与生态] 从调研到视频配音全包了！11个Claude Code开源神器打包出炉"
+      "line": "[榜第13位 · 8.6万 · 模型与能力] 两帧截图手搓3D房间！GPT-6.2全系突降Codex，OpenAI绿幕大招炸场"
     },
     {
-      "title": "补丁还没装，黑客AI已经杀进来了！谷歌紧急警告：自主攻击时代已到来",
-      "summary": "企业甚至还没来得及点击安装更新，AI黑客就已经顺着新补丁杀进系统了。谷歌最新报告发出严重警告，网络安全已正式迈入「自主攻击时代」：攻击者正利用AI全自动扫描最新软件补丁，反推其修复的安全漏洞，并在受害者装上防护前生成攻击手段，整套流程完全无需人类参与。",
-      "reads": "16万",
-      "ago": "10 小时前",
-      "category": "政策与安全",
+      "title": "报税和发票全交出去！谷歌Gemini Tasks向六国数亿人免费开放",
+      "summary": "报税、理发票等日常琐事，现在能直接甩给 AI 了。今天凌晨，Sundar Pichai 宣布 Gemini 的 Tasks 功能正式免费向六个国家的数亿人开放。这项功能由 Gemini 4 Hydrogen 驱动，核心定位是从「理解信息」迈向「替人办事」，帮用户在日常琐务中省下真金白银和时间。",
+      "reads": "12万",
+      "ago": "4 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "AI被用于实时监测并扫描软件更新，通过分析补丁代码自动逆向推导出对应的安全缺陷",
-        "整个攻击构建与渗透流程实现全自动化，直接抢在企业测试并安装补丁的时间窗口前完成打击"
+        "底层由 Gemini 4 Hydrogen 模型驱动，主打让用户把琐碎日常事务直接交由 AI 接管",
+        "支持直接将邮件转发给 Gemini 处理，官方演示将场景瞄准了报税、发票理单等高耗时杂务"
       ],
       "quote": {
-        "who": "unusual_whales",
+        "who": "Sundar Pichai",
         "role": "",
-        "said": "突发：Google 称“自主攻击的时代已经到来”。 据新报告，黑客现在正利用 AI 扫描软件更新，弄清每个补丁修复了哪个安全漏洞，并在公司安装修复程序之前构建攻击，全程无需人类参与"
+        "said": "了解情况 → 采取行动 → 找到帮你省时间省钱的方法 我们正在六个国家向数亿人免费扩展 Gemini 的 Tasks 功能。由 Gemini 4 Hydrogen 驱动，Tasks 让你可以直接把日常琐事交出去： - 转发邮件到"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 16万 · 政策与安全] 补丁还没装，黑客AI已经杀进来了！谷歌紧急警告：自主攻击时代已到来"
+      "line": "[榜第14位 · 12万 · 产品与生态] 报税和发票全交出去！谷歌Gemini Tasks向六国数亿人免费开放"
     },
     {
-      "title": "合上才能刷脸、45分钟按一次指纹！苹果折叠屏上线「阉割版」面容解锁",
-      "summary": "苹果在最新的 iOS 27.3 beta 2 中给折叠屏 iPhone Duo 补上了面部解锁，但使用限制堪称「层层设防」。该功能仅支持机身合上时的外屏锁屏，展开后无法生效，且 Apple Pay 与密码登录仍强制使用 Touch ID；更苛刻的是，只要闲置 45 分钟就必须重新验一次指纹，被爆料者直接戏称为「Fake ID」。",
-      "reads": "4.2万",
-      "ago": "6 小时前",
+      "title": "扎克伯格连夜官宣进驻微软云！Meta三大Muse主力上线，Astra也传将进驻",
+      "summary": "Meta与微软突然走到了同一阵营。扎克伯格深夜宣布，Meta旗下Muse Wonder、Muse Spark 1.3以及Muse Ember三款主力模型即将上线微软Azure平台的Microsoft Foundry；紧接着又有社区爆料传出，OpenAI的Astra与Sol 6.2也即将进驻该平台。",
+      "reads": "7.3万",
+      "ago": "3 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "仅限合上锁屏使用：展开状态下无法通过摄像头刷脸解锁，推测是内屏屏下摄像头成像素质不足。",
-        "支付与密码全被禁：Apple Pay 扣款、系统密码访问与自动登录均不支持面部验证，依然锁定 Touch ID。",
-        "45分钟激活门槛：必须在近期刚验证过 Touch ID 或锁屏密码才允许刷脸，闲置约 45 分钟后需再次刷指纹。",
-        "新增合上即锁开关：设置中加入「Close to Lock」，合上机身时直接锁定手机，不再把内屏画面流转到外屏。"
+        "扎克伯格发文确认，Meta超级智能实验室的Muse Wonder、Muse Spark 1.3和Muse Ember即将登陆Microsoft Foundr…",
+        "社区爆料显示，微软Foundry后续还将迎来OpenAI旗下的Astra和Sol 6.2等更多旗舰型号。",
+        "两大头部AI势力的最新主力若全部就位，微软云平台的第三方模型货架将迎来一波重磅扩容。"
       ],
       "quote": {
-        "who": "International Cyber Digest",
+        "who": "🚨 AI News | TestingCatalog",
         "role": "",
-        "said": "‼️ Apple 的 iPhone Duo 现在可以用面部解锁了，但仅限锁屏界面。 前置摄像头选项在 iOS 27.3 beta 2 中。Apple Pay、密码和登录仍需 Touch ID。 它还需要最近的 Touch ID 或密码验证，闲置约 45 分钟后需再次使用 Touch ID。"
+        "said": "MS foundry 将获得 Astra 和 Sol 6.2、Muse Spark 以及 Wonder 等更多产品！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 4.2万 · 产品与生态] 合上才能刷脸、45分钟按一次指纹！苹果折叠屏上线「阉割版」面容解锁"
+      "line": "[榜第15位 · 7.3万 · 产品与生态] 扎克伯格连夜官宣进驻微软云！Meta三大Muse主力上线，Astra也传将进驻"
     },
     {
-      "title": "吃掉全美1.8%的电！哈佛最新测算：AI超大数据中心成超级吞电兽",
-      "summary": "AI数据中心正在以惊人速度吞噬电网。哈佛大学研究人员最新研究测算显示，专为AI计算与模型训练提供支持的超大规模数据中心，在2024年至2025年间直接消耗了全美总电量的1.8%。这项由《华盛顿邮报》披露的数据，坐实了巨头们大力出奇迹背后沉重的能源代价。",
-      "reads": "9650",
-      "ago": "1 小时前",
-      "category": "资本与算力",
+      "title": "首个100％满分通关！GPT-6.2 Astra刷爆ARC-AGI-3，考卷彻底不够用了",
+      "summary": "AGI考卷被彻底做穿了。ARC Prize官方刚刚公布经实测验证的成绩单，OpenAI旗下的GPT-6.2 Astra在ARC-AGI-3上跑出100.0%的满分，成为该基准诞生以来全球首个拿下满分的模型，引得社区直呼「该换一条更大的船了」。",
+      "reads": "6.9万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "哈佛大学研究团队将统计对象锚定在超大规模数据中心（Hyperscale Data Centers），即专门承载AI训练与高并发推理、规模最大且最耗能的机房群…",
-        "该类数据中心在2024年至2025年区间的耗电份额达到全美总电力的1.8%，成为推高北美电网负荷的核心增量来源"
+        "ARC-AGI-3成绩细分显示，在provider adapter配置下模型以4100美元成本达成100% SOTA，standard配置下得分则为70.3…",
+        "在前代基准中该模型同样刷新纪录：ARC-AGI-2拿到95.8% SOTA，单任务成本0.50美元；ARC-AGI-1得分为98.5%，单任务成本0.17美…",
+        "社区爆料称GPT-6 2.2 Sol与Astra已同步释出，不过也有测试者评价称ARC-3本就已近饱和，且两款新模型在实际对比中并未彻底击败对应的Claud…"
       ],
       "quote": {
-        "who": "The Washington Post",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "哈佛大学研究人员的一项新研究发现，超大规模数据中心——支持 AI 计算和训练的最大、最耗能的数据中心——在 2024 年至 2025 年间使用了美国总电量的 1.8%。"
+        "said": "GPT-6 2.2 Sol 和 Astra 发布了。Sol 看起来升级幅度不大，但 Astra 在 AGI ARC-3 基准测试上拿了满分，不过那个测试本来也快饱和了。两者都没赢过它们的 Claude 对手。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 9650 · 资本与算力] 吃掉全美1.8%的电！哈佛最新测算：AI超大数据中心成超级吞电兽"
+      "line": "[榜第16位 · 6.9万 · 模型与能力] 首个100％满分通关！GPT-6.2 Astra刷爆ARC-AGI-3，考卷彻底不够用了"
     }
   ],
   "board_count": 16,
