@@ -3,40 +3,87 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-18 12:11:41 +0800",
+  "fetched_at": "2026-11-18 21:50:58 +0800",
   "today": "11/18",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "OpenAI连夜放出GPT-6.2双旗舰！干翻Fable只要5%成本，API狂降价",
-      "summary": "OpenAI今天凌晨突击发布GPT-6.2 Astra与Sol两款新模型，主打用更少Token解决高难度复杂任务。在长流程测试Agents’ Last Exam中，旗舰Astra比GPT-6 Astra高出5.2分且成本不到三分之一，甚至仅花Claude Fable 5.2约5%的成本就反超对手5.5分。目前API大幅降价，Plus等付费用户已能直接上手。",
-      "reads": "153万",
-      "ago": "49 分钟前",
+      "title": "OpenAI连夜甩出GPT-6.2双子星！成本只要Fable 5%，API直接降价20%",
+      "summary": "OpenAI 在 11 月 18 日凌晨突然端出 GPT-6.2 Astra 与 GPT-6.2 Sol 两款新模型，主打复杂长流程交付与极致 Token 压缩。官方基准显示，新旗舰 Astra 在 Agents’ Last Exam 上以微弱优势反超 Claude Fable 5.2，单任务消耗成本却仅为其 5%；Astra 的 API 输入输出价格同步下调 20%，缓存输入…",
+      "reads": "156万",
+      "ago": "5 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "旗舰定位的GPT-6.2 Astra主打超难科研与工程，日常主力GPT-6.2 Sol面向高频工作，两款模型均通过大幅压缩冗余Token来提高长程任务完成率…",
-        "在法律基准Harvey LAB-AA v1.1中，GPT-6.2 Astra通过率达到Claude Fable 5.2的两倍以上，单任务成本仅为后者的六分之…",
-        "日常主力GPT-6.2 Sol在代码评测FrontierCode 2.0中逼近Astra仅差0.5分且成本仅五分之一，在生活任务LifeVal中超越GPT-…",
-        "API调用大幅让利，Astra输入与输出价格较前代直降20%，缓存输入降价60%至每百万Token 0.40美元，Sol则维持GPT-6.1 Sol原价。"
+        "Astra 定位最难前沿任务，Sol 定位日常主力工；Sol 在 FrontierCode 2.0 评测中距离 Astra 仅差 0.5 分，任务成本约为其…",
+        "科学基准 Terminal-Bench-Science 0.1 上，Astra 较前代 GPT-6 Astra 提升 9 个百分点且成本缩至三分之一，工程与…",
+        "API 定价方面，Astra 每百万 Token 输入降至 8 美元、缓存输入 0.40 美元、输出 40 美元，Sol 则维持原价。",
+        "官方演示中，Astra 仅凭公开照片和手册便完成了遥控越野车与引擎的 3D 建模及部件目录，并能纯用代码生成可游玩的 3D 赛车。"
       ],
       "quote": {
-        "who": "Chayanka_42",
+        "who": "Prajwal Tomar",
         "role": "",
-        "said": "在 Terminal Bench Science 基准测试中，GPT-6.2 Astra (Max) 和 Fable 5.2 (Max) 最大的差距在于工程和地球科学领域：Astra 分别拿到 85.2% 和 95.8%，而 Fable 分别是 66.7% 和 70.8%。其他所有领域两者都在 2% 以内"
+        "said": "我真的不理解大家为什么这么讨厌 GPT-6.2 Astra。 三个月前这东西绝对会让所有人震惊。 我们只是在 Fable 5.2 上构建了太久，导致任何稍微差一点的东西都感觉像是坏了。 对于大多数日常工作来说，它可能已经够用了。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 153万 · 模型与能力] OpenAI连夜放出GPT-6.2双旗舰！干翻Fable只要5%成本，API狂降价"
+      "line": "[榜第1位 · 156万 · 模型与能力] OpenAI连夜甩出GPT-6.2双子星！成本只要Fable 5%，API直接降价20%"
+    },
+    {
+      "title": "GPT-6.2大众喊香网红猛踩？OpenAI破案了，内测拿的全是旧版本",
+      "summary": "GPT-6.2 Sol 与 Astra 上线后评价两极分化，普通用户觉得惊艳，不少提前拿到权限的网红博主却体感平平。OpenAI 研究员 Tibo 发帖揭开谜底：团队在发布前最后三四天做了一堆重大改动，受邀提前测试的人这期间完全没重新测试，发出来的体验全停留在早期版本。",
+      "reads": "26万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "在同等任务实测中，GPT-6.2 Astra 消耗额度的速度远慢于 6 Astra，单次任务仅用掉约四分之一的额度，同套餐能处理的任务量明显增加。",
+        "Tibo 认为 6.2 Sol 与 Astra 相比旧版 GPT 实现了大幅跃升，但团队内部仍希望在输出品味和审美（taste）上继续打磨。",
+        "OpenAI 语音负责人 Ananth 随后透露，下一代 gpt-6.5 astra 有望在品味与审美表现上迎来大幅提升。"
+      ],
+      "quote": {
+        "who": "Kai",
+        "role": "",
+        "said": "GPT-6.2 Astra 消耗我的使用额度的速度比 6 Astra 慢得多。 我在两者上运行了相同的任务，6.2 只用了大约四分之一的额度。 如果这能保持下去，同样的套餐我能干更多事。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 26万 · 模型与能力] GPT-6.2大众喊香网红猛踩？OpenAI破案了，内测拿的全是旧版本"
+    },
+    {
+      "title": "Anthropic被曝几天内上市！华尔街连2倍做多做空ETF都备好了",
+      "summary": "Anthropic被曝最快几天内就将正式敲钟上市，华尔街甚至连狂欢或做空的杠杆工具都提前备齐了。金融数据平台Barchart披露，发行商GraniteShares已筹备完毕两只专项衍生ETF，预计在IPO完成仅两天后火速上线交易。",
+      "reads": "6.6万",
+      "ago": "1 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "两只提前备战的ETF分别为2倍做多的AIL（GraniteShares 2x Long Anthropic Daily ETF）与2倍反向做空的ANS（Gr…",
+        "按目前披露的规划，两只杠杆与反向基金预计在Anthropic正式上市后的第2天挂牌交易。"
+      ],
+      "quote": {
+        "who": "Pankaj Kumar",
+        "role": "",
+        "said": "我这边全准备好了，就等 Google 发布了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 6.6万 · 资本与算力] Anthropic被曝几天内上市！华尔街连2倍做多做空ETF都备好了"
     },
     {
       "title": "马斯克把财务大权交给AI！5个Bot全职上岗会计团队，管完开户管收款",
       "summary": "5个AI智能体已经在xAI财务团队拿下全职岗位，像真人队友一样走完入职、培训并接受日常管理。马斯克发文直言「Grok @Bot能做你的会计」，并披露了这套用Bot跑通「订单到收款」全流程的企业财务自动化实操。",
-      "reads": "43万",
-      "ago": "50 分钟前",
+      "reads": "71万",
+      "ago": "10 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -53,14 +100,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 43万 · 产品与生态] 马斯克把财务大权交给AI！5个Bot全职上岗会计团队，管完开户管收款"
+      "rank": 4,
+      "line": "[榜第4位 · 71万 · 产品与生态] 马斯克把财务大权交给AI！5个Bot全职上岗会计团队，管完开户管收款"
     },
     {
       "title": "查账、比价还会直接打电话砍价！马斯克：5个Grok Bot接管全套财务",
       "summary": "财务打工人最担心的场景真来了：5个专用AI正在接管整套会计工作，24小时的开票流程直接被压到几分钟，人类只剩审批盖章。11月18日上午马斯克亲自带货Grok Bot，称其能帮企业狂省数百万美元开支，不仅会抠着审查每笔花销的必要性，还会全网比价、甚至直接打电话给供应商把价格砍下来。",
       "reads": "52万",
-      "ago": "2 小时前",
+      "ago": "11 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -78,14 +125,63 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 52万 · 产品与生态] 查账、比价还会直接打电话砍价！马斯克：5个Grok Bot接管全套财务"
+      "rank": 5,
+      "line": "[榜第5位 · 52万 · 产品与生态] 查账、比价还会直接打电话砍价！马斯克：5个Grok Bot接管全套财务"
+    },
+    {
+      "title": "一年狂揽1040亿美元！英伟达近半营收被曝走新加坡，反手隐去披露",
+      "summary": "英伟达2025年通过新加坡子公司狂揽1040亿美元营收，同比大增72%，直接吃下全球销售额的近一半。诡异的是，英伟达在录得这笔巨额入账的同年，悄悄停止在财报中单独披露新加坡数据。这一动作在外媒曝光后引爆行业圈质疑，不少人怀疑大批高算力芯片借此辗转绕过出口限制流入市场。",
+      "reads": "3.4万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "数据显示其新加坡子公司2025年营收高达1040亿美元，占全球销售额比例近半",
+        "英伟达在同一财年调整财报口径，不再单独拆分披露新加坡市场的财务明细",
+        "业内对千亿流水去向引发激烈交锋，有KOL公开质疑是否存在灰色流向，亦有从业者评论称相关猜测「半对半错」"
+      ],
+      "quote": {
+        "who": "swyx",
+        "role": "",
+        "said": "这既是对的也是错的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 3.4万 · 政策与安全] 一年狂揽1040亿美元！英伟达近半营收被曝走新加坡，反手隐去披露"
+    },
+    {
+      "title": "首测体验糟透了！GPT-6.2被批基本不可用，反向给Anthropic送神助攻",
+      "summary": "OpenAI刚推出的GPT-6.2 Astra与Sol遭遇罕见口碑滑铁卢，首批实测直接被贴上「基本不可用」的标签。AI从业者Matt Shumer公开劝退并直言体验极其糟糕，引得社区疯狂跟风调侃，甚至有人嘲讽这场翻车简直是直接给Anthropic的IPO送上了绝佳宣传助攻。",
+      "reads": "25万",
+      "ago": "10 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Matt Shumer最初公开表示因实测体验极差、模型基本没法用而拒绝撰写完整图文，随后因全网追问才补发了实测视频。",
+        "社区讨论迅速炸锅，Meta与纽约大学研究员Ravid Shwartz Ziv等圈内人纷纷转发围观，有人直呼这是灾难性的上线即暴毙。",
+        "有实测者将Astra 6.2与Anthropic旗舰Fable 5.2在复杂研究问题上横向对比，指出GPT-6.2刚上手就明显不对劲。",
+        "面对大面积差评，不少行业围观者调侃这轮负面反馈反倒成了竞争对手Anthropic最好的上市前路演。"
+      ],
+      "quote": {
+        "who": "Matt Shumer",
+        "role": "",
+        "said": "由于需求巨大，这是我的评测： https://youtube.com/watch?v=T-R3u8RdkbA …"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 25万 · 模型与能力] 首测体验糟透了！GPT-6.2被批基本不可用，反向给Anthropic送神助攻"
     },
     {
       "title": "豪掷100亿美元！英伟达被曝将大举买入Anthropic股份",
       "summary": "英伟达或将斥资100亿美元巨资，直接买入大模型巨头Anthropic的股份。金融快讯账号Watcher.Guru突发披露了这起震撼硅谷的资本动向，意味着全球算力总舵手正计划用真金白银深度押注Claude背后的AI超级独角兽。",
-      "reads": "7.9万",
-      "ago": "47 分钟前",
+      "reads": "18万",
+      "ago": "10 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [],
@@ -98,14 +194,102 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 7.9万 · 资本与算力] 豪掷100亿美元！英伟达被曝将大举买入Anthropic股份"
+      "rank": 8,
+      "line": "[榜第8位 · 18万 · 资本与算力] 豪掷100亿美元！英伟达被曝将大举买入Anthropic股份"
+    },
+    {
+      "title": "造车耗电赶不上屋顶发电！特斯拉客户太阳能年产电达全球运营2倍",
+      "summary": "特斯拉官方今日亮出一组硬核对比：旗下 Tesla Energy 部署的客户太阳能系统，目前每年的总发电量已超过特斯拉全球运营全年总耗电量的 2 倍。这意味着从工厂造车、超级充电网络运转到日常公司运营的整体用电，已被客户屋顶上的清洁电能反向打平且翻倍覆盖。",
+      "reads": "64万",
+      "ago": "15 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Tesla",
+        "role": "",
+        "said": "@TeslaEnergy 部署的客户太阳能系统，现在每年发的电已经超过我们全球运营用电量的两倍了"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 64万 · 产品与生态] 造车耗电赶不上屋顶发电！特斯拉客户太阳能年产电达全球运营2倍"
+    },
+    {
+      "title": "一句「我们搞定了」！英伟达临时女掌门财报放硬话，半导体巨头集体跳涨",
+      "summary": "「需求在加速、供应在增长，我们搞定了！」英伟达临时 CEO Colette Kress 在最新财报电话会上以极具冲击力的结语霸气收尾，给处于换帅过渡期的算力帝国直接注入强心剂。重磅表态迅速引爆亚太供应链，韩国芯片巨头开盘全线狂飙，即便盘中遭遇散户抛售波折，市场依旧强行收复失地。",
+      "reads": "3.7万",
+      "ago": "5 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Kress 在财报电话会结语中强调公司势头真实，需求加速且供应同步增长，客户与合作伙伴始终站在一起，员工也全力以赴，并以「We've got this」宣告…",
+        "财报发布后韩国综合股价指数（KOSPI）今早跳空高开 2.6% 冲至 5,098 点，随后虽因散户出逃在上午晚些时候一度滑落至 5,000 点下方，但市场迅…",
+        "英伟达核心存储芯片盟友开盘集体拉升，SK 海力士跳涨近 6%，三星电子开盘上涨约 4%。"
+      ],
+      "quote": {
+        "who": "Milk Road AI",
+        "role": "",
+        "said": "据韩国媒体报道，在 Nvidia 财报发布后，KOSPI 今早开盘上涨 2.6%，报 5,098。 Samsung 开盘跳涨约 4%，SK Hynix 跳涨近 6%。 随后散户开始抛售，到上午晚些时候，KOSPI 已跌回 5,000 下方。 市场随后收复"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 3.7万 · 资本与算力] 一句「我们搞定了」！英伟达临时女掌门财报放硬话，半导体巨头集体跳涨"
+    },
+    {
+      "title": "不到3万美元！特斯拉Cybercab开放个人购买，预计下月交付",
+      "summary": "不用方向盘的车真能买回家了！特斯拉旗下 Robotaxi 官方宣布，部分受邀客户现已可购买 Cybercab 作个人使用。据外媒披露，该车售价定在 29990 美元，预计最快今年 12 月开启交付；自动驾驶功能采用每月 299 美元的订阅制，折合每天约 10 美元。",
+      "reads": "1.8万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "首批购买资格仅限部分受邀客户，用途明确为个人使用",
+        "整车售价为 29990 美元，预计交付时间最早在 2026 年 12 月",
+        "自动驾驶功能按月收费 299 美元，折合每天约 10 美元"
+      ],
+      "quote": {
+        "who": "Mario Nawfal",
+        "role": "",
+        "said": "终于，有一款不需要你的车了。 Cybercab 现已向部分买家开放个人使用。售价 29,990 美元，预计 12 月开始交付。 自动驾驶服务每月 299 美元。相当于每天花 10 美元请个专属司机。 你的通勤时间刚变成了午睡时间。 @Tesla @Robotaxi"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 1.8万 · 产品与生态] 不到3万美元！特斯拉Cybercab开放个人购买，预计下月交付"
+    },
+    {
+      "title": "人类史上最大IPO进入倒计时！Anthropic临近敲定发行价",
+      "summary": "人类资本市场规模最大的一笔IPO即将迎来关键节点。Anthropic目前已逼近敲定最终发行价的临界点，该交易极有可能刷新全球有史以来的最高募资纪录。据彭博社披露，这一潜在的史上最大上市案已步入最终定价倒计时阶段。",
+      "reads": "1.6万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Bloomberg",
+        "role": "",
+        "said": "Anthropic 正处于定价史上最大 IPO 的边缘"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 1.6万 · 资本与算力] 人类史上最大IPO进入倒计时！Anthropic临近敲定发行价"
     },
     {
       "title": "筷子真的把星舰夹住了！SpaceX宣布首次接牢Starship本体",
       "summary": "Starbase 发射塔的机械臂「筷子」首次成功接住了星舰（Starship）！SpaceX 官方正式宣布这一突破，并表示该独特架构专为完全、快速的可重复使用而设计，未来将直接支持从同一个发射台连续进行重复发射和着陆。",
       "reads": "29万",
-      "ago": "4 小时前",
+      "ago": "13 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
@@ -118,39 +302,62 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 29万 · 产品与生态] 筷子真的把星舰夹住了！SpaceX宣布首次接牢Starship本体"
+      "rank": 13,
+      "line": "[榜第13位 · 29万 · 产品与生态] 筷子真的把星舰夹住了！SpaceX宣布首次接牢Starship本体"
     },
     {
-      "title": "直接赶下高速！加州DMV突发禁令：Waymo对公共安全构成迫在眉睫危险",
-      "summary": "加州高速突然向无人车关闭大门，Waymo被当地监管一纸命令连夜驱逐。加州机动车辆管理局（DMV）已勒令Waymo立刻停止在全州高速公路上运营自动驾驶车辆，官方定性极其严厉——「对公共安全构成迫在眉睫的危险」。这一突发禁令瞬间引发湾区乘客抗议，也让业内感叹自动驾驶在政策监管面前的脆弱。",
-      "reads": "22万",
-      "ago": "4 小时前",
+      "title": "黑客团伙声称攻破英伟达！泄露站挂出10天倒计时，赎金谈判通道已开",
+      "summary": "AI芯片巨头英伟达被曝遭黑客团伙盯上。勒索组织The Gentlemen声称已成功入侵英伟达，并在其泄露站挂出条目，数据状态标为「SOON」，同时附带约10天倒计时及赎金谈判ID。据网络安全媒体披露，该团伙此前有真实攻击记录，不过目前其页面上尚未公开展示任何被盗文件。",
+      "reads": "8662",
+      "ago": "1 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "加州机动车辆管理局（DMV）正式下令，要求Waymo停止在加州高速公路运营旗下自动驾驶车辆",
-        "官方叫停的核心定性极为严重，称其「对公共安全构成迫在眉睫的危险」（an imminent hazard to public safety）",
-        "禁令在湾区通勤用户中引发广泛反弹，不少将无人车视为出行刚需的当地居民对DMV的激进干预表达强烈不满",
-        "有投资人对此评论指出，自动驾驶行业几乎零容错，哪怕出现一次闪失都会让整个州的业务陷入停摆，并预警监管机构明年或将加大施压力度"
+        "勒索团伙The Gentlemen在其数据泄露站点新增英伟达条目，数据状态标记为「SOON」",
+        "页面同步挂出约10天的倒计时牌，并附带用于赎金谈判的专属chat ID",
+        "安全追踪显示该团伙拥有真实的过往攻击记录，但截至目前尚未展示任何声称被盗的英伟达具体文件"
       ],
       "quote": {
-        "who": "Brian Roemmele",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "“加州禁止 Waymo 自动驾驶汽车上州际高速公路，称其构成‘迫在眉睫的危险’” Waymooo"
+        "said": "‼️突发：勒索软件团伙 The Gentlemen 声称黑进了 AI 芯片巨头 Nvidia。 其泄露站列表显示目前还没有被盗文件。数据标记为“即将发布”，旁边是一个约 10 天的倒计时和用于勒索谈判的聊天 ID。 该团伙有真实的作案记录。当它自己的"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 22万 · 政策与安全] 直接赶下高速！加州DMV突发禁令：Waymo对公共安全构成迫在眉睫危险"
+      "rank": 14,
+      "line": "[榜第14位 · 8662 · 政策与安全] 黑客团伙声称攻破英伟达！泄露站挂出10天倒计时，赎金谈判通道已开"
+    },
+    {
+      "title": "狂飙破1.7万亿美元！Anthropic上市前合约遭疯抢，IPO定价或超83美元",
+      "summary": "Anthropic还没正式敲钟，二级市场已经彻底按捺不住了。Liquid Trading平台的上市前永续合约（pre-IPO perps）最新隐含估值直接飙破1.7万亿美元；市场报道此前预期若IPO定价超过每股83美元，估值将在1.5万亿至1.6万亿美元之间，如今衍生品市场给出的筹码已全面抢跑。",
+      "reads": "1.3万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Liquid Trading平台数据显示，Anthropic的上市前永续合约最新隐含估值已正式突破1.7万亿美元。",
+        "据此前相关报道测算，若Anthropic的IPO定价高于每股83美元，其对应的公司估值预计在1.5万亿至1.6万亿美元区间。",
+        "当前衍生品合约交易体现出的估值中枢，已明显高于报道中的IPO定价测算水平。"
+      ],
+      "quote": {
+        "who": "Wall St Engine",
+        "role": "",
+        "said": "Anthropic 在 @liquidtrading 上的 IPO 前永续合约目前隐含估值超过 1.7 万亿美元，高于据报道若 IPO 定价高于每股 $83 时公司可能达到的 1.5T 至 1.6T 估值。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 15,
+      "line": "[榜第15位 · 1.3万 · 资本与算力] 狂飙破1.7万亿美元！Anthropic上市前合约遭疯抢，IPO定价或超83美元"
     },
     {
       "title": "OpenAI杀入销售圈！ChatGPT推出Sales新体验，30多个插件包揽成单杂活",
       "summary": "ChatGPT正式上线面向销售场景的全新体验ChatGPT for Sales，一口气整合自研Sales插件与30多个新增或升级的合作伙伴插件。新功能把销售工具与客户上下文全面打通，主打砍掉繁琐事务、加速交易成单；OpenAI总裁Greg Brockman随后转发力推，直言这就是「搞定一切销售事务的ChatGPT」。",
       "reads": "29万",
-      "ago": "5 小时前",
+      "ago": "14 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -167,219 +374,8 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 29万 · 产品与生态] OpenAI杀入销售圈！ChatGPT推出Sales新体验，30多个插件包揽成单杂活"
-    },
-    {
-      "title": "造车耗电赶不上屋顶发电！特斯拉客户太阳能年产电达全球运营2倍",
-      "summary": "特斯拉官方今日亮出一组硬核对比：旗下 Tesla Energy 部署的客户太阳能系统，目前每年的总发电量已超过特斯拉全球运营全年总耗电量的 2 倍。这意味着从工厂造车、超级充电网络运转到日常公司运营的整体用电，已被客户屋顶上的清洁电能反向打平且翻倍覆盖。",
-      "reads": "28万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Tesla",
-        "role": "",
-        "said": "@TeslaEnergy 部署的客户太阳能系统，现在每年发的电已经超过我们全球运营用电量的两倍了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 28万 · 产品与生态] 造车耗电赶不上屋顶发电！特斯拉客户太阳能年产电达全球运营2倍"
-    },
-    {
-      "title": "苹果内部更新玩脱了！员工工具、零售店到线上服务全线瘫痪",
-      "summary": "苹果系统突然遭遇大面积服务中断，从内部员工工具、线下零售店运营到面向消费者的在线服务全被波及。后续消息透露，这轮大规模瘫痪并非外部黑客或网络攻击所致，而是周二自家一次内部系统更新失控惹的祸，目前技术团队正在紧急组织恢复。",
-      "reads": "8.7万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "故障波及面极为广泛，不仅影响内部办公协同，线下零售门店日常运转与前台消费端功能也同步受阻。",
-        "相关渠道随后明确排除了网络安全攻击的可能性，直接定性为内部版本更新引发的意外故障。",
-        "目前苹果正全力抢修各项受损基础设施与业务线，推动受影响的服务逐步恢复正常。"
-      ],
-      "quote": {
-        "who": "Reuters",
-        "role": "",
-        "said": "Apple 正在努力恢复服务，此前因内部更新导致服务中断。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 8.7万 · 产品与生态] 苹果内部更新玩脱了！员工工具、零售店到线上服务全线瘫痪"
-    },
-    {
-      "title": "连自家办公楼都断网！苹果全球大宕机：线下店停摆，疑因内部更新",
-      "summary": "线上服务全线崩溃、线下门店无法销售和维修，甚至连自家办公大楼都集体掉线。11月18日凌晨苹果突发大范围系统故障，从 App Store、iCloud、Apple Pay 一路瘫痪到实体零售店，多项服务中断数小时后才缓慢恢复。有消息透露，苹果内部将这次波及全公司的重大故障归咎于一次内部软件更新。",
-      "reads": "40万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "DownDetector 与多方监测显示，故障覆盖 Apple Support、App Store、iCloud、Apple Pay、Apple Card…",
-        "线下门店受到波及，纽约等地的 Apple Store 因系统故障无法处理任何收银与售后维修，店员只能劝退排队顾客。",
-        "多名苹果员工在社交社区透露，故障期间苹果公司内部的办公大楼也全部处于离线断网状态。",
-        "苹果官方状态页当时仅确认了 iCloud 登录、App Store、Apple Music 和 AppleCare 等业务异常，未公布详细故障源头。"
-      ],
-      "quote": {
-        "who": "Aaron",
-        "role": "",
-        "said": "好消息！Apple 的系统正在慢慢恢复在线，几小时前发生了一次宕机"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 40万 · 产品与生态] 连自家办公楼都断网！苹果全球大宕机：线下店停摆，疑因内部更新"
-    },
-    {
-      "title": "无需密码直接接管！Java4Shell超危漏洞曝光，Jenkins等全沦陷",
-      "summary": "一段短小的畸形字符即可触发越界写入，Java突曝可免密接管服务器的致命漏洞Java4Shell，更棘手的是它在补丁到位前就已被曝泄露。据媒体转述安全公司Calif的测试，攻击者甚至无需登录就能直接拿下Jira、Confluence、Jenkins和Keycloak等主流服务器。目前Oracle虽修复了11个Java漏洞，但尚未明确将其与Java4Shell关联。",
-      "reads": "31万",
-      "ago": "6 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "安全公司Calif披露名为Java4Shell的关键Java安全漏洞，称将公布具体技术细节。",
-        "漏洞症结位于Java解码Base64的代码中，利用极短的畸形字符串即可迫使其发生越界写入。",
-        "Calif实测表明，攻击者利用该漏洞在完全不登录的情况下，便成功接管了Jira、Confluence、Jenkins与Keycloak服务器。",
-        "Oracle虽然修复了11个Java漏洞，但官方目前并未将已修复项目与Java4Shell建立关联。"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "‼️ 更新：安全公司 Calif 称其利用 Java4Shell 接管了 Jira、Confluence、Jenkins 和 Keycloak 服务器，甚至无需登录。 漏洞位于 Java 用于解码 Base64（一种常见的将数据作为文本传输的方式）的代码中。一个短小的畸形字符串就能让它写入超出边界的位置"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 31万 · 政策与安全] 无需密码直接接管！Java4Shell超危漏洞曝光，Jenkins等全沦陷"
-    },
-    {
-      "title": "OpenAI新模型大翻车？曝6.2 Astra编程榜不升反降，全线落后Claude",
-      "summary": "OpenAI两款新模型在核心基准上被曝罕见倒退。社区最新爆料指出，6.2 Astra和Sol在Artificial Analysis的代码智能体榜单（Coding Agent Index）中双双不及前代，甚至全面落后于近期发布的Claude全系模型。CNBC主播Deirdre Bosa借此调侃，微软推更便宜模型对标OpenAI上一代正逢其时。",
-      "reads": "4.5万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "爆料显示6.2 Astra与Sol在Artificial Analysis的Coding Agent Index测试中成绩出现退步，且落后于近期所有Clau…",
-        "CNBC主播Deirdre Bosa转述微软AI负责人Mustafa Suleyman此前的观点：多数人并不知道如何在日常中用好前沿AI，尝试最新模型后往往…"
-      ],
-      "quote": {
-        "who": "Deirdre Bosa",
-        "role": "",
-        "said": "微软发布比 OpenAI 上一代模型基准测试表现更好且更便宜的模型，真是个好日子。 @mustafasuleyman 之前告诉我，大多数人不知道如何在日常生活中使用前沿 AI，所以他们尝试最新模型后就会“切回上一代”。他的观点是"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 4.5万 · 模型与能力] OpenAI新模型大翻车？曝6.2 Astra编程榜不升反降，全线落后Claude"
-    },
-    {
-      "title": "39秒通关维基跳转挑战！GPT-6.2-Sol电脑操作实测曝光，50轮测试全场最快",
-      "summary": "GPT-6.2-Sol在电脑使用任务中跑出惊人手速，维基百科跳链挑战仅用39秒直达目标，斩获全场最快！实测中，测试者让5款模型从相同的50个起始词条出发，全自动操控电脑跳转至目标人物页面。5款模型虽然全部成功通关，但GPT-6.2-Sol以39.0秒的极速脱颖而出，展现出极强的信息定位与页面连击能力。",
-      "reads": "66万",
-      "ago": "9 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "测试项目采用经典的维基百科跳转游戏，重点考察模型在自主网页浏览、超链接寻路以及UI操作上的综合执行速度。",
-        "参测的5个模型面对50个相同的起始词条均达成100%成功率，全部顺利完成跳转。",
-        "GPT-6.2-Sol以39.0秒的用时位列第一，成为全场操作速度最快的模型。"
-      ],
-      "quote": {
-        "who": "宝玉",
-        "role": "",
-        "said": ""
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 66万 · 模型与能力] 39秒通关维基跳转挑战！GPT-6.2-Sol电脑操作实测曝光，50轮测试全场最快"
-    },
-    {
-      "title": "奥特曼清晨突然交卷！GPT-6.2双子星突降，Ultrafast杀进200刀套餐",
-      "summary": "OpenAI两款新模型GPT-6.2 Sol和GPT-6.2 Astra正式上线。CEO Sam Altman发帖确认发布，直言这批模型能搞定惊艳任务且Token效率极高，并重点安利了6.2 Sol ultrafast；不过刚一发牌，社区已有人公开吐槽别迷信跑分、直言Astra比Opus 5.5差得远。",
-      "reads": "26万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "OpenAI员工透露已将GPT-6.2 Sol的ultrafast极速模式扩展至Pro 200美元套餐，并称其已成为自己处理日常事务的首选主力模型。",
-        "第三方用户实测后迅速提出质疑，认为评测基准存在水分，直指Astra面对Anthropic的Opus 5.5依然毫无优势。"
-      ],
-      "quote": {
-        "who": "Shruti",
-        "role": "",
-        "said": "信我兄弟基准测试…… Astra 跟 Opus 5.5 比还是拉胯"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 26万 · 模型与能力] 奥特曼清晨突然交卷！GPT-6.2双子星突降，Ultrafast杀进200刀套餐"
-    },
-    {
-      "title": "32个Gemini智能体组团搞基建！啃透70张百年图纸，3D重建埃菲尔铁塔",
-      "summary": "32个AI智能体同时干活是什么场面？谷歌官方晒出Antigravity平台里的/swarm工作流实测：直接派出32个Gemini 4 Carbon智能体协同作战，交叉比对70份泛黄的历史蓝图和老照片，把1887到1889年埃菲尔铁塔逐块搭建的建造过程，原汁原味还原成了一个交互式3D数字展览。",
-      "reads": "6.7万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "任务依托谷歌Antigravity平台的/swarm工作流调度，调用32个Gemini 4 Carbon智能体协同分工",
-        "智能体群调取并交叉核对了Google Arts & Culture上收录的70份埃菲尔铁塔历史工程蓝图与老照片",
-        "运行记录与工具调用面板显示，AI持续读取并解析了第63至第70号图纸，精准推演出铁塔历时两年逐块拔地而起的全流程"
-      ],
-      "quote": {
-        "who": "Google",
-        "role": "",
-        "said": "从 1887 年到 1889 年，看着埃菲尔铁塔在巴黎上方一块块拔地而起 🗼 使用 @Antigravity 里的 /swarm，32 个 Gemini 4 Carbon AI 智能体交叉核对了 Google Arts & Culture 上的 70 份历史蓝图和照片，将其重建过程打造成了一个交互式 3D 展览。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 6.7万 · 产品与生态] 32个Gemini智能体组团搞基建！啃透70张百年图纸，3D重建埃菲尔铁塔"
-    },
-    {
-      "title": "不用傻等命令跑完了！Claude Code上线Code Mode：自写脚本串工具，边跑边聊",
-      "summary": "再也不用盯着控制台干等任务跑完！Claude Code今晨低调上线实验性功能「Code Mode」，彻底改写了AI调用工具的逻辑：Claude可以直接编写脚本把多个工具复杂串联起来，甚至在后台长命令还在执行时，就能同步给用户给出答复。",
-      "reads": "23万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "该模式目前属于实验性质，终端设置环境变量 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 即可直接开启试用。",
-        "与传统死板的单步工具调用不同，Code Mode下模型能自主写脚本完成多工具联动，并支持在长耗时命令执行期间向用户交互回话。"
-      ],
-      "quote": {
-        "who": "Armin Ronacher",
-        "role": "",
-        "said": "👀"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 23万 · 产品与生态] 不用傻等命令跑完了！Claude Code上线Code Mode：自写脚本串工具，边跑边聊"
+      "line": "[榜第16位 · 29万 · 产品与生态] OpenAI杀入销售圈！ChatGPT推出Sales新体验，30多个插件包揽成单杂活"
     }
   ],
   "board_count": 16,
