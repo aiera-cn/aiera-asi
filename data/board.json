@@ -3,390 +3,395 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-19 05:50:55 +0800",
+  "fetched_at": "2026-11-19 11:15:29 +0800",
   "today": "11/19",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "让AI给自己造芯片！OpenAI模型爆改AMD旗舰GPU：5个月抢出1年进度",
-      "summary": "AI 真的开始给自己造芯片了。OpenAI 宣布其模型在不到 5 个月内，在 AMD 工程师已优化数年的旗舰 GPU IP 上抠出了最高 14% 的 PPA 提升，这套方法还同步改进了 OpenAI 首款自研推理芯片 Jalapeño。总裁 Greg Brockman 透露，这相当于抢跑了约一年研发，部分成果已纳入近期流片。",
-      "reads": "29万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
+      "title": "马斯克定调星舰终局：筷子夹飞船，是完全复用拼图的最后一块",
+      "summary": "捕获星舰飞船（Ship），被马斯克定性为星舰实现完全可重复使用的「最后一块关键拼图」。他在最新回应中强调这一成就远比外界以为的更具里程碑意义，攻克上级飞船捕获，意味着星舰系统的核心拼图已全部就位。",
+      "reads": "47万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "提升是在 AMD 工程师多年深度优化的设计基线上取得的，覆盖性能、功耗与面积（PPA）三大核心指标，最高达 14%。",
-        "OpenAI 总裁兼联合创始人 Greg Brockman 透露，模型在不到 5 个月内为 AMD 芯片取得相当于额外一年的研发进展，称这是芯片设计前沿的前…",
-        "部分优化成果已经正式纳入近期流片（tape out）的芯片设计中。",
-        "这套 AI 设计方法还同步应用在 OpenAI 首款自研推理芯片 Jalapeño 上，官方确认收益已获验证。"
+        "截至目前，SpaceX 已累计完成 3 次超重型助推器（Super Heavy）的发射台机械臂成功捕获。",
+        "团队此前已成功验证同一枚超重型助推器复飞后、再次被发射塔捕获回收的全流程。"
       ],
       "quote": {
-        "who": "Greg Brockman",
+        "who": "Elon Musk",
         "role": "",
-        "said": "用我们的模型，不到 5 个月就实现了相当于 @AMD 芯片额外一年研发进度的成果，其中部分结果已包含在近期刚流片的设计中——这在芯片设计的最前沿堪称前所未有。"
+        "said": "抓住这艘船是拼图的最后一块关键部分"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 29万 · 资本与算力] 让AI给自己造芯片！OpenAI模型爆改AMD旗舰GPU：5个月抢出1年进度"
+      "line": "[榜第1位 · 47万 · 产品与生态] 马斯克定调星舰终局：筷子夹飞船，是完全复用拼图的最后一块"
     },
     {
-      "title": "说话即出字，干等转录成历史！ChatGPT上线实时听写，再也不丢字",
-      "summary": "对着ChatGPT说话不用再干等整段消息慢慢转录了。ChatGPT官方上线实时听写功能Live Dictation，用户在说话的同时语音就会同步化为文字。OpenAI内部直呼这是大幅提升体验的升级，转写速度不仅能紧跟语速，困扰不少人的转写丢字毛病也终于被解决。",
-      "reads": "6.8万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
+      "title": "打破78美元上限！Anthropic敲定83美元发行价，今夜冲进纳斯达克",
+      "summary": "Claude母公司IPO定价直接击穿预期上限。Anthropic官方宣布将纳斯达克上市发行价定为每股83美元，超出原定70至78美元的价格区间，代码为「ANT」，预计于11月19日正式挂牌交易、11月20日完成交割，美股历史上纯正的大模型第一股即将接受二级市场检验。",
+      "reads": "61万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "ChatGPT官方宣布听写功能变得更快、更可靠，Live Dictation可在说话时实时转录，减少用户等待整条语音转完的时间。",
-        "OpenAI员工Vaibhav Srivastav称其为巨大的生活质量（QoL）升级，实测转写完全能跟上说话速度，不再出现丢字漏句。",
-        "OpenAI总裁Greg Brockman转发称，语音是非常好的电脑与应用使用方式，实时听写让人机交互的人机工学体验更进一步。"
+        "本次共发行9.8亿股A类普通股，其中公司自售超9.56亿股，老股东售出约2365万股，总募资规模测算达813亿美元，较原区间上限溢价超26%",
+        "Anthropic不从股东套现中抽成，并赋予承销商30天内最多额外购买1.47亿股的超额配售期权，相关声明已于11月18日获SEC批准生效",
+        "场外欢呼一夜暴富的同时，社区也开始出现担忧：上市面临华尔街盈利考核后，友好克制的Anthropic是否会为了讨好股东而走向模型降智或大幅涨价"
       ],
       "quote": {
-        "who": "Greg Brockman",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "语音感觉是操作电脑和应用更棒的方式，实时听写更是让体验顺手多了："
+        "said": "Anthropic 以每股 83 美元的价格售出了 9.8 亿股 A 类股，比价格区间上限高出 6%，总募资额约为 813 亿美元。 新增的 1.55 亿股全部来自公司本身，因此公司实际到手约 794 亿美元，而老股东持有的 2365 万股保持不变。 为期 30 天的承销商"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 6.8万 · 产品与生态] 说话即出字，干等转录成历史！ChatGPT上线实时听写，再也不丢字"
+      "line": "[榜第2位 · 61万 · 资本与算力] 打破78美元上限！Anthropic敲定83美元发行价，今夜冲进纳斯达克"
     },
     {
-      "title": "只要证件照加自拍？Claude被曝大开国防权限，Mythos与Opus 5.5全漏了",
-      "summary": "一张证件照加实时自拍，就能拿下 Anthropic 最顶级的防务级模型？有研究者爆料，原本门槛极高的 Claude Defense Access 个人极易申请，认证后权限徽章直接生效；更惊人的是，不仅 Mythos 5.2 和 Opus 5.5 等未官宣模型现身列表，爆料者还称 Opus 5.5 的安全护栏相当宽松。",
-      "reads": "7.0万",
+      "title": "为1亿平方英尺地球最大建筑摇人！马斯克发帖：急寻硬核工程师加入Terafab",
+      "summary": "号称要打造1亿平方英尺「地球最大建筑」的芯片工厂Terafab，正式开启招兵买马。马斯克发文高调喊话，急寻硬核工程师加盟；虽然他坦言该项目目前仍处在襁褓初期，但其首颗测试芯片的下线目标已直接锁死在2027年6月。",
+      "reads": "30万",
       "ago": "1 小时前",
-      "category": "政策与安全",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "爆料称申请防务通道仅需付费计划、有效证件照与实时自拍核验，独立研究者也能轻松拿下 Mythos 访问权限。",
-        "曝光的权限清单覆盖多款未发布版本，包括 Mythos 5.2 与 5.1、Opus 5.5 至 4.7 以及 Sonnet 5.5 和 5。",
-        "发帖者表示其账号徽章已正式生效，并在后续补充中直言 Opus 5.5 的安全对齐限制极其宽松。"
+        "马斯克发帖为芯片制造项目Terafab招募硬核工程人才",
+        "此前披露的设计规划显示，Terafab拟占地1亿平方英尺，建成后将是地球上最大的单体建筑",
+        "该项目首颗测试芯片的制造目标时间设定在2027年6月",
+        "马斯克表示Terafab今年早些时候才刚公布，目前显然仍处于非常早期的阶段"
       ],
       "quote": {
-        "who": "Chetaslua",
+        "who": "Elon Musk",
         "role": "",
-        "said": "顺便说一句，昨天 Opus 5.5 的安全护栏其实挺宽松的"
+        "said": "正在找硬核工程师加入 Terafab！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 7.0万 · 政策与安全] 只要证件照加自拍？Claude被曝大开国防权限，Mythos与Opus 5.5全漏了"
+      "line": "[榜第3位 · 30万 · 资本与算力] 为1亿平方英尺地球最大建筑摇人！马斯克发帖：急寻硬核工程师加入Terafab"
     },
     {
-      "title": "前OpenAI神童要杀回来了！携2.0版对冲基金找钱，继续杠杆押注AI",
-      "summary": "前 OpenAI 研究员 Leopold Aschenbrenner 正谋划重返牌桌。据英国《金融时报》披露，这位曾因 165 页万字长文爆火的分析师，正试图以「Situational Awareness 2.0」之名重启其 AI 对冲基金，目前已在接触多方投资者与主经纪商，洽谈筹集新资金并重返 AI 杠杆押注。",
-      "reads": "7.8万",
-      "ago": "1 小时前",
-      "category": "资本与算力",
+      "title": "一人一天狂烧2.5万美元Token！OpenAI披露智能体已接管46%科研",
+      "summary": "零人工辅助搞定近半科研任务、顶尖研究员单人单日狂烧 2.5 万美元 Token，OpenAI 官方披露的最新数据揭示了 AI 接管研发的惊人速度。智能体独立完成 2 至 4 小时复杂科研任务的比例已达 46%，较 3 月直接翻倍；随着前沿模型在数学领域突然出现跨越式突破，官方正紧密监测深度学习本身是否也将迎来同样的质变。",
+      "reads": "27万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "新基金计划沿用其标志性研究报告的名称，定名为「Situational Awareness 2.0」",
-        "已就募集新资本并重返 AI 杠杆押注，同多家机构投资者及主经纪商展开接触与洽谈",
-        "目前各项资金募集与基金重启谈判仍处于进行中状态"
+        "OpenAI 前 10% 的研究人员目前每天消耗高达 25,000 美元的 Token；第 90 百分位日均消耗约 23,000 美元，比 9 月猛增 10…",
+        "研究员使用 AI 智能体的日开销中位数为 2,400 美元，团队内部使用 AI 的频率依然呈指数级攀升。",
+        "智能体在零人工干预下独立搞定单次 2 到 4 小时科研任务的比例，在短短 8 个月内从 23% 翻倍飙升至 46%。",
+        "官方称人类目前依然处于科研的核心位置，研究人员正把更多时间转移到安全机制的构建与评估上。"
       ],
       "quote": {
-        "who": "unusual_whales",
+        "who": "will depue",
         "role": "",
-        "said": "据《金融时报》报道，Leopold Aschenbrenner 正试图将他的 AI 对冲基金重新定位为“Situational Awareness 2.0”。 这位前 OpenAI 研究员据报道已与投资者和主经纪商就筹集新资金及重返 AI 杠杆押注进行了洽谈"
+        "said": "做得真不错，值得一读。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 7.8万 · 资本与算力] 前OpenAI神童要杀回来了！携2.0版对冲基金找钱，继续杠杆押注AI"
+      "line": "[榜第4位 · 27万 · 模型与能力] 一人一天狂烧2.5万美元Token！OpenAI披露智能体已接管46%科研"
     },
     {
-      "title": "代码上线不是终点！谷歌祭出不下班的AI：盯指标跑沙箱，自己提PR改代码",
-      "summary": "以往编码智能体在代码发布那一步就交差收工，谷歌要把这根链条直接延到生产环境。Google Labs 推出实验性产品智能体 Stitch Loop，主打在产品上线后继续运转：它实时盯着线上真实数据，一旦发现指标异常，就会在沙箱里跑通修复方案并自动提交 PR 等待人类审批，让后续迭代全部奔着实际结果去。",
-      "reads": "12万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
+      "title": "一个月塞进22万张GB300！马斯克曝SpaceX算力狂飙：明年底月增1GW",
+      "summary": "SpaceX正以每月约0.5GW的速度疯狂铺设地面AI算力，粗略折算相当于每月堆进22万块英伟达GB300！马斯克在最新视频表态中披露了这一恐怖节奏，并定下目标：2027年底前要做到每月上线超1GW算力。面对行业追赶，他直接放话：全球根本找不出第二家能做到这速度。",
+      "reads": "15万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "打破传统 Coding Agent 以提交 PR 为终点的惯例，Stitch Loop 定位为面向最终业务结果的 product agent，在软件正式上线…",
-        "底层基于 Gemini 4 Carbon 与 CodeMender 驱动，负责全天候监控生产环境的实时业务与系统指标。",
-        "排查到问题后由智能体在独立沙箱中测试修复方案，验证通过后再向开发者发起 PR，合并权限始终由人工把控。",
-        "支持用户围绕自身业务目标自主搭建迭代循环，摆脱纯手工盯盘与写补丁的重复劳动。"
+        "每月0.5GW是直接按电厂级功率口径衡量，马斯克强调电厂供电才是死穴，测算时已把部分涡轮停机、峰值冷却负载等损耗全部打满。",
+        "每月的算力增量除了约22万块GB300芯片本身，还包含必须同步点亮的配套CPU、集群网络以及整体散热冷却设施。",
+        "被问及行业里是否还有其他机构能以每月0.5GW的节奏上线先进AI算力时，马斯克自问自答给出了干脆的宣判：「没有」。"
       ],
       "quote": {
-        "who": "Google",
+        "who": "Wall St Engine",
         "role": "",
-        "said": "现在的编码智能体在代码上线后就停了。Stitch Loop 是 @GoogleLabs 的一个新实验，它在发布后继续工作。 利用 Gemini 4 Carbon 和 CodeMender，它监控实时指标，在沙箱中测试修复方案，并为你打开 PR 以供批准——所有这些都与你的目标挂钩。加入"
+        "said": "Elon Musk 表示 SpaceX 的目标是在 2027 年底前每月上线超过 1 GW 的地面 AI 算力。 目前的节奏是每月约 0.5 GW，相当于大约 22 万块 Nvidia GB300 加上 CPU、网络和冷却系统，按电厂级别衡量。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 12万 · 产品与生态] 代码上线不是终点！谷歌祭出不下班的AI：盯指标跑沙箱，自己提PR改代码"
+      "line": "[榜第5位 · 15万 · 资本与算力] 一个月塞进22万张GB300！马斯克曝SpaceX算力狂飙：明年底月增1GW"
     },
     {
-      "title": "站在世界里边逛边改！谷歌Genie 4突袭上线，带原生音频与专属AI搭子",
-      "summary": "Google DeepMind最新世界模型Genie 4正式登陆Project Genie，不仅支持单句生成带角色和原生音频的交互式虚拟世界，还能让用户身处其中实时边逛边修改。系统还同步内置了协作智能体，能在探索中与创作者交流创意并辅助打磨虚拟世界。",
-      "reads": "7.9万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
+      "title": "连财务的活都要抢！OpenAI突发ChatGPT会计版：月末对账审计全包了",
+      "summary": "月底通宵做表平账的打工人，这次真被 AI 盯上了。OpenAI 今天凌晨正式推出「ChatGPT 会计版」（ChatGPT for Accounting），借助全新专属插件以及对账工具联动，直接接管月末对账、报表汇总等繁重手工活；联合创始人兼总裁 Greg Brockman 也第一时间转发力挺。",
+      "reads": "10万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "支持原生音频与实时动态编辑，生成的虚拟世界包含生动角色与细节，用户可在漫游探索过程中即时更改环境",
-        "具备多场景生成与即时跃迁能力，可推开门直接通往火星或深海、近距离观察蚁群运转与机器人工作，或生成带解说员现场旁白的滑雪竞速",
-        "支持跨模态场景构想与延展，用户上传一张单品照片，模型即可直接构建出与其匹配的完整品牌门店空间",
-        "全新上线的Project Genie智能体作为常驻协作者，能在创作者没有思路时一起推敲想法，协助寻找最适合该世界的构建方案"
+        "推出专属 Accounting 插件及第三方合作伙伴插件，核心目标是大幅减少财务关账时的手动操作。",
+        "覆盖场景精准锁定财务痛点：包含月末结账报告、银行对账、日常数据录入以及审计前准备。",
+        "全面打通主流外部财务生态，官方已点名支持联动 QuickBooks 等工具协同干活。",
+        "OpenAI 总裁 Greg Brockman 转发官方动态并直言，这就是为会计领域一切事务打造的专用版 ChatGPT。"
       ],
       "quote": {
-        "who": "Google DeepMind",
+        "who": "Greg Brockman",
         "role": "",
-        "said": "Genie 4 现已在 Project Genie 中上线。 它带来了原生音频、实时编辑功能，以及一个新的 AI 智能体，助你打造交互式虚拟世界。"
+        "said": "ChatGPT 搞定所有会计事务："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 7.9万 · 模型与能力] 站在世界里边逛边改！谷歌Genie 4突袭上线，带原生音频与专属AI搭子"
+      "line": "[榜第6位 · 10万 · 产品与生态] 连财务的活都要抢！OpenAI突发ChatGPT会计版：月末对账审计全包了"
     },
     {
-      "title": "老电脑彻底被判死刑？Win11被曝新安全大招：不满足TPM或直接禁跑游戏",
-      "summary": "老旧电脑或绕过检测强刷 Win11 的用户可能真要遭殃了。微软被曝正在为 Windows 11 开发一项全新的底层安全功能：一旦设备不满足 TPM 2.0、安全启动或内存完整性等安全要求，系统可能会直接阻止应用与游戏运行，能否破例放行将由开发者自行决定。",
-      "reads": "3.4万",
-      "ago": "1 小时前",
-      "category": "政策与安全",
+      "title": "5个月抢出1年进度！OpenAI模型联手AMD改芯片，功耗性能白捡14%",
+      "summary": "AI正在亲手设计跑自己的芯片。OpenAI联手AMD投下一枚重磅炸弹：用模型在不到5个月里，在AMD工程师优化多年的旗舰GPU IP上再次榨出最高14%的PPA（性能、功耗、面积）改进，相当于凭空抢出额外一年的芯片研发进度。",
+      "reads": "37万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "系统核心核验项包括 TPM 2.0、安全启动（Secure Boot）以及内存完整性（Memory Integrity）。",
-        "该机制把最终通行权限交给软件与游戏开发商，由开发者自行裁定是否允许未达标设备启动。",
-        "该功能目前仍处于开发推进阶段，微软尚未发布正式官方说明，具体拦截力度与上线节点仍存在变数。"
+        "Greg Brockman透露这在芯片设计前沿堪称前所未有，部分优化成果已直接包含在近期流片的设计中。",
+        "同一套模型优化方法还被同步用在OpenAI首款定制推理芯片Jalapeño上，各项收益均已验证落地。",
+        "OpenAI团队内部透露，该突破正是由GPT-6.2 Astra主导完成，展现出硬核工业任务上的断层级实力。"
       ],
       "quote": {
-        "who": "Pirat_Nation 🔴",
+        "who": "Tibo",
         "role": "",
-        "said": "Microsoft 正在开发一项新的 Windows 11 安全功能，如果你的 PC 不满足特定的安全要求，它可能会阻止应用和游戏运行。 该系统会检查 TPM 2.0、Secure Boot 和内存完整性等。开发者随后将决定是否允许你使用"
+        "said": "GPT-6.2 Astra 在处理高难度任务上表现相当不错。团队在这里分享了一些关于 AMD 和 Jalapeño 芯片优化的结果。 我确实收到了关于它沟通风格的反馈，我们正在改进这一点，但对于世界上真正最难的任务来说，它似乎确实处于另一个级别"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 3.4万 · 政策与安全] 老电脑彻底被判死刑？Win11被曝新安全大招：不满足TPM或直接禁跑游戏"
+      "line": "[榜第7位 · 37万 · 模型与能力] 5个月抢出1年进度！OpenAI模型联手AMD改芯片，功耗性能白捡14%"
     },
     {
-      "title": "网红和大众体感两极分化？OpenAI揭秘：发布前几天连夜大改，提前测评早过时了",
-      "summary": "刚上线的 GPT-6.2 Sol 与 Astra 出现口碑两极分化，围观群众惊艳而首批 KOL 反应平平，真相居然是提前测试的早期版本过了期。负责 Codex 与 ChatGPT 的 OpenAI 研究员 Tibo 解释，给少数人提测后团队在最后三四天做过大量调整，在此期间根本没人重新跑过测试；实测更显示 6.2 Astra 的额度消耗速度大幅降至旧版的约四分之一。",
-      "reads": "27万",
-      "ago": "8 小时前",
-      "category": "模型与能力",
+      "title": "脑机接口植入突破30人！马斯克曝最新进展：患者用意念操控机械臂吃饭",
+      "summary": "马斯克脑机接口植入规模已突破30人，部分受试者甚至已能通过意念配合机械臂自主进食。马斯克在访谈中透露了这项技术的商业化前瞻进展，并强调非常有信心最终能帮脊髓损伤患者彻底恢复自主行走能力。",
+      "reads": "13万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "OpenAI 语音负责人 Ananth 透露，Tibo 认为 6.2 系列相较旧版 GPT 已是巨大提升，团队还想在模型品味上进一步打磨，预计下一代 GPT…",
-        "多位拿到测试权限的用户指出，GPT-6.2 在发布前最后一刻仍有肉眼可见的大幅改善，其中 6.2 Sol 在 ultraspeed 模式下响应极快。",
-        "针对额度消耗，有开发者在同等任务下对比测试发现，GPT-6.2 Astra 消耗的配额仅为 6 Astra 的四分之一左右，若后续保持将极大摊薄日常任务成本…"
+        "目前全球已有超过30人成功植入 Neuralink 脑机接口设备。",
+        "部分受试者已能熟练通过神经信号控制机械臂完成抓取食物等进食动作。",
+        "马斯克重申长期预期，称该技术最终将有能力修复受损神经信号通路，让瘫痪患者重新站立行走。",
+        "马斯克还顺带披露了基建团队细节，戏称内部部分顶尖数据中心建设者其实来自美式快餐店 In-N-Out，因为能把汉堡做到极致的人拉起网络线缆来同样极其出色。"
       ],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "Fireside Alpha",
         "role": "",
-        "said": "我前阵子也拿到了 6.2 Astra 和 Sol 的权限。不像那些“网红”，我测到发布前的最后一刻都没停过。我看到了它们惊人的进步，这些模型真的太强了！ 就像 Tibo 说的，也试试 6.2 Sol 的 ultraspeed 模式吧，快得离谱！"
+        "said": "Elon Musk 透露现在有超过 30 人植入了 Neuralink，有些人用它配合机械臂进食，他确信这最终能让脊髓损伤患者重新行走 \"是的。顺便说一下，Neuralink 显然是一家私营公司，正如你提到的那样，远远……\""
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 27万 · 模型与能力] 网红和大众体感两极分化？OpenAI揭秘：发布前几天连夜大改，提前测评早过时了"
+      "line": "[榜第8位 · 13万 · 产品与生态] 脑机接口植入突破30人！马斯克曝最新进展：患者用意念操控机械臂吃饭"
     },
     {
-      "title": "模拟套模拟成真！谷歌世界模型Genie 4正式可用，物理推理音频一把抓",
-      "summary": "DeepMind 新一代世界模型 Genie 4 今天凌晨正式上线，直接把实时物理、推理和原生音频揉进了同一个交互空间。CEO Demis Hassabis 感叹这简直是深不见底的「模拟套模拟」，目前符合条件的 Ultra 订阅用户已能在 Project Genie 体验。你不光能一句话拉出可探索的火星或海底，还能站在世界内部边逛边改细节。",
-      "reads": "3.2万",
+      "title": "汉堡大师转行拉网线！马斯克曝最牛数据中心团队来自In-N-Out",
+      "summary": "整天做顶级汉堡的快餐能手，拉起数据中心网线来也是一把好手。马斯克透露，自己手下最拔尖的一批数据中心建设者，不少居然直接来自美式快餐连锁 In-N-Out，同时队伍正由自建内部团队与承包商协同推进。",
+      "reads": "14万",
       "ago": "2 小时前",
-      "category": "模型与能力",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "整合实时物理、逻辑推理与音频生成，支持用户在漫步世界的同时动态修改角色外观、环境音效与具体细节。",
-        "内置 Project Genie agent 伴随式助手，能在交互探索卡壳时提供协同构想。",
-        "演示包含近距离观察蚁群运转、机器人作业视角、带解说的雪道俯冲，甚至上传一张单品照片就能自动生成相配的整间店铺。"
+        "马斯克直言，整天制作史诗级汉堡的高手，搞定网络线缆的活儿同样能干得漂漂亮亮。",
+        "数据中心建设正依靠内部自建团队配合外部承包商共同推进，而非单纯依赖外包。",
+        "晶圆厂项目 TeraFab 进展顺利，研究性晶圆厂预计将率先投入运营。",
+        "TeraFab 计划于 2027 年 6 月左右试制首块测试芯片，并希望在 2028 年底逼近大规模量产。"
       ],
       "quote": {
-        "who": "Demis Hassabis",
+        "who": "Fireside Alpha",
         "role": "",
-        "said": "Genie 4 上线了！看来真是套娃到底……符合条件的 Ultra 订阅用户可以在 Project Genie 里试试——很期待看看你们能拿它造出什么。更多详情见博客： https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ …"
+        "said": "Elon Musk 透露他最好的数据中心建设者中有些来自 In-N-Out，因为整天“制作史诗级汉堡”的高手“肯定能把网线搞定得漂漂亮亮” \"然后我们还有一个内部团队，不只是承包商。我们也有承包商，但我们有一个内部……\""
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 3.2万 · 模型与能力] 模拟套模拟成真！谷歌世界模型Genie 4正式可用，物理推理音频一把抓"
+      "line": "[榜第9位 · 14万 · 资本与算力] 汉堡大师转行拉网线！马斯克曝最牛数据中心团队来自In-N-Out"
     },
     {
-      "title": "给10亿人硬塞开源智能体！Telegram内置Agent曝光，竟跑在爱马仕上",
-      "summary": "Telegram要给全球超10亿用户直接配上开源智能体了！最新macOS测试版被曝内置代号为「Dictator」的AI Agent框架，内部疑似直接运行在开源实验室Nous Research的明星项目Hermes Agent之上。界面里不仅已经能看到漂浮的吉祥物小鸭子Utya，还传出将配备专属虚拟机并支持多模型与插件切换，Nous Research官方随后也默默转发了这则爆料。",
-      "reads": "2.2万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
+      "title": "1336分直冲Agent榜第二！谷歌Gemini 4 Neon上线，连自家旗舰都超了",
+      "summary": "谷歌Gemini 4家族又有新动作，介于Carbon和Hydrogen之间的Gemini 4 Neon正式开始推送，专攻复杂软件工程、知识工作与科学任务。在权威评测机构Arena的Agent榜单上，Neon (High) 基于4200个真实智能体会话斩获1336分，不仅冲上总榜第2重塑帕累托前沿，甚至反超了自家排名第4的Carbon。",
+      "reads": "22万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "爆料显示该智能体框架名为「Dictator」，已在Telegram macOS测试版秘密开发数周，最新beta中已现身Utya AI界面",
-        "技术架构上疑似基于开源的Hermes Agent打造，具备独立专属VM，并计划支持接入不同模型与插件",
-        "若该功能最终全量推送，Telegram覆盖的10亿以上活跃用户将零门槛接入开源AI智能体生态"
+        "在Agent Arena最新指数中，Gemini 4 Neon (High) 以1336分冲上总榜第2，直接超越了拿下1303分、位列第4的自家旗舰Carb…",
+        "官方将其定位在Carbon与Hydrogen之间，核心卖点是在科研和复杂工程场景下兼顾顶尖智能与高速交付任务的能力",
+        "第三方社区实测指出，Gemini 4 Neon在多项测试中展现出极强战力，与Opus 5.5和GPT-6.2 Sol正面对决时处于全面上风",
+        "业内分析认为谷歌正以极快节奏重排阵型，形成Carbon主攻超前峰值、Neon卡位硬核工程、Hydrogen兼顾通用落地的密集矩阵"
       ],
       "quote": {
-        "who": "Nous Research",
+        "who": "Ejaaz",
         "role": "",
-        "said": ""
+        "said": "天哪 google 正在碾压竞争对手 - 20天内第3个大模型： - Carbon 4 与 fable 和 gpt 6.2 竞争。目前排名第3（很接近） - Neon 与 Opus 和 terra 竞争 - Hydrogen 与 sonnet 和 luna 竞争（我认为它是第一） 这还没算上 Flash, Decision"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 2.2万 · 产品与生态] 给10亿人硬塞开源智能体！Telegram内置Agent曝光，竟跑在爱马仕上"
+      "line": "[榜第10位 · 22万 · 模型与能力] 1336分直冲Agent榜第二！谷歌Gemini 4 Neon上线，连自家旗舰都超了"
     },
     {
-      "title": "27秒干翻近6分钟！Meta新杀器Muse Ember登顶，全维度碾压GPT-6和Claude",
-      "summary": "单个任务仅耗时27秒，直接把对手甩开数倍！在Arena.ai针对真实生产力环境的高效模型评测中，Meta推出的Muse Ember一举拿下第一，Ember (Max)在全维度领先OpenAI的GPT-6 Luna (Max)与Anthropic的Claude Haiku 5.5 (High)。Meta首席AI官Alexandr Wang随即转发直呼「frame mogging」…",
-      "reads": "4.8万",
-      "ago": "3 小时前",
+      "title": "谷歌官宣Gemini 4 Neon：前沿智力配极速端到端，总榜冲进全球前三",
+      "summary": "主打前沿智能与快速端到端任务完成，Google今晨正式发布Gemini 4 Neon，正面迎战复杂编程、知识工作与科学工作流。新模型一出炉便冲上榜单前列，在Artificial Analysis智能指数xhigh档位总排名第三，并在Vals测试斩获第二。",
+      "reads": "23万",
+      "ago": "4 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "任务耗时差距显著：Meta Muse Ember仅需27秒，Anthropic的Claude Haiku 5.5耗时1.9分钟，OpenAI的GPT-6 L…",
-        "Arena.ai评测显示，Ember (Max)在所有衡量维度上均领先于GPT-6 Luna (Max)与Claude Haiku 5.5 (High)，成…"
+        "谷歌官方将Gemini 4 Neon定位为兼顾前沿智力与极速端到端执行的新一代工作流利器，重点强化复杂代码工程、知识密集型任务和科研计算。",
+        "在基准评测方面，该模型在Artificial Analysis Intelligence Index的xhigh设置下位列总榜第3，官方称其成绩领先同级别竞…",
+        "社区围绕榜单名次展开激烈讨论，有开发者认为AI三强排位已提前演变为谷歌、Anthropic与OpenAI，甚至对现役顶尖旗舰是否真被赶超提出了质疑。"
       ],
       "quote": {
-        "who": "Alexandr Wang",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "身材碾压"
+        "said": "总结一下，我觉得目前的格局是这样的： 🥇 Google 🥈 Anthropic 🥉 OpenAI 我原以为要到十二月才会看到这种局面。太疯狂了。我仍然严重怀疑 Opus 5.5 是否真的被超越了。 🤔"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 4.8万 · 模型与能力] 27秒干翻近6分钟！Meta新杀器Muse Ember登顶，全维度碾压GPT-6和Claude"
+      "line": "[榜第11位 · 23万 · 模型与能力] 谷歌官宣Gemini 4 Neon：前沿智力配极速端到端，总榜冲进全球前三"
     },
     {
-      "title": "改代码凭啥默认给外网？OpenAI给Codex戴上紧箍咒：文件网络权限全由你定",
-      "summary": "模型越强越不能放任它在本地裸奔！OpenAI开发者团队正式推出Codex沙盒（Codex sandbox），核心原则很明确：一条只是编辑代码仓库的命令，绝不能自动获得联网权限。现在Codex可以直接在你的现有环境中运行命令，但具体能碰哪些文件、能不能访问网络，边界全由开发者自己掌控。",
-      "reads": "2.7万",
+      "title": "皮查伊凌晨突击发大招！Gemini 4 Neon空降全球第三，价格怒砍六成",
+      "summary": "皮查伊在11月19日凌晨突然端出新一代Gemini 4 Neon，主打高智力复杂工程与科研流。在权威独立评测机构Artificial Analysis全球智能榜上，它以61分直接冲上总榜第三，输入输出分别只要3美元和15美元，价格直接把GPT与Claude旗舰砍掉大半。付费订阅与API即日起已全线推送。",
+      "reads": "6.9万",
       "ago": "2 小时前",
-      "category": "产品与生态",
+      "category": "模型与能力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "皮查伊亲自宣布开始在Google AI Studio的Gemini API、企业版Gemini，以及付费版Google AI Pro和Ultra中逐步推出。",
+        "在第三方权威机构Artificial Analysis的Intelligence Index（xhigh模式）跑出61分位列全球第3，仅排在大尺寸慢速旗舰之…",
+        "社区实测与评测数据显示其长上下文GraphWalks 256K-1M取得95.2%，科学领域Terminal-Bench-Science达70.5%，Cur…",
+        "不少业内开发者惊呼谷歌不到一个月连续4次发布前沿模型，甚至怀疑谷歌内部可能已经摸到了递归式自我改进（RSI）的临界点。"
+      ],
       "quote": {
-        "who": "OpenAI Developers",
+        "who": "宝玉",
         "role": "",
-        "said": "随着模型能力越来越强，限制它们能访问什么就变得更重要了。一个编辑你仓库的命令不应该自动获得网络访问权限。 Codex 沙箱让 Codex 能在你现有的环境中运行命令，同时受限于你控制的文件系统和网络边界。"
+        "said": "谷歌发布 Gemini 4 Neon：独立评测排第三，价格不到 GPT、Claude 旗舰的四成，Pro 和 Ultra 订阅用户今天起能用 谷歌 11 月 18 日发布大模型 Gemini 4 Neon。在独立评测机构 Artificial Analysis 的综合智能指数上，Neon 得 61 分，总排名第三，只排在 OpenAI 的 GPT-6.2 Astra 和 Anthropic 的"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 2.7万 · 产品与生态] 改代码凭啥默认给外网？OpenAI给Codex戴上紧箍咒：文件网络权限全由你定"
+      "line": "[榜第12位 · 6.9万 · 模型与能力] 皮查伊凌晨突击发大招！Gemini 4 Neon空降全球第三，价格怒砍六成"
     },
     {
-      "title": "100亿美元砸向Anthropic！英伟达被曝巨资扫货，算力闭环锁死了",
-      "summary": "100亿美元现金砸向Anthropic，英伟达被曝正筹划一笔罕见的巨额股权投资。金融快讯传出英伟达将斥资百亿美元买入Anthropic股份，坊间更传闻该认购可能锁定在Anthropic推进IPO的节点。左手卖算力芯片、右手重仓闭源顶流，这笔惊人绑定立刻引发热议，被业内调侃为「闭源模型配闭环生态」。",
-      "reads": "19万",
-      "ago": "8 小时前",
-      "category": "资本与算力",
+      "title": "放纯静态页面也中招！NGINX曝严重预认证RCE，波及7420万网站",
+      "summary": "纯静态服务器也能被直接拿权限！Web服务器基石NGINX突曝严重预认证远程代码执行漏洞，攻击者无需登录即可执行任意代码，网络扫描器 Censys 监测到全球有 7420 万个网站运行受影响版本。目前漏洞利用代码已公开，虽暂未发现实际攻击，但在打上补丁前，只要开启 HTTP/2 就处于高危状态。",
+      "reads": "20万",
+      "ago": "5 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "金融快讯披露英伟达拟出资100亿美元买入Anthropic股份，传闻该笔交易或与Anthropic未来的公开募股（IPO）进程绑定。",
-        "巨额投资传闻在社区引发强烈讨论，外界聚焦英伟达此前对开放模型的表态与此次百亿美元重仓闭源领头羊之间的巨大反差。"
+        "核心诱因在于开启了 HTTP/2 协议，攻击者哪怕面对仅提供静态文件的服务器，无需任何账号密码也能远程注入并运行自己的代码。",
+        "Censys 扫描显示全球有 7420 万个网站运行受波及的 NGINX 版本，但官方指出并非所有实例都具备可利用条件。",
+        "该漏洞的利用代码目前已公开，业内尚未监测到针对该漏洞的真实攻击发生。",
+        "官方已在 1.31.9 和 1.30.7 版本中推出修复补丁，无法立即升级的服务端可通过临时关闭 HTTP/2 阻断风险。"
       ],
       "quote": {
-        "who": "LayoffHedge",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": ">be Nvidia >创始人经营这家公司 33 年 >他开始吹捧开放模型 >突然他就出局了 >在消息披露前 2 天，签署协议以 IPO 价格收购 100 亿美元的 Anthropic >闭源模型，闭环"
+        "said": "‼️ 更新：互联网扫描器 Censys 发现7420万个网站运行着受今日代码执行漏洞影响的 NGINX 版本。 并非所有都易受攻击。最严重的漏洞需要开启 HTTP/2，且利用代码已公开。 目前尚未报告有攻击发生。已在 1.31.9 和 1.30.7 中修复。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 19万 · 资本与算力] 100亿美元砸向Anthropic！英伟达被曝巨资扫货，算力闭环锁死了"
+      "line": "[榜第13位 · 20万 · 政策与安全] 放纯静态页面也中招！NGINX曝严重预认证RCE，波及7420万网站"
     },
     {
-      "title": "谷歌Gemini 4 Neon偷跑上线Vertex！主打快速推理，逼近旗舰Carbon",
-      "summary": "谷歌全新快速推理模型Gemini 4 Neon已被曝悄悄上线GCP Vertex AI模型目录，并在全球端点直接标记为GA可用。爆料信息显示，该模型基于Gemini 4 Hydrogen构建，核心瞄准代码、复杂推理与生产级Agent场景，在提供更低成本与更快响应速度的同时，输出质量直逼旗舰Gemini 4 Carbon。",
-      "reads": "2.3万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "title": "方向盘踏板全砍掉！马斯克透露将推纯自动驾驶版Model Y，专为4到6人全家出行设计",
+      "summary": "特斯拉正计划彻底拆掉 Model Y 里的方向盘和踏板，打造一款纯粹的完全自动驾驶汽车。据博主转述马斯克最新表态，他认为自动驾驶载具必须覆盖不同载客规模，当乘客达到 4 到 6 人甚至整个家庭集体出行时，市场同样需要一款空间更大的全自动驾驶车辆。",
+      "reads": "7.1万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "定价策略同步曝光，gemini-4-neon在Vertex全球端点调用费用为每100万token输入3美元、输出15美元。",
-        "该模型目前仅在GCP Vertex AI上线并提供服务，面向开发者的Gemini API（AI Studio）模型列表暂未同步列出。"
+        "特斯拉将推出不配备方向盘和脚踏板的 Model Y 完全自动驾驶版本",
+        "马斯克表示制造能容纳不同人数的无人车很有必要，新车旨在覆盖 4 人、6 人及家庭群体的自动驾驶出行场景"
       ],
       "quote": {
-        "who": "🚨 AI News | TestingCatalog",
+        "who": "Sawyer Merritt",
         "role": "",
-        "said": "GOOGLE 🔥：Gemini 4 Neon 现已上线 GCP Vertex AI 模型花园！ > “Gemini 4 Neon 是我们的快速推理模型，在编码、推理和生产级 AI 智能体方面，以更快的速度和更低的成本，将质量提升至接近 Gemini 4 Carbon 的水平。” > “Gemini 4 Neon 基于 Gemini 4"
+        "said": "Elon 表示 @Tesla 将推出一款完全自动驾驶的 Model Y，没有方向盘或踏板： “制造能容纳不同人数乘客的汽车对我们来说是有意义的。如果你有 4 个、6 个人或者一整个家庭，你仍然需要自动驾驶车辆。我们……”"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 2.3万 · 模型与能力] 谷歌Gemini 4 Neon偷跑上线Vertex！主打快速推理，逼近旗舰Carbon"
+      "line": "[榜第14位 · 7.1万 · 产品与生态] 方向盘踏板全砍掉！马斯克透露将推纯自动驾驶版Model Y，专为4到6人全家出行设计"
     },
     {
-      "title": "上市前夕后院起火！安全圈与e/acc罕见结盟，联名签署反Anthropic声明",
-      "summary": "Anthropic上市前夕没等来掌声，反而迎来了全AI圈的罕见倒戈。AI安全中心（CAIS）牵头集结了AI安全、开源社区、加速主义（e/acc）、学界与法律界代表，跨阵营联合签署《MisAnthropic 声明》，直斥其假借「为了人类更大福祉」的借口疯狂揽权，根本算不上安全公司。",
-      "reads": "2.4万",
-      "ago": "2 小时前",
-      "category": "政策与安全",
+      "title": "马斯克曝Grok 4.8已开测：几个变体同场赛马，谁能转正还没定",
+      "summary": "Grok 4.8已经悄然进入测试阶段，而且内部同时跑着好几个不同的模型变体。马斯克亲自发推透露，目前该模型正处于多变体Beta实测期，至于最终挑选哪一个变体推向正式大范围发布，团队现在也还没拿定主意。",
+      "reads": "3.4万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
       "source": "新智元",
-      "bullets": [
-        "伯克利统计学教授 Will Fithian 公开签署并表态，称自己有三个年幼的孩子，绝不接受任何明知危及后代生命与未来的冠冕托词。",
-        "免疫学教授 Derya Unutmaz 签字声援，表示强烈认同声明定性，必须坚决抵制 Anthropic 打着公共利益旗号鲁莽谋求权力的举动。",
-        "开源模型研究者 Nathan Lambert 称自己曾认真考虑加入，虽然觉得这份声明措辞过于激烈而未签字，但也直言 Anthropic 确实极具权力野心且未…",
-        "该行动已上线专属签署站点 misanthropicstatement.com，面向全网开放签名。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "Elon Musk",
         "role": "",
-        "said": "我也签署了这份 MisAnthropic 声明，因为我强烈认同以下观点： “Anthropic 不是一家安全的 AI 公司，我们必须拒绝它打着为了更大利益旗号疯狂积累权力的行径。” 我长期以来一直认为 Anthropic 是最危险且"
+        "said": "“Grok 4.8”目前处于测试阶段，包含几个不同的模型变体。我们还不确定哪个变体会正式发布。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 2.4万 · 政策与安全] 上市前夕后院起火！安全圈与e/acc罕见结盟，联名签署反Anthropic声明"
+      "line": "[榜第15位 · 3.4万 · 模型与能力] 马斯克曝Grok 4.8已开测：几个变体同场赛马，谁能转正还没定"
     },
     {
-      "title": "OpenAI双模型深夜突袭！GPT-6.2 Astra携Sol上线，真实世界硬刚Fable",
-      "summary": "OpenAI突然端出GPT-6.2 Astra与GPT-6.2 Sol两款新模型，主打超高效率与真实世界落地能力。尽管此前社区对Astra预期苛刻甚至出现不少唱衰声，但实测显示日常跨数据中心管服务器、排查故障、修Bug均已顺利搞定。",
-      "reads": "3.2万",
+      "title": "张口就要10吉瓦！Anthropic被曝找SpaceX租算力，马斯克直呼不太可能",
+      "summary": "Anthropic为了庞大的算力缺口，居然把主意打到了老对手马斯克头上。马斯克在访谈中透露，Anthropic曾告诉他最可能的结果是从SpaceX租用额外10吉瓦的算力，甚至还想要显著更多；但老马紧接着就泼了冷水，称自己认为他们不太可能真的这么做。双方目前并未确认任何协议。",
+      "reads": "6.1万",
       "ago": "3 小时前",
-      "category": "模型与能力",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "在Code Arena WebDev实测中，GPT-6.2 Astra (Max)以1781分位列第三，比上一代提升18分；GPT-6.2 Sol (Max…",
-        "Terminal Bench Science基准测试显示，Astra在工程（85.2%对66.7%）和地球科学（95.8%对70.8%）两个学科大幅领先Fa…",
-        "业内评测指出，社区前期对Astra评价偏严苛，主要因大家长期习惯了Fable 5.2的体验基准，但放在当下应对绝大多数日常工程开发已足够充裕"
+        "10吉瓦相当于近十座大型核反应堆的输出功率，大模型军备竞赛对能源和算力的饥渴程度已达到前所未有的量级。",
+        "整起交涉目前仅停留在马斯克的单方口头转述，Anthropic和SpaceX官方均未宣布达成任何正式算力租赁订单。",
+        "马斯克还顺带提及了SpaceX与特斯拉合并的传闻，称两者合在一起「大概会更好」，但这需要股东投票，自己不能冒着被起诉的风险强推。"
       ],
       "quote": {
-        "who": "Arena.ai",
+        "who": "Fireside Alpha",
         "role": "",
-        "said": "@OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 在 Code Arena: WebDev 的真实世界成绩出炉，两者都登上了帕累托前沿！ - 第 3 名，1781 分：GPT-6.2 Astra (Max) - 第 7 名，1757 分：GPT-6.2 Sol (Max) GPT-6.2 Astra：第 3 名，1781 分 - 比上一代高 18 分"
+        "said": "Elon Musk 透露 Anthropic 告诉他最可能的结果是向 SpaceX 租用额外 10 吉瓦的算力，并表示 Anthropic 想要更多 \"我认为他们不太会这样做。当我与 Anthropic 交谈时，他们告诉我这是……\""
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 3.2万 · 模型与能力] OpenAI双模型深夜突袭！GPT-6.2 Astra携Sol上线，真实世界硬刚Fable"
+      "line": "[榜第16位 · 6.1万 · 资本与算力] 张口就要10吉瓦！Anthropic被曝找SpaceX租算力，马斯克直呼不太可能"
     }
   ],
   "board_count": 16,
