@@ -3,15 +3,86 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-20 05:25:05 +0800",
+  "fetched_at": "2026-11-20 11:03:05 +0800",
   "today": "11/20",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "少数Plus用户测上dots了，ChatGPT新手机端还能置顶Codex",
+      "summary": "少数 ChatGPT Plus 用户已经测上 dots 了，后续还要带给所有人。OpenAI 负责 Codex 与 ChatGPT 的 Tibo 透露，经过多次改进，dots 近期围绕主动性的正面反馈明显增多。ChatGPT 新版手机端也先从拥有或可创建 Dot 的 Pro 用户起步，Dot 有专属标签页还能置顶 Codex。",
+      "reads": "39万",
+      "ago": "53 分钟前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 表示随着 dots 测试范围扩大，团队还会继续收集用户的后续反馈",
+        "新版 ChatGPT 移动端体验旨在让用户更容易直达常用功能，并发现更多可玩用法",
+        "曝光的手机首页截图显示，界面带有早安问候、DHL 发布签核与 MUJI 订单卡片，底部配备麦克风和四宫格入口"
+      ],
+      "quote": {
+        "who": "Demis Hassabis",
+        "role": "",
+        "said": "哈哈别担心，我们依然爱你 Sholto，期待你的反馈。:)"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 39万 · 产品与生态] 少数Plus用户测上dots了，ChatGPT新手机端还能置顶Codex"
+    },
+    {
+      "title": "父亲走后仅几年那病就可治了，Anthropic CEO借IPO致辞吐露初心",
+      "summary": "Dario Amodei 和 Daniela 的父亲曾死于一种疾病，仅仅几年后那种病就变得可治愈，这段经历让他从生物学起步，希望能加速未来疗法。在 Anthropic 官方发布的首次公开募股致辞中，这位 CEO 直言创立公司源于「最强大技术应为全人类利益而打造」的信念，并呼吁所有人携手确保技术造福当代与后代。",
+      "reads": "44万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Dario Amodei 回忆自己在生物学实验室的经历时提到，科学家在试图理解疾病时面对着庞大的复杂迷宫。",
+        "致辞结尾强调「这一刻比任何一家公司、任何一个国家都更重要」，并邀请外界从今天起加入这一共同使命。"
+      ],
+      "quote": {
+        "who": "宝玉",
+        "role": "",
+        "said": "Anthropic 首席执行官 Dario Amodei 在公司首次公开募股 (IPO) 之际发表的致辞： 我和联合创始人当初创立 Anthropic，是因为我们坚信：这个时代最强大的技术，应当为了全人类的福祉而打造。 我和 Daniela（注：Dario 的妹妹，也是 Anthropic"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 44万 · 资本与算力] 父亲走后仅几年那病就可治了，Anthropic CEO借IPO致辞吐露初心"
+    },
+    {
+      "title": "苹果被曝自研AI接管电脑，还把ChatGPT开启步骤从4步拉到14步",
+      "summary": "苹果被曝正开发远超 Siri 的自主 AI 智能体，直接竞争 Meta Muse、ChatGPT Dots 和 Claude Code。彭博 Mark Gurman 称，新任 CEO John Ternus 正催促软件主管 Craig Federighi 加快 AI 步伐，不过项目还在早期，最快瞄准 2027 年底发布。",
+      "reads": "31万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "苹果招聘信息写明，该智能体要能「像人一样使用电脑」，覆盖设备控制、应用交互、网页浏览与编程，在浏览器、应用、终端和服务间切换并调试代码，还能自行决定调用哪些…",
+        "Gurman 同时指出，苹果在自研期间让竞争对手的智能体更难控制 Mac：macOS 27.3 中启用 ChatGPT 第三方 computer-use 支…",
+        "Midjourney、前 React 核心团队的 Cheng Lou 质疑，苹果本应是最不需要 computer use 的公司，却对「走廊那头队友做的自家…"
+      ],
+      "quote": {
+        "who": "Cheng Lou",
+        "role": "",
+        "said": "在所有公司中，Apple 应该是最不需要 computer use 的那家。你什么意思？你对自己应用内部的情况没有可见性，而那还是走廊那头队友做的应用 Computer use 很棒，但 Apple 这么做是典型的康威定律式企业病"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 31万 · 产品与生态] 苹果被曝自研AI接管电脑，还把ChatGPT开启步骤从4步拉到14步"
+    },
+    {
       "title": "PHP的php2shell补丁没防住，最新版仍可免登录跑代码，漏洞高达9.2分",
       "summary": "PHP 的 php2shell 漏洞修复已被研究人员绕过，无需登录即可再次在 Web 服务器上运行自己的代码。据 International Cyber Digest 报道，安全公司 depthfirst 称最新 PHP 版本仍受影响。投资人 Ejaaz 转发直呼，对任何手握武器的人来说，现在已是「狩猎季」。",
       "reads": "43万",
-      "ago": "56 分钟前",
+      "ago": "6 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -28,353 +99,267 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 43万 · 政策与安全] PHP的php2shell补丁没防住，最新版仍可免登录跑代码，漏洞高达9.2分"
-    },
-    {
-      "title": "Anthropic发IPO致辞，Dario聊起亡父遗憾并邀公众「加入使命」",
-      "summary": "Anthropic 官方发布 CEO Dario Amodei 的 IPO 发言，当中谈及他和 Daniela 早年失去父亲的往事。Dario 回顾，父亲死于一种几年后才可治愈的疾病，自己职业生涯起步于生物学、希望能让未来疗法更快到来；他称这一刻比任何公司或国家都大，呼吁所有人携手造福无数代人，并从今天起邀公众加入使命。",
-      "reads": "41万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "Dario 表示自己和联合创始人创办 Anthropic，是因为相信这个时代最强大的技术应当为了全人类的利益而打造。",
-        "回忆早年实验室经历时，Dario 提到曾看到科学家在试图理解疾病时面对的庞大复杂迷宫。",
-        "发言内容在 X 上被转引后，有发帖者称这段演讲大概率是写好的。"
-      ],
-      "quote": {
-        "who": "CG",
-        "role": "",
-        "said": "“Daniela 和我失去了父亲，他死于一种几年后变得可治愈的疾病。我职业生涯起步于生物学，希望能让未来的疗法来得更快些。在实验室里，我看到了科学家试图理解疾病时面对的庞大复杂迷宫，以及……”"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 41万 · 资本与算力] Anthropic发IPO致辞，Dario聊起亡父遗憾并邀公众「加入使命」"
-    },
-    {
-      "title": "不止Ultra独享了！谷歌世界模型Genie 4上线API，Pro用户开始放号",
-      "summary": "谷歌世界模型 Genie 4 正式接入 Gemini API 和 Google AI Studio，不少用户终于能头一回用 API key 实测。谷歌产品与开发者关系负责人 Logan Kilpatrick 称这是其首个面向开发者的世界模型；该模型此前仅限 Ultra 订阅，但爆料者晒出邮件称，Gemini Pro 用户的候补资格也已开始放号。",
-      "reads": "5.5万",
-      "ago": "55 分钟前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "谷歌已在 ai.studio/genie 开放试用入口，定位为供开发者构建并创造全新的世界模型体验。",
-        "爆料转述的功能描述片段显示，该模型支持实时键盘控制配合实时文本进行交互。",
-        "爆料账号晒出的邮件写明「你已退出候补名单，现可通过 Google AI Pro 订阅使用 Project Genie」，发帖者据此判断未来或将向所有 Pro…"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "Google 开始向 Gemini Pro 用户发送 Genie 4 的候补名单访问权限了！ > “你已退出候补名单！你现在可以通过 Google AI Pro 订阅使用 Project Genie。” 这是好消息，意味着它最终将对所有 Pro 用户开放。 Gemini"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 5.5万 · 产品与生态] 不止Ultra独享了！谷歌世界模型Genie 4上线API，Pro用户开始放号"
-    },
-    {
-      "title": "宁愿放弃40%队友也要保住智能体，OpenAI研究员中位日烧2400美元",
-      "summary": "中位研究员每天烧掉2400美元用AI智能体，101名研究员在假设调查中中位愿放弃40%团队三个月，以保住比GPT-5.2更强的编码智能体。OpenAI最新公开内部研究数据后，多位发帖者摘出这批数字，另有摘录称第90百分位日耗约2.3万美元Token、较9月增长105%；OpenAI则强调人类仍居研究核心。",
-      "reads": "64万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "有发帖者从同一材料中摘出，AI智能体如今能在零人工帮助下完成46%原本需人类耗时2到4小时的研究任务，而在3月这一比例只有23%。",
-        "Arena AI能力负责人Peter Gostev等发帖者指出，OpenAI前10%研究员每天消耗的Token价值可达2.5万美元；另有发帖者按API价格引…",
-        "转述材料显示，研究员列举的GPT-6 Astra关键想法全部来自人类，但到了GPT-6.2 Astra，预训练研究员称Codex已经帮助找到了关键想法。",
-        "OpenAI表示，前沿模型近期在数学领域取得了「突然且快速的突破」，随着模型自主研究能力提升，公司正监测深度学习领域是否会出现类似突破，研究员也把更多时间花…"
-      ],
-      "quote": {
-        "who": "elie",
-        "role": "",
-        "said": "看到这篇关于顶级实验室内部如何利用 AI 加速研究的新博客太棒了。拥有这种透明度至关重要，很高兴 openai 继续这么做 一些额外想法： 1. 每位实验者的实验数量仅提升了约 1.68 倍，在我看来这太低了（甚至"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 64万 · 模型与能力] 宁愿放弃40%队友也要保住智能体，OpenAI研究员中位日烧2400美元"
+      "line": "[榜第4位 · 43万 · 政策与安全] PHP的php2shell补丁没防住，最新版仍可免登录跑代码，漏洞高达9.2分"
     },
     {
-      "title": "每股83美元超上限！Anthropic狂揽813亿美元，造就4000多位百万富翁",
-      "summary": "史上最大规模IPO正式敲定！Anthropic宣布A类股以每股83美元定价，高于此前70至78美元的指导区间，预计今晚在纳斯达克以代码「ANT」开始交易。按发行9.8亿股测算，本轮募资总额约813亿美元，扣除费用前公司独得近794亿美元，估算其5300名员工里有超4000人纸面身价直奔百万美元。",
-      "reads": "282万",
-      "ago": "12 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "本次发行共9.8亿股A类普通股，其中公司出售约9.56亿股，老股东出售约2365万股，Anthropic不从现有股东减持中取得收益",
-        "承销商获授30天内最多再追加购买1.47亿股的选择权，交易预计于11月20日满足惯常条件后完成交割",
-        "83美元定价高出原区间上限约6%，扣除费用前公司将直接到手约794亿美元流动资金",
-        "业内估算这笔上市会让约1200名员工持股市值超千万美元，约50位早期成员跨过1亿美元门槛"
-      ],
-      "quote": {
-        "who": "shirish",
-        "role": "",
-        "said": "anthropic 有大约 5,300 名员工。 估计其中约 4,250 人纸面上刚变成百万富翁。 约 1,200 人身价超过 1000 万美元，约 50 位早期成员突破 1 亿美元。 这十年最被低估的职业选择，就是 2022 年加入那家所有人都觉得会输给 openai 的“安全实验室”。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 282万 · 资本与算力] 每股83美元超上限！Anthropic狂揽813亿美元，造就4000多位百万富翁"
-    },
-    {
-      "title": "标普500跌破7200点！Anthropic上市首日撞上科技股抛售",
-      "summary": "标普500指数从当日高点跌超230点，偏偏撞上 Anthropic（$ANT）IPO首日上市与科技股抛售。据金融账号 The Kobeissi Letter 消息，该指数自5月5日以来首次跌破7200点。",
+      "title": "大涨39%飙至115美元，Anthropic估值破2万亿成全球第6大市值上市公司",
+      "summary": "Anthropic（股票代码 $ANT）正式在纳斯达克开始交易，股价一路飙到每股 115 美元，比 83 美元的 IPO 发行价直接高出 39%。据 The Kobeissi Letter 报道，这一涨势已把它的完全稀释估值推高到 2 万亿美元以上，让它一跃成为全球第 6 大市值上市公司。",
       "reads": "14万",
       "ago": "4 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "The Kobeissi Letter",
+        "who": "The Information",
         "role": "",
-        "said": "突发：随着 Anthropic（$ANT）IPO 首日上市及科技股抛售，标普 500 指数从当日高点下跌超过 230 点。 这是自 5 月 5 日以来，标普 500 首次跌破 7200 点。"
+        "said": "Anthropic 首日收盘报 $97.17，较 $83 的 IPO 发行价上涨 17%。 The Information 此前追踪报道了 Anthropic 从高速增长的初创公司到上市企业的历程，涵盖其 IPO 计划、营收及治理结构。现在，所有这些报道都汇总在这里了。 探索"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 14万 · 资本与算力] 大涨39%飙至115美元，Anthropic估值破2万亿成全球第6大市值上市公司"
+    },
+    {
+      "title": "微软把开源Agent Hermes搬进Teams了，写文档理邮箱都能甩给它",
+      "summary": "开源实验室的 Agent 直接进驻微软了。Nous Research 宣布与微软合作把 Hermes Agent 带进企业级市场，在 Teams 里写文档、做财务分析、理收件箱都能直接甩给 Hermes，之后查看结果就行。",
+      "reads": "5.9万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Hermes Enterprise 现可在 Microsoft Teams、Microsoft Store 和 Azure 内使用。",
+        "Nous Research 官方还另发文，提示获取面向 Microsoft Teams 的 Hermes Agent Enterprise。"
+      ],
+      "quote": {
+        "who": "Nous Research",
+        "role": "",
+        "said": "获取面向 Microsoft Teams 的 Hermes Agent Enterprise"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 14万 · 资本与算力] 标普500跌破7200点！Anthropic上市首日撞上科技股抛售"
+      "line": "[榜第6位 · 5.9万 · 产品与生态] 微软把开源Agent Hermes搬进Teams了，写文档理邮箱都能甩给它"
     },
     {
-      "title": "OpenAI上线GPT-Live-1.1，新增待机降空闲成本，跨语言口音也更自然了",
-      "summary": "GPT-Live-1.1 正式上线 API，新增的待机选项专门用来压低空闲成本。OpenAI 开发者官方号同步放出「American English」演示，吃顿早饭还得现场用「croissant」「squirrel」考发音；OpenAI 研究员 Derrick Choi 也转发了这波更新。",
-      "reads": "4.0万",
+      "title": "从120亿美元跌到36.8亿美元，邮件工具Mailchimp又要转手了",
+      "summary": "Intuit同意将邮件营销工具Mailchimp卖给意大利科技投资公司Bending Spoons，企业价值约36.8亿美元，比2021年120亿美元的作价缩水近七成。彭博社与CNBC披露了交易，当年抢报该案的BI交易线记者Katie Roof转发称，又一家昔日退出案如今以更低价格私有化。",
+      "reads": "4.1万",
       "ago": "1 小时前",
-      "category": "产品与生态",
+      "category": "资本与算力",
       "source": "新智元",
-      "bullets": [
-        "跨语言口音表现更自然、更一致，完成任务也更可靠，官方配图以美国国旗突出「American English」场景。",
-        "据 TestingCatalog 转述，开发者目前已可在 OpenAI Platform 的 Live 标签页立即测试全部 API 功能。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Derrick Choi",
+        "who": "Bloomberg",
         "role": "",
-        "said": "API 里的 GPT Live 更新了！"
+        "said": "意大利科技投资公司 Bending Spoons 同意以约 36.8 亿美元的企业价值，从 Intuit Inc. 手中收购邮件营销工具 Mailchimp"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 4.0万 · 产品与生态] OpenAI上线GPT-Live-1.1，新增待机降空闲成本，跨语言口音也更自然了"
+      "line": "[榜第7位 · 4.1万 · 资本与算力] 从120亿美元跌到36.8亿美元，邮件工具Mailchimp又要转手了"
     },
     {
-      "title": "Anthropic上市大涨39%，完全稀释估值破2万亿美元，成立才6年",
-      "summary": "Anthropic（$ANT）正式在纳斯达克开始交易，股价飙至每股 115 美元，较 83 美元 IPO 发行价大涨 39%。The Kobeissi Letter 称，这将其完全稀释估值推高至 2 万亿美元以上，成为全球第 6 大市值上市公司。",
-      "reads": "12万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
+      "title": "特斯拉Cybercab开进第二座城市，直接喊话「你好啊，达拉斯」",
+      "summary": "特斯拉Cybercab扩展到第二座城市，这一次开进了达拉斯。Tesla官方账号转发了Robotaxi的动态，直接向当地喊话「你好啊，达拉斯，Cybercab已经到你们城市了」。",
+      "reads": "20万",
+      "ago": "6 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "《华盛顿邮报》称，Anthropic 敲定首次公开募股，这家成立六年的 Claude 聊天机器人开发商市值约 1.5 万亿美元。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Tesla",
         "role": "",
-        "said": "它现在是全球第六有价值的公司了"
+        "said": "Cybercab 扩展到第二座城市"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 12万 · 资本与算力] Anthropic上市大涨39%，完全稀释估值破2万亿美元，成立才6年"
+      "line": "[榜第8位 · 20万 · 产品与生态] 特斯拉Cybercab开进第二座城市，直接喊话「你好啊，达拉斯」"
     },
     {
-      "title": "创业一年传卖45亿美元！Applied Compute本月刚融3.5亿",
-      "summary": "刚融完钱转身就卖，Applied Compute 传正被 Palo Alto Networks 以 45 亿美元股票收入囊中。据 WSJ 报道，这家由三名 OpenAI 前研究员去年创立、帮企业训练、部署并改进自有 AI 模型和智能体的公司，本月早些时候才刚按 32.5 亿美元估值拿了 3.5 亿美元融资。",
-      "reads": "5.2万",
+      "title": "有人拿iPhone调8块L40S建涩谷，Higgsfield把GPU塞进聊天框",
+      "summary": "用iPhone调8块L40S，12小时就让Fable 5.2建出生成NPC并模拟行为的涩谷复刻版，渲染只花2小时。投资人Matt Shumer晒出的实测靠的是Higgsfield新推出的GPU Harness，能在Claude和ChatGPT里按需租GPU，让多智能体同时从任意设备云端处理专业应用。",
+      "reads": "4.2万",
       "ago": "2 小时前",
-      "category": "资本与算力",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "英伟达 AI 基础设施官方在 #SC26 展示 cuPhoton，据官方展示，其在黑洞图像计算中的数据加载最高快 3700 倍、相关性计算最高快 460 倍…",
-        "英伟达官方演示回溯，人类首张黑洞照片曾于 2017 年联合地球上 8 座射电观测站协同观测 M87 星系，将 PB 级信号录进硬盘物理运送并耗时多年做相关性…"
+        "除了3D渲染，Higgsfield GPU Harness还支持在Claude和ChatGPT里租卡运行开放权重模型和训练LoRA，黑五期间GPU最高立减6…",
+        "Matt Shumer补充称，整个涩谷复刻项目全程在iPhone上操作完成；他此前渲染曼哈顿花了一周，这次渲染只用了2小时。",
+        "另一位发帖者自述，此前用CPU渲染960帧龙电影片段耗时超过24小时，转而用现有Blender项目试用GPU Harness后称过程出奇简单，并用GPT-6…"
       ],
       "quote": {
-        "who": "NVIDIA AI Infrastructure",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "🌌 第一张黑洞照片算了好几年。NVIDIA cuPhoton 几分钟搞定。 数据加载快至 3700 倍，相关性计算快至 460 倍。cuPhoton 把几个月的算力时间压缩到几分钟，帮研究人员在事件发生时研究黑洞。#SC26"
+        "said": "在 CPU 上渲染一段 960 帧的龙电影片段，我花了超过 24 小时。是的，这活儿我不想再干了。 所以我决定用现有的 Blender 项目试试 Higgsfield GPU Harness。过程出奇地简单： - 用 GPT-6.2 打开了 Higgsfield Supercomputer"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 5.2万 · 资本与算力] 创业一年传卖45亿美元！Applied Compute本月刚融3.5亿"
+      "line": "[榜第9位 · 4.2万 · 产品与生态] 有人拿iPhone调8块L40S建涩谷，Higgsfield把GPU塞进聊天框"
     },
     {
-      "title": "一天做出17个交互演示，谷歌Gemini 4 Neon早测被赞「重回牌桌」",
-      "summary": "Gemini 4 Neon 在早测里一天就搭出 17 个交互演示，从射击游戏到 3D 世界全都有。拿到早期访问权限的测试者 Chubby 在 Antigravity 里测了一整天，随后放出其中 8 个案例与编码、工具调用实测，并感叹其基准表现相当亮眼，认为谷歌短短几个月就扭转局面、重回牌桌。",
-      "reads": "3.5万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
+      "title": "谷歌真要把AI算力搬上太空了，2029年搭贝索斯New Glenn火箭发射",
+      "summary": "谷歌要往太空送AI算力了，已与贝索斯旗下Blue Origin签署发射协议，计划2029年用New Glenn火箭发射太阳能AI计算卫星。这一消息由Wall St Engine与Reuters等媒体报道，隶属于Project Suncatcher计划。",
+      "reads": "7.5万",
+      "ago": "4 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "测试者随后用 Gemini 4 Neon Extra 在 Antigravity 里制作仿「杀戮尖塔」卡牌构筑游戏，生成了设定在被淹没天文台的 The Gl…",
-        "在 The Glass Meridian 的 Boss 战中，前半场一直帮你保持冷却的那套牌组，打到一半会反过来让你升温。",
-        "测试者在串推中同步分享了此次早测里做对与翻车的环节；免疫学教授 Derya Unutmaz 也评价这些演示「太棒了」。"
+        "Project Suncatcher 旨在探索在太空中运行 AI 计算基础设施。",
+        "据 Techmeme 转述 The Verge 报道，发射时间计划在 2029 年第一季度，卫星为 TPU 驱动的 AI 服务器卫星。"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Reuters",
         "role": "",
-        "said": "我让 Gemini 4 Neon Extra 在 Antigravity 里做个卡牌构筑游戏（“杀戮尖塔”）。它做了 The Glass Meridian，背景是个被淹没的天文台。我最喜欢的是 Boss。打到一半，之前一直帮你保持冷却的那套牌组开始让你升温了。 还有几个"
+        "said": "Google 选择 Bezos 的 Blue Origin 在 2029 年发射 AI 计算卫星。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 3.5万 · 模型与能力] 一天做出17个交互演示，谷歌Gemini 4 Neon早测被赞「重回牌桌」"
+      "line": "[榜第10位 · 7.5万 · 资本与算力] 谷歌真要把AI算力搬上太空了，2029年搭贝索斯New Glenn火箭发射"
     },
     {
-      "title": "AI写代码人半夜修bug？Kong上线自愈云Volcano，出错自动提PR",
-      "summary": "AI 写代码，你接凌晨两点的报警——这笔买卖终于有人要改写了。每年跑约 500 万亿个 AI Token 的 Kong 嫌智能体总卡在网站云上，正式上线自愈云 Volcano。据社区和爆料账号介绍，关联 GitHub 并开启 LavaFlow 后，线上出错时可自动读日志与已部署代码查错，提交含建议修复方案的可审查 PR。",
-      "reads": "2.9万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
+      "title": "SpaceX的IPO纪录才捂热5个月，Anthropic靠813亿美元反超",
+      "summary": "成立仅6年的Anthropic以813亿美元IPO、1.5万亿美元估值，反超SpaceX才保持5个月的750亿美元纪录，就在黄金跌至14个月新低的同一天。媒体人Mario Nawfal发帖提及这一纪录易主，并反问「这是顶点了吗？」。",
+      "reads": "4.6万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
       "source": "新智元",
-      "bullets": [
-        "Kong 宣布 Volcano 于 11 月 19 日上线，提供沙箱、持久化工作流、Postgres 与托管服务，另有发帖者称平台已向所有人开放。",
-        "有社区帖将 Kong 每年约 500 万亿个 AI Token 的处理量，折算为大约每秒 1600 万个 Token。",
-        "爆料与社区帖子描述，用户可用 Claude Code、Cursor 或 Codex 构建应用并直接发布到 Volcano，平台内置数据库和登录功能，无需拼凑…",
-        "业内人士引用 Google 数据指出，其当前 75% 的新代码由 AI 生成并经工程师批准，高于 2024 年 10 月的四分之一多一点，借此凸显凌晨两点线…"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Chris",
+        "who": "Mario Nawfal",
         "role": "",
-        "said": "大家都在基准测试编码智能体能不能发布应用。 Volcano 的 LavaFlow 读取日志和已部署代码，然后打开一个你可以审查的 PR！"
+        "said": "🇺🇸 这是顶点了吗？Anthropic 刚刚以 813 亿美元的 IPO 超越了 SpaceX 750 亿美元的纪录，就在黄金跌至 14 个月低点的那天 SpaceX 保持了这项纪录 5 个月，现在一家成立仅 6 年的 AI 公司以 1.5 万亿美元的估值夺走了它。 Peter Schiff，这位长期看空黄金的"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 2.9万 · 产品与生态] AI写代码人半夜修bug？Kong上线自愈云Volcano，出错自动提PR"
+      "line": "[榜第11位 · 4.6万 · 资本与算力] SpaceX的IPO纪录才捂热5个月，Anthropic靠813亿美元反超"
     },
     {
-      "title": "Anthropic高点跌没3450亿美元，居然还比发行价高15.7%",
-      "summary": "从盘中高点蒸发约3450亿美元市值后，Anthropic（$ANT）居然还比83美元的IPO发行价高15.7%，全稀释估值约1.7万亿美元。Wall St Engine称，该公司现任和前任员工（创始人除外）有资格出售最多3.15亿股$ANT，按当时价格算约320亿美元。",
-      "reads": "5.7万",
+      "title": "ChatGPT Health铺向桌面端和dots，晨练晚练睡得咋样直接给你分析",
+      "summary": "ChatGPT 刚把 Health 功能铺进了桌面应用、dots、Sites 和 Android。连上个人健康数据后，直接在桌面端就能分析睡眠和运动模式，比如早练或晚练后究竟睡得怎么样。官方配图里，输入框键入「Health」时，右下角显示的模型正是「GPT-6.2 Sol Medium」。",
+      "reads": "6.4万",
       "ago": "3 小时前",
-      "category": "资本与算力",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Wall St Engine",
+        "who": "ChatGPT",
         "role": "",
-        "said": "Anthropic $ANT 从盘中高点蒸发了大约 3,450 亿美元市值。不过，股价仍比 83 美元的 IPO 发行价高出 15.7%，公司全稀释估值约为 1.7 万亿美元。"
+        "said": "Health 功能现已登陆更多 ChatGPT 使用场景，包括桌面端、dots、Sites 和 Android。 连接健康信息后，你可以： - 在桌面端分析睡眠和运动模式，比如晨练或晚练后的睡眠质量如何。 - 获取"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 5.7万 · 资本与算力] Anthropic高点跌没3450亿美元，居然还比发行价高15.7%"
+      "line": "[榜第12位 · 6.4万 · 产品与生态] ChatGPT Health铺向桌面端和dots，晨练晚练睡得咋样直接给你分析"
     },
     {
-      "title": "让Codex盯紧ChatGPT别变慢，OpenAI搭起「性能工厂」",
-      "summary": "帮着把 ChatGPT 越造越快还不够，Codex 现在还要盯住它别在生产环境变慢。OpenAI 开发者团队搭建了「性能工厂」（Performance Factory），专门协调智能体排查性能回归、提出修复方案供工程师审查，并验证修复在线上是否有效。",
-      "reads": "6.8万",
-      "ago": "3 小时前",
+      "title": "GPT-6.2跑Agent少烧Token了，OpenAI开放接续此前推理",
+      "summary": "用 GPT-6.2 在 Responses API 跑智能体，现在能基于此前的推理继续构建结果，靠更少 Token 和更多缓存命中拿出更好表现。OpenAI 开发者官方同时明确，从最新前沿模型开始，每个推理项（reasoning item）都会与其之前的对话历史绑定。",
+      "reads": "3.2万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "配图展示了 Performance Factory 的六步回归处理流程：检测、查因、提案、审查部署、验证恢复、解决。"
-      ],
+      "bullets": [],
       "quote": {
         "who": "OpenAI Developers",
         "role": "",
-        "said": "Codex 已经帮我们更快地构建 ChatGPT 了。现在它还在帮我们要保持 ChatGPT 的快。 我们建了个性能工厂（Performance Factory），用来协调那些负责排查回归、给工程师提供修复方案供审查、并检查这些修复在生产环境是否有效的智能体。"
+        "said": "在 Responses API 中使用 GPT-6.2 的 AI 智能体可以基于之前的推理构建结果，用更少的 Token 和更多的缓存命中交付更好的效果。 从我们最新的旗舰模型开始，每个推理项现在都与其之前的对话历史绑定，因此编辑早期消息"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 6.8万 · 产品与生态] 让Codex盯紧ChatGPT别变慢，OpenAI搭起「性能工厂」"
+      "line": "[榜第13位 · 3.2万 · 产品与生态] GPT-6.2跑Agent少烧Token了，OpenAI开放接续此前推理"
     },
     {
-      "title": "偏偏赶在Anthropic纳斯达克上市当天，Claude出现性能降级！",
-      "summary": "Anthropic 在纳斯达克开始交易当天，Claude 偏偏出现性能降级。状态页将 Claude 列为「性能降级」，好在 Claude API 和 Claude Code 都运行正常。",
-      "reads": "10万",
+      "title": "谷歌真把世界模型搬上API了，Genie 4登陆AI Studio",
+      "summary": "谷歌把世界模型 Genie 4 搬上了 Gemini API 和 Google AI Studio，这是谷歌首个面向开发者的世界模型。Gemini / AI Studio 负责人 Logan Kilpatrick 宣布上线（ai.studio/genie）；转述称其目前仅对 Ultra 订阅者开放，不少用户首次能用 API key 测试。",
+      "reads": "5.5万",
       "ago": "5 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "转述引用的说明片段显示，Genie 4 支持实时键盘控制配合实时文本交互。",
+        "另有社区爆料称谷歌已开始向 Gemini Pro 用户发送 Genie 4 候补权限，通知显示可通过 Google AI Pro 订阅使用 Project…",
+        "对于 Genie 4 开放 API 访问，有中文社区转述感叹谷歌的计算资源「是真的恐怖啊」。"
+      ],
       "quote": {
-        "who": "unusual_whales",
+        "who": "歸藏(guizang.ai)",
         "role": "",
-        "said": "突发：根据状态页显示，在 Anthropic 开始在 Nasdaq 交易当天，Claude 性能出现降级。 状态页将 Claude 列为“性能降级”，而 Claude API 和 Claude Code 运行正常。 Anthropic 尚未……"
+        "said": "谷歌的世界模型 Genie 4 居然可以通过 API 访问了，他们的计算资源是真的恐怖啊"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 10万 · 产品与生态] 偏偏赶在Anthropic纳斯达克上市当天，Claude出现性能降级！"
+      "line": "[榜第14位 · 5.5万 · 产品与生态] 谷歌真把世界模型搬上API了，Genie 4登陆AI Studio"
     },
     {
-      "title": "谷歌Gemini 4 Neon约1万行代码搓出滑雪模拟器，连雪崩都能触发",
-      "summary": "红黑双板第一人称掠过覆雪山坡，远方雪山连绵——谷歌官方刚晒出一段霞慕尼滑雪模拟器演示，能沿着勃朗峰六条真实雪道滑行。该模拟器由 Gemini 4 Neon 在 Antigravity 中从零编写，演示视频里还伴随阵阵风声。",
-      "reads": "6.5万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
+      "title": "Q1超预期照样跌14%，Intuit把Mailchimp卖了36.8亿美元",
+      "summary": "明明交出超预期的2027财年Q1成绩单，Intuit股价却直接跌了14%，同时宣布以36.8亿美元把Mailchimp卖给Bending Spoons。拖累行情的正是疲弱指引，据 Wall St Engine 报道，其Q2每股收益指引比预期低约19%，FY27营收中值下调1.7亿美元且低于华尔街预期。",
+      "reads": "4.9万",
+      "ago": "5 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "总计约 10,000 行代码，使用 JavaScript 和自定义着色器编写",
-        "支持 120 Hz 滑雪物理效果、动态雪痕以及可触发的雪崩"
+        "2027财年Q1总营收为44亿美元，高于43.1亿美元的市场预期，同比增长12%。",
+        "同期调整后每股收益为2.91美元，同比增长56%；GAAP每股收益为2.59美元，同比增长63%。",
+        "分业务看，Global Business Solutions营收31亿美元，同比增长15%；Online Ecosystem营收24亿美元，同比增长20%。",
+        "Intuit给出的FY27全年营收指引区间为230.8亿至233.7亿美元。"
       ],
       "quote": {
-        "who": "Google",
+        "who": "Wall St Engine",
         "role": "",
-        "said": "在这款第一人称霞慕尼滑雪模拟器里，沿着勃朗峰六条真实雪道刻出新鲜轨迹 🏔️ 由 Gemini 4 Neon 从零编写（ @Antigravity ，约 10,000 行 JavaScript 和自定义着色器），它运行 120 Hz 滑雪物理、动态雪痕、可触发的雪崩，以及"
+        "said": "$INTU -14% Q1 业绩超预期但被疲弱的指引掩盖。Q2 EPS 指引比预期低约 19%，FY27 营收中值下调 $170M，低于华尔街预期 它还宣布以 $3.68B 将 Mailchimp 出售给 Bending Spoons"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 6.5万 · 模型与能力] 谷歌Gemini 4 Neon约1万行代码搓出滑雪模拟器，连雪崩都能触发"
+      "line": "[榜第15位 · 4.9万 · 资本与算力] Q1超预期照样跌14%，Intuit把Mailchimp卖了36.8亿美元"
     },
     {
-      "title": "人类史上最大IPO易主！Anthropic定价83美元，1.5万亿估值明日开打",
-      "summary": "人类史上最大 IPO 纪录被正式刷新。Anthropic 确定将于明日以代码「ANT」在纳斯达克开始交易，最终定价每股 83 美元，高于原定预期区间。按完全稀释后约 1.5 万亿美元的估值计算，此次筹集资金约 810 亿美元，成功超过 6 月 SpaceX 的融资纪录，成为全球历史上规模最大的 IPO 交易。",
-      "reads": "12万",
+      "title": "OpenAI上线GPT-Live-1.1，跨语言口音更自然还能待机省成本",
+      "summary": "OpenAI正式在API上线GPT-Live-1.1，跨语言口音更自然一致，还新增待机选项来压低空闲成本，完成任务也更可靠。演示配上美国国旗和「American English」字样整活，点早餐点到一半突然考起croissant和squirrel等绕口词，甚至吐槽桌上的松鼠凭啥不用测发音。",
+      "reads": "7.1万",
       "ago": "6 小时前",
-      "category": "资本与算力",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "IPO 最终每股定价为 83 美元，高于此前设定的预期区间",
-        "完全稀释估值达到约 1.5 万亿美元，筹集资金规模约 810 亿美元",
-        "募资金额正式超过 SpaceX 6 月交易，登顶全球资本市场历史最大 IPO",
-        "股票定于明日正式在纳斯达克挂牌交易，交易代码为 ANT"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Morning Brew ☕️",
+        "who": "OpenAI Developers",
         "role": "",
-        "said": "Anthropic 创纪录的 IPO，数据如下： • 初始融资：813 亿美元 • 售出股份：9.8 亿股 • 每股价格：83 美元 • 指示开盘价：104 美元 • 估值：1.5 万亿美元 历史性时刻。"
+        "said": "GPT-Live-1.1 现已在 API 中上线。 它在不同语言间拥有更自然、一致的口音，通过新的待机选项支持更低空闲成本，并且能更可靠地完成任务。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 12万 · 资本与算力] 人类史上最大IPO易主！Anthropic定价83美元，1.5万亿估值明日开打"
+      "line": "[榜第16位 · 7.1万 · 产品与生态] OpenAI上线GPT-Live-1.1，跨语言口音更自然还能待机省成本"
     }
   ],
   "board_count": 16,

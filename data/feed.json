@@ -3,10 +3,22 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-20 05:25:04 +0800",
+  "fetched_at": "2026-11-20 11:03:05 +0800",
   "today": "11/20",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
+    {
+      "time": "07:30",
+      "date": "11/20",
+      "title": "Anthropic上市冲破2万亿美元！超级智能第一股开盘暴涨",
+      "summary": "昨晚，史上最大IPO，正式敲钟！这一次，Anthropic真的创造了历史，开盘之后，一路冲上了2万亿美金。北京时间11月20日00:48…",
+      "source": "新智元",
+      "id": "tg42977b",
+      "weight": 1,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg42977b&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/20 07:30] Anthropic上市冲破2万亿美元！超级智能第一股开盘暴涨 · https://www.aiera.com.cn/asi-item.html?id=tg42977b&from=yuanyuan"
+    },
     {
       "time": "00:31",
       "date": "11/20",
@@ -104,28 +116,76 @@
       "line": "[11/19 12:48] 奥特曼给「AI造AI」踩刹车！方向盘必须握在人类手中 · https://www.aiera.com.cn/asi-item.html?id=tg7d0ab9&from=yuanyuan"
     },
     {
-      "time": "08:30",
-      "date": "11/19",
-      "title": "不用训练！Opus 5.5直接手写Transformer权重，13类任务全拿100%",
-      "summary": "在13类复杂的算法任务、26次独立运行中，一个全新的神经网络在隐藏测试集上全部达到了100%的准确率。更不可思议的是，整个过程没有喂给它海量数据…",
-      "source": "新智元",
-      "id": "tgb455b2",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tgb455b2&from=yuanyuan",
+      "time": "07:56",
+      "date": "11/20",
+      "title": "只是给智能体加个工具，OpenAI提醒：你的前缀可能被意外改了",
+      "summary": "只是给智能体加个工具，或者调一下推理力度，送进模型的上下文前缀就可能被意外改掉。OpenAI 开发者官号 @OpenAIDevs 11 月 20 日在 X 上连发两帖…",
+      "source": "@OpenAIDevs",
+      "id": "902837c1",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=902837c1&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/19 08:30] 不用训练！Opus 5.5直接手写Transformer权重，13类任务全拿100% · https://www.aiera.com.cn/asi-item.html?id=tgb455b2&from=yuanyuan"
+      "line": "[11/20 07:56] 只是给智能体加个工具，OpenAI提醒：你的前缀可能被意外改了 · https://www.aiera.com.cn/asi-item.html?id=902837c1&from=yuanyuan"
     },
     {
-      "time": "08:19",
-      "date": "11/19",
-      "title": "全新Gemini 4 Neon震撼上线！编程Agent夺冠，暴击Opus 5.5",
-      "summary": "又更了，又更了，AI圈简直天天在过年！就在刚刚，谷歌Gemini 4家族的第四位成员Neon正式上线。哈萨比斯亲自发帖官宣，直呼它是「炼金术的巅峰之作」。它主打推理快…",
-      "source": "新智元",
-      "id": "tg361e55",
-      "weight": 1,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=tg361e55&from=yuanyuan",
+      "time": "07:17",
+      "date": "11/20",
+      "title": "主打主动性改进的dots来了，少数ChatGPT Plus用户率先开测",
+      "summary": "OpenAI 开始拿 dots 给一小批 ChatGPT Plus 用户试用了。消息来自 Codex 团队的 Tibo，他在 X 上发帖提醒大家，测试范围之后还会扩大…",
+      "source": "@thsottiaux",
+      "id": "119d3aef",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=119d3aef&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/19 08:19] 全新Gemini 4 Neon震撼上线！编程Agent夺冠，暴击Opus 5.5 · https://www.aiera.com.cn/asi-item.html?id=tg361e55&from=yuanyuan"
+      "line": "[11/20 07:17] 主打主动性改进的dots来了，少数ChatGPT Plus用户率先开测 · https://www.aiera.com.cn/asi-item.html?id=119d3aef&from=yuanyuan"
+    },
+    {
+      "time": "05:56",
+      "date": "11/20",
+      "title": "Nous联手微软，Teams里也能直接使唤Hermes智能体干活了",
+      "summary": "Nous Research 和微软联手，Hermes 智能体正式进了 Teams，员工在 Teams 里就能直接给它派活。 Nous Research 官方在 X 上宣布…",
+      "source": "@NousResearch",
+      "id": "32356af8",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=32356af8&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/20 05:56] Nous联手微软，Teams里也能直接使唤Hermes智能体干活了 · https://www.aiera.com.cn/asi-item.html?id=32356af8&from=yuanyuan"
+    },
+    {
+      "time": "05:30",
+      "date": "11/20",
+      "title": "微软132核Arm芯片正式上线，智能体正把AI硬件拉回CPU",
+      "summary": "微软自研的 132 核 Arm 芯片 Azure Cobalt 200，本周在 Ignite 大会上正式全面可用。 微软给它的定位很明确，专为智能体工作负载打造。 科技博主…",
+      "source": "@kimmonismus",
+      "id": "9cd01942",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=9cd01942&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/20 05:30] 微软132核Arm芯片正式上线，智能体正把AI硬件拉回CPU · https://www.aiera.com.cn/asi-item.html?id=9cd01942&from=yuanyuan"
+    },
+    {
+      "time": "04:55",
+      "date": "11/20",
+      "title": "让Fable手搓GTA式小游戏，通缉等级和天气全看Anthropic股价",
+      "summary": "Ethan Mollick 让 Fable 手搓了一个网页小游戏，玩法照着 GTA 来，能偷车，能跑任务。特别的地方在于，这座城里从通缉等级到天气，全由 ANT 的股价说了算。…",
+      "source": "@emollick",
+      "id": "838ddd19",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=838ddd19&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/20 04:55] 让Fable手搓GTA式小游戏，通缉等级和天气全看Anthropic股价 · https://www.aiera.com.cn/asi-item.html?id=838ddd19&from=yuanyuan"
+    },
+    {
+      "time": "04:32",
+      "date": "11/20",
+      "title": "OpenAI被曝搭出「性能工厂」，Codex智能体系统每天自动跑17次性能排查",
+      "summary": "OpenAI 搭起了一座「性能工厂」。Andrew Curran 在 X 上披露，这套名为 The Performance Factory 的系统由 Codex 智能体组成…",
+      "source": "@AndrewCurran_",
+      "id": "2f7d295c",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=2f7d295c&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/20 04:32] OpenAI被曝搭出「性能工厂」，Codex智能体系统每天自动跑17次性能排查 · https://www.aiera.com.cn/asi-item.html?id=2f7d295c&from=yuanyuan"
     },
     {
       "time": "04:14",
@@ -152,6 +212,18 @@
       "line": "[11/20 04:00] OpenAI上线GPT-Live-1.1，吃顿早饭被考发音，还能待机省钱 · https://www.aiera.com.cn/asi-item.html?id=65bc225f&from=yuanyuan"
     },
     {
+      "time": "03:32",
+      "date": "11/20",
+      "title": "别让智能体挤网站云了，年跑500万亿AI Token的Kong刚上线Volcano",
+      "summary": "一年跑约 500 万亿个 AI Token 的 Kong，今天上线了 Volcano，一朵专门给智能体造的云。500 万亿折下来，每秒约 1600 万个。 Kong 的…",
+      "source": "@testingcatalog",
+      "id": "737e5b11",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=737e5b11&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/20 03:32] 别让智能体挤网站云了，年跑500万亿AI Token的Kong刚上线Volcano · https://www.aiera.com.cn/asi-item.html?id=737e5b11&from=yuanyuan"
+    },
+    {
       "time": "03:28",
       "date": "11/20",
       "title": "Token用量暴涨六周价格却降21%，Anthropic拿走Ramp样本当周近六成Token支出",
@@ -162,6 +234,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=a464e9e5&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/20 03:28] Token用量暴涨六周价格却降21%，Anthropic拿走Ramp样本当周近六成Token支出 · https://www.aiera.com.cn/asi-item.html?id=a464e9e5&from=yuanyuan"
+    },
+    {
+      "time": "03:05",
+      "date": "11/20",
+      "title": "量子纠缠一直抢头条，谷歌 CEO 却说它未必是最深层原因",
+      "summary": "说起量子计算机为什么强，量子纠缠一直是最常被拿出来讲的那个。谷歌 CEO Sundar Pichai 这次把目光投向了另一样东西，量子语境性。他指出…",
+      "source": "@ScienceMagazine / @sundarpichai",
+      "id": "dc8a4385",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=dc8a4385&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/20 03:05] 量子纠缠一直抢头条，谷歌 CEO 却说它未必是最深层原因 · https://www.aiera.com.cn/asi-item.html?id=dc8a4385&from=yuanyuan"
     },
     {
       "time": "02:08",
@@ -198,6 +282,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=04d2f8ca&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/20 01:01] Anthropic CEO就IPO公开发声 · https://www.aiera.com.cn/asi-item.html?id=04d2f8ca&from=yuanyuan"
+    },
+    {
+      "time": "00:51",
+      "date": "11/20",
+      "title": "想拿超30%折扣，Anthropic要部分客户先交AI支出达标证明",
+      "summary": "想从 Anthropic 拿到超过 30% 的折扣，部分客户得先交证明，证明自己的 AI 支出达到了当初承诺的数额。 消息来自 The Information。报道说…",
+      "source": "@theinformation",
+      "id": "03027e53",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=03027e53&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/20 00:51] 想拿超30%折扣，Anthropic要部分客户先交AI支出达标证明 · https://www.aiera.com.cn/asi-item.html?id=03027e53&from=yuanyuan"
     },
     {
       "time": "00:19",
@@ -258,6 +354,18 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=c4191c7d&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/19 22:02] 募资813亿美元挤下SpaceX，Anthropic登顶史上最大IPO · https://www.aiera.com.cn/asi-item.html?id=c4191c7d&from=yuanyuan"
+    },
+    {
+      "time": "21:16",
+      "date": "11/19",
+      "title": "顶着Gemini的招牌，谷歌笔记却被曝开发「无AI」模式",
+      "summary": "Gemini Notebook 是一款名字里就带着 Gemini 的笔记产品，现在正在做一个不用 AI 的选项。 据 TestingCatalog 11 月 19 日爆料…",
+      "source": "@testingcatalog",
+      "id": "e1550fcf",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=e1550fcf&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/19 21:16] 顶着Gemini的招牌，谷歌笔记却被曝开发「无AI」模式 · https://www.aiera.com.cn/asi-item.html?id=e1550fcf&from=yuanyuan"
     },
     {
       "time": "21:08",
@@ -330,6 +438,30 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=0224a8a4&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/19 10:17] Gemini 4 Neon实测流出，搭档Antigravity手搓3D小游戏 · https://www.aiera.com.cn/asi-item.html?id=0224a8a4&from=yuanyuan"
+    },
+    {
+      "time": "08:30",
+      "date": "11/19",
+      "title": "不用训练！Opus 5.5直接手写Transformer权重，13类任务全拿100%",
+      "summary": "在13类复杂的算法任务、26次独立运行中，一个全新的神经网络在隐藏测试集上全部达到了100%的准确率。更不可思议的是，整个过程没有喂给它海量数据…",
+      "source": "新智元",
+      "id": "tgb455b2",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tgb455b2&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/19 08:30] 不用训练！Opus 5.5直接手写Transformer权重，13类任务全拿100% · https://www.aiera.com.cn/asi-item.html?id=tgb455b2&from=yuanyuan"
+    },
+    {
+      "time": "08:19",
+      "date": "11/19",
+      "title": "全新Gemini 4 Neon震撼上线！编程Agent夺冠，暴击Opus 5.5",
+      "summary": "又更了，又更了，AI圈简直天天在过年！就在刚刚，谷歌Gemini 4家族的第四位成员Neon正式上线。哈萨比斯亲自发帖官宣，直呼它是「炼金术的巅峰之作」。它主打推理快…",
+      "source": "新智元",
+      "id": "tg361e55",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=tg361e55&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/19 08:19] 全新Gemini 4 Neon震撼上线！编程Agent夺冠，暴击Opus 5.5 · https://www.aiera.com.cn/asi-item.html?id=tg361e55&from=yuanyuan"
     },
     {
       "time": "07:57",
@@ -594,138 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=d123c038&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/19 02:00] AMD自己优化了几年，OpenAI称不到5个月，又帮旗舰GPU IP抢出约一年进度 · https://www.aiera.com.cn/asi-item.html?id=d123c038&from=yuanyuan"
-    },
-    {
-      "time": "02:00",
-      "date": "11/19",
-      "title": "算力才涨2.6倍，智能体推理容量一年狂飙4.6倍：英伟达Blackwell占新增74%",
-      "summary": "一年里，智能体推理容量涨了 4.6 倍，同期算力只涨了 2.6 倍。这组数来自 Epoch AI 新推出的推理性能指数 IPI，统计窗口是 2025 年第二季度到 2026…",
-      "source": "@EpochAIResearch",
-      "id": "341fb1ce",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=341fb1ce&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/19 02:00] 算力才涨2.6倍，智能体推理容量一年狂飙4.6倍：英伟达Blackwell占新增74% · https://www.aiera.com.cn/asi-item.html?id=341fb1ce&from=yuanyuan"
-    },
-    {
-      "time": "01:43",
-      "date": "11/19",
-      "title": "苹果9款创意应用齐更新，大多新功能只给月付12.99美元或年付129美元的订阅党",
-      "summary": "苹果今天上线了 Apple Creator Studio 的秋季更新，9 款创意应用一起升级，都是十月就公布过的功能。大多数新功能只给订阅用户，每月 12.99 美元…",
-      "source": "MacRumors",
-      "id": "c43ac4ff",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=c43ac4ff&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/19 01:43] 苹果9款创意应用齐更新，大多新功能只给月付12.99美元或年付129美元的订阅党 · https://www.aiera.com.cn/asi-item.html?id=c43ac4ff&from=yuanyuan"
-    },
-    {
-      "time": "01:40",
-      "date": "11/19",
-      "title": "老黄离开后英伟达紧急发钱留人，代理CEO宣布提前全员加薪发股权",
-      "summary": "黄仁勋离开后，英伟达开始发钱留人。据 WIRED 报道，代理 CEO Colette Kress 承诺全员加薪，并额外发放股权激励。 这轮加薪和股权…",
-      "source": "@liquidtrading / @wallstengine",
-      "id": "33412f5b",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=33412f5b&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/19 01:40] 老黄离开后英伟达紧急发钱留人，代理CEO宣布提前全员加薪发股权 · https://www.aiera.com.cn/asi-item.html?id=33412f5b&from=yuanyuan"
-    },
-    {
-      "time": "01:07",
-      "date": "11/19",
-      "title": "上线后AI也不许下班，Stitch Loop监控生产指标并在沙箱测试修复",
-      "summary": "代码上线不算完，Google 想让 AI 接着干。Google Labs 推出新实验项目 Stitch Loop，它会盯住线上的生产数据，发现异常就先在沙箱里测试修复，再生成…",
-      "source": "@stitchbygoogle / @ai_for_success",
-      "id": "a68e8f56",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=a68e8f56&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/19 01:07] 上线后AI也不许下班，Stitch Loop监控生产指标并在沙箱测试修复 · https://www.aiera.com.cn/asi-item.html?id=a68e8f56&from=yuanyuan"
-    },
-    {
-      "time": "01:05",
-      "date": "11/19",
-      "title": "AMD打磨数年的旗舰GPU IP，OpenAI模型不到5个月又挖出最高14%的PPA改进",
-      "summary": "OpenAI 的模型在 AMD 的旗舰 GPU IP 上找出了最高 14% 的 PPA 改进，前后用了不到五个月。 PPA 是芯片设计的三项硬指标，指性能、功耗和面积。GPU…",
-      "source": "@OpenAI",
-      "id": "0bb1352e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=0bb1352e&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/19 01:05] AMD打磨数年的旗舰GPU IP，OpenAI模型不到5个月又挖出最高14%的PPA改进 · https://www.aiera.com.cn/asi-item.html?id=0bb1352e&from=yuanyuan"
-    },
-    {
-      "time": "00:36",
-      "date": "11/19",
-      "title": "刚刚，GitHub把Copilot代码评审大升级端上了微软Ignite大会",
-      "summary": "GitHub 在微软 Ignite 大会上给 Copilot 代码评审带来了一轮大升级。11 月 19 日，GitHub 官方 X 账号发帖，原话是「Copilot code…",
-      "source": "@github",
-      "id": "b2af7e4b",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=b2af7e4b&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/19 00:36] 刚刚，GitHub把Copilot代码评审大升级端上了微软Ignite大会 · https://www.aiera.com.cn/asi-item.html?id=b2af7e4b&from=yuanyuan"
-    },
-    {
-      "time": "23:58",
-      "date": "11/18",
-      "title": "昨日用完后又追加！Mistral发布桌面端Vibe，在欧开发者可免费试用Pro",
-      "summary": "Mistral 把 Vibe 做成了桌面应用，MacOS 和 Windows 都能装。在欧洲做开发的人，输入优惠码 LECHONK 就能免费试用 Pro 计划。…",
-      "source": "@testingcatalog / @MistralAI",
-      "id": "2b2c8119",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=2b2c8119&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/18 23:58] 昨日用完后又追加！Mistral发布桌面端Vibe，在欧开发者可免费试用Pro · https://www.aiera.com.cn/asi-item.html?id=2b2c8119&from=yuanyuan"
-    },
-    {
-      "time": "23:21",
-      "date": "11/18",
-      "title": "绑卡一次就能自动结账，开源插件Menta把网购全甩给AI",
-      "summary": "绑一次银行卡，AI 助手就能替你把东西买下来。Crossmint 发布了免费开源插件 Menta，官方说这是第一个能让 AI 助手在全球任意商店买任意商品的开源插件。 按 X…",
-      "source": "@LinusEkenstam / @crossmint",
-      "id": "03816fc4",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=03816fc4&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/18 23:21] 绑卡一次就能自动结账，开源插件Menta把网购全甩给AI · https://www.aiera.com.cn/asi-item.html?id=03816fc4&from=yuanyuan"
-    },
-    {
-      "time": "22:57",
-      "date": "11/18",
-      "title": "45款神仙软件杀出重围，苹果2026年度App官方提名公布",
-      "summary": "苹果公布了 2026 年 App Store 年度大奖的决选名单，45 款应用和游戏入围。提名覆盖苹果全线设备，另有 Apple Arcade 和文化影响力两个类别。…",
-      "source": "MacRumors",
-      "id": "4382b2d4",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=4382b2d4&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/18 22:57] 45款神仙软件杀出重围，苹果2026年度App官方提名公布 · https://www.aiera.com.cn/asi-item.html?id=4382b2d4&from=yuanyuan"
-    },
-    {
-      "time": "22:40",
-      "date": "11/18",
-      "title": "Mistral终于做了桌面端，AI智能体能多任务并行，但未提及电脑操作能力",
-      "summary": "Mistral 的 AI 智能体 Vibe 有了独立的桌面应用，macOS 和 Windows 版已经上线，Linux 版还在计划里。它能同时跑好几个任务，但官方没提让 AI…",
-      "source": "The Decoder",
-      "id": "261d0492",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=261d0492&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/18 22:40] Mistral终于做了桌面端，AI智能体能多任务并行，但未提及电脑操作能力 · https://www.aiera.com.cn/asi-item.html?id=261d0492&from=yuanyuan"
-    },
-    {
-      "time": "22:36",
-      "date": "11/18",
-      "title": "按任务开放未发布模型与源码访问，OpenAI首次向4家外部机构开门",
-      "summary": "OpenAI 第一次把外部审计机构请进了自己的办公室。Apollo Research、METR、Transluce 和 Goodfire 四家独立机构已经入驻…",
-      "source": "The Decoder",
-      "id": "e09b45c3",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=e09b45c3&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/18 22:36] 按任务开放未发布模型与源码访问，OpenAI首次向4家外部机构开门 · https://www.aiera.com.cn/asi-item.html?id=e09b45c3&from=yuanyuan"
     }
   ],
   "feed_count": 60,
