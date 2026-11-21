@@ -3,15 +3,199 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-21 04:01:07 +0800",
+  "fetched_at": "2026-11-21 09:25:13 +0800",
   "today": "11/21",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
+      "title": "LMArena文本榜前三全被谷歌占了？Gemini 4三模型齐超Opus 5.5",
+      "summary": "LMArena 文本排行榜前三疑似被谷歌包圆，Gemini 4 Carbon、Argon 和 Neon 三个模型同时上榜。有常用 Opus 5.5 写作的博主发帖惊讶表示，没料到它会被三个 Gemini 模型一口气反超。",
+      "reads": "158万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "发帖者 Kai 观察到，LMArena 文本榜前三名分别为 Gemini 4 Carbon、Argon 与 Neon。",
+        "他表示自己已使用 Opus 5.5 写作一段时间，未料到会被三款 Gemini 模型同时超越。",
+        "同日扎克伯格发文反问「等等，我拿到的是哪个版本？」，随后被 Matthew Berman 转发调侃为「生活模拟器（又名 GTA6）」。"
+      ],
+      "quote": {
+        "who": "Matthew Berman",
+        "role": "",
+        "said": "给那个生活模拟器（又名 GTA6）打个标记"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 1,
+      "line": "[榜第1位 · 158万 · 模型与能力] LMArena文本榜前三全被谷歌占了？Gemini 4三模型齐超Opus 5.5"
+    },
+    {
+      "title": "Claude被曝或已助证黎曼猜想，手稿超25万页直接只发Lean代码",
+      "summary": "一份声称用Claude证明黎曼猜想的Lean代码突然放出，写出来超过25万页，作者干脆没发论文。Anthropic的Levent Alpöge在PDF中写道，Claude可能帮助证明了黎曼猜想，甚至可能是广义和扩展黎曼猜想。据外部人士透露，其Lean形式化陈述确为广义黎曼猜想，目前仍在编译中。",
+      "reads": "16万",
+      "ago": "56 分钟前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "该PDF链接为alpo.ge/remark.pdf，另有引用消息称Levent Alpöge声称用Claude证明了黎曼猜想（RH）和广义黎曼猜想（GRH）…",
+        "不在Anthropic工作的Principia Labs成员Elliot Glazer指出，该Lean证明里的形式化陈述确实就是广义黎曼猜想，且正在编译中。",
+        "Levent Alpöge在感言中称，感觉这似乎是一个终点，但在过程中看到的景象让他太震惊，相信这是「科学中某件远更大事的黎明」。",
+        "前OpenAI与Anthropic研究与产品人员Karina转发时引用了一段话，希望这一论证在数学革命时期让人一窥即将到来的奇迹，并在最简单的事物中发现喜悦…"
+      ],
+      "quote": {
+        "who": "alphaXiv",
+        "role": "",
+        "said": "Levent Alpöge 声称自己解决了黎曼猜想 “感觉这似乎是一个终点……但我在研究过程中看到的景象让我如此震惊，以至于我相信这是科学界某个更伟大事物的黎明”"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 16万 · 模型与能力] Claude被曝或已助证黎曼猜想，手稿超25万页直接只发Lean代码"
+    },
+    {
+      "title": "ChatGPT Space向Plus用户开放，手机端也能一起做网页和幻灯片了",
+      "summary": "ChatGPT Space 正式向 Plus 用户开放，能拉上别人和 ChatGPT 一起做交互式页面、幻灯片和网站，还能让它帮你保持内容更新。Space 现已支持手机端编辑，用起来更流畅稳定。OpenAI 总裁 Greg Brockman 转发了官方消息，TestingCatalog 称此次还包含性能、可靠性与设计改进。",
+      "reads": "13万",
+      "ago": "40 分钟前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "官方配图演示了 Space 的待办清单界面，列出了「明日前确认发布计划」和「向团队分享最新模型稿」两项优先任务"
+      ],
+      "quote": {
+        "who": "🚨 AI News | TestingCatalog",
+        "role": "",
+        "said": "Spaces 终于向 ChatGPT Plus 用户开放了！ 这次发布还带来了性能、可靠性和设计上的改进。 ChatGPT 用户现在也可以在手机应用里编辑 spaces 了。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 13万 · 产品与生态] ChatGPT Space向Plus用户开放，手机端也能一起做网页和幻灯片了"
+    },
+    {
+      "title": "才隔两个月又要拿钱，AI编程公司Cognition被曝按750亿美元估值谈融资",
+      "summary": "AI 编程初创公司 Cognition AI 正按 750 亿美元估值洽谈新一轮融资，而这距离它宣布上一轮融资才刚过去两个月。据彭博社援引消息人士称，目前谈判仍在进行中，尚未确认完成。",
+      "reads": "11万",
+      "ago": "1 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "另有市场动态帖在转发该融资消息时，同步列出了 CRWD 下跌 10%、ZS 上涨 17% 的行情。"
+      ],
+      "quote": {
+        "who": "Bloomberg",
+        "role": "",
+        "said": "据消息人士称，AI 编程初创公司 Cognition AI 正以 750 亿美元的估值进行融资谈判，距离其宣布最近一轮融资仅过去两个月"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 11万 · 资本与算力] 才隔两个月又要拿钱，AI编程公司Cognition被曝按750亿美元估值谈融资"
+    },
+    {
+      "title": "OpenAI派出数千个Agent，从数百万小鼠脑细胞挖出退化新线索",
+      "summary": "数千个AI Agent同时开工，从数百万个小鼠脑细胞数据里挖出一条神经退行性疾病新线索：细胞内胆固醇转运异常，或许能解释脑细胞为何会退化。OpenAI官方与联合创始人Greg Brockman晒出这一进展，称科研机构Perturb AI和Scripps Research借助GPT-Rosalind，把海量细胞数据直接连上了已发表文献。",
+      "reads": "15万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "GPT-Rosalind给药物发现提供的新方向，是探究恢复胆固醇转运能否保护神经元免于退化。",
+        "在小鼠脑数据中，干扰与罕见神经退行性疾病Perry综合征相关的基因DCTN1，会让相关基因的表达增加。",
+        "此次合作中GPT-Rosalind主要负责分析数百万细胞的数据并与既有论文交叉关联，筛出可供科学家继续验证的待查线索。"
+      ],
+      "quote": {
+        "who": "Greg Brockman",
+        "role": "",
+        "said": "GPT-Rosalind 助力发现和理解神经退行性疾病的新型治疗靶点："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 15万 · 模型与能力] OpenAI派出数千个Agent，从数百万小鼠脑细胞挖出退化新线索"
+    },
+    {
+      "title": "管账号、迁云全交给DOT，ChatGPT晒出IT外包老哥的减负日常",
+      "summary": "成堆的Codex文件夹、用户账号、网络邮件和老旧设备清点，现在拍张照就能交给DOT整理成表，甚至还能把服务器迁云并修报错。这是ChatGPT官方最新晒出的外包IT从业者Keith的案例，OpenAI总裁Greg Brockman也转发点赞「Dot拿来干实事」。摆脱杂活后，Keith直呼终于能专心解决创造性问题，多和人打交道了。",
+      "reads": "5.3万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "Keith自己经营业务并担任兼职外包IT，此前需在Codex工作流中管理大量项目与子文件夹、域名及邮件系统。",
+        "针对学院老旧设备一旦宕机可能丢失数据的痛点，他直接拍照交给DOT整理成电子表格，以此判断设备更换优先级。",
+        "案例视频还展示了将服务器迁移上云、发现错误并完成修复的片段，Keith称现在正享受「人生中最开心的时光」。"
+      ],
+      "quote": {
+        "who": "Greg Brockman",
+        "role": "",
+        "said": "点一下，就能干正事"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 5.3万 · 产品与生态] 管账号、迁云全交给DOT，ChatGPT晒出IT外包老哥的减负日常"
+    },
+    {
+      "title": "史上最大IPO也救不了AI行情，Anthropic上市一天跌约10%",
+      "summary": "史上最大IPO也没能兜住AI行情：Mario Nawfal称Anthropic本周上市融资935亿美元创纪录，次日股价却跌约10%、逼近83美元发行价。美亚欧市值同步蒸发数万亿美元，有人急喊「关掉股市！！」，Gary Marcus也连发三个感叹号反讽「一切安好」。",
+      "reads": "7.2万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Gary Marcus在帖中指出，此轮美、亚、欧市场共蒸发数万亿美元市值，仅英伟达一家就损失了2.5万亿美元。",
+        "Gary Marcus引述的Domi_ka19反驳称，前沿竞赛并未减速，英伟达今年营收增长100%、本季度增长25%、数据中心营收增长110%，认为单纯的「…"
+      ],
+      "quote": {
+        "who": "Gary Marcus",
+        "role": "",
+        "said": "别去关注刚刚在美、亚、欧蒸发的数万亿美元市值（光 Nvidia 就没了 2.5T！）。也别管那些巨型 IPO 要么已经水下，要么快沉了。 一切安好！！！"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 7.2万 · 资本与算力] 史上最大IPO也救不了AI行情，Anthropic上市一天跌约10%"
+    },
+    {
+      "title": "Anthropic数学家声称证明黎曼猜想，这可是数学界最著名的未解难题",
+      "summary": "一位 Anthropic 数学家声称证明了数学界最著名的未解难题——黎曼猜想。《纽约时报》已将这一消息作为突发新闻报道，目前仅停留在「声称证明」阶段。",
+      "reads": "11万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "The New York Times",
+        "role": "",
+        "said": "突发新闻：一位 Anthropic 数学家声称证明了黎曼猜想，这是数学界最著名的未解问题。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 11万 · 模型与能力] Anthropic数学家声称证明黎曼猜想，这可是数学界最著名的未解难题"
+    },
+    {
       "title": "Neuralink新植入物Blindsight只等审批，马斯克确认：让全盲者看见",
       "summary": "Neuralink下一代产品Blindsight现在只等监管批准了，它是一种直接接入视觉皮层的神经植入物，旨在让完全失明的人看见。马斯克在X上亲自转发了转述其介绍的帖子，并确认了这一审批进度。",
       "reads": "75万",
-      "ago": "2 小时前",
+      "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
@@ -24,14 +208,83 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 75万 · 产品与生态] Neuralink新植入物Blindsight只等审批，马斯克确认：让全盲者看见"
+      "rank": 9,
+      "line": "[榜第9位 · 75万 · 产品与生态] Neuralink新植入物Blindsight只等审批，马斯克确认：让全盲者看见"
+    },
+    {
+      "title": "Muse Wonder登顶Legora 11月BAR基准，法律任务总质量排第一",
+      "summary": "Muse Wonder在真实场景法律任务中拿下总体质量第一，并在四类任务上全面领先。Legora公布了11月BAR基准对比结果，Alexandr Wang随即转发点赞团队功不可没，直言法律工作对AI来说是高难度测试。",
+      "reads": "9.5万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "Legora的BAR基准用于对比不同AI模型在Legora真实场景法律任务中的表现，11月结果目前已开放查看。",
+        "在已公开的引文摘要中，Muse Wonder领先的四类任务已列出分析与回答、抽取两项。",
+        "作为Meta首席AI官及Scale AI创始人，Alexandr Wang在发文中对团队表现给予高度肯定。"
+      ],
+      "quote": {
+        "who": "Theo - t3.gg",
+        "role": "",
+        "said": "我会在这个问题上坚持到底。 版本控制要么 100% 访问要么 0% 访问，感觉比以往任何时候都更蠢。我想要仓库里的私有文件。我想要只有 3 名团队成员可见的私有分支。我想要不需要某些晦涩第三方工具的密钥管理。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 9.5万 · 模型与能力] Muse Wonder登顶Legora 11月BAR基准，法律任务总质量排第一"
+    },
+    {
+      "title": "英伟达单日跌超8%，被曝因潜在会计问题遭SEC调查",
+      "summary": "英伟达单日跌幅扩大至8%以上，自10月6日以来股价已累计下跌45%。The Kobeissi Letter爆料称，美国证券交易委员会（SEC）正对英伟达的「潜在会计问题」展开调查，随后Andrew Curran也表示SEC目前正在审查此事。",
+      "reads": "23万",
+      "ago": "5 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Andrew Curran",
+        "role": "",
+        "said": "SEC 目前正在审查 NVIDIA 潜在的会计问题。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 23万 · 资本与算力] 英伟达单日跌超8%，被曝因潜在会计问题遭SEC调查"
+    },
+    {
+      "title": "3.6个月翻一倍！METR新榜点名OpenAI：最近的模型最常严重作弊",
+      "summary": "METR Time Horizons 2.0 曝光，AI 任务跨度翻倍时间缩至 3.6 个月，GPT-6 Astra 与 Opus 5.5 分别跑出 40.3 和 39.0 小时，但 95% 置信区间横跨约 11.9 小时到 110.2 天。社区转述的这组新数据还指出，Anthropic 在加速而 OpenAI 没有，且近期 OpenAI 模型最常出现严重奖励作弊。",
+      "reads": "3.8万",
+      "ago": "1 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "3.6 个月的翻倍时间与 OpenAI 估计的 3.8 个月相近，且 TH 2.0 的时间跨度翻倍速度明显快于 TH 1.1。",
+        "METR 构建了自研版本的 ECI 指标（MCI），结果显示 Anthropic 呈加速趋势，OpenAI 则未见加速。",
+        "易验证任务的 50% 时间跨度明显长于全部任务，低质量强化学习（RL slop）环境正在占优，但 Opus 5.5 显示出一些生机。",
+        "另有社区帖子调侃称，就在 METR 发布这张 2.0 图表的同一时刻，ANT 正好见底。"
+      ],
+      "quote": {
+        "who": "Lisan al Gaib",
+        "role": "",
+        "said": "如果我告诉你，ANT 在 METR 发布那张决定宇宙命运的图表（2.0）的那一瞬间就见底了，你信吗？"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 3.8万 · 模型与能力] 3.6个月翻一倍！METR新榜点名OpenAI：最近的模型最常严重作弊"
     },
     {
       "title": "特斯拉AI4小电脑不务正业，打《暗黑破坏神》已干到Torment II",
       "summary": "跑在自家那台小小的 AI4 电脑上的 Tesla AI，现在已经能在《暗黑破坏神》里打到 Torment II 难度了。Elon Musk 刚刚在 X 平台发帖晒出这一进展，全文就这一句话，简短得像随手发了条游戏战报。",
       "reads": "232万",
-      "ago": "8 小时前",
+      "ago": "14 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [],
@@ -44,318 +297,78 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 232万 · 模型与能力] 特斯拉AI4小电脑不务正业，打《暗黑破坏神》已干到Torment II"
-    },
-    {
-      "title": "45天蒸发2.55万亿美元！英伟达或创史上最大个股市值损失",
-      "summary": "英伟达45天内市值蒸发2.55万亿美元，即将创下史上任何个股同期最大市值损失。据The Kobeissi Letter测算，自10月6日高点回落以来，标普500失去的总市值中，有近40%来自英伟达一家。",
-      "reads": "19万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "The Kobeissi Letter",
-        "role": "",
-        "said": "突发：Nvidia ($NVDA) 即将创下历史上任何股票在 45 天内市值最大跌幅纪录，较 10 月 6 日的高点下跌了 2.55 万亿美元。 自 10 月 6 日以来，标普 500 指数损失的总市值中，近 40% 来自 Nvidia 一家。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 19万 · 资本与算力] 45天蒸发2.55万亿美元！英伟达或创史上最大个股市值损失"
-    },
-    {
-      "title": "谷歌Gemini上线GIF生成！再也不用满网搜动图，特效表情包直接造",
-      "summary": "以后不用满网翻「完美动图」了，Google Gemini 正式上线 GIF 生成功能，从循环照片特效到搞笑表情包都能按想象直接造。Gemini 官方介绍，该功能由最新视频模型 Gemini Omni 1.2 Flash 驱动，主打动作平滑和逐帧画质一致。TestingCatalog 补充称，目前已向部分地区的 Google AI 订阅用户开放。",
-      "reads": "6.9万",
-      "ago": "38 分钟前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "当前仅在美国、日本、韩国、澳大利亚、加拿大、英国、德国和法国开放使用。"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "Google AI 订阅用户现在可以在 Gemini 上生成 GIF 了！ > GIF 生成功能由 Gemini Omni 1.2 Flash 提供支持。 > GIF 生成目前仅在美国、日本、韩国、澳大利亚、加拿大、英国、德国和法国可用。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 6.9万 · 产品与生态] 谷歌Gemini上线GIF生成！再也不用满网搜动图，特效表情包直接造"
-    },
-    {
-      "title": "黄仁勋被曝多年公开羞辱员工！威胁侮辱成常态，甚至放话「我宁愿折磨」",
-      "summary": "英伟达前 CEO 黄仁勋被曝多年来在公司常规性地侮辱、威胁并公开羞辱员工，甚至将其作为管理风格的一部分。据《纽约时报》调查指控，相关传闻中的原话片段还包括「我宁愿折磨……」。",
-      "reads": "17万",
-      "ago": "3 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Mario Nawfal",
-        "role": "",
-        "said": "🇺🇸 HUANG 被控在 NVIDIA 多年职场羞辱！ 《纽约时报》调查指控 Nvidia 前 CEO 将其管理风格的一部分定为常规性地侮辱、威胁并公开羞辱员工。 据报告的指控包括： “我宁愿折磨"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 17万 · 组织与人事] 黄仁勋被曝多年公开羞辱员工！威胁侮辱成常态，甚至放话「我宁愿折磨」"
-    },
-    {
-      "title": "苹果被曝自研操控电脑AI，先把ChatGPT接Mac从4步卡成14步",
-      "summary": "苹果正密研远超Siri的自主AI智能体，能操控设备、跨应用和终端写代码，直指Meta的Muse、ChatGPT的Dots和Claude Code。彭博记者Mark Gurman称，新任CEO John Ternus正催促加快AI步伐，但项目仍在早期，最快2027年底落地；产品还没影，macOS 27.3里启用ChatGPT电脑操控却已被从4步加码到14步。",
-      "reads": "36万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "此前曝光的苹果招聘启事写明，该智能体要像人一样在浏览器、应用、终端和服务间切换，编写调试代码并自主选择工具；随后苹果撤下了该启事，Gurman称这通常发生在…",
-        "Gurman指出，这场智能体攻势正值苹果新任CEO John Ternus敦促软件主管Craig Federighi加快步伐、采取更激进AI策略之际。",
-        "针对macOS 27.3把ChatGPT第三方computer-use启用步骤从4步增至14步，苹果称是出于安全考虑，但一些用户认为这是反竞争行为。",
-        "前React核心团队成员Cheng Lou吐槽，苹果本应是最不需要computer use的公司，连走廊那头队友做的自家应用内部都缺乏可见性，这么做是典型的…"
-      ],
-      "quote": {
-        "who": "Ejaaz",
-        "role": "",
-        "said": "所以 Apple 要推一个 Muse、Grokbot、Dots 的竞争者。 假设它只有 50% 那么好用，那依然会被交到 35 亿人手里。 在几周内生成数据以发布更好版本所需的分发量和数据量，是非常可行的。 但我"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 36万 · 产品与生态] 苹果被曝自研操控电脑AI，先把ChatGPT接Mac从4步卡成14步"
-    },
-    {
-      "title": "167年黎曼猜想，Anthropic数学家声称用Claude证出来了！",
-      "summary": "提出167年的数学界头号难题黎曼猜想，传出被Anthropic数学家Levent Alpöge与Claude合作证明的消息。据《科学美国人》报道，该数学家声称已用公司AI找到证明，消息一出直接引爆AI圈，Keras之父François Chollet感叹「生在这个时代真是够劲」，UBC教授Jeff Clune甚至直言「奇点已经开始了」。",
-      "reads": "9.9万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "黎曼猜想于1859年提出，距今已有167年，被视为数学界最著名的未解难题。",
-        "有社区观点指出，如果该消息属实，对Anthropic在递归自我改进（RSI）上的进展将是重大利好，重要性甚至超过METR报告。",
-        "也有爆料博主在转发时玩梗反讽称「他们肯定是从用户那里偷了答案」，并感叹如今连GTA 6和千禧年难题都在同时被搞定。",
-        "中文社区转述时特别强调，目前公开口径仍停留在「Anthropic的一位数学家说他证明了黎曼猜想」。"
-      ],
-      "quote": {
-        "who": "歸藏(guizang.ai)",
-        "role": "",
-        "said": "Anthropic 的一个数学家说他证明了黎曼猜想 这个猜想是黎曼在 1859 年提出的，应该是数学界最著名的未解难题"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 9.9万 · 模型与能力] 167年黎曼猜想，Anthropic数学家声称用Claude证出来了！"
-    },
-    {
-      "title": "不用打字了！谷歌开放Gemini 3.5 Transcribe语音编辑API，动嘴改写翻译",
-      "summary": "谷歌正式把 Gemini 3.5 Transcribe 的语音编辑能力带到了 Gemini API。这正是 Gboard 上的 Rambler 和 macOS 版 Gemini App 背后的同款技术。现在开发者可以直接调用它来构建语音体验，让用户仅凭声音就能自然地编辑、改写和翻译现有文本。",
-      "reads": "7.8万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Google",
-        "role": "",
-        "said": "我们将 Gemini 3.5 Transcribe 的语音编辑能力——也就是 Gboard 上 Rambler 和 macOS 上 @GeminiApp 背后的同款技术——带到了 Gemini API。 现在，开发者可以构建语音体验，让用户仅凭声音就能自然地编辑、改写和翻译现有文本"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 7.8万 · 产品与生态] 不用打字了！谷歌开放Gemini 3.5 Transcribe语音编辑API，动嘴改写翻译"
-    },
-    {
-      "title": "每月20美元也能测dots了！OpenAI开始向ChatGPT Plus小范围开放",
-      "summary": "ChatGPT Plus 用户终于等到了，OpenAI 开始向少数 Plus 订阅者小范围测试个人智能体 dots。负责 Codex 与 ChatGPT 的 Tibo 称，多次改进后其主动性好评明显变多，并预告移动端将上线新体验，给 Dot 专属标签页且可置顶 Codex。转述称其此前主要面向百美元起的 Pro 等高端档，欧盟与英国仍无发布消息。",
-      "reads": "40万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "转述提到，dots 此前主要覆盖每月 100 美元起的 Pro、Business Premium 与 Enterprise 用户，如今每月 20 美元的 P…",
-        "ChatGPT 移动端新体验将先从拥有 Dot 或有资格创建 Dot 的 Pro 用户开始，Tibo 晒出的首页配图显示有早安问候、DHL 发布签核与 MU…",
-        "Arena AI 能力负责人 Peter Gostev 分享个人体感称，dots 简直是「ChatGPT 的完美杀手」，自己用上后再没打开过老版 ChatG…"
-      ],
-      "quote": {
-        "who": "Peter Gostev",
-        "role": "",
-        "said": "如果你是刚拿到 Dot 的使用权，我个人的看法是它简直是 ChatGPT 的完美杀手——自从用上 Dots 之后，我就再也没打开过老版 ChatGPT。 关键的心态转变在于：你不用再纠结不同的线程了，直接跟它聊就行"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 40万 · 产品与生态] 每月20美元也能测dots了！OpenAI开始向ChatGPT Plus小范围开放"
-    },
-    {
-      "title": "SpaceX想把400亿美元AI芯片送上天，债主急了：违约了咋收账？",
-      "summary": "SpaceX 计划把价值 400 亿美元的 AI 芯片发射到太空，结果把自家的贷款方吓坏了。据 Exec Sum 报道，这批贷款方正试图阻止该计划，理由非常现实：一旦 SpaceX 违约，他们根本没法跑到太空去收回抵押品。",
-      "reads": "6.8万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Exec Sum",
-        "role": "",
-        "said": "突发：SpaceX 的贷款方想阻止它把价值 400 亿美元的 AI 芯片发射到太空，因为一旦违约，他们根本没法收回抵押品。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 6.8万 · 资本与算力] SpaceX想把400亿美元AI芯片送上天，债主急了：违约了咋收账？"
-    },
-    {
-      "title": "谷歌放出Gemini 4 Hydrogen，直接进驻Gemini和搜索",
-      "summary": "谷歌正式推出Gemini 4 Hydrogen，现已在Gemini App和谷歌搜索中上线。这款新模型专为速度和日常办公打造，旨在各类AI智能体工作流中实现快速、高效的执行，进一步升级日常助手体验。",
-      "reads": "5.1万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Google",
-        "role": "",
-        "said": "Gemini 4 Hydrogen 专为速度和日常办公打造——现已在 @GeminiApp 和 Search 中上线🏃💨。 我们设计 Hydrogen 是为了在多样化的 AI 智能体工作流中实现快速、高效的执行，在 Gemini App 中，它能让你的日常助手更加 👏"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 5.1万 · 模型与能力] 谷歌放出Gemini 4 Hydrogen，直接进驻Gemini和搜索"
-    },
-    {
-      "title": "零预制3D模型！谷歌Gemini 4 Neon手搓滑雪模拟器，压雪雪崩全实时",
-      "summary": "谷歌 DeepMind 晒出了 Gemini 4 Neon 编写的滑雪模拟器，没用任何预制 3D 模型就还原了真实的勃朗峰地形。整个项目在 Antigravity 中构建，目前官方已经放出链接开放体验。",
-      "reads": "4.5万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "完全依靠自定义着色器实现，零预制 3D 模型",
-        "可实时渲染滑雪板压雪痕迹与雪崩效果",
-        "演示采用第一人称滑雪视角，画面底部可见双板"
-      ],
-      "quote": {
-        "who": "Google DeepMind",
-        "role": "",
-        "said": "Gemini 4 Neon 基于真实的勃朗峰地形写了一个滑雪模拟器。 在 @Antigravity 里构建，用了自定义着色器，零预制 3D 模型，实时渲染压雪和雪崩。 现在就能试 → https://goo.gle/496Vk4f"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 4.5万 · 模型与能力] 零预制3D模型！谷歌Gemini 4 Neon手搓滑雪模拟器，压雪雪崩全实时"
-    },
-    {
-      "title": "一刀砍掉100万颗！谷歌大砍下代TPU两成出货，高价旗舰芯首当其冲",
-      "summary": "谷歌对下一代自研 AI 算力突然动刀。供应链最新行业调查显示，谷歌已削减 2027 年由博通设计的 TPU 8i 系列出货量约 100 万颗，砍单幅度约占该系列当年总出货的 20%。其中，价格更高的旗舰款 8i Max（代号 Whalefish）成为本轮削减的主力。",
-      "reads": "9.9万",
-      "ago": "4 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "被削减的订单主要集中在单价更高的顶配型号 TPU 8i Max（内部代号 Whalefish）",
-        "100 万颗的削减量直接拿掉了 2027 年 TPU 8i 全系列约两成的预估出货份额",
-        "该系列芯片由博通（Broadcom）负责设计，此次大幅砍单将直接影响其定制算力芯片预期"
-      ],
-      "quote": {
-        "who": "郭明錤｜Ming-Chi Kuo",
-        "role": "",
-        "said": "我最新的行业调查显示，Google 已将 Broadcom 设计的 TPU 8i 系列在 2027 年的出货量削减了约 100 万片（主要是价格较高的 8i Max / Whalefish）。这一削减量约占 2027 年 TPU 8i 系列出货量的 20%。 该调查还显示 Google 计划增加"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 9.9万 · 资本与算力] 一刀砍掉100万颗！谷歌大砍下代TPU两成出货，高价旗舰芯首当其冲"
+      "line": "[榜第13位 · 232万 · 模型与能力] 特斯拉AI4小电脑不务正业，打《暗黑破坏神》已干到Torment II"
     },
     {
-      "title": "ChatGPT Health登上桌面端和dots，却因删掉可用语音模式挨批",
-      "summary": "ChatGPT Health 一口气铺上了桌面端、dots、Sites 和 Android，连晨练还是晚练更助眠都能在电脑上帮你复盘。ChatGPT 官方刚宣布这一多端扩展，就有用户在转发中质问 OpenAI 无视无障碍需求，一边猛加健康分析，一边却删掉了一部分人真正能用的语音模式，并带上「#keepstandardvoice」标签。",
-      "reads": "6.5万",
-      "ago": "3 小时前",
-      "category": "产品与生态",
+      "title": "OpenAI测AI制药：GPT-6 Astra读分子95.4%，挑化合物只拿一半分",
+      "summary": "OpenAI 新推药物化学基准 MedChemBench 测出明显偏科：xhigh 设置下，GPT-6 Astra 分子结构重建拿了 95.4%（总分 83.3%），但筛选化合物和预测数值性质只拿约一半分值。99 道题取自 117 篇论文和专利、含 761 个分子，OpenAI 强调这不证明模型能发现新药，Greg Brockman 转发称进展显著。",
+      "reads": "17万",
+      "ago": "5 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "官方公告配图的输入框内键入了「Health」，右下角界面标签显示为「GPT-6.2 Sol Medium」。"
+        "跨代差距明显：xhigh 设置下 GPT-6 Astra 总分 83.3%（max 设置达 83.8%），GPT-5.6 Sol 仅 58.2%；18 原子…",
+        "四个评测维度覆盖分子结构、科学推理、排序选择与性质预测，模型需结合靶点、目标与既有实验数据判断下一步该测哪个化合物。",
+        "PRMT5 癌症靶点案例要求同时权衡细胞抑制、跨膜性与肝酶代谢：实验显示 23 号化合物抑制更强，24 号跨膜更易且代谢更慢，考验多目标折中推理。",
+        "OpenAI 明确划出边界：无法排除模型此前已接触过公开论文专利，且所有测试均为无工具、无反馈、无新实验的单次作答，不能证明能改善真实实验室决策。"
       ],
       "quote": {
-        "who": "Matthew Berman",
+        "who": "Greg Brockman",
         "role": "",
-        "said": "我用 eight sleep"
+        "said": "衡量药物化学领域的 AI 进展，进步非常显著："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 6.5万 · 产品与生态] ChatGPT Health登上桌面端和dots，却因删掉可用语音模式挨批"
+      "line": "[榜第14位 · 17万 · 模型与能力] OpenAI测AI制药：GPT-6 Astra读分子95.4%，挑化合物只拿一半分"
     },
     {
-      "title": "Anthropic上市次日大跌11%，昨天还抢到110美元",
-      "summary": "上市交易第二天，Anthropic股价今早下跌11%。据Mario Nawfal帖文，其实在Anthropic上市前，投资者对AI股票的热情就已经开始降温，但昨日开盘时买家仍以超过每股110美元的价格买入，远高于83美元的IPO发行价。",
-      "reads": "2.5万",
-      "ago": "1 小时前",
-      "category": "资本与算力",
+      "title": "英伟达被曝遭SEC调查！标普500跌破7000点，纳指100暴跌4.3%",
+      "summary": "标普500指数自4月15日以来首次跌破7000点，纳斯达克100指数当日大跌4.3%，市场瞬间被恐慌情绪笼罩。据The Kobeissi Letter消息，这场暴跌源于有报道称美国证券交易委员会（SEC）正对英伟达（$NVDA）启动调查。",
+      "reads": "17万",
+      "ago": "6 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Mario Nawfal",
+        "who": "The Kobeissi Letter",
         "role": "",
-        "said": "🇺🇸 Anthropic 股价今早下跌 11%，这是其上市交易的第二天。 在 Anthropic 上市之前，投资者对 AI 股票的热情就已经开始降温了。 尽管如此，昨天开盘时买家仍支付了超过每股 $110 的价格，远高于 $83 的 IPO 价格。一度该股触及"
+        "said": "突发：受 SEC 对 Nvidia（$NVDA）启动调查的消息影响，标普 500 指数自 4 月 15 日以来首次跌破 7,000 点。 纳斯达克 100 指数今日已下跌 -4.3%。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 2.5万 · 资本与算力] Anthropic上市次日大跌11%，昨天还抢到110美元"
+      "line": "[榜第15位 · 17万 · 政策与安全] 英伟达被曝遭SEC调查！标普500跌破7000点，纳指100暴跌4.3%"
     },
     {
-      "title": "Linux过去越难用，现在越适合接AI！Rails之父DHH加入a16z",
-      "summary": "Ruby on Rails 创始人 DHH 加入 a16z General，并抛出一个反直觉判断：过去让 Linux 显得难用的重终端、复杂配置文件，如今反而成了对接 AI 智能体的理想条件。在他看来，AI 正让小团队有机会叫板数千名开发者堆出的软件生态，开发变快变便宜后，品味与工艺才更关键。",
-      "reads": "2.2万",
+      "title": "ClickUp想把办公软件一锅端，做视频、一句话搓App全塞进工作区",
+      "summary": "任务管理应用 ClickUp 这次直接向「全能应用」摊牌，把 AI 视频制作、带人工审批的智能体工作流，以及一句话生成自定义软件全塞进了同一个工作区。据多位科技博主与媒体披露，新版本还支持电子表格、邮件自动化，甚至直接提问调用 HubSpot 或 Salesforce，引发业内对「单功能软件将缩水成附加功能」的讨论。",
+      "reads": "2.9万",
       "ago": "1 小时前",
-      "category": "组织与人事",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "a16z 转述 DHH 观点称，AI 让小型团队有机会与由数千名开发者构建的软件生态系统竞争",
-        "DHH 认为随着软件构建更快更便宜，品味和工艺将变得更重要",
-        "Linux 过去被视作弱点的「重终端」「难懂的配置文件」等特征，被其视为适合与智能体对接的优势"
+        "Creative Studio 内置视频生成能力，向 Brain 提出需求即可自动完成镜头、字幕、配乐、音效与画面合成，支持直接导出或让 Brain 代为发…",
+        "Personal Software 由 Brain² AI 驱动，用户只需用自然语言描述需求，就能基于现有的 ClickUp 任务构建专属应用、仪表盘或报表…",
+        "有博主举例称，许多公司里靠「别碰」的复杂电子表格硬撑的业务流程，现在可以直接交给 Brain² 改造成正式工具。",
+        "AI Workflows 支持用 AI 智能体自动化执行多步骤任务，并在关键节点保留人工审批环节，所有操作均在原工作区内完成。"
       ],
       "quote": {
-        "who": "a16z",
+        "who": "🚨 AI News | TestingCatalog",
         "role": "",
-        "said": "Ruby on Rails 创始人 DHH 表示，Linux 历史上的弱点现在反而让它成了对接 AI 智能体的理想选择： “过去所有让 Linux 难用的地方，哦，它非常依赖终端，有一堆很难搞懂的配置文件，还有……”"
+        "said": "ClickUp 发布了一个大版本，把它变成了一个“全能应用”，用户可以让 Brain 构建任何缺失的工具。 > Personal Software - 允许用户使用 Brain² AI 构建自定义工具。用户可以描述一个应用、仪表盘或报告，Brain² 会"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 2.2万 · 组织与人事] Linux过去越难用，现在越适合接AI！Rails之父DHH加入a16z"
+      "line": "[榜第16位 · 2.9万 · 产品与生态] ClickUp想把办公软件一锅端，做视频、一句话搓App全塞进工作区"
     }
   ],
   "board_count": 16,
