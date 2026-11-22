@@ -3,63 +3,15 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-22 07:05:42 +0800",
+  "fetched_at": "2026-11-22 11:04:07 +0800",
   "today": "11/22",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "OpenAI派出数千个Agent，从数百万小鼠脑细胞挖出退化新线索",
-      "summary": "数千个AI Agent同时开工，从数百万个小鼠脑细胞数据里挖出一条神经退行性疾病新线索：细胞内胆固醇转运异常，或许能解释脑细胞为何会退化。OpenAI官方与联合创始人Greg Brockman晒出这一进展，称科研机构Perturb AI和Scripps Research借助GPT-Rosalind，把海量细胞数据直接连上了已发表文献。",
-      "reads": "19万",
-      "ago": "23 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "GPT-Rosalind给药物发现提供的新方向，是探究恢复胆固醇转运能否保护神经元免于退化。",
-        "在小鼠脑数据中，干扰与罕见神经退行性疾病Perry综合征相关的基因DCTN1，会让相关基因的表达增加。",
-        "此次合作中GPT-Rosalind主要负责分析数百万细胞的数据并与既有论文交叉关联，筛出可供科学家继续验证的待查线索。"
-      ],
-      "quote": {
-        "who": "Greg Brockman",
-        "role": "",
-        "said": "GPT-Rosalind 助力发现和理解神经退行性疾病的新型治疗靶点："
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 19万 · 模型与能力] OpenAI派出数千个Agent，从数百万小鼠脑细胞挖出退化新线索"
-    },
-    {
-      "title": "管账号、迁云全交给DOT，ChatGPT晒出IT外包老哥的减负日常",
-      "summary": "成堆的Codex文件夹、用户账号、网络邮件和老旧设备清点，现在拍张照就能交给DOT整理成表，甚至还能把服务器迁云并修报错。这是ChatGPT官方最新晒出的外包IT从业者Keith的案例，OpenAI总裁Greg Brockman也转发点赞「Dot拿来干实事」。摆脱杂活后，Keith直呼终于能专心解决创造性问题，多和人打交道了。",
-      "reads": "8.9万",
-      "ago": "21 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Keith自己经营业务并担任兼职外包IT，此前需在Codex工作流中管理大量项目与子文件夹、域名及邮件系统。",
-        "针对学院老旧设备一旦宕机可能丢失数据的痛点，他直接拍照交给DOT整理成电子表格，以此判断设备更换优先级。",
-        "案例视频还展示了将服务器迁移上云、发现错误并完成修复的片段，Keith称现在正享受「人生中最开心的时光」。"
-      ],
-      "quote": {
-        "who": "Greg Brockman",
-        "role": "",
-        "said": "点一下，就能干正事"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 8.9万 · 产品与生态] 管账号、迁云全交给DOT，ChatGPT晒出IT外包老哥的减负日常"
-    },
-    {
       "title": "谷歌又卷疯了：Gemini 4 Neon上线，单任务成本最高省80%",
       "summary": "谷歌正式将 Gemini 4 Neon 加入 Gemini 4 家族，直接把前沿模型的任务成本打下来。官方称它在编程、科学和知识工作上都能提供前沿性能，且每个任务的成本比顶级竞品低约 50% 到 80%。",
       "reads": "3.5万",
-      "ago": "20 小时前",
+      "ago": "1 天前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [],
@@ -72,133 +24,283 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 3.5万 · 模型与能力] 谷歌又卷疯了：Gemini 4 Neon上线，单任务成本最高省80%"
+      "rank": 1,
+      "line": "[榜第1位 · 3.5万 · 模型与能力] 谷歌又卷疯了：Gemini 4 Neon上线，单任务成本最高省80%"
     },
     {
-      "title": "断网飞机上拿Mac写飞行模拟器！Mira Murati带Inkling 2 Mini上天跑分",
-      "summary": "一趟没有 Wi-Fi 的飞机上，Inkling 2 Mini 完全在 Mac 本地跑着，写出了一款飞行模拟器。Thinking Machines 创始人、前 OpenAI CTO Mira Murati 转发了这段发帖者演示，并称团队昨天还申请批准飞「到任何地方」，给 Inkling 2 Mini 做一次「飞机基准测试」。",
-      "reads": "3.0万",
-      "ago": "20 小时前",
+      "title": "砸9万美元请顶级专家，METR还是没找到能打败前沿模型的人类",
+      "summary": "砸下9万美元、按每小时200至350美元聘请顶级专家，还是没能找到能打败前沿模型的人类。有帖子转述METR刚发布的Q4更新吐槽称，这份报告把最炸的重点给埋了。这批受测者中包括Codeforces特级大师和ARC-AGI冠军，在跨度数月的优化竞赛中排名高达第96至98百分位。",
+      "reads": "1472",
+      "ago": "23 小时前",
       "category": "模型与能力",
       "source": "新智元",
-      "bullets": [
-        "原帖同时放出试用邀请，称可在自己的笔记本电脑上直接体验 Inkling 2 Mini。",
-        "投资人 Ramez Naam 随后转发该演示并表示，真正本地运行模型的进展值得关注，AI 能力普及化对构建更好的世界至关重要。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Ramez Naam",
+        "who": "🍓🍓🍓",
         "role": "",
-        "said": "看到能在本地真正运行的模型取得这种进展，太棒了。AI 能力的普及化对构建更好的世界至关重要。"
+        "said": "metr 刚发了 Q4 更新，把重点给埋了。 他们花了 9 万美元，按每小时 200-350 美元的价格请专家（包括 codeforces 特级大师和 arc-agi 冠军），结果还是没找到能打败前沿模型的人类。 在多个月优化竞赛中处于第 96 到 98 百分位。27"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 1472 · 模型与能力] 砸9万美元请顶级专家，METR还是没找到能打败前沿模型的人类"
+    },
+    {
+      "title": "Anthropic研究员声称用AI解决黎曼猜想，已有数学家本地验证",
+      "summary": "黎曼猜想真被AI解出来了？Anthropic PBC一名研究员声称，已用公司AI软件解决这一著名数论难题。据彭博报道，数学家Levent Alpöge已在个人网站发布说明和代码，包括Andrew Sutherland在内的其他数学家也已在各自电脑上验证了他的工作。",
+      "reads": "1153",
+      "ago": "1 天前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "大猫剑客",
+        "role": "",
+        "said": "彭博：Anthropic PBC 的一名研究人员声称，已使用该公司的人工智能软件解决了著名的数论难题——黎曼猜想。 数学家 Levent Alpöge 在其个人网站上发布了一份说明和代码，包括 Andrew Sutherland 在内的其他数学家已在各自电脑上验证了他的工作。 据 Sutherland 和 Noah Giansiracusa"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 1153 · 模型与能力] Anthropic研究员声称用AI解决黎曼猜想，已有数学家本地验证"
+    },
+    {
+      "title": "有人用GPT-6.2 Astra搓出海洋生存游戏，风暴疯浪全塞进单个HTML",
+      "summary": "风暴和疯浪全在游戏内发生，整款 3D 海洋生存游戏被直接打包进单个独立 HTML 文件。Token Gremlin 晒出这段演示并自述，作品由 GPT-6.2 Astra 打造：先用 Blender 完成 3D 资产与模拟，再导入 Three.js 跑通。",
+      "reads": "1066",
+      "ago": "23 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Token Gremlin",
+        "role": "",
+        "said": "用 GPT-6.2 Astra 做了这款海洋生存游戏。 Blender 负责 3D 资产和模拟，导入 Three.js，最后打包成一个独立的 HTML 文件。 你看到的一切都在游戏内发生，从风暴到疯浪，再到"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 3.0万 · 模型与能力] 断网飞机上拿Mac写飞行模拟器！Mira Murati带Inkling 2 Mini上天跑分"
+      "line": "[榜第4位 · 1066 · 模型与能力] 有人用GPT-6.2 Astra搓出海洋生存游戏，风暴疯浪全塞进单个HTML"
     },
     {
-      "title": "谷歌向数亿人免费推Gemini Tasks！能打电话、回邮件还能直接结账",
-      "summary": "谷歌正在向数亿人免费推出 Gemini 的 Tasks 功能，不仅能替你回复邮件和更新日历，还能直接给本地商家打电话，甚至通过 Google Pay 完成结账。据媒体帖披露，这次把邮件、日程、电话和支付串成一条龙的代办能力，直接面向数亿用户免费开放。",
-      "reads": "4.1万",
+      "title": "特斯拉造机器人或上大压铸？德州Optimus工厂现4座支架地基",
+      "summary": "曾改变造车方式的房子大小压铸机 Giga Press，看起来要搬进特斯拉德州 Optimus 工厂了！现场观察者 Joe Tegtmeyer 发现，工厂东南侧四个加固地基正在钢筋中安装疑似 IDRA Giga Press 框架支架并准备浇筑混凝土，和铸造区装机时完全一样。至于机器人为何需要它，转述解读只给了一个词：规模。",
+      "reads": "309",
       "ago": "23 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "转发邮件给 Gemini 即可自动处理 RSVP 并更新日历",
-        "支持直接致电本地商家",
-        "可通过 Google Pay 完成结账"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "0xMarioNawfal",
+        "who": "Ming",
         "role": "",
-        "said": "Google 正在向数亿人免费推出 Gemini 的 Tasks 功能。 ⁠把邮件转发给 gemini，它就能回复并更新日历 ⁠Gemini 可以打电话给本地商家 ⁠可以通过 Google Pay 结账 你会让 Gemini 干这些活吗？"
+        "said": "轰隆 🚨 Tesla 的 Giga Press，那台改变汽车制造方式的房子大小的机器，看起来要搬去 Texas 的 Optimus 工厂了 🔥 工人们正在往四个大基座里装它的固定支架 🆒 但机器人为什么需要 Giga Press？ 答案是规模 🔥 一台 Giga"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 4.1万 · 产品与生态] 谷歌向数亿人免费推Gemini Tasks！能打电话、回邮件还能直接结账"
+      "line": "[榜第5位 · 309 · 产品与生态] 特斯拉造机器人或上大压铸？德州Optimus工厂现4座支架地基"
     },
     {
-      "title": "GPT-6.2 Astra一天打数百场，登顶SO-101机器人Elo榜",
-      "summary": "GPT-6.2 Astra 在机器人领域也能打，仅用一天就在真实场景里跑了数百次一对一对抗测试，直接冲上 RoboColosseum 的 SO-101 Elo 排名第一。OpenAI 总裁 Greg Brockman 转发了这段实测表现，并配文「面向机器人领域的 GPT-6.2」。",
-      "reads": "3.0万",
-      "ago": "20 小时前",
-      "category": "模型与能力",
+      "title": "600亿美元收购三个月后，传SpaceX要把Cursor改名Grok Build",
+      "summary": "三个月前刚以约600亿美元卖给SpaceX的Cursor，品牌名可能要成为历史了。有网友转述称，SpaceX计划将其更名为Grok Build，不再使用Cursor品牌。另有引用帖提到，macOS桌面版的内部及夜间构建版本已经改名。",
+      "reads": "116",
+      "ago": "23 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "新版计划推出更轻量、运行更快的桌面和网页应用",
+        "品牌更名后仍会保留Cursor标志性的立方体图标",
+        "Cursor最新命令行工具已经开始接入Grok Build，测试版支持使用Cursor或Grok账号登录"
+      ],
       "quote": {
-        "who": "Greg Brockman",
+        "who": "思维怪怪",
         "role": "",
-        "said": "面向机器人领域的 GPT-6.2："
+        "said": "SpaceX 计划将三个月前以约 600 亿美元收购的 Cursor 更名为 Grok Build。新版将推出更轻量、运行更快的桌面和网页应用，保留 Cursor 标志性的立方体图标，但不再使用 Cursor 品牌。 Cursor 最新命令行工具已经开始接入 Grok Build。测试版支持使用 Cursor 或 Grok 账号登录，还能调用包括"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 3.0万 · 模型与能力] GPT-6.2 Astra一天打数百场，登顶SO-101机器人Elo榜"
+      "line": "[榜第6位 · 116 · 产品与生态] 600亿美元收购三个月后，传SpaceX要把Cursor改名Grok Build"
     },
     {
-      "title": "嫌594B太大，Thinking Machines甩出26B循环模型，笔记本就能跑",
-      "summary": "嫌 Inkling 2 Small 的 594B 参数太庞大，Thinking Machines 推出只有 26B 参数的循环 Transformer 模型 Inkling 2 Mini，小到能直接在笔记本上运行。这款面向智能体任务的开放权重模型在 AA Index 拿下 20.1 分，有用户分享本地只需 16GB 内存笔记本、Ollama 和 Wi-Fi 即可跑通。",
-      "reads": "3.3万",
-      "ago": "22 小时前",
-      "category": "模型与能力",
+      "title": "Anthropic股市首秀，直接跻身全球最高市值公司之列",
+      "summary": "Anthropic在股市首秀中直接跻身全球最高市值上市公司行列。北欧AI研究所（Nordic AI Institute）转发《卫报》消息称，这家AI巨头一经上市便成为全球最有价值的上市公司之一。",
+      "reads": "89",
+      "ago": "1 天前",
+      "category": "资本与算力",
       "source": "新智元",
-      "bullets": [
-        "Design Arena 披露该模型为开放权重发布，总参数 26.4B、激活参数 3.4B，目前已上线 DesignArena 平台。",
-        "模型现已同步接入 Arena.ai 旗下的 Agent Arena，将在数百万个真实世界长程智能体任务中接受测试，具体评分待出。",
-        "前 OpenAI 研究员 will depue 对 Thinking Machines 推出循环 Transformer 表示惊叹，社区里也有人调侃「开源的…",
-        "Engram Lab 研究员 Jack Morris 顺势玩梗，称已把新模型下进了微波炉、智能电视和迷你冰箱，还在树莓派集群里跑起了物联网集群。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Lisan al Gaib",
+        "who": "Nordic AI Institute",
         "role": "",
-        "said": "*开源的 loopers 要来了 完蛋了"
+        "said": "The Guardian @guardian : Anthropic 在股市首秀中成为世界上最有价值的上市公司之一。#AI #aistrategy #industry40"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 3.3万 · 模型与能力] 嫌594B太大，Thinking Machines甩出26B循环模型，笔记本就能跑"
+      "line": "[榜第7位 · 89 · 资本与算力] Anthropic股市首秀，直接跻身全球最高市值公司之列"
     },
     {
-      "title": "现在能从Apple CarPlay呼叫Dot了，下次开车只靠说话就能尝试办事",
-      "summary": "现在可以从 Apple CarPlay 直接呼叫 Dot，下次开车路上只靠说话就能尝试搞定事情。被引更新公布了这一用法，OpenAI 总裁 Greg Brockman 随后转发并配文「从 Apple CarPlay 呼叫 Dot」。OpenAI 开发者体验研究员 dominik kundel 也幽默回应称，自己「被一个点编辑过，不过开车时不会这样」。",
-      "reads": "2.8万",
-      "ago": "21 小时前",
-      "category": "产品与生态",
+      "title": "大模型炒美股回测很准？小心它只是在背历史标准答案",
+      "summary": "拿大模型跑历史美股或宏观策略回测，最怕遇到「未来函数」（Hindsight Leakage）：你以为模型靠财报和新闻推演出了涨跌，其实它只是背出了预训练语料里的历史标准答案。有用户指出，为了自证清白，目前业界的常规操作主要有三条。",
+      "reads": "78",
+      "ago": "1 天前",
+      "category": "模型与能力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "卡住厂商公布的模型训练截止日。",
+        "先让模型自查是否知道该时期数据，过滤掉已知样本。",
+        "或者在 Prompt 中处理。"
+      ],
       "quote": {
-        "who": "Greg Brockman",
+        "who": "lifcc",
         "role": "",
-        "said": "从 Apple CarPlay 呼叫 Dot："
+        "said": "拿大语言模型跑历史美股或宏观策略回测，最怕的就是未来函数（Hindsight Leakage）——你以为模型靠财报和新闻推演出了涨跌，其实它只是背出了预训练语料里的历史标准答案。 为了证清白，现在业界的常规操作无非三条：卡厂商公布的训练截止日、先让模型自查知不知道该时期数据过滤掉已知样本、或者在 Prompt"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 2.8万 · 产品与生态] 现在能从Apple CarPlay呼叫Dot了，下次开车只靠说话就能尝试办事"
+      "line": "[榜第8位 · 78 · 模型与能力] 大模型炒美股回测很准？小心它只是在背历史标准答案"
     },
     {
-      "title": "苹果折叠屏iPhone Duo能刷脸了！但45分钟失效还不能付款",
-      "summary": "买折叠屏iPhone Duo的用户总算不用死磕电源键指纹了，iOS 27.3第二个beta刚加上前置摄像头刷脸解锁，但只是权宜之计：45分钟内必须用Touch ID或密码授权过，还不能拿来Apple Pay付款或填密码。MacRumors汇总还显示，该测试版同步上线了每日Siri AI额度，各档iCloud+能加多少量也一并摊牌。",
-      "reads": "3333",
+      "title": "授权前先甩你一脸私人照片！macOS新隐私弹窗专治AI乱翻文件",
+      "summary": "给AI应用开全盘权限前，Mac先弹出你的私人照片缩略图「吓」你一跳！Daring Fireball实测macOS 27.3 Beta 2一周后认为，这套新隐私控制反而给了用户更多掌控权，能有效劝退乱给AI授权；唯一槽点是新MacBook Pro灵动岛被8个常驻工具图标占满，想关还得靠隐藏命令。",
+      "reads": "0",
+      "ago": "6 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "起因是Meta的Muse应用此前拿到完全磁盘访问权限后，被部分用户发现能读取传入的iMessage。",
+        "请求完全磁盘访问权限的应用，现在可改为只授权指定文件夹列表，弹窗也会展示个人照片缩略图来降低理解门槛。",
+        "Daring Fireball认为新弹窗设计合理且不至于过度恐吓，真懂风险的用户不会被劝退。",
+        "但应用控制其他应用时，系统会在菜单栏或PROLED款新MacBook Pro的灵动岛常驻显示指示器，作者实测同时挂了8个，反而容易让人忽略异常授权。"
+      ],
+      "quote": {
+        "who": "Daring Fireball",
+        "role": "",
+        "said": "★ 体验 macOS 27.3 Beta 2 的新隐私控制一周 周一，当 v27.3 系统的第二个测试版发布时，我发帖提到了 Apple 新增的隐私控制功能。这兑现了他们一个月前的承诺——起因是 Meta 的 Muse app 在获得“完全磁盘访问权限”后，让部分用户惊讶地发现它能读取哪些信息（比如传入的 iMessage），而有些用户当时直接点了授权。我还贴了 Apple 对应的新支持文档链接。我周一的第一印象：我…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 0 · 政策与安全] 授权前先甩你一脸私人照片！macOS新隐私弹窗专治AI乱翻文件"
+    },
+    {
+      "title": "苹果AI也要限流了！27.3版本起，想多用得升级iCloud+",
+      "summary": "苹果AI也要开始「按天限流」了，修图、跑快捷指令用超了就得等重置，或者直接升级iCloud+提额。Apple Support文档披露，2027年软件版本起Siri AI与Apple Intelligence对受支持设备免费开放，但依赖服务器大模型的部分功能将从27.3版本起按iCloud+订阅档位划分每日限额。",
+      "reads": "0",
       "ago": "8 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "真正的Face ID仍是第二代折叠屏iPhone Duo的高优先级改进方向。",
-        "上周五开售的HomeView被部分用户反馈存在Siri AI等故障，苹果在发布不到一周后已推送27.2.1修复部分bug。",
-        "苹果预计2027年推出至少18款新品，包括20周年款iPhone 20 Pro/Pro Max、全新智能眼镜、更大尺寸HomeView以及带摄像头的AirP…",
-        "传闻称iPhone 20 Pro将借鉴iPhone Air设计，从铝金属回归钛金属边框，并配备四边向下弯曲的近无边框玻璃屏幕。"
+        "限额按单台设备、按功能类别独立计算，用超后会收到系统通知",
+        "受限功能涵盖Siri AI Images智能修图（Clean Up、Extend、Spatial Reframing）与Image Playground",
+        "快捷指令（Shortcuts）中的AFM Cloud与Cloud Pro模型，以及使用Private Cloud Compute的第三方App同样计入限额",
+        "达到每日上限后，用户可等待该设备次日重置，或升级符合条件的iCloud+方案立即提额"
+      ],
+      "quote": {
+        "who": "Daring Fireball",
+        "role": "",
+        "said": "苹果文件曝光：不同 iCloud+ 付费档位对应不同的 Apple Intelligence 使用限额 Apple Support：从 2027 年的软件版本开始，只要设备受支持且语言设置符合要求，Siri AI 和 Apple Intelligence 功能对免费用户开放。部分功能依赖强大的服务器模型，存在使用限制；从 27.3 版本起，符合条件的 iCloud+ 计划可提供更高的访问权限。包括但不限于以下类别的功…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 0 · 产品与生态] 苹果AI也要限流了！27.3版本起，想多用得升级iCloud+"
+    },
+    {
+      "title": "Siri跳票被告虚假广告，苹果花2.5亿美元和解：每台预计至少赔61美元",
+      "summary": "Siri AI 跳票引发的虚假广告集体诉讼，苹果掏出 2.5 亿美元和解，每台符合条件的 iPhone 预计至少赔 61 美元、最高 95 美元。MacRumors 报道，本周法庭文件披露了上述早期测算，索赔将于 12 月 21 日截止，最终批准听证定于 2027 年 2 月 24 日，明年起开始赔付；苹果否认所有指控。",
+      "reads": "0",
+      "ago": "9 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "索赔仅限美国居民，须在 2024 年 6 月 10 日至 2025 年 3 月 29 日期间在美国购买非转售的 iPhone 15 Pro 系列或 iPho…",
+        "苹果在 2024 年 6 月预览了个人情境理解、屏幕感知等新 Siri 能力，2025 年 3 月宣布延迟后被起诉虚假广告；苹果称和解是为避免审判成本与风险…",
+        "迟到的 Siri AI 已于今年 6 月 WWDC 2026 正式公布，目前随 iOS 27 向 iPhone 15 Pro 及更新机型推送，但仍处于 be…"
+      ],
+      "quote": {
+        "who": "MacRumors",
+        "role": "",
+        "said": "Siri AI 和解：Apple 会赔你多少钱 今年五月，Apple 同意支付 2.5 亿美元以解决一起关于 Siri AI 延迟发布的美国集体诉讼，目前距离通过和解网站提交索赔的截止日期还剩一个月。本周早些时候的一份法庭文件中，律师表示，根据目前的早期参与数据，索赔人每部符合条件的 iPhone 预计至少能拿到 61 美元。Apple 将向符合条件的客户支付每部符合条件的 iPhone 最低 25 美元的款项，大家…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 0 · 产品与生态] Siri跳票被告虚假广告，苹果花2.5亿美元和解：每台预计至少赔61美元"
+    },
+    {
+      "title": "英伟达研究员泼冷水：卷超大上下文窗口，其实是条死胡同",
+      "summary": "大模型越卷越长的上下文窗口，可能从一开始就走偏了。Nvidia 研究员指出，完整上下文不仅又慢又贵还容易出错，测试中靠定期摘要加定向关键词搜索，就能以极低成本达到相当效果。据 The Decoder 报道，团队甚至提出了一类只靠「短笔记」而非长上下文工作的新模型。",
+      "reads": "0",
+      "ago": "9 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "The Decoder",
+        "role": "",
+        "said": "Nvidia 研究员认为超大的 AI 上下文窗口是条死胡同 Nvidia 的研究员们指出，语言模型往往并不需要完整的上下文窗口——那些东西又慢、又贵、还容易出错——并提出了替代方案。在测试中，定期摘要加上定向关键词搜索，通常能以极低的成本达到与全量上下文相当的效果。团队甚至提出了一类新模型，靠短笔记而非长上下文来工作。文章《Nvidia 研究员认为超大的 AI 上下文窗口是条死胡同》首发于 The Decoder。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 0 · 模型与能力] 英伟达研究员泼冷水：卷超大上下文窗口，其实是条死胡同"
+    },
+    {
+      "title": "佛蒙特州寺院要为硅谷造AI神，连信徒每次呼吸都录下来训模型",
+      "summary": "硅谷对AI末日论的痴迷，已经把佛蒙特州一座叫Maple的佛教寺院推向了「造神」现场。据《纽约客》报道，该寺院试图成为硅谷的精神权威，领袖Soryu Forall的团队甚至记录成员的每一次呼吸，用来训练一个以他形象为蓝本的「AI神」。不过多名曾身处其中的前成员称，自己遭遇了操控和心理崩溃。",
+      "reads": "0",
+      "ago": "10 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "The Decoder",
+        "role": "",
+        "said": "硅谷对 AI 末日论的痴迷日益加深，正让科技行业的某些部分滑向类似邪教式的狂热。 佛蒙特州一个叫 Maple 的佛教寺院，想把自己打造成硅谷的精神权威，同时还要造一个属于自己的 AI 神。据《纽约客》报道，领袖 Soryu Forall 的团队会记录成员每一次呼吸，用来训练一个以他形象为蓝本的 AI。前成员爆料称遭遇了操控和心理崩溃。文章《硅谷对 AI 末日论的痴迷日益加深，正让科技行业的某些部分滑向类似邪教式的狂热…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 0 · 政策与安全] 佛蒙特州寺院要为硅谷造AI神，连信徒每次呼吸都录下来训模型"
+    },
+    {
+      "title": "苹果明年至少发18款新品！20周年iPhone传出四边曲面屏",
+      "summary": "苹果2027年预计至少推出18款新品，20周年iPhone 20 Pro也被传将借鉴iPhone Air设计、回归钛金属边框并配四边弯曲近无边框屏幕。MacRumors汇总近期动态显示，iOS 27.3 beta 2已为折叠屏iPhone Duo补上前置摄像头面部解锁并上线Siri AI每日额度，HomeView发布不到一周也获27.2.1紧急修复。",
+      "reads": "0",
+      "ago": "12 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "iPhone Duo在iOS 27.3 beta 2新增的面部解锁仅限解锁手机，需45分钟内完成Touch ID或密码授权，不能用于Apple Pay或自动…",
+        "iOS 27.3 beta 2同步上线Siri AI每日使用限额，并明确不同iCloud+套餐的额外额度。",
+        "2027年苹果预计发布的新品还包括全新智能眼镜、更大尺寸的HomeView以及带摄像头的AirPods Pro。",
+        "苹果本周二出现平台服务大故障，影响Apple Account、iCloud登录及零售店交易，官方称源于未指明的内部更新而非网络攻击。"
       ],
       "quote": {
         "who": "MacRumors",
@@ -209,148 +311,52 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 3333 · 产品与生态] 苹果折叠屏iPhone Duo能刷脸了！但45分钟失效还不能付款"
-    },
-    {
-      "title": "Gemini 4 Neon实测曝光！输入/swarm，直接拉起一支AI团队干活",
-      "summary": "连续玩了 5 天 Gemini 4 Neon，第一条核心玩法就是输入 /swarm，直接给它配一个研究员、一个设计师和几个工程师。获 Google 早期访问权限并获节目赞助的 KOL 晒出了这一早期体验，面向想用 AI 做酷东西的人，目前仅放出了 10 条洞察中的第 1 条。",
-      "reads": "1.8万",
-      "ago": "21 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "GREG ISENBERG",
-        "role": "",
-        "said": "我已经连续玩了 5 天 Gemini 4 Neon。Google 给了我早期访问权限，并赞助了今天的节目。 使用 Gemini 4 Neon 的 10 个洞察（给那些想用 AI 做点酷东西的人）： 1. 输入 /swarm，给它一个研究员、一个设计师和几个工程师。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 1.8万 · 模型与能力] Gemini 4 Neon实测曝光！输入/swarm，直接拉起一支AI团队干活"
-    },
-    {
-      "title": "菜鸟黑客靠越狱AI连攻欧洲银行9天，作案提示词全忘在公网服务器",
-      "summary": "一名低技能法语黑客靠越狱AI智能体连攻欧洲银行、保险公司和城镇9天，转头却把输入过的每一条提示词都留在了开放服务器上。据International Cyber Digest披露，威胁情报公司SOCRadar在服务器里翻出了这些作案记录，旁边还躺着约10GB包含银行记录在内的被盗数据。",
-      "reads": "2.0万",
-      "ago": "22 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "‼️ 一个低技能法语黑客让越狱的 AI 智能体攻击了欧洲银行、保险公司和城镇，持续九天。然后他把输入的所有提示词都留在了一个开放服务器上。 威胁情报公司 SOCRadar 在那里发现了它，旁边还有大约 10GB 被盗数据，包括银行记录"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 2.0万 · 政策与安全] 菜鸟黑客靠越狱AI连攻欧洲银行9天，作案提示词全忘在公网服务器"
-    },
-    {
-      "title": "AI编程公司Cognition AI被曝谈750亿美元融资，距上轮仅两个月",
-      "summary": "AI编程初创公司 Cognition AI 被曝正以 750 亿美元估值洽谈新一轮融资，距离它官宣上一轮融资仅仅过去两个月。据彭博社援引消息人士称，目前该轮融资仍处于谈判阶段。",
-      "reads": "1.9万",
-      "ago": "22 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Bloomberg",
-        "role": "",
-        "said": "据消息人士称，AI 编程初创公司 Cognition AI 正以 750 亿美元的估值进行融资谈判，距离其宣布最近一轮融资仅过去两个月"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 1.9万 · 资本与算力] AI编程公司Cognition AI被曝谈750亿美元融资，距上轮仅两个月"
-    },
-    {
-      "title": "黎曼猜想被证明了？Anthropic数学家自称靠Claude拿下",
-      "summary": "数学界公认最重要的未解难题——黎曼猜想，可能真被AI拿下了？据The Economist报道，Anthropic数学家Levent Alpöge表示，他已经借助Claude完成了黎曼猜想的证明。",
-      "reads": "1.9万",
-      "ago": "23 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "The Economist",
-        "role": "",
-        "said": "Anthropic 的数学家 Levent Alpöge 表示，他利用 Claude 证明了黎曼猜想，这被普遍认为是数学领域最重要的未解问题"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 1.9万 · 模型与能力] 黎曼猜想被证明了？Anthropic数学家自称靠Claude拿下"
-    },
-    {
-      "title": "Anthropic IPO被散户买爆了，认购约1200亿美元反超SpaceX",
-      "summary": "Anthropic 首次公开募股吸引到的散户股票需求约 1150 亿至 1200 亿美元，直接超过了 SpaceX 上市时的散户认购规模。彭博援引知情人士透露了这一数字，足见散户对这波 AI 巨兽上市的抢筹热情。",
-      "reads": "1.9万",
-      "ago": "23 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "Bloomberg",
-        "role": "",
-        "said": "据知情人士透露，Anthropic 的首次公开募股吸引了散户投资者约 1.15 万亿至 1.2 万亿美元的股票需求，超过了 SpaceX 上市时的认购金额"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 1.9万 · 资本与算力] Anthropic IPO被散户买爆了，认购约1200亿美元反超SpaceX"
+      "line": "[榜第14位 · 0 · 产品与生态] 苹果明年至少发18款新品！20周年iPhone传出四边曲面屏"
     },
     {
-      "title": "Anthropic周五又创新高！史上最大IPO没走SpaceX老路",
-      "summary": "Anthropic上市后周五又创了新高，没像当年SpaceX那样先涨几天就回落。彭博社「Evening Briefing Americas」将两家巨头对比时指出，这家已是史上最大IPO的公司在周五继续走高。",
-      "reads": "1.5万",
-      "ago": "21 小时前",
-      "category": "资本与算力",
+      "title": "嫌GPT-6.2 Astra回答太短还爱追问？OpenAI官方发提示词模板了",
+      "summary": "OpenAI为GPT-6.2 Astra和Sol放出新提示词模板，专治回答过短、不必要追问和写代码时过度测试这三大常见毛病。据The Decoder报道，OpenAI同步调整了API，编辑对话历史可能会丢弃推理内容并拉低响应质量。",
+      "reads": "0",
+      "ago": "12 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Bloomberg",
+        "who": "The Decoder",
         "role": "",
-        "said": "SpaceX 上市时先涨几天再跌。Anthropic 已经是史上最大 IPO，周五又创了新高：Evening Briefing Americas"
+        "said": "OpenAI 分享针对 GPT-6.2 Astra 和 Sol 的新提示词技巧，旨在修复回答过于简短和不必要提问的问题 OpenAI 发布了适用于 GPT-6.2 Astra 和 Sol 的新提示词模板，意在解决模型常见的行为问题，例如回答过于简略、提出不必要的后续问题以及编码时过度测试。API 也在发生变化，因为编辑对话历史可能会丢弃推理内容并降低响应质量。文章《OpenAI 分享针对 GPT-6.2 Astra…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 1.5万 · 资本与算力] Anthropic周五又创新高！史上最大IPO没走SpaceX老路"
+      "line": "[榜第15位 · 0 · 产品与生态] 嫌GPT-6.2 Astra回答太短还爱追问？OpenAI官方发提示词模板了"
     },
     {
-      "title": "刚创下纪录IPO，Anthropic研究员自称用AI解决了黎曼猜想",
-      "summary": "Anthropic 刚创下破纪录的 IPO，公司一名研究员就抛出重磅说法：他相信自己用自家 AI 软件解决了困扰数学家超过 150 年的著名数论难题——黎曼猜想。据 Bloomberg 报道，目前这一说法仅来自该研究员本人的表态。",
-      "reads": "1.4万",
-      "ago": "21 小时前",
+      "title": "Claude刚宣称证明黎曼猜想，斯坦福几小时后甩出纯人类草稿",
+      "summary": "悬置167年的黎曼猜想，一天之内冒出AI与纯人类两份证明草稿。据The Decoder报道，Anthropic数学家Levent Alpöge声称已用Claude完成证明并在Lean中形式化，仅几小时后，斯坦福研究人员也发布了独立的纯人类竞争草稿，目前数学家正核查两份证明是否成立。",
+      "reads": "0",
+      "ago": "14 小时前",
       "category": "模型与能力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "Anthropic数学家Levent Alpöge称，该Claude证明已在Lean中形式化，篇幅超过25万页",
+        "斯坦福研究人员发布的竞争证明草稿独立完成，且完全由人类撰写",
+        "数学界目前尚未确认两份证明中的任何一份成立"
+      ],
       "quote": {
-        "who": "Bloomberg",
+        "who": "The Decoder",
         "role": "",
-        "said": "在 Anthropic 创下纪录的 IPO 之后，该公司一名研究员表示，他相信自己用其 AI 软件解决了黎曼猜想，这个困扰数学家超过 150 年的著名数论难题"
+        "said": "Anthropic 声称用 Claude 证明了黎曼猜想后没几个小时，斯坦福就放出了一份全人类完成的竞争草稿 Anthropic 数学家 Levent Alpöge 表示，他用 Claude 证明了黎曼猜想——这个悬置了 167 年的数学界头号难题。证明在 Lean 中形式化，篇幅超过 25 万页。仅仅几小时后，斯坦福的研究人员就发布了一份独立的、完全由人类完成的竞争证明。现在数学家们正在核查这两份证明哪一份站得住脚…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 1.4万 · 模型与能力] 刚创下纪录IPO，Anthropic研究员自称用AI解决了黎曼猜想"
+      "line": "[榜第16位 · 0 · 模型与能力] Claude刚宣称证明黎曼猜想，斯坦福几小时后甩出纯人类草稿"
     }
   ],
   "board_count": 16,
