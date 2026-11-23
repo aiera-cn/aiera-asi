@@ -3,372 +3,383 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-23 16:55:47 +0800",
-  "today": "11/23",
+  "fetched_at": "2026-11-24 05:14:37 +0800",
+  "today": "11/24",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "Anthropic债券要被评成「垃圾级」？华尔街不信它能扛住长期债务",
-      "summary": "成立不到六年且尚未盈利的Anthropic，正被债市提前「看衰」——市场预期信用评级机构将把它的债券评为低于投资级的「垃圾级」。据《华尔街日报》报道，华尔街对其能否履行长期债务义务缺乏信心。",
-      "reads": "18万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
+      "title": "OpenAI公开内部训练曲线急呼刹车，新模型距0.70未知区仅约3个月",
+      "summary": "OpenAI罕见公开内部预训练曲线：一个未具名模型已跨过解千禧年数学题的0.76线，照今年速度约3个月就将撞进未知能力区「?」。首席科学家Jakub Pachocki发文呼吁各实验室在越线前约定上限，获Sam Altman转发力挺。微软AI CEO随后晒出MAI-2 Base的0.819成绩单，与GPT-5.6 Sol同级。",
+      "reads": "444万",
+      "ago": "5 小时前",
+      "category": "政策与安全",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "曲线以预测文本或OpenAI代码库下一行的对数困惑度（log-perplexity）衡量，数值越低越强，其中GPT-3.5约0.99、GPT-4约0.91…",
+        "社区对图表的读取显示，2026年进度明显陡峭化，过去11个月下降约0.13，超过此前近4年约0.10的降幅；未具名内部模型目前约在0.73位置，0.68至0…",
+        "Jakub表示今年飞跃主要来自算力和长期研究，AI设计AI目前占比较小，但最快可能在2027年起飞，届时自我改进循环将进一步加速。",
+        "经OpenAI许可，微软报告MAI-2 Base在其评估集上对数困惑度为0.819；因双方使用相同tokenizer，该数字可直接与GPT-5.6 Sol基…"
+      ],
       "quote": {
-        "who": "The Wall Street Journal",
+        "who": "Aakash Gupta",
         "role": "",
-        "said": "Anthropic 尚未盈利，成立不到六年，华尔街并不确信它能履行长期债务。债市预计信用评级机构会把它的债券评为垃圾级，也就是低于投资级。"
+        "said": "OpenAI 首席科学家表示，他预计他们的 AI 下一个层级将展现出一些他还无法命名的新能力，而 OpenAI 甚至可能还没有针对这些能力进行测试。 他发布了这张图表。迄今为止的每个层级都伴随着一项新技能，按照今年的进度，他们未发布的模型距离下一个层级大约还有三个月。 这是他们的测量方式。OpenAI 根据模型预测 OpenAI 自身代码库中下一行代码的能力来给每个模型打分。这个数字叫做 log-perplexity…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 18万 · 资本与算力] Anthropic债券要被评成「垃圾级」？华尔街不信它能扛住长期债务"
+      "line": "[榜第1位 · 444万 · 政策与安全] OpenAI公开内部训练曲线急呼刹车，新模型距0.70未知区仅约3个月"
     },
     {
-      "title": "LeCun炮轰Dario：炒作AI危险只为掌权，顺带自曝离开Meta内幕",
-      "summary": "图灵奖得主 Yann LeCun 11月22日连番开炮，直指 Dario Amodei 自 GPT-2 起炒作 AI 危险，只为让开放模型非法化并独揽控制权，把封杀开源比作奥斯曼帝国禁印刷机。他还称掌控 Anthropic 的有效利他主义运动是「救世主邪教」，顺带自曝 Llama-4 令人失望且 Mark 重组 AI 部门搁置开放政策后，他离开创办了 AMI Labs。",
-      "reads": "33万",
-      "ago": "10 小时前",
-      "category": "政策与安全",
+      "title": "OpenAI推出OpenWorks，官方出钱请专家免费教小企业用AI",
+      "summary": "OpenAI推出新项目OpenWorks，直接资助本地AI专家，免费帮小企业开发工具和学习AI技能。总裁Greg Brockman表示，越来越常听到有人靠AI工具撑腰直接辞职创业，赚得更多。消息一出，Brian Roemmele随即唱反调，声称别找OpenAI，用Grok和Grok Bot免费做能赚10倍。",
+      "reads": "28万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "针对 AI 制造新病原体的担忧，LeCun 认为风险被大大高估：相关知识本就在教科书里，AI 只是提高获取效率，真要研发还需现实实验、受训博士团队及 DNA…",
-        "LeCun 称 Jensen 是开源/开放权重 AI 最坚定的倡导者之一，并指控 Anthropic 肯定对他的倒台抱有强烈兴趣。",
-        "LeCun 自述从未参与 Llama 技术研发，当年只参与争取开放 Llama-2 并为行业按下加速键；Llama-3 表现不错，而 Llama-4 因团队…",
-        "LeCun 表示开放基础模型能让任何人构建 AI 助手，从而带来语言、价值观体系、政治偏见和兴趣中心的高度多样性。"
+        "OpenWorks已开放报名，公开邀请热爱教学的AI专家和想学习落地AI的小企业主加入。",
+        "Greg Brockman称AI正在加速小企业成长，并切实降低了创业的准入门槛。",
+        "Brian Roemmele预告即将免费放出用Grok和Grok Bot服务本地企业的完整教程与工具，称自己是一线实战派而非「刚加入OpenAI的无名之辈」…"
       ],
       "quote": {
-        "who": "Yann LeCun",
+        "who": "Brian Roemmele",
         "role": "",
-        "said": "@arundsharma @huxlab 使用开放基础模型，任何人都可以在其上构建 AI 助手，从而实现语言、价值观体系、政治偏见和兴趣中心的高度多样性。"
+        "said": "别在 OpenAI 干这事，去 GROK！ 我会教你怎么免费搞定这个，只用 Grok 和 Grok Bot 就能为本地企业赚取 10 倍收益。 你将掌控自己的业务，不用沾染 OpenAI 的污点。 这是一份由真正在做这件事的人写的完整教程，而不是某个“刚加入 OpenAI”的路人。我提供没人免费给的细节和工具。 经验胜过理论。 即将上线，仅限。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 33万 · 政策与安全] LeCun炮轰Dario：炒作AI危险只为掌权，顺带自曝离开Meta内幕"
+      "line": "[榜第2位 · 28万 · 产品与生态] OpenAI推出OpenWorks，官方出钱请专家免费教小企业用AI"
     },
     {
-      "title": "特斯拉车机路况不是3D渲染！1B扩散模型实时生成，帧率36fps",
-      "summary": "特斯拉车机屏幕上丝滑的实时路况，其实是由车载约 1B 扩散模型实时去噪生成的 36 fps 小视频。马斯克透露，特斯拉自去年起就拥有近乎像素级完美的世界模型用于合成数据，车端版本则与 3B 驾驶模型共享视觉特征，仅用半个 TRIP 引擎运行。他坦言目前受算力限制延迟偏高，但已有办法再砍掉约 35% 延迟。",
-      "reads": "126万",
-      "ago": "16 小时前",
-      "category": "模型与能力",
+      "title": "美股总市值狂飙3万亿美元！黄仁勋复任CEO，散户迎来历史级大胜",
+      "summary": "黄仁勋刚恢复英伟达 CEO 职位，整个美国股市总市值应声暴增 3 万亿美元！在末日论者和空头高呼「AI 革命终结」之际，散户投资者疯狂抢筹逆风翻盘。金融分析机构 The Kobeissi Letter 称这将被证明是散户历史上最大的胜利之一，英伟达今天市值若能暴增超 1 万亿美元，还将成为史上首家达成该纪录的公司。",
+      "reads": "112万",
+      "ago": "5 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "车端采用条件均值流模型，基于 Tesla Universal Vision Encoder（UVE）特征序列从 3B 驾驶动作编码器模型分叉而出。",
-        "该约 1B 扩散模型将带噪的上一帧生成画面去噪还原为当前视图，每次输出 8 帧、36 fps、匹配 UI 屏分辨率的视频片段，每个 UVE 帧以 18 Hz…",
-        "马斯克称可通过在扩散 Transformer 层中交错插入更新的 UVE 特征，将当前偏高的计算延迟降低约 35%。",
-        "小互补充称，这套方案并非传统 3D 建模渲染，目前受限于 SoC B 硬件只能用 INT8 运算与模拟模式下的 28 步 Softmax，优化后有望只占三分…"
+        "随着黄仁勋复任英伟达 CEO，美国股市整体市值单日激增 3 万亿美元",
+        "在空头呼吁 AI 革命终结之际，大量散户逆势疯狂买入英伟达股票，打出历史级翻盘战",
+        "英伟达个股市值单日增量有望突破 1 万亿美元，若达成将成为美股历史上首家解锁该成就的企业",
+        "分析指出本轮行情最顶尖的投资者，正是利用了市场极端分化的恐慌与贪婪情绪"
       ],
       "quote": {
-        "who": "小互",
+        "who": "The Kobeissi Letter",
         "role": "",
-        "said": "马斯克： 特斯拉车载屏幕里那套极其逼真的实时 3D 周围环境画面，不是靠传统 3D 建模渲染出来的，而是由车载 AI 实时“脑补/生成”的一段小视频 从去年开始我们就拥有了一个~像素级精准的世界模型 云端完整版：生成各种极端路况的合成训练数据 车端轻量化版：用来在车机屏幕上实时生成可视化画面 画面是如何实时生成的？ 共享视觉底座（UVE）：车上的摄像头先通过 Tesla Universal Vision Encode…"
+        "said": "Nvidia 这件事将被证明是散户历史上最大的胜利之一。 当末日论者和空头呼吁 AI 革命终结时，散户投资者正在疯狂买入 $NVDA。 今天，该股市值可能增加超过 +1 万亿美元，使其成为历史上首个做到这一点的公司。 从来没有哪个市场比我们现在拥有的拥有更多机会。 最好的投资者利用情绪的两极分化。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 126万 · 模型与能力] 特斯拉车机路况不是3D渲染！1B扩散模型实时生成，帧率36fps"
+      "line": "[榜第3位 · 112万 · 组织与人事] 美股总市值狂飙3万亿美元！黄仁勋复任CEO，散户迎来历史级大胜"
     },
     {
-      "title": "能2倍做多也能2倍做空！Anthropic单股杠杆ETF将于今天17点开盘",
-      "summary": "Anthropic（$ANT）即将迎来两只单股2倍杠杆ETF，一边是2倍做多的$ANTT，另一边是2倍做空的$ANTZ。多个金融账号预告称，这两只由Tradr ETFs推出的产品预计将于美东时间11月23日凌晨4点（北京时间今天17:00）开始交易，同时反复提示杠杆交易涉及重大风险。",
-      "reads": "9.4万",
-      "ago": "6 小时前",
-      "category": "资本与算力",
+      "title": "不留数据也能跨请求抓滥用！Claude联合百余客户公测EFS安全防护",
+      "summary": "企业最头疼的零数据保留与跨请求防滥用终于能兼得了。Claude 面向符合条件的企业和组织开启 Enterprise Frontier Safeguards（EFS）公测，联合超 100 家客户共同开发。开启后，Messages API 流量的加密副本会直接发往客户自己的云存储，自动排查滥用并标记严重风险供团队审查。",
+      "reads": "27万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "已上线 Claude Platform、Claude Platform on AWS、Amazon Bedrock 和 Google Cloud 上的 Cl…",
+        "开发者可在 Claude Console 中按工作区开启，覆盖该工作区任意模型的所有 Messages API 请求。"
+      ],
       "quote": {
-        "who": "Evan",
+        "who": "ClaudeDevs",
         "role": "",
-        "said": "给那些交易 2x ETF 的人……小心明天早上要上线的这个 Anthropic 的 2x 做多和 2x 做空 ETF 应该会在美东时间明早 4 点开始交易 以下是需要关注的代码 $ANTT - Anthropic 2x 做多 ETF $ANTZ - Anthropic 2x 做空 ETF 收藏这条，并知道杠杆涉及重大风险。阅读更多"
+        "said": "带有企业前沿保障（Enterprise Frontier Safeguards）的零数据保留功能现已在 Claude Platform 上面向符合条件的组织公开测试。 你的 Messages API 流量的加密副本会发送到你自己的云存储。自动检查寻找滥用行为，并标记严重风险供你的团队审查。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 9.4万 · 资本与算力] 能2倍做多也能2倍做空！Anthropic单股杠杆ETF将于今天17点开盘"
+      "line": "[榜第4位 · 27万 · 政策与安全] 不留数据也能跨请求抓滥用！Claude联合百余客户公测EFS安全防护"
     },
     {
-      "title": "手握近2450亿美元！Anthropic现金储备逼近微软4倍",
-      "summary": "Anthropic 估算现金与投资已接近 2450 亿美元，体量几乎是微软的 4 倍。此前它刚完成 935 亿美元 IPO，并向选定投资者单独出售股份拿到 260 亿美元；据引述 Anthropic 及 SEC 文件的消息，这笔钱接下来将重点投向算力、基础设施和新招聘。",
-      "reads": "2.6万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
+      "title": "Gemini订阅只认Antigravity！Pi伪装被封，T3 Code过关",
+      "summary": "想用Gemini订阅接第三方工具，如今必须走Antigravity。Theo发文指出，T3 Code因调用Antigravity二进制文件得以接入Google API，而Pi靠伪造兼容层调用则被禁止，规则与Claude订阅一致。Dan McAteer也称自己已在T3 Code跑起Gemini 4 Neon，但Logan称这很快会变。",
+      "reads": "34万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "微软截至 9 月底报告的现金及短期投资为 645 亿美元，Anthropic 估算规模接近其 4 倍"
+        "Theo列出具体路径对比，T3 Code通过Antigravity二进制文件连向Google API获准通行，而Pi借助伪造的antigravity shi…",
+        "Dan McAteer提到，2026年第四季度第三方harness对Gemini模型的饥渴需求完全出乎他的预料。",
+        "对于T3 Code能运行Gemini 4 Neon的原因，Dan McAteer解释是因为它作为Antigravity的代理存在。"
       ],
       "quote": {
-        "who": "Mario Nawfal",
+        "who": "Dan McAteer",
         "role": "",
-        "said": "🇺🇸 Anthropic 估计手头的现金和投资现已接近 2450 亿美元。 这是在 935 亿美元 IPO，以及另一次向选定投资者出售股份募得 260 亿美元之后。 对照来看，Microsoft 在 9 月底披露的现金和短期投资为 645 亿美元。 按这个口径，Anthropic 的估计数字几乎是 Microsoft 的四倍。 眼下的计划是把钱投进算力、基础设施和新招聘。 Claude 的制造者刚刚多出一大截施展空间…"
+        "said": "2026 年 Q4，第三方 harness 里对 Gemini 模型的饥渴需求，根本不在我的 bingo card 上。 我一直在 T3 Code 里跑 Gemini 4 Neon。它被允许，是因为它是 Antigravity 的代理。 不过 Logan 说，这很快就会变。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 2.6万 · 资本与算力] 手握近2450亿美元！Anthropic现金储备逼近微软4倍"
+      "line": "[榜第5位 · 34万 · 产品与生态] Gemini订阅只认Antigravity！Pi伪装被封，T3 Code过关"
     },
     {
-      "title": "开源工具fast-anything火了：只用Rust重写最慢5%，两天狂揽2000多星",
-      "summary": "Python、Node、Ruby应用跑得慢，其实不用拿Rust全盘重写。开源工具fast-anything专门揪出最耗时的5%函数，直接交给Claude Code或Codex移植成Rust，自述上线两天已斩获2000多个Star。",
-      "reads": "7360",
+      "title": "ChatGPT推GPT-6.2 Sol日常版，能认标签小字还能帮盯降价",
+      "summary": "OpenAI今天在ChatGPT的Chat标签页推送日常对话版GPT-6.2 Sol，Plus、Pro、Business和Enterprise用户已开始收到。官方称它更擅长处理复杂指令与联网查询，能看清照片标签文字或标志符号，还会按价格、位置筛选比价并适时提示降价。社区都在观望这次能否找回像真人聊天的手感，实际表现还有待实测。",
+      "reads": "4.6万",
       "ago": "1 小时前",
-      "category": "产品与生态",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "工具会先对应用进行性能分析，定位出耗时最多的核心函数，再交由Claude Code或Codex完成局部Rust重写",
-        "自动记录最多500个真实调用并回放，以此验证Rust版本能否给出完全一致的答案",
-        "支持对整个应用进行原版与Rust版本的对比基准测试",
-        "通过一条命令即可将Rust移植结果替换进项目，也支持按字节原样回退"
+        "该版本专为日常对话场景打造，部署在ChatGPT的Chat标签页中。",
+        "面对详细指令和需要在线查找信息的复杂请求时，新版本处理能力大幅提升。",
+        "当用户对比在线选项并提出降价提醒等需求时，模型能更准确地判断介入时机并给出后续建议。",
+        "有社区用户感叹新模型来得比预期更快，不过也有测试账号提醒仍需更多时间观察实际效果。"
       ],
       "quote": {
-        "who": "0xMarioNawfal",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "别用 Rust 重写你的整个应用。只重写那 5% 慢的部分。 工具 fast-anything 会分析你的 Python、Node 或 Ruby 应用，找出耗时最多的函数，然后让 Claude Code 或 Codex 只把那些移植到 Rust。 → 它记录最多 500 次真实调用并回放，以证明 Rust 版本给出相同答案 → 它对整个应用进行基准测试，对比原版和 Rust 版 → 一条命令即可替换移植后的代码，且逐…"
+        "said": "@AdityaBatra072 我知道新模型要来了，但没想到这么快。他们的反应太疯狂了。看看它到底行不行。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 7360 · 产品与生态] 开源工具fast-anything火了：只用Rust重写最慢5%，两天狂揽2000多星"
+      "line": "[榜第6位 · 4.6万 · 模型与能力] ChatGPT推GPT-6.2 Sol日常版，能认标签小字还能帮盯降价"
     },
     {
-      "title": "20多张RTX 5090挂出天价，单张最高7000美元！",
-      "summary": "加拿大一家经销商在 Facebook Marketplace 挂出 20 多张 Nvidia RTX 5090，单张约 6600 至 7000 美元，未拆封还要再加约 350 美元，超原价 1999 美元三倍。据 International Cyber Digest 报道，若盒内确为所宣传显卡，整批估值约 14 万美元，但部分 5090 挂牌价两周多内已最多下跌 21%。",
-      "reads": "6232",
-      "ago": "1 小时前",
-      "category": "资本与算力",
+      "title": "Gemini 4智能体每4小时开会互辩，造出新量子电路把模拟成本砍10倍",
+      "summary": "一群 Gemini 4 智能体每四小时开一次会互相辩论，还拿形式化证明助手 Lean 给自己做数学验算，真造出了能在早期量子硬件上跑的新电路。Google DeepMind 官方宣布，这套方案能把聚变能源、化学和药物发现的未来模拟成本削减多达 10 倍，并已在 GitHub 开源。",
+      "reads": "7.2万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Newegg Canada 目前在售的 ASUS TUF 5090 标价 9,499.99 加元，按报道口径仅比该经销商起价低一美分。"
+        "智能体团队采用并行工作模式，通过 Lean 验证每一步电路优化在数学上的严谨性。",
+        "Google DeepMind 在 GitHub 同步开源了经过验证的量子电路方案及配套 Lean 库。",
+        "社区发帖者转述的具体案例显示，固定点 arcsin 便宜 290 倍，并行 Grover 便宜 2.57 倍。",
+        "转述案例中，聚变模拟便宜 11.8 倍，所需量子比特从 5,650 个降至 4,338 个。"
       ],
       "quote": {
-        "who": "International Cyber Digest",
+        "who": "Chetaslua",
         "role": "",
-        "said": "❗️ 加拿大一家经销商在 Facebook Marketplace 上挂出了 20 多张 Nvidia RTX 5090 显卡，每张标价约 6,600 到 7,000 美元，要是盒子没拆封还得再加 350 美元。 这价格可是 Nvidia 1,999 美元原价的三倍还多。如果盒子里真是宣传的那张卡，这一堆货值大概能到 14 万美元。 不过行情在跌。有些 5090 的挂牌价两周内最多跌了 21%，Newegg Cana…"
+        "said": "醒醒，新的科学发现。这就是我想象中奇点该有的样子。 Gemini 4 智能体刚在 Lean 4 中找到了形式化验证的量子算法： > 固定点 arcsin：便宜 290 倍 > 聚变模拟：便宜 11.8 倍（5,650 → 4,338 个量子比特） > 光化学：便宜 8.2 倍 > 并行 Grover：便宜 2.57 倍 > 细胞色素 P450：便宜 2.5 倍（481 → 333 个量子比特）"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 6232 · 资本与算力] 20多张RTX 5090挂出天价，单张最高7000美元！"
+      "line": "[榜第7位 · 7.2万 · 模型与能力] Gemini 4智能体每4小时开会互辩，造出新量子电路把模拟成本砍10倍"
     },
     {
-      "title": "OpenAI首席科学家发出警告：最早2027年，AI或自己训练出突破雪崩",
-      "summary": "AI 最早 2027 年就可能在训练自身上引发突破雪崩，而 OpenAI 首席科学家 Jakub Pachocki 已经开始呼吁各实验室在看清 AI 之前先约定别跨红线。据 International Cyber Digest 转述，他公布了一组对数困惑度数据：数值越低模型越强，一旦跌破 0.8 就在网络安全上获得「变革性能力」，到 0.68 至 0.7 附近甚至会出现今天还没…",
-      "reads": "1.1万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
+      "title": "华尔街怕Anthropic还不上债，债券恐被评为「垃圾级」",
+      "summary": "成立不到6年且至今尚未盈利，Anthropic的长期偿债能力让华尔街心里没底了。据《华尔街日报》报道，债市预计信用评级机构会把它的债券评为低于投资级的「垃圾级」。消息一出，甚至有人在评论区打趣：让Claude亲自来写份债券市场推介文案，说不定能救场。",
+      "reads": "59万",
+      "ago": "9 小时前",
+      "category": "资本与算力",
       "source": "新智元",
-      "bullets": [
-        "公布的对数困惑度（log-perplexity）基准中，GPT-3.5 约为 0.99，GPT-4 约为 0.91。",
-        "当该指标降至约 0.76 时，模型开始在开放数学问题上给出「开创性结果」。",
-        "针对预计在 0.68 至 0.7 区间出现的新飞跃，Pachocki 坦言目前不知道会是什么能力，且今天可能尚未针对它们进行测试。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "International Cyber Digest",
+        "who": "Nav Toor",
         "role": "",
-        "said": "‼️ OpenAI 首席科学家表示，当内部得分低于 0.8 时，其 AI 在网络安全领域获得了“变革性能力”。他希望各实验室就限制达成共识，在 AI 能被更好地监控之前不跨越这些界限。 Jakub Pachocki 发布了 OpenAI 的对数困惑度（log-perplexity）数据，这是衡量模型预测文本能力的指标，数值越低越好。GPT-3.5 得分约为 0.99，GPT-4 约为 0.91。 在约 0.76 时…"
+        "said": "@unusual_whales claude 可能能写出更好的债券市场推介文案 lol"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 1.1万 · 模型与能力] OpenAI首席科学家发出警告：最早2027年，AI或自己训练出突破雪崩"
+      "line": "[榜第8位 · 59万 · 资本与算力] 华尔街怕Anthropic还不上债，债券恐被评为「垃圾级」"
     },
     {
-      "title": "英伟达要崩盘？就算营收腰斩，明年照样赚近4000亿美元",
-      "summary": "空头喊了4年AI见顶，上周终于等来回调，市场甚至传出英伟达要崩盘。但金融账号 The Kobeissi Letter 泼了盆冷水：10月6日英伟达还站在近6万亿美元高位，就算下一财年营收只有指引一半，照样能赚近4000亿美元。三到六个月后回头看，这大概率只是一次回调，AI基建还在加速。",
-      "reads": "5.8万",
-      "ago": "9 小时前",
+      "title": "Anthropic两倍多空ETF开盘，做空代码ANTZ 90分钟成交17万股",
+      "summary": "Anthropic单股2倍杠杆ETF正式开盘，$ANTT两倍做多、$ANTZ两倍做空，其中$ANTZ开盘90分钟就成交了170,000股。有金融发帖者披露了新代码和盘中数据，并提醒这类产品只面向懂行的短线交易者，不适合长线持有。值得一提的是，此前还有帖子把$ANTZ误标成2倍做多、半小时成交50,000股。",
+      "reads": "11万",
+      "ago": "4 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "S&P 500 已连续 3 个季度盈利增长超 25%，并连续 8 个季度实现两位数增长。",
-        "受过去七周悲观情绪冲击，S&P 500 周五收盘低于 50 日均线 4.1 个标准差，为 2020 年和 2008 年也未见的极端水平。",
-        "The Kobeissi Letter 认为 AI 仍是「next big thing」，并直言空头听起来很聪明，但多头才能赚钱。"
+        "此前直播预告曾将交易方向概括为做多+2x $ANTT或做空-2x $ANTZ。",
+        "开盘30分钟时，另有金融账号按2倍做空口径统计$ANTZ成交量已达90,000股。",
+        "相关动态均来自金融账号转述且反复提示杠杆涉及重大风险，目前暂未见发行方官方原文。"
       ],
       "quote": {
-        "who": "The Kobeissi Letter",
+        "who": "unusual_whales",
         "role": "",
-        "said": "空头们正在享受他们的时刻。 在过去 4 年里每个月都预测 AI 交易见顶后，空头们上周终于迎来了他们的时刻。 然而，在 3 到 6 个月后，当我们回顾这次回调时，会意识到它仅仅是：一次回调。 现在有一种广泛流传的说法认为 Nvidia, $NVDA, 真的会崩盘。这只股票在 10 月 6 日还在创纪录的高点交易，市值接近 6 万亿美元，并且是世界上最先进芯片的发明者（甚至没有可比性）。 这就是过去七周情绪变得多么悲观…"
+        "said": "2x 做空 Anthropic 的 $ANTZ 刚刚开始交易，开盘仅 90 分钟，已有 170,000 股 $ANTZ 成交。 收藏这条，并记住杠杆涉及重大风险。详情见"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 5.8万 · 资本与算力] 英伟达要崩盘？就算营收腰斩，明年照样赚近4000亿美元"
+      "line": "[榜第9位 · 11万 · 资本与算力] Anthropic两倍多空ETF开盘，做空代码ANTZ 90分钟成交17万股"
     },
     {
-      "title": "英伟达单季营收首破1000亿美元！史上第一次",
-      "summary": "英伟达上季度营收首次突破 1000 亿美元大关，创下公司历史新纪录。Evan 发文披露了这一最新营收规模。",
-      "reads": "3.2万",
-      "ago": "7 小时前",
+      "title": "英伟达单日跌掉14%，美股散户扛不住了：30分钟抛售近2亿刀",
+      "summary": "美股散户这回真抄不动底了！周五开盘短短30分钟，散户便踩踏式净抛售约1.9亿美元股票。纳斯达克全周暴跌10%，标普500大跌8.6%创下2025年4月以来最差单周表现，英伟达单日更狂泻14%；分析机构Libella数据显示，面对密集回调，散户在暴跌次日早晨反手割肉已成常态。",
+      "reads": "2.9万",
+      "ago": "1 小时前",
       "category": "资本与算力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "纳斯达克单周重挫10%，标普500全周下跌8.6%，录得2025年4月以来最惨单周表现。",
+        "芯片股承压最为沉重，领头羊英伟达周五单日暴跌14%。",
+        "资金估算显示，散户在上周五交易的前30分钟内净卖出约1.9亿美元。",
+        "研究机构Libella统计发现，2024年7月以来标普500单日跌幅超2%的15天里，有10次散户在次日早晨沦为大型科技股的净卖方，持续下挫彻底击碎了逢低买…"
+      ],
       "quote": {
-        "who": "Evan",
+        "who": "Mario Nawfal",
         "role": "",
-        "said": "Nvidia $NVDA 上季度首次实现超过 1000 亿美元的营收"
+        "said": "🇺🇸 随着上周市场亏损累积，散户投资者正在抛售。 在周五交易的前 30 分钟内，他们净卖出约 1.9 亿美元。 这对科技股来说是残酷的一周。纳斯达克下跌 10%，而标普 500 指数下跌 8.6%，创下自 2025 年 4 月以来的最差单周表现。 仅 Nvidia 一家在周五就下跌了 14%，芯片股遭受了最严重的打击之一。 这里有一个规律。研究人员研究了自 2024 年 7 月以来标普 500 指数单日跌幅至少为 2…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 3.2万 · 资本与算力] 英伟达单季营收首破1000亿美元！史上第一次"
+      "line": "[榜第10位 · 2.9万 · 资本与算力] 英伟达单日跌掉14%，美股散户扛不住了：30分钟抛售近2亿刀"
     },
     {
-      "title": "前沿AI全锁在实验室里，就算放出来，外人光靠提示词也解不出黎曼猜想",
-      "summary": "Anthropic和OpenAI在数学难题上的突破固然振奋，但外人不仅摸不到这些内部模型，就算拿到手也未必能仅靠提示词解出黎曼猜想。Databricks的Yuchen Jin指出，前沿实验室与外界的鸿沟正在越拉越大，既差在能否接触前沿智能，也差在懂不懂怎么挖出它的全部潜力，他期待AI能更开放、更有竞争且更去中心化。",
-      "reads": "9137",
-      "ago": "3 小时前",
+      "title": "OpenAI用Blender做出1915年胶片，GPT-6.2连晒6大3D场景",
+      "summary": "像1915年旧金山世博会的老电影胶片，其实是OpenAI团队全程在Blender里做出来的。OpenAI开发者官方号借这段演示宣布，GPT-6.2能理解周围世界、模拟事物运作并帮你构建自己的世界，还一口气甩出6个开发者3D实战入口。",
+      "reads": "3.0万",
+      "ago": "1 小时前",
       "category": "模型与能力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "本次放出的6个GPT-6.2 3D应用方向分别为3D姿态估计、3D机器人模拟、3D建模、3D游戏、3D绑定和3D记忆"
+      ],
       "quote": {
-        "who": "Yuchen Jin",
+        "who": "OpenAI Developers",
         "role": "",
-        "said": "这几天一直在想中心化这件事。 Anthropic 和 OpenAI 解出了数学里最难的那些问题。很振奋，但： 1. 这些突破来自内部模型，外面的人根本用不上。 2. 就算能用上，我也不觉得实验室之外的数学家，光靠提示词就能让模型解出黎曼猜想。 前沿实验室和世界其他地方之间，差距又大、还在拉大：既差在能不能接触前沿智能，也差在懂不懂怎么把它的潜力全挖出来。 希望看到 AI 更开放、更有竞争、也更去中心化。"
+        "said": "GPT-6.2 用于 3D 记忆："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 9137 · 模型与能力] 前沿AI全锁在实验室里，就算放出来，外人光靠提示词也解不出黎曼猜想"
+      "line": "[榜第11位 · 3.0万 · 模型与能力] OpenAI用Blender做出1915年胶片，GPT-6.2连晒6大3D场景"
     },
     {
-      "title": "1万亿算力承诺怎么回本？Anthropic每年得赚6020亿美元",
-      "summary": "签下1万亿美元算力承诺后，Anthropic每年大约要进账6020亿美元，才能拿到20%的回报。这笔账由金融账号unusual_whales测算得出。",
-      "reads": "3.8万",
-      "ago": "8 小时前",
-      "category": "资本与算力",
+      "title": "英伟达突然设立全新高管职位：启动招聘首席合规官，直接向董事会汇报",
+      "summary": "英伟达正式设立全新的「首席合规官」（Chief Compliance Officer）一职，目前已启动招聘流程。据金融爆料账号 Unusual Whales 消息，该职位将统筹监督英伟达全公司的合规业务，且不走普通业务汇报线，直接向董事会下设的提名与公司治理委员会汇报。",
+      "reads": "12万",
+      "ago": "5 小时前",
+      "category": "组织与人事",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "职位名称为首席合规官（CCO），属于英伟达内部新设高管岗位",
+        "岗位职责涵盖统筹监督英伟达全公司的合规运营工作",
+        "汇报对象明确为英伟达董事会提名与公司治理委员会"
+      ],
       "quote": {
         "who": "unusual_whales",
         "role": "",
-        "said": "Anthropic 每年需要约 6020 亿美元的收入，才能在其 1 万亿美元的算力承诺上获得 20% 的回报。 阅读更多："
+        "said": "突发：NVIDIA 正在启动一项招聘流程，以填补首席合规官（Chief Compliance Officer）这一新职位，该职位负责监督 NVIDIA 全公司的合规工作，并向提名与公司治理委员会汇报。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 3.8万 · 资本与算力] 1万亿算力承诺怎么回本？Anthropic每年得赚6020亿美元"
+      "line": "[榜第12位 · 12万 · 组织与人事] 英伟达突然设立全新高管职位：启动招聘首席合规官，直接向董事会汇报"
     },
     {
-      "title": "9月刚自研，传Palo Alto拟超5亿美元收购AI安全初创Terra",
-      "summary": "网络安全巨头 Palo Alto Networks 正洽谈收购以色列初创公司 Terra Security，后者主打用 AI Agent 全天候攻击企业以挖出漏洞。据以色列商业日报 Calcalist 报道，这笔交易金额可能超过 5 亿美元。有意思的是，Palo Alto 今年 9 月才刚基于 Anthropic 和 OpenAI 模型推出过自家同类工具。",
-      "reads": "1.2万",
+      "title": "3小时狂拉1万亿美元！英伟达暴涨32%，万亿巨头走出妖股行情",
+      "summary": "不到3小时市值直接飙升约1万亿美元，全球最有价值的公司之一英伟达单日盘中暴涨32%，走出堪比Meme股的极端拉升。金融数据平台发帖惊叹，这不是什么靠散户抱团炒作的小盘概念股，而是真正的万亿巨头在光速吸金。",
+      "reads": "6.9万",
       "ago": "4 小时前",
       "category": "资本与算力",
       "source": "新智元",
-      "bullets": [
-        "Terra Security 成立于 2024 年，迄今已累计融资 3800 万美元。",
-        "Terra 的核心产品是利用 AI Agent 持续对企业发起攻击测试，从而主动发现安全漏洞。",
-        "Palo Alto Networks 今年 9 月曾推出基于 Anthropic 和 OpenAI 模型的自家同类方案。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "International Cyber Digest",
+        "who": "unusual_whales",
         "role": "",
-        "said": "❗️网络安全巨头 Palo Alto Networks 正洽谈收购 Terra Security，这家以色列初创公司的 AI 智能体全天候攻击企业以寻找漏洞。以色列商业日报 Calcalist 称交易金额可能超过 5 亿美元。 Terra 成立于 2024 年，迄今已融资 3800 万美元。 9 月，Palo Alto 推出了自己的版本，基于 Anthropic 和 OpenAI 的模型构建。"
+        "said": "这不是一只 meme stock。 这是 Nvidia，全球最有价值的公司之一，今天上涨了 32%。 $NVDA 在不到 3 小时内市值增加了约 1 万亿美元。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 1.2万 · 资本与算力] 9月刚自研，传Palo Alto拟超5亿美元收购AI安全初创Terra"
+      "line": "[榜第13位 · 6.9万 · 资本与算力] 3小时狂拉1万亿美元！英伟达暴涨32%，万亿巨头走出妖股行情"
     },
     {
-      "title": "Thinking Machines把模型缩小23倍，26B塞进笔记本跑智能体！",
-      "summary": "Thinking Machines 刚推出 Inkling 2 Mini，因为此前 594B 的 Inkling 2 Small 被大家嫌太大，这次直接把模型缩小了 23 倍。官方称它采用 26B 参数的循环 Transformer，专为智能体工作打造，AA Index 拿下 20.1 分。后续有科技博主补充，它约 20GB 的内存占用，让配置足够的笔记本也能本地跑起来。",
-      "reads": "2.5万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
+      "title": "谷歌Gemini API终于懂事了！直传文档音视频，只取所需页码片段更省Token",
+      "summary": "向 Gemini API 直传 PDF、Office 文档或音视频，现在能只请求所需的页码、表格单元格、媒体片段和图层了！谷歌 Gemini 与 AI Studio 产品与开发者关系负责人 Logan Kilpatrick 今日发文称，这项易用性更新能直接省下 Token 并提升准确率。",
+      "reads": "2.7万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "每个 token 会复用中间层三次，从而在不增加参数的情况下提升计算量。",
-        "另有信息按 26.4B 参数口径介绍该模型，在实验室评测的 DeepSWE v1.1 上取得 48.2% 的成绩。",
-        "在实验室对 100B 参数以下开放权重模型的比较中，该模型处于领先位置。"
+        "本次支持直传的文件具体包括 PDF、Office 文档（文档、幻灯片、表格）、音频和视频。",
+        "该更新延续了今年早些时候推出的 agentic video 与 per part media resolution 等功能，让开发者对 Gemini 处理多…"
       ],
       "quote": {
-        "who": "Wes Roth",
+        "who": "Logan Kilpatrick",
         "role": "",
-        "said": "Thinking Machines’ Inkling 2 Mini 每个 token 复用其中间层三次，在不增加参数的情况下增加了计算量。 该 26.4B 模型在实验室评估的 DeepSWE v1.1 上得分 48.2%，在其比较的 100B 参数以下的开放权重模型中领先。 其约 20GB 的内存占用使其可以在配备相应硬件的笔记本电脑上进行本地部署。"
+        "said": "这紧随今年早些时候的一系列发布，比如 agentic video、按部分媒体分辨率等，让开发者能更精细地控制 Gemini 处理多模态输入的方式。 享受 Token 节省和更高的准确率 : )"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 2.5万 · 模型与能力] Thinking Machines把模型缩小23倍，26B塞进笔记本跑智能体！"
+      "line": "[榜第14位 · 2.7万 · 产品与生态] 谷歌Gemini API终于懂事了！直传文档音视频，只取所需页码片段更省Token"
     },
     {
-      "title": "几十年降价趋势被AI逆转！美国10月电脑芯片进口价暴涨26.5%",
-      "summary": "几十年来电子产品越来越便宜的规律，正在被AI投资热潮硬生生扭转：10月美国计算机、外设和半导体进口价格同比暴涨26.5%，创1990年代有记录以来最大年度增幅。金融分析机构 The Kobeissi Letter 指出，该指数已连续第7年同比涨幅至少10%，环比再涨3.6%至61.1点，创下2008年12月以来新高。",
-      "reads": "17万",
-      "ago": "17 小时前",
-      "category": "资本与算力",
+      "title": "AI夺走工作怎么办？Anthropic掌门人旧言论被扒：靠沉浸式游戏防动荡",
+      "summary": "AI抢了饭碗怎么防动荡？去打沉浸式电子游戏！据外媒最新人物特写披露，Anthropic掌门人Dario Amodei早年在OpenAI任职时，曾在内部Slack聊天中提出，沉浸式电子游戏或许能安抚因AI丢掉工作的人群、缓解潜在的政治动荡。这段赛博朋克味拉满的旧话，恰在Anthropic刚完成超级IPO的关口被翻了出来。",
+      "reads": "16万",
+      "ago": "7 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "自2025年3月以来，美国计算机、外设和半导体进口价格指数累计飙升30.0%，扭转了此前的长期下降趋势。",
-        "The Kobeissi Letter 认为，AI投资热潮正在逆转数十年来电子产品价格持续下跌的趋势。"
+        "该言论出自Dario Amodei于2021年离开OpenAI联合创办Anthropic之前的内部沟通，记录在一篇聚焦他与妹妹、Anthropic总裁Dan…",
+        "与早年私下探讨用虚拟游戏缓解动荡不同，Amodei近年来多次公开发出核弹级预警，断言AI将消灭大批初级白领岗位，并推动失业率急剧飙升。"
       ],
       "quote": {
-        "who": "The Kobeissi Letter",
+        "who": "unusual_whales",
         "role": "",
-        "said": "进口计算机和半导体的价格正在飙升： 10 月份，美国对计算机、外设和半导体的进口价格同比激增 +26.5%，创下自 1990 年代数据记录以来的最大年度增幅。 这也标志着连续第 7 年同比增长至少 +10.0%。 环比来看，美国计算机、外设和半导体进口价格指数上升了 +3.6%，达到 61.1 点，为 2008 年 12 月以来的最高水平。 自 2025 年 3 月以来，该数字飙升了 +30.0%，逆转了其长期下降趋…"
+        "said": "据 WSJ 报道，Anthropic CEO Dario Amodei 曾建议，沉浸式电子游戏可以缓解那些因 AI 失业的人的政治动荡情绪。 这番话出自 Amodei 还在 OpenAI 时的一段 Slack 对话，那时他还没在 2021 年联合创立 Anthropic。这段话出现在 WSJ 最新的一篇关于 Amodei 及其妹妹、Anthropic 总裁 Daniela Amodei 的人物特写中。 该报道在 An…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 17万 · 资本与算力] 几十年降价趋势被AI逆转！美国10月电脑芯片进口价暴涨26.5%"
+      "line": "[榜第15位 · 16万 · 政策与安全] AI夺走工作怎么办？Anthropic掌门人旧言论被扒：靠沉浸式游戏防动荡"
     },
     {
-      "title": "微软Copilot高管：AI写光代码后，顶尖工程师却说从未思考得这么费劲",
-      "summary": "AI替工程师写完所有代码，干活的人却反而更累了，最顶尖的工程师甚至觉得「从未像现在这样费力思考过」。微软Copilot执行副总裁Charles在Peter Yang的新访谈中点出，构建已经免费但对齐并不免费，业内还把程序员独自写代码的习惯硬套进了所有知识工作。",
-      "reads": "1.7万",
-      "ago": "7 小时前",
-      "category": "产品与生态",
+      "title": "亚马逊同意买下AI初创Decart大部业务，传约75亿美元连团队全收",
+      "summary": "亚马逊已同意收购 AI 初创公司 Decart 的大部分业务，这笔交易传出作价约 75 亿美元，不仅拿下核心技术，还把创始团队和 AI 研究人员一并收编。据彭博社及 Techmeme 援引消息人士称，亚马逊此举旨在采购相关工具，增强自家云计算 AI 基础设施，交易标的涵盖 Decart Optimization Stack 等关键资产。",
+      "reads": "9.1万",
+      "ago": "5 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Charles指出，程序员习惯自己开一条branch独自工作几天再提交pull request，但销售代表若几天不与人交流、只顾单机工作，大概成不了好销售…",
-        "谈及当智能体成为软件主要用户时，Charles认为它们是非常苛刻的客户，会追求最佳性能、价格和可靠性，其偏好并不总与人类一致。",
-        "他举例说明人机偏好的差异：人类搜索需要10个带小片段的链接，但智能体不在乎页面展示，直接返回1000个结果也没问题。",
-        "Charles判断，未来API和用户体验将开始演化，发展出更适合支持智能体的专门模式。"
+        "关于交易范围的表述存在口径差异，zerohedge 称据报道为收购 Decart 的技术，彭博社则报道为收购大部分业务。"
       ],
       "quote": {
-        "who": "Peter Yang",
+        "who": "Techmeme",
         "role": "",
-        "said": "“AI 智能体是非常苛刻的客户。” 来自 @clamanna（@Microsoft Copilot 执行副总裁）关于当 AI 智能体成为软件主要用户时会发生什么： “[AI 智能体]会寻找最佳的性能、价格和可靠性。AI 智能体偏好的并不总是人类偏好的。 当一个人进行搜索时，你给他们10个带有小片段的链接。AI 智能体不在乎。你可以返回一千个结果。 我们的 API 和用户体验将开始演变，并拥有更好地支持 AI 智能体的…"
+        "said": "据消息人士称，Amazon 同意收购初创公司 Decart 的大部分资产，包括 Decart Optimization Stack 及其创始团队和 AI 研究人员，金额约为 75 亿美元（@mattmday / Bloomberg） （访问 Techmeme dot com 获取链接和完整背景！）"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 1.7万 · 产品与生态] 微软Copilot高管：AI写光代码后，顶尖工程师却说从未思考得这么费劲"
+      "line": "[榜第16位 · 9.1万 · 资本与算力] 亚马逊同意买下AI初创Decart大部业务，传约75亿美元连团队全收"
     }
   ],
   "board_count": 16,
