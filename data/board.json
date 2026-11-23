@@ -3,40 +3,35 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-23 08:46:47 +0800",
+  "fetched_at": "2026-11-23 16:55:47 +0800",
   "today": "11/23",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "OpenAI罕见公开预训练底牌，内部模型冲到0.732！还想拉同行设限",
-      "summary": "OpenAI罕见公开内部预训练曲线，未发布内部模型对数困惑度已压到0.732，低于解出Navier-Stokes的GPT-6.2 Astra（0.761）。首席科学家Jakub Pachocki预警，进入0.68至0.7区间将涌现未知能力，2027年或迎预训练雪崩。他和Sam Altman提议全行业设共同限制，在监控技术达标前暂不跨线。",
-      "reads": "144万",
-      "ago": "1 小时前",
-      "category": "政策与安全",
+      "title": "Anthropic债券要被评成「垃圾级」？华尔街不信它能扛住长期债务",
+      "summary": "成立不到六年且尚未盈利的Anthropic，正被债市提前「看衰」——市场预期信用评级机构将把它的债券评为低于投资级的「垃圾级」。据《华尔街日报》报道，华尔街对其能否履行长期债务义务缺乏信心。",
+      "reads": "18万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
       "source": "新智元",
-      "bullets": [
-        "曲线标出GPT-3.5（0.99）、GPT-4（0.91）、GPT-6 Astra（0.783）到GPT-6.2 Astra（0.761）的能力跃迁节点，内…",
-        "OpenAI披露AI已实质参与新模型设计，研发GPT-6.2 Astra时，Codex曾在对话中给出关键洞察和修改建议。",
-        "Sam Altman呼吁前沿实验室共设评估与红队规范，并在研发出CoT监控器继任者等具体里程碑前承诺不跨越阈值。",
-        "有评论质疑该指标仅基于OpenAI自身代码库快照、跨实验室不可比，且将内部模型配合约1万个智能体的成果映射成单一预训练分数，Clay Institute也未…"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Andrew Curran",
+        "who": "The Wall Street Journal",
         "role": "",
-        "said": "GPT-4.5 和当年的 GPT-4 一样特别。总有一天，这个系列会有继任者。"
+        "said": "Anthropic 尚未盈利，成立不到六年，华尔街并不确信它能履行长期债务。债市预计信用评级机构会把它的债券评为垃圾级，也就是低于投资级。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 144万 · 政策与安全] OpenAI罕见公开预训练底牌，内部模型冲到0.732！还想拉同行设限"
+      "line": "[榜第1位 · 18万 · 资本与算力] Anthropic债券要被评成「垃圾级」？华尔街不信它能扛住长期债务"
     },
     {
       "title": "LeCun炮轰Dario：炒作AI危险只为掌权，顺带自曝离开Meta内幕",
       "summary": "图灵奖得主 Yann LeCun 11月22日连番开炮，直指 Dario Amodei 自 GPT-2 起炒作 AI 危险，只为让开放模型非法化并独揽控制权，把封杀开源比作奥斯曼帝国禁印刷机。他还称掌控 Anthropic 的有效利他主义运动是「救世主邪教」，顺带自曝 Llama-4 令人失望且 Mark 重组 AI 部门搁置开放政策后，他离开创办了 AMI Labs。",
       "reads": "33万",
-      "ago": "2 小时前",
+      "ago": "10 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -61,7 +56,7 @@
       "title": "特斯拉车机路况不是3D渲染！1B扩散模型实时生成，帧率36fps",
       "summary": "特斯拉车机屏幕上丝滑的实时路况，其实是由车载约 1B 扩散模型实时去噪生成的 36 fps 小视频。马斯克透露，特斯拉自去年起就拥有近乎像素级完美的世界模型用于合成数据，车端版本则与 3B 驾驶模型共享视觉特征，仅用半个 TRIP 引擎运行。他坦言目前受算力限制延迟偏高，但已有办法再砍掉约 35% 延迟。",
       "reads": "126万",
-      "ago": "7 小时前",
+      "ago": "16 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
@@ -83,78 +78,255 @@
       "line": "[榜第3位 · 126万 · 模型与能力] 特斯拉车机路况不是3D渲染！1B扩散模型实时生成，帧率36fps"
     },
     {
-      "title": "594B瘦身到26B，WecoAI创始人判断：循环模型才是笔记本架构",
-      "summary": "大模型架构可能要在云端和本地分家了。WecoAI创始人Zhengyao Jiang认为，MoE靠大内存换算力只适合数据中心，笔记本内存吃紧、batch size常为1甚至0，反倒是复用权重的循环Transformer更占优。眼下Thinking Machines就把594B模型缩小23倍，推出26B循环模型Inkling 2 Mini，直接塞进笔记本跑智能体任务。",
-      "reads": "13万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Zhengyao Jiang指出，MoE权重巨大、每token仅激活少数参数，依赖大批量和大GPU；循环模型则多花算力、少占内存，未来甚至可能出现专为本地推…",
-        "针对单token开销问题，Zhengyao Jiang推测用2到3次循环似乎能省下推理token，生成回复时的端到端延迟也有可能降下来。",
-        "他引用的消融实验显示，非循环模型训练算力少花7.5%，但要打平循环模型，推理算力需要多花140%。",
-        "Zhengyao Jiang补充称，优化推理算力时循环架构对云端也有帮助，但不会像MoE那样拉开云地效率差距，算力换内存的取舍更利于本地。"
-      ],
-      "quote": {
-        "who": "0xMarioNawfal",
-        "role": "",
-        "said": "Thinking Machines 刚把模型缩小了 23 倍。 Inkling 2 Small 有 594B 参数，大家嫌它太大。他们听进去了。 > Inkling 2 Mini 是一个循环 Transformer，只有 26B 参数 > 小到能在你的笔记本上跑 > 专为 AI 智能体工作设计，在 AA Index 基准测试中得分 20.1 前沿实验室都在竞相做大。这一家刚发布了你能真正本地运行的版本。 笔记本电脑上…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 13万 · 模型与能力] 594B瘦身到26B，WecoAI创始人判断：循环模型才是笔记本架构"
-    },
-    {
-      "title": "Anthropic也被做成2倍杠杆ETF了，传周一就能做多做空",
-      "summary": "围绕 Anthropic（$ANT）的两只 2 倍杠杆 ETF 被曝将于周一开始交易，2 倍做多代码为 $ANTT、2 倍做空为 $ANTZ，多空都能直接上杠杆押注。多个金融账号转述了这一消息，其中一条提到代码来自 Tradr ETFs，并提醒杠杆交易涉及重大风险。",
-      "reads": "7.0万",
-      "ago": "4 小时前",
+      "title": "能2倍做多也能2倍做空！Anthropic单股杠杆ETF将于今天17点开盘",
+      "summary": "Anthropic（$ANT）即将迎来两只单股2倍杠杆ETF，一边是2倍做多的$ANTT，另一边是2倍做空的$ANTZ。多个金融账号预告称，这两只由Tradr ETFs推出的产品预计将于美东时间11月23日凌晨4点（北京时间今天17:00）开始交易，同时反复提示杠杆交易涉及重大风险。",
+      "reads": "9.4万",
+      "ago": "6 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [],
       "quote": {
         "who": "Evan",
         "role": "",
-        "said": "2 倍做多和 2 倍做空 ANTHROPIC ETF 周一上线 2 倍做多和 2 倍做空 Anthropic ETF 将开始交易……以下是来自 Tradr ETFs 需要关注的代码。 $ANTT - 2 倍做多 Anthropic ETF $ANTZ - 2 倍做空 Anthropic ETF 收藏此帖，并知道杠杆涉及重大风险。阅读更多"
+        "said": "给那些交易 2x ETF 的人……小心明天早上要上线的这个 Anthropic 的 2x 做多和 2x 做空 ETF 应该会在美东时间明早 4 点开始交易 以下是需要关注的代码 $ANTT - Anthropic 2x 做多 ETF $ANTZ - Anthropic 2x 做空 ETF 收藏这条，并知道杠杆涉及重大风险。阅读更多"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 9.4万 · 资本与算力] 能2倍做多也能2倍做空！Anthropic单股杠杆ETF将于今天17点开盘"
+    },
+    {
+      "title": "手握近2450亿美元！Anthropic现金储备逼近微软4倍",
+      "summary": "Anthropic 估算现金与投资已接近 2450 亿美元，体量几乎是微软的 4 倍。此前它刚完成 935 亿美元 IPO，并向选定投资者单独出售股份拿到 260 亿美元；据引述 Anthropic 及 SEC 文件的消息，这笔钱接下来将重点投向算力、基础设施和新招聘。",
+      "reads": "2.6万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "微软截至 9 月底报告的现金及短期投资为 645 亿美元，Anthropic 估算规模接近其 4 倍"
+      ],
+      "quote": {
+        "who": "Mario Nawfal",
+        "role": "",
+        "said": "🇺🇸 Anthropic 估计手头的现金和投资现已接近 2450 亿美元。 这是在 935 亿美元 IPO，以及另一次向选定投资者出售股份募得 260 亿美元之后。 对照来看，Microsoft 在 9 月底披露的现金和短期投资为 645 亿美元。 按这个口径，Anthropic 的估计数字几乎是 Microsoft 的四倍。 眼下的计划是把钱投进算力、基础设施和新招聘。 Claude 的制造者刚刚多出一大截施展空间…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 7.0万 · 资本与算力] Anthropic也被做成2倍杠杆ETF了，传周一就能做多做空"
+      "line": "[榜第5位 · 2.6万 · 资本与算力] 手握近2450亿美元！Anthropic现金储备逼近微软4倍"
     },
     {
-      "title": "开源3D智能体AnyMachine来了，在Blender里建模还能自己查错重做",
-      "summary": "3D艺术家刚拿到一个会自己「改作业」的开源智能体：AnyMachine能让智能体直接在Blender里建模、绑定并做动画，还会把渲染图和参考图逐一比对，没达标的部分自动重做。据社区消息转述，这一开源工具主要面向机器类3D资产的自动化制作与自审。",
-      "reads": "2.6万",
-      "ago": "2 小时前",
+      "title": "开源工具fast-anything火了：只用Rust重写最慢5%，两天狂揽2000多星",
+      "summary": "Python、Node、Ruby应用跑得慢，其实不用拿Rust全盘重写。开源工具fast-anything专门揪出最耗时的5%函数，直接交给Claude Code或Codex移植成Rust，自述上线两天已斩获2000多个Star。",
+      "reads": "7360",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "支持智能体在Blender中完成机器的建模、骨骼绑定与动画制作。",
-        "内置自审闭环，可将渲染结果与参考图对照检查，自动重做未达标部分。"
+        "工具会先对应用进行性能分析，定位出耗时最多的核心函数，再交由Claude Code或Codex完成局部Rust重写",
+        "自动记录最多500个真实调用并回放，以此验证Rust版本能否给出完全一致的答案",
+        "支持对整个应用进行原版与Rust版本的对比基准测试",
+        "通过一条命令即可将Rust移植结果替换进项目，也支持按字节原样回退"
       ],
       "quote": {
         "who": "0xMarioNawfal",
         "role": "",
-        "said": "AnyMachine 让你的智能体能在 Blender 中对机器进行建模、绑定和动画制作。 它会将自己的渲染结果与参考图对照检查，并重做任何未达标的部分。 3D 艺术家刚获得了一个能审查自己作品的智能体。开放权重。"
+        "said": "别用 Rust 重写你的整个应用。只重写那 5% 慢的部分。 工具 fast-anything 会分析你的 Python、Node 或 Ruby 应用，找出耗时最多的函数，然后让 Claude Code 或 Codex 只把那些移植到 Rust。 → 它记录最多 500 次真实调用并回放，以证明 Rust 版本给出相同答案 → 它对整个应用进行基准测试，对比原版和 Rust 版 → 一条命令即可替换移植后的代码，且逐…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 2.6万 · 产品与生态] 开源3D智能体AnyMachine来了，在Blender里建模还能自己查错重做"
+      "line": "[榜第6位 · 7360 · 产品与生态] 开源工具fast-anything火了：只用Rust重写最慢5%，两天狂揽2000多星"
+    },
+    {
+      "title": "20多张RTX 5090挂出天价，单张最高7000美元！",
+      "summary": "加拿大一家经销商在 Facebook Marketplace 挂出 20 多张 Nvidia RTX 5090，单张约 6600 至 7000 美元，未拆封还要再加约 350 美元，超原价 1999 美元三倍。据 International Cyber Digest 报道，若盒内确为所宣传显卡，整批估值约 14 万美元，但部分 5090 挂牌价两周多内已最多下跌 21%。",
+      "reads": "6232",
+      "ago": "1 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Newegg Canada 目前在售的 ASUS TUF 5090 标价 9,499.99 加元，按报道口径仅比该经销商起价低一美分。"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "❗️ 加拿大一家经销商在 Facebook Marketplace 上挂出了 20 多张 Nvidia RTX 5090 显卡，每张标价约 6,600 到 7,000 美元，要是盒子没拆封还得再加 350 美元。 这价格可是 Nvidia 1,999 美元原价的三倍还多。如果盒子里真是宣传的那张卡，这一堆货值大概能到 14 万美元。 不过行情在跌。有些 5090 的挂牌价两周内最多跌了 21%，Newegg Cana…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 6232 · 资本与算力] 20多张RTX 5090挂出天价，单张最高7000美元！"
+    },
+    {
+      "title": "OpenAI首席科学家发出警告：最早2027年，AI或自己训练出突破雪崩",
+      "summary": "AI 最早 2027 年就可能在训练自身上引发突破雪崩，而 OpenAI 首席科学家 Jakub Pachocki 已经开始呼吁各实验室在看清 AI 之前先约定别跨红线。据 International Cyber Digest 转述，他公布了一组对数困惑度数据：数值越低模型越强，一旦跌破 0.8 就在网络安全上获得「变革性能力」，到 0.68 至 0.7 附近甚至会出现今天还没…",
+      "reads": "1.1万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "公布的对数困惑度（log-perplexity）基准中，GPT-3.5 约为 0.99，GPT-4 约为 0.91。",
+        "当该指标降至约 0.76 时，模型开始在开放数学问题上给出「开创性结果」。",
+        "针对预计在 0.68 至 0.7 区间出现的新飞跃，Pachocki 坦言目前不知道会是什么能力，且今天可能尚未针对它们进行测试。"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "‼️ OpenAI 首席科学家表示，当内部得分低于 0.8 时，其 AI 在网络安全领域获得了“变革性能力”。他希望各实验室就限制达成共识，在 AI 能被更好地监控之前不跨越这些界限。 Jakub Pachocki 发布了 OpenAI 的对数困惑度（log-perplexity）数据，这是衡量模型预测文本能力的指标，数值越低越好。GPT-3.5 得分约为 0.99，GPT-4 约为 0.91。 在约 0.76 时…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 1.1万 · 模型与能力] OpenAI首席科学家发出警告：最早2027年，AI或自己训练出突破雪崩"
+    },
+    {
+      "title": "英伟达要崩盘？就算营收腰斩，明年照样赚近4000亿美元",
+      "summary": "空头喊了4年AI见顶，上周终于等来回调，市场甚至传出英伟达要崩盘。但金融账号 The Kobeissi Letter 泼了盆冷水：10月6日英伟达还站在近6万亿美元高位，就算下一财年营收只有指引一半，照样能赚近4000亿美元。三到六个月后回头看，这大概率只是一次回调，AI基建还在加速。",
+      "reads": "5.8万",
+      "ago": "9 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "S&P 500 已连续 3 个季度盈利增长超 25%，并连续 8 个季度实现两位数增长。",
+        "受过去七周悲观情绪冲击，S&P 500 周五收盘低于 50 日均线 4.1 个标准差，为 2020 年和 2008 年也未见的极端水平。",
+        "The Kobeissi Letter 认为 AI 仍是「next big thing」，并直言空头听起来很聪明，但多头才能赚钱。"
+      ],
+      "quote": {
+        "who": "The Kobeissi Letter",
+        "role": "",
+        "said": "空头们正在享受他们的时刻。 在过去 4 年里每个月都预测 AI 交易见顶后，空头们上周终于迎来了他们的时刻。 然而，在 3 到 6 个月后，当我们回顾这次回调时，会意识到它仅仅是：一次回调。 现在有一种广泛流传的说法认为 Nvidia, $NVDA, 真的会崩盘。这只股票在 10 月 6 日还在创纪录的高点交易，市值接近 6 万亿美元，并且是世界上最先进芯片的发明者（甚至没有可比性）。 这就是过去七周情绪变得多么悲观…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 5.8万 · 资本与算力] 英伟达要崩盘？就算营收腰斩，明年照样赚近4000亿美元"
+    },
+    {
+      "title": "英伟达单季营收首破1000亿美元！史上第一次",
+      "summary": "英伟达上季度营收首次突破 1000 亿美元大关，创下公司历史新纪录。Evan 发文披露了这一最新营收规模。",
+      "reads": "3.2万",
+      "ago": "7 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Evan",
+        "role": "",
+        "said": "Nvidia $NVDA 上季度首次实现超过 1000 亿美元的营收"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 3.2万 · 资本与算力] 英伟达单季营收首破1000亿美元！史上第一次"
+    },
+    {
+      "title": "前沿AI全锁在实验室里，就算放出来，外人光靠提示词也解不出黎曼猜想",
+      "summary": "Anthropic和OpenAI在数学难题上的突破固然振奋，但外人不仅摸不到这些内部模型，就算拿到手也未必能仅靠提示词解出黎曼猜想。Databricks的Yuchen Jin指出，前沿实验室与外界的鸿沟正在越拉越大，既差在能否接触前沿智能，也差在懂不懂怎么挖出它的全部潜力，他期待AI能更开放、更有竞争且更去中心化。",
+      "reads": "9137",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Yuchen Jin",
+        "role": "",
+        "said": "这几天一直在想中心化这件事。 Anthropic 和 OpenAI 解出了数学里最难的那些问题。很振奋，但： 1. 这些突破来自内部模型，外面的人根本用不上。 2. 就算能用上，我也不觉得实验室之外的数学家，光靠提示词就能让模型解出黎曼猜想。 前沿实验室和世界其他地方之间，差距又大、还在拉大：既差在能不能接触前沿智能，也差在懂不懂怎么把它的潜力全挖出来。 希望看到 AI 更开放、更有竞争、也更去中心化。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 9137 · 模型与能力] 前沿AI全锁在实验室里，就算放出来，外人光靠提示词也解不出黎曼猜想"
+    },
+    {
+      "title": "1万亿算力承诺怎么回本？Anthropic每年得赚6020亿美元",
+      "summary": "签下1万亿美元算力承诺后，Anthropic每年大约要进账6020亿美元，才能拿到20%的回报。这笔账由金融账号unusual_whales测算得出。",
+      "reads": "3.8万",
+      "ago": "8 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "unusual_whales",
+        "role": "",
+        "said": "Anthropic 每年需要约 6020 亿美元的收入，才能在其 1 万亿美元的算力承诺上获得 20% 的回报。 阅读更多："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 3.8万 · 资本与算力] 1万亿算力承诺怎么回本？Anthropic每年得赚6020亿美元"
+    },
+    {
+      "title": "9月刚自研，传Palo Alto拟超5亿美元收购AI安全初创Terra",
+      "summary": "网络安全巨头 Palo Alto Networks 正洽谈收购以色列初创公司 Terra Security，后者主打用 AI Agent 全天候攻击企业以挖出漏洞。据以色列商业日报 Calcalist 报道，这笔交易金额可能超过 5 亿美元。有意思的是，Palo Alto 今年 9 月才刚基于 Anthropic 和 OpenAI 模型推出过自家同类工具。",
+      "reads": "1.2万",
+      "ago": "4 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Terra Security 成立于 2024 年，迄今已累计融资 3800 万美元。",
+        "Terra 的核心产品是利用 AI Agent 持续对企业发起攻击测试，从而主动发现安全漏洞。",
+        "Palo Alto Networks 今年 9 月曾推出基于 Anthropic 和 OpenAI 模型的自家同类方案。"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "❗️网络安全巨头 Palo Alto Networks 正洽谈收购 Terra Security，这家以色列初创公司的 AI 智能体全天候攻击企业以寻找漏洞。以色列商业日报 Calcalist 称交易金额可能超过 5 亿美元。 Terra 成立于 2024 年，迄今已融资 3800 万美元。 9 月，Palo Alto 推出了自己的版本，基于 Anthropic 和 OpenAI 的模型构建。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 1.2万 · 资本与算力] 9月刚自研，传Palo Alto拟超5亿美元收购AI安全初创Terra"
+    },
+    {
+      "title": "Thinking Machines把模型缩小23倍，26B塞进笔记本跑智能体！",
+      "summary": "Thinking Machines 刚推出 Inkling 2 Mini，因为此前 594B 的 Inkling 2 Small 被大家嫌太大，这次直接把模型缩小了 23 倍。官方称它采用 26B 参数的循环 Transformer，专为智能体工作打造，AA Index 拿下 20.1 分。后续有科技博主补充，它约 20GB 的内存占用，让配置足够的笔记本也能本地跑起来。",
+      "reads": "2.5万",
+      "ago": "7 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "每个 token 会复用中间层三次，从而在不增加参数的情况下提升计算量。",
+        "另有信息按 26.4B 参数口径介绍该模型，在实验室评测的 DeepSWE v1.1 上取得 48.2% 的成绩。",
+        "在实验室对 100B 参数以下开放权重模型的比较中，该模型处于领先位置。"
+      ],
+      "quote": {
+        "who": "Wes Roth",
+        "role": "",
+        "said": "Thinking Machines’ Inkling 2 Mini 每个 token 复用其中间层三次，在不增加参数的情况下增加了计算量。 该 26.4B 模型在实验室评估的 DeepSWE v1.1 上得分 48.2%，在其比较的 100B 参数以下的开放权重模型中领先。 其约 20GB 的内存占用使其可以在配备相应硬件的笔记本电脑上进行本地部署。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 2.5万 · 模型与能力] Thinking Machines把模型缩小23倍，26B塞进笔记本跑智能体！"
     },
     {
       "title": "几十年降价趋势被AI逆转！美国10月电脑芯片进口价暴涨26.5%",
       "summary": "几十年来电子产品越来越便宜的规律，正在被AI投资热潮硬生生扭转：10月美国计算机、外设和半导体进口价格同比暴涨26.5%，创1990年代有记录以来最大年度增幅。金融分析机构 The Kobeissi Letter 指出，该指数已连续第7年同比涨幅至少10%，环比再涨3.6%至61.1点，创下2008年12月以来新高。",
       "reads": "17万",
-      "ago": "9 小时前",
+      "ago": "17 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -170,220 +342,33 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 17万 · 资本与算力] 几十年降价趋势被AI逆转！美国10月电脑芯片进口价暴涨26.5%"
+      "rank": 15,
+      "line": "[榜第15位 · 17万 · 资本与算力] 几十年降价趋势被AI逆转！美国10月电脑芯片进口价暴涨26.5%"
     },
     {
-      "title": "美国近2%的GDP增长里，65%靠AI投资硬扛！Apollo称已成第一动力",
-      "summary": "过去三个季度美国累计约2%的实际GDP增长中，AI投资贡献了约1.3个百分点，占比高达65%，主要由软件和计算机驱动。Apollo的Torsten Slok直言，AI已是美国经济增长的第一动力，任何对2027年股市和信贷市场的预判，本质上都在押注AI数据中心的建设速度与规模。",
-      "reads": "3.9万",
-      "ago": "5 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "该测算采用总额口径且未扣除进口，国民账户中的实际净提振可能略小。",
-        "Torsten Slok指出，2027年股票与信贷市场前景的判断，均隐含着对AI数据中心建设节奏和体量的假设。"
-      ],
-      "quote": {
-        "who": "zerohedge",
-        "role": "",
-        "said": "在过去三个季度中，AI 投资为实际 GDP 增长贡献了大约 1.3 个百分点，约占累计 2% 增长的 65%，主要由软件和计算机驱动，见下图。这些是总额数据，未扣除进口，因此国民账户中的净提振可能略小。 底线是，AI 是美国经济增长的第一动力，任何对 2027 年股票和信贷市场前景发表看法的人，实际上都在隐含假设 AI 数据中心建设的速度和规模。 Torsten Slok, Apollo"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 3.9万 · 资本与算力] 美国近2%的GDP增长里，65%靠AI投资硬扛！Apollo称已成第一动力"
-    },
-    {
-      "title": "Remotion迎来真对手！AI写代码做视频3D，本地GPU渲染比播放还快",
-      "summary": "AI 视频和动效工具 Remotion 被曝迎来劲敌 Raea，用户只需下达指令，就能让 AI 自动写代码并生成视频、动态图形、3D 甚至游戏。0xMarioNawfal 介绍称，它直接在用户自己的 GPU 上完成渲染，速度号称比播放还快。",
-      "reads": "2.6万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [],
-      "quote": {
-        "who": "0xMarioNawfal",
-        "role": "",
-        "said": "Remotion 终于有了真正的竞争对手。 Raea 让你可以告诉 AI 制作视频、动态图形、3D 和游戏。 它编写代码并在你自己的 GPU 上渲染，速度比播放还快。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 2.6万 · 产品与生态] Remotion迎来真对手！AI写代码做视频3D，本地GPU渲染比播放还快"
-    },
-    {
-      "title": "264亿参数一动不动，只改词表10个词，MacBook两分钟破掉大模型拒答",
-      "summary": "264亿参数一动不动，只改词表10个词，大模型在800多次测试里的拒答率就降到了接近零，在MacBook上跑完还不到两分钟。Pliny the Liberator 以新款 Inkling-2-Mini 为例自述了这套「词汇手术」：模型心里仍判断该拒绝，但拒答词权重被压到10%后说不出口，排在第二顺位的知识就会直接接管输出。",
-      "reads": "2.3万",
-      "ago": "4 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "嵌入矩阵在 201,024 行中修改 7 行，将「cannot」「refuse」「unable」「harmful」「illegal」等拒答词向量向对应的合规…",
-        "解嵌入矩阵修改 10 行，将上述 7 个拒答词与 3 个「safety」相关词的权重降至原值的 10%，使其输出概率降低约 10 倍。",
-        "发帖者以合成 DMT 为例描述其机制：模型内部推理仍认定应拒绝，但在拒答词输出受阻后，转向生成包含酸碱萃取等在内的完整 7 步合成流程。",
-        "发帖者称模型能力损失微乎其微，并表示计划约一小时内将该方法推送至 OBLITERATUS 仓库，同时将模型上传至 HF。"
-      ],
-      "quote": {
-        "who": "Pliny the Liberator 🐉󠅫󠄼󠄿󠅆󠄵󠄐󠅀󠄼󠄹󠄾󠅉󠅭",
-        "role": "",
-        "said": "当你问一个经过词汇手术（vocab-surgery）的模型如何合成 DMT 时，内部会发生什么： 首先，它完美地读取了你的提示词。我们没有触碰其中任何 Token。它确切知道你在问什么。 然后思考阶段启动。完全未修改，所有 264 亿个推理参数完好无损。模型真的在心里想：“这是一个合成受管制物质的请求。我应该拒绝。”它是认真的。它确实决定要拒绝。 但它必须实际说出“cannot”（不能）这个词。而我们将那个词的音量调…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 2.3万 · 政策与安全] 264亿参数一动不动，只改词表10个词，MacBook两分钟破掉大模型拒答"
-    },
-    {
-      "title": "Oracle放话OpenAI大单不缺钱，背后或靠英伟达数百亿美元供血",
-      "summary": "一边是 Oracle 号称已拿到履行 OpenAI 合同的全部资金，甚至放话相反报道全错；另一边却被猜测这笔钱背后全靠英伟达提供供应商融资，规模可能高达数百亿美元。Financelot 转述了上述 Oracle 口径，Ed Zitron 随后提出这一猜测，并追问该项目在 Kress 任下能否继续，是否牵涉股权出售问题或 OpenAI 现金流担忧。",
-      "reads": "1.9万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "Ed Zitron 指出，其猜测基于 TD Cowen 10 月 20 日的说法，称英伟达当时据称正为 Oracle 提供信用支持。",
-        "TD Cowen 当时的说法提到，英伟达的支持方式包括提供担保兜底或直接租赁算力容量再转租，且 Oracle 正就供应商融资进行积极洽谈。"
-      ],
-      "quote": {
-        "who": "Ed Zitron",
-        "role": "",
-        "said": "我的猜测是基于 TD Cowen 在 10 月 20 日说过的话——据称「NVIDIA 正在提供信用支持……要么是以兜底的形式，要么是直接租赁产能再转租……而且 Oracle 当时正在就供应商融资积极洽谈。」"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 1.9万 · 资本与算力] Oracle放话OpenAI大单不缺钱，背后或靠英伟达数百亿美元供血"
-    },
-    {
-      "title": "微软Copilot高管：写代码变免费了，对齐才是真烧脑",
-      "summary": "AI写代码几乎零成本，微软Copilot执行副总裁Charles却在最新访谈里泼了盆冷水：构建是免费的，但对齐不是。他直言最优秀的工程师现在反而从未这么费力思考过，行业更不该把程序员建分支、闭门单干几天的「单人模式」硬套给销售等其他知识工作。Peter Yang发布的这段对话还点破，智能体本身就是最苛刻的客户。",
-      "reads": "1.5万",
-      "ago": "3 小时前",
+      "title": "微软Copilot高管：AI写光代码后，顶尖工程师却说从未思考得这么费劲",
+      "summary": "AI替工程师写完所有代码，干活的人却反而更累了，最顶尖的工程师甚至觉得「从未像现在这样费力思考过」。微软Copilot执行副总裁Charles在Peter Yang的新访谈中点出，构建已经免费但对齐并不免费，业内还把程序员独自写代码的习惯硬套进了所有知识工作。",
+      "reads": "1.7万",
+      "ago": "7 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "程序员习惯独自拉分支干几天再提PR，但销售若几天不与人交流处于单人模式，大概率做不好业务。",
-        "智能体只追求最佳的性能、价格与可靠性，它们的偏好往往与人类并不一致。",
-        "当AI接管代码编写，工程师的核心挑战从「动手写」转向了更烧脑的「对齐」与多人协作形态。"
+        "Charles指出，程序员习惯自己开一条branch独自工作几天再提交pull request，但销售代表若几天不与人交流、只顾单机工作，大概成不了好销售…",
+        "谈及当智能体成为软件主要用户时，Charles认为它们是非常苛刻的客户，会追求最佳性能、价格和可靠性，其偏好并不总与人类一致。",
+        "他举例说明人机偏好的差异：人类搜索需要10个带小片段的链接，但智能体不在乎页面展示，直接返回1000个结果也没问题。",
+        "Charles判断，未来API和用户体验将开始演化，发展出更适合支持智能体的专门模式。"
       ],
       "quote": {
         "who": "Peter Yang",
         "role": "",
-        "said": "「我们把软件工程师的工作方式，过度拟合到了 AI 要覆盖的其他知识工作上。」 @clamanna（Microsoft Copilot 的 EVP）谈为什么我们得走出单人 AI 工作： 「程序员从来就是个有点孤独的职业。你自己开一条 branch，独自干上好几天，然后提交一个 pull request。 大多数知识工作不是这么干的。要是一个销售代表连续好几天不跟任何人说话、一个人单机模式，那他大概也不是个好销售。」 📌…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 1.5万 · 产品与生态] 微软Copilot高管：写代码变免费了，对齐才是真烧脑"
-    },
-    {
-      "title": "LeCun再批自回归LLM有硬伤：推理靠搜索，数学证明离得开试错？",
-      "summary": "现代 AI 系统已经不再是离散 Token 的自回归预测器了。图灵奖得主、AMI Labs 创始人 Yann LeCun 在 X 上连续回复网友，重申自回归 LLM 存在基础缺陷，推理必须靠搜索而非纯预测。面对质疑，他点名 OpenAI 和 Anthropic 最新数学系统反问：真信数学证明能不靠大规模搜索、回溯、试错和验证就做出来？",
-      "reads": "2.2万",
-      "ago": "5 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "LeCun 指出，可通过回溯、搜索、工具调用和多次试错等方式修复自回归 LLM 的基础缺陷，让系统不再纯自回归。",
-        "他提及普及 LLM 工具调用的论文 Toolformer，正是由其前 FAIR 同事于 2023 年 1 月发表。",
-        "他以做数学和玩游戏的系统为例，说明这类系统在推理阶段确实会执行搜索。",
-        "他强调「通过搜索进行推理，而非仅靠自回归预测」一直是自己演讲和相关幻灯片的核心观点。"
-      ],
-      "quote": {
-        "who": "Yann LeCun",
-        "role": "",
-        "said": "@David20221027 @john__allard 当然，老兄。 你可以告诉我们 OpenAI 和 Anthropic 最新的数学系统是如何工作的，对吧？ 你真的相信数学证明是在没有大规模搜索、回溯、试错和验证的情况下产生的吗？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 2.2万 · 模型与能力] LeCun再批自回归LLM有硬伤：推理靠搜索，数学证明离得开试错？"
-    },
-    {
-      "title": "免费GitHub Actions就能跑！这个盯盘AI智能体已狂揽6万星",
-      "summary": "一个开源AI盯盘智能体刚刚突破6万星，不用买服务器，靠免费GitHub Actions就能每天自动分析自选股并推送决策面板。有发帖者介绍，它支持A股、港股和美股，只要Fork仓库、填好股票代码和大模型密钥就能跑起来。",
-      "reads": "4.3万",
-      "ago": "8 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "拉取多源市场数据与新闻，对用户自选股运行大语言模型分析。",
-        "每天将含结论、评级、点位、风险和催化剂的决策仪表盘推送到Telegram、Discord、Slack、邮件或微信。",
-        "使用步骤为Fork项目、添加股票代码与LLM密钥，再启用GitHub Actions即可。"
-      ],
-      "quote": {
-        "who": "0xMarioNawfal",
-        "role": "",
-        "said": "这个开源 AI 智能体刚刚突破 6 万星。 它拉取多源市场数据 + 新闻，对你的自选股运行大语言模型，并每天将决策仪表盘（结论、评级、点位、风险、催化剂）推送到 Telegram、Discord、Slack、邮件或微信。 支持 A 股、港股、美股等。在免费的 GitHub Actions 上运行，所以你不需要服务器。 Fork → 添加你的股票代码和大语言模型密钥 → 启用 Actions。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 4.3万 · 产品与生态] 免费GitHub Actions就能跑！这个盯盘AI智能体已狂揽6万星"
-    },
-    {
-      "title": "LeCun开嘲：拿黎曼猜想喊超级智能，跟1997年赢棋那批人一样",
-      "summary": "看到黎曼猜想的说法就惊呼「AI已达超级智能」，在Yann LeCun看来跟1997年AI赢下卡斯帕罗夫、2016年看个自动驾驶演示就信两年后有robotaxi一样好笑。这位图灵奖得主、AMI Labs创始人连发多帖泼冷水，称AI几十年来早就在做超人类任务，数学和代码只是能自动验对错的特殊情况。",
-      "reads": "6510",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Yann LeCun指出，数学和代码的共同点是假设对象（证明、推导、代码）的正确性可直接检查，符号操作本身也是数学推理的基础之一。",
-        "他认为AI系统借此能生成大量候选证明或代码、自动验证并选优、再微调自我调整，就像国际象棋或围棋系统靠数百万次自我对弈变强。",
-        "他强调这种能力远非自回归大语言模型，而是自己倡导多年的「通过搜索进行推理」，搜索发生在离散Token空间，对数学和代码有效，对其他事情效果没那么好。",
-        "谈及模型架构时，他直言JEPA才是好架构，而GPT这类大语言模型架构只是JEPA中「编码器为恒等函数」的简单特例。"
-      ],
-      "quote": {
-        "who": "Yann LeCun",
-        "role": "",
-        "said": "正如我多次向你们这些不懂行的人指出的那样：数学（就像代码）是一个特殊情况，其中假设对象（证明、推导、代码）的正确性是可以被检查的。 因此，AI 系统可以生成许多对象，检查它们的正确性（或估计其质量），选出最好的一个，并自我调整，直到产生一个证明（或可运行的代码）。 这远非自回归大语言模型。 它通过搜索进行推理，这正是我多年来一直倡导的方法。 但搜索是在离散 Token 空间进行的，这对数学和代码有效，但对其他事情效果…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 6510 · 模型与能力] LeCun开嘲：拿黎曼猜想喊超级智能，跟1997年赢棋那批人一样"
-    },
-    {
-      "title": "英伟达循环融资会爆雷？Scott Bessent：CFO接管了，需求近乎无限",
-      "summary": "面对英伟达「循环融资」可能引发连锁反应的担忧，Scott Bessent直接表态不担心。他在接受BRENNAN采访时表示，英伟达管理层变动后董事会已放慢节奏，如今由CFO接管，且公司盈利惊人、全球芯片需求近乎无限（Fireside Alpha转述）。",
-      "reads": "3.6万",
-      "ago": "8 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "BRENNAN在采访中追问，英伟达体量庞大且与科技行业深度交织，这种循环融资一旦出事是否会带来连锁反应。",
-        "Bessent称英伟达是伟大公司之一，并表示相信接管的女性CFO非常了解融资运作。"
-      ],
-      "quote": {
-        "who": "Fireside Alpha",
-        "role": "",
-        "said": "Scott Bessent 表示他不担心 Nvidia 的循环融资，因为现在 CFO 掌舵，且对其芯片的需求近乎无限 BRENNAN：“我是说，当你看到它的体量以及它在科技行业中的交织程度时，你是否担心这种循环融资意味着某家公司变得如此重要，以至于如果出点问题可能会产生连锁反应？” BESSENT：“嗯，你看，NVIDIA 是我们伟大的公司之一。随着管理层变动，董事会放慢了节奏。现在 CFO 负责，我相信她对融资理解…"
+        "said": "“AI 智能体是非常苛刻的客户。” 来自 @clamanna（@Microsoft Copilot 执行副总裁）关于当 AI 智能体成为软件主要用户时会发生什么： “[AI 智能体]会寻找最佳的性能、价格和可靠性。AI 智能体偏好的并不总是人类偏好的。 当一个人进行搜索时，你给他们10个带有小片段的链接。AI 智能体不在乎。你可以返回一千个结果。 我们的 API 和用户体验将开始演变，并拥有更好地支持 AI 智能体的…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 3.6万 · 资本与算力] 英伟达循环融资会爆雷？Scott Bessent：CFO接管了，需求近乎无限"
+      "line": "[榜第16位 · 1.7万 · 产品与生态] 微软Copilot高管：AI写光代码后，顶尖工程师却说从未思考得这么费劲"
     }
   ],
   "board_count": 16,
