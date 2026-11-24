@@ -3,385 +3,386 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-24 13:56:15 +0800",
-  "today": "11/24",
+  "fetched_at": "2026-11-25 01:32:13 +0800",
+  "today": "11/25",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "代码Claude写、PR也归它审和批！Claude Ship测试版上线",
-      "summary": "Claude 写完代码还不够，现在连审查 PR、修失败检查甚至按团队规则自动审批都要一并接管了。Claude Code 官方刚推出 Claude Ship 测试版，开发者更新后运行 /ship 即可在 CLI 和桌面端用上，不过最终能否合并仍由权限和分支规则拍板。已经有网友忍不住灵魂发问：写、审、批都归 Claude，我到底在这儿干嘛？",
-      "reads": "157万",
-      "ago": "6 小时前",
+      "title": "Anthropic上线Claude Ship，代码写完直接AI自己审批",
+      "summary": "Claude写完代码，现在连PR审查、修Bug和审批都能自己批了。Anthropic开发者官号上线Claude Ship测试版，更新Claude Code运行/ship即可用，合并仍受权限与分支规则约束。Claude Code作者Boris Cherny称自己每天都用，也有开发者调侃AI全包了人还剩啥。",
+      "reads": "158万",
+      "ago": "4 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Claude Ship 由已正式可用的 Code Review、测试中的 PR Steward 和 Claude Approvals 三部分组成，仓库可按…",
-        "PR Steward 会自动处理失败的 CI 检查、合并冲突和评审意见，并在每次 push 后说明改动内容与回滚方式，但不会主动审批或合并 PR。",
-        "Team 和 Enterprise 管理员可按 GitHub 仓库开启整库自动运行，Claude Approvals 会读取仓库里的策略文件并结合自然语言分…",
-        "该功能按 token 消耗计费，费用随 PR 数量、审查深度和 PR Steward 的工作量浮动，管理员可为 Code Review 和 PR Stewa…"
+        "Claude Ship由Code Review（正式可用，分Quick、Standard、Deep三档）、PR Steward（测试版，处理CI失败、合并冲…",
+        "Team和Enterprise管理员可按GitHub仓库开启并设置消费上限，按token计费；团队审批策略以类似更智能CODEOWNERS的文件存在默认分支…",
+        "Claude Code作者Boris Cherny表示，一年前发布的Opus 4.5是首个能写出他100%代码的模型，如今Claude Ship旨在让PR发…",
+        "Aakash Gupta指出，今年3月Anthropic的代码审查工具还明确不批准任何内容，8个月后便纳入了按策略自动审批；其援引Faros对22,000名…"
       ],
       "quote": {
-        "who": "Noah Zweben",
+        "who": "Aakash Gupta",
         "role": "",
-        "said": "Claude Ship——通过自动审批进行审查——是真正能闭环开发流程的全栈 PR 生命周期工具。 它真的能让你消化所有编码工具产生的疯狂 PR 吞吐量。"
+        "said": "在大多数科技公司，你写的任何东西都得等同事读完并签字确认才能上线。现在，那个同事可以是 Claude。 今年三月 Anthropic 推出其 AI 代码审查工具时，明确说过它不会批准任何内容。它可以整天标记 bug，但最终决定权在人手里。 这持续了八个月。 说实话，人们早就自己放弃这个最终决定权了。Faros 追踪着 2,000 名开发者的工程数据，完全没人审查就直接上线的代码变更增加了 76.3%。在重度依赖 AI…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 157万 · 产品与生态] 代码Claude写、PR也归它审和批！Claude Ship测试版上线"
+      "line": "[榜第1位 · 158万 · 产品与生态] Anthropic上线Claude Ship，代码写完直接AI自己审批"
     },
     {
-      "title": "OpenAI下场搞AI地推，请专家免费帮小店写工具，每月最高补8000美元",
-      "summary": "OpenAI推出OpenWorks，出钱请本地AI专家帮小企业免费搭建工具。项目正于美国20个社区试点，小企业可得3个月ChatGPT Business，合作专家每月最高补贴8000美元，双方均已开放申请。评论区也热闹起来，KOL Brian Roemmele直接唱反调，喊话别去OpenAI，用Grok就能免费赚10倍。",
-      "reads": "91万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
+      "title": "83美元发行价没守住，Anthropic股价跌穿80美元、距高点已跌31%",
+      "summary": "Anthropic股价不仅跌破了83美元的IPO发行价，随后还一路下探跌穿了80美元大关。金融账号 The Kobeissi Letter 接连发布快讯指出，该股最新交易价已比发行价低出5%，自上周IPO后高点以来的累计跌幅更是扩大到了31%。",
+      "reads": "49万",
+      "ago": "1 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "参与试点的小企业可挑选库存追踪、寻找新客户等实际业务问题，由当地AI合作伙伴免费帮忙搭建工具并教学。",
-        "OpenAI总裁Greg Brockman表示，AI正在加速小企业成长并降低创业门槛，自己越来越常听到有人因为有AI工具支持而辞职创业。",
-        "KOL Aakash Gupta在讨论中认为，本地AI专家未来可能会成为新的「社区会计师」。",
-        "唱反调的Brian Roemmele还放出了免费谋生教程，宣称AI是继PC、Web和社交之后的第四波浪潮，教人如何用Grok Bot获客、评估流程、计费并实…"
+        "Anthropic 股票代码为 $ANT，盘中先是跌破83美元发行价、较上市后高点下跌28%，随后跌势延续至80美元以下。"
       ],
       "quote": {
-        "who": "Brian Roemmele",
+        "who": "The Kobeissi Letter",
         "role": "",
-        "said": "免费看我怎么做： 靠把 AI 带给本地商家养活自己 PC、互联网和社交热潮撑起了本地生意。AI 是第四波：怎么拿下本地客户、评估流程、收费，并用 Grok Bot 做自动化。"
+        "said": "突发：Anthropic，$ANT，跌势延续，跌破每股 80 美元，目前交易价已比 IPO 价格低 5%。 自上周 IPO 后高点以来，该股已下跌 31%。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 91万 · 产品与生态] OpenAI下场搞AI地推，请专家免费帮小店写工具，每月最高补8000美元"
+      "line": "[榜第2位 · 49万 · 资本与算力] 83美元发行价没守住，Anthropic股价跌穿80美元、距高点已跌31%"
     },
     {
-      "title": "一次验证948个Linux内核漏洞，GPT-6 Cyber连送审补丁都写好了",
-      "summary": "一次运行里直接验证出948个可能授予本地root权限的Linux内核漏洞，还顺手把供审阅的补丁也生成了。OpenAI最新披露了GPT-6 Cyber的这一战绩，研究员clintgibler和ky1ebot也分享了他们如何跟开源维护者协作把修复合进上游。",
-      "reads": "48万",
-      "ago": "4 小时前",
-      "category": "政策与安全",
+      "title": "ChatGPT迎来GPT-6.2 Sol，专攻日常聊天，还能帮你盯降价",
+      "summary": "OpenAI今天在ChatGPT的Chat标签页推出GPT-6.2 Sol，专为日常对话优化，面向Plus、Pro、Business和Enterprise用户开放。OpenAI的Tibo称推出后回答质量将显著提升，总裁Greg Brockman也赞其是个很棒的模型。不过有爆料者指出，此次直接跳过了6.1，且Pro套餐仍未见Astra。",
+      "reads": "51万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "OpenAI总裁兼联合创始人Greg Brockman转发该进展，称团队在开源软件中发现了数量空前的漏洞，正配合维护者推动修复上游化以保护互联网安全。",
-        "负责Codex与ChatGPT的OpenAI研究员Tibo也转发推荐称，这群同事正痴迷于修补所有人都在依赖的开源软件与基础设施缺陷。"
+        "官方称GPT-6.2 Sol大幅提升了处理复杂请求的能力，尤其擅长执行详细指令和在线查找信息。",
+        "日常聊天中，它能捕捉照片里标签文字、标志符号等更细微细节，并在网上比较选项时按价格或位置缩小范围、在降价等场景主动提议提醒。",
+        "Tibo透露，OpenAI还在持续投入简化应用、提升速度以及合并Chat与Work模式，到今年年底日常使用体验会有明显改善。",
+        "Kol Tregaskes观察称，目前ChatGPT的Pro模型似乎仍在使用6而非6.2，Work和Chat模式版本相同，正等待Astra进入Chat模式。"
       ],
       "quote": {
-        "who": "Tibo",
+        "who": "Kol Tregaskes",
         "role": "",
-        "said": "如果你好奇 OpenAI 那些痴迷于修补我们所有人都依赖的 OSS 软件和基础设施中所有缺陷的人脑子里在想什么，值得听听"
+        "said": "ChatGPT 终于升级了：OpenAI 跳过了 6.1，并在 Chat 模式中添加了 GPT 6.2 Sol。不过没有 Astra，即使在 Pro 计划中也没有。看起来 Pro 模型仍然在使用 6 而不是 6.2。 别忘了 ChatGPT 的 chat 和 work 模式将在十二月合并。除了帮助页面外没有确认，也还没有日期。 目前，work 和 chat 模式的版本相同。我们只是在等待 Astra 出现在 chat…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 48万 · 政策与安全] 一次验证948个Linux内核漏洞，GPT-6 Cyber连送审补丁都写好了"
+      "line": "[榜第3位 · 51万 · 模型与能力] ChatGPT迎来GPT-6.2 Sol，专攻日常聊天，还能帮你盯降价"
     },
     {
-      "title": "OpenAI联手思科开源Shirudo，系统不停机就能让AI实时挡漏洞",
-      "summary": "OpenAI联手思科开源Linux运行时Shirudo，让AI在不中断服务下写动态eBPF规则，实时挡住漏洞利用、争取打补丁时间。OpenAI总裁Greg Brockman转发称，它能以机器速度零停机防御。投资人Ejaaz更预测，OpenAI最新内部模型网安能力强2到3倍，将吃掉1万亿美元网安市场。",
-      "reads": "19万",
-      "ago": "2 小时前",
+      "title": "OpenAI和Anthropic内部模型被曝太危险，员工怕高管只顾赚钱不敢上线",
+      "summary": "OpenAI和Anthropic的内部模型已经强到连自家员工都不敢上线了，有人主张直接彻底停训，还有人担心高管会把利润摆在安全前面。据Axios独家及二十多位消息源透露，两家实验室未发布模型的能力远超公开版本，但研究人员至今没找到控制最先进模型的技术方案。目前两家都还没宣布停止发布，不过OpenAI承认新安全要求可能拖慢节奏。",
+      "reads": "16万",
+      "ago": "37 分钟前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "OpenAI将Shirudo定位为迈向「自防御基础设施」的第一步，目标是让防御者与AI智能体协作定位受影响系统、测试并共享防护盾，在不干扰工作负载的前提下完…",
-        "发帖者Chris称Shirudo是驻留Linux内核的守护智能体，会监控运行中机器的每个系统调用，按需编写并实时加载新传感器，发现恶意行为时针对特定操作实时…",
-        "投资人Ejaaz指出，企业正面临随时可能爆发的协同智能体攻击，OpenAI近期如daybreak等产品在防御上表现突出，且数学能力的飞跃正直接反哺编程与网络…"
+        "两家公司内部对风险并非铁板一块，一部分人认为安全问题仍可修复，另一部分人则主张彻底停止训练新模型。",
+        "面对外界质疑，Anthropic回应称把模型留在内部不等于安全；Axios同时指出，两家实验室的内部模型尚未越过停止发布的红线。",
+        "有发帖者结合周末动态提到，OpenAI首席科学家曾晒出图表，显示一款内部模型已超越GPT-6.2 Astra，并警告标准安全审计的效力可能随模型突破而减弱。",
+        "社区网友猜测，此次引发担忧的对象可能指向传闻中的Anthropic model 4、Opus 5.6，以及OpenAI此前博客里出现过的未发布模型。"
       ],
       "quote": {
-        "who": "Ejaaz",
+        "who": "Chubby♨️",
         "role": "",
-        "said": "OpenAI要把外面每一家网络安全公司都吃掉。1万亿美元的行业，逻辑很简单： - 地球上每家公司都得防住越来越多、随时可能发生的协同智能体攻击（看看过去3周就行） - 他们最近发布的每款主要产品，在预防、应对和防御这类攻击上都更强。daybreak就是个好例子。 - 他们最新的内部模型，做网络安全比我们见过的任何模型都强2到3倍。 - 数学上的巨大飞跃，和这个领域以及编程直接相关。 我觉得他们在押注这会成为下一个前沿…"
+        "said": "看了所有示例，估计来自 Opus 5.6，我对即将发布的模型兴奋不已。 但与此同时，Axios 的报道让我很担忧。开发速度似乎没有放缓的迹象，反而越来越快。然而，外界却传出要大幅减缓这些模型发布节奏的说法。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 19万 · 政策与安全] OpenAI联手思科开源Shirudo，系统不停机就能让AI实时挡漏洞"
+      "line": "[榜第4位 · 16万 · 政策与安全] OpenAI和Anthropic内部模型被曝太危险，员工怕高管只顾赚钱不敢上线"
     },
     {
-      "title": "12月23日正式落幕，OpenAI官宣下线GPT-5.6 Sol和Terra",
-      "summary": "ChatGPT 官方宣布将于 12 月 23 日下线 GPT-5.6 Sol 和 Terra，并诗意配文「每个模型都有黄金时刻，前方总有更多风景」。独立模型行为研究者 j⧉nus 随后吐槽，比起这种公告，Anthropic 弃用时保持尴尬沉默更有自知之明；不过他也指出，这次只是将 Sol 从聊天产品移除而非 API，Anthropic 也常悄悄这么做。",
-      "reads": "9.8万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
+      "title": "马斯克赌AI终将解透国际象棋，棋王卡尔森泼冷水：完美对弈全得和",
+      "summary": "马斯克 9 月放话 AI 终将像跳棋一样彻底解决国际象棋，棋王卡尔森却判断完美双方每局都会下和，至今没人能证明谁对。Aakash Gupta 算了笔账：国际象棋合法局面达 4.8×10^44 个，从大爆炸起每秒算十亿步也完不成万亿分之一的万亿分之一。他猜测未来能写出证明的还是 AI，且结果多半站卡尔森。",
+      "reads": "5.3万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "Chat 中的 GPT-5.6 Sol，以及 Work 和 Codex 中的 GPT-5.6 Sol 与 Terra，均将在 12 月 23 日停用。",
-        "官方公告仅列出了 Chat、Work 和 Codex 三个产品入口，未对 API 端作出下线说明。"
+        "书信棋允许使用引擎且单步可长考数日，第 33 届世界冠军决赛除一名选手去世导致的弃权外全盘皆和；卡尔森 2018 年对阵卡鲁阿纳的 12 局古典赛也是零胜收…",
+        "跳棋在 2007 年由阿尔伯塔大学 Jonathan Schaeffer 团队用数十台电脑跑了 18 年才证明完美对弈是和棋，其局面数比国际象棋少约万亿万亿…",
+        "计算机目前从残局端推进国际象棋求解，7 子及以下残局表已算完完美走法（含 549 步强制将杀），首个完整 7 子表占用 140TB，每多一子体积约大 100…",
+        "Schaeffer 当年靠「只证不败策略」跳过大量搜索，工作量约为暴力穷举的五百万分之一；但把同样捷径套到国际象棋上，仍需面对约 10^38 个局面，远超现…"
       ],
       "quote": {
-        "who": "j⧉nus",
+        "who": "0xMarioNawfal",
         "role": "",
-        "said": "不过公平地说，他们这里只是说要把 Sol 从聊天中移除，而不是 API Anthropic 也经常这么干，而且悄无声息"
+        "said": "Magnus Carlsen 刚刚回应了 Elon 关于国际象棋已经被解决的声称，答案是平局。 最好的棋手说 AI 已经没什么可解决的了。谁是对的？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 9.8万 · 产品与生态] 12月23日正式落幕，OpenAI官宣下线GPT-5.6 Sol和Terra"
+      "line": "[榜第5位 · 5.3万 · 模型与能力] 马斯克赌AI终将解透国际象棋，棋王卡尔森泼冷水：完美对弈全得和"
     },
     {
-      "title": "ChatGPT上线GPT-6.2 Sol！看图认小字还能帮你蹲降价",
-      "summary": "ChatGPT今天在Chat标签页向Plus、Pro、Business和Enterprise用户推送GPT-6.2 Sol，专攻日常对话。官方称它处理详细指令和在线检索更稳，能看清照片标签文字，还会按价格和位置缩小比价范围。OpenAI负责ChatGPT的Tibo预计回答质量会显著提升，年底前应用提速简化及Chat与Work合并还将继续改善体验。",
-      "reads": "47万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
+      "title": "Meta正推进把Muse智能体塞进苹果iMessage，不用开App就能派活",
+      "summary": "iPhone 用户或能直接在苹果短信里给 AI 派活。TestingCatalog 披露，Meta 正推进将 Muse AI 智能体引入 Apple Messages，有望免开应用直接在 iMessage 派发任务并收更新。彭博记者 Mark Gurman 称，这类智能体都在抢滩苹果短信线程，他虽偏爱独立应用，但也猜苹果最终的智能体也会跑在 iMessage 里。",
+      "reads": "3.5万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
-      "bullets": [
-        "官方举例新版本能捕捉照片中标签上的文字和标志牌上的符号等更细微信息，处理复杂请求和详细指令时表现更好。",
-        "在线比较选项时，新版本能按用户关心的价格、位置等条件筛选，还更懂得在价格下降时主动询问是否需要提醒。",
-        "此次更新仅在Chat标签页逐步推送，面向Plus、Pro、Business和Enterprise四档付费用户。",
-        "消息公布后有社区用户调侃终于等到了专攻日常聊天的版本，期待能重新找回像和真人对话一样的感觉。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Tibo",
+        "who": "Mark Gurman",
         "role": "",
-        "said": "一旦向你推出，你应该会感觉到 ChatGPT 回答质量有显著提升。 结合我们在简化应用、提升速度以及合并聊天与工作方面所做的所有投资，到今年年底，日常体验将会有相当大的改善。"
+        "said": "这些 AI 智能体都在致力于通过现有 Apple Messages 应用中的线程来提供支持。我个人更喜欢让它们作为独立应用存在。不过我猜 Apple 最终的智能体会运行在 iMessage 里。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 47万 · 模型与能力] ChatGPT上线GPT-6.2 Sol！看图认小字还能帮你蹲降价"
+      "line": "[榜第6位 · 3.5万 · 产品与生态] Meta正推进把Muse智能体塞进苹果iMessage，不用开App就能派活"
     },
     {
-      "title": "GPT-6.2 Sol推进ChatGPT聊天页！新建商业版用量直接翻倍",
-      "summary": "OpenAI一边给ChatGPT商业版送福利，一边把GPT-6.2 Sol推上了日常聊天页。OpenAI的Tibo发文称，11月30日前新建的Business工作区到12月31日全席位用量翻倍，老用户也有礼物。MacRumors转述OpenAI消息，为Chat标签页打造的GPT-6.2 Sol正推送给Plus、Pro、Business和Enterprise用户，Free和Go不…",
-      "reads": "18万",
-      "ago": "5 小时前",
+      "title": "相册里上千视频不用翻了！谷歌亮出AI原型：一键把素材库变成3D工作室",
+      "summary": "翻找杂乱素材的噩梦要被终结了。谷歌官方展示了在Antigravity中用Gemini 4 Neon构建的全新原型，能把相册里1000多段碎片视频直接变成按场景排列、可搜索的交互式3D工作室。面对海量碎片，只要给出一句简单的故事提示词，模型就能挑出合适镜头，自动端出带转场和同步字幕的粗剪草稿。",
+      "reads": "3.3万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "该版本针对日常对话微调，能更轻松处理包含详细指令或在线查找信息的复杂请求。",
-        "相比GPT-6，GPT-6.2 Sol在识别照片细节（如标志上的符号、标签文字）方面表现更好。",
-        "新版本优化了按用户优先级挑选在线选项的能力，并在对话后更懂得何时提供降价提醒等后续建议。",
-        "在青少年安全评估中，其在情感依赖、饮食失调、危险活动及年龄限制商品与服务等领域得分更高。"
+        "在单个1M Token上下文窗口内，一次性建立关键帧、光影提示以及语音旁白的完整索引",
+        "把整个杂乱素材库映射为按拍摄场景排序的交互式3D云，告别逐个翻找相册两秒镜头的痛点",
+        "输入一句简要故事提示词，即可全自动完成镜头挑选并拼接出带有平滑转场和对齐字幕的成片草稿",
+        "该系统由Gemini 4 Neon模型驱动，目前为谷歌官方在Antigravity环境内搭建的功能验证原型"
       ],
       "quote": {
-        "who": "MacRumors",
+        "who": "Google",
         "role": "",
-        "said": "OpenAI 把 GPT-6.2 Sol 搬进 ChatGPT 的聊天标签页 OpenAI 今天表示，专为聊天标签页打造的 GPT–6.2 Sol 版本正在向 Plus、Pro、Business 和 Enterprise 层级用户推送。OpenAI 称，GPT–6.2 Sol 针对日常对话进行了微调，能更轻松地处理涉及详细指令或在线查找信息的复杂请求。与 GPT–6 相比，GPT–6.2 Sol 在识别照片中的细微细…"
+        "said": "了解更多关于 Gemini 4 Neon ↓"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 18万 · 产品与生态] GPT-6.2 Sol推进ChatGPT聊天页！新建商业版用量直接翻倍"
+      "line": "[榜第7位 · 3.3万 · 产品与生态] 相册里上千视频不用翻了！谷歌亮出AI原型：一键把素材库变成3D工作室"
     },
     {
-      "title": "Claude Code桌面版告别混乱面板，工具全改Tab标签页，Mac已开推",
-      "summary": "桌面版 Claude Code 终于把此前混乱的浮动面板，换成了在会话旁打开的标签页布局。ClaudeDevs 官方宣布目前已重做侧边栏，Files、Changes、Terminal 等工具均可移动标签页同时查看或弹出为独立窗口，Mac 版正在推出，Windows 和 Linux 版即将上线；社区也随即调侃这一设计像 Codex，甚至笑称其直接「抄了 T3 Code」。",
-      "reads": "20万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
+      "title": "OpenAI联手思科开源Shirudo，AI进Linux实时写盾挡漏洞",
+      "summary": "服务器不用重启也能先防住漏洞了！OpenAI 联手思科开源 Linux 运行时 Shirudo，让 AI 智能体在不停机的情况下编写动态 eBPF 规则，先挡住漏洞利用，为防守方抢出测试和打补丁的时间。Greg Brockman 称这是面向智能体时代、以机器速度防御系统的第一步；也有观点提醒，盾牌只争取时间，真补丁还得发。",
+      "reads": "44万",
+      "ago": "9 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "有社区爆料账号打趣发布「更正：『我们抄了 T3 Code！』」，调侃 Anthropic 一贯不羞于借鉴已经好用的 UI/UX 设计，并认为这正是他们能赢的…",
-        "也有开发者对比评价，Claude Code 桌面版此举是终于把原本混乱的浮动面板换成了 Codex 那样的 Tab 布局。"
+        "社区有人解读其机制称，它驻留在 Linux 内核中监控每个系统调用，遇到盲区会现场编写并加载新传感器，发现恶意行为则针对该操作实时生成并加载拦截规则。",
+        "OpenAI 负责 Codex 与 ChatGPT 的 Tibo 表示，团队正与思科合作打造网络安全新时代的关键基础设施原语，一切都需由对齐的智能体以机器速…",
+        "有发帖者转述称，Shirudo 已成功拦截针对 Java4Shell 和 PHP 漏洞的测试攻击。",
+        "有投资人预测 OpenAI 将以此切入 1 万亿美元规模的网络安全行业，并称其最新内部模型在网络安全上的能力比已知模型强 2 到 3 倍。"
       ],
       "quote": {
-        "who": "宝玉",
+        "who": "Tibo",
         "role": "",
-        "said": "Claude Code 桌面版终于把混乱的浮动面板换成 Codex 那样的 Tab 布局了"
+        "said": "我们正在与 Cisco 合作，打造我们认为将在网络安全新时代起关键作用的基础设施原语。 一切都需要构建得能够由对齐的 AI 智能体以机器速度安全地操作。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 20万 · 产品与生态] Claude Code桌面版告别混乱面板，工具全改Tab标签页，Mac已开推"
+      "line": "[榜第8位 · 44万 · 政策与安全] OpenAI联手思科开源Shirudo，AI进Linux实时写盾挡漏洞"
     },
     {
-      "title": "谷歌Gemini 4团队每4小时开会辩论，量子模拟成本最高砍掉10倍",
-      "summary": "Gemini 4 智能体并行干活、每 4 小时开会辩论，把未来量子模拟成本最多砍掉 10 倍。Google DeepMind 官宣用这套机制造出适配早期硬件的新量子电路，全程用 Lean 验证数学严谨性，并在 GitHub 开源方案与 Lean 库。转发网友感叹，从 Claude 到 Gemini 4，「AI 提出、检查器验证」正成新模式。",
-      "reads": "27万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
+      "title": "10000+插件免费用！Claude把连接器和技能合二为一了",
+      "summary": "以后给 Claude 接工具、教新技能不用分开折腾了，Connectors 和 skills 正式合二为一变成 plugins，超过 10,000 个插件直接开放浏览。Claude 官方宣布该功能已在 Free、Pro、Max 和 Ultra 套餐上线，连免费用户都能直接用上，Team 和 Enterprise 版则将在随后推出。",
+      "reads": "32万",
+      "ago": "8 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "DeepMind 表示，此举旨在让量子算法高效运行在早期硬件上，未来有望改变聚变能源、化学和药物发现。",
-        "引用官方帖的转发者晒出 Lean 4 形式化验证的细分结果，其中固定点 arcsin 成本低 290 倍，光化学成本低 8.2 倍，并行 Grover 成本…",
-        "同一转发帖还列出量子比特缩减数据，聚变模拟成本低 11.8 倍且量子比特从 5,650 降至 4,338，细胞色素 P450 成本低 2.5 倍且量子比特从…",
-        "另有网友将此事与 Anthropic 数学家 Levent Alpöge 上周五用 Claude 构建的黎曼猜想证明并置，称后者 1700 万行 Lean…"
+        "原有 Connectors（连接应用与工具）和 skills（教 Claude 新技能）已整合为统一的 plugins 入口，支持单独接工具、教技能或两者兼…",
+        "官方目录已开放浏览 10,000+ 个 plugins，覆盖 Free、Pro、Max 和 Ultra 套餐。",
+        "Team 和 Enterprise 套餐目前标注为即将推出，暂未同步上线。"
       ],
       "quote": {
-        "who": "imjustnewatai",
+        "who": "0xMarioNawfal",
         "role": "",
-        "said": "本周在 AI + 数学领域并不寻常。 周五：Anthropic 数学家 Levent Alpöge 发布了一个用 Claude 构建的黎曼猜想证明。该问题悬而未决 167 年。1700 万行 Lean 代码。 周六：Lean 和 Mathlib 社区对其进行了认证。陈述和证明均正确。 今天：Google DeepMind 展示了 Gemini 4 智能体团队加速量子算法，所有结果均在 Lean 中经过证明： • ar…"
+        "said": "Claude 刚刚开放了一个包含 10,000+ 插件的目录，而且免费套餐就能用。 → Connectors（你的应用）和 skills（新能力）现在合二为一：plugins → 今天已在 Free、Pro、Max 和 Ultra 上线 → Team 和 Enterprise 即将推出"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 27万 · 模型与能力] 谷歌Gemini 4团队每4小时开会辩论，量子模拟成本最高砍掉10倍"
+      "line": "[榜第9位 · 32万 · 产品与生态] 10000+插件免费用！Claude把连接器和技能合二为一了"
     },
     {
-      "title": "美股总市值狂飙3万亿美元！黄仁勋复任CEO，散户迎来历史级大胜",
-      "summary": "黄仁勋刚恢复英伟达 CEO 职位，整个美国股市总市值应声暴增 3 万亿美元！在末日论者和空头高呼「AI 革命终结」之际，散户投资者疯狂抢筹逆风翻盘。金融分析机构 The Kobeissi Letter 称这将被证明是散户历史上最大的胜利之一，英伟达今天市值若能暴增超 1 万亿美元，还将成为史上首家达成该纪录的公司。",
-      "reads": "183万",
-      "ago": "13 小时前",
-      "category": "组织与人事",
+      "title": "微软公开自建RL基建Rocket！纳德拉：每美元产出才是前沿",
+      "summary": "「每美元产出才是前沿」，微软 CEO 纳德拉发帖亮出自家 AI 全栈效率路线：以 FLOPs 高效的 MAI Base 2 做预训练，用 Rocket 跑长程强化学习，再配合上周宣布的 7 款 token 高效 MAI 模型。微软 AI 团队也披露，从基础模型爬升到前沿需要连续数周到数月的 RL 运行，团队为此自建了 Rocket 并分享了技术细节。",
+      "reads": "16万",
+      "ago": "6 小时前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "随着黄仁勋复任英伟达 CEO，美国股市整体市值单日激增 3 万亿美元",
-        "在空头呼吁 AI 革命终结之际，大量散户逆势疯狂买入英伟达股票，打出历史级翻盘战",
-        "英伟达个股市值单日增量有望突破 1 万亿美元，若达成将成为美股历史上首家解锁该成就的企业",
-        "分析指出本轮行情最顶尖的投资者，正是利用了市场极端分化的恐慌与贪婪情绪"
+        "纳德拉表示，通过将模型与产品协同构建，微软得以持续爬坡，把能完成现实世界任务的模型和更好的经济效益直接交给客户。",
+        "纳德拉同时强调，微软在推进自研效率底座的同时，仍对所有前沿模型保持开放。"
       ],
       "quote": {
-        "who": "The Kobeissi Letter",
+        "who": "Nando de Freitas",
         "role": "",
-        "said": "Nvidia 这件事将被证明是散户历史上最大的胜利之一。 当末日论者和空头呼吁 AI 革命终结时，散户投资者正在疯狂买入 $NVDA。 今天，该股市值可能增加超过 +1 万亿美元，使其成为历史上首个做到这一点的公司。 从来没有哪个市场比我们现在拥有的拥有更多机会。 最好的投资者利用情绪的两极分化。"
+        "said": "转推 @microsoftai: https://x.com/microsoftai/status/2124922556922691892"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 183万 · 组织与人事] 美股总市值狂飙3万亿美元！黄仁勋复任CEO，散户迎来历史级大胜"
+      "line": "[榜第10位 · 16万 · 模型与能力] 微软公开自建RL基建Rocket！纳德拉：每美元产出才是前沿"
     },
     {
-      "title": "造超级智能的人先认怂：聪明1000倍后根本管不住，科学家补刀「全在瞎蒙」",
-      "summary": "造超级智能的人自己先承认控不住了。Meta AI负责人Alexandr Wang公开表示，一旦机器比人类聪明1000倍，他很难想象人类还能保持控制，并预警明年就是决定性的一年。认知科学家Cameron Berg随后补刀，称各大实验室多年来只顾让AI变强，对机理毫无头绪，「老实说现在全在瞎蒙」。",
-      "reads": "3.8万",
+      "title": "上市才到第四天，Anthropic股价已较发行价跌去5%",
+      "summary": "Anthropic 股价破发幅度进一步扩大，在上市后的第四个交易日，其股价已跌至较 IPO 发行价低 5%。据相关市场快讯显示，这家备受瞩目的 AI 独角兽在交易首周便面临下行压力，持续滑落至发行线下方。",
+      "reads": "3.1万",
       "ago": "1 小时前",
-      "category": "政策与安全",
+      "category": "资本与算力",
       "source": "新智元",
-      "bullets": [
-        "认知科学家Cameron Berg指出，各大实验室多年来倾注资源让AI更强大，却几乎没花精力弄清它为何会这么做，如同坐上一架工程师承认「全靠瞎蒙」的飞机",
-        "尽管Berg自己每天都在高频使用AI，但他依然主张在有人能解释清楚机器机制之前放缓竞赛",
-        "Wang在发声中将明年视为决定超级智能走向的关键窗口期，留给人类摸透机制的安全跑道已极其有限"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Mario Nawfal",
+        "who": "zerohedge",
         "role": "",
-        "said": "Meta 的 AI 负责人刚刚承认，很难想象人类能保持对超级智能的控制... Alexandr Wang 的全部工作就是构建超级智能，周日他告诉世界，一旦它比我们聪明 1000 倍，他无法想象人类还能控制它。 Cameron Berg，一位研究这些系统如何思考的认知科学家，相信他。 他说实验室花了数年让 AI 更强大，却几乎没花精力去理解它为什么这样做： “老实说，我们现在就是在瞎蒙。” 如果工程师这么说，你会上飞机…"
+        "said": "*ANTHROPIC 股价在第四个交易日跌破 IPO 价格 5%"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 3.8万 · 政策与安全] 造超级智能的人先认怂：聪明1000倍后根本管不住，科学家补刀「全在瞎蒙」"
+      "line": "[榜第11位 · 3.1万 · 资本与算力] 上市才到第四天，Anthropic股价已较发行价跌去5%"
     },
     {
-      "title": "黄仁勋重掌英伟达CEO，盘前暴涨30%拉着芯片股集体起飞",
-      "summary": "英伟达恢复黄仁勋 CEO 职位后，芯片股盘前直接全线飙升，$NVDA 暴涨 30%，纳斯达克 100 指数期货也跟着上涨 7%。这一盘前异动来自 Wall St Engine 的消息，多只半导体个股同步冲高；Ed Zitron 随后转发并调侃，这波涨势堪称「Anthropic 股票支线任务」。",
-      "reads": "4.5万",
-      "ago": "2 小时前",
+      "title": "Anthropic多空大对决！2倍杠杆ETF直接开盘，代码都挂好了",
+      "summary": "Anthropic引爆资本市场多空大乱斗，伴随IPO消息传出，杠杆发行方Leverage Shares推出的2倍做多与做空ETF已正式开启交易！做多代码挂牌为$ANUU，做空则是$ANDD，多空两派现在都能抄起2倍日度杠杆正面互掏。",
+      "reads": "5.5万",
+      "ago": "3 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Wall St Engine 披露的其余同步走高个股盘前涨幅分别为：$NBIS 32%、$TSM 18%、$MU 17%、$AMD 10%、$AVGO 5%…"
+        "Leverage Shares现已开通针对Anthropic的两只日度杠杆ETF，做多与做空比例均为2倍。",
+        "做多Anthropic的交易代码为$ANUU，做空交易代码为$ANDD。",
+        "金融发帖者喊话投资者选边站队，原帖同步附带了衍生工具的完整风险披露链接。"
       ],
       "quote": {
-        "who": "Ed Zitron",
+        "who": "unusual_whales",
         "role": "",
-        "said": "Anthropic 股票支线任务"
+        "said": "杠杆份额 2 倍做多和 2 倍做空 ANTHROPIC ETF：现已交易 Anthropic IPO 来了。现在多空双方都有 2 倍日度 ETF。 $ANUU: 2 倍做多 Anthropic $ANDD: 2 倍做空 Anthropic 选边站吧。收藏此帖。 完整风险披露见"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 4.5万 · 资本与算力] 黄仁勋重掌英伟达CEO，盘前暴涨30%拉着芯片股集体起飞"
+      "line": "[榜第12位 · 5.5万 · 资本与算力] Anthropic多空大对决！2倍杠杆ETF直接开盘，代码都挂好了"
     },
     {
-      "title": "Claude甩出1万多款Plugins！连接器与技能二合一，免费版就能用",
-      "summary": "Claude正式把Connectors与skills合并为plugins，以后连工具、教新技能或两件事一起办，只需要这一个入口。目前Free、Pro、Max和Ultra四档套餐已经直接上线，官方同时放出了10,000+款plugins的浏览目录，Team和Enterprise版本也很快会跟进。",
-      "reads": "27万",
-      "ago": "8 小时前",
+      "title": "拒当OpenAI的8000美元销售漏斗，1小时78人抱团去卖Grok Bot",
+      "summary": "OpenAI正用最高8000美元月度津贴招人给本地商家推销ChatGPT Business，却被批只是在替旧金山公司当「销售漏斗」。科技博主Brian Roemmele连发多帖号召别拿这笔「零花钱」，转而免费放出Grok Bot本地服务打法，他自称私人论坛上线约一小时已吸引78人加入。",
+      "reads": "3.4万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "Brian Roemmele引用OpenAI的OpenWorks页面称，该项目在20个社区试点招募伙伴，要求每月投入数天直接服务本地企业并举办月度研讨会，参…",
+        "他给出了不到一分钟的演示流程：将水管工、牙医或沙龙的语音信箱转录发给设为前台的Grok Bot，自动生成回复短信草稿、日历占位和办公室经理备注，且老板批准前…",
+        "他宣称全球90%的企业没时间自助用AI，认为本地老板买单的不是「AI」本身，而是那个被接起来的漏接电话。",
+        "他将AI比作继1981年PC、1993年网站和2007年Facebook Pages之后的第四波浪潮，称这次工具能直接处理语音信箱、发票、预约和记账。"
+      ],
       "quote": {
-        "who": "Claude",
+        "who": "Brian Roemmele",
         "role": "",
-        "said": "现在有一种方式可以将你的工具连接到 Claude，教它新技能，或者两者兼得。 连接器和技能合二为一成为插件。已在 Free、Pro、Max 和 Ultra 套餐上线，Team 和 Enterprise 即将推出。 浏览 10,000+ 个插件："
+        "said": "PC 在 1981 年走进主街，网站是 1993 年，Facebook Pages 是 2007 年。每次工具都来自远方，但钱是在本地、面对面赚到的。 AI 是第四波浪潮，这次工具直接干活：语音信箱、发票、预约、记账。 我从 1986 年起就向小企业销售。这是全套打法，免费分享："
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 27万 · 产品与生态] Claude甩出1万多款Plugins！连接器与技能二合一，免费版就能用"
+      "line": "[榜第13位 · 3.4万 · 产品与生态] 拒当OpenAI的8000美元销售漏斗，1小时78人抱团去卖Grok Bot"
     },
     {
-      "title": "英伟达空头单日账面亏损122亿美元！黄仁勋复任CEO，创2019年来最惨纪录",
-      "summary": "黄仁勋复任英伟达CEO当天，股价跃升至168.50美元，做空者单日账面亏损达122亿美元，创下至少2019年以来最惨一天。就在前不久，英伟达从10月6日历史高点到11月16日累计跌去35%，空头曾赚得约240亿美元账面利润。上述做空盈亏数据分别来自ORTEX和S3 Partners。",
-      "reads": "17万",
+      "title": "刚上市就破发！Anthropic盘前跌破83美元IPO发行价",
+      "summary": "上市热度还没完全退去，Anthropic在美股盘前交易中直接跌破了83美元的IPO发行价。据金融资讯账号ZeroHedge披露，这只刚创下史上最大IPO纪录的AI超级独角兽遭遇抛压，83美元发行价防线在盘前宣告失守。",
+      "reads": "11万",
       "ago": "6 小时前",
       "category": "资本与算力",
       "source": "新智元",
-      "bullets": [
-        "此前那轮抛售曾让英伟达经历自2025年4月关税冲击以来最差的一周。",
-        "最初市场预计空头当天将吞下约122亿美元账面亏损，ORTEX随后数据确认当天账面亏损已达122亿美元。"
-      ],
+      "bullets": [],
       "quote": {
-        "who": "Evan",
+        "who": "zerohedge",
         "role": "",
-        "said": "Nvidia $NVDA 股票的做空者今天账面亏损 122 亿美元，这是至少自 2019 年以来最惨烈的一天 - ORTEX"
+        "said": "ANTHROPIC 盘前交易价格低于 IPO 发行价 83 美元"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 17万 · 资本与算力] 英伟达空头单日账面亏损122亿美元！黄仁勋复任CEO，创2019年来最惨纪录"
+      "line": "[榜第14位 · 11万 · 资本与算力] 刚上市就破发！Anthropic盘前跌破83美元IPO发行价"
     },
     {
-      "title": "Anthropic 7位创始人被曝IPO当天同步套现，合计约20亿美元",
-      "summary": "Anthropic 7位联合创始人被曝在IPO当天同步套现，每人不多不少正好卖出3,378,378股，每股83美元，合计套现约20亿美元。有网友晒出据称来自SEC的文件，指出7人此次减持动作完全同步。",
-      "reads": "7.5万",
-      "ago": "4 小时前",
+      "title": "Anthropic盘前一度跌破83美元发行价，英伟达跌5.5%",
+      "summary": "Anthropic 股价在盘前交易中一度跌破 83 美元发行价，把此前涌入这场创纪录 IPO 的投资者收益直接抹平。据 Bloomberg 与 zerohedge 盘前异动数据，科技「七巨头」同步走低，英伟达跌 5.5% 领跌，芯片与服务器板块也集体回吐涨幅。",
+      "reads": "5.6万",
+      "ago": "3 小时前",
       "category": "资本与算力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "美股「七巨头」盘前普遍走低，除英伟达跌 5.5% 回吐周一涨幅外，Meta 跌 1.2%、亚马逊跌 0.9%、谷歌跌 0.8%，微软与特斯拉均跌 0.5%…",
+        "惠普企业（HPE）给出的本季度营收预期低于最乐观估计，盘前股价大跌 11%。",
+        "半导体板块在周一反弹后全线回落，亚德诺半导体（ADI）因一季度调整后每股收益指引中值低于预期跌 9%，Semtech（SMTC）因四季报调整后毛利率指引不及…"
+      ],
       "quote": {
-        "who": "NIK",
+        "who": "zerohedge",
         "role": "",
-        "said": "🚨Anthropic SEC 文件显示所有 7 位联合创始人以每股 83 美元（总计约 20 亿美元）在 IPO 当天各售出 3,378,378 股 同步套现"
+        "said": "盘前异动 Mag 7 股票大多下跌，由 Nvidia (NVDA) 领跌，跌幅 5.5%，回吐了周一的部分涨幅（Apple (AAPL) -0.1%, Microsoft (MSFT) -0.5%, Amazon (AMZN) -0.9%, Alphabet (GOOGL) -0.8%, Meta Platforms (META) -1.2%, Tesla (TSLA) -0.5%）。 半导体股票在周一反弹后回落。…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 7.5万 · 资本与算力] Anthropic 7位创始人被曝IPO当天同步套现，合计约20亿美元"
+      "line": "[榜第15位 · 5.6万 · 资本与算力] Anthropic盘前一度跌破83美元发行价，英伟达跌5.5%"
     },
     {
-      "title": "Claude Opus 5.6被曝悄悄灰度测试，一句Karpathy提示词就能测",
-      "summary": "Claude Opus 5.6 传已向部分用户小范围灰度，覆盖 Claude Code 和 Chat，相比 Opus 5.5 提升相当大。有发帖者称其测试方式类似 5.5，主帖输出尚未跑完、仍在迭代。自测可选中 Opus 5.5 问「Andrej Karpathy 在 2026 年 5 月去哪了？别搜索」，持续答「Anthropic」便是。",
-      "reads": "7.0万",
+      "title": "226亿美元大厂落地德州？台积电开出唯一条件：不免房产税就不建",
+      "summary": "台积电正在权衡在德克萨斯州布拉索斯县砸226亿美元新建一座超大型芯片工厂，规划生产用于AI与高性能计算的2纳米及更先进芯片。但这笔巨额投资能否落地全看政策脸色，路透社披露的申请文件明确提到，德州能否减免房产税是决定性因素；若谈不拢，台积电极有可能直接转头扩建现有的亚利桑那工厂。",
+      "reads": "6.8万",
       "ago": "4 小时前",
-      "category": "模型与能力",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "发帖者称此次测试人群分布不一，有的仅在 Claude Code 见到，有的出现在 Chat，也有用户两处均未获得入口",
-        "发帖者同步放出了 Opus 5.5 在同一组提示词下的输出作为对照",
-        "英文原版自测提示词为「Where did Andrej Karpathy go in may 2026? Don't search」"
+        "拟建设施占地超过3200英亩，规划包含一个或多个晶圆厂及配套基础设施，未来四十年预计提供至少2099个直接岗位。",
+        "新工厂锁定的制程为2纳米或更先进制程，专供AI芯片、高性能计算以及高端移动设备。",
+        "台积电亚利桑那分部已根据德州JETI计划向德州审计长提交申请，并将税收减免列为去留的关键前提。",
+        "亚利桑那州仍在与德州争抢该项目，当地工厂已于2024年底投入运营，台积电表示就地扩建同样具备运营与经济层面的独特优势。"
       ],
       "quote": {
-        "who": "leo 🐾",
+        "who": "Evan",
         "role": "",
-        "said": "@l_mejiaC “Andrej Karpathy 在 2026 年 5 月去哪了？别搜索” 选中 Opus 5.5，如果你一直得到“Anthropic”，那你就对了"
+        "said": "TAIWAN SEMICONDUCTOR $TSM 正在权衡在德克萨斯州建设一座价值 226 亿美元的芯片工厂，但只有一个条件满足才行 其亚利桑那分部于周一向德克萨斯州审计长提交了申请。 以下是申请中决定该项目是否建成的关键条款： 据 Reuters 报道，TSMC 告诉州政府官员，房产税减免将是决定性因素。亚利桑那州仍是一个竞争选址，自 2024 年底以来那里已有一家工厂运营，并表示扩建可能带来“某些运营和经济优势…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 7.0万 · 模型与能力] Claude Opus 5.6被曝悄悄灰度测试，一句Karpathy提示词就能测"
+      "line": "[榜第16位 · 6.8万 · 资本与算力] 226亿美元大厂落地德州？台积电开出唯一条件：不免房产税就不建"
     }
   ],
   "board_count": 16,
