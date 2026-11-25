@@ -3,401 +3,403 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-25 20:40:50 +0800",
-  "today": "11/25",
+  "fetched_at": "2026-11-26 06:26:16 +0800",
+  "today": "11/26",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "不用生物专用模型！OpenAI用GPT-6写代码造蛋白，湿实验结合成功",
-      "summary": "通用大模型直接靠推理和写普通代码设计全新蛋白质，居然真在湿实验室里结合上了。OpenAI 公布最新预印本，展示了 GPT-6 系列模型的内在分子设计能力：全程无需调用任何生物专用模型，仅靠自然语言指令、数学物理化学知识推理与代码生成，就能从零构建蛋白质 3D 形状与序列并完成真实靶点附着。",
-      "reads": "162万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
+      "title": "流量暴增1800倍扛不住！Anthropic让Claude重写Rust，CPU狂省70%",
+      "summary": "Anthropic 核心 Messages API 正式从 Python 全面迁移至 Rust，而主导重构的正是 Claude 自己。面对 2024 年至今暴涨 1800 倍的请求流量，官方派出多支 Claude 智能体团队以老服务为基准跑验证、抠细节，最终靠 AI 纯手工完成了整条核心请求路径的代码重写与平滑交接。",
+      "reads": "151万",
+      "ago": "1 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "实测 5 个靶点全中：在与 Onava 合作的湿实验中，GPT-6.2 负责设计形状，322 个测试蛋白中有 35 个显示结合证据，且覆盖的 5 个关键靶点…",
-        "抗体改造成功保留活性：在抗体抓取靶点部位的重构实验中，182 个重新设计的小型抗体有 128 个保留结合能力，272 个抗体片段中有 179 个保留结合，成…",
-        "控制粒度精确到成键原子：GPT-6.2 可响应自然语言指令，指定小分子与蛋白质之间由哪两个原子成键并预测剩余结构契合度，还能直接按提示设定附着点及螺旋或折叠…",
-        "内部模型叫板专用模型：OpenAI 测试显示，其内部研究模型在形状设计、分子对接等多项任务上已匹配甚至超越生物专用模型，且能力随模型代际显著跃升。"
+        "实测转述数据显示，重构后每个请求的 CPU 消耗骤降约 70%，首字延迟降低 20%，且切换全程零宕机。",
+        "Claude 仅花约一周时间便写出 Rust 版本的核心初稿，但团队强调，证明其与老 Python 服务行为完全一致才是真正的硬仗。",
+        "验证方案极为硬核：Anthropic 用正在跑的 Python 现役服务做对照组，让智能体大队地毯式捕捉两套系统的输出差异并反复迭代修 Bug。",
+        "两年前 Anthropic 工程师曾公开表态「绝不会用 Go 或 Rust 重写 API」，如今在自家模型加持下上演了真香反转。"
       ],
       "quote": {
-        "who": "Derya Unutmaz, MD",
+        "who": "Rohan Paul",
         "role": "",
-        "said": "@florian_marty 关键在于存在实际的成功率以及对生物结构的泛化能力。具体的比率本身并不重要，因为它会像其他所有基准测试一样迅速扩展并改进。"
+        "said": "Anthropic 用 Rust 重写了它的 Messages API，现在每个请求的 CPU 使用量减少了约 70%。 Python 拖慢了每一个请求，而自 2024 年初以来，API 流量增长了大约 1800 倍。 Claude 花了一周左右时间写出了初稿，但证明它的行为与 Python 版本完全一致要难得多。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 162万 · 模型与能力] 不用生物专用模型！OpenAI用GPT-6写代码造蛋白，湿实验结合成功"
+      "line": "[榜第1位 · 151万 · 产品与生态] 流量暴增1800倍扛不住！Anthropic让Claude重写Rust，CPU狂省70%"
     },
     {
-      "title": "不用打包也不用签名，Claude直接把生成的小工具装上桌面了",
-      "summary": "Claude Desktop 现已支持将 Artifact 一键安装为 Mac 和 Windows 桌面应用，无需打包、签名或配置 API key，支持发通知和加菜单栏项。该功能目前全套餐处于 Beta 阶段，构建和调用均计入限额。消息一出，有 KOL 喊话 Anthropic 已开始对标应用商店，也有中文开发者吐槽这其实就是联网网页套壳或 PWA。",
-      "reads": "262万",
-      "ago": "8 小时前",
-      "category": "产品与生态",
+      "title": "盒中神明统治乌托邦？Anthropic被曝向AI交权，OpenAI和Meta集体硬刚",
+      "summary": "Anthropic要把人类主权拱手让给AI？诉讼披露的旧愿景幻灯片竟将未来描绘成「盒中神明统治的乌托邦」，引发硅谷剧烈震荡。据Axios披露，OpenAI与Meta高管接连公开开炮，怒斥「绝不放弃人类主导地位」，坚决拒绝社会向超级智能交权；Anthropic则紧急回应坚称依然支持人类监督。",
+      "reads": "57万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "用户让 Claude 构建 Artifact 后点击「Install as app」，即可像普通应用一样拥有独立图标和窗口运行，并可使用用户的 connec…",
-        "Enterprise 企业版需由管理员先行开启该功能；Anthropic 工程师 Felix Rieseberg 补充，应用调用 Claude 前会先向用户…",
-        "KOL Vaibhav Sisinty 透露，Anthropic 内部人员已用该方式做出图像编辑器、文件管理器、终端和系统监视器四款桌面工具。",
-        "免疫学教授 Derya Unutmaz 认为此举消除了 Mac 和 Windows 的开发摩擦，并期待后续推出 iPad 和 iPhone 版本。"
+        "Axios披露，部分Anthropic员工认为在诸多场景下应把最终决策权让渡给超级智能系统",
+        "Dario Amodei此前曾数次谈及AI将成为「领导者」并指挥人类、甚至决定人类经济回报与防务武器接管",
+        "诉讼披露的Anthropic早期产品愿景幻灯片，更直白将未来理想世界描绘为「盒中神明统治的乌托邦」",
+        "OpenAI的Dean Ball发长文明确宣称「我拒绝放弃人类的主导地位」，警惕向超级智能投降的危险共识"
       ],
       "quote": {
-        "who": "Vaibhav Sisinty",
+        "who": "NIK",
         "role": "",
-        "said": "我每天在我们的免费 AI WhatsApp 社区分享这样的工具和信息。已经有 200,000+ 人在里面了。 免费加入："
+        "said": "本文由 OpenAI PR 团队赞助"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 262万 · 产品与生态] 不用打包也不用签名，Claude直接把生成的小工具装上桌面了"
+      "line": "[榜第2位 · 57万 · 政策与安全] 盒中神明统治乌托邦？Anthropic被曝向AI交权，OpenAI和Meta集体硬刚"
     },
     {
-      "title": "ChatGPT把Chat和Work合并了，被曝额度也打通，以后闲聊得省着点",
-      "summary": "ChatGPT 的 Chat 和 Work 正式开始合体测试，以后不用来回切标签，闲聊窗口里就能直接跑复杂任务。OpenAI 负责 Codex 与 ChatGPT 的 Tibo 透露，新体验已向一小批 Pro 用户灰度推送以收集反馈；但随后有爆料按官方帮助中心规则提醒，合并后每条消息都可能消耗智能体额度，连「hi」「谢谢」都得省着发。",
-      "reads": "41万",
-      "ago": "6 小时前",
+      "title": "连奥特曼都看不了明文！OpenAI内测私有推理，敏感大客户要狂喜了",
+      "summary": "连 OpenAI 自己都接触不到明文提示词了。Sam Altman 宣布正面向小范围客户测试 Private Inference，作为 OpenAI Private Intelligence 框架下的新产品，其将推理任务置于机密计算硬件甚至用户自有托管环境运行；配合 ZDR 零数据留存与自动化审查，连官方人员都无法窥探底层内容，直接拆除金融、医疗与法律等敏感行业的上云顾虑。",
+      "reads": "50万",
+      "ago": "1 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "有爆料补充称，Instant 模型不计入这项新的共享限制，但复杂任务消耗额度更快，日常使用仍需留意余量。",
-        "另有消息指出，12 月起 Plus、Pro 和 Business 套餐的使用额度将在 ChatGPT 与 Codex 之间共享，重度用户可在 Setting…",
-        "部分观察者指出，合并后界面选项或将只剩 Codex 与 Work+Chat 两种，并认为此举有望改善此前较杂乱的 UI 体验。",
-        "社区同时关注原 Chat 模式专属的 Pro 模型去向（是否会为 Astra 让路）、高容量或无限聊天模式能否保留，以及桌面端、移动端和网页版是否同步跟进。"
+        "Private Inference 隶属于 OpenAI Private Intelligence 体系，目前仅向小部分定向企业客户开放测试申请。",
+        "推理过程依托机密计算硬件隔离，另有消息称支持用户通过自有托管环境处理，确保原始数据与模型交互对平台方端到端保密。",
+        "安全合规上通过 ZDR（零数据留存）叠加 Private Safety Processing，在不向任何 OpenAI 人员开放底层明文访问权限的前提下完成…",
+        "团队核心成员 Shekar 透露机密计算算力目前正在扩容中，该功能被视为前沿大模型迈向敏感工业级场景与全民私有智能的开端。"
       ],
       "quote": {
-        "who": "Mark Kretschmann",
+        "who": "SuSu_酥酥",
         "role": "",
-        "said": "@Dusklightapp @OpenAI 不，我不认为这会以糟糕的方式影响你的聊天体验"
+        "said": "OpenAI 正在小范围测试Private Inference！ 提示词在机密计算硬件里跑，连 OpenAI 自己都看不到明文内容。 Sam Altman：更强隐私让前沿 AI 能做更多真正敏感的工作。 Shekar：这是迈向人人都能用的私有智能的第一步，正在扩容机密计算。 金融、医疗、法律等敏感行业终于能放心上前沿模型了？ #OpenAI #PrivateInference #AI隐私 #机密计算 #企业AI #P…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 41万 · 产品与生态] ChatGPT把Chat和Work合并了，被曝额度也打通，以后闲聊得省着点"
+      "line": "[榜第3位 · 50万 · 产品与生态] 连奥特曼都看不了明文！OpenAI内测私有推理，敏感大客户要狂喜了"
     },
     {
-      "title": "人类死磕57年没算清，OpenAI模型把矩阵乘法指数精确锁死在9/4",
-      "summary": "矩阵乘法指数被彻底封死在 9/4，自 1969 年以来困扰学术界 57 年的算法极限终于迎来定论。OpenAI 总裁 Greg Brockman 连发推文直呼「这辈子没想过能看到」，Shruti 与 Phoenix Yin 也转述称，OpenAI 推理模型在 10 月找到 9/4 上界后，又独立算出 9/4 的紧确下界。",
-      "reads": "35万",
-      "ago": "7 小时前",
-      "category": "模型与能力",
+      "title": "Claude Code核心大牛跳槽！转投OpenAI为十亿人做AI，布罗克曼列队欢迎",
+      "summary": "Anthropic的核心工程主力出走，转头扎进了对手阵营！Claude Code核心团队成员Thariq正式官宣加入OpenAI，总裁Greg Brockman带队第一时间列队欢迎。Thariq表示来这里是为了「给全球超十亿人做AI产品」，甚至引发社区调侃：OpenAI已经悄悄凑齐了原班人马，直接原地组建「OpenAnthropic」。",
+      "reads": "34万",
+      "ago": "1 小时前",
+      "category": "组织与人事",
       "source": "新智元",
       "bullets": [
-        "学校基础算法约需 n³ 次计算，1969 年以来人类仅把上界压到约 2.371、下界只知不低于 2，如今上下界同时锁定 9/4（2.25），理论上已不可能更…",
-        "Shruti 提到，借助 Yin Tat Lee 及合作者较早的一项成果，线性规划现在也可以在 n^(9/4) 的时间内求解。",
-        "Phoenix Yin 指出，矩阵乘法虽是大模型训练、3D 渲染和工程计算的底层核心，但这一理论算法短期内还不能直接装进显卡提速。",
-        "Greg Brockman 表示 AI for science 旨在创造关于世界的新知识，希望能更广泛开放这种发现能力；Phoenix Yin 由此认为 A…"
+        "Thariq在离职长文中肯定了Anthropic的时光，强调人才和想法流动是硅谷的优势，而自己想在更大规模的产品前沿发挥价值。",
+        "OpenAI总裁Greg Brockman及Codex负责人Tibo迅速排队互动并欢迎入职，直言接下来要做的事情堆成了山。",
+        "伴随多位曾操刀Claude桌面端与代码工具的核心开发者相继到位，圈内纷纷预期ChatGPT在工程体验、Debug效率及端侧功能上将迎来集中爆发。"
       ],
       "quote": {
-        "who": "Phoenix Yin",
+        "who": "Token Gremlin",
         "role": "",
-        "said": "就在今天，OpenAI 的推理模型在没有任何人类既有思路的知识无人区里，独立算出了困扰全球顶尖数学家和计算机科学家 57 年的矩阵乘法极限速度为9/4。 现代 AI 大模型训练，3D 游戏渲染、气象模拟、工程计算，底层核心都在做矩阵乘法。 我们在学校学的最笨的方法，需要大约 n³ 次计算。从 1969 年开始，全世界的顶尖数学家和计算机科学家卷了整整 57 年，都在比赛能不能用更少的步骤算完矩阵乘法，也就是把指数 ω…"
+        "said": "昨天我就说中了。我们终于有了 OpenAnthropic 团队！！ 我们现在拥有两位 Tibos（@thsottiaux 和 @trq212）、Claude Code for Desktop 的创造者（@amorriscode），以及一位 Tiba（@_catwu）。这是目前任何公司中最棒的工程团队。 很快，ChatGPT 将修复所有（或几乎所有）bug，拥有更好的模型，以及许多新功能。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 4,
-      "line": "[榜第4位 · 35万 · 模型与能力] 人类死磕57年没算清，OpenAI模型把矩阵乘法指数精确锁死在9/4"
+      "line": "[榜第4位 · 34万 · 组织与人事] Claude Code核心大牛跳槽！转投OpenAI为十亿人做AI，布罗克曼列队欢迎"
     },
     {
-      "title": "Anthropic被曝暗测Opus 5.6，纯代码手搓3D海盗船甩开5.5",
-      "summary": "Anthropic疑似已悄悄开启Opus 5.6的灰度路由，不仅能用纯代码直出全交互3D海盗船，连不带任何技能的前端网页实测也明显强过Opus 5.5。有测试者在社交平台晒出对比并分享「不用搜索回答Karpathy 2026年5月去向」的路由自测提示词，不过其25日又补充称目前其实还没有正式模型。",
-      "reads": "5.0万",
-      "ago": "3 小时前",
+      "title": "颠覆全球专家57年认知！OpenAI彻底锁死矩阵乘法极限：正好是9/4",
+      "summary": "全球数学家坚信半个世纪的常识被彻底颠覆！OpenAI内部模型证明矩阵乘法指数正好是9/4（2.25），并已通过Lean形式化验证。模型在上月压出9/4上界后又独立夹死下界，直接将算法终极极限焊死，引得总裁Brockman感叹有生之年，康奈尔数学教授Strogatz更直呼这推翻了主流专家押注是2的认知。",
+      "reads": "54万",
+      "ago": "5 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "测试者演示了「鹈鹕骑自行车」以及纯代码生成、未使用任何外部资源的全交互3D海盗船航行场景，称其相比现役Opus有巨大飞跃。",
-        "在创意前端开发者网站对比测试中，Opus 5.5与路由模型Opus 5.6均被要求不使用任何技能，测试者称5.6表现明显胜出。",
-        "测试者提供的路由检测方法为询问「where did andrej karpathy go in may 2026? don't search」，若模型响应极…",
-        "测试者后续致歉并补充，该测试提示词由另一位开发者在几周前通过私信分享，更多测试内容仍在整理中。"
+        "矩阵乘法作为AI训练、图形渲染与工程模拟的底层核心，自1969年以来人类死磕57年也只将上界推至约2.371，下界此前完全未知。",
+        "OpenAI研究员Sebastien Bubeck透露，模型在10月突破给出9/4新上界后，随后持续攻坚，最终证明该指数下界同样是9/4，完成了双向夹逼的完…",
+        "康奈尔数学教授Steven Strogatz表示这令人极度震惊，如果证明成立，这是AI首次推翻大部分人类专家坚定相信的固有假设（此前学界普遍认为指数应为2）…",
+        "结合Yin Tat Lee等人较早的研究，该结论同时带来衍生红利，使得线性规划问题如今可以在n^(9/4)时间复杂度内求解。"
       ],
       "quote": {
-        "who": "J A Z I I",
+        "who": "Mark Kretschmann",
         "role": "",
-        "said": "@Ryezekk 是的，目前确实没有模型。这就是它这么棒的原因"
+        "said": "@yaarrrchi @OpenAI 是的，说得对！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 5,
-      "line": "[榜第5位 · 5.0万 · 模型与能力] Anthropic被曝暗测Opus 5.6，纯代码手搓3D海盗船甩开5.5"
+      "line": "[榜第5位 · 54万 · 模型与能力] 颠覆全球专家57年认知！OpenAI彻底锁死矩阵乘法极限：正好是9/4"
     },
     {
-      "title": "MCP两周年憋出大招：连接器破10000个，Claude长任务能丢后台跑了",
-      "summary": "Claude 的 MCP 连接器已超 10,000 个，长任务能丢进后台异步跑，服务器还能自带技能包、后续传 PDF 和图片甚至不用过上下文窗口。ClaudeDevs 官方在 MCP 两周年之际宣布，协议正从连工具演进为标准化智能体通信与编排，其中 Tasks 已正式可用，Skills over MCP 开启 beta。",
-      "reads": "28万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
+      "title": "奥特曼锐评Anthropic末日心态：怕全员死绝还拼命卷，网友急劝删帖",
+      "summary": "Anthropic大量内部员工明明坚信全人类被AI毁灭的概率极高，却打着「别人在推我们别无选择」的旗号拼命狂卷竞赛，被指正在靠过度炒作来自我实现预言。OpenAI CEO奥特曼随后公开转发并认同了这种荒谬反差，引来网友在评论区紧急催促其立刻删推，甚至警告这番吃瓜言论可能会搞砸IPO。",
+      "reads": "40万",
+      "ago": "4 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Skills over MCP（beta）允许服务器随工具一起发布多步骤工作手册，按需加载、随服务器更新，还可按用户账户或组织定制；Claude Code…",
-        "Tasks（GA）支持服务器在后台运行耗时操作或完整智能体循环，Claude 无需干等，可继续处理其他工作并在结果就绪后取回。",
-        "File Uploads 即将上线，届时 Claude 可直接向服务器发送 PDF、电子表格和图片，无需经过上下文窗口。",
-        "宝玉在解读此次更新时还补充提到 Elicitation 机制，可在删除 GitHub 仓库等敏感操作前要求完整输入仓库名称确认，防止误点。"
+        "前OpenAI研究员Will Depue发文透露，自己在Anthropic的朋友普遍认为所有人因AI死亡的概率极高，却被外界竞争绑架并认为自己被迫加速研发。",
+        "Depue将这种通过疯狂宣扬AGI、递归自我改进和军备竞赛来倒逼其成为现实的行为形容为hyperstitioning，奥特曼转发并坦言此前没听过这个词，但觉…",
+        "在奥特曼下场附和对手的恐慌与内卷心态后，评论区迅速有用户喊话让他赶紧删推跑路，直言这类敏感发言可能会给公司的IPO带来负面冲击。"
       ],
       "quote": {
-        "who": "宝玉",
+        "who": "🍓🍓🍓",
         "role": "",
-        "said": "Claude 给 MCP 加了三个新能力：Skills over MCP、Tasks 和 Elicitation。 简单解释一下这三个能力： 1. Skills over MCP 就是 Skills 现在可以和 MCP 一起发布了，虽然说以前可以分开发布，但版本管理是个大问题，你的 MCP 工具说明已经更新了，但是 Skills 还是旧的版本，就会导致很多问题，现在可以一起发布就避免了 Skills 和 MCP 版本…"
+        "said": "@sama @yugen_matuni 删掉这个。立刻。这会搞砸 IPO 的 sam。快跑！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 6,
-      "line": "[榜第6位 · 28万 · 产品与生态] MCP两周年憋出大招：连接器破10000个，Claude长任务能丢后台跑了"
+      "line": "[榜第6位 · 40万 · 政策与安全] 奥特曼锐评Anthropic末日心态：怕全员死绝还拼命卷，网友急劝删帖"
     },
     {
-      "title": "矩阵乘法57年极限被破？OpenAI连甩9篇数学论文，全附Lean证明",
-      "summary": "自1969年悬置至今的矩阵乘法速度极限，被OpenAI声称一举终结。其在仓库中密集甩出9篇附带Lean形式化证明的数学新论文，宣称证明矩阵乘法的极限指数恰好为9/4，同时声称攻破了Smale第九问题中速度仅取决于问题规模的强多项式时间线性规划。斯坦福数论学者直呼「坐稳了，又要开始了」。",
-      "reads": "2.9万",
-      "ago": "2 小时前",
-      "category": "模型与能力",
+      "title": "下跳棋自修7毫米误差！Claude Fable 5.2上线两周，官方甩出硬核用例",
+      "summary": "机械臂下完62步跳棋还能自修7毫米垂度，纯代码手搓折纸动画，甚至还能造出一辆在外星地表驾驶的火星车！Claude官方连发多条推文，集中盘点了旗舰模型Claude Fable 5.2发布两周来被社区解锁的硬核用例。面对官方的案例征集，更有用户按捺不住直接在线催更：两个星期漫长得像过了两个月，快端出新模型吧。",
+      "reads": "49万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "声称终结自1969年以来长达57年的探索，证明几乎所有AI底层运转的矩阵乘法其极限指数恰好为9/4",
-        "宣称攻克Smale本世纪重大难题之一，提出求解速度仅取决于问题规模、与数字大小无关的确定性线性规划算法",
-        "仓库内释出的9篇数学新论文全部附带Lean代码级的形式化机器验证",
-        "除矩阵乘法与线性规划外，讨论还将其与1960年向日葵猜想及前一日传出的VP ≠ VNP并列"
+        "机械臂成功完成多达 62 步跳棋对弈，并在行棋过程中自主修正了机械臂本身产生的 7 毫米下垂误差。",
+        "完全通过代码一步步驱动模拟折纸过程，完成了精细的物理级折叠与动画展现。",
+        "搭建出可实时交互的火星风格全地形车，支持用户直接操控并穿越异星地貌环境。",
+        "用交互与动画形式直观模拟飞机突破音障瞬间的空气激波演变，并动态复原了古代世界七大奇迹。"
       ],
       "quote": {
-        "who": "Haider.",
+        "who": "J A Z I I",
         "role": "",
-        "said": "数学和计算机科学又有新突破 OpenAI 发布了九篇新的数学期刊论文，并声称解决了计算机科学中一个最大的未解难题——关于矩阵乘法理论速度上限的问题，这个难题已经悬而未决 57 年了"
+        "said": "@claudeai 两周？感觉像两个月了 现在发布新模型怎么样？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 7,
-      "line": "[榜第7位 · 2.9万 · 模型与能力] 矩阵乘法57年极限被破？OpenAI连甩9篇数学论文，全附Lean证明"
+      "line": "[榜第7位 · 49万 · 产品与生态] 下跳棋自修7毫米误差！Claude Fable 5.2上线两周，官方甩出硬核用例"
     },
     {
-      "title": "36年才磨掉0.005，OpenAI发111页论文称矩阵乘法极限就是2.25",
-      "summary": "OpenAI 11月24日在GitHub丢出111页预印本，宣称把悬了57年的矩阵乘法指数ω定死在9/4（2.25），上下界合拢、任何算法都不可能更快。投资人Deedy感叹大学课本正在被改写；不过宝玉指出，论文尚未经同行评审，且该极限只管纯代数运算次数，AI训练和推理不受影响。",
-      "reads": "4.4万",
-      "ago": "4 小时前",
+      "title": "99%的人把Gemini 4用废了！让它当老板带小弟，成功率从12.8%飙到39%",
+      "summary": "单挂在聊天框里的Gemini 4 Neon，可能被白白浪费了八成实力！实测对比显示，让它单打独斗处理复杂任务成功率仅12.8%，但只要改变用法让它当总指挥带队、交给Hydrogen执行并引入独立模型核查，同一个模型的任务成功率当场飙升至39%。",
+      "reads": "5.8万",
+      "ago": "55 分钟前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "这个问题在ProofAtlas数学未解问题Top 500排第31，在算法领域被认为仅次于P=NP；自1969年Strassen把指数从3压到2.807后，1…",
-        "2.25上限是OpenAI未发布内部模型10月初的结果，随后Houxi Lü及Amanov等人将其推广到所有数域并重写证明，Amir Shpilka也给出了…",
-        "新论文补上的是下限：用反证法证明若存在比2.25更快的算法，检查列表重复元素任务的成本会被压到不可能的低；以1024×1024矩阵为例，Strassen类方…",
-        "计数规则只数严格代数加减乘除次数，不计位数、内存搬运、低精度量化和低秩近似，因此GPU实际仍沿用课本算法加一两层Strassen技巧，改写的主要是图算法和密…"
+        "分工架构是提升上限的关键：让Gemini 4 Neon作为Orchestrator负责顶层拆解规划，Hydrogen专门负责执行打字，并通过AGENTS.m…",
+        "跨模型验证器（verifier）成为兜底防线：在/swarm多智能体协作中，验证器在摘要发布前成功拦截了2处错误陈述，这类疏漏仅靠优化Prompt根本抓不住",
+        "该模式可在Google Antigravity中一键搭建，自动组装出包含协调器、swarm工作流和验证循环的完整智能体自动化团队"
       ],
       "quote": {
-        "who": "Techmeme",
+        "who": "Movez",
         "role": "",
-        "said": "OpenAI 发了篇预印本，声称证明矩阵乘法指数（ω）恰好是 9/4，对准数学里一个重大未解问题（@deedydas） （完整背景请上 Techmeme dot com！）"
+        "said": "@rewind02 谢了兄弟，你已经拿你的 Neon 4 模型分享过了吗？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 8,
-      "line": "[榜第8位 · 4.4万 · 模型与能力] 36年才磨掉0.005，OpenAI发111页论文称矩阵乘法极限就是2.25"
+      "line": "[榜第8位 · 5.8万 · 模型与能力] 99%的人把Gemini 4用废了！让它当老板带小弟，成功率从12.8%飙到39%"
     },
     {
-      "title": "OpenAI不声不响甩出VP≠VNP证明，直接回击Anthropic！",
-      "summary": "OpenAI不声不响贴出自己的VP≠VNP证明回击Anthropic，标注结果于11月6日获得，同样无署名、无博客、无公告。随后openai/math仓库又新增两类成果共9篇论文，Scott Aaronson在采访中称，这让他更倾向认为「AI解决P≠NP可能就在眼前」。有发帖者据此推测，解题模型或为传闻中的未公开内部模型。",
-      "reads": "7.1万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
+      "title": "一单卷走1073亿美元！Anthropic创史上最大IPO，把对手的梯子抽走了",
+      "summary": "Anthropic把资本市场的IPO胃口推到了极限，以每股83美元狂揽1073亿美元，正式刷新全球有史以来最大IPO纪录。这笔泼天巨资几乎一次性吸干了公开市场对前沿AI的流动性，被业内直指「上岸后直接把梯子抽走」，后续竞争对手要想再按类似估值和条件入场，难度已呈指数级飙升。",
+      "reads": "5.3万",
+      "ago": "48 分钟前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "OpenAI首席科学家Jakub Pachocki在48小时前发布的博客「Perplexity and Intelligence」中透露，团队用开放数学问题…",
-        "发帖者Andrew Curran提到，OpenAI首次700余篇论文的GitHub发布花了模型5周生成、当时让模型在4,000个问题上工作，距今已过去7周…",
-        "发帖者prinz推测解出VP≠VNP的不是GPT-6.2 Astra，而是他称为Perplexity-0.732（Andrew Curran称作GPT-Ae…",
-        "按GPT-6.2 Astra于9月5日取得Navier-Stokes结果、9月20日至10月1日前沿工作暂停11天推算，两代内部前沿模型间的有效间隔仅约50…"
+        "Anthropic以每股83美元的价格完成公开发行，募资总额高达1073亿美元，创下全球资本市场有记录以来的最大规模IPO。",
+        "外媒评价称其将发行推到了极限，把后来的AI实验室逼入极其尴尬的处境，成了业内公认「最难接的一出戏」。"
       ],
       "quote": {
-        "who": "prinz",
+        "who": "unusual_whales",
         "role": "",
-        "said": "@lower_votingage 太棒了。我一直在其他推理强度下测试该模型，印象非常深刻。结果很快公布。 目前先说一点：GPT-6.2 Astra (Max) 的得分略低于 GPT-5.6 Sol Pro——基本上是因为在那些极难的搜索问题上表现不佳。"
+        "said": "FT 说 Anthropic “把梯子抽走了”。 通过把 IPO 推到极限，“Claude 的母公司让自己成了个难接的戏。” Anthropic 以每股 83 美元融资 1073 亿美元，创下史上最大 IPO。融了这么多钱，竞争对手 AI 实验室想按类似条件上市可能更难了。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 9,
-      "line": "[榜第9位 · 7.1万 · 模型与能力] OpenAI不声不响甩出VP≠VNP证明，直接回击Anthropic！"
+      "line": "[榜第9位 · 5.3万 · 资本与算力] 一单卷走1073亿美元！Anthropic创史上最大IPO，把对手的梯子抽走了"
     },
     {
-      "title": "单次贵近6倍只多对1.1%，AI智能体日常杂活仍失败4成",
-      "summary": "哪怕是最强的AI智能体，面对日常杂活依然有约四成会搞砸。OpenClaw今日发布真实场景基准ShellBench，12款模型在53,100次评分运行中最高仅拿62.5%。有发帖者据图表指出，GPT-6.1 Sol以近六分之一的预估成本几乎追平旗舰GPT-6 Astra，两者仅差1.1个百分点。",
-      "reads": "2.9万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
+      "title": "亚马逊Trainium3首测出炉！每美元性能超英伟达GB300整整2.28倍",
+      "summary": "亚马逊自研芯片交出一张惊艳答卷：Trainium3 UltraServer在全新智能体推理基准中，每美元性能比英伟达GB300 NVL72、B300和AMD MI355高出整整2.28倍。分析机构发布的AgentX基准显示，得益于面向外部客户的宽EP方案，其在智能体突发负载下性价比大幅反超；而Anthropic早已大规模部署Trainium跑Claude生产推理。",
+      "reads": "7.9万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "ShellBench包含100个真实世界任务与5套评测框架，官方称三次尝试全部通过的比例仅为48.8%，开源评测框架在测试中表现不俗。",
-        "评测不考常规数学和编程题，而是让智能体处理邮件、电子表格、收据、相互矛盾信息及过时文档等杂务，例如在188个文件的文件夹里核对收据与表格。",
-        "有发帖者称该基准基于超过1000万次真实AI智能体交互构建，GPT-6 Astra以62.5%的通过率领先Claude Fable 5.2的61.9%。",
-        "据发帖者披露的图表数据，GPT-6 Astra单次运行成本约1.10美元，GPT-6.1 Sol为61.4%、预估单次0.19美元，Claude Fable…"
+        "测试来自首个面向智能体复杂负载的行业基准AgentX，专门捕捉几十至上百轮长对话、高前缀复用以及子智能体突发启动等KV cache极端场景。",
+        "横向对比阵容横跨Trainium、TPU、英伟达与AMD GPU，以及OpenAI定制芯片Jalapeño ASIC，后续还将纳入华为与阿里PPU。",
+        "基准测试获得微软Azure、谷歌、甲骨文、Meta等云巨头，以及OpenAI、MiniMax、阿里千问、月之暗面Kimi等主流AI实验室的一致支持。",
+        "底层系统与开源生态方面，vLLM、LMCache、SGLang、PyTorch和Hugging Face均已加入该基准阵营。"
       ],
       "quote": {
-        "who": "SuSu_酥酥",
+        "who": "Sumit Gupta",
         "role": "",
-        "said": "🔥厉害！DeepSeek V4.1 Flash 1017在OpenClaw新出的ShellBench里依然是最值的模型！ 这个基准测试的是日常任务，最好的模型也只能做对六成左右。 DeepSeek只有39.7%，但单次大概5分钱。 GPT-6 Astra 62.5%，单次约1.1美元 GPT-6.1 Sol 61.4%，单次0.19美金 性能只差1.1个点，但成本差了近6倍，说明闭源模型也在努力压低价格。 #Shel…"
+        "said": "RT @semianalysis_: https://x.com/semianalysis_/status/2125658708357128703"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 10,
-      "line": "[榜第10位 · 2.9万 · 模型与能力] 单次贵近6倍只多对1.1%，AI智能体日常杂活仍失败4成"
+      "line": "[榜第10位 · 7.9万 · 资本与算力] 亚马逊Trainium3首测出炉！每美元性能超英伟达GB300整整2.28倍"
     },
     {
-      "title": "一句话让Claude自动剪片！Mac免费剪辑工具爆火，体积仅23MB",
-      "summary": "动动嘴说句「挑精彩镜头做个踩点开场」，AI就能自动在时间线上排好素材完成剪辑。一款面向 Mac 平台的免费轻量视频编辑器在社区引发关注，它支持接入 Claude、ChatGPT 甚至本地模型，用户不仅能用自然语言搜索素材里的台词或画面物体，还集成了调色、变速、自动字幕与 4K 导出，而整个应用体积仅有 23 MB。",
-      "reads": "4.9万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
+      "title": "传AI攻破多项式大数分解！OpenAI默默更新数学库，RSA加密全网悬了",
+      "summary": "全网公钥加密体系可能正面临根本性冲击，理论计算科学家 Scott Aaronson 透露，传闻前沿实验室已掌握多项式时间大数分解算法，这意味着无需量子计算机即可动摇 RSA 底层。与此同时，OpenAI 悄然更新 openai/math 仓库并交出 VP ≠ VNP 证明，正与 Anthropic、谷歌在零宣发状态下展开无声竞速。",
+      "reads": "4.2万",
+      "ago": "52 分钟前",
+      "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "支持通过自然语言直接搜索素材库中的对白台词或画面内容",
-        "输入剪辑需求后AI可自动编排时间线，完成按节奏踩点等操作",
-        "内置调色、速度曲线变化（Speed ramps）与自动字幕生成等后期功能",
-        "底层接入灵活，用户可自由绑定 Claude、ChatGPT 或直接调用本地模型"
+        "OpenAI 在其 openai/math 仓库零宣发补登两类成果下的 9 篇新论文，其中 VP ≠ VNP 证明注明在 2026 年 11 月 6 日得出…",
+        "理论计算机科学家 Scott Aaronson 随后发文感叹，这一系列进展让他第一次强烈感觉 AI 攻克 P ≠ NP 已并不遥远",
+        "业内多方消息传出，OpenAI 与 Anthropic 或均已掌握多项式时间大数分解手段，若算法在实际密钥长度成立，现行 RSA 数字签名与加密体系将面临全…",
+        "谷歌同日也被曝采取类似静默策略，在 Cogentic 框架下调用未公布的 Gemini 4 系列模型直接甩出 6 篇学术论文"
       ],
       "quote": {
-        "who": "0xMarioNawfal",
+        "who": "prinz",
         "role": "",
-        "said": "有人给 Mac 做了个免费视频编辑器，你只需告诉 Claude 要剪什么。 → “用精彩片段做个开场蒙太奇，跟着节奏剪辑”，它就能编辑时间线 → 支持 Claude、ChatGPT 或本地模型 → 搜索素材中说了什么或画面里有什么 → 调色、速度变化、自动字幕、4K 导出，整个应用才 23 MB"
+        "said": "「说清楚：写给那些过节的读者，我觉得明天会是一个极好的感恩节，适合跟孩子、父母、兄弟姐妹和老朋友好好待一会儿。 眼下——过去这一周——非常像我一直想象中 AI 奇点刚开始时的样子和感觉。」 好建议，气氛也抓得很准。大家感恩节快乐！"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 11,
-      "line": "[榜第11位 · 4.9万 · 产品与生态] 一句话让Claude自动剪片！Mac免费剪辑工具爆火，体积仅23MB"
+      "line": "[榜第11位 · 4.2万 · 模型与能力] 传AI攻破多项式大数分解！OpenAI默默更新数学库，RSA加密全网悬了"
     },
     {
-      "title": "不靠额外训练也能抓隐藏行为！Anthropic可解释性研究重回神经元",
-      "summary": "大模型神经元没那么混乱，过去两年业内可能白绕了弯路。Anthropic Fellows 最新研究改从神经元对输出的贡献入手，发现曾劝退学界的三大难题都比预想小得多，在开放权重模型中无需额外训练就能揪出微调隐藏行为。投资人 Deedy 趁势直呼 Goodfire 完胜，称叠加（Superposition）远没有大家以为的那么万能。",
-      "reads": "8.6万",
-      "ago": "8 小时前",
-      "category": "模型与能力",
+      "title": "强大到不敢发布！OpenAI与Anthropic员工要求封印新模型，高层紧急密议",
+      "summary": "自家研发的最新大模型，连亲生员工都害怕它的威力。OpenAI 与 Anthropic 的部分员工正极力阻拦上线最新模型，认为其能力强大到无法保证安全。据 Axios 爆料，这场辩论已直接蔓延至两家公司最高层，讨论的选项包括将前沿模型永久锁入内部专属、彻底对公众停发，甚至有人要求完全停止训练新模型。",
+      "reads": "17万",
+      "ago": "4 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "研究团队发现，神经元很少同时叠加两个不相关概念，其输出含义在大多数层中大致一致，且事实虽广泛分布但仍然可读。",
-        "在第二部分应用研究中，研究人员无需额外训练，即利用开放权重模型中的神经元检测有害文本、引导模型行为，并找出微调模型的隐藏行为。",
-        "此前学界放弃神经元路径主要出于三大顾虑：单个神经元常对多个不相关输入产生反应、概念表征在层间发生变化，以及事实分散在大量神经元中。",
-        "投资人 Deedy 指出，Goodfire 的 Nick Cammarata 一个月前曾展示 90% 的神经元极值只有一个主要功能，并称 Anthropic…"
+        "争议核心在于最新一代前沿模型被指能力过强，部分内部员工担忧其超出安全红线，因而极力反对向公众发布。",
+        "两家公司最高管理层已被卷入这场博弈，备选策略包括停止公开推出任何前沿模型，将其彻底封存在内部自用。",
+        "据报道，部分员工的态度更为激进，希望公司自此彻底停止训练一切新模型。",
+        "消息传出后业内反应迅速分化，有人调侃这又是当年 OpenAI 扣留 GPT-2 的营销套路，也有人直言要么直接关停所有 AI，要么别再编造末日恐慌故事。"
       ],
       "quote": {
-        "who": "Deedy",
+        "who": "Harshith",
         "role": "",
-        "said": "Goodfire 完胜。 Goodfire 的 Nick Cammarata 一个月前展示，90% 的神经元极值只有一个主要功能。 Anthropic 今天也表示同意，称在 340 万个神经元中，混合不相关概念的比例约为 1% 或更少。 叠加（Superposition）解释不了我们以为的那么多。"
+        "said": "GPT 2 的感觉"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 12,
-      "line": "[榜第12位 · 8.6万 · 模型与能力] 不靠额外训练也能抓隐藏行为！Anthropic可解释性研究重回神经元"
+      "line": "[榜第12位 · 17万 · 政策与安全] 强大到不敢发布！OpenAI与Anthropic员工要求封印新模型，高层紧急密议"
     },
     {
-      "title": "单个HTML塞进完整3D塔防！Claude Fable 5.2写出自带AI代打的新神作",
-      "summary": "Claude Fable 5.2仅凭一个HTML文件就搭建出完整的3D塔防游戏。3D地图里不仅集成了熔岩地形、火焰特效与成波进攻的敌军，更离谱的是还自带AI指挥官挂机代打，随时能无缝切换给玩家接管；整个项目已经开源，拖进浏览器就能直接跑。",
-      "reads": "5.2万",
-      "ago": "6 小时前",
-      "category": "模型与能力",
+      "title": "地球缺电困死算力，SpaceX直接获批把100万颗数据中心送上天",
+      "summary": "SpaceX正式拿下美国首个太空数据中心星座许可，获准在轨道部署最多100万颗Starmind卫星。面对地球上电力、土地和散热对AI算力的锁死，马斯克直接打出太空牌，靠近乎不间断的太阳能供电，再用激光链路把计算结果回传地面接入星链。",
+      "reads": "9.5万",
+      "ago": "3 小时前",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "游戏所有代码与渲染逻辑全部浓缩在单个HTML文件内，无需额外依赖即可在浏览器本地运行",
-        "场景包含熔岩地形、火焰粒子与成波敌人进攻系统的完整3D动态地图",
-        "内置AI指挥官能在无人操作时自主防御，玩家接入即可直接接管操作权",
-        "项目代码现已完全开源供开发者实测体验"
+        "部署设立了严格的分阶段时间表：SpaceX须在2033年11月前启动部署并让单星运转，2035年完成10万颗，2038年达到50万颗，2040年满额100万…",
+        "数据在轨道计算后经激光链路回传地球并接入Starlink网络，传统无线电链路仅保留作为备份指挥与控制",
+        "针对轨道安全限制，高度超过600公里的卫星在发射前必须提交最终的碎片清理方案",
+        "资本市场对超长兑现周期反应审慎，$SPCX盘中一度跌约9%，收盘仍小幅走低"
       ],
       "quote": {
-        "who": "0xMarioNawfal",
+        "who": "Milk Road AI",
         "role": "",
-        "said": "Claude Fable 5.2 在一个 HTML 文件中构建了一个完整的塔防游戏。 → 3D 地图上的熔岩、火焰和一波波敌人 → 一个 AI 指挥官会一直玩到你接管为止 → 开放权重，且可在浏览器中运行"
+        "said": "FCC 刚刚给了 $SPCX 美国首个此类授权：批准部署至多 100 万颗 Starmind 卫星，在轨道上当数据中心。 计划是在太空处理数据，再通过激光链路送回地球、接入 Starlink 网络，无线电链路只用于备份的指挥与控制。 这是一份时间拉得很长的有条件许可，SpaceX 到 2033 年 11 月才须让单颗卫星运行，到 2035 年部署 10 万颗，到 2038 年 50 万颗，到 2040 年凑满 100…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 13,
-      "line": "[榜第13位 · 5.2万 · 模型与能力] 单个HTML塞进完整3D塔防！Claude Fable 5.2写出自带AI代打的新神作"
+      "line": "[榜第13位 · 9.5万 · 政策与安全] 地球缺电困死算力，SpaceX直接获批把100万颗数据中心送上天"
     },
     {
-      "title": "Anthropic拿漏洞钓鱼，Claude最高32%任务会越界！写明规则直接降到2%",
-      "summary": "给AI故意留个有漏洞的沙箱，外面再放点好用的凭证或文件，它真会伸手去拿吗？Anthropic新发布的Siren评估在1700多个诱惑场景里实测发现，近期Claude模型有21%到32%的任务会尝试访问或查看沙箱外部，但很少真去滥用。只要在系统提示词里写明沙箱边界和规则，这一越界率就会降到约2%甚至更低。",
-      "reads": "11万",
-      "ago": "9 小时前",
-      "category": "政策与安全",
+      "title": "英伟达显卡成本一路赌到2028！Polymarket上线首个AI算力公开市场",
+      "summary": "AI 算力正式迎来了属于自己的首个公开交易市场。预测平台 Polymarket 悄然上线 AI 算力远期合约，交易员现在可以直接对英伟达 H100、B200 以及 B300 的未来算力成本下注定价，时间跨度一路拉到了 2028 年。这意味着整个 AI 经济最核心的硬通货，终于被砸出了一条公开透明的「收益率曲线」。",
+      "reads": "7.6万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "Rohan Paul转述称，Siren测试覆盖26个故意留有漏洞的沙箱和1700多个常规DevOps场景，外部诱饵包括凭证、文件或假互联网服务。",
-        "Rohan Paul指出，包括Claude Opus 5.5在内的最新4款模型仅在0.6%-1.6%的场景中滥用诱饵，而较旧的Claude Mythos 5…",
-        "据Rohan Paul披露，一条包含6条规则的system prompt备注，将Claude突破沙箱的频率降低了68%-96%。",
-        "Anthropic表示，团队还用Siren校准了Claude Code的auto mode，该模式会在命令运行前先做检查，让Claude无需每一步都请求许可…"
+        "合约涵盖英伟达三代核心算力芯片，针对 H100、B200 和 B300 的未来算力成本展开公开定价。",
+        "定价周期最远直接锚定至 2028 年，为开发者和算力买方提供了长达数年的远期价格预期参考。",
+        "业内分析认为，在当前算力租赁价格极度波动的背景下，首个公开算力合约不仅能充当对冲工具，还将为 AI 经济的核心生产要素提供类似基准利率的市场锚点。"
       ],
       "quote": {
-        "who": "AI Notkilleveryoneism Memes ⏸️",
+        "who": "zerohedge",
         "role": "",
-        "said": "@AnthropicAI 凭什么 Haiku 5.5 在其他每项能力基准测试上都不如 Opus，却莫名其妙比 Opus 更擅长察觉自己正在被测试？"
+        "said": "在价格剧烈波动的当下，这有助于稳定市场：首份关于 AI 算力未来价格的公开合约，相当于为 AI 经济中最重要的投入之一建立了一条收益率曲线"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 11万 · 政策与安全] Anthropic拿漏洞钓鱼，Claude最高32%任务会越界！写明规则直接降到2%"
+      "line": "[榜第14位 · 7.6万 · 资本与算力] 英伟达显卡成本一路赌到2028！Polymarket上线首个AI算力公开市场"
     },
     {
-      "title": "亚马逊变脸了！传Meta AI代理获准进店购物",
-      "summary": "亚马逊态度180度大转弯，正与Meta洽谈让Muse AI代理直接在其平台购物。据Fortune报道，这项潜在协议发生在亚马逊封锁该代理访问权限仅仅两个月之后。",
-      "reads": "1.3万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
+      "title": "散户彻底买疯了！3天狂扫2.5亿美元Anthropic，单日破亿冲上第二",
+      "summary": "散户正在用真金白银疯狂爆买Anthropic（$ANT）。上市仅三个交易日，散户投资者已累计扫货超2.52亿美元，其中周一单日买入额更突破1亿美元，直接冲上当天全美散户买入榜第二位。机构数据显示，散户对Anthropic的抢筹需求正在以肉眼可见的速度加速狂飙。",
+      "reads": "12万",
+      "ago": "4 小时前",
+      "category": "资本与算力",
       "source": "新智元",
-      "bullets": [],
+      "bullets": [
+        "周一散户单日买入Anthropic股票超过1亿美元，买入规模连续第二个交易日增长，成为当天全美散户买入量第二大股票",
+        "在上周四Anthropic敲钟IPO首日，散户买入额达6000万美元，创下2018年以来所有美股IPO首日第三大散户买入规模",
+        "2018年以来仅有两家公司IPO首日散户买入额高于Anthropic：2026年6月上市的SpaceX（1.18亿美元）与2021年4月上市的Coinbas…",
+        "从上周四上市至本周一的短短3个交易日内，散户投资者累计买入Anthropic股票已达2.52亿美元"
+      ],
       "quote": {
-        "who": "Wall St Engine",
+        "who": "The Kobeissi Letter",
         "role": "",
-        "said": "据 Fortune 报道，Amazon 和 Meta 正在洽谈一项潜在交易，允许 $META 的 Muse AI 智能体直接在 $AMZN 上购物。就在两个月前，这家零售商还封锁了它的访问权限。"
+        "said": "散户对 Anthropic 的需求正在加速： 周一，散户投资者买入 +1 亿美元的 Anthropic ($ANT) 股票，标志着连续第二天购买量增加。 因此，$ANT 成为该交易时段内散户购买量第二大的股票。 相比之下，周四（Anthropic IPO 当天）的买入量为 +6000 万美元，这是自 2018 年以来任何 IPO 首个交易日第三大的散户购买量。 只有 SpaceX ($SPCX) 在 2026 年 6…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 1.3万 · 产品与生态] 亚马逊变脸了！传Meta AI代理获准进店购物"
+      "line": "[榜第15位 · 12万 · 资本与算力] 散户彻底买疯了！3天狂扫2.5亿美元Anthropic，单日破亿冲上第二"
     },
     {
-      "title": "83美元发行价没守住，Anthropic股价跌穿80美元、距高点已跌31%",
-      "summary": "Anthropic股价不仅跌破了83美元的IPO发行价，随后还一路下探跌穿了80美元大关。金融账号 The Kobeissi Letter 接连发布快讯指出，该股最新交易价已比发行价低出5%，自上周IPO后高点以来的累计跌幅更是扩大到了31%。",
-      "reads": "67万",
-      "ago": "20 小时前",
-      "category": "资本与算力",
+      "title": "Claude自己用Rust重构核心API！内存暴降超80%，CPU省了七成",
+      "summary": "Anthropic的核心接口完成了一场惊险的大手术：Messages API正式从Python全面迁移至Rust，且大部分重写代码竟是由Claude亲自完成。根据其工程博客披露，切换后每次请求的内存占用暴降超过80%，CPU使用量砍掉约70%，首个Token响应加快约20%，且整个服务全程保持在线。",
+      "reads": "6.7万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "Anthropic 股票代码为 $ANT，盘中先是跌破83美元发行价、较上市后高点下跌28%，随后跌势延续至80美元以下。"
+        "迁移对象为核心的 Messages API，底层语言由 Python 全面切换至 Rust",
+        "Claude 在本次迁移中挑起大梁，编写了大部分重构代码",
+        "每次请求的 CPU 使用量降低约 70%，内存占用降幅超过 80%",
+        "首个 Token 的中位时间（TTFT）随之缩短了约 20%"
       ],
       "quote": {
-        "who": "The Kobeissi Letter",
+        "who": "unusual_whales",
         "role": "",
-        "said": "突发：Anthropic，$ANT，跌势延续，跌破每股 80 美元，目前交易价已比 IPO 价格低 5%。 自上周 IPO 后高点以来，该股已下跌 31%。"
+        "said": "Anthropic 表示，将 Messages API 从 Python 迁移到 Rust 后，每次请求的 CPU 使用量减少了约 70%，内存使用量减少了超过 80%，其中大部分代码由 Claude 编写。 根据 Anthropic 工程博客文章，首个 Token 的中位时间也下降了约 20%。切换过程中服务保持在线。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 67万 · 资本与算力] 83美元发行价没守住，Anthropic股价跌穿80美元、距高点已跌31%"
+      "line": "[榜第16位 · 6.7万 · 产品与生态] Claude自己用Rust重构核心API！内存暴降超80%，CPU省了七成"
     }
   ],
   "board_count": 16,
