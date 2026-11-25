@@ -1,9 +1,31 @@
 {
   "ok": true,
   "source": "新智元 ASI 启示录(深度稿)",
-  "fetched_at": "2026-11-25 10:18:57 +0800",
+  "fetched_at": "2026-11-25 20:40:50 +0800",
   "today": "11/25",
   "articles": [
+    {
+      "id": 125232,
+      "date": "2026/11/25",
+      "time": "18:21",
+      "year": "2026",
+      "title": "豆包工作这波更新，我给满分！一大波实测来了",
+      "summary": "AI圈现在卷得最凶的地方，是你的电脑桌面。 OpenAI不断强化桌面端应用，试图用Codex和ChatGPT for Work接管打工人的工作流。",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=125232&from=yuanyuan",
+      "line": "[2026/11/25 18:21] 豆包工作这波更新，我给满分！一大波实测来了 · https://www.aiera.com.cn/asi-post.html?id=125232&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 125213,
+      "date": "2026/11/25",
+      "time": "14:24",
+      "year": "2026",
+      "title": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
+      "summary": "一份化验单上，乳酸脱氢酶和肌酸激酶排在相邻两行。AI解读时把前者的数值写到了后者名下，指标、数字和单位看起来都完整，错误却可能沿着后续分析传递。医学评分算错、引用不适用于当前患…",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=125213&from=yuanyuan",
+      "line": "[2026/11/25 14:24] 蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集 · https://www.aiera.com.cn/asi-post.html?id=125213&from=yuanyuan",
+      "title_hit": false
+    },
     {
       "id": 125210,
       "date": "2026/11/25",
@@ -90,6 +112,17 @@
       "summary": "11月24日，华为云智能体伙伴开放计划发布会暨智果生态大会在杭州召开。华为云联合中软国际、软通动力、德勤、乐石科技、AtomGit、北明软件、致远互联等首批30多家伙伴正式发布…",
       "url": "https://www.aiera.com.cn/asi-post.html?id=125067&from=yuanyuan",
       "line": "[2026/11/24 17:07] 华为云发布智能体伙伴开放计划 帮助伙伴搭建流量入口 · https://www.aiera.com.cn/asi-post.html?id=125067&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 108762,
+      "date": "2026/11/24",
+      "time": "08:07",
+      "year": "2026",
+      "title": "全网挤爆Seedance 2.5，但2.0 fast降到6毛是真的香！",
+      "summary": "这几天，AI视频赛道又杀疯了！ 先是大洋彼岸，FLUX 3 闪亮登场，20秒带原生音轨，一键直出，堪称震撼。",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=108762&from=yuanyuan",
+      "line": "[2026/11/24 08:07] 全网挤爆Seedance 2.5，但2.0 fast降到6毛是真的香！ · https://www.aiera.com.cn/asi-post.html?id=108762&from=yuanyuan",
       "title_hit": false
     },
     {
@@ -189,39 +222,6 @@
       "summary": "Anthropic IPO次日，悬置167年的数学头号难题，在同一天收到了两份证明。 一份出自人类之手，苦研12年。",
       "url": "https://www.aiera.com.cn/asi-post.html?id=124936&from=yuanyuan",
       "line": "[2026/11/24 08:01] 斯坦福博士零AI苦研黎曼猜想12年，公开8小时反遭AI挑错！ · https://www.aiera.com.cn/asi-post.html?id=124936&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 124924,
-      "date": "2026/11/23",
-      "time": "15:57",
-      "year": "2026",
-      "title": "百灵医疗健康大模型LingSante家族发布，AI望闻问切的“武功秘籍”向行业开源",
-      "summary": "11月23日，百灵医疗健康大模型家族集中发布，覆盖医疗专业推理、多模态理解、疾病风险预测、安全防护和实时智能体等多个方向。这是蚂蚁阿福首次系统展示其在医疗健康AI领域的系列技术…",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=124924&from=yuanyuan",
-      "line": "[2026/11/23 15:57] 百灵医疗健康大模型LingSante家族发布，AI望闻问切的“武功秘籍”向行业开源 · https://www.aiera.com.cn/asi-post.html?id=124924&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 124920,
-      "date": "2026/11/23",
-      "time": "08:03",
-      "year": "2026",
-      "title": "NUS发布System One模型评测基准：能力有多宽，决策有多稳？",
-      "summary": "当模型一次前向就给出决策，我们该如何判断它既做得对、又靠得住？ 分流用户请求、选择下一步工具操作、确认任务是否完成——软件流程中的大量日常决策，并不需要模型先写出一段长推理。",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=124920&from=yuanyuan",
-      "line": "[2026/11/23 08:03] NUS发布System One模型评测基准：能力有多宽，决策有多稳？ · https://www.aiera.com.cn/asi-post.html?id=124920&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 124905,
-      "date": "2026/11/23",
-      "time": "08:03",
-      "year": "2026",
-      "title": "黎曼猜想迎来大结局！Lean官方认证：Claude证明无误",
-      "summary": "困扰数学界167年的黎曼猜想，官方正式确认证明成立了！ 就在刚刚，两大权威机构Lean FRO和Mathlib Initiative发布一份声明，正式盖棺定论——",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=124905&from=yuanyuan",
-      "line": "[2026/11/23 08:03] 黎曼猜想迎来大结局！Lean官方认证：Claude证明无误 · https://www.aiera.com.cn/asi-post.html?id=124905&from=yuanyuan",
       "title_hit": false
     }
   ],
