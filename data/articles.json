@@ -1,9 +1,86 @@
 {
   "ok": true,
   "source": "新智元 ASI 启示录(深度稿)",
-  "fetched_at": "2026-11-25 01:32:13 +0800",
+  "fetched_at": "2026-11-25 10:18:57 +0800",
   "today": "11/25",
   "articles": [
+    {
+      "id": 125210,
+      "date": "2026/11/25",
+      "time": "08:13",
+      "year": "2026",
+      "title": "国产AI黑马迎来大爆发！单季业绩三项破纪录，股价暴涨22%",
+      "summary": "11月19日，Anthropic正式登陆纳斯达克，市值一度突破2万亿美元！ 这场人类史上最大规模的IPO，也改写了全球大模型行业的估值逻辑：",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=125210&from=yuanyuan",
+      "line": "[2026/11/25 08:13] 国产AI黑马迎来大爆发！单季业绩三项破纪录，股价暴涨22% · https://www.aiera.com.cn/asi-post.html?id=125210&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 125192,
+      "date": "2026/11/25",
+      "time": "08:11",
+      "year": "2026",
+      "title": "Claude证出「代数版P≠NP」！73000行Lean代码通过验证",
+      "summary": "「黎曼猜想」被攻克，才刚过去三天！ 刚刚，Anthropic官方GitHub仓库悄无声息地放出了一篇长达70页论文，正式宣布——",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=125192&from=yuanyuan",
+      "line": "[2026/11/25 08:11] Claude证出「代数版P≠NP」！73000行Lean代码通过验证 · https://www.aiera.com.cn/asi-post.html?id=125192&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 125168,
+      "date": "2026/11/25",
+      "time": "08:10",
+      "year": "2026",
+      "title": "答对全靠背，Agent只是假装搜索！仅24%准确率 | EMNLP’26 Oral",
+      "summary": "文档、视频、音频的理解基准一般把源文件直接交给模型，测的是给定媒体上的理解，例如DocVQA、MMLongBench-Doc、Video-MME、MMAU。",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=125168&from=yuanyuan",
+      "line": "[2026/11/25 08:10] 答对全靠背，Agent只是假装搜索！仅24%准确率 | EMNLP’26 Oral · https://www.aiera.com.cn/asi-post.html?id=125168&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 125152,
+      "date": "2026/11/25",
+      "time": "08:09",
+      "year": "2026",
+      "title": "谷歌Gemini 4破解量子计算「天书」！核聚变进度条拉满了",
+      "summary": "太惊人了，就在刚刚，Gemini 4智能体把量子计算的「天书」给破解了！ DeepMind官宣：由多个Gemini 4智能体组成的AI团队，将量子模拟成本最高降低了10倍，部分…",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=125152&from=yuanyuan",
+      "line": "[2026/11/25 08:09] 谷歌Gemini 4破解量子计算「天书」！核聚变进度条拉满了 · https://www.aiera.com.cn/asi-post.html?id=125152&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 125135,
+      "date": "2026/11/25",
+      "time": "08:08",
+      "year": "2026",
+      "title": "美国「创世纪」一周年，「人类拓界计划」全球引燃！",
+      "summary": "去年今日，美国启动Genesis Mission（创世纪任务），将能源部旗下17家国家实验室的超级计算机、科学数据与实验设施，汇聚到AI驱动科学发现的使命之下。",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=125135&from=yuanyuan",
+      "line": "[2026/11/25 08:08] 美国「创世纪」一周年，「人类拓界计划」全球引燃！ · https://www.aiera.com.cn/asi-post.html?id=125135&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 125120,
+      "date": "2026/11/25",
+      "time": "08:06",
+      "year": "2026",
+      "title": "Karpathy预言成真！横扫8项全球最高分，硅谷这个LLM新风口落地中国",
+      "summary": "人类为什么需要睡觉？ 神经科学说：为了深夜「做梦」，把白天的短期经历「编译」成长期记忆。 过去两年，全行业疯狂押注RAG——给大模型外接向量数据库，指望它记住海量文档。但现实很…",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=125120&from=yuanyuan",
+      "line": "[2026/11/25 08:06] Karpathy预言成真！横扫8项全球最高分，硅谷这个LLM新风口落地中国 · https://www.aiera.com.cn/asi-post.html?id=125120&from=yuanyuan",
+      "title_hit": false
+    },
+    {
+      "id": 125085,
+      "date": "2026/11/25",
+      "time": "08:05",
+      "year": "2026",
+      "title": "Gemini 4包揽前三！能打败谷歌的只有谷歌",
+      "summary": "谷歌一家，霸占了Arena文本榜前三！ 就在昨晚，X网友Alex晒出的最新Arena文本榜上，前三名全被Gemini 4（Carbon、Argon、Neon）拿下，Carbon…",
+      "url": "https://www.aiera.com.cn/asi-post.html?id=125085&from=yuanyuan",
+      "line": "[2026/11/25 08:05] Gemini 4包揽前三！能打败谷歌的只有谷歌 · https://www.aiera.com.cn/asi-post.html?id=125085&from=yuanyuan",
+      "title_hit": false
+    },
     {
       "id": 125067,
       "date": "2026/11/24",
@@ -145,83 +222,6 @@
       "summary": "困扰数学界167年的黎曼猜想，官方正式确认证明成立了！ 就在刚刚，两大权威机构Lean FRO和Mathlib Initiative发布一份声明，正式盖棺定论——",
       "url": "https://www.aiera.com.cn/asi-post.html?id=124905&from=yuanyuan",
       "line": "[2026/11/23 08:03] 黎曼猜想迎来大结局！Lean官方认证：Claude证明无误 · https://www.aiera.com.cn/asi-post.html?id=124905&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 124888,
-      "date": "2026/11/23",
-      "time": "08:02",
-      "year": "2026",
-      "title": "OpenAI爆改旗舰GPU，AMD直接送厂流片！",
-      "summary": "AI这把火，彻底烧进芯片圈了。 OpenAI刚刚官宣，自家GPT给AMD旗舰GPU改电路，不到5个月，核心指标PPA最高提升14%。",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=124888&from=yuanyuan",
-      "line": "[2026/11/23 08:02] OpenAI爆改旗舰GPU，AMD直接送厂流片！ · https://www.aiera.com.cn/asi-post.html?id=124888&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 124870,
-      "date": "2026/11/23",
-      "time": "08:02",
-      "year": "2026",
-      "title": "数学界疯狂48小时！有限域黎曼猜想也被GPT-6 Astra攻克了",
-      "summary": "数学界彻底狂欢了！ 就在11月20日，人类见证了载入史册的一天—— Anthropic数学家Levent Alpöge联手Claude，宣布攻克黎曼猜想，甩出了1700万行Le…",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=124870&from=yuanyuan",
-      "line": "[2026/11/23 08:02] 数学界疯狂48小时！有限域黎曼猜想也被GPT-6 Astra攻克了 · https://www.aiera.com.cn/asi-post.html?id=124870&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 124852,
-      "date": "2026/11/23",
-      "time": "08:02",
-      "year": "2026",
-      "title": "Anthropic开出2.7亿天价疯抢CS本科生！OpenAI迎史上最惨一周",
-      "summary": "一个刚走出大学校门的计算机本科生，已经被开出了4年4000万美元的天价股权。 折算下来，一年就是1000万美元，约合人民币6700万元。（四年就是2.7个亿）",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=124852&from=yuanyuan",
-      "line": "[2026/11/23 08:02] Anthropic开出2.7亿天价疯抢CS本科生！OpenAI迎史上最惨一周 · https://www.aiera.com.cn/asi-post.html?id=124852&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 124831,
-      "date": "2026/11/23",
-      "time": "08:01",
-      "year": "2026",
-      "title": "「外星智能」降临，AI联手人类砸碎了百年数学圣杯",
-      "summary": "AI造出近3000亿个变量的怪物方程，8天后，中国数学家把它压到了26个 292,890,231,905。",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=124831&from=yuanyuan",
-      "line": "[2026/11/23 08:01] 「外星智能」降临，AI联手人类砸碎了百年数学圣杯 · https://www.aiera.com.cn/asi-post.html?id=124831&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 124819,
-      "date": "2026/11/23",
-      "time": "08:01",
-      "year": "2026",
-      "title": "黎曼猜想为何偏偏被Levent Alpöge证明了？",
-      "summary": "11 月 21 日，Lean 与 Mathlib 社区宣布，经过多位专家使用不同工具独立检查，他们确信，一份长达 1700 万行代码的数学证明完全正确。它所证明的，正是困扰数学…",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=124819&from=yuanyuan",
-      "line": "[2026/11/23 08:01] 黎曼猜想为何偏偏被Levent Alpöge证明了？ · https://www.aiera.com.cn/asi-post.html?id=124819&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 124806,
-      "date": "2026/11/23",
-      "time": "08:00",
-      "year": "2026",
-      "title": "黎曼200周年大会首日猜想告破！丘成桐：数学进入新纪元",
-      "summary": "困扰数学界167年的「黎曼猜想」被Claude攻克，菲尔兹奖得主丘成桐在深圳公开发声了！ 11月21日晚，正在深圳主持「黎曼诞辰200周年学术研讨会」的丘成桐接受媒体采访，对这…",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=124806&from=yuanyuan",
-      "line": "[2026/11/23 08:00] 黎曼200周年大会首日猜想告破！丘成桐：数学进入新纪元 · https://www.aiera.com.cn/asi-post.html?id=124806&from=yuanyuan",
-      "title_hit": false
-    },
-    {
-      "id": 124791,
-      "date": "2026/11/22",
-      "time": "08:02",
-      "year": "2026",
-      "title": "突发！黎曼猜想或已被Claude 1700万行代码证明",
-      "summary": "悬了167年的纯数学头号难题「黎曼猜想」，迎来了一份震动全球的证明声明！ 就在刚刚，Anthropic数学家Levent Alpöge宣布，他相信自己和Claude已经找到了黎…",
-      "url": "https://www.aiera.com.cn/asi-post.html?id=124791&from=yuanyuan",
-      "line": "[2026/11/22 08:02] 突发！黎曼猜想或已被Claude 1700万行代码证明 · https://www.aiera.com.cn/asi-post.html?id=124791&from=yuanyuan",
       "title_hit": false
     }
   ],
