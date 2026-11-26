@@ -3,8 +3,8 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-26 23:01:42 +0800",
-  "today": "11/26",
+  "fetched_at": "2026-11-27 07:45:58 +0800",
+  "today": "11/27",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "feed": [
     {
@@ -90,6 +90,42 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=tg038228&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/26 08:09] Anthropic CEO长文刷屏！超级智能时代的桌面APP来了 · https://www.aiera.com.cn/asi-item.html?id=tg038228&from=yuanyuan"
+    },
+    {
+      "time": "04:00",
+      "date": "11/27",
+      "title": "谷歌2022年付苹果200亿美元换Safari默认搜索，分析师指谷歌AI搜索广告变现较弱，已反映在苹果服务业务增速放缓上",
+      "summary": "2022年，Google付给Apple 200亿美元，换来Safari默认搜索引擎的位置。据The Information报道，一名分析师认为，如今Google做AI搜索…",
+      "source": "@theinformation",
+      "id": "f4ea9ad7",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=f4ea9ad7&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/27 04:00] 谷歌2022年付苹果200亿美元换Safari默认搜索，分析师指谷歌AI搜索广告变现较弱，已反映在苹果服务业务增速放缓上 · https://www.aiera.com.cn/asi-item.html?id=f4ea9ad7&from=yuanyuan"
+    },
+    {
+      "time": "02:06",
+      "date": "11/27",
+      "title": "找资料或不用切出Claude界面，Anthropic被曝正测试直览Google Drive",
+      "summary": "Anthropic被曝正在测试一项新功能，让用户直接在Claude里浏览Google Drive。找资料时，原本要切出Claude的那一步，有望省下来。…",
+      "source": "@testingcatalog",
+      "id": "5c80b7ec",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=5c80b7ec&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/27 02:06] 找资料或不用切出Claude界面，Anthropic被曝正测试直览Google Drive · https://www.aiera.com.cn/asi-item.html?id=5c80b7ec&from=yuanyuan"
+    },
+    {
+      "time": "01:28",
+      "date": "11/27",
+      "title": "OpenAI算错折扣刚修好，GPT-6.2 Astra触达限额比上周快40%",
+      "summary": "OpenAI 刚修正 GPT-6.2 的计费错误，Astra 用户现在就比上周快 40% 用完额度，Sol 用户则快 25%。 据 The Decoder 报道，OpenAI…",
+      "source": "The Decoder",
+      "id": "37b5dc33",
+      "weight": 0,
+      "url": "https://www.aiera.com.cn/asi-item.html?id=37b5dc33&from=yuanyuan",
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "line": "[11/27 01:28] OpenAI算错折扣刚修好，GPT-6.2 Astra触达限额比上周快40% · https://www.aiera.com.cn/asi-item.html?id=37b5dc33&from=yuanyuan"
     },
     {
       "time": "19:19",
@@ -690,42 +726,6 @@
       "url": "https://www.aiera.com.cn/asi-item.html?id=fd9718f9&from=yuanyuan",
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "line": "[11/25 03:56] 810万参数也能啃PDF，LlamaIndex放出两款解析模型权重 · https://www.aiera.com.cn/asi-item.html?id=fd9718f9&from=yuanyuan"
-    },
-    {
-      "time": "03:23",
-      "date": "11/25",
-      "title": "SDK月下载破7亿，Anthropic让MCP能接后台任务还会停下来反问",
-      "summary": "MCP 上线两年，SDK 月下载量已经超过 7 亿次，面向 Claude 的连接器也破了 1 万个。Anthropic 接着往协议里加能力，想让 AI 智能体之间能互相通信…",
-      "source": "The Decoder",
-      "id": "9380095e",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=9380095e&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/25 03:23] SDK月下载破7亿，Anthropic让MCP能接后台任务还会停下来反问 · https://www.aiera.com.cn/asi-item.html?id=9380095e&from=yuanyuan"
-    },
-    {
-      "time": "02:49",
-      "date": "11/25",
-      "title": "Mira Murati晒新机器，英伟达刚把一台Vera CPU服务器送到办公室",
-      "summary": "英伟达把一台 Vera CPU 服务器送进了 Thinking Machines 的办公室。Mira Murati 在 X 上发帖，只写了一句「新机器日，谢谢英伟达团队！」…",
-      "source": "@miramurati / @thinkymachines",
-      "id": "bb3f059f",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=bb3f059f&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/25 02:49] Mira Murati晒新机器，英伟达刚把一台Vera CPU服务器送到办公室 · https://www.aiera.com.cn/asi-item.html?id=bb3f059f&from=yuanyuan"
-    },
-    {
-      "time": "02:35",
-      "date": "11/25",
-      "title": "联创个人砸1亿美元，xAI三位创始成员新创Epochal，瞄准超人类预测",
-      "summary": "xAI 的三位创始成员出来单干了，新公司叫 Epochal。联合创始人 Guodong Zhang 自己掏了 1 亿美元投进去。 这个数字来自彭博社的报道。按彭博的说法…",
-      "source": "@Polymarket",
-      "id": "224b3a36",
-      "weight": 0,
-      "url": "https://www.aiera.com.cn/asi-item.html?id=224b3a36&from=yuanyuan",
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "line": "[11/25 02:35] 联创个人砸1亿美元，xAI三位创始成员新创Epochal，瞄准超人类预测 · https://www.aiera.com.cn/asi-item.html?id=224b3a36&from=yuanyuan"
     }
   ],
   "feed_count": 60,
