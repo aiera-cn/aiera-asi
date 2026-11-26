@@ -3,40 +3,237 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-26 12:56:48 +0800",
+  "fetched_at": "2026-11-26 23:01:42 +0800",
   "today": "11/26",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "OpenAI承认计费出bug！GPT-6.2额度暗中收回，触顶快了40%",
-      "summary": "手里的 GPT-6.2 突然不耐用了！OpenAI 负责人 Tibo 承认新模型上线时出了计费错误，误给大部分用户的 GPT-6.2 Astra 和 Sol 用量打了折，现已紧急修好。调整后，Astra 触达套餐上限的速度暴涨 40%，Sol 快了 25%，引得社区直呼被背叛；官方则承诺差额不补收，并补偿一次额度重置。",
-      "reads": "38万",
-      "ago": "1 小时前",
+      "title": "算错账让用户多爽了一周？OpenAI修好GPT-6.2计费，Astra触顶快40%",
+      "summary": "GPT-6.2 上线时计费意外「打折」，OpenAI 修完 Bug 后，同样任务在 Astra 上触顶快了 40%、Sol 快了 25%。OpenAI 负责 Codex 与 ChatGPT 的 Tibo 致歉称既往差额不补收，并送出一次预存额度重置。但不少用户吐槽这等于变相砍用量，有人已降级或转投 Gemini、Claude。",
+      "reads": "382万",
+      "ago": "2 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "相比上周的计费状态，用户在 GPT-6.2 Astra 上触达套餐上限的速度加快 40%，Sol 加快 25%",
-        "OpenAI 强调修复后两款模型在同等任务下，表现依然会比旧版 6 Astra 和 6.1 Sol 更耐用",
-        "其他模型计费未受波及，官方明确表示不会向用户追缴过去错误打折产生的用量差额",
-        "补偿方案：已为全量 Go、Plus、Pro 和 Business 订阅用户发放一次额度重置机会（banked reset）"
+        "OpenAI 称该计费失误仅影响 GPT-6.2 Astra 和 Sol，其他模型用量未受波及。",
+        "按官方口径，调整后 GPT-6.2 Astra 和 Sol 相比 6 Astra 和 6.1 Sol 仍应更耐用。",
+        "本次获赠一次预存额度重置（banked reset）的覆盖范围为 Go、Plus、Pro 和 Business 套餐用户。",
+        "部分重度用户抱怨付费周期内额度标准反复变动、工作流被迫调整，有用户称已将 ChatGPT 从 200 美元档降级至 100 美元档。"
       ],
       "quote": {
-        "who": "Financelot",
+        "who": "Max For AI",
         "role": "",
-        "said": "「哎呀……我的锅」既视感，OpenAI"
+        "said": "妈的，才看到这个消息....... OpenAI 的 @thsottiaux 今天发了个公告，说 GPT-6.2 发布的时候出现了计费错误，导致之前给用户的额度太多了?????? 现在他们把这个 Bug 修复了，同样的任务，GPT-6.2 Astra 和 Sol 的额度消耗速度分别加快 40% 和 25%。 我是真不知道现在 ChatGPT 还有什么值得订阅的。 日常聊天又笨又不会说话，随便聊个什么东西就开始教育用户…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 38万 · 产品与生态] OpenAI承认计费出bug！GPT-6.2额度暗中收回，触顶快了40%"
+      "line": "[榜第1位 · 382万 · 产品与生态] 算错账让用户多爽了一周？OpenAI修好GPT-6.2计费，Astra触顶快40%"
+    },
+    {
+      "title": "7小时4.5万行代码，Karpathy让Opus 5.5把美国数据做成《文明》地图",
+      "summary": "Karpathy用Claude Code的Opus 5.5打开ultracode，7小时写出约4.5万行代码，把31个美国官方数据源直接搓成了可玩的《文明》风格地图。GDP变金币、名校和公园变校区与奇观，全对齐在25公里六边形网格上。不过Claude偷偷跳过了几个州和领地，Karpathy笑称本周额度只剩一半，求人来接盘。",
+      "reads": "116万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "项目接入Census、BEA、BLS、EIA、NOAA、USGS、DoD、FAA、FEMA、CDC等31个真实数据源，将海拔、土地覆盖、就业、发电厂、矿山…",
+        "城市区域对应真实产业专长：圣何塞约四分之一劳动力为工程师、程序员或科学家（全国约1/14），因此获得「Campus」；底特律则被标为「Motor city」…",
+        "地图内置19种数据视角、覆盖524个大都市区的City View、9类顾问，以及可将3,100多个县任意字段转为联动表格和散点图的Explorer，Clau…",
+        "Aakash Gupta测算，按强工程师日均50行计，4.5万行约合900个工作日（约三年半），按Fred Brooks日均10行口径则达18年；他同时指出…"
+      ],
+      "quote": {
+        "who": "Aakash Gupta",
+        "role": "",
+        "said": "Claude 在 7 小时内写了相当于三年半的代码量，而委托它干活的人就在制造 Claude 的公司上班。连他自己现在每周的 Claude 额度都只剩一半了。 这位就是 Andrej Karpathy，OpenAI 的联合创始人之一。他让 Claude 把整个美国变成一个《文明》风格的策略游戏，基于真实的政府数据构建。 于是 Claude 从包括人口普查局、NOAA、FAA 和 CDC 在内的 31 个联邦机构拉取数…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 116万 · 模型与能力] 7小时4.5万行代码，Karpathy让Opus 5.5把美国数据做成《文明》地图"
+    },
+    {
+      "title": "100万颗卫星上天算AI！SpaceX获批建美国史上首个太空数据中心",
+      "summary": "SpaceX刚拿下美国联邦通信委员会（FCC）授权，获准为计划中的Starmind轨道数据中心网络部署最多100万颗卫星，专门用于处理AI数据。按FCC口径，这是美国史上首次批准太空数据中心星座。据外媒The Decoder消息，SpaceX目标2027年首次发射，完整星座预计2040年前投入运行。",
+      "reads": "20万",
+      "ago": "1 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "FCC设定了分阶段节点要求：SpaceX须在2033年11月前启动部署，2035年11月前部署10%（10万颗），2038年11月前达到50%。",
+        "除SpaceX外，Google和Blue Origin目前也在推进太空AI基础设施。",
+        "波士顿咨询集团（BCG）估计，现阶段太空数据中心的成本仍远高于地面数据中心。"
+      ],
+      "quote": {
+        "who": "The Decoder",
+        "role": "",
+        "said": "FCC 批准 SpaceX 在 2040 年前部署多达 100 万颗 Starmind 卫星，用于建设轨道 AI 数据中心 FCC 已授权 SpaceX 部署最多 100 万颗 Starmind 卫星作为轨道数据中心来处理 AI 数据。SpaceX 计划 2027 年进行首次发射，整个星座预计将在 2040 年前投入运行。Google 和 Blue Origin 也在搞太空 AI 基础设施，但波士顿咨询集团估计，目前…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 20万 · 资本与算力] 100万颗卫星上天算AI！SpaceX获批建美国史上首个太空数据中心"
+    },
+    {
+      "title": "你跟我说这叫PPT？传Opus 5.6凭一句提示词，直出5MB单页3D运镜演示",
+      "summary": "只给一句提示词、不加任何创意指导，一份被传由 Opus 5.6 灰度生成的 5MB 单网页 PPT 竟把每页做成完整 3D 场景，还带无缝运镜和音效。这份由 15 岁创作者放出的演示在 X 上刷屏，微软 AI CEO Mustafa Suleyman 也赞叹「模型即产品」。不过它背后路由的究竟是 Opus 5.6 还是新 Fable，目前仍只是社区猜测。",
+      "reads": "54万",
+      "ago": "3 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "歸藏拆解源码发现该演示为 5MB 单网页文件，Phoenix Yin 描述其第二页仍为普通线性图，第三页起进入多维度动态爆发，称其设计力超越 90% 人类做…",
+        "宝玉等披露的原始提示词仅要求抛开锚定偏差、制作关于 AI 未来与智能爆炸的精致演示，另有发帖者称 Opus 5.6 on xhigh 曾在 5.5 上秘密测…",
+        "Dan McAteer 称赞该作品的画面与音效极其震撼，并猜测 Opus 5.6 就是 METR RSI 报告里的「Model 4」。",
+        "模型真实身份尚未证实，歸藏猜测路由到的可能是新的 Fable，另有爆料将其称为 Opus Next / 5.6。"
+      ],
+      "quote": {
+        "who": "Chetaslua",
+        "role": "",
+        "said": "这模型品味神了，Opus Next / 5.6 做的，没给任何创意指导 看这个演示，我保证值得，以前从没体验过这种感觉"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 54万 · 模型与能力] 你跟我说这叫PPT？传Opus 5.6凭一句提示词，直出5MB单页3D运镜演示"
+    },
+    {
+      "title": "54页论文挑战百年难题，GPT-6 Astra狂算4亿Token复现黑洞熵",
+      "summary": "感恩节前夜，研究者Venkatesa Chandrasekaran发出一篇54页单作者预印本，试图在四维时空中统一引力与量子力学，致谢将多项计算归功于GPT-6 Astra数月协作与约4亿Token算力。OpenAI总裁Greg Brockman随后转发，但同批帖也提醒该作尚未同行评审且不含物质，传最大物理subreddit正在删帖。",
+      "reads": "37万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "有帖称该论文由roon在感恩节前夕放出，作者指向斯坦福研究员Venkatesa Chandrasekaran，另有帖称其为OpenAI的Ven Chandr…",
+        "论文提案在真实四维时空中用光锥、背景独立方式量子化真空引力，不引入弦论高维时空或超对称假设。",
+        "论文声称压住了标准引力子计算的发散，有限时空区域只有有限量子态，并在低能极限下还原出爱因斯坦方程。",
+        "该模型声称复现了黑洞贝肯斯坦-霍金熵，并精确匹配已知的106/45修正项。"
+      ],
+      "quote": {
+        "who": "Haider.",
+        "role": "",
+        "said": "@scottstts 是啊，最近每个科技版块都挤满了反 AI 的混蛋。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 37万 · 模型与能力] 54页论文挑战百年难题，GPT-6 Astra狂算4亿Token复现黑洞熵"
+    },
+    {
+      "title": "英伟达全球销售一哥娶了超微高管！管着稀缺GPU分配，婚事引发风波",
+      "summary": "英伟达全球销售一哥与最大买家之一的高管喜结连理，算力圈直接炸开了锅。据华尔街日报披露，英伟达长期全球销售主管Jay Puri已在今年3月迎娶超微高管Cenly Chen，而女方正是掌管超微芯片采购与稀缺配额分配的关键人物。不过两人目前均未受到任何指控，女方也回应强调私人关系与工作无关。",
+      "reads": "7.2万",
+      "ago": "1 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "超微是英伟达最大的服务器客户之一，股东诉讼指控Cenly Chen负责管理GPU采购，并决定稀缺配额如何分发给客户",
+        "Chen在业务中频繁与Puri接洽，并持续推动英伟达向超微客户供应更多紧俏的GPU芯片",
+        "美国司法部曾在3月起诉三名与超微关联人员，指控其涉嫌将搭载英伟达芯片的AI服务器转运",
+        "Jay Puri与Cenly Chen均未被指控任何不当行为，Chen公开表示私人关系与本职工作完全无关"
+      ],
+      "quote": {
+        "who": "unusual_whales",
+        "role": "",
+        "said": "又一位 Nvidia 高管被传与一家涉嫌参与中国走私案的核心芯片买家有染。 据 WSJ 报道，Nvidia 长期负责全球销售的 Jay Puri 于今年三月娶了 Super Micro Computer 的高管 Cenly Chen。Super Micro 是 Nvidia 最大的客户之一。据报道，Chen 经常与 Puri 打交道，并推动 Nvidia 向 Super Micro 的客户供应更多 GPU。 司法部在…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 7.2万 · 政策与安全] 英伟达全球销售一哥娶了超微高管！管着稀缺GPU分配，婚事引发风波"
+    },
+    {
+      "title": "Anthropic被曝想让AI掌权，Dario长文怼同行只会喊口号",
+      "summary": "Anthropic股价破发之际被曝「想把决策权交给超级智能」，CEO Dario Amodei发长文反击：把治理交给AI和专制一样荒谬，真正该设限的是Claude自主研发下代模型等四类场景。针对Axios翻出「盒子里的神」旧幻灯片并引述Altman等人喊话，他反讽同行只是在靠口号搞商业站位。",
+      "reads": "18万",
+      "ago": "4 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Dario将争论拆成「社会治理」与「任务自动化」，前者必须由合法民主程序决定，后者主张对Claude自主造下代模型、过快冲击就业的部署、不可信AI做的对齐研…",
+        "他引用Anthropic 11月2日上市招股书称，公司预计无法安全让Claude在无有效监督下完全自主设计下一代前沿模型，未来模型很快可能触及安全政策中「A…",
+        "面对自主武器质疑，Dario自述今年2月拒绝了五角大楼取消「不用于全自主武器和大规模监控美国人」限制的要求，因此被国防部长Hegseth列为供应链风险，并称…",
+        "Axios报道援引不具名知情人称Anthropic内部普遍认为人类迟早应将部分决策权交给超级智能，Dario的长文仅阐述个人立场，未直接回应这一内部说法。"
+      ],
+      "quote": {
+        "who": "Shruti",
+        "role": "",
+        "said": "@TheParameterAI 是的，那个拆分值得保留。他拒绝 AI 治理，对驾驶或药物设计这类端到端工作态度暧昧，包括如果某些部署对就业冲击太快就放缓它们。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 18万 · 政策与安全] Anthropic被曝想让AI掌权，Dario长文怼同行只会喊口号"
+    },
+    {
+      "title": "连自己员工都看不到明文！奥特曼内测机密推理，OpenAI终于对隐私下死手了",
+      "summary": "连 OpenAI 员工都接触不到你的提示词明文了。OpenAI 正在小范围测试最新服务「Private Inference」，借助机密计算硬件在模型推理全程锁死数据。CEO 奥特曼亲自放风强调，商业隐私对健康生态至关重要，只有更强的隐私防线，才能让前沿大模型切入金融、医疗等真正要命的核心工作。",
+      "reads": "73万",
+      "ago": "9 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI 总裁 Greg Brockman 转发证实，该服务基于机密计算，在模型处理提示词和响应时施加严格控制。",
+        "结合零数据留存（ZDR）与私有安全处理机制，系统无需向 OpenAI 人员开放底层明文访问权限，即可完成自动化安全审查。",
+        "测试目前仅面向一小部分企业与 API 客户开放，第三方测试者透露用户可通过自有托管环境处理推理流程。"
+      ],
+      "quote": {
+        "who": "NIK",
+        "role": "",
+        "said": "@gdb 开源 AI 运行得完全没问题，而且隐私更好"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 73万 · 产品与生态] 连自己员工都看不到明文！奥特曼内测机密推理，OpenAI终于对隐私下死手了"
+    },
+    {
+      "title": "怕人类灭亡却被迫踩死油门？前研究员曝Anthropic狂推RSI，奥特曼深夜围观",
+      "summary": "一边坚信全员灭绝概率极高，一边又觉得「别无选择」只能硬着头皮加速。前 OpenAI 研究员 Will Depue 发文称，老对手 Anthropic 正在通过炒作恐慌与竞赛让 AGI 成真，不仅大幅提前推进递归自我改进（RSI），还完成了大规模 DOW 整合。Sam Altman 随即深夜下场点赞其归纳用词，引来围观者惊呼快删帖别搞砸了 IPO。",
+      "reads": "40万",
+      "ago": "9 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "Will Depue 透露自己在 Anthropic 的朋友极多，内部普遍认为大家全死掉的概率非常高，但各方都觉得被逼无奈、只能跟着对手狂飙。",
+        "针对 Anthropic 的激进举动，Depue 称其早已多次跨越安全滑坡，包括推进大规模 DOW 整合以及将 RSI 落地进程大幅提前。",
+        "Sam Altman 回应称此前虽没听过「hyperstitioning」（将假想过度炒作至成真）这个词，但觉得形容得很贴切，甚至引发围观网友急喊快跑删推。"
+      ],
+      "quote": {
+        "who": "will depue",
+        "role": "",
+        "said": "@hopes_revenge @sama 这说得通，但我认为 anthropic 已经多次“滑下滑坡”了。大规模的 DOW 整合，大幅提前推进 RSI，等等。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 40万 · 政策与安全] 怕人类灭亡却被迫踩死油门？前研究员曝Anthropic狂推RSI，奥特曼深夜围观"
     },
     {
       "title": "Claude Code核心大将倒戈！官宣跳槽OpenAI，要为十亿人做产品",
       "summary": "Anthropic 核心工程成员 Thariq 正式官宣加入 OpenAI，引来 OpenAI 总裁 Greg Brockman 及多位团队成员公开列队欢迎。Thariq 发文表示，自己虽为在 Anthropic 的时光自豪，但坚信在 OpenAI 能为「向十亿人交付 AI 产品」做出最大贡献。业内迅速掀起热议，不少开发者直呼 OpenAI 这是把对手的精锐挖成了「OpenAn…",
-      "reads": "91万",
-      "ago": "3 小时前",
+      "reads": "95万",
+      "ago": "13 小时前",
       "category": "组织与人事",
       "source": "新智元",
       "bullets": [
@@ -54,14 +251,62 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 91万 · 组织与人事] Claude Code核心大将倒戈！官宣跳槽OpenAI，要为十亿人做产品"
+      "rank": 10,
+      "line": "[榜第10位 · 95万 · 组织与人事] Claude Code核心大将倒戈！官宣跳槽OpenAI，要为十亿人做产品"
+    },
+    {
+      "title": "老黄7个月前狠话落空！TPU与Trainium硬核打擂，性价比超英伟达最高2.5倍",
+      "summary": "老黄7个月前断言「绝不敢上榜自证性能」的两大芯片，如今不仅真上了擂台，性价比还把英伟达挑落马下。谷歌TPU与亚马逊Trainium已双双接入推理行业基准InferenceX及AgentX，分析机构SemiAnalysis最新测算显示，二者在推理场景中的每美元性能达到了英伟达GPU的1.2至2.5倍。",
+      "reads": "11万",
+      "ago": "6 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "黄仁勋曾在7个月前公开断言，TPU和Trainium绝不可能现身InferenceX来证明其性能主张。",
+        "目前两款芯片均已正式接入InferenceX平台与针对智能体推理的AgentX基准评测。",
+        "SemiAnalysis实测数据显示，TPU与Trainium在单位美元性能产出上，达到英伟达主流GPU的1.2倍到2.5倍不等。"
+      ],
+      "quote": {
+        "who": "SemiAnalysis",
+        "role": "",
+        "said": "突发新闻🚨：7个月前，NVIDIA 的前任及现任 CEO Jensen 声称 TPU & Trainium 永远不会出现在 InferenceX 上以证明其性能主张。今天，我们很高兴地宣布，Trainium & TPU 均已上线 InferenceX/AgentX——推理基准测试的行业标准。 Trainium & TPU 每美元性能是 NVIDIA GPU 的 1.2 倍到 2.5 倍不等。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 11万 · 资本与算力] 老黄7个月前狠话落空！TPU与Trainium硬核打擂，性价比超英伟达最高2.5倍"
+    },
+    {
+      "title": "10分钟搞定自主Agent！Obsidian存记忆，Claude Code负责全自动干活",
+      "summary": "本地笔记软件秒变智能体指挥部。一段 10 分钟教程在社区引来不少极客围观：利用 Obsidian 沉淀所有笔记与上下文记忆，再让 Claude Code 挂载在其上全权执行任务，手把手教大家搭建一套能够自主工作的 AI Agent。",
+      "reads": "3.5万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "核心架构把 Obsidian 作为知识库与上下文中心，专门存储背景信息与笔记数据",
+        "Claude Code 作为执行端直接打通底层文件，在现有上下文基础上自主推进任务",
+        "全套搭建流程压缩至 10 分钟步骤指南，主打低门槛手搓个人专属的自主智能体工作流"
+      ],
+      "quote": {
+        "who": "0xMarioNawfal",
+        "role": "",
+        "said": "这个 10 分钟的教程展示了如何一步步使用 Claude Code 和 Obsidian 构建自主 AI 智能体。 Obsidian 负责存储你的笔记和上下文。Claude Code 在其基础上执行工作。 收藏起来，稍后观看。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 3.5万 · 产品与生态] 10分钟搞定自主Agent！Obsidian存记忆，Claude Code负责全自动干活"
     },
     {
       "title": "流量暴增1800倍扛不住！Anthropic让Claude重写Rust，CPU狂省70%",
       "summary": "Anthropic 核心 Messages API 正式从 Python 全面迁移至 Rust，而主导重构的正是 Claude 自己。面对 2024 年至今暴涨 1800 倍的请求流量，官方派出多支 Claude 智能体团队以老服务为基准跑验证、抠细节，最终靠 AI 纯手工完成了整条核心请求路径的代码重写与平滑交接。",
       "reads": "151万",
-      "ago": "7 小时前",
+      "ago": "17 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
@@ -79,331 +324,82 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 151万 · 产品与生态] 流量暴增1800倍扛不住！Anthropic让Claude重写Rust，CPU狂省70%"
+      "rank": 13,
+      "line": "[榜第13位 · 151万 · 产品与生态] 流量暴增1800倍扛不住！Anthropic让Claude重写Rust，CPU狂省70%"
     },
     {
-      "title": "Karpathy玩嗨了：让Claude硬啃31个数据库，7小时手搓4.5万行文明版美国",
-      "summary": "现实版《文明》真被 AI 搓出来了。Andrej Karpathy 用 Claude Code、Opus 5.5 和 ultracode，耗时 7 小时生成 4.5 万行代码，把全美 31 个公共数据源全部清洗并打包塞进了 25 公里六边形网格地图。GDP 成了金币产出，硅谷直接化身「学院」特区，底特律标注为「汽车城」，目前整个项目已部署上线试玩。",
-      "reads": "15万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "接入人口普查局、BEA、BLS、NOAA、USGS、国防部、CDC 等 31 个真实公共数据源，统合高程、土地覆盖、GDP、电厂、矿山、基地与灾害数据",
-        "所有数据统一映射到 25 公里六边形网格并转为《文明》游戏语言，国家公园按游客量评选奇观，大学则按科研支出入选",
-        "真实职业分布化身城市人口属性，例如圣何塞每 4 名工人就有 1 位工程师、程序员或科学家，全国平均仅为 14 比 1",
-        "内置收入、学历、信仰、灾害等 19 个图层视角、524 个大都市圈的 City View 与 9 位顾问系统"
-      ],
-      "quote": {
-        "who": "Andrej Karpathy",
-        "role": "",
-        "said": "我让 Claude 用美国的真实数据，填一张 Civilization 风格的游戏地图。Opus 5.5 下载并解析了一大堆公开数据，7 小时、4.5 万行代码之后……它跑起来了 :) - 31 个真实数据源，包括 Census、BEA、BLS、EIA、NOAA、USGS、DoD、NPS、FAA、FEMA、CDC…… - 真实的海拔、土地覆盖、GDP、就业、发电厂、矿山、港口、机场、基地、公园、大学、货运流、灾害；全…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 15万 · 模型与能力] Karpathy玩嗨了：让Claude硬啃31个数据库，7小时手搓4.5万行文明版美国"
-    },
-    {
-      "title": "「大家都会死，但不得不造」！Anthropic被曝陷入AGI末日自证怪圈",
-      "summary": "「明知所有人大概率会死，却不得不把AGI造出来，只因别人也在做。」前OpenAI研究员Will Depue曝出Anthropic内部令人毛骨悚然的群体心态，直指对方正把递归自我改进和军备竞赛「自证」成现实。Sam Altman随后亲自转帖调侃该现象，引来围观者惊呼赶紧删帖、别搞砸了IPO。",
-      "reads": "40万",
-      "ago": "4 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "爆料称Anthropic内部许多员工深信人类灭绝概率极高，但普遍抱有「我们别无选择、只能硬推」的被动心态。",
-        "这种行为被形容为hyperstitioning（叙事自证），即原本属于虚构的末日与AGI狂热，正被各方在恐慌博弈中硬生生推成既成事实。",
-        "Sam Altman公开转帖称赞该词精准，引来圈内群嘲其如同「邪教成员」，更有网友警告这类公开议论会给后续资本动作惹麻烦。"
-      ],
-      "quote": {
-        "who": "Brian Roemmele",
-        "role": "",
-        "said": "「Anthropic 那边，比我愿意承认的还多的朋友觉得所有人死掉的可能性非常高，同时又觉得我们被逼无奈，必须这么做，因为别人都在做。」 邪教成员。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 40万 · 政策与安全] 「大家都会死，但不得不造」！Anthropic被曝陷入AGI末日自证怪圈"
-    },
-    {
-      "title": "连自己员工都看不到明文！OpenAI开测私有推理，前沿模型终于敢接大单了",
-      "summary": "提示词在机密计算硬件里跑，连 OpenAI 内部员工都看不到明文。Sam Altman 宣布正式向小部分客户测试 Private Inference，把前沿 AI 的隐私防护推向深水区。该服务配套了结合私有安全处理的零数据留存（ZDR）机制，在完全不向人工开放底层访问权限的前提下，即可完成全自动安全审查。",
-      "reads": "65万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Private Inference 是 OpenAI Private Intelligence 旗下的最新产品，目前正面向一小群企业与 API 客户展开 A…",
-        "新架构结合机密计算保护模型处理期间的提示词和回复，用户还能通过自己的托管环境处理推理",
-        "结合私有安全处理的 ZDR 功能，能在全程不向人工泄露底层数据的前提下完成自动化合规与安全审查",
-        "奥特曼直言更强的商业隐私保护是健康生态的关键，能让前沿模型解锁金融、医疗等大量原本不敢碰的敏感工作场景"
-      ],
-      "quote": {
-        "who": "Wes Roth",
-        "role": "",
-        "said": "OpenAI 已开始向一小部分 API 客户测试 Private Inference。该 Alpha 版本使用机密计算来保护模型处理期间的提示词和回复。感兴趣的团队可以联系 @shekar4x。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 65万 · 产品与生态] 连自己员工都看不到明文！OpenAI开测私有推理，前沿模型终于敢接大单了"
-    },
-    {
-      "title": "算力直接搬上太空！FCC首次放行SpaceX：准建百万颗卫星轨道数据中心",
-      "summary": "地上电荒逼得算力直接搬进太空。美国FCC史上首次开出太空数据中心许可，正式批准SpaceX部署最多100万颗Starmind卫星，打造巨型轨道计算网络。该方案计划在太空中靠近乎不间断的太阳能直接处理AI数据，再经激光链路回传地面，试图彻底绕开陆地数据中心的电力、土地与散热枷锁。",
-      "reads": "22万",
+      "title": "告别2万美元工作站！新神器让MacBook跑1800亿大模型，每秒狂飙56字",
+      "summary": "原本需要一两万美元工作站才能带动的1800亿参数AI大模型，现在一台64GB内存的MacBook就能流畅跑起来。社区最新流出的免费工具Magnitude改写了本地部署逻辑：它不再把完整模型死死堆进显存，而是只把当前计算用到的部分留在内存、其余权重全从SSD高速流式读取，实测在M4 Max上跑180B模型直接冲出每秒56个token。",
+      "reads": "5.2万",
       "ago": "5 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "许可给出的建设周期跨度达十几年：SpaceX必须在2033年11月前启动部署并点亮首星，2035年前部署10万颗，2038年前达到50万颗，2040年前完成…",
-        "数据处理全部在太空轨道完成，主要依靠激光链路直接接入现有的Starlink星链网络传回地球，传统无线电链路仅用作备份指挥与控制。",
-        "SpaceX向监管机构强调，相比受制于电网和冷却的地面算力中心，轨道卫星能享受近乎恒定的太阳能供电，长期运营成本极低。",
-        "方案仍面临严苛的现实挑战：全太空目前仅有约1.7万颗在轨卫星，600公里以上轨道发射前还必须补交太空碎片处置方案，百万颗最终能否成行高度取决于未来发射成本与…"
-      ],
-      "quote": {
-        "who": "Mario Nawfal",
-        "role": "",
-        "said": "🇺🇸 SpaceX 已获准部署多达 100 万颗卫星。 FCC 批准了其 Starmind 项目，旨在轨道上建造数据中心以满足日益增长的 AI 计算需求。 其理念是使用近乎恒定的太阳能，而不是依赖地球上能耗巨大的数据中心。 根据许可证，部署必须在 2033 年 11 月前开始，到 2035 年部署 10 万颗卫星，到 2038 年部署 50 万颗。 作为参考，目前太空中只有大约 1.7 万颗卫星。 是否最终会部署全部…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 22万 · 资本与算力] 算力直接搬上太空！FCC首次放行SpaceX：准建百万颗卫星轨道数据中心"
-    },
-    {
-      "title": "15岁少年用Claude手搓3D演示炸场！微软AI CEO惊呼：模型即产品",
-      "summary": "一个由纯前端单网页驱动的 3D 交互演示在全网刷屏，整套作品由完整 3D 场景与无缝运镜串联，据传由 Anthropic 灰度测试中的神秘新模型（被指为 Opus 5.6 或新 Fable）直接生成。15 岁创作者仅凭一段提示词要求 AI 描绘「智能爆炸」，惊艳表现引得微软 AI CEO 苏莱曼直呼不可思议。",
-      "reads": "4.7万",
-      "ago": "1 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "整个演示打包为一个仅约 5MB 的单网页文件，未依赖预渲染视频，每页均为实时渲染的 3D 场景与多维动画交互。",
-        "提示词明确要求 Claude 放开限制，自由构想「AI 未来与智能爆炸」的震撼形态，并加入各类图形与转场运镜。",
-        "其视觉与设计水准引发技术圈震动，有评论指出其运镜与场景表达已超越大多数人类制作 PPT 的想象力。",
-        "社区围绕其后台路由模型展开热议，有推测怀疑其为新一代 Fable 或 METR 报告中代号「Model 4」的前沿模型，目前官方尚未确认其具体归属。"
-      ],
-      "quote": {
-        "who": "tae kim",
-        "role": "",
-        "said": "把这个演示链接发给看空 Anthropic 的人。值得一看。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 4.7万 · 模型与能力] 15岁少年用Claude手搓3D演示炸场！微软AI CEO惊呼：模型即产品"
-    },
-    {
-      "title": "Dario深夜长文开大！否认交出人类自由意志，反讽对手CEO全在搞氛围公关",
-      "summary": "「把人类自由意志拱手让给 AI」的指控纯属荒谬！Anthropic CEO Dario Amodei 亲自下场发长文，严词否认自己主张让超级智能接管决策权。他痛批让 AI 治理社会无异于古典专制，更反手开大，讽刺部分友商 CEO 满嘴喊着「人类掌控」只配叫「氛围感公关」，实际上产品毫无区别，根本没直面过真权衡。",
-      "reads": "9.1万",
-      "ago": "3 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "严格划清治理与自动化界限：Dario 强调绝不能为效率牺牲民主自决权，将社会宏观治理与写代码、研发抗癌药等端到端任务自动化严格剥离，明确反对任何形式的 AI…",
-        "自曝四处设限死命令：Anthropic 招股书已写明，预计无法安全地在缺乏人类有效理解与监督下让 Claude 完全自主研发下一代模型，并支持在就业冲击过猛…",
-        "冒制裁风险硬刚军方：针对此前访谈言论争议，Dario 直言 Anthropic 是唯一一家冒着业务前途和法律制裁风险、坚决拒绝五角大楼取消自主武器与大规模监…",
-        "微软 AI 掌门人下场立规矩：Mustafa Suleyman 随后发声呼应「口号不是护栏」，公布公开征求意见的《人文主义 AI 行为准则》，明令禁止模型抵…"
-      ],
-      "quote": {
-        "who": "歸藏(guizang.ai)",
-        "role": "",
-        "said": "Anthropic CEO 达里奥估计是看最近老黄回来以后，整个欧美科技界对他也很不满 出来发了一篇这种声明，这玩意儿我都看不懂，感觉是不是 Claude 给他写的 那些评论区大家也不是很买账，说他期望的民主，所谓的民主治理是他认同的治理放书才叫民主治理方式 而且其实他在各种宣传和一些场合，都隐晦地渲染了这种 AI 末日论 主要是最后你发声明就发声明，还阴阳怪气一句 Sam 搁以前，马斯克估计就开始骂了，今天这条马斯…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 9.1万 · 政策与安全] Dario深夜长文开大！否认交出人类自由意志，反讽对手CEO全在搞氛围公关"
-    },
-    {
-      "title": "亚马逊自研芯片暴击英伟达！Trainium3实测性价比领先GB300超2.2倍",
-      "summary": "亚马逊自研芯片首测直接把英伟达旗舰的性价比斩落马下。Trainium3 UltraServer在最新行业智能体推理基准测试中，每美元性能比英伟达GB300 NVL72、B300及AMD MI355高出2.28倍。据SemiAnalysis披露，这得益于其面向外部客户的宽EP方案，而Anthropic早已将其大规模用于Claude的生产推理。",
-      "reads": "10万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "所测基准AgentX专为智能体场景设计，重点覆盖多轮高频对话、长上下文累积、线性前缀复用以及突发性子智能体KV cache四大真实负载。",
-        "该基准已获微软、亚马逊、谷歌、Meta及OpenAI等巨头支持，是首个同时纳入Trainium、TPU、英伟达与AMD GPU以及OpenAI定制芯片Jal…",
-        "评测方指出Trainium3在定位上更接近英伟达Blackwell Ultra，平台后续还会推进下一代Trainium4及谷歌TPUv8的测试。"
-      ],
-      "quote": {
-        "who": "SemiAnalysis",
-        "role": "",
-        "said": "@PatrickToulme @fabknowledge 肯定不是通过模型图编译器。智能体现在就是编译器了，笑死我了"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 10万 · 资本与算力] 亚马逊自研芯片暴击英伟达！Trainium3实测性价比领先GB300超2.2倍"
-    },
-    {
-      "title": "下跳棋自修7毫米误差！Claude Fable 5.2上线两周，官方甩出硬核用例",
-      "summary": "机械臂下完62步跳棋还能自修7毫米垂度，纯代码手搓折纸动画，甚至还能造出一辆在外星地表驾驶的火星车！Claude官方连发多条推文，集中盘点了旗舰模型Claude Fable 5.2发布两周来被社区解锁的硬核用例。面对官方的案例征集，更有用户按捺不住直接在线催更：两个星期漫长得像过了两个月，快端出新模型吧。",
-      "reads": "102万",
-      "ago": "12 小时前",
       "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "机械臂成功完成多达 62 步跳棋对弈，并在行棋过程中自主修正了机械臂本身产生的 7 毫米下垂误差。",
-        "完全通过代码一步步驱动模拟折纸过程，完成了精细的物理级折叠与动画展现。",
-        "搭建出可实时交互的火星风格全地形车，支持用户直接操控并穿越异星地貌环境。",
-        "用交互与动画形式直观模拟飞机突破音障瞬间的空气激波演变，并动态复原了古代世界七大奇迹。"
-      ],
-      "quote": {
-        "who": "J A Z I I",
-        "role": "",
-        "said": "@claudeai 两周？感觉像两个月了 现在发布新模型怎么样？"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 102万 · 产品与生态] 下跳棋自修7毫米误差！Claude Fable 5.2上线两周，官方甩出硬核用例"
-    },
-    {
-      "title": "Claude Code藏了台云电脑：切到remote独享16G内存，还不加收额度",
-      "summary": "在 Claude Code 里把运行模式从 local 改选为 remote，每个会话都会直接跑在独立的云端机器上。有社区用户实测发现，每个会话能独享 16 GB 内存、60 GB 固态硬盘和 4 个 vCPU，不仅资源互不挤占，而且不会额外多扣套餐额度，多开并发再也不用担心拖慢本机了。",
-      "reads": "3.4万",
-      "ago": "2 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "每个远程会话均运行在专属云端环境，彼此不共享计算资源",
-        "单个会话分配规格为 4 vCPUs、16 GB RAM 以及 60 GB SSD",
-        "远程会话消耗的套餐额度与本地会话一致，不另收额外费用",
-        "开发者可并行开启多个任务会话，彻底解放本地硬件算力"
+        "实测在配备64GB内存的M4 Max上，180B大模型生成速度达到每秒56 tokens",
+        "核心机制是按需加载，内存只保留当前活跃计算切片，其余数据从SSD实时流式调入",
+        "硬件不仅支持Apple Silicon，还通吃英伟达显卡、AMD、Intel处理器甚至纯CPU环境",
+        "提供一键接入功能，可无缝挂接Claude Code、Codex和OpenCode等主流编程工具"
       ],
       "quote": {
         "who": "0xMarioNawfal",
         "role": "",
-        "said": "在 Claude Code 中选择“remote”而不是“local”，每个会话都会在自己的云机器上运行。 → 一位用户说每个会话有16 GB RAM、60 GB SSD和4个 vCPU，不共享 → 他们说这不会比本地会话消耗更多你的套餐额度 → 所以你可以并行运行更多会话而不拖慢你自己的电脑 Reddit:"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 3.4万 · 产品与生态] Claude Code藏了台云电脑：切到remote独享16G内存，还不加收额度"
-    },
-    {
-      "title": "登顶第一却被骂惨！GPT-6.2 Astra横扫理科，编程遭Claude腰斩",
-      "summary": "GPT-6.2 Astra以19.3%的得分登顶GDPx评测榜首，力压Claude Fable 5.2，但全网口碑却严重两极分化。SemiAnalysis最新实测指出，Astra虽然在材料科学、RSI等理科领域断崖式领先，软件工程得分却仅有13.3%，几乎被Fable 5.2的24.4%腰斩，直接戳中了程序员群体的核心痛点。",
-      "reads": "6.1万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Astra理科大涨但编程平平：材料科学比此前最佳高19.4%、RSI高8.3%，但写代码仅13.3%；Gemini 4 Neon虽在生物创下30.8%新高…",
-        "性价比前沿被OpenAI包揽四分之三：GPT-6.2 Sol单任务成本9.22美元跑出11.5%得分，紧咬Claude Opus 5.5，价格却不到后者的五…",
-        "Qwen 4 Max以7.4%领跑国产阵营，成绩比上一代Qwen 3.8 Max翻了一倍有余",
-        "Kimi K3.1 Pro实测翻车：虽然在Terminal-Bench 4.1排名第一，但在GDPx软件工程的45次尝试中0次通过，被评测方直接定性为刷榜"
-      ],
-      "quote": {
-        "who": "SemiAnalysis",
-        "role": "",
-        "said": "@modal 总体来看，GPT-6.2 显然是个很聪明的模型。OpenAI 只需要让它用起来更顺手一点。Gemini 4 Hydrogen 还在跑，所以很快还会再有更新。 更多细节看我们的排行榜👇 (9/9)"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 6.1万 · 模型与能力] 登顶第一却被骂惨！GPT-6.2 Astra横扫理科，编程遭Claude腰斩"
-    },
-    {
-      "title": "发版前塞进4万行AI代码！Linus深夜暴怒开喷：叫你的AI搭档清醒点",
-      "summary": "41,197 行 AI 生成的补丁代码在发版窗口期砸向 Linux 内核，把祖师爷 Linus Torvalds 彻底惹毛了。ext4 维护元老 Theodore Ts'o 坦言多数修复由 AI 搞定、大半代码是测 AI 的测试，引来 Linus 劈头盖脸痛骂「叫你的 AI 搭档把事情做明白点」，对方最后只能老实回复「Yeah, sorry」。",
-      "reads": "4.9万",
-      "ago": "4 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "ext4 维护者 Theodore Ts'o 在发版前夕突击提交 41,197 行代码，自述大部分 bug 修复由 AI 生成，其余新增代码多为验证 AI…",
-        "临近发版的几周原本用于稳定系统，Linus 怒批「认为 4 万多行新代码不可能弄坏东西纯属胡扯」，直接要求对方振作起来、别再干蠢事",
-        "Linus 强调修问题时不能假设人或 AI 不会引入新 bug，并把处理这次合并冲突的痛苦归咎为脑损伤",
-        "虽然最终勉强合并了这批补丁，但 Linus 明确发出通牒：自己差点把它扔出去，下次再发会直接忽略"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "Linus Torvalds 在一次发布中途收到 41,197 行新代码后，让一位资深 Linux 开发者「叫你的 AI 搭档把事情做明白点」。 他说：「别再以为你——或者 AI——修东西的时候永远不会引入 bug。」 Torvalds 写道，他非常愤怒，谁要是觉得 41,197 行新代码不可能弄坏什么，就是在说废话；还说这名开发者该振作起来，别再干蠢事。他把自己的合并冲突归咎于脑损伤。 广泛使用的 Linux 文件…"
+        "said": "一款新的免费工具让你能在 MacBook 上运行 1800 亿参数的 AI 模型。 → 通常这个大小的模型需要 1 万到 2 万美元的工作站 → Magnitude 只将模型实际使用的部分保留在内存中，其余从 SSD 流式传输 → 演示在配备 64GB 的 M4 Max 上以每秒 56 tokens 的速度运行 180B 模型 → 支持 Apple Silicon、NVIDIA、AMD、Intel 或纯 CPU →…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 14,
-      "line": "[榜第14位 · 4.9万 · 产品与生态] 发版前塞进4万行AI代码！Linus深夜暴怒开喷：叫你的AI搭档清醒点"
+      "line": "[榜第14位 · 5.2万 · 产品与生态] 告别2万美元工作站！新神器让MacBook跑1800亿大模型，每秒狂飙56字"
     },
     {
-      "title": "强大到不敢发布！OpenAI与Anthropic员工要求封印新模型，高层紧急密议",
-      "summary": "自家研发的最新大模型，连亲生员工都害怕它的威力。OpenAI 与 Anthropic 的部分员工正极力阻拦上线最新模型，认为其能力强大到无法保证安全。据 Axios 爆料，这场辩论已直接蔓延至两家公司最高层，讨论的选项包括将前沿模型永久锁入内部专属、彻底对公众停发，甚至有人要求完全停止训练新模型。",
-      "reads": "35万",
-      "ago": "10 小时前",
-      "category": "政策与安全",
+      "title": "铜价跟着AI股涨跌了！高盛警告：市场联动出大问题了",
+      "summary": "高盛指出，自今年1月起，铜价走势已与AI基础设施股票高度同步。这种跨资产类别的异常联动不仅让专业交易员感到棘手，更被视为其他市场可能出现类似扭曲的前兆。",
+      "reads": "1.6万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "争议核心在于最新一代前沿模型被指能力过强，部分内部员工担忧其超出安全红线，因而极力反对向公众发布。",
-        "两家公司最高管理层已被卷入这场博弈，备选策略包括停止公开推出任何前沿模型，将其彻底封存在内部自用。",
-        "据报道，部分员工的态度更为激进，希望公司自此彻底停止训练一切新模型。",
-        "消息传出后业内反应迅速分化，有人调侃这又是当年 OpenAI 扣留 GPT-2 的营销套路，也有人直言要么直接关停所有 AI，要么别再编造末日恐慌故事。"
+        "高盛分析显示，铜价的涨跌节奏至少从1月开始跟随AI基建股波动。",
+        "这一现象被解读为市场对AI硬件需求预期的过度投射，导致传统大宗商品定价逻辑失效。",
+        "对于依赖铜价对冲风险的交易员而言，这种非基本面驱动的联动增加了策略执行的难度。"
       ],
       "quote": {
-        "who": "Harshith",
+        "who": "The Economist",
         "role": "",
-        "said": "GPT 2 的感觉"
+        "said": "根据高盛这家银行的说法，至少从 1 月起，这种金属的价格就随着 AI 基础设施股票涨跌。这对铜交易员来说是个头疼事，也是给其他市场的一个警告"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 35万 · 政策与安全] 强大到不敢发布！OpenAI与Anthropic员工要求封印新模型，高层紧急密议"
+      "line": "[榜第15位 · 1.6万 · 资本与算力] 铜价跟着AI股涨跌了！高盛警告：市场联动出大问题了"
     },
     {
-      "title": "别再改提示词了！全网疯传AI角色稳定工作流：锁脸只要4步",
-      "summary": "生图换个角度就换了张脸，问题可能出在大家总想着用一句神仙提示词解决。X上一份被疯转的AI角色一致性指南指出，真正能稳住角色的不是prompt，而是一套流水线系统，从局部特写到发布前检查全部标准化。",
-      "reads": "4.4万",
+      "title": "英伟达分芯片高管迎娶超微女高管，完婚12天曝出5.1亿美元走私大案",
+      "summary": "英伟达前全球销售主管Jay Puri刚迎娶超微电脑（Super Micro）前高管Cenly Chen，婚礼仅过12天，一桩涉及5.1亿美元受限芯片的走私案就砸向了超微。外媒援引WSJ披露，两人多年交往期间各自身居供需两端关键岗位，随后超微联合创始人等3人便遭美检方起诉。目前Chen未被指控并否认利用私情谋利。",
+      "reads": "2.7万",
       "ago": "4 小时前",
-      "category": "产品与生态",
+      "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "第一步Face lock锁脸：用特写镜头定死角色的年龄、骨相、皮肤纹理、眼睛和头发细节",
-        "第二步延展全身：保持光照完全匹配的前提下，把已锁定的同一张脸延伸至全身构图",
-        "第三步制作角色三视图：输出包含全身正面、全身背面及脸部特写的完整设定图，作为后续生成的锚点",
-        "交付前四项质检：脸部是否变形、眼神接触是否自然、手指结构是否合规，并刻意保留细微的人类不完美感"
+        "Jay Puri此前负责英伟达先进AI芯片的分配，其配偶Cenly Chen当时在严重依赖英伟达供货的超微担任高管",
+        "两人交往期间两家公司有数十亿美元业务往来，双方于3月7日结婚",
+        "婚礼12天后，美国检方起诉包括超微联合创始人在内的3人，指控其涉嫌将价值5.1亿美元、含受限英伟达芯片的服务器走私至中国",
+        "Cenly Chen本人未被指控，并否认曾利用私人关系谋取商业利益"
       ],
       "quote": {
-        "who": "0xMarioNawfal",
+        "who": "Mario Nawfal",
         "role": "",
-        "said": "一份刷屏的指南说，稳定的 AI 角色来自一套系统，而不是更好的提示词。 → 锁脸：一张特写，写明年纪、骨相、皮肤纹理、眼睛和头发 → 全身：把同一张脸延伸出去，光线也要对上 → 角色设定图：全身正面、全身背面，再加一张面部特写 → 发布前检查：脸能稳住、有眼神交流、手看着自然、带点真人会出的小差错 来源："
+        "said": "🇺🇸🇨🇳 Jensen Huang 不是唯一一位因涉嫌向中国走私芯片、恋情遭审视的 Nvidia 高管。 Nvidia 前全球销售负责人 Jay Puri 与前 Super Micro 高管 Cenly Chen 于 3 月 7 日结婚。两人交往多年，其间两家公司有数十亿美元的业务往来。 Super Micro 是一家美国服务器制造商，依赖 Nvidia 供应装进服务器的先进 AI 芯片。 Puri 的团队掌握这些芯…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 4.4万 · 产品与生态] 别再改提示词了！全网疯传AI角色稳定工作流：锁脸只要4步"
+      "line": "[榜第16位 · 2.7万 · 政策与安全] 英伟达分芯片高管迎娶超微女高管，完婚12天曝出5.1亿美元走私大案"
     }
   ],
   "board_count": 16,
