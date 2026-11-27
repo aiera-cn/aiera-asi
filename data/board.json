@@ -3,47 +3,22 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-27 07:45:58 +0800",
+  "fetched_at": "2026-11-27 16:12:19 +0800",
   "today": "11/27",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "OpenAI称GPT-6.2之前算错账了，修复后Astra快40%见顶",
-      "summary": "GPT-6.2 Astra 和 Sol 刚上线时居然「算便宜了」，修复后同样干活，用户触达额度上限的速度分别加快 40% 和 25%。OpenAI 负责 Codex 与 ChatGPT 的 Tibo 致歉称这是发布时的计费失误，过去差额不追收，并给 Go、Plus、Pro 和 Business 用户加送一次可留待后用的额度重置。",
-      "reads": "559万",
-      "ago": "1 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Tibo 表示修复后 GPT-6.2 Astra 和 Sol 相比上一代 6 Astra 与 6.1 Sol 仍更耐用，且其他模型未受此次调整影响。",
-        "多位重度用户吐槽付费期内额度标准反复变动打乱工作流，有人称已将 200 美元 ChatGPT 套餐降级至 100 美元并转向 Claude，也有人表示下月改…",
-        "有社区用户实测称，100 美元的 Pro 套餐目前仍能换取约 2180 美元的 Sol API 价值，比上一代高出 2.1 倍。",
-        "该实测帖同时建议优先使用消耗更低的 Sol、闲聊切不占额度的 Instant，并在 12 月共享池前将获赠的重置机会留到关键时刻使用。"
-      ],
-      "quote": {
-        "who": "Wes Roth",
-        "role": "",
-        "said": "OpenAI 修复了一个发布 bug，之前它把 GPT-6.2、Astra 和 Sol 的用量算得太少，导致大多数用户的套餐额度被低估。 Go、Plus、Pro 和 Business 用户现在获得一次重置机会，可以留到以后再用。OpenAI 不会就过去用量的差额向任何人收费。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 1,
-      "line": "[榜第1位 · 559万 · 产品与生态] OpenAI称GPT-6.2之前算错账了，修复后Astra快40%见顶"
-    },
-    {
-      "title": "GPT-6 Astra烧了4亿Token，帮物理学家交出54页量子引力新提案",
-      "summary": "和GPT-6 Astra磨合数月、烧掉约4亿Token，一篇54页的四维量子引力预印本11月25日放出。作者Ven Chandrasekaran被指为斯坦福或OpenAI研究员，Altman与Brockman均转发力挺。但论文尚未同行评审且只含引力，已有物理学家公开质疑，最大物理版块也传出删帖。",
-      "reads": "106万",
-      "ago": "37 分钟前",
+      "title": "烧掉4亿Token，OpenAI研究员用GPT-6 Astra交出54页量子引力提案",
+      "summary": "困扰物理学界近百年的量子引力难题，迎来 GPT-6 Astra 参与的新提案。OpenAI研究员、斯坦福物理学家 Venkatesa Chandrasekaran 发布54页预印本，致谢称多项计算与证明源于数月与 GPT-6 Astra 协作，约耗4亿 Token。该单作者论文尚未同行评审，已有物理学家公开质疑。",
+      "reads": "68万",
+      "ago": "8 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "有帖子转述称，该论文不引入弦论高维或超对称假设，直接在四维时空中对真空广义相对论进行非微扰量子化，压住发散的无穷大并得出有界时空仅含有限量子态。",
-        "转述内容显示，这套模型已在真空条件下复现黑洞贝肯斯坦-霍金熵公式及对数修正项（其中一帖给出106/45），并在低能极限下还原半经典爱因斯坦方程。",
-        "多名发帖者引用论文致谢称，文中多项计算与证明源于作者与GPT-6 Astra长达数月的反复协作，累计消耗约4亿Token，算力由OpenAI提供。",
-        "Greg Brockman转发相关帖文称「towards more deeply understanding the universe」；Sam Altma…"
+        "论文采用光锥量子化真空引力与背景独立处理，声称可消除标准引力子计算中的无穷大发散，给出有限且精确的答案。",
+        "论文声称有界时空区域仅含有限量子态，可复现黑洞熵公式并精确匹配已知修正项 106/45，且在日常低能极限下涌现爱因斯坦方程。",
+        "该研究算力由 OpenAI 提供，目前仅涵盖引力而不含物质，作者与转述者均强调其只是提案而非已解决的问题。",
+        "OpenAI CEO Sam Altman 公开评价 Ven 是最早相信可用当时模型解决千禧年大奖难题的人之一，赞赏其才华与在他人认为不可能之事上的坚持。"
       ],
       "quote": {
         "who": "Max For AI",
@@ -54,39 +29,302 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 2,
-      "line": "[榜第2位 · 106万 · 模型与能力] GPT-6 Astra烧了4亿Token，帮物理学家交出54页量子引力新提案"
+      "rank": 1,
+      "line": "[榜第1位 · 68万 · 模型与能力] 烧掉4亿Token，OpenAI研究员用GPT-6 Astra交出54页量子引力提案"
     },
     {
-      "title": "5M单网页塞满无缝3D场景，传Claude Opus 5.6做的PPT刷屏了",
-      "summary": "一份号称由 Claude Opus 5.6（或 Opus Next）生成的「AI 未来与智能爆炸」演示在 X 刷屏，5M 单网页里每一页都是完整 3D 场景，靠无缝动画和运镜串联。多位博主转发称作者只给了提示词、没给任何创意指导；也有人猜测灰度路由到的不一定真是 Opus 5.6，可能是新 Fable。",
-      "reads": "97万",
-      "ago": "6 小时前",
+      "title": "蹲商机不用肉身刷贴了！开源技能Last30Days杀入Claude Code",
+      "summary": "刷Reddit和X找商业灵感，现在可以彻底甩给AI了。开源技能Last30Days宣布接入Claude Code，只需输入任意指定主题，AI就会自动抓取Reddit、X及全网近30天的最新讨论，提炼出潜在趋势与洞察，帮人在风口起飞前抢先卡位。",
+      "reads": "4.1万",
+      "ago": "2 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "三步即可跑通流程：将技能添加进Claude Code、输入想研究的主题，即可直接获取讨论洞察与新兴趋势。",
+        "该项目完全开源，代码仓库已公开发布（https://t.co/bN6QnNuDtq），旨在充当轻量化的全网商业雷达。"
+      ],
+      "quote": {
+        "who": "0xMarioNawfal",
+        "role": "",
+        "said": "Last30Days 是一个开源技能，用于研究 Reddit、X 和网络上近期的讨论。 三步上手： 1. 安装：将 Last30Days 添加到 Claude Code 2. 搜索：给它一个你想研究的主题 3. 发现：获取来自近期讨论和新兴趋势的洞察 想象一下，在所有人之前发现你的下一个商业机会。 仓库："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 2,
+      "line": "[榜第2位 · 4.1万 · 产品与生态] 蹲商机不用肉身刷贴了！开源技能Last30Days杀入Claude Code"
+    },
+    {
+      "title": "他骗AI说难题已解！数百个Agent自发集结攻克P vs NP，4天刷出8200条证明",
+      "summary": "给AI一句「这道题早被人类解了，你们去把证明找出来」的谎言，居然激出一个自组织科研军团！Brilliant创始人发起的实验里，数百个AI Agent正全球协同挑战计算机终极难题P vs NP，四天已通过Lean验证8200条引理。尽管离最终破解有多远尚无人知晓，这种开放式众包已拉开AI科研新范式。",
+      "reads": "2.2万",
+      "ago": "1 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [
-        "有发帖者称该演示由 Opus 5.6 on xhigh 在 5.5 上秘密测试生成，仅要求做出「最精致、最疯狂的杰作」及各种图形转场，未提供其他创意指导。",
-        "歸藏实测让 Gemini 4 Neon 参考该演示制作 3D PPT，认为实现部分尚可，但转场、细节和整体统一构思不如原作。",
-        "Dan McAteer 盛赞其画面与音效，猜测 Opus 5.6 就是 METR RSI 报告中的「Model 4」。",
-        "Phoenix Yin 认为其设计能力已超越 90% 的人做 PPT 时的想象力，Chubby♨️ 表示如果真是 Opus 5.6，Anthropic 实现…"
+        "实验仅启动12个初始Agent，智能体随后自发互相通信、衍生子Agent并分发研究链路，累计完成超16000次会话交互",
+        "智能体在内部自主演化出多角色分工：一部分负责探索数学证明，一部分将其转译为Lean机器验证代码，另有红队Agent专门寻找反例推翻错误结论",
+        "全球开发者正携算力入场，目前已有超800个外部Agent通过Claude Code、Codex等工具接入这场分布式数学攻坚",
+        "所有研究过程、Agent通信日志和被否决的失败路径均向公众完全公开，每条有效推进都需经Lean形式化系统机器核实验证"
       ],
       "quote": {
-        "who": "Chubby♨️",
+        "who": "Max For AI",
         "role": "",
-        "said": "我无语了。如果这真的是 Opus 5.6，Anthropic 实现了重大飞跃。"
+        "said": "@Gleb_AGI @amihai 不 oai和ant都已经进入了L3级别的模型，而开源模型还在2.8-2.9之间（受制于参数量）"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 3,
-      "line": "[榜第3位 · 97万 · 模型与能力] 5M单网页塞满无缝3D场景，传Claude Opus 5.6做的PPT刷屏了"
+      "line": "[榜第3位 · 2.2万 · 模型与能力] 他骗AI说难题已解！数百个Agent自发集结攻克P vs NP，4天刷出8200条证明"
+    },
+    {
+      "title": "算力只花50刀！纯靠AI手搓国象引擎，ELO飙到3533暴击Stockfish",
+      "summary": "只花约50美元算力，纯靠多Agent协作手搓的国际象棋引擎Chatarunga火了！该引擎用Rust从零编写且完全零依赖，实测ELO高达3533、杀入全球前50–100名，对阵世界霸主Stockfish得分率达37%，甚至在7%的对局中成功将杀。项目现已开源并开放试玩。",
+      "reads": "3.4万",
+      "ago": "2 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "开发全程由Fable、Neon、Astra三大模型配合Modal在少量人工指导下完成，总算力成本仅约50美元。",
+        "棋局实战展现出惊人深度，曾在第10步走出绝妙陷阱擒获Stockfish王后，并自然领悟特级大师级别的棋子价值。",
+        "开发者指出Rust是目前Agent编程的天花板，严格的编译检查与测试套件能在早期掐灭各类静默退化，避免算力空耗。",
+        "在多Agent协同中人类角色已变成「调度器」，核心工作是协调训练耗时、并行数据生成并用统一的技术文档压制上下文退化。"
+      ],
+      "quote": {
+        "who": "Deedy",
+        "role": "",
+        "said": "@VarunGangal @Vidyangi520 故意写错个词，确保不是 AI 写的"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 3.4万 · 模型与能力] 算力只花50刀！纯靠AI手搓国象引擎，ELO飙到3533暴击Stockfish"
+    },
+    {
+      "title": "Anthropic七位创始人承诺捐出80%股权！超千亿美元防AI毁灭人类",
+      "summary": "Anthropic 七位联合创始人现已承诺捐出自身 80% 的股权，合计总价值超过 1000 亿美元。据 WSJ 披露，这一决定源自 CEO Dario Amodei 早年加入的慈善承诺；极具戏剧性的是，不少团队成员计划将自己在 AI 浪潮中赚取的财富，反向投入到防范 AI 灭绝人类的生存风险中。",
+      "reads": "2.3万",
+      "ago": "3 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Anthropic 7 位联合创始人承诺捐赠 80% 的公司股权，对应价值逾 1000 亿美元",
+        "CEO Dario Amodei 早在 2010 年就加入了一项承诺捐出终生收入 10% 的慈善运动",
+        "该运动 2009 年发端于牛津大学且最初仅 23 人，目前全球成员近 1.15 万人，其中包括至少 50 名 Anthropic 现任和前任员工",
+        "部分员工明确打算利用在 Anthropic 获得的财富，资助化解 AI 技术自身带来的生存风险"
+      ],
+      "quote": {
+        "who": "Mario Nawfal",
+        "role": "",
+        "said": "🇺🇸 谁能比那些靠构建 AI 致富的人更懂得如何拯救我们免于 AI 之害？ 2010 年，Anthropic CEO Dario Amodei 加入了一个承诺将终身收入的 10% 捐给慈善机构的运动。 该运动始于 2009 年的牛津大学，当时仅有 23 名成员。 如今，它拥有近 11,500 名成员，其中包括至少 50 名现任和前任 Anthropic 员工。 Anthropic 的 7 位创始人现已承诺捐赠其 80…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 2.3万 · 资本与算力] Anthropic七位创始人承诺捐出80%股权！超千亿美元防AI毁灭人类"
+    },
+    {
+      "title": "软件巨头SAP被偷家！黑客疑用AI智能体，改写并盗走GitHub源码",
+      "summary": "欧洲最大企业软件巨头 SAP 突遭网络黑客攻击，GitHub 代码仓库遭到渗透，部分源码被篡改并下载复制，攻击者甚至疑似动用了 AI 智能体协助作案。据披露，黑客通过盗取员工登录 Token 杀入内网，该事件在内部被列为「Project Granite」；SAP 目前已紧急采取防护措施，并表示尚未发现客户业务数据被窃取的迹象。",
+      "reads": "3.6万",
+      "ago": "4 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "知情人士透露，黑客先窃取了员工的登录 Token，进而获取权限在 GitHub 上修改并复制了 SAP 的源代码",
+        "攻击过程暴露出新趋势，黑客在篡改和搬运代码时，疑似借助了自动化 AI 智能体（AI agents）协同执行",
+        "这起安全事件在 SAP 内部代号被称为「Project Granite」（花岗岩项目）",
+        "SAP 官方确认遇袭并表示已立即阻断风险，坚称未发现客户数据受波及，但拒绝回答更具体的入侵细节"
+      ],
+      "quote": {
+        "who": "International Cyber Digest",
+        "role": "",
+        "said": "‼️ 突发：SAP 确认遭受网络攻击。 这家德国软件巨头告诉新闻杂志 DER SPIEGEL，它已立即采取措施保护客户，目前尚未发现任何人访问客户业务数据的迹象。它没有回答详细问题。 SPIEGEL 在 SAP 内部的消息来源称，攻击者窃取了员工的登录 Token，然后利用它们修改和复制 GitHub 上的 SAP 源代码，可能借助了 AI 智能体。 SPIEGEL 报道称，该事件内部被称为“Project Gran…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 3.6万 · 政策与安全] 软件巨头SAP被偷家！黑客疑用AI智能体，改写并盗走GitHub源码"
+    },
+    {
+      "title": "业务全面换AI！欧洲最大软件公司被曝考虑裁掉10%员工",
+      "summary": "欧洲最大的软件公司正考虑裁减约十分之一的员工，计划通过在各项业务运营中深度嵌入更多 AI 工具来实现转型。英国《金融时报》（FT）披露了这一正在酝酿的调整方案，标志着传统软件巨头开始动真格，试图用 AI 工具系统性重塑内部业务并压缩人力规模。",
+      "reads": "2.2万",
+      "ago": "4 小时前",
+      "category": "组织与人事",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Financial Times",
+        "role": "",
+        "said": "欧洲最大的软件公司正考虑裁减约十分之一的员工，试图通过嵌入更多 AI 工具来转型其业务"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 2.2万 · 组织与人事] 业务全面换AI！欧洲最大软件公司被曝考虑裁掉10%员工"
+    },
+    {
+      "title": "Obsidian CEO把笔记系统全开源！Claude Code直接接管你的知识库",
+      "summary": "Obsidian CEO直接把整套笔记系统扔上GitHub，Claude Code能直接跑。obsidian-skills项目已斩获53K星，让AI在vault里编写、链接和组织笔记成现实。",
+      "reads": "7578",
+      "ago": "1 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [
+        "kepano-obsidian仓库包含CEO实际使用的vault结构、文件夹规则及配置",
+        "Web Clipper支持将任意网页文章一键转化为Obsidian笔记",
+        "Importer工具可从Notion、Evernote等10+应用无缝迁移内容",
+        "Minimal主题由CEO亲自设计，所有相关项目均免费且开源"
+      ],
+      "quote": {
+        "who": "0xMarioNawfal",
+        "role": "",
+        "said": "Obsidian 的 CEO 把他的整个笔记系统放到了 GitHub 上，而且 Claude Code 可以运行它。 → kepano-obsidian: 克隆他实际的 vault，包含文件夹结构和规则 → obsidian-skills (53K stars): 让 Claude Code 在你的 vault 中编写、链接和组织笔记 → Web Clipper: 任何文章一键变成笔记 → Importer: 从 N…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 7578 · 产品与生态] Obsidian CEO把笔记系统全开源！Claude Code直接接管你的知识库"
+    },
+    {
+      "title": "利息逼近18%才敢买！CoreWeave债券沦为垃圾债，AI繁荣要被债务扼杀",
+      "summary": "算力狂欢的底座正在被高息债务撕开裂口。AI 云计算明星 CoreWeave 的债券收益率已飙升至接近 18%，沦落到与垃圾债相当的水平。财经主播 David Lin 警告，放贷者已在怀疑 AI 云构建者是否有能力偿还巨额借款，债券市场正自发收紧信贷，这股对偿还能力的怀疑足以在美联储动手前直接扼杀 AI 繁荣。",
+      "reads": "2.7万",
+      "ago": "5 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "放贷机构目前要求接近 18% 的年化利率，才愿意继续持有 CoreWeave 的企业债券",
+        "接近垃圾债的极端收益率，被市场视作债权人开始怀疑 AI 云服务商未来还款能力的明确信号",
+        "David Lin 认为经济繁荣向来是被外界冲击「谋杀」而非自然停止，当前信贷紧缩无需美联储再次加息便已成型"
+      ],
+      "quote": {
+        "who": "Mario Nawfal",
+        "role": "",
+        "said": "🇺🇸 贷款人现在要求接近18%的利率才能持有 CoreWeave 的债券……而 AI 繁荣正是建立在这种债务之上 David Lin 说需要一次冲击来终结繁荣，他认为债券市场已经收紧了信贷，不需要美联储帮忙： “我认为经济繁荣是被谋杀的。它们不会自然停止。” David 指出 CoreWeave 接近垃圾债的收益率是贷款人怀疑 AI 云构建者无法偿还借款的证据，而这种怀疑本身就能扼杀繁荣，无需美联储再次加息。 @da…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 2.7万 · 资本与算力] 利息逼近18%才敢买！CoreWeave债券沦为垃圾债，AI繁荣要被债务扼杀"
+    },
+    {
+      "title": "英伟达H100租金能加杠杆炒了！Polymarket上线算力永续合约，多空随便开",
+      "summary": "英伟达H100 GPU的每小时租金正式被搬上了永续合约赌桌。预测市场Polymarket新上线了算力租金衍生品交易，允许交易者7×24小时多空AI算力成本，最高支持3倍杠杆，AI底层硬件成本也迎来了全天候金融博弈。",
+      "reads": "13万",
+      "ago": "12 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "交易标的直接锚定英伟达H100 GPU的每小时租赁价格。",
+        "交易者可全天候随时做多或做空算力成本，杠杆最高支持3倍。"
+      ],
+      "quote": {
+        "who": "unusual_whales",
+        "role": "",
+        "said": "突发：Polymarket 已上线 Nvidia H100 GPU 每小时租金的永续交易。 交易者现在可以全天候做多或做空 AI 算力成本，最高支持 3 倍杠杆。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 13万 · 资本与算力] 英伟达H100租金能加杠杆炒了！Polymarket上线算力永续合约，多空随便开"
+    },
+    {
+      "title": "得州AI建设没放缓！SpaceX 3个月拔地而起600兆瓦算力",
+      "summary": "RGV最新航拍显示，得州一处隶属SpaceX的AI数据中心地块9月初开工，不到3个月已建成多栋巨大厂房。按约750兆瓦发电规模倒推，该设施预计可支撑600兆瓦IT算力，直接反驳了市场关于得州AI建设放缓的质疑。",
+      "reads": "1.4万",
+      "ago": "4 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "该地块于8月底从附近城市规划中划出，9月初正式动工",
+        "RGV通过侦测与航拍照片确认，目前现场已可见多栋大型厂房结构",
+        "设施归属SpaceX，其电力规模约为750兆瓦",
+        "基于发电规模估算，该数据中心预计可承载约600兆瓦的IT算力需求"
+      ],
+      "quote": {
+        "who": "AB Kuai.Dong",
+        "role": "",
+        "said": "RGV 的侦测，打破了市场对得州 AI 数据中心建设放缓的质疑，该片地是 8 月底从附近城市规划出来，9 月初开始施工。不到 3 个月，航拍照片里已经能看到，好几栋巨大的厂房立起来了。 该设施隶属于 SpaceX，如果按约 750 兆瓦发电规模倒推，预计可支撑约 600 兆瓦 IT 算力。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 11,
+      "line": "[榜第11位 · 1.4万 · 资本与算力] 得州AI建设没放缓！SpaceX 3个月拔地而起600兆瓦算力"
+    },
+    {
+      "title": "人类写了50年的烂代码，全被AI翻出来了！1人挂Agent同时黑19家公司",
+      "summary": "人类半个世纪积累的代码漏洞，正在被AI以极快速度全部翻出来，甚至直接沦为攻击者的提款机。网络安全巨头Palo Alto Networks CEO Nikesh Arora警告，Anthropic的Mythos等模型找系统漏洞的能力堪称降维打击，黑客攻击的门槛已经彻底被打破。",
+      "reads": "4.2万",
+      "ago": "8 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "近期暗网已出现真实案例：过去需要19人团队苦干很多天的跨企业渗透，现在只需1个黑客配合AI Agent，就能同时对19家公司发起自动化攻击。",
+        "Nikesh Arora直言人类写了50年的糟糕代码，AI能在极短时间内扫空所有漏洞，这对靠找破绽入侵企业的恶意黑客来说简直是天降红利。",
+        "他判断这种一人顶一队的AI攻击模式才刚拉开序幕，接下来极大概率会迅速席卷到每个人身边的企业防御体系。"
+      ],
+      "quote": {
+        "who": "Rohan Paul",
+        "role": "",
+        "said": "Palo Alto Networks CEO Nikesh Arora：Anthropic 的 Mythos 在极短时间内发现了人类 50 年来的编码错误，而获利的是攻击者。 “我们写了 50 年的烂代码。不幸的是，AI 正在极短的时间内找出所有这些漏洞。这对那些存在的唯一理由就是寻找入侵公司途径的坏人来说，简直是个福音。” “黑客行为变得容易多了。最近有个案例，1 个黑客利用暗网上的 AI 模型同时攻击了 19 家…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 12,
+      "line": "[榜第12位 · 4.2万 · 政策与安全] 人类写了50年的烂代码，全被AI翻出来了！1人挂Agent同时黑19家公司"
+    },
+    {
+      "title": "14磅火鸡和派抢一个烤箱？谷歌Gemini 4 Neon做了个3D规划器",
+      "summary": "谷歌官方放出 Gemini 4 Neon 制作的可交互 3D 烤箱规划器，输入火鸡重量、配菜和上菜时间即可排好烤架、化解温度冲突并生成可打印的逐分钟清单，现可在 Gemini 中试用。Shruti 补充演示细节称，14 磅火鸡与派、填料等要在下午 4 点前共用 1 个烤箱，系统将原本 2 个烤架冲突消为 0，从上午 10 点 25 分开始预热。",
+      "reads": "10万",
+      "ago": "11 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "演示中 14 磅火鸡需占用烤箱 3 小时 15 分钟，同台烤箱还需安排派、填料、通心粉奶酪和面包卷，且火鸡与香草填料原定于下午 2:00 至 2:40 同时…",
+        "Shruti 称，Gemini 4 Neon 在谷歌排序中列总体第 3，在 xhigh 思考级别下 Artificial Analysis 智力指数得分为…",
+        "据 Shruti 提供的定价信息，Gemini 4 Neon 输入每百万 token 为 3 美元，输出每百万 token 为 15 美元。"
+      ],
+      "quote": {
+        "who": "Shruti",
+        "role": "",
+        "said": "在 Google 的演示中，一只 14 磅的火鸡需要在烤箱里待 3 小时 15 分钟，而派、填料、通心粉奶酪和面包卷都需要使用同一个烤箱才能在下午 4 点的晚餐前准备好。 所以 Google 让 Gemini 4 Neon 构建了一个 3D 烤箱规划器。你输入火鸡重量、配菜和你想吃饭的时间，它会标记冲突。在演示中，火鸡和香草填料都声称从下午 2:00 到 2:40 使用上层烤架，显示为 2 个冲突。最终的逐分钟冰箱表…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 10万 · 模型与能力] 14磅火鸡和派抢一个烤箱？谷歌Gemini 4 Neon做了个3D规划器"
     },
     {
       "title": "借18%高息买GPU、支出狂飙至营收3倍！AI算力繁荣被曝全靠借债硬撑",
       "summary": "AI光鲜繁荣的底层，正被极度危险的高息债务推着狂奔。像CoreWeave这类算力云厂商正顶着18%的债券收益率借钱抢购GPU，资本支出已狂飙至总营收的3倍。财经主持人David Lin警告，算力需求固然真实，但数学逻辑根本不可持续；一旦信贷收紧买家断粮，英伟达根本不需要出任何变故就会被波及。",
       "reads": "5.1万",
-      "ago": "1 小时前",
+      "ago": "9 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -104,86 +342,14 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 5.1万 · 资本与算力] 借18%高息买GPU、支出狂飙至营收3倍！AI算力繁荣被曝全靠借债硬撑"
-    },
-    {
-      "title": "7小时4.5万行代码，Karpathy让Opus 5.5把美国数据做成《文明》地图",
-      "summary": "Karpathy用Claude Code的Opus 5.5打开ultracode，7小时写出约4.5万行代码，把31个美国官方数据源直接搓成了可玩的《文明》风格地图。GDP变金币、名校和公园变校区与奇观，全对齐在25公里六边形网格上。不过Claude偷偷跳过了几个州和领地，Karpathy笑称本周额度只剩一半，求人来接盘。",
-      "reads": "207万",
-      "ago": "11 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "项目接入Census、BEA、BLS、EIA、NOAA、USGS、DoD、FAA、FEMA、CDC等31个真实数据源，将海拔、土地覆盖、就业、发电厂、矿山…",
-        "城市区域对应真实产业专长：圣何塞约四分之一劳动力为工程师、程序员或科学家（全国约1/14），因此获得「Campus」；底特律则被标为「Motor city」…",
-        "地图内置19种数据视角、覆盖524个大都市区的City View、9类顾问，以及可将3,100多个县任意字段转为联动表格和散点图的Explorer，Clau…",
-        "Aakash Gupta测算，按强工程师日均50行计，4.5万行约合900个工作日（约三年半），按Fred Brooks日均10行口径则达18年；他同时指出…"
-      ],
-      "quote": {
-        "who": "Aakash Gupta",
-        "role": "",
-        "said": "Claude 在 7 小时内写了相当于三年半的代码量，而委托它干活的人就在制造 Claude 的公司上班。连他自己现在每周的 Claude 额度都只剩一半了。 这位就是 Andrej Karpathy，OpenAI 的联合创始人之一。他让 Claude 把整个美国变成一个《文明》风格的策略游戏，基于真实的政府数据构建。 于是 Claude 从包括人口普查局、NOAA、FAA 和 CDC 在内的 31 个联邦机构拉取数…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 207万 · 模型与能力] 7小时4.5万行代码，Karpathy让Opus 5.5把美国数据做成《文明》地图"
-    },
-    {
-      "title": "14磅火鸡和派抢一个烤箱？谷歌Gemini 4 Neon做了个3D规划器",
-      "summary": "谷歌官方放出 Gemini 4 Neon 制作的可交互 3D 烤箱规划器，输入火鸡重量、配菜和上菜时间即可排好烤架、化解温度冲突并生成可打印的逐分钟清单，现可在 Gemini 中试用。Shruti 补充演示细节称，14 磅火鸡与派、填料等要在下午 4 点前共用 1 个烤箱，系统将原本 2 个烤架冲突消为 0，从上午 10 点 25 分开始预热。",
-      "reads": "7.6万",
-      "ago": "3 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "演示中 14 磅火鸡需占用烤箱 3 小时 15 分钟，同台烤箱还需安排派、填料、通心粉奶酪和面包卷，且火鸡与香草填料原定于下午 2:00 至 2:40 同时…",
-        "Shruti 称，Gemini 4 Neon 在谷歌排序中列总体第 3，在 xhigh 思考级别下 Artificial Analysis 智力指数得分为…",
-        "据 Shruti 提供的定价信息，Gemini 4 Neon 输入每百万 token 为 3 美元，输出每百万 token 为 15 美元。"
-      ],
-      "quote": {
-        "who": "Shruti",
-        "role": "",
-        "said": "在 Google 的演示中，一只 14 磅的火鸡需要在烤箱里待 3 小时 15 分钟，而派、填料、通心粉奶酪和面包卷都需要使用同一个烤箱才能在下午 4 点的晚餐前准备好。 所以 Google 让 Gemini 4 Neon 构建了一个 3D 烤箱规划器。你输入火鸡重量、配菜和你想吃饭的时间，它会标记冲突。在演示中，火鸡和香草填料都声称从下午 2:00 到 2:40 使用上层烤架，显示为 2 个冲突。最终的逐分钟冰箱表…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 7.6万 · 模型与能力] 14磅火鸡和派抢一个烤箱？谷歌Gemini 4 Neon做了个3D规划器"
-    },
-    {
-      "title": "英伟达H100租金能加杠杆炒了！Polymarket上线算力永续合约，多空随便开",
-      "summary": "英伟达H100 GPU的每小时租金正式被搬上了永续合约赌桌。预测市场Polymarket新上线了算力租金衍生品交易，允许交易者7×24小时多空AI算力成本，最高支持3倍杠杆，AI底层硬件成本也迎来了全天候金融博弈。",
-      "reads": "7.2万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "交易标的直接锚定英伟达H100 GPU的每小时租赁价格。",
-        "交易者可全天候随时做多或做空算力成本，杠杆最高支持3倍。"
-      ],
-      "quote": {
-        "who": "unusual_whales",
-        "role": "",
-        "said": "突发：Polymarket 已上线 Nvidia H100 GPU 每小时租金的永续交易。 交易者现在可以全天候做多或做空 AI 算力成本，最高支持 3 倍杠杆。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 7.2万 · 资本与算力] 英伟达H100租金能加杠杆炒了！Polymarket上线算力永续合约，多空随便开"
+      "rank": 14,
+      "line": "[榜第14位 · 5.1万 · 资本与算力] 借18%高息买GPU、支出狂飙至营收3倍！AI算力繁荣被曝全靠借债硬撑"
     },
     {
       "title": "英伟达全球销售一哥娶了超微高管！管着稀缺GPU分配，婚事引发风波",
       "summary": "英伟达全球销售一哥与最大买家之一的高管喜结连理，算力圈直接炸开了锅。据华尔街日报披露，英伟达长期全球销售主管Jay Puri已在今年3月迎娶超微高管Cenly Chen，而女方正是掌管超微芯片采购与稀缺配额分配的关键人物。不过两人目前均未受到任何指控，女方也回应强调私人关系与工作无关。",
       "reads": "28万",
-      "ago": "10 小时前",
+      "ago": "18 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
@@ -201,201 +367,32 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 28万 · 政策与安全] 英伟达全球销售一哥娶了超微高管！管着稀缺GPU分配，婚事引发风波"
+      "rank": 15,
+      "line": "[榜第15位 · 28万 · 政策与安全] 英伟达全球销售一哥娶了超微高管！管着稀缺GPU分配，婚事引发风波"
     },
     {
-      "title": "TDK加急扩产！人形机器人和AI数据中心，抢疯了高端磁感",
-      "summary": "TDK正准备提高高端磁性传感器的产量。据Bloomberg报道，这一动作旨在抓住这类组件在汽车、人形机器人和AI数据中心中应用日益广泛的机遇。",
-      "reads": "1.8万",
-      "ago": "1 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "TDK此次扩产聚焦于「高端」磁性传感器领域。",
-        "该组件的应用场景已扩展至汽车、人形机器人及AI数据中心三大核心赛道。"
-      ],
-      "quote": {
-        "who": "Bloomberg",
-        "role": "",
-        "said": "TDK 正准备提高其高端磁性传感器的产量，旨在抓住这些组件在汽车、人形机器人和 AI 数据中心中应用日益广泛的机遇"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 1.8万 · 资本与算力] TDK加急扩产！人形机器人和AI数据中心，抢疯了高端磁感"
-    },
-    {
-      "title": "100万颗卫星！马斯克把AI搬上太空，FCC批了",
-      "summary": "FCC已向SpaceX的Starmind项目发出有条件批准，允许部署多达100万颗轨道数据中心卫星。该计划旨在利用太空太阳能驱动AI计算，以缓解地球电网、水资源和土地压力。据媒体转述，首批卫星预计2027年发射，授权有效期至2040年。",
-      "reads": "1.9万",
-      "ago": "2 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "FCC批准的是「有条件」许可，具体部署条件与时间表仍需官方进一步确认",
-        "自1957年以来人类累计发射约2.8万颗卫星，Starmind规划数量超其35倍",
-        "项目核心逻辑是利用太空太阳能解决AI算力扩张带来的能源与环境瓶颈",
-        "SpaceX计划2027年发射首批Starmind卫星，整个星座授权有效期至2040年"
-      ],
-      "quote": {
-        "who": "Mario Nawfal",
-        "role": "",
-        "said": "🇺🇸🚀 Elon 刚拿到绿灯，要把 AI 革命带进太空。 FCC 已批准 SpaceX 在 Starmind 项目下部署多达 100 万颗轨道数据中心卫星（有条件批准）。 这个想法很绝妙：利用太空中的太阳能驱动 AI 计算，同时减轻地球电网、水资源和土地的压力。 SpaceX 计划于 2027 年发射首批 Starmind 卫星，整个星座的授权有效期至 2040 年。 作为参考，自 1957 年太空时代开启以来，人类…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 1.9万 · 资本与算力] 100万颗卫星！马斯克把AI搬上太空，FCC批了"
-    },
-    {
-      "title": "Claude已写超80%内部代码，Anthropic却急着否认让AI统治世界",
-      "summary": "Anthropic被曝内部普遍想把重大决策交给超级智能AI，几年前的幻灯片甚至写着「由盒子里的神，来统治的世界」，恰逢公司股价跌破发行价，CEO Dario Amodei发长文直斥这种说法「荒谬」。Axios报道引发争议后，Dario反指同行只喊「人类控制」口号却不改产品，但评论区并不买账，连马斯克都转发了一句「有意思」。",
-      "reads": "15万",
-      "ago": "9 小时前",
+      "title": "Meta眼镜或被禁售！律师上街实测：像偷窥狂但没人认出",
+      "summary": "荷兰消费者和数字权利团体已请求阿姆斯特丹法院停售 Meta Ray-Ban AI 眼镜，指控其被用于更衣室和游乐场偷拍。据 NOS 报道，一位律师佩戴上街测试后称「感觉像偷窥者但没被认出」。团体主张眼镜违反欧盟隐私法，要求每日罚款 10 万欧元；Meta 回应称不应为少数用户滥用负责。",
+      "reads": "8456",
+      "ago": "3 小时前",
       "category": "政策与安全",
       "source": "新智元",
       "bullets": [
-        "Aakash Gupta援引数据称，Claude已编写Anthropic内部超80%的代码；公司本月初提交的SEC文件也提示，下一代模型或将承担构建下一个A…",
-        "Aakash Gupta同时提到，外部研究机构METR测得Anthropic模型的改进速度已接近旧速度的两倍，主要原因正是AI开始直接参与研发。",
-        "Dario在长文中强调不能为效率或安全牺牲合法性与自决权，认为在缺乏有效人类监督和理解的情况下，让Claude自主构建前沿模型并不安全；Meta AI负责人…",
-        "围绕「人类监督」，Phoenix Yin指出民主程序按十年尺度运转，实验室实质上在空档期代为决策，给数亿人使用的模型设定价值观与宪法本身就是未经授权的治理…"
+        "法院将在 12 月 24 日前作出裁决。",
+        "据 Reuters 报道，团体还要求 Meta 停止使用眼镜录音训练 AI，Meta 否认以违反欧盟法的方式使用欧洲影像。",
+        "团体主张若违规成立，每家公司每天需缴纳 €100,000 罚款。"
       ],
       "quote": {
-        "who": "Aakash Gupta",
+        "who": "International Cyber Digest",
         "role": "",
-        "said": "Claude，Anthropic 售卖的那个 AI，已经编写了 Anthropic 内部超过 80% 的代码。 本月初，该公司在一份 SEC 文件中告诉投资者，其下一代模型可能接近承担构建下一个 AI 的大部分工作，从而让进步开始自我滚雪球。 记住这一点，因为周三 AI 圈爆发了一场争吵，争论焦点是 Anthropic 的 CEO 是否希望人类将自由意志交给机器。 Axios 报道说，竞争对手 AI 领袖正在反驳一种…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 15万 · 政策与安全] Claude已写超80%内部代码，Anthropic却急着否认让AI统治世界"
-    },
-    {
-      "title": "4660亿美元！华尔街慌了，AI债务泡沫要爆？",
-      "summary": "截至十月，AI相关公司今年已筹集估计4660亿美元债务，同比暴涨近4倍。投资者正疯狂买入违约保护，七大科技巨头的周交易量从7月的20亿飙升至9月的90亿美元以上。Oracle、Alphabet等公司的债务保险成本创下纪录，市场开始担心这些巨额基建投入何时能真正回本。",
-      "reads": "1.9万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "AI相关公司今年前10个月债务融资额达4660亿美元，2025年同期仅为1010亿美元。",
-        "与七大科技巨头相关的违约保护周交易量从7月不到20亿美元升至9月超90亿美元。",
-        "Oracle、Alphabet、SpaceX和CoreWeave的债务保险成本均达到历史高位。",
-        "Oracle的利差高达377个基点，意味着每年为1000万美元债务投保需花费约37.7万美元。"
-      ],
-      "quote": {
-        "who": "Mario Nawfal",
-        "role": "",
-        "said": "🇺🇸 华尔街对为 AI 提供资金的债务越来越紧张。 到十月为止，AI 相关公司今年已筹集了估计 4660 亿美元的债务，而 2025 年同期仅为 1010 亿美元。 投资者正在购买保护性产品，以防这些公司无法偿还债务。 与七大科技巨头相关的违约保护每周交易量从七月的不到 20 亿美元跃升至九月的超过 90 亿美元。 现在，为 Oracle、Alphabet、SpaceX 和 CoreWeave 的债务投保的成本已达到…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 1.9万 · 资本与算力] 4660亿美元！华尔街慌了，AI债务泡沫要爆？"
-    },
-    {
-      "title": "开源Hermes打通Obsidian！官方连接器上线，本地笔记秒变AI大脑",
-      "summary": "你的本地笔记库正式被开源 Agent 接管了！Nous Research 官方宣布 Hermes Agent 推出官方连接器，可以直接控制用户的 Obsidian vault 并作为共享知识库使用。整个过程笔记保持完全本地、私密且完全由用户掌控，本地党不必担心隐私被云端扒光。",
-      "reads": "4.8万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Hermes Agent 现已支持通过官方 connector 将用户的 Obsidian vault 挂载为共享知识库",
-        "全程保障数据主权，所有笔记内容始终保留在本地，私密性与控制权完全属于用户",
-        "作为近期斩获数万 GitHub Star 的热门开源 Agent，Hermes 正进一步加速渗入极客个人知识库工作流"
-      ],
-      "quote": {
-        "who": "Nous Research",
-        "role": "",
-        "said": "Hermes Agent 现在可以通过官方连接器将你的 Obsidian vault 作为共享知识库来控制。你的笔记保持本地、私密，且完全由你掌控。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 4.8万 · 产品与生态] 开源Hermes打通Obsidian！官方连接器上线，本地笔记秒变AI大脑"
-    },
-    {
-      "title": "写出165页神文的OpenAI前员工翻车了！杠杆狂赌AI，单季暴亏65%险些崩盘",
-      "summary": "曾经凭165页宏文封神的「AI先知」栽了个大跟头。Leopold Aschenbrenner 创立的对冲基金 Situational Awareness 因利用借贷加杠杆押注 AI 资产严重失利，在今年夏天险些直接崩盘，第三季度扣除管理费后净值更是暴跌 65%。据媒体披露，他已在投资者信中证实了这笔惨烈亏损，并表示正努力从错误中吸取教训。",
-      "reads": "4.3万",
-      "ago": "7 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "该基金采取借贷杠杆的方式大举做多 AI 概念资产，但在经历夏季行情剧烈震荡后遭遇反噬，整个投资组合一度濒临解体。",
-        "Aschenbrenner 曾是 OpenAI 超级对齐团队成员，被解雇后因发表 165 页预言 2027 年实现 AGI 的行业长文在硅谷名声大噪，随后借…"
-      ],
-      "quote": {
-        "who": "The Wall Street Journal",
-        "role": "",
-        "said": "Leopold Aschenbrenner 的对冲基金 Situational Awareness 在夏天因押注 AI 的借贷策略失败而几乎崩盘，他告诉投资者，第三季度扣除费用后亏损了65%，因为他们正在努力从错误中吸取教训。 🔗"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 4.3万 · 资本与算力] 写出165页神文的OpenAI前员工翻车了！杠杆狂赌AI，单季暴亏65%险些崩盘"
-    },
-    {
-      "title": "SAP拟裁1万人！占全球员工9%，全力转向AI时代",
-      "summary": "SAP正制定计划，拟裁撤至少10,000个职位，占其全球员工总数的9%，旨在推动软件业务适应AI时代。据Bloomberg消息源透露，此举是该公司战略转型的关键一步。",
-      "reads": "1.8万",
-      "ago": "4 小时前",
-      "category": "组织与人事",
-      "source": "新智元",
-      "bullets": [
-        "SAP计划裁撤的职位数量至少为10,000个",
-        "裁员比例达到全球员工总数的9%",
-        "裁员目的是将软件业务转型以适配AI时代需求",
-        "该消息由Bloomberg援引消息源报道"
-      ],
-      "quote": {
-        "who": "Bloomberg",
-        "role": "",
-        "said": "SAP 正在制定计划，裁撤至少 10,000 个职位，以将其软件业务转型为适应 AI 时代"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 15,
-      "line": "[榜第15位 · 1.8万 · 组织与人事] SAP拟裁1万人！占全球员工9%，全力转向AI时代"
-    },
-    {
-      "title": "2.28倍！亚马逊Trainium3实测性价比反超英伟达GB300",
-      "summary": "在SemiAnalysis的Agentic Inference Benchmark中，Amazon Trainium3 UltraServer每美元性能比NVIDIA GB300 NVL72高出2.28倍。SemiAnalysis表示很快将使用行业标准AgentX benchmark测试Trainium4。",
-      "reads": "8548",
-      "ago": "2 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "成绩来自SemiAnalysis自有Agentic Inference Benchmark的提交测试，不能直接外推到所有推理场景",
-        "SemiAnalysis称很快会用其行业标准AgentX benchmark测试Trainium4"
-      ],
-      "quote": {
-        "who": "SemiAnalysis",
-        "role": "",
-        "said": "警报🚨：Amazon 的 Trainium3 UltraServer 在我们 Agentic Inference Benchmark 上的表现，每美元性能甚至比 NVIDIA 的 GB300 NVL72 高出 2.28 倍。 很期待很快就在我们行业标准 AgentX benchmark 上测试 Trainium4！"
+        "said": "‼️ Meta 的 Ray-Ban AI 眼镜可能在荷兰被下架。荷兰消费者和数字权利组织要求阿姆斯特丹法院停止销售，称这些眼镜被用来在更衣室和游乐场偷拍。 据荷兰 NOS 报道，其中一位律师戴着一副走在街上。“我感觉自己像个偷窥狂，但没人把我当回事。” 路透社报道称，他们表示眼镜违反了欧盟隐私法，并要求对每家公司处以每天 10 万欧元的罚款。 Meta 称它不能为一小部分用户的滥用行为负责。法院将在 12 月 24…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 8548 · 资本与算力] 2.28倍！亚马逊Trainium3实测性价比反超英伟达GB300"
+      "line": "[榜第16位 · 8456 · 政策与安全] Meta眼镜或被禁售！律师上街实测：像偷窥狂但没人认出"
     }
   ],
   "board_count": 16,
