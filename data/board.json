@@ -3,55 +3,241 @@
   "source": "新智元 ASI 爆点",
   "home": "https://www.aiera.com.cn/",
   "column_url": "https://www.aiera.com.cn/#secBaodian",
-  "fetched_at": "2026-11-28 02:51:54 +0800",
+  "fetched_at": "2026-11-28 09:54:15 +0800",
   "today": "11/28",
   "note": "秒追流每条都有详情页 url,直接给。爆点榜是页面上的折叠块、无独立网址(url=null),引用时给栏目链接并说明在榜第几位。*_total 是页面当前挂载的总条数(秒追流约覆盖最近 3 天),不是栏目历史总量。",
   "board": [
     {
-      "title": "Hugging Face CEO力挺蒸馏：AI公司自己也靠蒸馏网页起家",
-      "summary": "AI蒸馏被Hugging Face联合创始人兼CEO Clement Delangue公开力挺为「健康且有益」，能限制权力、能力和财富极端集中。他还类比，这与AI公司靠蒸馏网页取得成功非常相似，并直言很高兴看到谷歌在推广蒸馏。Mark Kretschmann随后转发附和，称终于有人说出了AI蒸馏的真相。",
-      "reads": "5.3万",
-      "ago": "2 小时前",
+      "title": "马斯克点名夸Neon和Opus！Grok @Bot目标按任务选最强模型",
+      "summary": "每个模型各有优缺点，Grok @Bot 的目标就是挑出对你任务完成得最好的那个！马斯克最新发帖点名评价，直言 Neon 看起来特别有潜力，Opus 在大多数情况下也很出色。面对这种「多模型混用」思路，Peter Yang 随后建议增加高级设置，让用户能看清 Grok Bot 当前到底在用哪个模型。",
+      "reads": "185万",
+      "ago": "6 小时前",
       "category": "模型与能力",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "Mark Kretschmann",
+        "who": "Peter Yang",
         "role": "",
-        "said": "终于有人把 AI 蒸馏的真相说出来了："
+        "said": "@elonmusk @bot 我理解根据任务使用混合模型是最好的，但也许有一个高级设置，让我们能看到 Grok Bot 当前正在使用什么模型的透明度？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 1,
-      "line": "[榜第1位 · 5.3万 · 模型与能力] Hugging Face CEO力挺蒸馏：AI公司自己也靠蒸馏网页起家"
+      "line": "[榜第1位 · 185万 · 模型与能力] 马斯克点名夸Neon和Opus！Grok @Bot目标按任务选最强模型"
     },
     {
-      "title": "SAP被曝拟裁员至少1万人，软件业务大规模转向AI",
-      "summary": "软件巨头 SAP 被曝正在制定裁员计划，准备裁撤至少 10,000 个职位，以推动软件业务转型适应 AI 时代。Bloomberg 援引知情人士消息指出，这一潜在举措属于大规模 AI 重组的一部分，Bloomberg 的 Ruhell Amin 也随后解释了背后的原因。",
-      "reads": "6.5万",
-      "ago": "3 小时前",
-      "category": "组织与人事",
+      "title": "马斯克拒做赔本AI：Grok Bots若堪比优秀员工，月费再高也有高回报",
+      "summary": "负毛利的生意根本没法规模化，只要能顶得上优秀员工，月费再高也照样划算。马斯克发文拆解商业逻辑：Muse只是个人助理，达不到大规模运营公司所需的重型AI水准；若Grok Bots能交付高价值，高月费仍能带来出色回报。他还顺带自嘲，以前把升级更高用量档位搞得太复杂是个蠢错误，必须修掉。",
+      "reads": "108万",
+      "ago": "5 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [],
       "quote": {
-        "who": "The Decoder",
+        "who": "Elon Musk",
         "role": "",
-        "said": "SAP 计划裁员至少 10,000 人，全面转向 AI 据 Bloomberg 援引知情人士消息报道，SAP 正准备作为大规模 AI 重组的一部分，裁撤至少 10,000 个职位。文章《SAP plans to cut at least 10,000 jobs as it pivots to AI》首发于 The Decoder。"
+        "said": "我们无法扩展一个负毛利的业务。那根本不可能。 Muse 是一个个人助理，但它并没有应用运营一家大规模公司所需的重磅级 AI。 如果 Grok Bots 提供的价值与拥有优秀员工相当，那么月度成本可能会很高，但仍能带来出色的投资回报率。 然而，如果我们做了蠢事，比如让升级到更高用量层级变得复杂（我们以前犯过这个错误），那么我们需要修正它。"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 2,
-      "line": "[榜第2位 · 6.5万 · 组织与人事] SAP被曝拟裁员至少1万人，软件业务大规模转向AI"
+      "line": "[榜第2位 · 108万 · 产品与生态] 马斯克拒做赔本AI：Grok Bots若堪比优秀员工，月费再高也有高回报"
+    },
+    {
+      "title": "纽约时报新AI专栏作家被指拿钱写Anthropic，业内笑喷：她压根没夸过几句",
+      "summary": "纽约时报 11 月 17 日刚聘用的 AI 专栏作家 Jasmine Sun，被曝今年曾拿 Anthropic 投资方约 5 万美元却在相关报道中只字未提。这一指控由 ZeroHedge 提出，但开源模型研究者 Nathan Lambert 直接吐槽该说法荒唐，指出她其实很少写 Anthropic 的正面内容。目前 Sun 与纽约时报均未置评。",
+      "reads": "53万",
+      "ago": "6 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "Jasmine Sun 今年 1 月至 7 月作为 Omidyar Network「驻站记者」获得约 5 万美元报酬，驻站期间曾撰写 Anthropic 与…",
+        "Omidyar Network 自 2024 年起持有 Anthropic 股份，Forbes 估值该笔持股在 IPO 时超过 5500 万美元。",
+        "Sun 在纽约时报撰写的 Anthropic 员工相关文章发表于 Anthropic IPO 定价次日，文中未提及 Omidyar。",
+        "Nathan Lambert 转发相关爆料时直言故事很搞笑，并称这些指控整体上站不住脚。"
+      ],
+      "quote": {
+        "who": "Nathan Lambert",
+        "role": "",
+        "said": "这事儿太搞笑了，因为 jasmine 从来没写过什么关于 anthropic 的好话（而且那些说法本来就很扯）"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 3,
+      "line": "[榜第3位 · 53万 · 资本与算力] 纽约时报新AI专栏作家被指拿钱写Anthropic，业内笑喷：她压根没夸过几句"
+    },
+    {
+      "title": "Claude Sonnet Next悄悄测试，从零搓出3D无限驾驶游戏",
+      "summary": "Claude Sonnet Next正对部分Claude Code用户悄悄灰度测试，直接用短提示词、纯Three.js从零搓出3D无限驾驶游戏「Horizon Drive」，红色跑车穿行林间山路的画面像真游戏而非演示。有测试用户透露该模型尚未官宣，自己从每周76%额度跑到92%提前收尾仍觉效果惊人，另有社区声音猜测Sonnet 5.6也即将推出。",
+      "reads": "17万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "模型从零生成了展示中的所有3D模型、纹理、地形生成及视频内容，在Ultra套餐近乎不限额度的条件下于Ultracode中表现尤为突出。",
+        "演示者提醒3D效果未必代表其他领域能力，建议用Karpathy提示词自行实测，并提到最新Claude模型在音频输入上依然表现平平。",
+        "有用户指出当前该模型正在被悄悄路由，可以通过提出超出既有知识范围的问题来测试其响应差异。",
+        "有实测者感叹不知道Anthropic在给模型喂什么，称目前没有其他模型能用如此简短的提示词做出同等水准的作品。"
+      ],
+      "quote": {
+        "who": "J A Z I I",
+        "role": "",
+        "said": "@maxt3chno 它正在被路由。你可以向模型提出超出其知识范围的问题"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 4,
+      "line": "[榜第4位 · 17万 · 模型与能力] Claude Sonnet Next悄悄测试，从零搓出3D无限驾驶游戏"
+    },
+    {
+      "title": "OpenAI反诉苹果窃取商业机密，指责其给员工设「加州旅馆」陷阱",
+      "summary": "OpenAI反手把苹果告上法庭，指控对方通过一名回流员工窃取商业机密，还胁迫威胁同时服务两家的供应商。据Financial Times报道，OpenAI在诉状中吐槽苹果给年轻人才设了「加州旅馆」陷阱，随时能退房却永远走不出去。苹果则回怼称反诉纯属转移视线，并强调OpenAI已被命令停止使用苹果机密信息。",
+      "reads": "4.9万",
+      "ago": "2 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "OpenAI在诉状中称，年轻人才原以为会前往库比蒂诺工作，实际却如同加入「加州旅馆」，「你可以随时退房，但永远无法离开」。",
+        "苹果回应称，OpenAI的反诉是「明目张胆地企图转移对苹果诉讼实质的注意」。",
+        "据Daring Fireball指出，这起诉讼目前仍处于最早阶段。"
+      ],
+      "quote": {
+        "who": "Daring Fireball",
+        "role": "",
+        "said": "OpenAI 反诉 Apple 窃取商业机密 Tim Bradshaw 和 Michael Acton 为 Financial Times 报道：“Apple 给员工设了个圈套，”诉状写道。“那些聪明的年轻人以为自己要来 Cupertino 工作。结果他们进的是 Hotel California：你可以随时退房，但永远走不出去。” Apple 回应：“OpenAI 的反诉是赤裸裸的转移视线，想让人忽略 Apple 诉…"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 5,
+      "line": "[榜第5位 · 4.9万 · 政策与安全] OpenAI反诉苹果窃取商业机密，指责其给员工设「加州旅馆」陷阱"
+    },
+    {
+      "title": "就算股价跌了，AI打工人仍坐拥4700亿美元！泼天富贵到底怎么花",
+      "summary": "即便在创纪录上市后股价可能遭遇回落，某AI实验室的员工们依然稳坐金山。据测算，该实验室员工合计持有的股份总市值仍高达4700亿美元；这批手握泼天富贵的顶尖技术人才后续究竟会如何处置这笔天量财富，已成为全行业紧盯的悬念。",
+      "reads": "4.4万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "The Economist",
+        "role": "",
+        "said": "这家 AI 实验室的股价自创纪录上市以来可能有所下跌，但据我们计算，其员工持有的股份总价值仍高达 4700 亿美元。他们打算怎么处理这笔钱？ 图片：AP"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 6,
+      "line": "[榜第6位 · 4.4万 · 资本与算力] 就算股价跌了，AI打工人仍坐拥4700亿美元！泼天富贵到底怎么花"
+    },
+    {
+      "title": "总算力只花50美元！AI零依赖手搓国象棋引擎，ELO狂飙3533",
+      "summary": "仅耗费约50美元算力，一款完全用Rust从零编写、零外部依赖的国际象棋引擎横空出世，ELO评分高达3533！投资人Deedy自述，在人类少量调度指导下，Fable与GPT-6 Astra等模型协同开发出引擎Chatarunga，不仅对战世界第一引擎Stockfish拿下37%得分率，还在7%的对局中成功将杀对方。",
+      "reads": "8.1万",
+      "ago": "4 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [
+        "项目已在Lichess上线对战且完全开源，并已向CCRL国际象棋AI排行榜提交成绩申请。",
+        "14页技术论文展示了引擎在关键局面的推演能力，实战曾下出「10. Bxf7+!!」困死Stockfish的王后，并自主领悟特级大师级别的子力价值。",
+        "整套开发由Fable、Neon、Astra模型与Modal算力平台协同完成，作者未公开各模型具体分工，人类当前主要负责统筹与并行任务调度。",
+        "作者总结称Rust极严苛的编译与测试是Agent编程的绝配，能在极早阶段拦截静默回归，避免无效长任务浪费算力。"
+      ],
+      "quote": {
+        "who": "Deedy",
+        "role": "",
+        "said": "@NachoSoto 这两个批评都完全合理。说实话，实验的具体细节不是我设计的，是模型做的。 我会运行一个核心数相同的版本。给它更多时间需要大量算力，所以没达到统计显著性"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 7,
+      "line": "[榜第7位 · 8.1万 · 模型与能力] 总算力只花50美元！AI零依赖手搓国象棋引擎，ELO狂飙3533"
+    },
+    {
+      "title": "Anthropic股价逼近92美元！单日大涨11％，较发行价全线回血",
+      "summary": "Anthropic美股盘中涨幅扩大至11%以上，股价直逼每股92美元，较IPO发行价同样累涨逾11%。据金融分析账号The Kobeissi Letter监测，伴随标普500指数创下当日新高，代码为$ANT的Anthropic股票迎来强势买盘拉升。",
+      "reads": "25万",
+      "ago": "8 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "美股盘中标普500指数创出日内新高，带动科技股情绪升温。",
+        "Anthropic股票（代码 $ANT）日内涨幅超过11%，盘中逼近每股92美元，已较此前IPO发行价整体上涨超11%。"
+      ],
+      "quote": {
+        "who": "The Kobeissi Letter",
+        "role": "",
+        "said": "突发：随着标普500指数创出当日新高，Anthropic 股票 $ANT 涨幅扩大至超过 +11%。 Anthropic 股价现已逼近每股 92 美元，较 IPO 价格上涨 +11%。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 8,
+      "line": "[榜第8位 · 25万 · 资本与算力] Anthropic股价逼近92美元！单日大涨11％，较发行价全线回血"
+    },
+    {
+      "title": "别让智能体裸奔接管系统！开源飞行记录仪Tracekit来了，调用全拦截、日志防篡改",
+      "summary": "AI智能体接管真实系统终于有了「黑匣子」。开源工具 Tracekit 主打智能体飞行记录仪，在每次工具调用运行前强行介入审批或拦截；同时将所有操作写入智能体自身无法篡改的签名日志中，任何人都能进行离线验证。",
+      "reads": "3.2万",
+      "ago": "4 小时前",
+      "category": "政策与安全",
+      "source": "新智元",
+      "bullets": [
+        "在每次工具调用运行之前执行审批或拦截判定",
+        "所有操作均写入具备数字签名的日志，智能体自身无权篡改",
+        "支持任何人进行离线审计验证，面向智能体接入真实生产环境前的安全约束"
+      ],
+      "quote": {
+        "who": "0xMarioNawfal",
+        "role": "",
+        "said": "Tracekit 是一款面向 AI 智能体的开源飞行记录仪。它在每个工具调用运行前进行批准或拦截。 所有操作都会签署到智能体无法篡改的日志中，任何人都可以离线验证。 在你的智能体接触真实系统之前，先保存这条。"
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 9,
+      "line": "[榜第9位 · 3.2万 · 政策与安全] 别让智能体裸奔接管系统！开源飞行记录仪Tracekit来了，调用全拦截、日志防篡改"
+    },
+    {
+      "title": "Anthropic重写底层基建！Messages API抛弃Python改用Rust，CPU怒砍70%",
+      "summary": "Anthropic 的底层基建狠狠榨出了一波算力红利：其核心的 Messages API 在从 Python 迁移至 Rust 之后，CPU 占用直接暴跌了约 70%。面对全球开发者对 Claude 极速膨胀的高并发调用，这一重构不仅极大卸下了服务端的算力负荷，也再次为技术圈上演了一出「用 Rust 重写拯救性能」的硬核范例。",
+      "reads": "2.3万",
+      "ago": "3 小时前",
+      "category": "产品与生态",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "unusual_whales",
+        "role": "",
+        "said": "在将 Messages API 从 Python 迁移到 Rust 后，Anthropic 的 CPU 使用量减少了约 70%。 阅读更多："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 10,
+      "line": "[榜第10位 · 2.3万 · 产品与生态] Anthropic重写底层基建！Messages API抛弃Python改用Rust，CPU怒砍70%"
     },
     {
       "title": "83天推平444英亩荒地！马斯克自带电厂建240亿美元AI机房，公共电网都省了",
       "summary": "两张相隔仅83天的对比照片，曝光了马斯克在德州疯狂推进的算力基建。这片444英亩的泥土荒地正被改建为耗资240亿美元的AI数据中心，最绝的是自带燃气电厂、35台涡轮机与约750MW电力，直接脱离公共电网。有投资人对比感慨，微软新机房光首栋楼就耗了两年，马斯克速度堪称机器。",
-      "reads": "31万",
-      "ago": "9 小时前",
+      "reads": "75万",
+      "ago": "16 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -68,38 +254,82 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 3,
-      "line": "[榜第3位 · 31万 · 资本与算力] 83天推平444英亩荒地！马斯克自带电厂建240亿美元AI机房，公共电网都省了"
+      "rank": 11,
+      "line": "[榜第11位 · 75万 · 资本与算力] 83天推平444英亩荒地！马斯克自带电厂建240亿美元AI机房，公共电网都省了"
     },
     {
-      "title": "没调生图更没用视频模型！Claude纯靠写代码直出巨龙动画",
-      "summary": "一条活灵活现的巨龙动效，完全不需要图像模型或视频模型，纯靠写代码一次性跑了出来！海外社区晒出的演示显示，Claude Sonnet 仅凭纯代码搭配一个技能（skill），就「一枪直出」（one-shot）完成了巨龙的动态渲染。AI 彻底绕过传统艺术工具直接写出画面，也引发了动画师未来还剩什么的行业追问。",
-      "reads": "3.6万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
+      "title": "99%的人都在裸跑！谷歌工程师20个开源技能曝光，一键组建AI工程团队",
+      "summary": "99%的人用Gemini还在裸跑，根本没榨出真本事！有开发者整理出谷歌工程师自用的20个GitHub Agent开源技能库，能把单模型协作直接拉满成全套工程团队。与其无工具、无计划地跑swarm，不如按Neon定方案、Hydrogen敲代码、verifier做检查的标准分工，让AI开发彻底告别裸奔。",
+      "reads": "13万",
+      "ago": "9 小时前",
+      "category": "产品与生态",
       "source": "新智元",
       "bullets": [
-        "演示全过程未调用任何扩散模型、图生图或视频生成模型，视觉动效完全由代码驱动与渲染。",
-        "动画在单次提示词交互（one-shot）下直接生成，仅依托 Claude Sonnet 的代码生成能力与一个 skill 扩展。",
-        "该演示展现了 AI 绕过专业绘图软件、直接「用代码编写艺术」的可能性，引发社区对传统数字动画制作门槛的讨论。"
+        "20个仓库覆盖完整链路：包含终端交互（gemini-cli）、开发部署（adk-python、genkit）、跨智能体通信（ax、A2A）以及调试排错工具（…",
+        "起步无需全量堆叠，极简上手只需三个项目：gemini-cli管交互、adk-python管构建，搭配Addy Osmani主导的agent-skills作为…",
+        "开发者可将完整技能清单直接喂给Antigravity，让环境根据当前业务项目自动匹配并筛选所需模块",
+        "分工架构采用分层配置：以Gemini 4 Neon负责顶层任务拆解，Hydrogen负责敲代码，再交由独立verifier进行输出核验与纠错"
       ],
       "quote": {
-        "who": "0xMarioNawfal",
+        "who": "Movez",
         "role": "",
-        "said": "Claude Sonnet 一次性就动画化了这个龙，完全靠代码和一个技能。没有图像模型，也没有视频模型。 AI 不再需要艺术工具了。它直接写代码生成艺术。动画师还剩下什么？"
+        "said": "@gippp69 很高兴对你有用 gip，顺便问下你的 Gemini Neon 配置是干嘛用的？"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 4,
-      "line": "[榜第4位 · 3.6万 · 模型与能力] 没调生图更没用视频模型！Claude纯靠写代码直出巨龙动画"
+      "rank": 12,
+      "line": "[榜第12位 · 13万 · 产品与生态] 99%的人都在裸跑！谷歌工程师20个开源技能曝光，一键组建AI工程团队"
+    },
+    {
+      "title": "Hugging Face CEO力挺蒸馏：AI公司自己也靠蒸馏网页起家",
+      "summary": "AI蒸馏被Hugging Face联合创始人兼CEO Clement Delangue公开力挺为「健康且有益」，能限制权力、能力和财富极端集中。他还类比，这与AI公司靠蒸馏网页取得成功非常相似，并直言很高兴看到谷歌在推广蒸馏。Mark Kretschmann随后转发附和，称终于有人说出了AI蒸馏的真相。",
+      "reads": "14万",
+      "ago": "10 小时前",
+      "category": "模型与能力",
+      "source": "新智元",
+      "bullets": [],
+      "quote": {
+        "who": "Mark Kretschmann",
+        "role": "",
+        "said": "终于有人把 AI 蒸馏的真相说出来了："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 13,
+      "line": "[榜第13位 · 14万 · 模型与能力] Hugging Face CEO力挺蒸馏：AI公司自己也靠蒸馏网页起家"
+    },
+    {
+      "title": "100万颗卫星上天！FCC批准SpaceX在太空建数据中心",
+      "summary": "FCC正式授权SpaceX部署最多100万颗卫星，用于其Starmind轨道数据中心网络。这一数量级远超现有星座规模，意味着太空算力基建正式进入超大规模部署阶段。",
+      "reads": "1.7万",
+      "ago": "2 小时前",
+      "category": "资本与算力",
+      "source": "新智元",
+      "bullets": [
+        "FCC授权上限为100万颗卫星，专门服务于Starmind轨道数据中心网络",
+        "该授权打破了传统低轨星座的规模认知，为大规模在轨计算提供了监管许可"
+      ],
+      "quote": {
+        "who": "unusual_whales",
+        "role": "",
+        "said": "FCC 批准 SpaceX 部署多达 100 万颗卫星，用于其 Starmind 轨道数据中心网络。 阅读更多："
+      },
+      "tag": null,
+      "story": null,
+      "url": null,
+      "column_url": "https://www.aiera.com.cn/#secBaodian",
+      "rank": 14,
+      "line": "[榜第14位 · 1.7万 · 资本与算力] 100万颗卫星上天！FCC批准SpaceX在太空建数据中心"
     },
     {
       "title": "AMD当年差点买下英伟达！黄仁勋只提了一个条件：合并后我当CEO",
       "summary": "英伟达如今坐拥 3.6 万亿美元市值、超 AMD 五倍多，但 2006 年它险些被 AMD 收入囊中。据前员工披露，当时 AMD 为补齐 GPU 意图收购英伟达，黄仁勋谈判时只提了一个条件：由自己出任合并后公司的掌门人；AMD 最终拒绝并转身买下 ATI，黄仁勋则火速推出 CUDA，一路赌出了今天的万亿算力霸权。",
-      "reads": "4.4万",
-      "ago": "5 小时前",
+      "reads": "24万",
+      "ago": "12 小时前",
       "category": "资本与算力",
       "source": "新智元",
       "bullets": [
@@ -117,278 +347,32 @@
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 5,
-      "line": "[榜第5位 · 4.4万 · 资本与算力] AMD当年差点买下英伟达！黄仁勋只提了一个条件：合并后我当CEO"
-    },
-    {
-      "title": "华尔街开始找接盘侠了！摩根大通花旗被曝倒手AI贷款，潜在亏损全甩外部",
-      "summary": "华尔街巨头正急着把 AI 坏账风险甩出去。外媒披露，摩根大通和花旗正密集向外推销 AI 相关贷款组合；部分银行甚至设计出特殊方案，贷款名义留在账上，潜在亏损全转给外部投资人。但这未必代表巨头跳车，反而是为了腾出资产负债表额度，好掉头给更多 AI 项目继续输血。",
-      "reads": "2.5万",
-      "ago": "3 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "摩根大通与花旗正在营销 AI 相关贷款资产组合，以大幅压降自身的财务风险敞口",
-        "部分银行正探索结构化安排，允许自身保留贷款名义的同时，将潜在资产损失转移给外部投资者",
-        "多位贷款方倒手资产并非看空撤退，而是为了释放融资容量，给更多新增 AI 项目腾出资金",
-        "AI 债务发行体量急剧膨胀，正在对债券市场其他板块的流动性造成显著挤压"
-      ],
-      "quote": {
-        "who": "Mario Nawfal",
-        "role": "",
-        "said": "🚨🇺🇸 华尔街想让别人来承担AI风险！！！ 据报道，JPMorgan 和 Citi 正在营销与AI相关的贷款组合，以减少其财务敞口。 一些银行甚至正在探索允许它们保留贷款，同时将潜在损失转移给外部投资者的安排。 有趣的是，一些贷款人并不一定是在从AI撤退。他们是在释放容量以融资更多项目。 与此同时，AI债务发行的巨大规模正在对债券市场的其他部分施加压力。 来源：Semafor / 作者：Samuel"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 6,
-      "line": "[榜第6位 · 2.5万 · 资本与算力] 华尔街开始找接盘侠了！摩根大通花旗被曝倒手AI贷款，潜在亏损全甩外部"
-    },
-    {
-      "title": "Mac跑Claude Code频繁卡顿？把代码目录踢出Spotlight，瞬间丝滑",
-      "summary": "用Mac跑Claude Code频繁掉帧甚至直接卡死，很多时候并不是硬件吃不消，而是macOS自带的Spotlight在后台疯狂添乱。因为AI每次读写和修改文件，系统都会强行触发一轮全局重新索引；在设置里把开发目录排除后，后台索引负担瞬间清零，设备也不再卡顿了。",
-      "reads": "5.1万",
-      "ago": "6 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "具体避坑路径：进入「系统设置」→「Spotlight」→「搜索隐私」，将日常存放代码的项目文件夹直接拖入排除列表",
-        "原理在于Claude Code自动化编程时会高频触碰、重写大量文件，Spotlight默认对每一次变动逐一重新建索引，导致系统资源被瞬间占满",
-        "此方法为本地环境轻量调优技巧，无需额外安装任何工具或更改环境配置"
-      ],
-      "quote": {
-        "who": "0xMarioNawfal",
-        "role": "",
-        "said": "在 Mac 上跑 Claude Code？做这一件事。 把你的代码文件夹从 Spotlight 中排除： → 系统设置 → Spotlight → 搜索隐私 → 添加你的项目文件夹 Spotlight 就不会再重新索引 Claude 碰过的每个文件，你的 Mac 也不会卡死了。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 7,
-      "line": "[榜第7位 · 5.1万 · 产品与生态] Mac跑Claude Code频繁卡顿？把代码目录踢出Spotlight，瞬间丝滑"
-    },
-    {
-      "title": "自己借钱给客户买芯片？英伟达被曝狂砸2280亿美元，撑起整个AI热潮",
-      "summary": "英伟达撑起AI热潮的深层密码，竟包含自己出资帮客户买自家芯片。彭博社披露，英伟达正通过超过2280亿美元的投资、担保和金融承诺为整个产业托底：一边大卖算力芯片，一边出资支持买家采购，进而从激增的需求中持续获利。这套庞大的内循环运作随即引发全网追问：如果没有英伟达自己的钱，这场AI繁荣到底还剩多少？",
-      "reads": "2.8万",
-      "ago": "6 小时前",
-      "category": "资本与算力",
-      "source": "新智元",
-      "bullets": [
-        "据彭博社报道披露，英伟达为维系AI热潮已累计绑定超过2280亿美元，具体涵盖直接投资、信用担保以及各类金融承诺。",
-        "该模式构成了自给自足的资金闭环：英伟达负责供应算力芯片，同时为买方提供资金支持以促成采购，自身再从激增的市场需求中享受股价与营收红利。",
-        "这一资本飞轮曝光后在科技圈引发震荡，舆论核心直指产业真实造血能力：若剔除英伟达自身的巨额垫资与信用托底，下游客户的真实采购需求或将面临重估。"
-      ],
-      "quote": {
-        "who": "Mario Nawfal",
-        "role": "",
-        "said": "🇺🇸 Nvidia 正通过超过 2280 亿美元的投资、担保和金融承诺支持 AI 热潮。 它销售芯片，资助买家，并从需求中受益。 价值万亿美元的问题：如果没有 Nvidia 的钱，AI 热潮会有多少存在？ 来源：Bloomberg / 作者：Samuel"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 8,
-      "line": "[榜第8位 · 2.8万 · 资本与算力] 自己借钱给客户买芯片？英伟达被曝狂砸2280亿美元，撑起整个AI热潮"
-    },
-    {
-      "title": "谷歌也要搞AI超级应用！Antigravity被曝支持UI直接捏智能体",
-      "summary": "Google正在加速把Antigravity打造成一站式AI超级应用，其界面被曝已支持直接创建自定义AI智能体。TestingCatalog爆料显示，用户现在通过UI就能配置Agent的名称、图标与执行目标，此前还测试过用提示词一键生成；尽管两项功能目前仍被官方隐藏，但极大概率会在近期正式集成上线。",
-      "reads": "2.1万",
-      "ago": "5 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "用户在Antigravity当前实现中，可直接在图形界面配置智能体的名字、图标以及核心目标",
-        "除UI表单创建外，系统此前还预埋了仅通过输入提示词（Prompts）来生成Agent的功能路径",
-        "两项智能体创建功能目前均处于未公开的隐藏状态，具体开放时间以官方最终发布为准",
-        "面对在个性化智能体赛道上的落后局面，Antigravity已成为Google当下重点推进的核心抓手"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "GOOGLE 🔥: Antigravity 将支持直接从 UI 创建 AI 智能体！ > 在当前实现中，用户可以配置智能体的名称、图标及其目标。 > 此前，Google 还添加了通过提示词创建智能体的方式。这两个功能目前都是隐藏的。 鉴于 Antigravity 现在是 Google 的重点关注对象，即将成为 Google 的 AI 超级应用，且考虑到 Google 在个性化智能体方面远远落后，我们很可能很快会看到它…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 9,
-      "line": "[榜第9位 · 2.1万 · 产品与生态] 谷歌也要搞AI超级应用！Antigravity被曝支持UI直接捏智能体"
-    },
-    {
-      "title": "手工捏3D角色成过去式？Claude Code联动13个免费工具，直出游戏级精模",
-      "summary": "耗时数天的3D角色绑定与贴图流程正被AI大幅压缩。借助Claude Code驱动的13个免费开源仓库，从模型减面、自动展UV到贴图绘制和打光渲染，大部分繁琐工序已能全自动跑通；在测试案例中，一个395K三角形的高模直接被精炼为游戏可用的80K网格。",
-      "reads": "4.7万",
-      "ago": "8 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Blender MCP Bridge为Claude Code接入了98个专用工具，支持直接在Blender内部执行建模、贴图与渲染指令",
-        "Spring Bones负责动力学计算，可自动生成斗篷与披风的自然摆动效果",
-        "Ucupaint在Blender内提供绘画应用风格的纹理图层编辑能力",
-        "UVgami用于自动化展开UV，LeoMoon LightStudio则提供免费的工作室级灯光预设系统"
-      ],
-      "quote": {
-        "who": "0xMarioNawfal",
-        "role": "",
-        "said": "你花了好几天手工搭建和给 3D 角色做贴图。Claude Code 可以驱动免费工具搞定大部分工作。 → Blender MCP Bridge：98 个工具，让 Claude 能在 Blender 里建模、贴图和渲染 → Spring Bones：让披风和斗篷自然摆动 → Ucupaint：Blender 内的绘画风格纹理图层 → UVgami：自动 UV 展开 → LeoMoon LightStudio：免费的工作…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 10,
-      "line": "[榜第10位 · 4.7万 · 产品与生态] 手工捏3D角色成过去式？Claude Code联动13个免费工具，直出游戏级精模"
-    },
-    {
-      "title": "全球87%巨头用的软件被偷家！黑客疑携AI杀入SAP，源码遭篡改复制",
-      "summary": "掌管全球87%两千强巨头薪资与供应链的SAP后院起火。外媒披露黑客通过窃取的员工凭证和Token攻破其GitHub账户，甚至疑似动用了AI智能体；内部人士曝出部分源代码已遭篡改和复制，内部已立案代号「Project Granite」紧急应对。SAP官方确认遭入侵，但坚称暂未发现客户业务数据外泄。",
-      "reads": "3.9万",
-      "ago": "8 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "黑客利用窃取的员工登录凭证和认证Token深入内部开发环境，内部人士透露已有源码被攻击者复制和篡改。",
-        "外媒指出本次攻击疑似动用了AI智能体协同作业，以自主化手段协助实施渗透与代码操作。",
-        "SAP内部已将这起黑客入侵事件列为重大安全代号「Project Granite」并启动处置。",
-        "SAP官方已向媒体确认遭遇攻击但拒绝披露更多细节，目前表态称尚未发现客户业务数据遭到未经授权访问。"
-      ],
-      "quote": {
-        "who": "Mario Nawfal",
-        "role": "",
-        "said": "🇩🇪 据报道，黑客利用窃取的员工登录凭证入侵了 SAP 的 GitHub。 攻击者据称瞄准了 SAP 在 GitHub（开发者存储和共享代码的平台）上的账户，可能使用了 AI 智能体。 一位内部人士称，他们偷走了 SAP 员工的认证 Token，并利用这些 Token 篡改并复制了 SAP 源代码。 据报道，SAP 内部正以“Project Granite”为代号处理此事。 SAP 确认了攻击但拒绝透露细节。该公司表…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 11,
-      "line": "[榜第11位 · 3.9万 · 政策与安全] 全球87%巨头用的软件被偷家！黑客疑携AI杀入SAP，源码遭篡改复制"
-    },
-    {
-      "title": "软件巨头SAP被偷家！黑客疑用AI智能体，改写并盗走GitHub源码",
-      "summary": "欧洲最大企业软件巨头 SAP 突遭网络黑客攻击，GitHub 代码仓库遭到渗透，部分源码被篡改并下载复制，攻击者甚至疑似动用了 AI 智能体协助作案。据披露，黑客通过盗取员工登录 Token 杀入内网，该事件在内部被列为「Project Granite」；SAP 目前已紧急采取防护措施，并表示尚未发现客户业务数据被窃取的迹象。",
-      "reads": "22万",
-      "ago": "16 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "知情人士透露，黑客先窃取了员工的登录 Token，进而获取权限在 GitHub 上修改并复制了 SAP 的源代码",
-        "攻击过程暴露出新趋势，黑客在篡改和搬运代码时，疑似借助了自动化 AI 智能体（AI agents）协同执行",
-        "这起安全事件在 SAP 内部代号被称为「Project Granite」（花岗岩项目）",
-        "SAP 官方确认遇袭并表示已立即阻断风险，坚称未发现客户数据受波及，但拒绝回答更具体的入侵细节"
-      ],
-      "quote": {
-        "who": "International Cyber Digest",
-        "role": "",
-        "said": "‼️ 突发：SAP 确认遭受网络攻击。 这家德国软件巨头告诉新闻杂志 DER SPIEGEL，它已立即采取措施保护客户，目前尚未发现任何人访问客户业务数据的迹象。它没有回答详细问题。 SPIEGEL 在 SAP 内部的消息来源称，攻击者窃取了员工的登录 Token，然后利用它们修改和复制 GitHub 上的 SAP 源代码，可能借助了 AI 智能体。 SPIEGEL 报道称，该事件内部被称为“Project Gran…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 12,
-      "line": "[榜第12位 · 22万 · 政策与安全] 软件巨头SAP被偷家！黑客疑用AI智能体，改写并盗走GitHub源码"
-    },
-    {
-      "title": "人类写了50年的烂代码被Mythos几下扒光！1人带AI连攻19家公司",
-      "summary": "人类写了 50 年的祖传烂代码，正被 AI 在极短时间内彻底扒光。网络安全巨头 Palo Alto Networks CEO Nikesh Arora 在访谈中拉响警报，直言 Anthropic 的 Mythos 正在破解此前被认为绝不可能攻破的安全漏洞；企业填坑至少要 12 到 18 个月，而这期间将是恶意黑客的「开放狩猎季」。",
-      "reads": "7.2万",
-      "ago": "11 小时前",
-      "category": "政策与安全",
-      "source": "新智元",
-      "bullets": [
-        "黑客门槛已被彻底改写，近期出现 1 名黑客在暗网借助 AI 模型和 agent 同时攻击 19 家公司的真实案例，而在过去这需要 19 个人耗费多天协同才能…",
-        "多项曾被安全行业认定为「人类不可能攻破」的高难度陈年漏洞，如今均已被 AI 成功破解并沦陷",
-        "全球企业彻底排查并修复 50 年来积累的代码安全隐患预计需要 12 至 18 个月，攻击者正借此空窗期疯狂获利"
-      ],
-      "quote": {
-        "who": "Rohan Paul",
-        "role": "",
-        "said": "AI正在破解人类认为永远无法被攻破的安全漏洞。 Palo Alto Networks CEO Nikesh Arora： “有一些漏洞曾被认为人类无法攻破。AI已经能够破解它们。所以我认为我们正处于一个新时代，我们将不得不去修复历史上造成的所有这些问题，这将是一段旅程。” “这需要12到18个月，而且我认为对恶意行为者来说，这将会是一段‘开放狩猎季’。” ---- 完整视频在“ET Digital”YouTube频道…"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 13,
-      "line": "[榜第13位 · 7.2万 · 政策与安全] 人类写了50年的烂代码被Mythos几下扒光！1人带AI连攻19家公司"
-    },
-    {
-      "title": "冯骥推荐！Fable 5.2一下午45亿token搓出3D动作游戏",
-      "summary": "《黑神话》制作人冯骥推荐了一个Fable 5.2游戏合集，博主歸藏在里面发现自己做的游戏。被引原文称，该模型只用一下午、45亿token就生成了包含模型、场景和动作的完整3D动作游戏，全部打包在一个30兆HTML文件里。",
-      "reads": "1.4万",
-      "ago": "4 小时前",
-      "category": "模型与能力",
-      "source": "新智元",
-      "bullets": [
-        "Fable 5.2生成的游戏成品融合在单个30兆HTML文件中",
-        "制作过程涵盖模型生成、场景设计、动作设计及性能优化",
-        "歸藏建议试玩合集中较受欢迎的作品以了解当前AI做游戏的水平"
-      ],
-      "quote": {
-        "who": "歸藏(guizang.ai)",
-        "role": "",
-        "said": "哇！居然在《黑神话》制作人冯骥推荐的这个 Fable 5.2 游戏合集里找到了我自己做的游戏！ 这个确实省事儿，感觉这里边好多游戏都挺好玩的。 如果你不知道 AI 做游戏现在能发展到什么地步，可以去把这里边比较受欢迎的那些都玩玩"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
-      "rank": 14,
-      "line": "[榜第14位 · 1.4万 · 模型与能力] 冯骥推荐！Fable 5.2一下午45亿token搓出3D动作游戏"
-    },
-    {
-      "title": "谷歌要推Bundles！金融法律插件打包卖，对标Claude",
-      "summary": "有爆料称谷歌正筹备推出Bundles功能，将现有Plugins按Finance、Legal等特定工作流和角色打包成策划集合。这被视为对Claude类似功能的直接对标，旨在降低用户配置复杂Agent场景的门槛。",
-      "reads": "9486",
-      "ago": "3 小时前",
-      "category": "产品与生态",
-      "source": "新智元",
-      "bullets": [
-        "Bundles定义为围绕特定范围（如金融、法律）组合的插件集合。",
-        "爆料指出该功能将在现有Plugins基础上推出，并非替代关系。",
-        "Claude已具备类似的插件组合或预设功能，谷歌此举意在补齐生态短板。"
-      ],
-      "quote": {
-        "who": "🚨 AI News | TestingCatalog",
-        "role": "",
-        "said": "GOOGLE 🔥：除了现有的 Plugins，Google 还准备发布 Bundles！ > “针对常见工作流和角色的精选插件集。” Bundles 旨在围绕特定范围（如金融、法律等）组合成一组 Plugins。Claude 里就有类似的功能。"
-      },
-      "tag": null,
-      "story": null,
-      "url": null,
-      "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 15,
-      "line": "[榜第15位 · 9486 · 产品与生态] 谷歌要推Bundles！金融法律插件打包卖，对标Claude"
+      "line": "[榜第15位 · 24万 · 资本与算力] AMD当年差点买下英伟达！黄仁勋只提了一个条件：合并后我当CEO"
     },
     {
-      "title": "狂揽3.2万星！本地大模型能不能跑，开源神器先帮你验机",
-      "summary": "几十个G的模型下完才发现爆显存？一款开源验机工具在海外开发者圈爆火，GitHub已狂揽超3.2万星。它能在下载本地模型前先摸清你的CPU、显卡和显存底细，不仅能按运行速度和上下文长度排布适配方案，遇到硬件吃不下的模型，还会自动逐步降级匹配合适版本。",
-      "reads": "4.0万",
-      "ago": "9 小时前",
-      "category": "产品与生态",
+      "title": "狂赚10倍还是直接归零？投资人推演Anthropic：要么冲到15万亿，要么出局",
+      "summary": "要么拿下10倍回报狂飙到15万亿美元，要么被巨额算力压垮彻底抹去！投资人Chris Camillo对Anthropic给出了冰火两重天的极端推演：若能掀翻主流软件巨头并攻入新药研发，估值将冲上5万亿到15万亿美元；但一旦背负的算力承诺遭遇营收降速，公司随时面临灭顶之灾。",
+      "reads": "2.8万",
+      "ago": "5 小时前",
+      "category": "资本与算力",
       "source": "新智元",
       "bullets": [
-        "自动扫描本地设备的 CPU、GPU、内存（RAM）及显存（VRAM），提前判断硬件承载上限",
-        "从是否适配、运行速度、生成质量以及支持的上下文长度四个维度，对可选模型综合打分排名",
-        "遇到显存吃不消的模型无需手动折腾，工具会自动逐级降级至更小参数或量化版本，直到找到最佳适配",
-        "全面适配主流本地运行与推理生态，直接支持 Ollama、llama.cpp、MLX 以及 LM Studio"
+        "推演显示，若Anthropic成功颠覆核心软件公司并打开新药发现市场，其估值有望达到5万亿至15万亿美元，带来潜在10倍回报",
+        "天量算力采购承诺、骤然加剧的行业内卷，以及任何营收增长放缓的信号，都可能让公司遭遇严重生存危机",
+        "Camillo表示目前通过第一大持仓亚马逊已持有充足的间接敞口，在Anthropic于应用层自证商业实力之前，绝不急于直接下注买入"
       ],
       "quote": {
-        "who": "0xMarioNawfal",
+        "who": "Evan",
         "role": "",
-        "said": "在下载本地 AI 模型之前，这个免费工具能告诉你你的电脑到底能不能跑。 → 检查你的 CPU、GPU、RAM 和 VRAM → 根据是否适配、运行速度、质量和上下文长度对模型进行排名 → 太大？它会逐步降级到更小的版本，直到找到一个合适的 → 支持 Ollama、llama.cpp、MLX 和 LM Studio GitHub 32K+ stars，开源。"
+        "said": "CHRIS CAMILLO 认为 Anthropic 可能成为一家价值 15 万亿美元的公司，或者几乎被彻底抹去 以下是 Chris Camillo 关于投资 Anthropic 的潜在上行空间和风险的说法： - 如果 Anthropic 取代了主要软件公司并开始发现新药，存在一种情景使其估值达到 5000 亿至 1.5 万亿美元，可能带来 10 倍回报 - 巨大的算力承诺、加剧的竞争以及任何收入增长放缓都可能使公司…"
       },
       "tag": null,
       "story": null,
       "url": null,
       "column_url": "https://www.aiera.com.cn/#secBaodian",
       "rank": 16,
-      "line": "[榜第16位 · 4.0万 · 产品与生态] 狂揽3.2万星！本地大模型能不能跑，开源神器先帮你验机"
+      "line": "[榜第16位 · 2.8万 · 资本与算力] 狂赚10倍还是直接归零？投资人推演Anthropic：要么冲到15万亿，要么出局"
     }
   ],
   "board_count": 16,
